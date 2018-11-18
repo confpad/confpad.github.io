@@ -20,7 +20,7 @@
 
 ## TODO
 
+* Show day and location for individual talks
 * Add tests
 * Add CI
 * Make it PWA
-* Make it work in Firefox
