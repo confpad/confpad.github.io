@@ -23,3 +23,4 @@
 * Add tests
 * Add CI
 * Make it PWA
+* Make it work in Firefox
