@@ -2,6 +2,8 @@
   {
     "title":"2018 - The Year of Web Components",
     "type": "presentation",
+    "day": 0,
+    "location": "Room Europa",
     "author": {
       "name": "Dominik Kundel",
       "twitter": "dkundel",
@@ -14,6 +16,8 @@
   {
     "title":"The Lonely and Dark Road to Styling in React",
     "type": "presentation",
+    "day": 0,
+    "location": "Room Europa",
     "author": {
       "name": "Sara Vieira",
       "twitter": "NikkitaFTW",
@@ -26,6 +30,8 @@
   {
     "title":"Next Generation Forms with React Final Form",
     "type": "presentation",
+    "day": 0,
+    "location": "Room Europa",
     "author": {
       "name": "Erik Rasmussen",
       "twitter": "erikras",
@@ -38,6 +44,8 @@
   {
     "title":"The ABC of Coded Style Guides",
     "type": "presentation",
+    "day": 0,
+    "location": "Room Europa",
     "author": {
       "name": "Henning Muszynski",
       "twitter": "henningmus",
@@ -50,6 +58,8 @@
   {
     "title":"Testing, Testing, 1, 2, NaN",
     "type": "presentation",
+    "day": 0,
+    "location": "Room Europa",
     "author": {
       "name": "Gant Laborde",
       "twitter": "GantLaborde",
@@ -62,6 +72,8 @@
   {
     "title":"Lambdas, lambdas everywhere...",
     "type": "lightning",
+    "day": 0,
+    "location": "Room Europa",
     "author": {
       "name": "Flavio Corpa",
       "twitter": "FlavioCorpa",
@@ -74,6 +86,8 @@
   {
     "title":"Building a Chrome extension with React",
     "type": "lightning",
+    "day": 0,
+    "location": "Room Europa",
     "author": {
       "name": "Olena Sovyn",
       "twitter": "frontendgirl",
@@ -86,6 +100,8 @@
   {
     "title":"Modeling errors in Now CLI",
     "type": "lightning",
+    "day": 0,
+    "location": "Room Europa",
     "author": {
       "name": "Javi Velasco",
       "twitter": "javivelasco",
@@ -98,6 +114,8 @@
   {
     "title":"Journey through VR and AR with React",
     "type": "presentation",
+    "day": 0,
+    "location": "Room Europa",
     "author": {
       "name": "Tomasz Lakomy",
       "twitter": "tlakomy",
@@ -110,6 +128,8 @@
   {
     "title":"The new era of zero-config tools",
     "type": "presentation",
+    "day": 0,
+    "location": "Room Europa",
     "author": {
       "name": "Alex Jover",
       "twitter": "alexjoverm",
@@ -122,6 +142,8 @@
   {
     "title":"Help! My React app is slowwwww!",
     "type": "presentation",
+    "day": 0,
+    "location": "Room Europa",
     "author": {
       "name": "Ben Ilegbodu",
       "twitter": "benmvp",
@@ -134,6 +156,8 @@
   {
     "title":"Pushing React Native outside the comfort zone",
     "type": "presentation",
+    "day": 0,
+    "location": "Room Europa",
     "author": {
       "name": "Raúl Gómez",
       "twitter": "rgommezz",
@@ -146,6 +170,8 @@
   {
     "title":"Components, patterns and sh.t it’s hard to deal with",
     "type": "presentation",
+    "day": 1,
+    "location": "Room Europa",
     "author": {
       "name": "Marco Cedaro",
       "twitter": "cedmax",
@@ -158,6 +184,8 @@
   {
     "title":"GraphQL Boilerplates",
     "type": "presentation",
+    "day": 1,
+    "location": "Room Europa",
     "author": {
       "name": "Manjula Dube",
       "twitter": "manjula_dube",
@@ -170,6 +198,8 @@
   {
     "title":"Taming Forms in React",
     "type": "presentation",
+    "day": 1,
+    "location": "Room Europa",
     "author": {
       "name": "Jared Palmer",
       "twitter": "jaredpalmer",
@@ -182,6 +212,8 @@
   {
     "title":"Mobile navigation",
     "type": "presentation",
+    "day": 1,
+    "location": "Room Europa",
     "author": {
       "name": "Brent Vatne",
       "twitter": "notbrent",
@@ -194,6 +226,8 @@
   {
     "title":"Motion in React",
     "type": "presentation",
+    "day": 1,
+    "location": "Room Europa",
     "author": {
       "name": "Kaylie Kwon",
       "twitter": "kaylie_alexa",
@@ -206,6 +240,8 @@
   {
     "title":"Better ReasonML Integration in Flow & TypeScript Codebases",
     "type": "lightning",
+    "day": 1,
+    "location": "Room Europa",
     "author": {
       "name": "Patrick Stapfer",
       "twitter": "ryyppy",
@@ -218,6 +254,8 @@
   {
     "title":"Powering Code Reuse with Context and Render Props",
     "type": "presentation",
+    "day": 1,
+    "location": "Room Europa",
     "author": {
       "name": "Forbes Lindesay",
       "twitter": "ForbesLindesay",
@@ -230,6 +268,8 @@
   {
     "title":"React Native: The dark side of Background tasks",
     "type": "presentation",
+    "day": 1,
+    "location": "Room Europa",
     "author": {
       "name": "Ferran Negre",
       "twitter": "ferrannp",
@@ -242,6 +282,8 @@
   {
     "title":"An unknown land of creating libraries",
     "type": "presentation",
+    "day": 1,
+    "location": "Room Europa",
     "author": {
       "name": "Kamlesh Chandnani",
       "twitter": "_kamlesh_",
@@ -254,6 +296,8 @@
   {
     "title":"Navigating the hype-driven frontend development world without going insane",
     "type": "presentation",
+    "day": 1,
+    "location": "Room Europa",
     "author": {
       "name": "Kristijan Ristovski",
       "twitter": "thekitze",
