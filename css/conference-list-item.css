@@ -3,7 +3,15 @@
 .conference-list-item__infoline {}
 
 .conference-list-item__infoline > * {
-  padding-right: 1em;
+  display: inline-block;
+  margin-right: 1em;
+}
+
+@media screen and (max-width: 768px) {
+  .conference-list-item__infoline > * {
+    width: 100%;
+    margin-right: 0;
+  }
 }
 
 .conference-list-item__description {

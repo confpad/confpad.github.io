@@ -9,4 +9,5 @@
 .wrapper {
   max-width: 60em;
   margin: auto;
+  padding: .5em 1em;
 }
