@@ -17,14 +17,15 @@ const getLink = url => {
     {
       href: url,
       target: '_blank',
+      class: 'conference-list-item__wrapper',
     },
     `🔗 ${url}`
   );
 };
 
-const getDate = (from, to) => h('span', {}, `📅 ${from} - ${to}`);
+const getDate = (from, to) => h('span', { class: 'conference-list-item__wrapper' }, `📅 ${from} - ${to}`);
 
-const getLocation = location => h('span', {}, `🌎 ${Object.values(location).join(', ')}`);
+const getLocation = location => h('span', { class: 'conference-list-item__wrapper' }, `🌎 ${Object.values(location).join(', ')}`);
 
 const getDescription = description => h('div', { class: 'conference-list-item__description' }, description);
 

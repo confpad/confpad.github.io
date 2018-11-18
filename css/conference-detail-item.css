@@ -8,23 +8,17 @@
 }
 
 .conference-detail-item__author > * {
-  display: inline-block;
   margin-right: 1em;
-}
-
-@media screen and (max-width: 768px) {
-  .conference-detail-item__author > * {
-    width: 100%;
-    margin-right: 0;
-  }
 }
 
 .conference-detail-item__description {
   color: #808080;
 }
 
-.conference-detail-item__url-wrapper {
+.conference-detail-item__wrapper {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  display: inline-block;
+  max-width: 100%;
 }

@@ -14,10 +14,10 @@ const getTitle = (title, type) => h('h3', { class: 'conference-detail-item__titl
   title,
 ]);
 
-const getAuthorName = author => author.name && h('span', {}, `👤 ${author.name}`);
+const getAuthorName = author => author.name && h('span', { class: 'conference-detail-item__wrapper' }, `👤 ${author.name}`);
 
 const getAuthorTwitter = author => {
-  return author.twitter && h('span', { class: 'conference-detail-item__url-wrapper' },
+  return author.twitter && h('span', { class: 'conference-detail-item__wrapper' },
     [
       'Twitter: ',
       h('a',
@@ -32,7 +32,7 @@ const getAuthorTwitter = author => {
 };
 
 const getAuthorGithub = author => {
-  return author.github && h('span', { class: 'conference-detail-item__url-wrapper' },
+  return author.github && h('span', { class: 'conference-detail-item__wrapper' },
     [
       'GitHub: ',
       h('a',
@@ -46,7 +46,7 @@ const getAuthorGithub = author => {
   )
 };
 
-const getVideo = video => h('p', { class: 'conference-detail-item__url-wrapper' },
+const getVideo = video => h('p', { class: 'conference-detail-item__wrapper' },
   [
     `📹 Video: `,
     h('a',
@@ -59,7 +59,7 @@ const getVideo = video => h('p', { class: 'conference-detail-item__url-wrapper' 
   ]
 );
 
-const getSlides = slides => h('p', { class: 'conference-detail-item__url-wrapper' },
+const getSlides = slides => h('p', { class: 'conference-detail-item__wrapper' },
   [
     `📝 Slides: `,
     h('a',

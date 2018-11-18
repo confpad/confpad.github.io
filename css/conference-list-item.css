@@ -3,15 +3,7 @@
 .conference-list-item__infoline {}
 
 .conference-list-item__infoline > * {
-  display: inline-block;
   margin-right: 1em;
-}
-
-@media screen and (max-width: 768px) {
-  .conference-list-item__infoline > * {
-    width: 100%;
-    margin-right: 0;
-  }
 }
 
 .conference-list-item__description {
@@ -20,4 +12,12 @@
 
 .conference-list-item__separator {
   color: #808080;
+}
+
+.conference-list-item__wrapper {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  display: inline-block;
+  max-width: 100%;
 }
