@@ -20,4 +20,6 @@
 
 ## TODO
 
+* Add tests
+* Add CI
 * Make it PWA
