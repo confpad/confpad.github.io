@@ -22,3 +22,9 @@
 .conference-detail-item__description {
   color: #808080;
 }
+
+.conference-detail-item__url-wrapper {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
