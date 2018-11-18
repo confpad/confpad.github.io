@@ -1,0 +1,12 @@
+@import "./reset.css";
+@import "./header.css";
+@import "./loading-spinner.css";
+@import "./conference-list-item.css";
+@import "./conference-detail.css";
+@import "./conference-detail-item.css";
+@import "./footer.css";
+
+.wrapper {
+  max-width: 60em;
+  margin: auto;
+}

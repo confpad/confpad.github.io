@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2018-09-13-react-alicante-2018",
+    "name": "React Alicante 2018",
+    "url": "http://reactalicante.es/",
+    "date": {
+      "from": "2018-09-13",
+      "to": "2018-09-15"
+    },
+    "location": {
+      "country": "Spain",
+      "city": "Alicante"
+    },
+    "description": "Do you want to learn about React and React Native? Then you shouldn't miss React Alicante next September! You will have the opportunity to improve your developer skills and meet people from around the world, while enjoying the food and warm weather from the southeast coast of Spain."
+  }
+]

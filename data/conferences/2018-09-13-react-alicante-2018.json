@@ -1,0 +1,266 @@
+[
+  {
+    "title":"2018 - The Year of Web Components",
+    "type": "presentation",
+    "author": {
+      "name": "Dominik Kundel",
+      "twitter": "dkundel",
+      "github": "kundel"
+    },
+    "video": "https://www.youtube.com/watch?v=XccElbMiWto",
+    "slides": "https://speakerdeck.com/dkundel/react-alicante-18-2018-the-year-of-web-components",
+    "description": "Components are hot. Every view library or framework seems to be based on components these days. But when you write your React component you can't share it with an Angular developer. Your Vue components can't be used in Preact. The result: fragmentation. The cost: reinventing the wheel for every library. We've had the answer for years, though. Web components are the standards based solution, but they've never seemed ready for the big time. Until now. In this talk we'll look at why 2018 is finally the year of web components, the tools and libraries that we can use to build with web components and how you can get started building shareable, compatible, standards based components."
+  },
+  {
+    "title":"The Lonely and Dark Road to Styling in React",
+    "type": "presentation",
+    "author": {
+      "name": "Sara Vieira",
+      "twitter": "NikkitaFTW",
+      "github": "SaraVieira"
+    },
+    "video": "https://www.youtube.com/watch?v=zsU3l3IB3bE",
+    "slides": "https://dark-css.now.sh",
+    "description": "CSS is hard !I made a living out of it being hard but when React was introduced we had a whole new level of fighting over CSS, there are so many ways to approach it and so many tradeoffs one can do when choosing the better approach that a talk that will go over these options is more than necessary. Let's walk this road thogheter and I promise it will all be fine and you will leave with an ideia of type of styling is better for each project. Hint: There is no perfect way ...."
+  },
+  {
+    "title":"Next Generation Forms with React Final Form",
+    "type": "presentation",
+    "author": {
+      "name": "Erik Rasmussen",
+      "twitter": "erikras",
+      "github": "erikras"
+    },
+    "video": "https://www.youtube.com/watch?v=WoSzy-4mviQ",
+    "slides": "https://speakerdeck.com/erikras/next-generation-forms-with-react-final-form",
+    "description": "This past year, I released React Final Form, a next generation form library for React, based on everything I had learned from managing React's most popular form library, Redux Form. My talk will explain the decisions made in designing this new library as well as an explanation of how to build some common types of forms."
+  },
+  {
+    "title":"The ABC of Coded Style Guides",
+    "type": "presentation",
+    "author": {
+      "name": "Henning Muszynski",
+      "twitter": "henningmus",
+      "github": "henningmu"
+    },
+    "video": "https://www.youtube.com/watch?v=WA0Ki1sdSlk",
+    "slides": "",
+    "description": "Teams today are facing similar problems: How do we encourage the reuse of existing components? How do we raise awareness for them? How do we keep them stable while keeping maintenance efforts low? How do we ensure a coherent branding without exploiting our designers? If you are worried by these questions fear no longer. I aim to show you a way out of this self-made jungle into a brighter world of coded style guides. We will explore together how we can tear down walls between design and development and how everyone can benefit from introducing living component directories into their project."
+  },
+  {
+    "title":"Testing, Testing, 1, 2, NaN",
+    "type": "presentation",
+    "author": {
+      "name": "Gant Laborde",
+      "twitter": "GantLaborde",
+      "github": "gantman"
+    },
+    "video": "https://www.youtube.com/watch?v=WId8uq1FFEU",
+    "slides": "https://slides.com/gantlaborde/testing-talk",
+    "description": "Santa Clause, The Free Lunch, and JS Testing - All myths? We all know Testing is key, but it's not easy. What are your options, what exists, and what works? Let's talk about it all. What tools exist, and what matters in testing React and React Native."
+  },
+  {
+    "title":"Lambdas, lambdas everywhere...",
+    "type": "lightning",
+    "author": {
+      "name": "Flavio Corpa",
+      "twitter": "FlavioCorpa",
+      "github": "kutyel"
+    },
+    "video": "https://www.youtube.com/watch?v=VMH5fEg1NXQ",
+    "slides": "https://lambdas-everywhere.now.sh/",
+    "description": ""
+  },
+  {
+    "title":"Building a Chrome extension with React",
+    "type": "lightning",
+    "author": {
+      "name": "Olena Sovyn",
+      "twitter": "frontendgirl",
+      "github": "Kiwka"
+    },
+    "video": "https://www.youtube.com/watch?v=TIfKblsKq0c",
+    "slides": "https://speakerdeck.com/kiwka/building-a-chrome-extension-with-react",
+    "description": ""
+  },
+  {
+    "title":"Modeling errors in Now CLI",
+    "type": "lightning",
+    "author": {
+      "name": "Javi Velasco",
+      "twitter": "javivelasco",
+      "github": "javivelasco"
+    },
+    "video": "https://www.youtube.com/watch?v=LSGseAojiZk",
+    "slides": "",
+    "description": ""
+  },
+  {
+    "title":"Journey through VR and AR with React",
+    "type": "presentation",
+    "author": {
+      "name": "Tomasz Lakomy",
+      "twitter": "tlakomy",
+      "github": "tlakomy"
+    },
+    "video": "https://www.youtube.com/watch?v=p_64YMcLuN0",
+    "slides": "https://tlakomy.github.io/react-alicante/",
+    "description": "It's time to leave the 2D world of a browser window and venture into the world of enhanced reality JavaScript applications. During the talk we'll see how to make great VR and AR experiences using just your browser and a bit of React, with live demos included, so we'll get to see them in action!"
+  },
+  {
+    "title":"The new era of zero-config tools",
+    "type": "presentation",
+    "author": {
+      "name": "Alex Jover",
+      "twitter": "alexjoverm",
+      "github": "alexjoverm"
+    },
+    "video": "https://www.youtube.com/watch?v=Zh8BAD418fI",
+    "slides": "https://docs.google.com/presentation/d/1gl-wzzYXVYXP5KDMyg22YdXmBbucj6P92lV6MnYgs34",
+    "description": "We come from a time where javascript was kept in different files, loading them in the right order in the html. Module loaders came to life, RequireJS and Browserify being the first of them. Webpack and Rollup followed them, which are truly amazing. But... have you ever configured them for a real-world app? New tools started to appear tagged as zero-config tools: Parcel, Poi, Microbundle, Rollit... What's the deal with this zero-config trend? This talk dives deep in this zero-config evolution, explaining its reasons and benefits."
+  },
+  {
+    "title":"Help! My React app is slowwwww!",
+    "type": "presentation",
+    "author": {
+      "name": "Ben Ilegbodu",
+      "twitter": "benmvp",
+      "github": "benmvp"
+    },
+    "video": "https://www.youtube.com/watch?v=LBzJFcZsPBQ",
+    "slides": "http://www.benmvp.com/slides/2018/reactalicante/react-perf.html",
+    "description": "React’s sophisticated reconciler (aka the “Virtual DOM”) makes updates to the UI feel fast because it optimizes interactions with the DOM. As a result, we no longer have to worry about how to transition our UI from one state to the next. However, the reconciler is not a silver bullet; even the new Fiber Reconciler. Our React apps can still get sluggish, especially as they grow in size and data. Let’s discuss some causes for slow-downs and tools to diagnose problems so that we can speed up our apps."
+  },
+  {
+    "title":"Pushing React Native outside the comfort zone",
+    "type": "presentation",
+    "author": {
+      "name": "Raúl Gómez",
+      "twitter": "rgommezz",
+      "github": "rgommezz"
+    },
+    "video": "https://www.youtube.com/watch?v=P9Qn8nb6jf8",
+    "slides": "https://speakerdeck.com/rgommezz/pushing-react-native-outside-the-comfort-zone",
+    "description": "In this talk, we'll go through the journey of building a fully fledged Music Player using React Native. Given the player specifications, we were challenged to prove that React Native has no limits when it comes to build mobile applications, no matter how complex they are and having performance and cross-platform in mind. We’ll break down the player architecture, covering the different approaches to the problem (Declarative vs Imperative), as well as unveiling all the player elements in a top-down fashion, starting with the music service and the score visualisation and moving further along to smaller pieces such as time progress, progress bar, seeking and replay."
+  },
+  {
+    "title":"Components, patterns and sh.t it’s hard to deal with",
+    "type": "presentation",
+    "author": {
+      "name": "Marco Cedaro",
+      "twitter": "cedmax",
+      "github": "cedmax"
+    },
+    "video": "https://www.youtube.com/watch?v=CQA6bUS9zaI",
+    "slides": "https://noti.st/cedmax/JwtWgq/components-patterns-and-sh-t-it-s-hard-to-deal-with",
+    "description": "This talk will cover one of the open questions of modern development: when a pattern is a pattern? how do we reuse one in a slightly different use case? Not a recipe for success, more of a way to frame the problem, identify some ideas we tried and rediscuss the way we approach componentisation"
+  },
+  {
+    "title":"GraphQL Boilerplates",
+    "type": "presentation",
+    "author": {
+      "name": "Manjula Dube",
+      "twitter": "manjula_dube",
+      "github": "manjula91"
+    },
+    "video": "https://www.youtube.com/watch?v=AJzt-a2rtAE",
+    "slides": "https://docs.google.com/presentation/d/e/2PACX-1vTRuwWe1tparEPAr8Ttua1dyJfmaGt0tgQzXv2B2ejIuvf1HaZh67HYO_BPtn4asPKZubQwbs84snDW/pub?slide=id.g40d1b26cd3_1_466",
+    "description": "When starting out with a new project, people wonder what their stack should look like, what frameworks to use, what are best practices, etc. *That’s* exactly the problem we’re tackling with the GraphQL boilerplates we are building at Graphcool where Frontend can be React, React Native."
+  },
+  {
+    "title":"Taming Forms in React",
+    "type": "presentation",
+    "author": {
+      "name": "Jared Palmer",
+      "twitter": "jaredpalmer",
+      "github": "jaredpalmer"
+    },
+    "video": "https://www.youtube.com/watch?v=oiNtnehlaTo",
+    "slides": "https://formik-alicante.now.sh/",
+    "description": "In this talk, we're going deep on forms in React. I'll explore managing validation, error messages, and working with 3rd-party inputs and introduce you to Formik, a tiny form helper that lets you do all the fun stuff I just mentioned and more."
+  },
+  {
+    "title":"Mobile navigation",
+    "type": "presentation",
+    "author": {
+      "name": "Brent Vatne",
+      "twitter": "notbrent",
+      "github": "brentvatne"
+    },
+    "video": "https://www.youtube.com/watch?v=GBhdooVxX6Q",
+    "slides": "http://url.brentvatne.ca/ynlKqu",
+    "description": "I work on React Navigation, one of the most widely used React Native packages and one that tackles a problem that is central to all apps - navigating between different screens. It sounds simple when phrased like that, but it is deceptively complicated"
+  },
+  {
+    "title":"Motion in React",
+    "type": "presentation",
+    "author": {
+      "name": "Kaylie Kwon",
+      "twitter": "kaylie_alexa",
+      "github": "kaylieEB"
+    },
+    "video": "https://www.youtube.com/watch?v=TbvsaQksJ2k",
+    "slides": "",
+    "description": "You may have heard of CSS in JS, but what alternatives are there for implementing interactive motions in JS? This talk will be a comparison of several approaches from using vanilla Javascript to libraries like Popmotion, as well as ones in React ecosystem"
+  },
+  {
+    "title":"Better ReasonML Integration in Flow & TypeScript Codebases",
+    "type": "lightning",
+    "author": {
+      "name": "Patrick Stapfer",
+      "twitter": "ryyppy",
+      "github": "ryyppy"
+    },
+    "video": "",
+    "slides": "https://speakerdeck.com/ryyppy/better-reasonml-integration-in-flow-and-typescript-codebases",
+    "description": ""
+  },
+  {
+    "title":"Powering Code Reuse with Context and Render Props",
+    "type": "presentation",
+    "author": {
+      "name": "Forbes Lindesay",
+      "twitter": "ForbesLindesay",
+        "github": "ForbesLindesay"
+    },
+    "video": "https://www.youtube.com/watch?v=QhJLosk1Tw0",
+    "slides": "https://gist.github.com/aarongarciah/97f3f592320ae521bbe29cde55cffc79",
+    "description": "React's context API has always been labelled as experimental, but from the advent of Redux it has been used in all the most exciting react libraries. It's about to become a stabilised feature so now is the perfect time to learn the new context API."
+  },
+  {
+    "title":"React Native: The dark side of Background tasks",
+    "type": "presentation",
+    "author": {
+      "name": "Ferran Negre",
+      "twitter": "ferrannp",
+      "github": "ferrannp"
+    },
+    "video": "https://www.youtube.com/watch?v=8MBQr9cSdHc",
+    "slides": "https://speakerdeck.com/ferrannp/the-dark-side-of-background-tasks-in-react-native-react-alicante-2018",
+    "description": "In this talk we are going to explore how to manage background tasks within your React Native application. Background tasks are essentially tasks that run when the app is not in the foreground (visible)."
+  },
+  {
+    "title":"An unknown land of creating libraries",
+    "type": "presentation",
+    "author": {
+      "name": "Kamlesh Chandnani",
+      "twitter": "_kamlesh_",
+      "github": "kamleshchandnani"
+    },
+    "video": "https://www.youtube.com/watch?v=gyYqwFYz3vE",
+    "slides": "https://speakerdeck.com/kamleshchandnani/an-unknown-land-of-creating-libraries",
+    "description": "My day job is to design and architect projects at my workplace and soon I realized that there were many common modules required across projects and I always end up copy-pasting those modules to newer as well as existing projects over and over again."
+  },
+  {
+    "title":"Navigating the hype-driven frontend development world without going insane",
+    "type": "presentation",
+    "author": {
+      "name": "Kristijan Ristovski",
+      "twitter": "thekitze",
+      "github": "kitze"
+    },
+    "video": "https://www.youtube.com/watch?v=_kVxXV0TQ7M&list=PLd7nkr8mN0sVTbT644oHYDfWF6G0GwhiX&index=23&t=0s",
+    "slides": "",
+    "description": "The obsession to always move on to the latest and greatest, and the fear of missing out while working with something that's older than few months is currently dominating the dev world. In my previous talks, I always included a short bit about this topic,"
+  }
+]
