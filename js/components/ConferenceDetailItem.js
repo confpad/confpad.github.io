@@ -79,15 +79,17 @@ const ConferenceDetailItem = (props) => {
     h('div', { class: 'conference-detail-item' },
       [
         getTitle(props.title, props.type),
-        h('p', { class: 'conference-detail-item__author' },
-          props.author && [
-            getAuthorName(props.author),
-            getAuthorTwitter(props.author),
-            getAuthorGithub(props.author),
-          ],
+        props.authors && props.authors.map(
+          author => h('p', { class: 'conference-detail-item__author' },
+            [
+              getAuthorName(author),
+              getAuthorTwitter(author),
+              getAuthorGithub(author),
+            ],
+          )
         ),
-        props.video && getVideo(props.video),
-        props.slides && getSlides(props.slides),
+        props.videos && props.videos.map(video => getVideo(video)),
+        props.slides && props.slides.map(slides => getSlides(slides)),
         props.description && getDescription(props.description),
       ]
     )
