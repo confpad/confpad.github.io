@@ -12,5 +12,19 @@
       "city": "Alicante"
     },
     "description": "Do you want to learn about React and React Native? Then you shouldn't miss React Alicante next September! You will have the opportunity to improve your developer skills and meet people from around the world, while enjoying the food and warm weather from the southeast coast of Spain."
+  },
+  {
+    "id": "2018-10-25-react-conf-2018",
+    "name": "React Conf 2018",
+    "url": "https://conf.reactjs.org/",
+    "date": {
+      "from": "2018-10-24",
+      "to": "2018-10-26"
+    },
+    "location": {
+      "country": "USA",
+      "city": "Henderson, NV"
+    },
+    "description": "React Conf 2018 is the official Facebook React event. This year's event will be held in Henderson, Nevada."
   }
 ]
