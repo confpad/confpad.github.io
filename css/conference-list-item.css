@@ -4,6 +4,13 @@
 
 .conference-list-item__infoline > * {
   margin-right: 1em;
+  display: inline-block;
+}
+
+@media screen and (max-width: 768px) {
+  .conference-list-item__infoline > * {
+    width: 100%;
+  }
 }
 
 .conference-list-item__description {
@@ -18,6 +25,5 @@
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  display: inline-block;
   max-width: 100%;
 }

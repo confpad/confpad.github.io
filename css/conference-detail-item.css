@@ -9,6 +9,13 @@
 
 .conference-detail-item__author > * {
   margin-right: 1em;
+  display: inline-block;
+}
+
+@media screen and (max-width: 768px) {
+  .conference-detail-item__author > * {
+    width: 100%;
+  }
 }
 
 .conference-detail-item__description {
@@ -19,6 +26,5 @@
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  display: inline-block;
   max-width: 100%;
 }
