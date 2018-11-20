@@ -23,7 +23,7 @@ const getLink = url => {
   );
 };
 
-const getDate = (from, to) => h('span', { class: 'conference-list-item__wrapper' }, `📅 ${from} - ${to}`);
+const getDate = (from, to) => h('span', { class: 'conference-list-item__wrapper' }, `📅 ${from.toISOString().split('T')[0]} - ${to.toISOString().split('T')[0]}`);
 
 const getLocation = location => h('span', { class: 'conference-list-item__wrapper' }, `🌎 ${Object.values(location).join(', ')}`);
 
