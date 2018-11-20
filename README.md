@@ -3,11 +3,11 @@
 ## How to add a conference
 
 1. Fork project to your account
-2. Add conference metadata into `data/conferences.json`
+2. Add conference metadata into `data/conferences.yaml`
    * Conference ID must be in format `yyyy-mm-dd-conference-name`
      * `yyyy-mm-dd`: ISO date of the first day of the conference
      * `conference-name`: conference name slug (React Alicante 2018 > react-alicante-2018)
-3. Create a new file `data/conferences/yyyy-mm-dd-conference-name.json`
+3. Create a new file `data/conferences/yyyy-mm-dd-conference-name.yaml`
 4. Commit changes and submit a pull request
 
 
