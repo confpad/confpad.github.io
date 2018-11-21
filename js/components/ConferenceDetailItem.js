@@ -2,7 +2,7 @@ const { h } = window.preact;
 
 const getTypeEmoji = (type) => {
   switch (type) {
-    case 'presentation':
+    case 'regular':
       return h('span', { title: 'regular talk' }, '🎤 ');
     case 'lightning':
       return h('span', { title: 'lightning talk' }, '⚡️ ');

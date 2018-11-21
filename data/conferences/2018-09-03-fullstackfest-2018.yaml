@@ -1,7 +1,7 @@
 ---
 
 - title: Reinvent the social web
-  type: presentation
+  type: regular
   day: 2018-09-03
   location:
   authors:
@@ -15,7 +15,7 @@
   description: |-
 
 - title: Open Gateway - Decentralized IoT
-  type: presentation
+  type: regular
   day: 2018-09-03
   location:
   authors:
@@ -30,7 +30,7 @@
 
 - title: Build and deploy a Blockchain web-app with Hyperledger Fabric and Hyperledger
     Composer
-  type: presentation
+  type: regular
   day: 2018-09-03
   location:
   authors:
@@ -44,7 +44,7 @@
   description: |-
 
 - title: 'A Game of Theories: Why languages do what they do '
-  type: presentation
+  type: regular
   day: 2018-09-03
   location:
   authors:
@@ -58,7 +58,7 @@
   description: |-
 
 - title: The Future of ChatBots in the Travel Industry
-  type: presentation
+  type: regular
   day: 2018-09-03
   location:
   authors:
@@ -72,7 +72,7 @@
   description: |-
 
 - title: Avoiding Digital Bias
-  type: presentation
+  type: regular
   day: 2018-09-03
   location:
   authors:
@@ -86,7 +86,7 @@
   description: |-
 
 - title: Everything I always wanted to know about crypto, but never thought I'd understand
-  type: presentation
+  type: regular
   day: 2018-09-03
   location:
   authors:
@@ -101,7 +101,7 @@
 
 - title: 'Onion adventures: how to use onion services and the Tor network in your
     web endeavors'
-  type: presentation
+  type: regular
   day: 2018-09-03
   location:
   authors:
@@ -115,7 +115,7 @@
   description: |-
 
 - title: 'Observability for Emerging Infra: What Got You Here Won''t Get You There'
-  type: presentation
+  type: regular
   day: 2018-09-04
   location:
   authors:
@@ -129,7 +129,7 @@
   description: |-
 
 - title: Do you need a Service Mesh?
-  type: presentation
+  type: regular
   day: 2018-09-04
   location:
   authors:
@@ -143,7 +143,7 @@
   description: |-
 
 - title: HTTP and JSON for your gRPC Services
-  type: presentation
+  type: regular
   day: 2018-09-04
   location:
   authors:
@@ -157,7 +157,7 @@
   description: |-
 
 - title: Software Engineering - A philosophical activity
-  type: presentation
+  type: regular
   day: 2018-09-04
   location:
   authors:
@@ -171,7 +171,7 @@
   description: |-
 
 - title: Take a (Client) Hint!
-  type: presentation
+  type: regular
   day: 2018-09-04
   location:
   authors:
@@ -185,7 +185,7 @@
   description: |-
 
 - title: Lost in transaction? Strategies to deal with (in-)consistency in distributed systems
-  type: presentation
+  type: regular
   day: 2018-09-04
   location:
   authors:
@@ -209,7 +209,7 @@
   description: |-
 
 - title: Cats, The Musical! Algorithmic Song Meow-ification
-  type: presentation
+  type: regular
   day: 2018-09-04
   location:
   authors:
@@ -223,7 +223,7 @@
   description: |-
 
 - title: Building peer-to-peer apps with the Beaker Browser
-  type: presentation
+  type: regular
   day: 2018-09-06
   location:
   authors:
@@ -237,7 +237,7 @@
   description: |-
 
 - title: To push, or not to push?! - The future of HTTP/2 server push
-  type: presentation
+  type: regular
   day: 2018-09-06
   location:
   authors:
@@ -251,7 +251,7 @@
   description: |-
 
 - title: The Future of Front-End Performance
-  type: presentation
+  type: regular
   day: 2018-09-06
   location:
   authors:
@@ -265,7 +265,7 @@
   description: |-
 
 - title: Native JavaScript modules- import {Browsers, NodeJs}; export {production};
-  type: presentation
+  type: regular
   day: 2018-09-06
   location:
   authors:
@@ -279,7 +279,7 @@
   description: |-
 
 - title: Unity + HTML5 = Isomorphic Game Engine?
-  type: presentation
+  type: regular
   day: 2018-09-06
   location:
   authors:
@@ -293,7 +293,7 @@
   description: |-
 
 - title: State of the Art Web User Interfaces with State Machines
-  type: presentation
+  type: regular
   day: 2018-09-06
   location:
   authors:
@@ -307,7 +307,7 @@
   description: |-
 
 - title: A Front-end dev's hobbyist approach into Machine Learning
-  type: presentation
+  type: regular
   day: 2018-09-06
   location:
   authors:
@@ -321,7 +321,7 @@
   description: |-
 
 - title: Building a Modern Memex
-  type: presentation
+  type: regular
   day: 2018-09-06
   location:
   authors:
@@ -335,7 +335,7 @@
   description: |-
 
 - title: Accessibility vs latest Web APIs. Can’t we just get along?
-  type: presentation
+  type: regular
   day: 2018-09-07
   location:
   authors:
@@ -349,7 +349,7 @@
   description: |-
 
 - title: The Web Authentication API - Imagine a World Without Passwords
-  type: presentation
+  type: regular
   day: 2018-09-07
   location:
   authors:
@@ -363,7 +363,7 @@
   description: |-
 
 - title: 'Killing the checkout or: How I learned to stop worrying and love Payment Request'
-  type: presentation
+  type: regular
   day: 2018-09-07
   location:
   authors:
@@ -377,7 +377,7 @@
   description: |-
 
 - title: A Real World PWA
-  type: presentation
+  type: regular
   day: 2018-09-07
   location:
   authors:
@@ -391,7 +391,7 @@
   description: |-
 
 - title: Purifying Typescript
-  type: presentation
+  type: regular
   day: 2018-09-07
   location:
   authors:
@@ -405,7 +405,7 @@
   description: |-
 
 - title: 'Dynamic CSS: Layouts & Beyond'
-  type: presentation
+  type: regular
   day: 2018-09-07
   location:
   authors:
@@ -419,7 +419,7 @@
   description: |-
 
 - title: WebXR, if X = how?
-  type: presentation
+  type: regular
   day: 2018-09-07
   location:
   authors:

@@ -1,7 +1,7 @@
 ---
 
 - title: React Today and Tomorrow
-  type: presentation
+  type: regular
   day: 2018-10-25
   location:
   authors:
@@ -17,7 +17,7 @@
   description: |-
 
 - title: 90% Cleaner React
-  type: presentation
+  type: regular
   day: 2018-10-25
   location:
   authors:
@@ -31,7 +31,7 @@
     We live in a world where our React components and component trees keep getting more complex. Let's look at some ways to do some cleanup and end up with components we can all love.
 
 - title: Building Todo The Game In A Cloud-Only Dev Environment
-  type: presentation
+  type: regular
   day: 2018-10-25
   location:
   authors:
@@ -45,7 +45,7 @@
     In a world where laptops break a lot and we can work from anywhere, it's handy to push a lot of dev work to the cloud.  Using Cloud 9, Firebase, Now, and GitHub, Todo The Game is a React app that amps up the classic Todo demo into an interactive game complete with level editor. With this combo devs can work on the app from anywhere with an internet connection, even a factory Chromebook.
 
 - title: The Path To A Declaratively Animated Future
-  type: presentation
+  type: regular
   day: 2018-10-25
   location:
   authors:
@@ -125,7 +125,7 @@
 
 - title: 'GraphQL without GraphQL - Backend Agnostic GraphQL inspired Queries For
     Colocating Data Requests With Components '
-  type: presentation
+  type: regular
   day: 2018-10-25
   location:
   authors:
@@ -139,7 +139,7 @@
     GraphQL represents a paradigm shift in the way that we think about requesting data on the frontend. GraphQL removes the opaqueness from data requests, what you see is what you get. \n\nWhere does the overall value in GraphQL lie though? The type system is immensely helpful, but what if we make some sacrifices to widen the scope of use cases, would that be possible?\n\nThe answer is yes. We can use the GraphQL query parser, coupled with some other data provided by the user to construct expressive data driven components using any backend utilizing tools that already exist in the GraphQL community.
 
 - title: 'Playing With Polyhedra: Creating Beauty from Obsession'
-  type: presentation
+  type: regular
   day: 2018-10-25
   location:
   authors:
@@ -153,7 +153,7 @@
     The Polyhedra Viewer (polyhedra.tessera.li) is an interactive web app that explores the relationships between convex polyhedra. Users can select operations and watch as shapes expand, twist, and contract according to mathematical rules. Join me on my journey taking my lifelong obsession with these simple shapes into a work that is accessible to students, teachers, and artists. Learn about my inspirations and struggles in using React to create this intricate application and what I learned from working on this solo project.
 
 - title: Developing Immersive cross-platform AR and VR Apps using React-Native
-  type: presentation
+  type: regular
   day: 2018-10-25
   location:
   authors:
@@ -168,7 +168,7 @@
 
 - title: 'Beyond Web-Apps: React, JavaScript and WebAssembly To Port Legacy Native
     Apps'
-  type: presentation
+  type: regular
   day: 2018-10-25
   location:
   authors:
@@ -182,7 +182,7 @@
     Can we create or port an existing native desktop application to a complete "React powered" web-app matching (or even exceeding) the quality of the legacy desktop app? Sounds like a good challenge! \U0001F914 And this is what I decided to do with my game making software.\n\nThis talk will explain all the problems I had and solutions that I used to port my native app written in C++, to a full React + WebAssembly app - while still keeping all existing features! Spoiler alert: At the end, it works
 
 - title: React For Social Change
-  type: presentation
+  type: regular
   day: 2018-10-25
   location:
   authors:
@@ -196,7 +196,7 @@
     8 million man hours are wasted each day by public transit users in Mexico City. We developed a React Native app, powered by a generative AI model, to help users reduce time spent on traffic, and along the way we figured out that GraphQL subscriptions are perfect for this type of ML applications.
 
 - title: Concurrent Rendering in React
-  type: presentation
+  type: regular
   day: 2018-10-26
   location:
   authors:
@@ -212,7 +212,7 @@
   description: |-
 
 - title: Moving To Suspense
-  type: presentation
+  type: regular
   day: 2018-10-26
   location:
   authors:
@@ -226,7 +226,7 @@
     React Suspense is coming! While that's awesome for greenfield apps, most of us will need to incrementally adopt these new features and paradigms. In this talk, I'll discuss how we're incrementally migrating to Suspense--from our overall strategy, preparation, some footguns to avoid, tricks, and gotchas.
 
 - title: SVG illustrations as React Components
-  type: presentation
+  type: regular
   day: 2018-10-26
   location:
   authors:
@@ -240,7 +240,7 @@
     When we develop web and mobile apps, we might need illustrations to handle different scenarios like a 404 error page or an empty state. In this talk, you'll learn how to create and transform SVG illustrations into components that can be easily customizable and reused in different parts of a product. You'll also see how I built React-Kawaii, a library of cute illustrations that are easily customisable.
 
 - title: The Missing Abstraction of Charting
-  type: presentation
+  type: regular
   day: 2018-10-26
   location:
   authors:
@@ -254,7 +254,7 @@
     Charting libraries operate at a high abstraction level, the primary unit of interaction is at the chart level (e.g. BarChart, LineChart). Developers who want to create more custom visualizations usually dive straight into low-level graphics manipulation. In the world of visualization research mark-based visualization systems such as Vega are common, but can be problematic to integrate into applications. In this talk we introduce a grammar-of-graphics based library based on Vega's abstraction, but designed to work well with React and React-Native using a renderless component pattern.
 
 - title: 'Elsa: AI Conversational Agent Aimed At Improving Mental Health For Women'
-  type: presentation
+  type: regular
   day: 2018-10-26
   location:
   authors:
@@ -320,7 +320,7 @@
   description: |-
 
 - title: Block the Main Thread
-  type: presentation
+  type: regular
   day: 2018-10-26
   location:
   authors:
@@ -334,7 +334,7 @@
     Whether it's a mouse click or finger swipe, interaction is a critical part of computing. Touch interactions are especially important on mobile. I will dive into what it takes to make great interactive animations when implementing in either React Native or native iOS, and compare the efforts needed in both. I will also explain a fundamental problem in React Native that makes this difficult: async interaction. We'll look at several solutions to this problem, including animation APIs and writing custom Swift code, while also exploring how the new Fabric architecture might help us.
 
 - title: React Native's New Architecture
-  type: presentation
+  type: regular
   day: 2018-10-26
   location:
   authors:
@@ -348,7 +348,7 @@
     Since announcing React Native almost 4 years ago at React Conf, the framework has been used by many apps deployed in production. At Facebook, React Native powers experiences in Marketplace, Instagram and Oculus. We are now leveraging the lessons learnt over the years to take React Native to the next level. In this talk, we will look at the new ways JavaScript can communicate with the Android/iOS layers, and how this influences the improvements we make to React Native's user interface layer. We will delve into the details of how React Native works closely with the platform APIs to deliver a smooth, native user experience. We will also explore the efforts in the community to make React Native, a slim and “Blazing Fast” framework to develop top class native mobile applications.
 
 - title: Let React speak your language
-  type: presentation
+  type: regular
   day: 2018-10-26
   location:
   authors:
@@ -362,7 +362,7 @@
     Introduction to Lingui project which aims to fill the gaps in the internationalization workflow and provide the best developer experience. It started as a proof of concept how to leverage template literals and JSX for writing messages in ICU MessageFormat syntax using babel macros, but soon it became a viable alternative to react-intl. It also offers an offline compilation of message catalogs to keep the library size small.
 
 - title: React for Designers with FramerX
-  type: presentation
+  type: regular
   day: 2018-10-26
   location:
   authors:
@@ -376,7 +376,7 @@
     How do we bridge Product Design and Engineering? FramerX is tackling this age old problem in a new way with React! It lets designers reuse production React components to design screens, flows, and interactive prototypes. So what? Why should we care? And how do we actually make this work in the real world of deadlines and stuff? In this talk, I will explain what FramerX is, why we should care, and practical ways that we React folks can bring designers with us into our shared React future :D I’ve been eagerly following the Framer team’s progress since I worked with them at Facebook in 2012+
 
 - title: Building A Diverse And Inclusive Community.
-  type: presentation
+  type: regular
   day: 2018-10-26
   location:
   authors:
