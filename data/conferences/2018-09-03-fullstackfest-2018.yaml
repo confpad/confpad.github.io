@@ -1,0 +1,447 @@
+---
+
+- title: Reinvent the social web
+  type: presentation
+  day: 2018-09-03
+  location:
+  authors:
+  - name: André Staltz
+    twitter: andrestaltz
+    github: staltz
+    website: https://staltz.com/
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=8GE5C9-RUpg
+  description: |-
+
+- title: Open Gateway - Decentralized IoT
+  type: presentation
+  day: 2018-09-03
+  location:
+  authors:
+  - name: Kalyan Dikshit
+    twitter: decode_dev
+    github: decode-dev
+    website: https://medium.com/@decode_dev
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=95Un8APgmjg
+  description: |-
+
+- title: Build and deploy a Blockchain web-app with Hyperledger Fabric and Hyperledger
+    Composer
+  type: presentation
+  day: 2018-09-03
+  location:
+  authors:
+  - name: Horea Porutiu
+    twitter: horeaporutiu
+    github: horeaporutiu
+    website: https://medium.com/@horeaporutiu
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=v2WiqQs_JAs
+  description: |-
+
+- title: 'A Game of Theories: Why languages do what they do '
+  type: presentation
+  day: 2018-09-03
+  location:
+  authors:
+  - name: Rae Krantz
+    twitter: rustbeltrae
+    github: krantzinator
+    website: http://rachelkrantz.com
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=82C72atD3Ws
+  description: |-
+
+- title: The Future of ChatBots in the Travel Industry
+  type: presentation
+  day: 2018-09-03
+  location:
+  authors:
+  - name: Prabh Simran Singh Baweja
+    twitter: prabh_baweja
+    github: ''
+    website: https://medium.com/@prabhsimransingh.baweja/floating-point-representation-843587162dc4
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=Ke-uEJJJlzw
+  description: |-
+
+- title: Avoiding Digital Bias
+  type: presentation
+  day: 2018-09-03
+  location:
+  authors:
+  - name: Adam L Smith
+    twitter: adamleonsmith
+    github: adamleonsmith
+    website: https://www.piccadillygroup.com
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=nU3vn1evwYg
+  description: |-
+
+- title: Everything I always wanted to know about crypto, but never thought I'd understand
+  type: presentation
+  day: 2018-09-03
+  location:
+  authors:
+  - name: Sasha Romijn
+    twitter: mxsash
+    github: ''
+    website: https://www.mxsasha.eu/
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=IUONbU3bgh0
+  description: |-
+
+- title: 'Onion adventures: how to use onion services and the Tor network in your
+    web endeavors'
+  type: presentation
+  day: 2018-09-03
+  location:
+  authors:
+  - name: Silvia Puglisi
+    twitter: nopressure
+    github: hiromipaw
+    website: http://www.hiro7.eu
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=yGLYax_2vVg
+  description: |-
+
+- title: 'Observability for Emerging Infra: What Got You Here Won''t Get You There'
+  type: presentation
+  day: 2018-09-04
+  location:
+  authors:
+  - name: Charity Majors
+    twitter: mipsytipsy
+    github: ''
+    website: https://www.honeycomb.io/blog/
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=OdY1UNzzOr8
+  description: |-
+
+- title: Do you need a Service Mesh?
+  type: presentation
+  day: 2018-09-04
+  location:
+  authors:
+  - name: Matt Turner
+    twitter: mt165pro
+    github: ''
+    website: https://mt165.co.uk
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=lyue42wd7a8
+  description: |-
+
+- title: HTTP and JSON for your gRPC Services
+  type: presentation
+  day: 2018-09-04
+  location:
+  authors:
+  - name: Michael Hamrah
+    twitter: mhamrah
+    github: mhamrah
+    website: http://www.michaelhamrah.com
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=AmXo6tPGUdQ
+  description: |-
+
+- title: Software Engineering - A philosophical activity
+  type: presentation
+  day: 2018-09-04
+  location:
+  authors:
+  - name: Tom Enden
+    twitter: tom_enden
+    github: ''
+    website: ''
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=JJ7UgLpgkzc
+  description: |-
+
+- title: Take a (Client) Hint!
+  type: presentation
+  day: 2018-09-04
+  location:
+  authors:
+  - name: Jeremy Wagner
+    twitter: malchata
+    github: malchata
+    website: https://jeremywagner.me/
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=md7Ua82fPe4
+  description: |-
+
+- title: Lost in transaction? Strategies to deal with (in-)consistency in distributed systems
+  type: presentation
+  day: 2018-09-04
+  location:
+  authors:
+  - name: Bernd Rücker
+    twitter: berndruecker
+    github: ''
+    website: http://bernd-ruecker.com/
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=JtaoNlL5mdI
+  description: |-
+
+- title: Lightning talks Backend
+  type: lightning
+  day: 2018-09-04
+  location:
+  authors:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=C3GvXp4Detk
+  description: |-
+
+- title: Cats, The Musical! Algorithmic Song Meow-ification
+  type: presentation
+  day: 2018-09-04
+  location:
+  authors:
+  - name: Beth Haubert
+    twitter: haubertdashery
+    github: bethanyhaubert
+    website: http://www.bethanyhaubert.com/
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=nAiT2cBvl5w
+  description: |-
+
+- title: Building peer-to-peer apps with the Beaker Browser
+  type: presentation
+  day: 2018-09-06
+  location:
+  authors:
+  - name: Tara Vancil
+    twitter: taravancil
+    github: taravancil
+    website: https://taravancil.com
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=raUE23RKLvE
+  description: |-
+
+- title: To push, or not to push?! - The future of HTTP/2 server push
+  type: presentation
+  day: 2018-09-06
+  location:
+  authors:
+  - name: Patrick Hamann
+    twitter: patrickhamann
+    github: ''
+    website: ''
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=ga_-zsTHRm8
+  description: |-
+
+- title: The Future of Front-End Performance
+  type: presentation
+  day: 2018-09-06
+  location:
+  authors:
+  - name: Sia Karamalegos
+    twitter: thegreengreek
+    github: ''
+    website: http://www.clioandcalliope.com/
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=SA_Hp8l7lr4
+  description: |-
+
+- title: Native JavaScript modules- import {Browsers, NodeJs}; export {production};
+  type: presentation
+  day: 2018-09-06
+  location:
+  authors:
+  - name: Serg Hospodarets
+    twitter: malyw
+    github: ''
+    website: https://hospodarets.com/
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=O4r9D2jI0_w
+  description: |-
+
+- title: Unity + HTML5 = Isomorphic Game Engine?
+  type: presentation
+  day: 2018-09-06
+  location:
+  authors:
+  - name: LeRenzo Malcom
+    twitter: lerenzom
+    github: ''
+    website: http://www.quantumviz.com
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=zB4gRcgaCF0
+  description: |-
+
+- title: State of the Art Web User Interfaces with State Machines
+  type: presentation
+  day: 2018-09-06
+  location:
+  authors:
+  - name: David Khourshid
+    twitter: davidkpiano
+    github: davidkpiano
+    website: https://codepen.io/davidkpiano
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=OVS9cKNK00U
+  description: |-
+
+- title: A Front-end dev's hobbyist approach into Machine Learning
+  type: presentation
+  day: 2018-09-06
+  location:
+  authors:
+  - name: Susanna Wong
+    twitter: studioswong
+    github: studioswong
+    website: ''
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=JcLZGfXKk8c
+  description: |-
+
+- title: Building a Modern Memex
+  type: presentation
+  day: 2018-09-06
+  location:
+  authors:
+  - name: Andrew Louis
+    twitter: hyfen
+    github: ''
+    website: https://hyfen.net/memex/
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=K0WU02flF_E
+  description: |-
+
+- title: Accessibility vs latest Web APIs. Can’t we just get along?
+  type: presentation
+  day: 2018-09-07
+  location:
+  authors:
+  - name: Mauricio Palma
+    twitter: palmaswell
+    github: Palmaswell
+    website: https://codepen.io/palmaswell/
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=wtZWRUsn3ms
+  description: |-
+
+- title: The Web Authentication API - Imagine a World Without Passwords
+  type: presentation
+  day: 2018-09-07
+  location:
+  authors:
+  - name: Suby Raman
+    twitter: subyraman
+    github: ''
+    website: http://subyraman.com
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=MesXuMg0WKo
+  description: |-
+
+- title: 'Killing the checkout or: How I learned to stop worrying and love Payment Request'
+  type: presentation
+  day: 2018-09-07
+  location:
+  authors:
+  - name: Krystian Czesak
+    twitter: krystosterone
+    github: ''
+    website: https://blog.krystosterone.com
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=MvgdYbYBzcs
+  description: |-
+
+- title: A Real World PWA
+  type: presentation
+  day: 2018-09-07
+  location:
+  authors:
+  - name: Zack Argyle
+    twitter: zackargyle
+    github: zackargyle
+    website: http://zackargyle.com/
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=pluzva6Dk9Q
+  description: |-
+
+- title: Purifying Typescript
+  type: presentation
+  day: 2018-09-07
+  location:
+  authors:
+  - name: Timothy Clifford
+    twitter: timothyclifford
+    github: timothyclifford
+    website: http://timclifford.io
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=huIHUim76AM
+  description: |-
+
+- title: 'Dynamic CSS: Layouts & Beyond'
+  type: presentation
+  day: 2018-09-07
+  location:
+  authors:
+  - name: Miriam Suzanne
+    twitter: mirisuzanne
+    github: mirisuzanne
+    website: http://oddbird.net
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=9fTUeLsR2Hc
+  description: |-
+
+- title: WebXR, if X = how?
+  type: presentation
+  day: 2018-09-07
+  location:
+  authors:
+  - name: Diego González
+    twitter:
+    github:
+    website:
+  - name: Indira Knight
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=iIDB96u4bng
+  description: |-
+
+- title: Lightning talks Frontend
+  type: lightning
+  day: 2018-09-07
+  location:
+  authors:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=B-2Nn2TOo0A
+  description: |-
