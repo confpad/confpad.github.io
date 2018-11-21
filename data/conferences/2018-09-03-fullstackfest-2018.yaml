@@ -64,7 +64,7 @@
   authors:
   - name: Prabh Simran Singh Baweja
     twitter: prabh_baweja
-    github: ''
+    github:
     website: https://medium.com/@prabhsimransingh.baweja/floating-point-representation-843587162dc4
   slides:
   videos:
@@ -92,15 +92,14 @@
   authors:
   - name: Sasha Romijn
     twitter: mxsash
-    github: ''
+    github:
     website: https://www.mxsasha.eu/
   slides:
   videos:
   - https://www.youtube.com/watch?v=IUONbU3bgh0
   description: |-
 
-- title: 'Onion adventures: how to use onion services and the Tor network in your
-    web endeavors'
+- title: 'Onion adventures: how to use onion services and the Tor network in your web endeavors'
   type: regular
   day: 2018-09-03
   location:
@@ -121,7 +120,7 @@
   authors:
   - name: Charity Majors
     twitter: mipsytipsy
-    github: ''
+    github:
     website: https://www.honeycomb.io/blog/
   slides:
   videos:
@@ -135,7 +134,7 @@
   authors:
   - name: Matt Turner
     twitter: mt165pro
-    github: ''
+    github:
     website: https://mt165.co.uk
   slides:
   videos:
@@ -163,8 +162,8 @@
   authors:
   - name: Tom Enden
     twitter: tom_enden
-    github: ''
-    website: ''
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=JJ7UgLpgkzc
@@ -191,7 +190,7 @@
   authors:
   - name: Bernd Rücker
     twitter: berndruecker
-    github: ''
+    github:
     website: http://bernd-ruecker.com/
   slides:
   videos:
@@ -243,8 +242,8 @@
   authors:
   - name: Patrick Hamann
     twitter: patrickhamann
-    github: ''
-    website: ''
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=ga_-zsTHRm8
@@ -257,7 +256,7 @@
   authors:
   - name: Sia Karamalegos
     twitter: thegreengreek
-    github: ''
+    github:
     website: http://www.clioandcalliope.com/
   slides:
   videos:
@@ -271,7 +270,7 @@
   authors:
   - name: Serg Hospodarets
     twitter: malyw
-    github: ''
+    github:
     website: https://hospodarets.com/
   slides:
   videos:
@@ -285,7 +284,7 @@
   authors:
   - name: LeRenzo Malcom
     twitter: lerenzom
-    github: ''
+    github:
     website: http://www.quantumviz.com
   slides:
   videos:
@@ -314,7 +313,7 @@
   - name: Susanna Wong
     twitter: studioswong
     github: studioswong
-    website: ''
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=JcLZGfXKk8c
@@ -327,7 +326,7 @@
   authors:
   - name: Andrew Louis
     twitter: hyfen
-    github: ''
+    github:
     website: https://hyfen.net/memex/
   slides:
   videos:
@@ -355,7 +354,7 @@
   authors:
   - name: Suby Raman
     twitter: subyraman
-    github: ''
+    github:
     website: http://subyraman.com
   slides:
   videos:
@@ -369,7 +368,7 @@
   authors:
   - name: Krystian Czesak
     twitter: krystosterone
-    github: ''
+    github:
     website: https://blog.krystosterone.com
   slides:
   videos:
