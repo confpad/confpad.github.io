@@ -20,8 +20,10 @@
 
 ## TODO
 
-* Show day and location for individual talks
+* Implement https://github.com/developit/htm
 * Implement heureka.cz/ui
+* Show day and location for individual talks
+* Add filters for days and locations
 * Add tests
 * Add CI
 * Make it PWA
