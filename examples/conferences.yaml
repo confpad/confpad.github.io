@@ -1,0 +1,13 @@
+---
+
+- id: 2018-01-01-awesome-conference # It must match yaml file in conferences directory
+  name: Awesome Conference # Conference name
+  url: https://www.awesome-conf.com/ # Official URL
+  date:
+    from: 2018-01-01 # First day
+    to: 2018-01-05 # Last day
+  location:
+    country: Spain # Country
+    city: Barcelona # City
+  description: |- # Brief description of what's going on
+    Awesome Conference is a week-long, language-agnostic conference for curious developers that…

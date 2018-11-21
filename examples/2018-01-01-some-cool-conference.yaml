@@ -1,0 +1,17 @@
+---
+
+- title: How to XYZ # What is it all about in a few words
+  type: regular # [regular, lightning]
+  day: 2018-09-03 # The day!
+  location: # Room number, room name and the like
+  authors:
+  - name: John Doe # First name + last name
+    twitter: johndoe # Twitter handle
+    github: johndoe # Github username
+    website: https://www.example.com/ # Personal website
+  slides: # Array of slides
+  - https://www.slideshare.net/lemiorhan/ethics-in-software-development
+  videos: # Array of videos
+  - https://www.youtube.com/watch?v=Vhh_GeBPOhs
+  description: |- # Brief description
+    This talk will explain how XYZ can…
