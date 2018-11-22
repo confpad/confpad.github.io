@@ -20,8 +20,8 @@
 
 ## TODO
 
-* Implement https://github.com/developit/htm
 * Implement heureka.cz/ui
+* Add microdata
 * Show day and location for individual talks
 * Add filters for days and locations
 * Add tests

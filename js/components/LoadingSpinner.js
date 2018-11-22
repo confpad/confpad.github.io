@@ -1,12 +1,15 @@
 const { h } = window.preact;
+const htm = window.htm;
+
+const html = htm.bind(h);
 
 const LoadingSpinner = () => {
-  return (
-    h('div', { class: 'loading-spinner'}, [
-      h('div', {}, 'Loading data'),
-      h('div', { class: 'spinner' })
-    ])
-  );
+  return html`
+    <div class="loading-spinner">
+      <div>Loading data</div>
+      <div class="spinner"></div>
+    </div>
+  `;
 };
 
 export default LoadingSpinner;

@@ -1,12 +1,15 @@
 const { Component, h } = window.preact;
 const { bindActionCreators } = window.Redux;
 const { connect } = window.preactRedux;
+const htm = window.htm;
 
 import { fetchDetail } from '../actions/conferenceDetailActions.js';
 import { fetchList } from '../actions/conferenceListActions.js';
 import ConferenceListItem from '../components/ConferenceListItem.js';
 import ConferenceDetailItem from "../components/ConferenceDetailItem.js";
 import LoadingSpinner from "../components/LoadingSpinner.js";
+
+const html = htm.bind(h);
 
 class ConferenceDetail extends Component {
 
@@ -19,28 +22,36 @@ class ConferenceDetail extends Component {
     let { conferenceDetails, conferenceList } = props;
     let conferenceInfo = conferenceList.data.find(item => item.id === props.conferenceId);
 
-    return (
-      h(
-        'main',
-        {},
-        [
-          conferenceList.isFetching && h(LoadingSpinner),
-          conferenceInfo && h('div', { class: 'conference-detail__info' },
-            [
-              h(ConferenceListItem, { ...conferenceInfo, isDetail: true }),
-              h('hr'),
-            ]
-          ),
-          conferenceDetails.isFetching && h(LoadingSpinner),
-          conferenceDetails.data && h('ul', {},
-            conferenceDetails.data.map((data) => (
-                h('li', {}, h(ConferenceDetailItem, data))
-              )
-            )
-          )
-        ]
-      )
-    )
+    return html`
+      <main>
+        ${conferenceList.isFetching && html`
+          <${LoadingSpinner}>
+        `}
+        
+        ${conferenceInfo && html`
+          <div class="conference-detail__info">
+            ${html`
+              <${ConferenceListItem} ...${conferenceInfo} isDetail="true"}>
+           `}
+            <hr>
+          </div>
+        `}
+        
+        ${conferenceDetails.isFetching && html`
+          <${LoadingSpinner}>
+        `}
+        
+        ${conferenceDetails.data && html`
+          <ul>
+            ${conferenceDetails.data.map(data => html`
+              <li>
+                <${ConferenceDetailItem} ...${data}>
+              </li>
+            `)}
+          </ul>
+        `}
+      </main>
+    `;
   }
 
 }

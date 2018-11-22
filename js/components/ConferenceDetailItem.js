@@ -1,99 +1,94 @@
 const { h } = window.preact;
+const htm = window.htm;
 
-const getTypeEmoji = (type) => {
+const html = htm.bind(h);
+
+const getTypeEmoji = type => {
   switch (type) {
     case 'regular':
-      return h('span', { title: 'regular talk' }, '🎤 ');
+      return html`
+        <span title="regular talk">🎤</span>  
+      `;
     case 'lightning':
-      return h('span', { title: 'lightning talk' }, '⚡️ ');
+      return html`
+        <span title="lightning talk">️⚡️</span>
+      `;
   }
 };
 
-const getTitle = (title, type) => h('h3', { class: 'conference-detail-item__title' }, [
-  getTypeEmoji(type),
-  title,
-]);
+const getTitle = (title, type) => html`
+  <h3 class="conference-detail-item__title">
+    ${getTypeEmoji(type)}
+    ${title}
+  </h3>
+`;
 
-const getAuthorName = author => author.name && h('span', { class: 'conference-detail-item__wrapper' }, `👤 ${author.name}`);
+const getAuthorName = name => html`
+  <span class="conference-detail-item__wrapper">
+    👤
+    ${name}
+  </span>
+`;
 
-const getAuthorTwitter = author => {
-  return author.twitter && h('span', { class: 'conference-detail-item__wrapper' },
-    [
-      'Twitter: ',
-      h('a',
-        {
-          href: `https://twitter.com/${author.twitter}`,
-          target: '_blank',
-        },
-        `@${author.twitter}`
-      ),
-    ]
-  )
+const getAuthorLink = (title, link, text) => html`
+  <span class="conference-detail-item__wrapper">
+    ${title}:
+    <a href="${link}" target="_blank">${text}</a>
+  </span>
+`;
+
+const getAuthorTwitter = username => {
+  let title = 'Twitter';
+  let link = `https://twitter.com/${username}`;
+  let text = `@${username}`;
+
+  return getAuthorLink(title, link, text);
 };
 
-const getAuthorGithub = author => {
-  return author.github && h('span', { class: 'conference-detail-item__wrapper' },
-    [
-      'GitHub: ',
-      h('a',
-        {
-          href: `https://github.com/${author.github}`,
-          target: '_blank',
-        },
-        `${author.github}`
-      ),
-    ]
-  )
+const getAuthorGithub = username => {
+  let title = 'Twitter';
+  let link = `https://github.com/${username}`;
+  let text = username;
+
+  return getAuthorLink(title, link, text);
 };
 
-const getVideo = video => h('p', { class: 'conference-detail-item__wrapper' },
-  [
-    `📹 Video: `,
-    h('a',
-      {
-        href: `${video}`,
-        target: '_blank',
-      },
-      `${video}`
-    )
-  ]
-);
+const getVideo = video => html`
+  <p class="conference-detail-item__wrapper">
+    📹
+    Video:
+    <a href="${video}" target="_blank">${video}</a>
+  </p>
+`;
 
-const getSlides = slides => h('p', { class: 'conference-detail-item__wrapper' },
-  [
-    `📝 Slides: `,
-    h('a',
-      {
-        href: `${slides}`,
-        target: '_blank',
-      },
-      `${slides}`
-    )
-  ]
-);
+const getSlides = slides => html`
+  <p class="conference-detail-item__wrapper">
+    📝
+    Slides:
+    <a href="${slides}" target="_blank">${slides}</a>
+  </p>
+`;
 
-const getDescription = description => h('p', { class: 'conference-detail-item__description' }, description);
+const getDescription = descriptioin => html`
+  <p class="conference-detail-item__wrapper">
+    ${descriptioin}
+  </p>
+`;
 
-const ConferenceDetailItem = (props) => {
-  return (
-    h('div', { class: 'conference-detail-item' },
-      [
-        getTitle(props.title, props.type),
-        props.authors && props.authors.map(
-          author => h('p', { class: 'conference-detail-item__author' },
-            [
-              getAuthorName(author),
-              getAuthorTwitter(author),
-              getAuthorGithub(author),
-            ],
-          )
-        ),
-        props.videos && props.videos.map(video => getVideo(video)),
-        props.slides && props.slides.map(slides => getSlides(slides)),
-        props.description && getDescription(props.description),
-      ]
-    )
-  );
-};
+const ConferenceDetailItem = props => html`
+  <div class="conference-detail-item">
+    ${getTitle(props.title, props.type)}
+    ${props.authors && props.authors.map(author => html`
+      <p class="conference-detail-item__author">
+        ${author.name && getAuthorName(author.name)}
+        ${author.twitter && getAuthorTwitter(author.twitter)}
+        ${author.github && getAuthorGithub(author.github)}
+      </p>
+    `)}
+    ${props.videos && props.videos.map(video => getVideo(video))}
+    ${props.slides && props.slides.map(slides => getSlides(slides))}
+    ${props.description && getDescription(props.description)}
+  </div>
+`;
 
 export default ConferenceDetailItem;
