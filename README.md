@@ -22,8 +22,8 @@
 
 * Implement heureka.cz/ui
 * Add microdata
-* Show day and location for individual talks
-* Add filters for days and locations
+* Show date and location for individual talks
+* Add filters for dates and locations to conference detail
 * Add tests
 * Add CI
 * Make it PWA

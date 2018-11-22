@@ -2,7 +2,7 @@
 
 - title: How to XYZ
   type: regular # [regular, lightning]
-  day: 2018-09-03
+  date: 2018-09-03
   location: # Room number, room name, …
   authors:
   - name: John Doe

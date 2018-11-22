@@ -2,7 +2,7 @@
 
 - title: React Today and Tomorrow
   type: regular
-  day: 2018-10-25
+  date: 2018-10-25
   location:
   authors:
   - name: Sophie Alpert
@@ -18,7 +18,7 @@
 
 - title: 90% Cleaner React
   type: regular
-  day: 2018-10-25
+  date: 2018-10-25
   location:
   authors:
   - name: Ryan Florence
@@ -32,7 +32,7 @@
 
 - title: Building Todo The Game In A Cloud-Only Dev Environment
   type: regular
-  day: 2018-10-25
+  date: 2018-10-25
   location:
   authors:
   - name: Christina Holland
@@ -46,7 +46,7 @@
 
 - title: The Path To A Declaratively Animated Future
   type: regular
-  day: 2018-10-25
+  date: 2018-10-25
   location:
   authors:
   - name: Matt Perry
@@ -60,7 +60,7 @@
 
 - title: What's New in Create React App
   type: lightning
-  day: 2018-10-25
+  date: 2018-10-25
   location:
   authors:
   - name: Joe Haddad
@@ -73,7 +73,7 @@
 
 - title: Components as Units of Work
   type: lightning
-  day: 2018-10-25
+  date: 2018-10-25
   location:
   authors:
   - name: Bryce Kalow
@@ -86,7 +86,7 @@
 
 - title: 5 Animations You Should Know and Use
   type: lightning
-  day: 2018-10-25
+  date: 2018-10-25
   location:
   authors:
   - name: Marcos Martins
@@ -99,7 +99,7 @@
 
 - title: Render Props, PureComponent and Reactivity
   type: lightning
-  day: 2018-10-25
+  date: 2018-10-25
   location:
   authors:
   - name: Karl Dray
@@ -112,7 +112,7 @@
 
 - title: Better Living through Git Hooks
   type: lightning
-  day: 2018-10-25
+  date: 2018-10-25
   location:
   authors:
   - name: Leta Keane
@@ -126,7 +126,7 @@
 - title: 'GraphQL without GraphQL - Backend Agnostic GraphQL inspired Queries For
     Colocating Data Requests With Components '
   type: regular
-  day: 2018-10-25
+  date: 2018-10-25
   location:
   authors:
   - name: Conor Hastings
@@ -140,7 +140,7 @@
 
 - title: 'Playing With Polyhedra: Creating Beauty from Obsession'
   type: regular
-  day: 2018-10-25
+  date: 2018-10-25
   location:
   authors:
   - name: Nat Alison
@@ -154,7 +154,7 @@
 
 - title: Developing Immersive cross-platform AR and VR Apps using React-Native
   type: regular
-  day: 2018-10-25
+  date: 2018-10-25
   location:
   authors:
   - name: Pulkit Kakkar
@@ -169,7 +169,7 @@
 - title: 'Beyond Web-Apps: React, JavaScript and WebAssembly To Port Legacy Native
     Apps'
   type: regular
-  day: 2018-10-25
+  date: 2018-10-25
   location:
   authors:
   - name: Florian Rival
@@ -183,7 +183,7 @@
 
 - title: React For Social Change
   type: regular
-  day: 2018-10-25
+  date: 2018-10-25
   location:
   authors:
   - name: Rodrigo Quezada
@@ -197,7 +197,7 @@
 
 - title: Concurrent Rendering in React
   type: regular
-  day: 2018-10-26
+  date: 2018-10-26
   location:
   authors:
   - name: Andrew Clark
@@ -213,7 +213,7 @@
 
 - title: Moving To Suspense
   type: regular
-  day: 2018-10-26
+  date: 2018-10-26
   location:
   authors:
   - name: Jared Palmer
@@ -227,7 +227,7 @@
 
 - title: SVG illustrations as React Components
   type: regular
-  day: 2018-10-26
+  date: 2018-10-26
   location:
   authors:
   - name: Elizabet Oliveira
@@ -241,7 +241,7 @@
 
 - title: The Missing Abstraction of Charting
   type: regular
-  day: 2018-10-26
+  date: 2018-10-26
   location:
   authors:
   - name: Chris Trevino
@@ -255,7 +255,7 @@
 
 - title: 'Elsa: AI Conversational Agent Aimed At Improving Mental Health For Women'
   type: regular
-  day: 2018-10-26
+  date: 2018-10-26
   location:
   authors:
   - name: Damini Satya Kammakomati
@@ -269,7 +269,7 @@
 
 - title: Context in React
   type: lightning
-  day: 2018-10-26
+  date: 2018-10-26
   location:
   authors:
   - name: Sophia Shoemaker
@@ -282,7 +282,7 @@
 
 - title: Building a better Country through Tech
   type: lightning
-  day: 2018-10-26
+  date: 2018-10-26
   location:
   authors:
   - name: Manuela Castrillon
@@ -295,7 +295,7 @@
 
 - title: An Effective Code Review
   type: lightning
-  day: 2018-10-26
+  date: 2018-10-26
   location:
   authors:
   - name: Donavon West
@@ -308,7 +308,7 @@
 
 - title: Syncing Component State Across Tabs with Service Workers
   type: lightning
-  day: 2018-10-26
+  date: 2018-10-26
   location:
   authors:
   - name: Tyler Clark
@@ -321,7 +321,7 @@
 
 - title: Block the Main Thread
   type: regular
-  day: 2018-10-26
+  date: 2018-10-26
   location:
   authors:
   - name: James Long
@@ -335,7 +335,7 @@
 
 - title: React Native's New Architecture
   type: regular
-  day: 2018-10-26
+  date: 2018-10-26
   location:
   authors:
   - name: Parashuram N
@@ -349,7 +349,7 @@
 
 - title: Let React speak your language
   type: regular
-  day: 2018-10-26
+  date: 2018-10-26
   location:
   authors:
   - name: Tomáš Ehrlich
@@ -363,7 +363,7 @@
 
 - title: React for Designers with FramerX
   type: regular
-  day: 2018-10-26
+  date: 2018-10-26
   location:
   authors:
   - name: Thomas Aylott
@@ -377,7 +377,7 @@
 
 - title: Building A Diverse And Inclusive Community.
   type: regular
-  day: 2018-10-26
+  date: 2018-10-26
   location:
   authors:
   - name: Eyitayo Alimi

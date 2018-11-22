@@ -2,7 +2,7 @@
 
 - title: Reinvent the social web
   type: regular
-  day: 2018-09-03
+  date: 2018-09-03
   location:
   authors:
   - name: André Staltz
@@ -16,7 +16,7 @@
 
 - title: Open Gateway - Decentralized IoT
   type: regular
-  day: 2018-09-03
+  date: 2018-09-03
   location:
   authors:
   - name: Kalyan Dikshit
@@ -31,7 +31,7 @@
 - title: Build and deploy a Blockchain web-app with Hyperledger Fabric and Hyperledger
     Composer
   type: regular
-  day: 2018-09-03
+  date: 2018-09-03
   location:
   authors:
   - name: Horea Porutiu
@@ -45,7 +45,7 @@
 
 - title: 'A Game of Theories: Why languages do what they do '
   type: regular
-  day: 2018-09-03
+  date: 2018-09-03
   location:
   authors:
   - name: Rae Krantz
@@ -59,7 +59,7 @@
 
 - title: The Future of ChatBots in the Travel Industry
   type: regular
-  day: 2018-09-03
+  date: 2018-09-03
   location:
   authors:
   - name: Prabh Simran Singh Baweja
@@ -73,7 +73,7 @@
 
 - title: Avoiding Digital Bias
   type: regular
-  day: 2018-09-03
+  date: 2018-09-03
   location:
   authors:
   - name: Adam L Smith
@@ -87,7 +87,7 @@
 
 - title: Everything I always wanted to know about crypto, but never thought I'd understand
   type: regular
-  day: 2018-09-03
+  date: 2018-09-03
   location:
   authors:
   - name: Sasha Romijn
@@ -101,7 +101,7 @@
 
 - title: 'Onion adventures: how to use onion services and the Tor network in your web endeavors'
   type: regular
-  day: 2018-09-03
+  date: 2018-09-03
   location:
   authors:
   - name: Silvia Puglisi
@@ -115,7 +115,7 @@
 
 - title: 'Observability for Emerging Infra: What Got You Here Won''t Get You There'
   type: regular
-  day: 2018-09-04
+  date: 2018-09-04
   location:
   authors:
   - name: Charity Majors
@@ -129,7 +129,7 @@
 
 - title: Do you need a Service Mesh?
   type: regular
-  day: 2018-09-04
+  date: 2018-09-04
   location:
   authors:
   - name: Matt Turner
@@ -143,7 +143,7 @@
 
 - title: HTTP and JSON for your gRPC Services
   type: regular
-  day: 2018-09-04
+  date: 2018-09-04
   location:
   authors:
   - name: Michael Hamrah
@@ -157,7 +157,7 @@
 
 - title: Software Engineering - A philosophical activity
   type: regular
-  day: 2018-09-04
+  date: 2018-09-04
   location:
   authors:
   - name: Tom Enden
@@ -171,7 +171,7 @@
 
 - title: Take a (Client) Hint!
   type: regular
-  day: 2018-09-04
+  date: 2018-09-04
   location:
   authors:
   - name: Jeremy Wagner
@@ -185,7 +185,7 @@
 
 - title: Lost in transaction? Strategies to deal with (in-)consistency in distributed systems
   type: regular
-  day: 2018-09-04
+  date: 2018-09-04
   location:
   authors:
   - name: Bernd Rücker
@@ -199,7 +199,7 @@
 
 - title: Lightning talks Backend
   type: lightning
-  day: 2018-09-04
+  date: 2018-09-04
   location:
   authors:
   slides:
@@ -209,7 +209,7 @@
 
 - title: Cats, The Musical! Algorithmic Song Meow-ification
   type: regular
-  day: 2018-09-04
+  date: 2018-09-04
   location:
   authors:
   - name: Beth Haubert
@@ -223,7 +223,7 @@
 
 - title: Building peer-to-peer apps with the Beaker Browser
   type: regular
-  day: 2018-09-06
+  date: 2018-09-06
   location:
   authors:
   - name: Tara Vancil
@@ -237,7 +237,7 @@
 
 - title: To push, or not to push?! - The future of HTTP/2 server push
   type: regular
-  day: 2018-09-06
+  date: 2018-09-06
   location:
   authors:
   - name: Patrick Hamann
@@ -251,7 +251,7 @@
 
 - title: The Future of Front-End Performance
   type: regular
-  day: 2018-09-06
+  date: 2018-09-06
   location:
   authors:
   - name: Sia Karamalegos
@@ -265,7 +265,7 @@
 
 - title: Native JavaScript modules- import {Browsers, NodeJs}; export {production};
   type: regular
-  day: 2018-09-06
+  date: 2018-09-06
   location:
   authors:
   - name: Serg Hospodarets
@@ -279,7 +279,7 @@
 
 - title: Unity + HTML5 = Isomorphic Game Engine?
   type: regular
-  day: 2018-09-06
+  date: 2018-09-06
   location:
   authors:
   - name: LeRenzo Malcom
@@ -293,7 +293,7 @@
 
 - title: State of the Art Web User Interfaces with State Machines
   type: regular
-  day: 2018-09-06
+  date: 2018-09-06
   location:
   authors:
   - name: David Khourshid
@@ -307,7 +307,7 @@
 
 - title: A Front-end dev's hobbyist approach into Machine Learning
   type: regular
-  day: 2018-09-06
+  date: 2018-09-06
   location:
   authors:
   - name: Susanna Wong
@@ -321,7 +321,7 @@
 
 - title: Building a Modern Memex
   type: regular
-  day: 2018-09-06
+  date: 2018-09-06
   location:
   authors:
   - name: Andrew Louis
@@ -335,7 +335,7 @@
 
 - title: Accessibility vs latest Web APIs. Can’t we just get along?
   type: regular
-  day: 2018-09-07
+  date: 2018-09-07
   location:
   authors:
   - name: Mauricio Palma
@@ -349,7 +349,7 @@
 
 - title: The Web Authentication API - Imagine a World Without Passwords
   type: regular
-  day: 2018-09-07
+  date: 2018-09-07
   location:
   authors:
   - name: Suby Raman
@@ -363,7 +363,7 @@
 
 - title: 'Killing the checkout or: How I learned to stop worrying and love Payment Request'
   type: regular
-  day: 2018-09-07
+  date: 2018-09-07
   location:
   authors:
   - name: Krystian Czesak
@@ -377,7 +377,7 @@
 
 - title: A Real World PWA
   type: regular
-  day: 2018-09-07
+  date: 2018-09-07
   location:
   authors:
   - name: Zack Argyle
@@ -391,7 +391,7 @@
 
 - title: Purifying Typescript
   type: regular
-  day: 2018-09-07
+  date: 2018-09-07
   location:
   authors:
   - name: Timothy Clifford
@@ -405,7 +405,7 @@
 
 - title: 'Dynamic CSS: Layouts & Beyond'
   type: regular
-  day: 2018-09-07
+  date: 2018-09-07
   location:
   authors:
   - name: Miriam Suzanne
@@ -419,7 +419,7 @@
 
 - title: WebXR, if X = how?
   type: regular
-  day: 2018-09-07
+  date: 2018-09-07
   location:
   authors:
   - name: Diego González
@@ -437,7 +437,7 @@
 
 - title: Lightning talks Frontend
   type: lightning
-  day: 2018-09-07
+  date: 2018-09-07
   location:
   authors:
   slides:
