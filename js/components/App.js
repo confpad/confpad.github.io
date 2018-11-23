@@ -6,7 +6,6 @@ const Router = window.preactRouter;
 const createHashHistory = window.History.createHashHistory;
 
 import reducers from '../reducers/reducers.js';
-import Header from '../components/Header.js';
 import ConferenceDetail from '../containers/ConferenceDetail.js';
 import ConferenceList from '../containers/ConferenceList.js';
 import ErrorMessage from '../components/ErrorMessage.js';
@@ -18,18 +17,15 @@ let store = createStore(
 
 const App = () => {
   return (
-    h('div', {}, [
-      h(Header),
-      h(Provider, { store: store },
-        h(Router, { history: createHashHistory() },
-          [
-            h(ConferenceList, { path: '/' }),
-            h(ConferenceDetail, { path: '/:conferenceId' }),
-            h(ErrorMessage, { default: true }),
-          ],
-        )
+    h(Provider, { store: store },
+      h(Router, { history: createHashHistory() },
+        [
+          h(ConferenceList, { path: '/' }),
+          h(ConferenceDetail, { path: '/:conferenceId' }),
+          h(ErrorMessage, { default: true }),
+        ],
       )
-    ])
+    )
   );
 };
 
