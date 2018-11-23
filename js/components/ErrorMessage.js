@@ -5,10 +5,13 @@ const html = htm.bind(h);
 
 const ErrorMessage = () => {
   return html`
-    <div>
-      <mark class="secondary">Error:</mark>
-      <span>something nasty happened, please report it as a</span>
-      <a href="https://github.com/confpad/confpad.github.io/issues" target="_blank">GitHub issue</a>
+    <div class="c-notice c-notice--error" role="alert">
+    <div class="c-notice__content">
+        <h5 class="e-heading u-epsilon">Error!</h5>
+        <div>
+          Something nasty happened, please report it as a
+          <a href="https://github.com/confpad/confpad.github.io/issues" target="_blank" class="e-link">GitHub issue</a>.
+        </div>
     </div>
   `;
 };

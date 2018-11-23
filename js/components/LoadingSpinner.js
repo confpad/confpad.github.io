@@ -5,8 +5,8 @@ const html = htm.bind(h);
 
 const LoadingSpinner = () => {
   return html`
-    <div class="loading-spinner">
-      <div>Loading data</div>
+    <div class="u-align-center">
+      <div>Loading data…</div>
       <div class="spinner"></div>
     </div>
   `;

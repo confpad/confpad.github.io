@@ -6,68 +6,71 @@ const html = htm.bind(h);
 const getTitle = (id, name, isDetail) => {
   if (isDetail) {
     return html`
-      <h2>
-        <span>
-          <a href="/">ConfPad</a>
-          <span class="conference-list-item__separator">&gt;</span>
-          <span>${name}</span>
-        </span>
-      </h2>
+      <nav class="c-breadcrumbs u-delta">
+        <ul class="c-breadcrumbs__list">
+          <li class="c-breadcrumbs__item u-bold">
+            <a href="/" class="e-link">ConfPad</a>
+          </li>
+          <li class="c-breadcrumbs__item">
+            <h2 class="u-bold">
+              ${name}
+            </h2>
+          </li>
+        </ul>
+      </nav>
     `
   }
 
   return html`
-    <h2>
-      <a href="/${id}">${name}</a>
+    <h2 class="u-delta u-bold">
+      <a href="/${id}" class="e-link">${name}</a>
     </h2>
   `
 };
 
 const getLink = url => html`
-  <span class="conference-list-item__wrapper">
+  <div>
     🔗
-    <a href="${url}" target="_blank" class="conference-list-item__wrapper">
+    <a href="${url}" target="_blank" class="e-link">
       ${url}
     </a>
-  </span>
+  </div>
 `;
 
 const getDate = (from, to) => html`
-  <span class="conference-list-item__wrapper">
+  <div>
     📅
     ${from && from.toISOString().split('T')[0]}
     -
     ${to && to.toISOString().split('T')[0]}
-  </span>
+  </div>
 `;
 
 const getLocation = location => html`
-  <span class="conference-list-item__wrapper">
+  <div>
     🌎
     ${Object.values(location).join(', ')}
-  </span>
+  </div>
 `;
 
 const getDescription = description => html`
-  <div class="conference-list-item__description">
+  <div>
     ${description}
   </div>
 `;
 
 const ConferenceListItem = props => html`
-  <div class="conference-list-item">
+  <li class="o-block-list o-block-list--tight">
     ${getTitle(props.id, props.name, props.isDetail)}
-    <p>
-      <div class="conference-list-item__infoline">
-        ${props.date && getDate(props.date.from, props.date.to)}
-        ${props.location && getLocation(props.location)}
-        ${props.url && getLink(props.url)}
-      </div>
-      <div>
-        ${getDescription(props.description)}
-      </div>
-    </p>
-  </div>
+    <div class="o-inline-list">
+      ${props.date && getDate(props.date.from, props.date.to)}
+      ${props.location && getLocation(props.location)}
+      ${props.url && getLink(props.url)}
+    </div>
+    <div>
+      ${getDescription(props.description)}
+    </div>
+  </li>
 `;
 
 export default ConferenceListItem;

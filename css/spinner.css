@@ -1,0 +1,26 @@
+/* Based on https://github.com/Chalarangelo/mini.css/blob/master/src/mini/_progress.scss */
+@keyframes spinner-anim {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.spinner {
+  --margin: 0.5em;
+  --size: 1.75em;
+  --border-thickness: 0.25em;
+  --color-background: #dddddd;
+  --color-foreground: #555555;
+
+  display: inline-block;
+  margin: var(--margin);
+  border: var(--border-thickness) solid var(--color-background);
+  border-left: var(--border-thickness) solid var(--color-foreground);
+  border-radius: 50%;
+  width: var(--size);
+  height: var(--size);
+  animation: spinner-anim 1.2s linear infinite;
+}

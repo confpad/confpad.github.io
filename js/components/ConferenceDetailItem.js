@@ -17,24 +17,24 @@ const getTypeEmoji = type => {
 };
 
 const getTitle = (title, type) => html`
-  <h3 class="conference-detail-item__title">
+  <h3 class="u-epsilon u-bold">
     ${getTypeEmoji(type)}
     ${title}
   </h3>
 `;
 
 const getAuthorName = name => html`
-  <span class="conference-detail-item__wrapper">
+  <div>
     👤
     ${name}
-  </span>
+  </div>
 `;
 
 const getAuthorLink = (title, link, text) => html`
-  <span class="conference-detail-item__wrapper">
+  <div>
     ${title}:
-    <a href="${link}" target="_blank">${text}</a>
-  </span>
+    <a href="${link}" target="_blank" class="e-link">${text}</a>
+  </div>
 `;
 
 const getAuthorTwitter = username => {
@@ -46,7 +46,7 @@ const getAuthorTwitter = username => {
 };
 
 const getAuthorGithub = username => {
-  let title = 'Twitter';
+  let title = 'Github';
   let link = `https://github.com/${username}`;
   let text = username;
 
@@ -54,41 +54,41 @@ const getAuthorGithub = username => {
 };
 
 const getVideo = video => html`
-  <p class="conference-detail-item__wrapper">
+  <div class="u-clip">
     📹
     Video:
-    <a href="${video}" target="_blank">${video}</a>
-  </p>
+    <a href="${video}" target="_blank" class="e-link">${video}</a>
+  </div>
 `;
 
 const getSlides = slides => html`
-  <p class="conference-detail-item__wrapper">
+  <div class="u-clip">
     📝
     Slides:
-    <a href="${slides}" target="_blank">${slides}</a>
-  </p>
+    <a href="${slides}" target="_blank" class="e-link">${slides}</a>
+  </div>
 `;
 
 const getDescription = descriptioin => html`
-  <p class="conference-detail-item__wrapper">
+  <div>
     ${descriptioin}
-  </p>
+  </div>
 `;
 
 const ConferenceDetailItem = props => html`
-  <div class="conference-detail-item">
+  <li class="o-block-list o-block-list--tight">
     ${getTitle(props.title, props.type)}
     ${props.authors && props.authors.map(author => html`
-      <p class="conference-detail-item__author">
+      <div class="o-inline-list">
         ${author.name && getAuthorName(author.name)}
         ${author.twitter && getAuthorTwitter(author.twitter)}
         ${author.github && getAuthorGithub(author.github)}
-      </p>
+      </div>
     `)}
     ${props.videos && props.videos.map(video => getVideo(video))}
     ${props.slides && props.slides.map(slides => getSlides(slides))}
     ${props.description && getDescription(props.description)}
-  </div>
+  </li>
 `;
 
 export default ConferenceDetailItem;

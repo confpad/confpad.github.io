@@ -24,11 +24,9 @@ class ConferenceList extends Component {
           <${LoadingSpinner}>
         `}
         ${conferenceList.data && html`
-          <ul>
+          <ul class="o-block-list o-block-list--loose">
             ${conferenceList.data.map(data => html`
-              <li>
-                <${ConferenceListItem} ...${data}>
-              </li>
+              <${ConferenceListItem} ...${data}>
             `)}
           </ul>
         `}

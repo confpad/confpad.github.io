@@ -29,24 +29,17 @@ class ConferenceDetail extends Component {
         `}
         
         ${conferenceInfo && html`
-          <div class="conference-detail__info">
-            ${html`
-              <${ConferenceListItem} ...${conferenceInfo} isDetail="true"}>
-           `}
-            <hr>
-          </div>
-        `}
+            <${ConferenceListItem} ...${conferenceInfo} isDetail="true"}>
+         `}
         
         ${conferenceDetails.isFetching && html`
           <${LoadingSpinner}>
         `}
         
         ${conferenceDetails.data && html`
-          <ul>
+          <ul class="o-block-list o-block-list--loose">
             ${conferenceDetails.data.map(data => html`
-              <li>
-                <${ConferenceDetailItem} ...${data}>
-              </li>
+              <${ConferenceDetailItem} ...${data}>
             `)}
           </ul>
         `}

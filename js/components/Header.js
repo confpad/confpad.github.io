@@ -5,18 +5,16 @@ const html = htm.bind(h);
 
 const Header = () => {
   return html`
-    <div class="header">
-      <header>
-        <a href="/" class="header__link">
-          <h1>
-            ⚡️ ConfPad
-          </h1>
-        </a>
-      </header>
-      <p>
+    <header class="header u-quarter-spacing">
+      <a href="/" class="header__link e-link">
+        <h1 class="e-heading u-gamma">
+          ⚡️ ConfPad
+        </h1>
+      </a>
+      <div>
         🌎 Community-currated list of tech conference talks, videos, slides and the like — from all around the world
-      </p>
-    </div>
+      </div>
+    </header>
   `;
 };
 

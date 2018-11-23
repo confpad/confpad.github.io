@@ -1,4 +1,4 @@
-# 🎤 ⚡️ ConfPad
+# ⚡️ ConfPad
 
 ## How to add a conference
 
@@ -20,7 +20,7 @@
 
 ## TODO
 
-* Implement heureka.cz/ui
+* Make header static
 * Add microdata
 * Show date and location for individual talks
 * Add filters for dates and locations to conference detail

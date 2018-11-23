@@ -1,10 +1,8 @@
-.header {
-  margin-bottom: 2em;
-}
+.header {}
 
 .header__link {}
 
 .header__link:hover,
 .header__link:focus {
-  text-decoration: none;
+  text-decoration: none !important;
 }
