@@ -54,22 +54,20 @@ const getLocation = location => html`
 `;
 
 const getDescription = description => html`
-  <div>
+  <div class="conference-list-item__description">
     ${description}
   </div>
 `;
 
 const ConferenceListItem = props => html`
-  <li class="o-block-list o-block-list--tight">
+  <li class="conference-list-item o-block-list o-block-list--tight">
     ${getTitle(props.id, props.name, props.isDetail)}
     <div class="o-inline-list">
       ${props.date && getDate(props.date.from, props.date.to)}
       ${props.location && getLocation(props.location)}
       ${props.url && getLink(props.url)}
     </div>
-    <div>
-      ${getDescription(props.description)}
-    </div>
+    ${getDescription(props.description)}
   </li>
 `;
 

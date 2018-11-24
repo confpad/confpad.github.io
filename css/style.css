@@ -2,4 +2,6 @@
 @import "./utils.css";
 @import "./header.css";
 @import "./spinner.css";
+@import "./conference-list-item.css";
+@import "./conference-detail-item.css";
 @import "./footer.css";

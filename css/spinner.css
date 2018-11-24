@@ -18,7 +18,7 @@
   display: inline-block;
   margin: var(--margin);
   border: var(--border-thickness) solid var(--color-background);
-  border-left: var(--border-thickness) solid var(--color-foreground);
+  border-left-color: var(--color-foreground);
   border-radius: 50%;
   width: var(--size);
   height: var(--size);
