@@ -78,25 +78,27 @@ const getSlides = slides => html`
 `;
 
 const getDescription = descriptioin => html`
-  <div>
+  <div class="conference-detail-item__description">
     ${descriptioin}
   </div>
 `;
 
 const ConferenceDetailItem = props => html`
-  <li class="o-block-list o-block-list--tight">
+  <li class="conference-detail-item o-block-list o-block-list--tight">
     ${getTitle(props.title, props.type)}
-    ${props.authors && props.authors.map(author => html`
-      <div class="o-inline-list">
-        ${author.name && getAuthorName(author.name)}
-        ${author.twitter && getAuthorTwitter(author.twitter)}
-        ${author.github && getAuthorGithub(author.github)}
-        ${author.googleplus && getAuthorGooglePlus(author.googleplus)}
-      </div>
-    `)}
-    ${props.videos && props.videos.map(video => getVideo(video))}
-    ${props.slides && props.slides.map(slides => getSlides(slides))}
-    ${props.description && getDescription(props.description)}
+    <div class="conference-detail-item__data conference-list-item o-block-list o-block-list--tight">
+      ${props.authors && props.authors.map(author => html`
+        <div class="o-inline-list">
+          ${author.name && getAuthorName(author.name)}
+          ${author.twitter && getAuthorTwitter(author.twitter)}
+          ${author.github && getAuthorGithub(author.github)}
+          ${author.googleplus && getAuthorGooglePlus(author.googleplus)}
+        </div>
+      `)}
+      ${props.videos && props.videos.map(video => getVideo(video))}
+      ${props.slides && props.slides.map(slides => getSlides(slides))}
+      ${props.description && getDescription(props.description)}
+    </div>
   </li>
 `;
 
