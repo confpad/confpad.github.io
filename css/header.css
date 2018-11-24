@@ -1,8 +1,16 @@
-.header {}
+.header {
+  border-bottom: 1px solid #d0d0d0;
+  padding-bottom: 1em;
+}
 
 .header__link {}
 
 .header__link:hover,
 .header__link:focus {
   text-decoration: none !important;
+}
+
+.header__icon {
+  width: 1.75em;
+  height: 1.75em;
 }
