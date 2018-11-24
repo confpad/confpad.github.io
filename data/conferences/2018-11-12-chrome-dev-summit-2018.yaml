@@ -118,7 +118,7 @@
   - name: François Beaufort
     twitter: https://plus.google.com/+FrancoisBeaufort
   - name: Angie Bird
-    twitter: ''
+    twitter:
   slides:
   videos:
   - https://www.youtube.com/watch?v=iTC3mfe0DwE
@@ -191,7 +191,7 @@
   location:
   authors:
   - name: Jason Chase
-    twitter: ''
+    twitter:
   slides:
   videos:
   - https://www.youtube.com/watch?v=igHvSUrLqXc
@@ -224,7 +224,7 @@
   videos:
   - https://www.youtube.com/watch?v=mDdgfyRB5kg
   description: |-
-    To achieve a truly responsive experience, developers have to execute their code in 10ms chunks. That’s nearly impossible. In this talk, we''ll explore two high-level strategies: Main thread scheduling, and moving work into backgrounds threads. We’ll dive into our latest performance research on multi-threading Javascript, demystify when to utilize web workers, and dive into what it really takes to guarantee responsiveness. Finally, we''ll introduce a few exciting new proposals that we''d love your feedback on.
+    To achieve a truly responsive experience, developers have to execute their code in 10ms chunks. That’s nearly impossible. In this talk, we'll explore two high-level strategies: Main thread scheduling, and moving work into backgrounds threads. We’ll dive into our latest performance research on multi-threading Javascript, demystify when to utilize web workers, and dive into what it really takes to guarantee responsiveness. Finally, we'll introduce a few exciting new proposals that we'd love your feedback on.
 
 - title: Architecting Web Apps - Lights, Camera, Action!
   type: regular
@@ -247,13 +247,13 @@
   location:
   authors:
   - name: Kinuko Yasuda
-    twitter: ''
+    twitter:
   - name: Rudy Galfi
-    twitter: ''
+    twitter:
   - name: Sumantro Das
-    twitter: ''
+    twitter:
   - name: Rustam Lalkaka
-    twitter: ''
+    twitter:
   slides:
   videos:
   - https://www.youtube.com/watch?v=Ai4aZ9Jbsys
@@ -281,7 +281,7 @@
   - name: Chris Wilson
     twitter: cwilso
   - name: John Pallett
-    twitter: ''
+    twitter:
   slides:
   videos:
   - https://www.youtube.com/watch?v=ylz2EbWueKw
@@ -324,7 +324,7 @@
   - name: Dan Dascalescu
     twitter: dandv
   - name: Stephen Barber
-    twitter: ''
+    twitter:
   slides:
   videos:
   - https://www.youtube.com/watch?v=QTmAtXoPkgw
