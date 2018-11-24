@@ -3,6 +3,10 @@
   padding-bottom: 1em;
 }
 
+.header__heading {
+  justify-content: space-between;
+}
+
 .header__link {}
 
 .header__link:hover,
