@@ -12,6 +12,18 @@
   description: |-
     Full Stack Fest is a week-long, language-agnostic conference for curious developers that want to gaze into the future. Split in two blocks with a gap day in the middle, it's designed to be the ultimate conference retreat for teams looking for inspiration.
 
+- id: 2018-09-10-smashing-conference-freiburg-2018
+  name: Smashing Conference Freiburg 2018
+  url: https://smashingconf.com/freiburg-2018/
+  date:
+    from: 2018-09-10
+    to: 2018-09-11
+  location:
+    country: Germany
+    city: Freiburg
+  description: |-
+    Home, sweet home! The 7th SmashingConf Freiburg — in our lovely hometown in Germany — will be taking place in the Historic Merchants’ Hall on September 10-11.
+
 - id: 2018-09-13-react-alicante-2018
   name: React Alicante 2018
   url: http://reactalicante.es/

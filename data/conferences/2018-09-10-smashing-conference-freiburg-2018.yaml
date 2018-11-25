@@ -1,0 +1,153 @@
+---
+
+- title: Books, Walking, and the Ethics of Scale
+  type: regular
+  date: 2018-08-10
+  location:
+  authors:
+  - name: Craig Mod
+    twitter:
+    github:
+    website:
+  videos:
+  description: |-
+    Systems and products that have the most influence on the world today tend to have the least presence. What tools can we use to make their intangibility and intensely unhuman scale more human and tangible? We'll look at book design, how designers of the 20th century have tackled this problem, and how meditative practices such as vipasanna and walking are useful tools in the contemporary human toolkit.
+
+- title: 'The Small Things That Add Up: How to Find What Design Factors Influence Conversion Rates'
+  type: regular
+  date: 2018-08-10
+  location:
+  authors:
+  - name: Tammy Everts
+    twitter:
+    github:
+    website:
+  videos:
+  - https://vimeo.com/297828304
+  description: |-
+    How do you know what consumers expect from your site? Every shopper is different and every shopping visit is different. Industry stats tell only part of the story. You need to crack the hood and analyze your own real user data.
+
+- title: Building Resilient Frontend Systems
+  type: regular
+  date: 2018-08-10
+  location:
+  authors:
+  - name: Ian Feather
+    twitter:
+    github:
+    website:
+  videos:
+  - https://vimeo.com/297829767
+  description: |-
+    It’s time to accept that system and network failures are inevitable and to start designing our systems to withstand them. Accomplishing this isn’t easy but we’ve learnt a few tricks along the way which we would love to share!
+
+- title: Designing for Global Audiences
+  type: regular
+  date: 2018-08-10
+  location:
+  authors:
+  - name: Chui Chui Tan
+    twitter:
+    github:
+    website:
+  videos:
+  - https://vimeo.com/297829238
+  description: |-
+    Whether or not the product you’re creating is currently only being sold in one country, it’s always crucial to design and build it with global audiences in mind.
+
+- title: I Thought we Were Building World Peace - Using Tech Ethics to Build Better Futures
+  type: regular
+  date: 2018-08-10
+  location:
+  authors:
+  - name: Morten R.-Hendriksen
+    twitter:
+    github:
+    website:
+  videos:
+  - https://vimeo.com/297827456
+  description: |-
+    Every decision we make is one made on behalf of your user. How do we know the decisions we make are the right ones? It is time we initiate a conversation: About where we are and where we want to go, about how we define and measure goodness and rightness in the digital realm, about responsibility, about decisions and consequences, about building something bigger than our own apps. It is time we talk about the ethics of design.
+
+- title: Hack to the Future
+  type: regular
+  date: 2018-08-10
+  location:
+  authors:
+  - name: Seb Lee-Delisle
+    twitter:
+    github:
+    website:
+  videos:
+  - https://vimeo.com/297827821
+  description: |-
+    Seb loves to strip down classic machines from the 80s, and give them an extreme make-over with cutting edge technology. You may have seen the hacked Nintendo light gun with laser, lights and a built-in smoke machine that became a viral sensation on the internet in 2016.
+
+- title: 'The Future of Travel: How Mixed Method Research Helped Shape Airbnb Experiences'
+  type: regular
+  date: 2018-08-11
+  location:
+  authors:
+  - name: Hannah Pileggi
+    twitter:
+    github:
+    website:
+  videos:
+  description: |-
+    Hannah will show us a case study of how she utilised user research to improve business and design decisions on a brand new product – Airbnb Trips.
+
+- title: Designing for Kids is not a Game
+  type: regular
+  date: 2018-08-11
+  location:
+  authors:
+  - name: Trine Falbe
+    twitter:
+    github:
+    website:
+  videos:
+  - https://vimeo.com/297828567
+  description: |-
+    The children of today are growing up in a different paradigm than their parents, who might even remember what the world was like before the Internet!
+
+- title: Taking Back Control Over Third-party Content
+  type: regular
+  date: 2018-08-11
+  location:
+  authors:
+  - name: Yoav Weiss
+    twitter:
+    github:
+    website:
+  videos:
+  - https://vimeo.com/297828895
+  description: |-
+    We have a complex love-hate relationship with the third-party content on our sites, and it has taken a turn for the worse. On the one hand, third-party content often pays the bills. On the other hand, recent developments have increased its “cost.” HTTP/2 means third-party content is even more of a performance burden than before; the weight of that content is taking up an ever larger percentage of our site’s overall bytesize; ad-blockers mean users have had enough; and projects like Google AMP and Facebook Instant Articles mean that embedders feel the same. Our lack of control over what third parties are doing on our sites is showing. How can we gain it back?
+
+- title: 'A Word to the Wise: Writing Product Copy to Transform Your User Experience'
+  type: regular
+  date: 2018-08-11
+  location:
+  authors:
+  - name: Andrea Drugay
+    twitter:
+    github:
+    website:
+  videos:
+  - https://vimeo.com/297829604
+  description: Getting the right words into your product is a process that’s akin
+    to designing with words. Great UX writing isn't a fill-in-the-blanks approach,
+    but a strategy and creative process, just like design and product development.
+
+- title: Design in the Era of the Algorithm
+  type: regular
+  date: 2018-08-11
+  location:
+  authors:
+  - name: Josh Clark
+    twitter:
+    github:
+    website:
+  videos:
+  description: |-
+    The design and presentation of data is just as important as the underlying algorithm, and designers have an urgent role to play in crafting the emerging generation of AI interfaces.
