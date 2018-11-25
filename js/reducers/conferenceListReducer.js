@@ -1,11 +1,13 @@
 import {
   ACTION_CONFERENCE_LIST_IS_FETCHING,
   ACTION_CONFERENCE_LIST_FETCHED,
+  ACTION_CONFERENCE_LIST_ERROR,
 } from '../actions/conferenceListActions.js';
 
 const INITIAL_STATE = {
   data: [],
   isFetching: false,
+  error: null,
 };
 
 const sortByDateFrom = (a, b) => {
@@ -23,12 +25,21 @@ const reducer = (state = INITIAL_STATE, action) => {
       return {
         ...state,
         isFetching: true,
+        error: null,
       };
     case ACTION_CONFERENCE_LIST_FETCHED:
       return {
         ...state,
         isFetching: false,
         data: action.payload.sort(sortByDateFrom),
+        error: null,
+      };
+    case ACTION_CONFERENCE_LIST_ERROR:
+      return {
+        ...state,
+        isFetching: false,
+        data: [],
+        error: action.payload,
       };
   }
 

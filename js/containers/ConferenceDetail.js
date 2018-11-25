@@ -8,6 +8,7 @@ import { fetchList } from '../actions/conferenceListActions.js';
 import ConferenceListItem from '../components/ConferenceListItem.js';
 import ConferenceDetailItem from "../components/ConferenceDetailItem.js";
 import LoadingSpinner from "../components/LoadingSpinner.js";
+import ErrorMessage from "../components/ErrorMessage.js";
 
 const html = htm.bind(h);
 
@@ -32,6 +33,10 @@ class ConferenceDetail extends Component {
             <${ConferenceListItem} ...${conferenceInfo} isDetail="true"}>
          `}
         
+        ${conferenceList.error && !conferenceInfo && html`
+          <${ErrorMessage} message="${conferenceList.error}">
+        `}
+        
         ${conferenceDetails.isFetching && html`
           <${LoadingSpinner}>
         `}
@@ -42,6 +47,10 @@ class ConferenceDetail extends Component {
               <${ConferenceDetailItem} ...${data}>
             `)}
           </ul>
+        `}
+        
+        ${conferenceDetails.error && html`
+          <${ErrorMessage} message="${conferenceDetails.error}">
         `}
       </main>
     `;
