@@ -36,6 +36,7 @@
   <meta name="msapplication-config" content="/img/icon/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">
 
+  <!-- heureka.cz/ui and custom styles -->
   <link rel="stylesheet" href="https://heureka.cz/ui/css/essentials.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600">
   <link rel="stylesheet" href="/css/style.css">
@@ -75,6 +76,7 @@
 
 </div>
 
+<!-- npm packages -->
 <script src="https://unpkg.com/preact@8.3.1/dist/preact.min.js"></script>
 <script src="https://unpkg.com/htm@1.0.1/dist/htm.js"></script>
 <script src="https://unpkg.com/preact-router@2.6.1/dist/preact-router.js"></script>
@@ -83,7 +85,34 @@
 <script src="https://unpkg.com/preact-redux@2.0.3/dist/preact-redux.min.js"></script>
 <script src="https://unpkg.com/redux-thunk@2.3.0/dist/redux-thunk.min.js"></script>
 <script src="https://unpkg.com/js-yaml@3.12.0/dist/js-yaml.min.js"></script>
+
+<!-- Init app -->
 <script type="module" src="/js/components/App.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script>
+
+</script>
+<script>
+  (() => {
+    if (window.location.hostname === 'confpad.io') {
+      const ID = 'UA-129787503-1';
+
+      // Load GTM
+      let script = document.createElement('script');
+      script.async = true;
+      script.src = `https://www.googletagmanager.com/gtag/js?id=${ID}`;
+      document.head.appendChild(script);
+
+      // Configure GTM
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', ID);
+    }
+  })()
+</script>
+
 
 </body>
 </html>
