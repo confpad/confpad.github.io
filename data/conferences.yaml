@@ -1,5 +1,16 @@
 ---
 
+
+- id: 2018-08-31-byteconf-react-2018
+  name: Byteconf React 
+  url: https://www.byteconf.com/react-2018/
+  date:
+    from: 2018-08-31
+    to: 2018-08-31
+  location:
+  description: |-
+    Byteconf React is a 100% free conference with the best JavaScript and React speakers in the world.
+
 - id: 2018-09-03-fullstackfest-2018
   name: Full Stack Fest 2018
   url: https://2018.fullstackfest.com/
@@ -59,3 +70,4 @@
     city: San Francisco, CA
   description: |-
     Connect with Chrome engineers and other leading developers for an exploration of building beautiful and performant experiences.
+
