@@ -23,7 +23,7 @@ const getTitle = (id, name, isDetail) => {
 
   return html`
     <h2 class="u-delta u-bold">
-      <a href="/${id}" class="e-link">${name}</a>
+      <a href="#/${id}" class="e-link">${name}</a>
     </h2>
   `
 };
