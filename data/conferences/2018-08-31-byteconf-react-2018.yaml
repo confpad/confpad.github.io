@@ -1,6 +1,6 @@
 ---
 
-- title: "Reactive Programming: The Solution to JavaScript Fatigue"
+- title: 'Reactive Programming: The Solution to JavaScript Fatigue'
   type: beginner
   date: 2018-08-31
   location:
@@ -28,7 +28,7 @@
   description: |-
     In this talk we’ll explore practical tips and techniques of habit formation to achieve consistency and give special attention to the topic of conquering the inner demons of doubt and fear, dealing with stress and frustration. The goal is to achieve consistency of a professional over the motivational ‘seesaw’ of an amateur.
     
-- title: "Learning Backwards: Learning CS Through the Lens of React"
+- title: 'Learning Backwards: Learning CS Through the Lens of React'
   type: intermediate
   date: 2018-08-31
   location:
@@ -70,7 +70,7 @@
   description: |-
     Full acceptance test suites that run in the browser are slow, flakey, awkward to write, and hard to maintain. This is the lore that has been handed down to JS developers for generations. But what if that was fiction? What if your UI tests were fast, robust, and a breeze to maintain?
         
-- title: "Dr Strangelove: or how I stopped worrying and learned to love higher order functions"
+- title: 'Dr Strangelove: or how I stopped worrying and learned to love higher order functions'
   type: intermediate
   date: 2018-08-31
   location:
@@ -111,4 +111,3 @@
   - https://youtu.be/zGlnlP99aFk
   description: |-
     Let's rethink what it means to ship applications with confidence and what it takes to get there. With improved tools and practices, we can be more certain that what we're shipping to our users will work the way it's intended.
-    
