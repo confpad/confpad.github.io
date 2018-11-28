@@ -24,17 +24,17 @@ const getTitle = (title, type) => html`
 `;
 
 const getAuthorName = name => html`
-  <div>
+  <li class="c-pipe-list__item">
     👤
     ${name}
-  </div>
+  </li>
 `;
 
 const getAuthorLink = (title, link, text) => html`
-  <div>
+  <li class="c-pipe-list__item">
     ${title}:
     <a href="${link}" target="_blank" class="e-link">${text}</a>
-  </div>
+  </li>
 `;
 
 const getAuthorTwitter = username => {
@@ -88,7 +88,7 @@ const ConferenceDetailItem = props => html`
     ${getTitle(props.title, props.type)}
     <div class="conference-detail-item__data conference-list-item o-block-list o-block-list--tight">
       ${props.authors && props.authors.map(author => html`
-        <div class="o-inline-list">
+        <div class="c-pipe-list">
           ${author.name && getAuthorName(author.name)}
           ${author.twitter && getAuthorTwitter(author.twitter)}
           ${author.github && getAuthorGithub(author.github)}
