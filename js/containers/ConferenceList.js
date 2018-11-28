@@ -4,6 +4,7 @@ const { connect } = window.preactRedux;
 const htm = window.htm;
 
 import { fetchList } from '../actions/conferenceListActions.js';
+import { saveScrollPositionYList } from '../actions/scrollPositionActions.js';
 import ConferenceListItem from '../components/ConferenceListItem.js';
 import LoadingSpinner from "../components/LoadingSpinner.js";
 import ErrorMessage from "../components/ErrorMessage.js";
@@ -14,6 +15,12 @@ class ConferenceList extends Component {
 
   componentDidMount() {
     this.props.fetchList();
+
+    window.scrollTo(0, this.props.scrollPositions.list);
+  }
+
+  componentWillUnmount() {
+    this.props.saveScrollPositionYList(window.scrollY);
   }
 
   render(props) {
@@ -45,11 +52,12 @@ class ConferenceList extends Component {
 const mapStateToProps = state => {
   return {
     conferenceList: state.conferenceList,
+    scrollPositions: state.scrollPositions,
   }
 };
 
 const mapDispatchToProps = dispatch => {
-  return bindActionCreators({ fetchList }, dispatch);
+  return bindActionCreators({ fetchList, saveScrollPositionYList }, dispatch);
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(ConferenceList);

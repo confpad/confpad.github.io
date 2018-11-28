@@ -17,6 +17,8 @@ class ConferenceDetail extends Component {
   componentDidMount() {
     this.props.fetchList();
     this.props.fetchDetail(this.props.conferenceId);
+
+    window.scrollTo(0, 0);
   }
 
   render(props) {
