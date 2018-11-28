@@ -8,7 +8,7 @@ const ErrorMessage = props => {
 
   return html`
     <div class="c-notice c-notice--error" role="alert">
-    <div class="c-notice__content">
+      <div class="c-notice__content">
         <h5 class="e-heading u-epsilon">Error!</h5>
         <div>
           <div>
@@ -22,6 +22,7 @@ const ErrorMessage = props => {
             </div>
           `}
         </div>
+      </div>
     </div>
   `;
 };
