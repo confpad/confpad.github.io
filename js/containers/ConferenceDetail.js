@@ -29,7 +29,7 @@ class ConferenceDetail extends Component {
     return html`
       <main>
         ${conferenceList.isFetching && html`
-          <${LoadingSpinner}>
+          <${LoadingSpinner} />
         `}
         
         ${conferenceInfo && html`
@@ -44,19 +44,19 @@ class ConferenceDetail extends Component {
         `}
         
         ${conferenceDetails.isFetching && html`
-          <${LoadingSpinner}>
+          <${LoadingSpinner} />
         `}
         
         ${conferenceDetails.data && html`
           <ul class="o-block-list o-block-list--loose">
             ${conferenceDetails.data.map(data => html`
-              <${ConferenceDetailItem} ...${data}>
+              <${ConferenceDetailItem} ...${data} />
             `)}
           </ul>
         `}
         
         ${conferenceDetails.error && html`
-          <${ErrorMessage} message="${conferenceDetails.error}">
+          <${ErrorMessage} message="${conferenceDetails.error}" />
         `}
       </main>
     `;

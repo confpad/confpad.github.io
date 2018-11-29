@@ -29,19 +29,19 @@ class ConferenceList extends Component {
     return html`
       <main>
         ${conferenceList.isFetching && html`
-          <${LoadingSpinner}>
+          <${LoadingSpinner} />
         `}
         
         ${conferenceList.data && html`
           <ul class="o-block-list o-block-list--loose">
             ${conferenceList.data.map(data => html`
-              <${ConferenceListItem} ...${data}>
+              <${ConferenceListItem} ...${data} />
             `)}
           </ul>
         `}
         
         ${conferenceList.error && html`
-          <${ErrorMessage} message="${conferenceList.error}">
+          <${ErrorMessage} message="${conferenceList.error}" />
         `}
       </main>
     `;
