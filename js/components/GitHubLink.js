@@ -10,7 +10,7 @@ const GitHubLink = props => {
 
   return html`
     <div class="c-notice c-notice--small c-notice--success">
-      <span>This page was generated from <a href="${link}" target="_blank">this YAML</a>. Found a typo, want to add some data? Just edit it on GitHub.</span>
+      <span>This page was generated from <a href="${link}" target="_blank">this YAML</a> file. Found a typo, want to add some data? Just edit it on GitHub.</span>
     </div>
   `;
 };
