@@ -7,6 +7,7 @@ import { fetchDetail } from '../actions/conferenceDetailActions.js';
 import { fetchList } from '../actions/conferenceListActions.js';
 import ConferenceListItem from '../components/ConferenceListItem.js';
 import ConferenceDetailItem from "../components/ConferenceDetailItem.js";
+import GitHubLink from "../components/GitHubLink.js";
 import LoadingSpinner from "../components/LoadingSpinner.js";
 import ErrorMessage from "../components/ErrorMessage.js";
 
@@ -22,7 +23,7 @@ class ConferenceDetail extends Component {
   }
 
   render(props) {
-    let { conferenceDetails, conferenceList } = props;
+    let { conferenceId, conferenceDetails, conferenceList } = props;
     let conferenceInfo = conferenceList.data.find(item => item.id === props.conferenceId);
 
     return html`
@@ -32,7 +33,10 @@ class ConferenceDetail extends Component {
         `}
         
         ${conferenceInfo && html`
-            <${ConferenceListItem} ...${conferenceInfo} isDetail="true"}>
+            <div>
+              <${ConferenceListItem} ...${conferenceInfo} isDetail="true"} />
+              <${GitHubLink} conferenceId=${conferenceId} />
+            </div>
          `}
         
         ${conferenceList.error && !conferenceInfo && html`
