@@ -21,6 +21,7 @@
 
 ## TODO
 
+* Inline videos
 * Add microdata
 * Show date and location for individual talks
 * Add filters for dates and locations to conference detail
