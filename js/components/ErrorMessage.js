@@ -6,6 +6,12 @@ const html = htm.bind(h);
 const ErrorMessage = props => {
   let { message } = props;
 
+  let url = 'https://github.com/confpad/confpad.github.io/issues';
+  if (message) {
+    let messageEncoded = encodeURIComponent(message);
+    url = `${url}/new?title=${messageEncoded}`;
+  }
+
   return html`
     <div class="c-notice c-notice--error" role="alert">
       <div class="c-notice__content">
@@ -13,7 +19,7 @@ const ErrorMessage = props => {
         <div>
           <div>
             Something nasty happened, please report it as a
-            <a href="https://github.com/confpad/confpad.github.io/issues" target="_blank" class="e-link">GitHub issue</a>.
+            <a href="${url}" target="_blank" class="e-link">GitHub issue</a>.
           </div>
           ${message && html`
             <div class="u-quarter-spacing">
