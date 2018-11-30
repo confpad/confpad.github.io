@@ -6,11 +6,9 @@ const html = htm.bind(h);
 const ErrorMessage = props => {
   let { message } = props;
 
-  let url = 'https://github.com/confpad/confpad.github.io/issues';
-  if (message) {
-    let messageEncoded = encodeURIComponent(message);
-    url = `${url}/new?title=${messageEncoded}`;
-  }
+  let title = encodeURIComponent(message || '');
+  let body = encodeURIComponent(`Location: ${window.location.href}`);
+  let url = `https://github.com/confpad/confpad.github.io/issues/new?title=${title}&body=${body}`;
 
   return html`
     <div class="c-notice c-notice--error" role="alert">
