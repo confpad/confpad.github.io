@@ -18,7 +18,7 @@ const ErrorMessage = props => {
           ${message && html`
             <div class="u-quarter-spacing">
               <strong>Details:</strong>
-              <pre>${message}</pre>
+              <p>${message}</p>
             </div>
           `}
         </div>
