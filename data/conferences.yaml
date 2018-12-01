@@ -1,5 +1,16 @@
 ---
 
+- id: 2018-05-11-pycon-2018
+  name: PyCon 2018
+  url: https://us.pycon.org/2018/
+  date:
+    from: 2018-05-11
+    to: 2018-05-13
+  location:
+    country: USA
+    city: Cleveland, OH
+  description: |-
+    The PyCon 2018 conference, which will take place in Cleveland, is the largest annual gathering for the community using and developing the open-source Python programming language.
 
 - id: 2018-08-31-byteconf-react-2018
   name: Byteconf React 2018
