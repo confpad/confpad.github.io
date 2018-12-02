@@ -1,13 +1,14 @@
 ---
 
 - title: 'Reactive Programming: The Solution to JavaScript Fatigue'
-  type: beginner
+  type: regular
+  level: beginner
   date: 2018-08-31
   location:
   authors:
   - name: Tracy Lee
     twitter: ladyleet
-  slides: 
+  slides:
   - https://www.slideshare.net/ladyleet/reactive-programming-with-rxjs-byteconf-2018
   videos:
   - https://youtu.be/iyW9yMRMm4c
@@ -15,7 +16,8 @@
     Learn how to create a more composable application architecture and an arsenal of lego bricks with RxJS, a push based primitive and domain specific language that sits on top of JavaScript.
     
 - title: Applying the science of habit formation to improve coding skills
-  type: beginner
+  type: regular
+  level: beginner
   date: 2018-08-31
   location: 
   authors:
@@ -29,7 +31,8 @@
     In this talk we’ll explore practical tips and techniques of habit formation to achieve consistency and give special attention to the topic of conquering the inner demons of doubt and fear, dealing with stress and frustration. The goal is to achieve consistency of a professional over the motivational ‘seesaw’ of an amateur.
     
 - title: 'Learning Backwards: Learning CS Through the Lens of React'
-  type: intermediate
+  type: regular
+  level: intermediate
   date: 2018-08-31
   location:
   authors:
@@ -43,7 +46,8 @@
    So many devs join the industry from alternative pathways, and many missed out on a CS education because of it. That's awesome that people are diving in and making great stuff! Let's augment that skill and reach the next level by using what we know to learn some CS from React.    
 
 - title: Insights from building rich animated experiences in React
-  type: intermediate
+  type: regular
+  level: intermediate
   date: 2018-08-31
   location:
   authors:
@@ -57,7 +61,8 @@
     Have you ever wondered why good performance is so hard to achieve in heavy animated web applications? This talk is a practical retrospective on the discoveries, the pains and the journey that led me to build reliable bulletproof animations and transitions in real life production projects.
     
 - title: Testing Big with BigTest in React
-  type: intermediate
+  type: regular
+  level: intermediate
   date: 2018-08-31
   location:
   authors:
@@ -71,7 +76,8 @@
     Full acceptance test suites that run in the browser are slow, flakey, awkward to write, and hard to maintain. This is the lore that has been handed down to JS developers for generations. But what if that was fiction? What if your UI tests were fast, robust, and a breeze to maintain?
         
 - title: 'Dr Strangelove: or how I stopped worrying and learned to love higher order functions'
-  type: intermediate
+  type: regular
+  level: intermediate
   date: 2018-08-31
   location:
   authors:
@@ -85,7 +91,8 @@
     Functional programming has moved from academic to must-know but with Setoid and Monoid Endofunctors, the barrier to entry is high. This talk dives into the whats and whys of functional programming, and showcasing how to use it to solve real-world problems.
             
 - title: Building AR Apps with React Native
-  type: intermediate
+  type: regular
+  level: intermediate
   date: 2018-08-31
   location:
   authors:
@@ -99,7 +106,8 @@
     With the release of ARKit and ARCore by Apple and Google we see various Augmented reality apps created for iOS and Android. Have you ever wondered how you can create such apps in React Native? In this talk we will see how it can be done fairly easily.
                 
 - title: Confident React
-  type: beginner
+  type: regular
+  level: beginner
   date: 2018-08-31
   location:
   authors:

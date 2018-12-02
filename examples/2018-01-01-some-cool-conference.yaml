@@ -2,6 +2,7 @@
 
 - title: How to XYZ
   type: regular # [regular, lightning]
+  level: beginner # [beginner, intermediate, advanced]
   date: 2018-09-03
   location: # Room number, room name, …
   authors:
