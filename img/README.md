@@ -4,6 +4,6 @@
 
 GPL: https://www.iconfinder.com/icons/1055023/audio_mic_microphone_icon
 
-## Twitter, GitHub icons
+## Twitter, Facebook and GitHub icons
 
 MIT: https://github.com/edent/SuperTinyIcons
