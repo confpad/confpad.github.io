@@ -1,0 +1,10 @@
+FROM node:11-alpine
+
+WORKDIR /app
+
+RUN yarn global add jest
+
+RUN yarn add glob
+RUN yarn add js-yaml
+
+CMD ["jest", "/app/test"]

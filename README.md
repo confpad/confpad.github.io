@@ -19,6 +19,12 @@
    * Python 3.x: `python -m http.server 8080`
    * Ruby: `ruby -run -e httpd . -p 8080`
 
+## Tests
+
+* Run `make test`
+* You should verify the newly added config files have all required properties. Have a look at examples directory.
+* Dependencies: Docker
+
 ## TODO
 
 * Inline videos
