@@ -26,6 +26,10 @@ class ConferenceDetail extends Component {
     let { conferenceId, conferenceDetails, conferenceList } = props;
     let conferenceInfo = conferenceList.data.find(item => item.id === props.conferenceId);
 
+    if (conferenceInfo) {
+      document.title = `ConfPad | ${conferenceInfo.name}`;
+    }
+
     return html`
       <main>
         ${conferenceList.isFetching && html`

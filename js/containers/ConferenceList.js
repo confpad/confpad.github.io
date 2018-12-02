@@ -17,6 +17,8 @@ class ConferenceList extends Component {
     this.props.fetchList();
 
     window.scrollTo(0, this.props.scrollPositions.list);
+
+    document.title = 'ConfPad';
   }
 
   componentWillUnmount() {
