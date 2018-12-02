@@ -4,7 +4,7 @@
   type: regular
   level:
   date: 2018-08-10
-  location:
+  room:
   authors:
   - name: Craig Mod
     twitter:
@@ -19,7 +19,7 @@
   type: regular
   level:
   date: 2018-08-10
-  location:
+  room:
   authors:
   - name: Tammy Everts
     twitter:
@@ -35,7 +35,7 @@
   type: regular
   level:
   date: 2018-08-10
-  location:
+  room:
   authors:
   - name: Ian Feather
     twitter:
@@ -51,7 +51,7 @@
   type: regular
   level:
   date: 2018-08-10
-  location:
+  room:
   authors:
   - name: Chui Chui Tan
     twitter:
@@ -67,7 +67,7 @@
   type: regular
   level:
   date: 2018-08-10
-  location:
+  room:
   authors:
   - name: Morten R.-Hendriksen
     twitter:
@@ -83,7 +83,7 @@
   type: regular
   level:
   date: 2018-08-10
-  location:
+  room:
   authors:
   - name: Seb Lee-Delisle
     twitter:
@@ -99,7 +99,7 @@
   type: regular
   level:
   date: 2018-08-11
-  location:
+  room:
   authors:
   - name: Hannah Pileggi
     twitter:
@@ -114,7 +114,7 @@
   type: regular
   level:
   date: 2018-08-11
-  location:
+  room:
   authors:
   - name: Trine Falbe
     twitter:
@@ -130,7 +130,7 @@
   type: regular
   level:
   date: 2018-08-11
-  location:
+  room:
   authors:
   - name: Yoav Weiss
     twitter:
@@ -146,7 +146,7 @@
   type: regular
   level:
   date: 2018-08-11
-  location:
+  room:
   authors:
   - name: Andrea Drugay
     twitter:
@@ -163,7 +163,7 @@
   type: regular
   level:
   date: 2018-08-11
-  location:
+  room:
   authors:
   - name: Josh Clark
     twitter:

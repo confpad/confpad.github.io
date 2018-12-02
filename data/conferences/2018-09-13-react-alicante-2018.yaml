@@ -4,7 +4,7 @@
   type: regular
   level:
   date: 2018-09-14
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Dominik Kundel
     twitter: dkundel
@@ -21,7 +21,7 @@
   type: regular
   level:
   date: 2018-09-14
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Sara Vieira
     twitter: NikkitaFTW
@@ -38,7 +38,7 @@
   type: regular
   level:
   date: 2018-09-14
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Erik Rasmussen
     twitter: erikras
@@ -55,7 +55,7 @@
   type: regular
   level:
   date: 2018-09-14
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Henning Muszynski
     twitter: henningmus
@@ -71,7 +71,7 @@
   type: regular
   level:
   date: 2018-09-14
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Gant Laborde
     twitter: GantLaborde
@@ -88,7 +88,7 @@
   type: lightning
   level:
   date: 2018-09-14
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Flavio Corpa
     twitter: FlavioCorpa
@@ -104,7 +104,7 @@
   type: lightning
   level:
   date: 2018-09-14
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Olena Sovyn
     twitter: frontendgirl
@@ -120,7 +120,7 @@
   type: lightning
   level:
   date: 2018-09-14
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Javi Velasco
     twitter: javivelasco
@@ -135,7 +135,7 @@
   type: regular
   level:
   date: 2018-09-14
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Tomasz Lakomy
     twitter: tlakomy
@@ -152,7 +152,7 @@
   type: regular
   level:
   date: 2018-09-14
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Alex Jover
     twitter: alexjoverm
@@ -169,7 +169,7 @@
   type: regular
   level:
   date: 2018-09-14
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Ben Ilegbodu
     twitter: benmvp
@@ -186,7 +186,7 @@
   type: regular
   level:
   date: 2018-09-14
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Raúl Gómez
     twitter: rgommezz
@@ -203,7 +203,7 @@
   type: regular
   level:
   date: 2018-09-15
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Marco Cedaro
     twitter: cedmax
@@ -220,7 +220,7 @@
   type: regular
   level:
   date: 2018-09-15
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Manjula Dube
     twitter: manjula_dube
@@ -237,7 +237,7 @@
   type: regular
   level:
   date: 2018-09-15
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Jared Palmer
     twitter: jaredpalmer
@@ -254,7 +254,7 @@
   type: regular
   level:
   date: 2018-09-15
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Brent Vatne
     twitter: notbrent
@@ -271,7 +271,7 @@
   type: regular
   level:
   date: 2018-09-15
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Kaylie Kwon
     twitter: kaylie_alexa
@@ -287,7 +287,7 @@
   type: lightning
   level:
   date: 2018-09-15
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Patrick Stapfer
     twitter: ryyppy
@@ -302,7 +302,7 @@
   type: lightning
   level:
   date: 2018-09-15
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Anna Gruber
     twitter: futuranna
@@ -317,7 +317,7 @@
   type: regular
   level:
   date: 2018-09-15
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Forbes Lindesay
     twitter: ForbesLindesay
@@ -334,7 +334,7 @@
   type: regular
   level:
   date: 2018-09-15
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Ferran Negre
     twitter: ferrannp
@@ -351,7 +351,7 @@
   type: regular
   level:
   date: 2018-09-15
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Kamlesh Chandnani
     twitter: _kamlesh_
@@ -368,7 +368,7 @@
   type: regular
   level:
   date: 2018-09-15
-  location: Room Europa
+  room: Room Europa
   authors:
   - name: Kristijan Ristovski
     twitter: thekitze

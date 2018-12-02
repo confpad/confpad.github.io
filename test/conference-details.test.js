@@ -3,7 +3,7 @@ const fs = require('fs');
 const glob = require('glob');
 const jsyaml = require('js-yaml');
 
-const ROOT_KEYS = ['title', 'type', 'level', 'date', 'location', 'authors', 'slides', 'videos', 'description'];
+const ROOT_KEYS = ['title', 'type', 'level', 'date', 'room', 'authors', 'slides', 'videos', 'description'];
 const AUTHOR_KEYS = ['name', 'twitter', 'github', 'website'];
 
 glob.sync('{./data/conferences/*.yaml,./examples/2018-01-01-some-cool-conference.yaml}').forEach(file => {

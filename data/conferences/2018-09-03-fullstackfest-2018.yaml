@@ -4,7 +4,7 @@
   type: regular
   level:
   date: 2018-09-03
-  location:
+  room:
   authors:
   - name: André Staltz
     twitter: andrestaltz
@@ -19,7 +19,7 @@
   type: regular
   level:
   date: 2018-09-03
-  location:
+  room:
   authors:
   - name: Kalyan Dikshit
     twitter: decode_dev
@@ -35,7 +35,7 @@
   type: regular
   level:
   date: 2018-09-03
-  location:
+  room:
   authors:
   - name: Horea Porutiu
     twitter: horeaporutiu
@@ -51,7 +51,7 @@
   type: regular
   level:
   date: 2018-09-03
-  location:
+  room:
   authors:
   - name: Rae Krantz
     twitter: rustbeltrae
@@ -66,7 +66,7 @@
   type: regular
   level:
   date: 2018-09-03
-  location:
+  room:
   authors:
   - name: Prabh Simran Singh Baweja
     twitter: prabh_baweja
@@ -81,7 +81,7 @@
   type: regular
   level:
   date: 2018-09-03
-  location:
+  room:
   authors:
   - name: Adam L Smith
     twitter: adamleonsmith
@@ -96,7 +96,7 @@
   type: regular
   level:
   date: 2018-09-03
-  location:
+  room:
   authors:
   - name: Sasha Romijn
     twitter: mxsash
@@ -111,7 +111,7 @@
   type: regular
   level:
   date: 2018-09-03
-  location:
+  room:
   authors:
   - name: Silvia Puglisi
     twitter: nopressure
@@ -126,7 +126,7 @@
   type: regular
   level:
   date: 2018-09-04
-  location:
+  room:
   authors:
   - name: Charity Majors
     twitter: mipsytipsy
@@ -141,7 +141,7 @@
   type: regular
   level:
   date: 2018-09-04
-  location:
+  room:
   authors:
   - name: Matt Turner
     twitter: mt165pro
@@ -156,7 +156,7 @@
   type: regular
   level:
   date: 2018-09-04
-  location:
+  room:
   authors:
   - name: Michael Hamrah
     twitter: mhamrah
@@ -171,7 +171,7 @@
   type: regular
   level:
   date: 2018-09-04
-  location:
+  room:
   authors:
   - name: Tom Enden
     twitter: tom_enden
@@ -186,7 +186,7 @@
   type: regular
   level:
   date: 2018-09-04
-  location:
+  room:
   authors:
   - name: Jeremy Wagner
     twitter: malchata
@@ -201,7 +201,7 @@
   type: regular
   level:
   date: 2018-09-04
-  location:
+  room:
   authors:
   - name: Bernd Rücker
     twitter: berndruecker
@@ -216,7 +216,7 @@
   type: lightning
   level:
   date: 2018-09-04
-  location:
+  room:
   authors:
   slides:
   videos:
@@ -227,7 +227,7 @@
   type: regular
   level:
   date: 2018-09-04
-  location:
+  room:
   authors:
   - name: Beth Haubert
     twitter: haubertdashery
@@ -242,7 +242,7 @@
   type: regular
   level:
   date: 2018-09-06
-  location:
+  room:
   authors:
   - name: Tara Vancil
     twitter: taravancil
@@ -257,7 +257,7 @@
   type: regular
   level:
   date: 2018-09-06
-  location:
+  room:
   authors:
   - name: Patrick Hamann
     twitter: patrickhamann
@@ -272,7 +272,7 @@
   type: regular
   level:
   date: 2018-09-06
-  location:
+  room:
   authors:
   - name: Sia Karamalegos
     twitter: thegreengreek
@@ -287,7 +287,7 @@
   type: regular
   level:
   date: 2018-09-06
-  location:
+  room:
   authors:
   - name: Serg Hospodarets
     twitter: malyw
@@ -302,7 +302,7 @@
   type: regular
   level:
   date: 2018-09-06
-  location:
+  room:
   authors:
   - name: LeRenzo Malcom
     twitter: lerenzom
@@ -317,7 +317,7 @@
   type: regular
   level:
   date: 2018-09-06
-  location:
+  room:
   authors:
   - name: David Khourshid
     twitter: davidkpiano
@@ -332,7 +332,7 @@
   type: regular
   level:
   date: 2018-09-06
-  location:
+  room:
   authors:
   - name: Susanna Wong
     twitter: studioswong
@@ -347,7 +347,7 @@
   type: regular
   level:
   date: 2018-09-06
-  location:
+  room:
   authors:
   - name: Andrew Louis
     twitter: hyfen
@@ -362,7 +362,7 @@
   type: regular
   level:
   date: 2018-09-07
-  location:
+  room:
   authors:
   - name: Mauricio Palma
     twitter: palmaswell
@@ -377,7 +377,7 @@
   type: regular
   level:
   date: 2018-09-07
-  location:
+  room:
   authors:
   - name: Suby Raman
     twitter: subyraman
@@ -392,7 +392,7 @@
   type: regular
   level:
   date: 2018-09-07
-  location:
+  room:
   authors:
   - name: Krystian Czesak
     twitter: krystosterone
@@ -407,7 +407,7 @@
   type: regular
   level:
   date: 2018-09-07
-  location:
+  room:
   authors:
   - name: Zack Argyle
     twitter: zackargyle
@@ -422,7 +422,7 @@
   type: regular
   level:
   date: 2018-09-07
-  location:
+  room:
   authors:
   - name: Timothy Clifford
     twitter: timothyclifford
@@ -437,7 +437,7 @@
   type: regular
   level:
   date: 2018-09-07
-  location:
+  room:
   authors:
   - name: Miriam Suzanne
     twitter: mirisuzanne
@@ -452,7 +452,7 @@
   type: regular
   level:
   date: 2018-09-07
-  location:
+  room:
   authors:
   - name: Diego González
     twitter:
@@ -471,7 +471,7 @@
   type: lightning
   level:
   date: 2018-09-07
-  location:
+  room:
   authors:
   slides:
   videos:

@@ -4,7 +4,7 @@
   type: regular
   level:
   date: 2018-10-25
-  location:
+  room:
   authors:
   - name: Sophie Alpert
     twitter: sophiebits
@@ -23,7 +23,7 @@
   type: regular
   level:
   date: 2018-10-25
-  location:
+  room:
   authors:
   - name: Ryan Florence
     twitter: ryanflorence
@@ -39,7 +39,7 @@
   type: regular
   level:
   date: 2018-10-25
-  location:
+  room:
   authors:
   - name: Christina Holland
     twitter: americanwombat
@@ -55,7 +55,7 @@
   type: regular
   level:
   date: 2018-10-25
-  location:
+  room:
   authors:
   - name: Matt Perry
     twitter: popmotionjs
@@ -71,7 +71,7 @@
   type: lightning
   level:
   date: 2018-10-25
-  location:
+  room:
   authors:
   - name: Joe Haddad
     twitter:
@@ -86,7 +86,7 @@
   type: lightning
   level:
   date: 2018-10-25
-  location:
+  room:
   authors:
   - name: Bryce Kalow
     twitter:
@@ -101,7 +101,7 @@
   type: lightning
   level:
   date: 2018-10-25
-  location:
+  room:
   authors:
   - name: Marcos Martins
     twitter:
@@ -116,7 +116,7 @@
   type: lightning
   level:
   date: 2018-10-25
-  location:
+  room:
   authors:
   - name: Karl Dray
     twitter:
@@ -131,7 +131,7 @@
   type: lightning
   level:
   date: 2018-10-25
-  location:
+  room:
   authors:
   - name: Leta Keane
     twitter:
@@ -147,7 +147,7 @@
   type: regular
   level:
   date: 2018-10-25
-  location:
+  room:
   authors:
   - name: Conor Hastings
     twitter: stillconor
@@ -163,7 +163,7 @@
   type: regular
   level:
   date: 2018-10-25
-  location:
+  room:
   authors:
   - name: Nat Alison
     twitter: tesseralis
@@ -179,7 +179,7 @@
   type: regular
   level:
   date: 2018-10-25
-  location:
+  room:
   authors:
   - name: Pulkit Kakkar
     twitter: pulkitkkr0
@@ -196,7 +196,7 @@
   type: regular
   level:
   date: 2018-10-25
-  location:
+  room:
   authors:
   - name: Florian Rival
     twitter: FlorianRival
@@ -212,7 +212,7 @@
   type: regular
   level:
   date: 2018-10-25
-  location:
+  room:
   authors:
   - name: Rodrigo Quezada
     twitter: rodikana
@@ -228,7 +228,7 @@
   type: regular
   level:
   date: 2018-10-26
-  location:
+  room:
   authors:
   - name: Andrew Clark
     twitter: acdlite
@@ -247,7 +247,7 @@
   type: regular
   level:
   date: 2018-10-26
-  location:
+  room:
   authors:
   - name: Jared Palmer
     twitter: jaredpalmer
@@ -263,7 +263,7 @@
   type: regular
   level:
   date: 2018-10-26
-  location:
+  room:
   authors:
   - name: Elizabet Oliveira
     twitter: miuki_miu
@@ -279,7 +279,7 @@
   type: regular
   level:
   date: 2018-10-26
-  location:
+  room:
   authors:
   - name: Chris Trevino
     twitter: darthtrevino
@@ -295,7 +295,7 @@
   type: regular
   level:
   date: 2018-10-26
-  location:
+  room:
   authors:
   - name: Damini Satya Kammakomati
     twitter: Daminisatya
@@ -311,7 +311,7 @@
   type: lightning
   level:
   date: 2018-10-26
-  location:
+  room:
   authors:
   - name: Sophia Shoemaker
     twitter:
@@ -326,7 +326,7 @@
   type: lightning
   level:
   date: 2018-10-26
-  location:
+  room:
   authors:
   - name: Manuela Castrillon
     twitter:
@@ -341,7 +341,7 @@
   type: lightning
   level:
   date: 2018-10-26
-  location:
+  room:
   authors:
   - name: Donavon West
     twitter:
@@ -356,7 +356,7 @@
   type: lightning
   level:
   date: 2018-10-26
-  location:
+  room:
   authors:
   - name: Tyler Clark
     twitter:
@@ -371,7 +371,7 @@
   type: regular
   level:
   date: 2018-10-26
-  location:
+  room:
   authors:
   - name: James Long
     twitter: jlongster
@@ -387,7 +387,7 @@
   type: regular
   level:
   date: 2018-10-26
-  location:
+  room:
   authors:
   - name: Parashuram N
     twitter: nparashuram
@@ -403,7 +403,7 @@
   type: regular
   level:
   date: 2018-10-26
-  location:
+  room:
   authors:
   - name: Tomáš Ehrlich
     twitter: tomas_ehrlich
@@ -419,7 +419,7 @@
   type: regular
   level:
   date: 2018-10-26
-  location:
+  room:
   authors:
   - name: Thomas Aylott
     twitter: subtlegradient
@@ -435,7 +435,7 @@
   type: regular
   level:
   date: 2018-10-26
-  location:
+  room:
   authors:
   - name: Eyitayo Alimi
     twitter: alimieyitayo

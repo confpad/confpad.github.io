@@ -4,7 +4,7 @@
   type: regular
   level:
   date: 2018-11-12
-  location:
+  room:
   authors:
   - name: Ben Galbraith
     twitter: bgalbs
@@ -24,7 +24,7 @@
   type: regular
   level:
   date: 2018-11-12
-  location:
+  room:
   authors:
   - name: Aanchal Bahadur
     twitter: aanchalbahadur
@@ -52,7 +52,7 @@
   type: regular
   level:
   date: 2018-11-12
-  location:
+  room:
   authors:
   - name: Paul Irish
     twitter: paul_irish
@@ -72,7 +72,7 @@
   type: regular
   level:
   date: 2018-11-12
-  location:
+  room:
   authors:
   - name: Houssein Djirdeh
     twitter: hdjirdeh
@@ -93,7 +93,7 @@
   type: regular
   level:
   date: 2018-11-12
-  location:
+  room:
   authors:
   - name: Ewa Gasperowicz
     twitter: devnook
@@ -113,7 +113,7 @@
   type: regular
   level:
   date: 2018-11-12
-  location:
+  room:
   authors:
   - name: Jason Miller
     twitter: _developit
@@ -133,7 +133,7 @@
   type: regular
   level:
   date: 2018-11-12
-  location:
+  room:
   authors:
   - name: Jake Archibald
     twitter: jaffathecake
@@ -153,7 +153,7 @@
   type: regular
   level:
   date: 2018-11-12
-  location:
+  room:
   authors:
   - name: François Beaufort
     twitter:
@@ -173,7 +173,7 @@
   type: regular
   level:
   date: 2018-11-12
-  location:
+  room:
   authors:
   - name: Cheney Tsai
     twitter: cheneytsai
@@ -193,7 +193,7 @@
   type: regular
   level:
   date: 2018-11-12
-  location:
+  room:
   authors:
   - name: Alberto Medina
     twitter: ialbmedina
@@ -213,7 +213,7 @@
   type: regular
   level:
   date: 2018-11-12
-  location:
+  room:
   authors:
   - name: Martin Splitt
     twitter: g33konaut
@@ -233,7 +233,7 @@
   type: regular
   level:
   date: 2018-11-13
-  location:
+  room:
   authors:
   - name: Malte Ubl
     twitter: cramforce
@@ -253,7 +253,7 @@
   type: regular
   level:
   date: 2018-11-13
-  location:
+  room:
   authors:
   - name: Jason Chase
     twitter:
@@ -269,7 +269,7 @@
   type: regular
   level:
   date: 2018-11-13
-  location:
+  room:
   authors:
   - name: Gray Norton
     twitter: graynorton
@@ -285,7 +285,7 @@
   type: regular
   level:
   date: 2018-11-13
-  location:
+  room:
   authors:
   - name: Shubhie Panicker
     twitter: shubhie
@@ -305,7 +305,7 @@
   type: regular
   level:
   date: 2018-11-13
-  location:
+  room:
   authors:
   - name: Paul Lewis
     twitter: aerotwist
@@ -325,7 +325,7 @@
   type: regular
   level:
   date: 2018-11-13
-  location:
+  room:
   authors:
   - name: Kinuko Yasuda
     twitter:
@@ -353,7 +353,7 @@
   type: regular
   level:
   date: 2018-11-13
-  location:
+  room:
   authors:
   - name: Surma
     twitter: DasSurma
@@ -369,7 +369,7 @@
   type: regular
   level:
   date: 2018-11-13
-  location:
+  room:
   authors:
   - name: Chris Wilson
     twitter: cwilso
@@ -389,7 +389,7 @@
   type: regular
   level:
   date: 2018-11-13
-  location:
+  room:
   authors:
   - name: Alex Danilo
     twitter: alexanderdanilo
@@ -409,7 +409,7 @@
   type: regular
   level:
   date: 2018-11-13
-  location:
+  room:
   authors:
   - name: Justin Fagnani
     twitter: justinfagnani
@@ -425,7 +425,7 @@
   type: regular
   level:
   date: 2018-11-13
-  location:
+  room:
   authors:
   - name: Dan Dascalescu
     twitter: dandv

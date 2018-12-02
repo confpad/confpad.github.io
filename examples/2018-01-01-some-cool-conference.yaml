@@ -4,7 +4,7 @@
   type: regular # [regular, lightning]
   level: beginner # [beginner, intermediate, advanced]
   date: 2018-09-03
-  location: # Room number, room name, …
+  room: # Room number, room name, …
   authors:
   - name: John Doe
     twitter: johndoe
