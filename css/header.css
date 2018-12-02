@@ -3,8 +3,12 @@
   padding-bottom: 1em;
 }
 
-.header__heading {
+.header__stripe {
   justify-content: space-between;
+}
+
+.header__title {
+  color: #404040;
 }
 
 .header__link {}
@@ -15,6 +19,7 @@
 }
 
 .header__icon {
+  vertical-align: middle;
   width: 1.75em;
   height: 1.75em;
 }
