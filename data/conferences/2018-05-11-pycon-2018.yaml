@@ -2,10 +2,14 @@
 
 - title: 'Adapting from Spark to Dask: what to expect'
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom A
   authors:
   - name: Irina Truong
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=X4YHGKj3V5M
@@ -14,11 +18,18 @@
 
 - title: 'All in the timing: How side channel attacks work'
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom B
   authors:
   - name: Philip James
+    twitter:
+    github:
+    website:
   - name: Asheesh Laroia
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=dT2xjgUInhQ
@@ -27,10 +38,14 @@
 
 - title: 'Analyzing Data: What pandas and SQL Taught Me About Taking an Average'
   type: regular
+  level:
   date: 2018-05-11
   location: Global Center Ballroom AB
   authors:
   - name: Alex Petralia
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/alex-petralia-analyzing-data-what-pandas-and-sql-taught-me-about-taking-an-average
   videos:
@@ -40,10 +55,14 @@
 
 - title: Augmenting Human Decision Making with Data Science
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom A
   authors:
   - name: Kelsey Pedersen
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=hnSgIUA57hg
@@ -52,10 +71,14 @@
 
 - title: Behavior-Driven Python
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom A
   authors:
   - name: Andrew Knight
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/andrew-knight-behavior-driven-python
   videos:
@@ -65,10 +88,14 @@
 
 - title: 'Beyond scraping: how to use machine learning when you''re not sure where to start'
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom B
   authors:
   - name: Julie Lavoie
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=BwC01zoSRBc
@@ -77,10 +104,14 @@
 
 - title: 'Beyond Unit Tests: Taking Your Testing to the Next Level'
   type: regular
+  level:
   date: 2018-05-11
   location: Room 26A/B/C
   authors:
   - name: Hillel Wayne
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/hillel-wayne-beyond-unit-tests-taking-your-testing-to-the-next-level
   videos:
@@ -90,10 +121,14 @@
 
 - title: Birding with Python and Machine Learning
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom C
   authors:
   - name: Kirk Kaiser
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=938yg4udxSc
@@ -102,10 +137,14 @@
 
 - title: 'Bowerbirds of Technology: Architecture and Teams at Less-than-Google Scale'
   type: regular
+  level:
   date: 2018-05-11
   location: Global Center Ballroom AB
   authors:
   - name: Sam Kitajima-Kimbrel
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/sam-kitajima-kimbrel-bowerbirds-of-technology-architecture-and-teams-at-less-than-google-scale
   videos:
@@ -115,10 +154,14 @@
 
 - title: Building a Data Pipeline with Testing in Mind
   type: regular
+  level:
   date: 2018-05-11
   location: Room 26A/B/C
   authors:
   - name: Jiaqi Liu
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/jiaqi-liu-building-a-data-pipeline-with-testing-in-mind
   videos:
@@ -128,10 +171,14 @@
 
 - title: Build Teams as an Engineer
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom C
   authors:
   - name: Joyce Jang
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/joyce-jang-build-teams-as-an-engineer
   videos:
@@ -141,10 +188,14 @@
 
 - title: 'Code like an accountant: Designing data systems for accuracy, resilience and auditability'
   type: regular
+  level:
   date: 2018-05-11
   location: Global Center Ballroom AB
   authors:
   - name: Sophie Rapoport
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=svcBO-OjYfM
@@ -153,10 +204,14 @@
 
 - title: Code Reviews Using Art Critique Principles
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom A
   authors:
   - name: Stacy Morse
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/stacy-morse-code-reviews-using-art-critique-principles
   videos:
@@ -166,10 +221,14 @@
 
 - title: Coding through Adversity
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom B
   authors:
   - name: Chris Schuhmacher
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=dGz-K8x8k5k
@@ -178,10 +237,14 @@
 
 - title: 'CuPy: A NumPy-compatible Library for GPU'
   type: regular
+  level:
   date: 2018-05-11
   location: Global Center Ballroom AB
   authors:
   - name: Shohei Hido
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/shohei-hido-cupy-a-numpy-compatible-library-for-gpu
   videos:
@@ -191,10 +254,14 @@
 
 - title: Debugging PySpark -- Or trying to make sense of a JVM stack trace when you were minding your own bus
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom A
   authors:
   - name: Holden Karau
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=McgG09XriEI
@@ -203,10 +270,14 @@
 
 - title: Deconstructing the US Patent Database
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom B
   authors:
   - name: Van Lindberg
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=lk6FGg5RzAk
@@ -215,10 +286,14 @@
 
 - title: Demystifying the Patch Function
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom B
   authors:
   - name: Lisa Roach
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=ww1UsGZV8fQ
@@ -227,10 +302,14 @@
 
 - title: Elegant Solutions For Everyday Python Problems
   type: regular
+  level:
   date: 2018-05-11
   location: Room 26A/B/C
   authors:
   - name: Nina Zakharenko
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=WiQqqB9MlkA
@@ -239,10 +318,14 @@
 
 - title: Exploring Deep Learning Framework PyTorch
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom A
   authors:
   - name: Stephanie Kim
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=LEkyvEZoDZg
@@ -251,10 +334,14 @@
 
 - title: 'Flourishing FLOSS: Making Your Project Successful'
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom B
   authors:
   - name: Anna Ossowski
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/anna-ossowski-flourishing-floss-making-your-project-successful
   videos:
@@ -264,12 +351,22 @@
 
 - title: How we designed an inclusivity-first conference on a shoestring budget and short timeline
   type: regular
+  level:
   date: 2018-05-11
   location: Room 26A/B/C
   authors:
   - name: Christopher Neugebauer
+    twitter:
+    github:
+    website:
   - name: Josh Simmons
+    twitter:
+    github:
+    website:
   - name: Sam Kitajima-Kimbrel
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=C7ZhMnfUKIA
@@ -278,10 +375,14 @@
 
 - title: 'import time_travel: A Primer on Timezones in Python'
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom C
   authors:
   - name: David Gouldin
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/david-gouldin-import-time-travel-a-primer-on-timezones-in-python
   videos:
@@ -291,10 +392,14 @@
 
 - title: 'Listen, Attend, and Walk : Interpreting natural language navigational instructions'
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom B
   authors:
   - name: Padmaja Bhagwat
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/padmaja-bhagwat-listen-attend-and-walk-interpreting-natural-language-navigational-instructions
   videos:
@@ -304,10 +409,14 @@
 
 - title: Love your bugs
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom C
   authors:
   - name: Allison Kaptur
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=HuuYwUxM-ZY
@@ -316,10 +425,14 @@
 
 - title: 'Performance Python: Seven Strategies for Optimizing Your Numerical Code'
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom C
   authors:
   - name: Jake VanderPlas
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/jake-vanderplas-performance-python-seven-strategies-for-optimizing-your-numerical-code
   videos:
@@ -329,10 +442,14 @@
 
 - title: Python for the quantum computing age
   type: regular
+  level:
   date: 2018-05-11
   location: Room 26A/B/C
   authors:
   - name: Ravi Chityala
+    twitter:
+    github:
+    website:
   slides:
   videos:
   description: |-
@@ -340,10 +457,14 @@
 
 - title: 'Randomness in Python: Controlled Chaos in an Ordered Machine'
   type: regular
+  level:
   date: 2018-05-11
   location: Room 26A/B/C
   authors:
   - name: Amanda Sopkin
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=EGF4G2feXx4
@@ -352,10 +473,14 @@
 
 - title: Reactive Programming with RxPy
   type: regular
+  level:
   date: 2018-05-11
   location: Global Center Ballroom AB
   authors:
   - name: Valery Calderon
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/valery-calderon-reactive-programming-with-rxpy
   videos:
@@ -365,10 +490,14 @@
 
 - title: 'Software Library APIs: Lessons Learned from scikit-learn'
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom A
   authors:
   - name: Liz Sander
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/liz-sander-software-library-apis-lessons-learned-from-scikit-learn
   videos:
@@ -378,10 +507,14 @@
 
 - title: Strategies to Edit Production Data
   type: regular
+  level:
   date: 2018-05-11
   location: Room 26A/B/C
   authors:
   - name: Julie Qiu
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=43NiFtbNg_s
@@ -390,10 +523,14 @@
 
 - title: Taking Django Async
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom C
   authors:
   - name: Andrew Godwin
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=-7taKQnndfo
@@ -402,10 +539,14 @@
 
 - title: The AST and Me
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom B
   authors:
   - name: Emily Morehouse-Valcarcel
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=XhWvz4dK4ng
@@ -414,10 +555,14 @@
 
 - title: Trust the data to speak for itself
   type: regular
+  level:
   date: 2018-05-11
   location: Room 26A/B/C
   authors:
   - name: Opetunde Adepoju
+    twitter:
+    github:
+    website:
   slides:
   videos:
   description: |-
@@ -425,10 +570,14 @@
 
 - title: Thinking Outside the GIL with AsyncIO and Multiprocessing
   type: regular
+  level:
   date: 2018-05-11
   location: Global Center Ballroom AB
   authors:
   - name: John Reese
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=0kXaLh8Fz3k
@@ -437,10 +586,14 @@
 
 - title: 'Trio: Async concurrency for mere mortals'
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom C
   authors:
   - name: Nathaniel J. Smith
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=oLkfnc_UMcE
@@ -449,11 +602,18 @@
 
 - title: Using Python to build an AI to play and win SNES StreetFighter II
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom C
   authors:
   - name: Adam Fletcher
+    twitter:
+    github:
+    website:
   - name: Jonathan Mortensen
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=NyNUYYI-Pdg
@@ -462,11 +622,18 @@
 
 - title: Visual Testing with PyCharm and pytest
   type: regular
+  level:
   date: 2018-05-11
   location: Grand Ballroom A
   authors:
   - name: Brian Okken
+    twitter:
+    github:
+    website:
   - name: Paul Everitt
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/brian-okken-paul-everitt-visual-testing-with-pycharm-and-pytest
   videos:
@@ -476,10 +643,14 @@
 
 - title: '"WHAT IS THIS MESS?" - Writing tests for pre-existing code bases'
   type: regular
+  level:
   date: 2018-05-11
   location: Global Center Ballroom AB
   authors:
   - name: Justin Crown
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/justin-crown-what-is-this-mess-writing-tests-for-pre-existing-code-bases
   videos:
@@ -489,10 +660,14 @@
 
 - title: 'Win back lovely API: GraphQL in Python'
   type: regular
+  level:
   date: 2018-05-11
   location: Global Center Ballroom AB
   authors:
   - name: Keith Yang
+    twitter:
+    github:
+    website:
   slides:
   videos:
   description: |-
@@ -500,10 +675,14 @@
 
 - title: 'A Bit about Bytes: Understanding Python Bytecode'
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom B
   authors:
   - name: James Bennett
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=cSSpnq362Bk
@@ -512,10 +691,14 @@
 
 - title: Bayesian Non-parametric Models for Data Science using PyMC3
   type: regular
+  level:
   date: 2018-05-12
   location: Global Center Ballroom AB
   authors:
   - name: Christopher Fonnesbeck
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=-sIOMs4MSuA
@@ -524,10 +707,14 @@
 
 - title: Building a cross-platform native app with BeeWare
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom C
   authors:
   - name: Russell Keith-Magee
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=qaPzlIJ57dk
@@ -536,11 +723,18 @@
 
 - title: 'By the Numbers: Python Community Trends in 2017/2018'
   type: regular
+  level:
   date: 2018-05-12
   location: Room 26A/B/C
   authors:
   - name: Dmitry Filippov
+    twitter:
+    github:
+    website:
   - name: Ewa Jodlowska
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=xEE4X-9RROM
@@ -549,10 +743,14 @@
 
 - title: Colossal Cave Adventure in Python... in the browser!
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom B
   authors:
   - name: Christopher Swenson
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/christopher-swenson-colossal-cave-adventure-in-python-dot-dot-dot-in-the-browser
   videos:
@@ -562,10 +760,14 @@
 
 - title: 'Controlling apples with snakes: Automating mobile apps with Appium'
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom A
   authors:
   - name: Nir Arad
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/nir-arad-controlling-apples-with-snakes-automating-mobile-apps-with-appium
   videos:
@@ -575,10 +777,14 @@
 
 - title: 'Counter, Gauge, Upper 90 - Oh my!'
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom B
   authors:
   - name: Amit Saha
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/amit-saha-counter-gauge-upper-90-oh-my
   videos:
@@ -588,10 +794,14 @@
 
 - title: 'Dataclasses:  The code generator to end all code generators'
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom C
   authors:
   - name: Raymond Hettinger
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=T-TwcmT6Rcw
@@ -600,10 +810,14 @@
 
 - title: Data Visualization in Mixed Reality with Python
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom B
   authors:
   - name: Anna Nicanorova
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=K94iCIy77pA
@@ -612,10 +826,14 @@
 
 - title: Democratizing Distributed Computing with Dask and JupyterHub
   type: regular
+  level:
   date: 2018-05-12
   location: Room 26A/B/C
   authors:
   - name: Matthew Rocklin
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=Iq72dt1gO9c
@@ -624,10 +842,14 @@
 
 - title: 'Don''t Look Back in Anger: Wildman Whitehouse and the Great Failure of 1858'
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom C
   authors:
   - name: Lilly Ryan
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=GuNoaAFnTPg
@@ -636,10 +858,14 @@
 
 - title: Easy 2D Game Creation With Arcade
   type: regular
+  level:
   date: 2018-05-12
   location: Room 26A/B/C
   authors:
   - name: Paul Vincent Craven
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/paul-vincent-craven-easy-2d-game-creation-with-arcade
   videos:
@@ -649,11 +875,18 @@
 
 - title: Fighting Gerrymandering with PyMC3
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom B
   authors:
   - name: Colin Carroll
+    twitter:
+    github:
+    website:
   - name: Karin C. Knudson
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/colin-carroll-karin-c-knudson-fighting-gerrymandering-with-pymc3
   videos:
@@ -663,10 +896,14 @@
 
 - title: 'Fighting the Good Fight: Python 3 in your organization'
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom B
   authors:
   - name: Jason Fried
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=H4SS9yVWJYA
@@ -675,10 +912,14 @@
 
 - title: 'Get your resources faster, with importlib.resources'
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom C
   authors:
   - name: Barry Warsaw
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/barry-warsaw-get-your-resources-faster-with-importlib-dot-resources
   videos:
@@ -688,10 +929,14 @@
 
 - title: 'Graph Databases: Talking about your Data Relationships with Python'
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom A
   authors:
   - name: Nicolle Cysneiros
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=J8LvW-tyLRc
@@ -700,10 +945,14 @@
 
 - title: How Netflix does failovers in 7 minutes flat
   type: regular
+  level:
   date: 2018-05-12
   location: Global Center Ballroom AB
   authors:
   - name: Amjith Ramanujam
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=iQI56-up3Yk
@@ -712,10 +961,14 @@
 
 - title: HOWTO Write a Function
   type: regular
+  level:
   date: 2018-05-12
   location: Room 26A/B/C
   authors:
   - name: Jack Diederich
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=rrBJVMyD-Gs
@@ -725,10 +978,14 @@
 
 - title: How to Write Deployment-friendly Applications
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom A
   authors:
   - name: Hynek Schlawack
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=wuCpCkrfeMs
@@ -737,10 +994,14 @@
 
 - title: 'Inside the Cheeseshop: How Python Packaging Works'
   type: regular
+  level:
   date: 2018-05-12
   location: Room 26A/B/C
   authors:
   - name: Dustin Ingram
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=AQsZsgJ30AE
@@ -749,10 +1010,14 @@
 
 - title: One weird trick to becoming a better software developer
   type: regular
+  level:
   date: 2018-05-12
   location: Global Center Ballroom AB
   authors:
   - name: Esther Nam
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=IYWlfVqBQLc
@@ -761,10 +1026,14 @@
 
 - title: Oops! I Committed My Password To GitHub!
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom C
   authors:
   - name: Miguel Grinberg
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/miguel-grinberg-oops-i-committed-my-password-to-github
   videos:
@@ -774,10 +1043,14 @@
 
 - title: 'Pipenv: The Future of Python Dependency Management'
   type: regular
+  level:
   date: 2018-05-12
   location: Global Center Ballroom AB
   authors:
   - name: Kenneth Reitz
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/kenneth-reitz-pipenv-the-future-of-python-dependency-management
   videos:
@@ -787,10 +1060,14 @@
 
 - title: Practical Sphinx
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom A
   authors:
   - name: Carol Willing
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=0ROZRNZkPS8
@@ -799,10 +1076,14 @@
 
 - title: Programming microbes using Python
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom A
   authors:
   - name: Janet Matsen
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/janet-matsen-programming-microbes-using-python
   videos:
@@ -812,10 +1093,14 @@
 
 - title: 'Python 2 to 3: How to Upgrade and What Features to Start Using'
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom C
   authors:
   - name: Trey Hunner
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=klaGx9Q_SOA
@@ -825,10 +1110,14 @@
 
 - title: 'Python 3: ten years later'
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom B
   authors:
   - name: Victor Stinner
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=Aj3KMefwOqI
@@ -837,10 +1126,14 @@
 
 - title: 'Python across the USA: This is the Bus.'
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom A
   authors:
   - name: Justin Myles Holmes
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=tRp84BlFF94
@@ -849,10 +1142,14 @@
 
 - title: Python Data Sonification for Science and Discovery
   type: regular
+  level:
   date: 2018-05-12
   location: Global Center Ballroom AB
   authors:
   - name: Erin Braswell
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=3EXvR1shVFQ
@@ -861,10 +1158,14 @@
 
 - title: 'Python, Locales and Writing Systems'
   type: regular
+  level:
   date: 2018-05-12
   location: Global Center Ballroom AB
   authors:
   - name: Rae Knowler
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/rae-knowler-python-locales-and-writing-systems
   videos:
@@ -874,10 +1175,14 @@
 
 - title: Python Performance Investigation by Example
   type: regular
+  level:
   date: 2018-05-12
   location: Room 26A/B/C
   authors:
   - name: Matt Davis
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=yrRqNzJTBjk
@@ -886,10 +1191,14 @@
 
 - title: Reinventing the Parser Generator
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom C
   authors:
   - name: David Beazley
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=zJ9z6Ge-vXs
@@ -898,10 +1207,14 @@
 
 - title: Secrets of a WSGI master.
   type: regular
+  level:
   date: 2018-05-12
   location: Room 26A/B/C
   authors:
   - name: Graham Dumpleton
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/graham-dumpleton-secrets-of-a-wsgi-master
   videos:
@@ -911,10 +1224,14 @@
 
 - title: Solve Your Problem With Sloppy Python
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom C
   authors:
   - name: Larry Hastings
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=Jd8ulMb6_ls
@@ -923,10 +1240,14 @@
 
 - title: Surviving (and thriving!) when you are overloaded
   type: regular
+  level:
   date: 2018-05-12
   location: Global Center Ballroom AB
   authors:
   - name: Scott Triglia
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/scott-triglia-surviving-and-thriving-when-you-are-overloaded
   videos:
@@ -936,10 +1257,14 @@
 
 - title: The human nature of failure & resiliency
   type: regular
+  level:
   date: 2018-05-12
   location: Room 26A/B/C
   authors:
   - name: VM (Vicky) Brasseur
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=h-38HZqanJs
@@ -948,10 +1273,14 @@
 
 - title: The Journey Over the Intermediate Gap
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom A
   authors:
   - name: Sara Packman
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/sara-packman-the-journey-over-the-intermediate-gap
   videos:
@@ -961,10 +1290,14 @@
 
 - title: Visualizing Algorithms with Python and Programmable LEDs
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom A
   authors:
   - name: Christopher Beacham / Lady Red
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=wJpUlnfwjbk
@@ -973,10 +1306,14 @@
 
 - title: What is a Python Core Developer?
   type: regular
+  level:
   date: 2018-05-12
   location: Global Center Ballroom AB
   authors:
   - name: Mariatta Wijaya
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/mariatta-wijaya-what-is-a-python-core-developer
   videos:
@@ -986,10 +1323,14 @@
 
 - title: You're an expert. Here's how to teach like one.
   type: regular
+  level:
   date: 2018-05-12
   location: Grand Ballroom B
   authors:
   - name: Shannon Turner
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/shannon-turner-youre-an-expert-heres-how-to-teach-like-one
   videos:
@@ -999,10 +1340,14 @@
 
 - title: A practical guide to Singular Value Decomposition in Python
   type: regular
+  level:
   date: 2018-05-13
   location: Room 26A/B/C
   authors:
   - name: Daniel Pyrathon
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/daniel-pyrathon-a-practical-guide-to-singular-value-decomposition-in-python
   videos:
@@ -1012,10 +1357,14 @@
 
 - title: Automating Code Quality
   type: regular
+  level:
   date: 2018-05-13
   location: Grand Ballroom A
   authors:
   - name: Kyle Knapp
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
   videos:
@@ -1025,10 +1374,14 @@
 
 - title: 'Big-O: How Code Slows as Data Grows'
   type: regular
+  level:
   date: 2018-05-13
   location: Grand Ballroom C
   authors:
   - name: Ned Batchelder
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=duvZ-2UK0fc
@@ -1037,10 +1390,14 @@
 
 - title: 'Clearer Code at Scale: Static Types at Zulip and Dropbox'
   type: regular
+  level:
   date: 2018-05-13
   location: Grand Ballroom B
   authors:
   - name: Greg Price
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=0c46YHS3RY8
@@ -1049,10 +1406,14 @@
 
 - title: Efficient shared memory data structures
   type: regular
+  level:
   date: 2018-05-13
   location: Grand Ballroom B
   authors:
   - name: Claudio Freire
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/claudio-freire-efficient-shared-memory-data-structures
   videos:
@@ -1062,10 +1423,14 @@
 
 - title: 'Effortless Logging: A deep dive into the logging module'
   type: regular
+  level:
   date: 2018-05-13
   location: Room 26A/B/C
   authors:
   - name: Mario Corchero
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=Pbz1fo7KlGg
@@ -1074,10 +1439,14 @@
 
 - title: How We Do Identity Wrong
   type: regular
+  level:
   date: 2018-05-13
   location: Global Center Ballroom AB
   authors:
   - name: Amber Brown ("HawkOwl")
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=A5tPhUKljuY
@@ -1086,10 +1455,14 @@
 
 - title: 'Learning From Failure: Post Mortems'
   type: regular
+  level:
   date: 2018-05-13
   location: Grand Ballroom C
   authors:
   - name: Alex Gaynor
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=L9Y2ap6vIMg
@@ -1098,10 +1471,14 @@
 
 - title: Pumping up Python modules using Rust
   type: regular
+  level:
   date: 2018-05-13
   location: Global Center Ballroom AB
   authors:
   - name: vigneshwer dhinakaran
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/vigneshwer-dhinakaran-pumping-up-python-modules-using-rust
   videos:
@@ -1111,10 +1488,14 @@
 
 - title: 'Systemd: why you should care as a Python developer'
   type: regular
+  level:
   date: 2018-05-13
   location: Grand Ballroom C
   authors:
   - name: Alvaro Leiva Geisse
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=ZUX9Fx8Rwzg
@@ -1123,10 +1504,14 @@
 
 - title: 'The Hare Wins the Race: Getting the most out of RabbitMQ in distributed applications'
   type: regular
+  level:
   date: 2018-05-13
   location: Grand Ballroom A
   authors:
   - name: Steven Sklar
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=WXkhJ92-fsY
@@ -1135,10 +1520,14 @@
 
 - title: 'There and Back Again: Disable and re-enable garbage collector at Instagram'
   type: regular
+  level:
   date: 2018-05-13
   location: Grand Ballroom A
   authors:
   - name: Zekun Li
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/zekun-li-there-and-back-again-disable-and-re-enable-garbage-collector-at-instagram
   videos:
@@ -1148,10 +1537,14 @@
 
 - title: Type-checked Python in the real world
   type: regular
+  level:
   date: 2018-05-13
   location: Global Center Ballroom AB
   authors:
   - name: Carl Meyer
+    twitter:
+    github:
+    website:
   slides:
   - https://speakerdeck.com/pycon2018/carl-meyer-type-checked-python-in-the-real-world
   videos:
@@ -1161,10 +1554,14 @@
 
 - title: 'Types, Deeper Static Analysis, and you'
   type: regular
+  level:
   date: 2018-05-13
   location: Room 26A/B/C
   authors:
   - name: Pieter Hooimeijer
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=hWV8t494N88
@@ -1173,10 +1570,14 @@
 
 - title: User focused API Design
   type: regular
+  level:
   date: 2018-05-13
   location: Grand Ballroom B
   authors:
   - name: Renato Oliveira
+    twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=q42hCs2E4So

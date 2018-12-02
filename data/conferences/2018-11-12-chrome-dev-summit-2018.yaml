@@ -2,13 +2,18 @@
 
 - title: Day 1 Keynote
   type: regular
+  level:
   date: 2018-11-12
   location:
   authors:
   - name: Ben Galbraith
     twitter: bgalbs
+    github:
+    website:
   - name: Dion Almaer
     twitter: dalmaer
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=zPHyxvPT0gg
@@ -17,17 +22,26 @@
 
 - title: 'Get Down to Business: Why the Web Matters'
   type: regular
+  level:
   date: 2018-11-12
   location:
   authors:
   - name: Aanchal Bahadur
     twitter: aanchalbahadur
+    github:
+    website:
   - name: Zack Argyle
     twitter: zackargyle
+    github:
+    website:
   - name: David Brunelle
     twitter: davidbrunelle
+    github:
+    website:
   - name: Matt Rizzo
     twitter: mrizzo10
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=Xryhxi45Q5M
@@ -36,13 +50,18 @@
 
 - title: State of the Union for Speed Tooling
   type: regular
+  level:
   date: 2018-11-12
   location:
   authors:
   - name: Paul Irish
     twitter: paul_irish
+    github:
+    website:
   - name: Elizabeth Sweeny
     twitter: egsweeny
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=ymxs8OSXiUA
@@ -51,13 +70,18 @@
 
 - title: 'Speed Essentials: Key Techniques for Fast Websites'
   type: regular
+  level:
   date: 2018-11-12
   location:
   authors:
   - name: Houssein Djirdeh
     twitter: hdjirdeh
+    github:
+    website:
   - name: Katie Hempenius
     twitter: katiehempenius
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=reztLS3vomE
@@ -67,13 +91,18 @@
 - title: 'Building Faster, More Resilient Apps with Service Worker: A Caching Strategy
     Deep Dive'
   type: regular
+  level:
   date: 2018-11-12
   location:
   authors:
   - name: Ewa Gasperowicz
     twitter: devnook
+    github:
+    website:
   - name: Phil Walton
     twitter: philwalton
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=25aCD5XL1Jk
@@ -82,13 +111,18 @@
 
 - title: 'Smooth Moves: Rendering at the Speed of Right ®'
   type: regular
+  level:
   date: 2018-11-12
   location:
   authors:
   - name: Jason Miller
     twitter: _developit
+    github:
+    website:
   - name: Adam Argyle
     twitter: argyleink
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=AB9qSUhlxh8
@@ -97,13 +131,18 @@
 
 - title: Complex JS-heavy Web Apps, Avoiding the Slow
   type: regular
+  level:
   date: 2018-11-12
   location:
   authors:
   - name: Jake Archibald
     twitter: jaffathecake
+    github:
+    website:
   - name: Mariko Kosaka
     twitter: kosamari
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=ipNW6lJHVEs
@@ -112,13 +151,18 @@
 
 - title: 'Building Modern Web Media Experiences: Picture-in-Picture and AV1'
   type: regular
+  level:
   date: 2018-11-12
   location:
   authors:
   - name: François Beaufort
-    googleplus: FrancoisBeaufort
+    twitter:
+    github:
+    website: https://plus.google.com/+FrancoisBeaufort
   - name: Angie Bird
     twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=iTC3mfe0DwE
@@ -127,13 +171,18 @@
 
 - title: Modern Websites for E-commerce in the Real World
   type: regular
+  level:
   date: 2018-11-12
   location:
   authors:
   - name: Cheney Tsai
     twitter: cheneytsai
+    github:
+    website:
   - name: Ramya Raghavan
     twitter: ramyaaraghavan
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=SJiKWwBtQaU
@@ -142,13 +191,18 @@
 
 - title: Progressive Content Management Systems
   type: regular
+  level:
   date: 2018-11-12
   location:
   authors:
   - name: Alberto Medina
     twitter: ialbmedina
+    github:
+    website:
   - name: Weston Ruter
     twitter: westonruter
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=s1WrBaAyzAI
@@ -157,13 +211,18 @@
 
 - title: Making Modern Web Content Discoverable for Search
   type: regular
+  level:
   date: 2018-11-12
   location:
   authors:
   - name: Martin Splitt
     twitter: g33konaut
+    github:
+    website:
   - name: Tom Greenaway
     twitter: tcmg
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=YP2tMBhyU0I
@@ -172,13 +231,18 @@
 
 - title: Day 2 Keynote
   type: regular
+  level:
   date: 2018-11-13
   location:
   authors:
   - name: Malte Ubl
     twitter: cramforce
+    github:
+    website:
   - name: Nicole Sullivan
     twitter: stubbornella
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=SbUAkQ_s7Os
@@ -187,11 +251,14 @@
 
 - title: Feature Policy & the Well-Lit Path for Web Development
   type: regular
+  level:
   date: 2018-11-13
   location:
   authors:
   - name: Jason Chase
     twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=igHvSUrLqXc
@@ -200,11 +267,14 @@
 
 - title: 'virtual-scroller: Let there be less (DOM)'
   type: regular
+  level:
   date: 2018-11-13
   location:
   authors:
   - name: Gray Norton
     twitter: graynorton
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=UtD41bn6kJ0
@@ -213,13 +283,18 @@
 
 - title: 'A Quest to Guarantee Responsiveness: Scheduling On and Off the Main Thread'
   type: regular
+  level:
   date: 2018-11-13
   location:
   authors:
   - name: Shubhie Panicker
     twitter: shubhie
+    github:
+    website:
   - name: Jason Miller
     twitter: _developit
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=mDdgfyRB5kg
@@ -228,13 +303,18 @@
 
 - title: Architecting Web Apps - Lights, Camera, Action!
   type: regular
+  level:
   date: 2018-11-13
   location:
   authors:
   - name: Paul Lewis
     twitter: aerotwist
+    github:
+    website:
   - name: Surma
     twitter: DasSurma
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=Vg60lf92EkM
@@ -243,17 +323,26 @@
 
 - title: From Low Friction to Zero Friction with Web Packaging and Portals
   type: regular
+  level:
   date: 2018-11-13
   location:
   authors:
   - name: Kinuko Yasuda
     twitter:
+    github:
+    website:
   - name: Rudy Galfi
     twitter:
+    github:
+    website:
   - name: Sumantro Das
     twitter:
+    github:
+    website:
   - name: Rustam Lalkaka
     twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=Ai4aZ9Jbsys
@@ -262,11 +351,14 @@
 
 - title: State of Houdini
   type: regular
+  level:
   date: 2018-11-13
   location:
   authors:
   - name: Surma
     twitter: DasSurma
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=lK3OiJvwgSc
@@ -275,13 +367,18 @@
 
 - title: Building Engaging Immersive Experiences
   type: regular
+  level:
   date: 2018-11-13
   location:
   authors:
   - name: Chris Wilson
     twitter: cwilso
+    github:
+    website:
   - name: John Pallett
     twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=ylz2EbWueKw
@@ -290,13 +387,18 @@
 
 - title: Using WebAssembly and Threads
   type: regular
+  level:
   date: 2018-11-13
   location:
   authors:
   - name: Alex Danilo
     twitter: alexanderdanilo
+    github:
+    website:
   - name: Thomas Nattestad
     twitter: ThomasTheDane
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=zgOGZgAPUjQ
@@ -305,11 +407,14 @@
 
 - title: 'The Virtue of Laziness: Leveraging Incrementality for Faster Web UI'
   type: regular
+  level:
   date: 2018-11-13
   location:
   authors:
   - name: Justin Fagnani
     twitter: justinfagnani
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=ypPRdtjGooc
@@ -318,13 +423,18 @@
 
 - title: 'Chrome OS: Ready for Web Development'
   type: regular
+  level:
   date: 2018-11-13
   location:
   authors:
   - name: Dan Dascalescu
     twitter: dandv
+    github:
+    website:
   - name: Stephen Barber
     twitter:
+    github:
+    website:
   slides:
   videos:
   - https://www.youtube.com/watch?v=QTmAtXoPkgw

@@ -2,6 +2,7 @@
 
 - title: Books, Walking, and the Ethics of Scale
   type: regular
+  level:
   date: 2018-08-10
   location:
   authors:
@@ -9,12 +10,14 @@
     twitter:
     github:
     website:
+  slides:
   videos:
   description: |-
     Systems and products that have the most influence on the world today tend to have the least presence. What tools can we use to make their intangibility and intensely unhuman scale more human and tangible? We'll look at book design, how designers of the 20th century have tackled this problem, and how meditative practices such as vipasanna and walking are useful tools in the contemporary human toolkit.
 
 - title: 'The Small Things That Add Up: How to Find What Design Factors Influence Conversion Rates'
   type: regular
+  level:
   date: 2018-08-10
   location:
   authors:
@@ -22,6 +25,7 @@
     twitter:
     github:
     website:
+  slides:
   videos:
   - https://vimeo.com/297828304
   description: |-
@@ -29,6 +33,7 @@
 
 - title: Building Resilient Frontend Systems
   type: regular
+  level:
   date: 2018-08-10
   location:
   authors:
@@ -36,6 +41,7 @@
     twitter:
     github:
     website:
+  slides:
   videos:
   - https://vimeo.com/297829767
   description: |-
@@ -43,6 +49,7 @@
 
 - title: Designing for Global Audiences
   type: regular
+  level:
   date: 2018-08-10
   location:
   authors:
@@ -50,6 +57,7 @@
     twitter:
     github:
     website:
+  slides:
   videos:
   - https://vimeo.com/297829238
   description: |-
@@ -57,6 +65,7 @@
 
 - title: I Thought we Were Building World Peace - Using Tech Ethics to Build Better Futures
   type: regular
+  level:
   date: 2018-08-10
   location:
   authors:
@@ -64,6 +73,7 @@
     twitter:
     github:
     website:
+  slides:
   videos:
   - https://vimeo.com/297827456
   description: |-
@@ -71,6 +81,7 @@
 
 - title: Hack to the Future
   type: regular
+  level:
   date: 2018-08-10
   location:
   authors:
@@ -78,6 +89,7 @@
     twitter:
     github:
     website:
+  slides:
   videos:
   - https://vimeo.com/297827821
   description: |-
@@ -85,6 +97,7 @@
 
 - title: 'The Future of Travel: How Mixed Method Research Helped Shape Airbnb Experiences'
   type: regular
+  level:
   date: 2018-08-11
   location:
   authors:
@@ -92,12 +105,14 @@
     twitter:
     github:
     website:
+  slides:
   videos:
   description: |-
     Hannah will show us a case study of how she utilised user research to improve business and design decisions on a brand new product – Airbnb Trips.
 
 - title: Designing for Kids is not a Game
   type: regular
+  level:
   date: 2018-08-11
   location:
   authors:
@@ -105,6 +120,7 @@
     twitter:
     github:
     website:
+  slides:
   videos:
   - https://vimeo.com/297828567
   description: |-
@@ -112,6 +128,7 @@
 
 - title: Taking Back Control Over Third-party Content
   type: regular
+  level:
   date: 2018-08-11
   location:
   authors:
@@ -119,6 +136,7 @@
     twitter:
     github:
     website:
+  slides:
   videos:
   - https://vimeo.com/297828895
   description: |-
@@ -126,6 +144,7 @@
 
 - title: 'A Word to the Wise: Writing Product Copy to Transform Your User Experience'
   type: regular
+  level:
   date: 2018-08-11
   location:
   authors:
@@ -133,6 +152,7 @@
     twitter:
     github:
     website:
+  slides:
   videos:
   - https://vimeo.com/297829604
   description: Getting the right words into your product is a process that’s akin
@@ -141,6 +161,7 @@
 
 - title: Design in the Era of the Algorithm
   type: regular
+  level:
   date: 2018-08-11
   location:
   authors:
@@ -148,6 +169,7 @@
     twitter:
     github:
     website:
+  slides:
   videos:
   description: |-
     The design and presentation of data is just as important as the underlying algorithm, and designers have an urgent role to play in crafting the emerging generation of AI interfaces.

@@ -2,6 +2,7 @@
 
 - title: Reinvent the social web
   type: regular
+  level:
   date: 2018-09-03
   location:
   authors:
@@ -16,6 +17,7 @@
 
 - title: Open Gateway - Decentralized IoT
   type: regular
+  level:
   date: 2018-09-03
   location:
   authors:
@@ -31,6 +33,7 @@
 - title: Build and deploy a Blockchain web-app with Hyperledger Fabric and Hyperledger
     Composer
   type: regular
+  level:
   date: 2018-09-03
   location:
   authors:
@@ -46,6 +49,7 @@
 
 - title: 'A Game of Theories: Why languages do what they do '
   type: regular
+  level:
   date: 2018-09-03
   location:
   authors:
@@ -60,6 +64,7 @@
 
 - title: The Future of ChatBots in the Travel Industry
   type: regular
+  level:
   date: 2018-09-03
   location:
   authors:
@@ -74,6 +79,7 @@
 
 - title: Avoiding Digital Bias
   type: regular
+  level:
   date: 2018-09-03
   location:
   authors:
@@ -88,6 +94,7 @@
 
 - title: Everything I always wanted to know about crypto, but never thought I'd understand
   type: regular
+  level:
   date: 2018-09-03
   location:
   authors:
@@ -102,6 +109,7 @@
 
 - title: 'Onion adventures: how to use onion services and the Tor network in your web endeavors'
   type: regular
+  level:
   date: 2018-09-03
   location:
   authors:
@@ -116,6 +124,7 @@
 
 - title: 'Observability for Emerging Infra: What Got You Here Won''t Get You There'
   type: regular
+  level:
   date: 2018-09-04
   location:
   authors:
@@ -130,6 +139,7 @@
 
 - title: Do you need a Service Mesh?
   type: regular
+  level:
   date: 2018-09-04
   location:
   authors:
@@ -144,6 +154,7 @@
 
 - title: HTTP and JSON for your gRPC Services
   type: regular
+  level:
   date: 2018-09-04
   location:
   authors:
@@ -158,6 +169,7 @@
 
 - title: Software Engineering - A philosophical activity
   type: regular
+  level:
   date: 2018-09-04
   location:
   authors:
@@ -172,6 +184,7 @@
 
 - title: Take a (Client) Hint!
   type: regular
+  level:
   date: 2018-09-04
   location:
   authors:
@@ -186,6 +199,7 @@
 
 - title: Lost in transaction? Strategies to deal with (in-)consistency in distributed systems
   type: regular
+  level:
   date: 2018-09-04
   location:
   authors:
@@ -200,6 +214,7 @@
 
 - title: Lightning talks Backend
   type: lightning
+  level:
   date: 2018-09-04
   location:
   authors:
@@ -210,6 +225,7 @@
 
 - title: Cats, The Musical! Algorithmic Song Meow-ification
   type: regular
+  level:
   date: 2018-09-04
   location:
   authors:
@@ -224,6 +240,7 @@
 
 - title: Building peer-to-peer apps with the Beaker Browser
   type: regular
+  level:
   date: 2018-09-06
   location:
   authors:
@@ -238,6 +255,7 @@
 
 - title: To push, or not to push?! - The future of HTTP/2 server push
   type: regular
+  level:
   date: 2018-09-06
   location:
   authors:
@@ -252,6 +270,7 @@
 
 - title: The Future of Front-End Performance
   type: regular
+  level:
   date: 2018-09-06
   location:
   authors:
@@ -266,6 +285,7 @@
 
 - title: Native JavaScript modules- import {Browsers, NodeJs}; export {production};
   type: regular
+  level:
   date: 2018-09-06
   location:
   authors:
@@ -280,6 +300,7 @@
 
 - title: Unity + HTML5 = Isomorphic Game Engine?
   type: regular
+  level:
   date: 2018-09-06
   location:
   authors:
@@ -294,6 +315,7 @@
 
 - title: State of the Art Web User Interfaces with State Machines
   type: regular
+  level:
   date: 2018-09-06
   location:
   authors:
@@ -308,6 +330,7 @@
 
 - title: A Front-end dev's hobbyist approach into Machine Learning
   type: regular
+  level:
   date: 2018-09-06
   location:
   authors:
@@ -322,6 +345,7 @@
 
 - title: Building a Modern Memex
   type: regular
+  level:
   date: 2018-09-06
   location:
   authors:
@@ -336,6 +360,7 @@
 
 - title: Accessibility vs latest Web APIs. Can’t we just get along?
   type: regular
+  level:
   date: 2018-09-07
   location:
   authors:
@@ -350,6 +375,7 @@
 
 - title: The Web Authentication API - Imagine a World Without Passwords
   type: regular
+  level:
   date: 2018-09-07
   location:
   authors:
@@ -364,6 +390,7 @@
 
 - title: 'Killing the checkout or: How I learned to stop worrying and love Payment Request'
   type: regular
+  level:
   date: 2018-09-07
   location:
   authors:
@@ -378,6 +405,7 @@
 
 - title: A Real World PWA
   type: regular
+  level:
   date: 2018-09-07
   location:
   authors:
@@ -392,6 +420,7 @@
 
 - title: Purifying Typescript
   type: regular
+  level:
   date: 2018-09-07
   location:
   authors:
@@ -406,6 +435,7 @@
 
 - title: 'Dynamic CSS: Layouts & Beyond'
   type: regular
+  level:
   date: 2018-09-07
   location:
   authors:
@@ -420,6 +450,7 @@
 
 - title: WebXR, if X = how?
   type: regular
+  level:
   date: 2018-09-07
   location:
   authors:
@@ -438,6 +469,7 @@
 
 - title: Lightning talks Frontend
   type: lightning
+  level:
   date: 2018-09-07
   location:
   authors:

@@ -2,389 +2,447 @@
 
 - title: React Today and Tomorrow
   type: regular
+  level:
   date: 2018-10-25
   location:
   authors:
   - name: Sophie Alpert
     twitter: sophiebits
     github: sophiebits
+    website:
   - name: Dan Abramov
     twitter: dan_abramov
     github: gaearon
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=V-QO-KO90iQ
-  slides:
   description: |-
 
 - title: 90% Cleaner React
   type: regular
+  level:
   date: 2018-10-25
   location:
   authors:
   - name: Ryan Florence
     twitter: ryanflorence
     github: ryanflorence
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=wXLf18DsV-I
-  slides:
   description: |-
     We live in a world where our React components and component trees keep getting more complex. Let's look at some ways to do some cleanup and end up with components we can all love.
 
 - title: Building Todo The Game In A Cloud-Only Dev Environment
   type: regular
+  level:
   date: 2018-10-25
   location:
   authors:
   - name: Christina Holland
     twitter: americanwombat
     github: hsubox76
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=kVSTKD13gos
-  slides:
   description: |-
     In a world where laptops break a lot and we can work from anywhere, it's handy to push a lot of dev work to the cloud.  Using Cloud 9, Firebase, Now, and GitHub, Todo The Game is a React app that amps up the classic Todo demo into an interactive game complete with level editor. With this combo devs can work on the app from anywhere with an internet connection, even a factory Chromebook.
 
 - title: The Path To A Declaratively Animated Future
   type: regular
+  level:
   date: 2018-10-25
   location:
   authors:
   - name: Matt Perry
     twitter: popmotionjs
     github: popmotion
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=1e07uPWpvzI
-  slides:
   description: |-
     JavaScript animation, even in React, often involves tangles of imperative code. But we can already harness all the power and flexibility of JS animation with a syntax simpler than CSS. Let's look at the state of declarative animation, and where it could be in the near future.
 
 - title: What's New in Create React App
   type: lightning
+  level:
   date: 2018-10-25
   location:
   authors:
   - name: Joe Haddad
     twitter:
     github:
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=He-m9gd6WyM
-  slides:
   description: |-
 
 - title: Components as Units of Work
   type: lightning
+  level:
   date: 2018-10-25
   location:
   authors:
   - name: Bryce Kalow
     twitter:
     github:
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=tlSbgrPe420
-  slides:
   description: |-
 
 - title: 5 Animations You Should Know and Use
   type: lightning
+  level:
   date: 2018-10-25
   location:
   authors:
   - name: Marcos Martins
     twitter:
     github:
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=w9suOaHITtk
-  slides:
   description: |-
 
 - title: Render Props, PureComponent and Reactivity
   type: lightning
+  level:
   date: 2018-10-25
   location:
   authors:
   - name: Karl Dray
     twitter:
     github:
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=xmQjQmJXQK8
-  slides:
   description: |-
 
 - title: Better Living through Git Hooks
   type: lightning
+  level:
   date: 2018-10-25
   location:
   authors:
   - name: Leta Keane
     twitter:
     github:
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=m-uy_2xmIP4
-  slides:
   description: |-
 
 - title: 'GraphQL without GraphQL - Backend Agnostic GraphQL inspired Queries For
     Colocating Data Requests With Components '
   type: regular
+  level:
   date: 2018-10-25
   location:
   authors:
   - name: Conor Hastings
     twitter: stillconor
     github: conorhastings
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=YSEUAi1dAdk
-  slides:
   description: |-
     GraphQL represents a paradigm shift in the way that we think about requesting data on the frontend. GraphQL removes the opaqueness from data requests, what you see is what you get. \n\nWhere does the overall value in GraphQL lie though? The type system is immensely helpful, but what if we make some sacrifices to widen the scope of use cases, would that be possible?\n\nThe answer is yes. We can use the GraphQL query parser, coupled with some other data provided by the user to construct expressive data driven components using any backend utilizing tools that already exist in the GraphQL community.
 
 - title: 'Playing With Polyhedra: Creating Beauty from Obsession'
   type: regular
+  level:
   date: 2018-10-25
   location:
   authors:
   - name: Nat Alison
     twitter: tesseralis
     github: tesseralis
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=Ew-UzGC8RqQ
-  slides:
   description: |-
     The Polyhedra Viewer (polyhedra.tessera.li) is an interactive web app that explores the relationships between convex polyhedra. Users can select operations and watch as shapes expand, twist, and contract according to mathematical rules. Join me on my journey taking my lifelong obsession with these simple shapes into a work that is accessible to students, teachers, and artists. Learn about my inspirations and struggles in using React to create this intricate application and what I learned from working on this solo project.
 
 - title: Developing Immersive cross-platform AR and VR Apps using React-Native
   type: regular
+  level:
   date: 2018-10-25
   location:
   authors:
   - name: Pulkit Kakkar
     twitter: pulkitkkr0
     github: pulkitkkr
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=jd6FBBK1paA
-  slides:
   description: |-
     "React is a library to build intuitive User Interfaces" as quoted in official React documentation. The past few decades of computing have been limited to flat 2D screens. However, the rise of AR/VR means that society will soon move beyond the screen: where the UI won’t be a flat piece of glass but the 3D spaces in which we live & move around. Since the inception of React, there have been multiple React-Renderer being made by community, One of them is ViroReact, a platform for Native AR/VR. The aim of Talk is to create immersive, lag free cross-platform content using ViroReact from scratch.
 
 - title: 'Beyond Web-Apps: React, JavaScript and WebAssembly To Port Legacy Native
     Apps'
   type: regular
+  level:
   date: 2018-10-25
   location:
   authors:
   - name: Florian Rival
     twitter: FlorianRival
     github: 4ian
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=6La7jSCnYyk
-  slides:
   description: |-
     Can we create or port an existing native desktop application to a complete "React powered" web-app matching (or even exceeding) the quality of the legacy desktop app? Sounds like a good challenge! \U0001F914 And this is what I decided to do with my game making software.\n\nThis talk will explain all the problems I had and solutions that I used to port my native app written in C++, to a full React + WebAssembly app - while still keeping all existing features! Spoiler alert: At the end, it works
 
 - title: React For Social Change
   type: regular
+  level:
   date: 2018-10-25
   location:
   authors:
   - name: Rodrigo Quezada
     twitter: rodikana
     github: ikana
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=tE-0xb2f44g
-  slides:
   description: |-
     8 million man hours are wasted each day by public transit users in Mexico City. We developed a React Native app, powered by a generative AI model, to help users reduce time spent on traffic, and along the way we figured out that GraphQL subscriptions are perfect for this type of ML applications.
 
 - title: Concurrent Rendering in React
   type: regular
+  level:
   date: 2018-10-26
   location:
   authors:
   - name: Andrew Clark
     twitter: acdlite
     github: acdlite
+    website:
   - name: Brian Vaughn
     twitter: brian_d_vaughn
     github: bvaughn
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=ByBPyMBTzM0
-  slides:
   description: |-
 
 - title: Moving To Suspense
   type: regular
+  level:
   date: 2018-10-26
   location:
   authors:
   - name: Jared Palmer
     twitter: jaredpalmer
     github: jaredpalmer
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=SCQgE4mTnjU
-  slides:
   description: |-
     React Suspense is coming! While that's awesome for greenfield apps, most of us will need to incrementally adopt these new features and paradigms. In this talk, I'll discuss how we're incrementally migrating to Suspense--from our overall strategy, preparation, some footguns to avoid, tricks, and gotchas.
 
 - title: SVG illustrations as React Components
   type: regular
+  level:
   date: 2018-10-26
   location:
   authors:
   - name: Elizabet Oliveira
     twitter: miuki_miu
     github: miukimiu
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=1gG8rtm-rq4
-  slides:
   description: |-
     When we develop web and mobile apps, we might need illustrations to handle different scenarios like a 404 error page or an empty state. In this talk, you'll learn how to create and transform SVG illustrations into components that can be easily customizable and reused in different parts of a product. You'll also see how I built React-Kawaii, a library of cute illustrations that are easily customisable.
 
 - title: The Missing Abstraction of Charting
   type: regular
+  level:
   date: 2018-10-26
   location:
   authors:
   - name: Chris Trevino
     twitter: darthtrevino
     github: darthtrevino
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=qqffsEHKMcM
-  slides:
   description: |-
     Charting libraries operate at a high abstraction level, the primary unit of interaction is at the chart level (e.g. BarChart, LineChart). Developers who want to create more custom visualizations usually dive straight into low-level graphics manipulation. In the world of visualization research mark-based visualization systems such as Vega are common, but can be problematic to integrate into applications. In this talk we introduce a grammar-of-graphics based library based on Vega's abstraction, but designed to work well with React and React-Native using a renderless component pattern.
 
 - title: 'Elsa: AI Conversational Agent Aimed At Improving Mental Health For Women'
   type: regular
+  level:
   date: 2018-10-26
   location:
   authors:
   - name: Damini Satya Kammakomati
     twitter: Daminisatya
     github: daminisatya
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=eSwm1WZk7uA
-  slides:
   description: |-
     Mental health among women is a crucial, yet ignored and their symptoms are highly misunderstood. The number of people actually taking professional help for depression and other mental health problems are extremely low due to various reasons. This talk focuses on a case study in developing countries, the problems associated with getting access to quality mental health care and proposes the usage of conversational chat interfaces powered by artificial and crowd intelligence with the help of open source software to provide quick and reliable way for treating mental health issues.
 
 - title: Context in React
   type: lightning
+  level:
   date: 2018-10-26
   location:
   authors:
   - name: Sophia Shoemaker
     twitter:
     github:
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=PaE-TfTY8TY
-  slides:
   description: |-
 
 - title: Building a better Country through Tech
   type: lightning
+  level:
   date: 2018-10-26
   location:
   authors:
   - name: Manuela Castrillon
     twitter:
     github:
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=VKvKvWQI1i0
-  slides:
   description: |-
 
 - title: An Effective Code Review
   type: lightning
+  level:
   date: 2018-10-26
   location:
   authors:
   - name: Donavon West
     twitter:
     github:
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=jtXgNTnVJUU
-  slides:
   description: |-
 
 - title: Syncing Component State Across Tabs with Service Workers
   type: lightning
+  level:
   date: 2018-10-26
   location:
   authors:
   - name: Tyler Clark
     twitter:
     github:
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=tq4vXRT7TU0
-  slides:
   description: |-
 
 - title: Block the Main Thread
   type: regular
+  level:
   date: 2018-10-26
   location:
   authors:
   - name: James Long
     twitter: jlongster
     github: jlongster
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=ZXqyaslyXUw
-  slides:
   description: |-
     Whether it's a mouse click or finger swipe, interaction is a critical part of computing. Touch interactions are especially important on mobile. I will dive into what it takes to make great interactive animations when implementing in either React Native or native iOS, and compare the efforts needed in both. I will also explain a fundamental problem in React Native that makes this difficult: async interaction. We'll look at several solutions to this problem, including animation APIs and writing custom Swift code, while also exploring how the new Fabric architecture might help us.
 
 - title: React Native's New Architecture
   type: regular
+  level:
   date: 2018-10-26
   location:
   authors:
   - name: Parashuram N
     twitter: nparashuram
     github: axemclion
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=UcqRXTriUVI
-  slides:
   description: |-
     Since announcing React Native almost 4 years ago at React Conf, the framework has been used by many apps deployed in production. At Facebook, React Native powers experiences in Marketplace, Instagram and Oculus. We are now leveraging the lessons learnt over the years to take React Native to the next level. In this talk, we will look at the new ways JavaScript can communicate with the Android/iOS layers, and how this influences the improvements we make to React Native's user interface layer. We will delve into the details of how React Native works closely with the platform APIs to deliver a smooth, native user experience. We will also explore the efforts in the community to make React Native, a slim and “Blazing Fast” framework to develop top class native mobile applications.
 
 - title: Let React speak your language
   type: regular
+  level:
   date: 2018-10-26
   location:
   authors:
   - name: Tomáš Ehrlich
     twitter: tomas_ehrlich
     github: tricoder42
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=soAEB7ltQPk
-  slides:
   description: |-
     Introduction to Lingui project which aims to fill the gaps in the internationalization workflow and provide the best developer experience. It started as a proof of concept how to leverage template literals and JSX for writing messages in ICU MessageFormat syntax using babel macros, but soon it became a viable alternative to react-intl. It also offers an offline compilation of message catalogs to keep the library size small.
 
 - title: React for Designers with FramerX
   type: regular
+  level:
   date: 2018-10-26
   location:
   authors:
   - name: Thomas Aylott
     twitter: subtlegradient
     github: subtlegradient
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=xYI9N0memLc
-  slides:
   description: |-
     How do we bridge Product Design and Engineering? FramerX is tackling this age old problem in a new way with React! It lets designers reuse production React components to design screens, flows, and interactive prototypes. So what? Why should we care? And how do we actually make this work in the real world of deadlines and stuff? In this talk, I will explain what FramerX is, why we should care, and practical ways that we React folks can bring designers with us into our shared React future :D I’ve been eagerly following the Framer team’s progress since I worked with them at Facebook in 2012+
 
 - title: Building A Diverse And Inclusive Community.
   type: regular
+  level:
   date: 2018-10-26
   location:
   authors:
   - name: Eyitayo Alimi
     twitter: alimieyitayo
     github: alimieyitay
+    website:
+  slides:
   videos:
   - https://www.youtube.com/watch?v=6DDdtt5zXPk
-  slides:
   description: |-
     Diversity and inclusivity are two words that have been lacking within the technology /developer communities over the years. As a woman in technology, I've I spent the last 5 years building both Technology and Developer Communities. This talk focuses on helping others people  be a member of the community they are skilled to be and how little things like swags or venue matters.

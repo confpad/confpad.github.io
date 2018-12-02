@@ -8,6 +8,8 @@
   authors:
   - name: Tracy Lee
     twitter: ladyleet
+    github:
+    website:
   slides:
   - https://www.slideshare.net/ladyleet/reactive-programming-with-rxjs-byteconf-2018
   videos:
@@ -23,6 +25,8 @@
   authors:
   - name: Alex Kallaway
     twitter: ka11away
+    github:
+    website:
   slides: 
   - https://s3.amazonaws.com/byteconf-production/react-2018/alex-kallaway.pdf
   videos:
@@ -38,6 +42,8 @@
   authors:
   - name: Kyle Shevlin
     twitter: kyleshevlin
+    github:
+    website:
   slides: 
   - http://kyleshevlin.github.io/learning-backwards
   videos:
@@ -53,6 +59,8 @@
   authors:
   - name: Jeremias Menichelli
     twitter: jeremenichelli
+    github:
+    website:
   slides: 
   - https://slides.com/jeremenichelli/rich-animated-experiences-react/
   videos:
@@ -68,6 +76,8 @@
   authors:
   - name: Robert DeLuca
     twitter: robdel12
+    github:
+    website:
   slides: 
   - https://speakerdeck.com/robdel12/testing-big-in-javascript
   videos:
@@ -83,6 +93,8 @@
   authors:
   - name: Tim Roberts
     twitter: cirsca
+    github:
+    website:
   slides: 
   - https://docs.google.com/presentation/d/1Vh03g-Xmb_emXJ0dNtsb7IFsO71GUPz6G8wCNYHUph0/edit#slide=id.g35f391192_04
   videos:
@@ -98,6 +110,8 @@
   authors:
   - name: Vladimir Novick
     twitter: VladimirNovick
+    github:
+    website:
   slides: 
   - https://www.beautiful.ai/deck/-LKwMZNHA9Ok5S-xRt_J/Building-AR-Apps-Byteconf
   videos:
@@ -113,6 +127,8 @@
   authors:
   - name: Kent C. Dodds
     twitter: kentcdodds
+    github:
+    website:
   slides: 
   - https://slides.com/kentcdodds/confident-react
   videos:
