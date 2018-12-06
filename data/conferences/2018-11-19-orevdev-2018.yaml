@@ -1,0 +1,2335 @@
+---
+
+- title: Hacking the World with Digital Biology
+  type: regular
+  level:
+  time: 2018-11-19 09:00
+  room: Epigenetic Gardens
+  authors:
+  - name: Elsa Sotiriadis
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=hMGZZm-TBW0
+  description: |-
+    Biology is the new digital. The accelerating potential of enabling technologies is bringing upon us a new era. CRISPR lets us rewrite the source code of our own species, we can design, test and build designer organisms in the cloud, and cells are becoming nano-scale manufacturing units for anything from lab-grown meat and mushroom leather to medicines. How is biological software transforming industries? What's brewing for us in the future?
+
+- title: Building Mixed Reality Apps
+  type: regular
+  level:
+  time: 2018-11-19 10:30
+  room: Bionic Square
+  authors:
+  - name: Andras Velvart
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Virtual and Augmented Reality have incredible potential to enhance how we work, play and learn. The Windows Mixed Reality platform combines AR and VR into a single API set for developers and provides maximum reach by making spatial computing available to mainstream devices. In this session you will learn how to build a highly immersive mixed reality experience, using Unity, that can run on multiple devices.
+
+- title: '12-Factor, Cloud Native Enterprise Java Applications'
+  type: regular
+  level:
+  time: 2018-11-19 10:30
+  room: CRISPR Corner
+  authors:
+  - name: Sebastian Daschner
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=d3e3coq_Ulw
+  description: |-
+    Why should developers even care about buzzwords like 12-factor apps, cloud native, resilience, reactiveness or scalability? Why is it a good idea to integrate these concepts into our application in the year 2018? And which technology to we need to realize this? This session shows what it takes to implement cloud-ready, adaptive and scalable applications on containers and container orchestration. We will see modern Java Enterprise shipped in Docker containers orchestrated by Kubernetes running on a cloud service offering. The question of how to realize 12-factor and cloud native concerns, such as resilience, service discovery, or scalability will be answered. All of the time will be spent live-coding while explaining the concepts and solutions.
+
+- title: Building Evolutionary Architectures
+  type: regular
+  level:
+  time: 2018-11-19 10:30
+  room: Cryogenic Chamber
+  authors:
+  - name: Patrick Kua
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=D4z5TEOqutY
+  description: |-
+    In our industry, one of the only guarantees is change. Many of today’s tools, technologies, and business models will soon cease to exist, only to be replaced by newer ones. Architects face the challenge of planning for today’s systems knowing that the problems of tomorrow will be completely different from the problems of today. Evolutionary architecture is an architectural approach that prioritises change as a first principle but balances this need with delivering value early.
+
+- title: What's New in CSS?
+  type: regular
+  level:
+  time: 2018-11-19 10:30
+  room: Epigenetic Gardens
+  authors:
+  - name: Rachel Andrew
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=W0q-DLOfxu4
+  description: |-
+    CSS, and what is possible and supported in browsers, is developing and changing at a rate far faster than we have ever seen. Things that were deemed impossible a few years ago are now possible and available to explore. Learn how you can begin to incorporate some of these new creative possibilities into your work. Rachel will share practical ideas for using the new CSS. She’ll show us how it solves problems that were hard to solve in the past, and the creative opportunities it holds. She’ll explore the newest features, from fonts to colour options, layout, and animations.
+
+- title: Building Performant Backends with Elixir
+  type: regular
+  level:
+  time: 2018-11-19 10:30
+  room: Neosense Beach
+  authors:
+  - name: Ari Lerner
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=CMqhv5KRWAE
+  description: |-
+    Do you write backends with slow, fully-interpreted experiences? Have you ever had your cluster of compute machines fall over, paying hand-over-fist to throw more machines at the cluster due to memory constraints? Have you ever been bored with purely object-oriented languages? Not only performant, Elixir/Erlang present a completely new way of thinking when building applications through the novel language characteristics. In this talk, we'll not only discuss the advantages/disadvantages of using Elixir, but we'll also walk through building our first web-server and integration with a web-frontend.
+
+- title: 'ASP.NET Core in Production: Lessons Learned'
+  type: regular
+  level:
+  time: 2018-11-19 10:30
+  room: Nootropic Market
+  authors:
+  - name: Iris Classon
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=0qdGjC0I580
+  description: |-
+    With all the excitement around ASP.NET Core we decided to adopt early for our distributed monolith, a SaaS BI solution of decent size. Two years later, and after several migrations between ASP.NET Core versions, we have learned quite a few lessons about migrating and running ASP.NET Core in production. It affected every part of our system: code, dependencies, editors, integration and deployment pipeline, as well as distribution model- but was it worth it in the end? In this session I’d love to share with you the lessons learned, the questions answered and the tools used.
+
+- title: Stop Building Useless Software
+  type: regular
+  level:
+  time: 2018-11-19 10:30
+  room: Senescence Forest
+  authors:
+  - name: Diane Zajac
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=XamH2C55sYY
+  description: |-
+    Useless \ˈyüs-ləs\ use·less: not fulfilling or not expected to achieve the intended purpose or desired outcome. [Synonyms: futile, (in) vain, pointless, to no purpose, ineffectual, ineffective, to no effect, unprofitable] If you want to stop building useless software, you have to start understanding your customers. Empathy mapping is a simple activity for your team, stakeholders & anyone who is responsible for delivering products & services. You collectively explore what your customers see, hear, say & do, as well as consider what they think & feel. You gain insights into their pains & potential wants which are the keys to building more useful software. In this session, Diane shows you how to build an empathy map & points out the potential biases to watch out for as you go. You will learn how easy it is to work collaboratively to create a shared understanding of the customer. And that is the first step to start building software that customers find useful.
+
+- title: GDPR Compliance for Your Datastore
+  type: regular
+  level:
+  time: 2018-11-19 11:30
+  room: Bionic Square
+  authors:
+  - name: Philipp Krenn
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    The General Data Protection Regulation (GDPR) is changing how you can handle data in Europe. But what does this actually mean? The first part of this talk gives an overview of the implications of GDPR, which affects every software project with a European relation. That includes users' right to see, edit, and export their data, the right to be forgotten,... The second part takes a look at what this means for actual software projects with the specific use-case of logging. The main focus here is how to stay GDPR compliant while still being able to use the data for security and operation aspects. Disclaimer: This talk does not replace legal advice or a deeper examination of the topic. It is just a general overview.
+
+- title: Having Your Cake and Eating It Too — GraphQL in Reason
+  type: regular
+  level:
+  time: 2018-11-19 11:30
+  room: CRISPR Corner
+  authors:
+  - name: Sean Grove
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=bdjvLiI5tzA
+  description: |-
+    Traditionally, soundly typed-language are warm and cozy in their own world, but as soon as they have to deal with the outside world (say, talking to a REST API), the pain quickly sets in: trying to keep a type definition in sync with a moving external service, manual conversion back and forth, and lots of boilerplate. Well no more! Proper GraphQL support in ReasonML libraries means that we can have full-stack safety, knowing that if our programs compile, the server can satisfy our requirements! And on top of that, we get all the other GraphQL goodies, like tooling, in-editor auto-complete, and fantastic compile-time optimizations, for free! But what about the server-side, you ask? There are so many places things can go wrong when trying to maintain the promises you give to your GraphQL clients, I hear you cry out! Dry your eyes, friend, for ocaml-graphql-server is here to guide you to the happy full-stack GraphQL+Reason world you’ve been dreaming of, where whole classes of errors are eliminated. As in any good talk, however, we’ll also take a look at some of the painful points of this approach, and how ReasonML might make some tasks more difficult so that you can leave with a confident understanding of whether this new frontier is one you want to brave any time soon.
+
+- title: The New Paradigm For Leading Teams in the Digital Age
+  type: regular
+  level:
+  time: 2018-11-19 11:30
+  room: Cryogenic Chamber
+  authors:
+  - name: Max Larcombe
+    twitter:
+    github:
+    website:
+  - name: Alex Neuman
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=mCxvVHAz5rs
+  description: |-
+    This interactive session is a crash course in team development for the messy modern world. Too many leaders and organizations rely on outdated approaches to leadership which are as ancient as the factory shop floors they were designed for. Instead of clinging onto to these archaic ways of working we need a new playbook for the complex, uncertain and fast-changing digital landscape of today. This session will give an introduction to principles and methods you can use to build happier and more effective teams. Get inspiration for new ways of thinking and working, reflect on how your team is functioning and identify specific areas where you and your team can improve. Alex Neuman and Max Larcombe work with 21st-century learning and organizational development at Hyper Island. They have worked extensively with process design, leadership and team development. Alex was product lead on the Hyper Island Toolbox. Max previously led Master’s education and is currently Head of Online Courses.
+
+- title: Dissecting the stdlib
+  type: regular
+  level:
+  time: 2018-11-19 11:30
+  room: Epigenetic Gardens
+  authors:
+  - name: Huyen Dao
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=rpWfdiJJWa0
+  description: |-
+    One of the best places to learn idiomatic Kotlin is the stdlib. Now I don’t mean just using the stdlib, but going to the source, literally. In this session, we’ll look at some of the methods and tools inside the stdlib and dig into how they’re written to reveal intermediate to advanced language features, slick syntax and conventions, and high-level abstractions to help you write more fluent objects and interfaces. We’ll also take a few glances at the underlying bytecode to understand how and why the features work the way they do.
+
+- title: Reality is Becoming Virtual
+  type: regular
+  level:
+  time: 2018-11-19 11:30
+  room: Neosense Beach
+  authors:
+  - name: Roshan Khan
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    I am sure everyone remembers the classic movies of Avatar and Matrix. The concepts and possibilities in these futuristic movies are closer than ever to becoming a reality, in large part thanks to the revolutionary technologies like VR! I would like to believe that advances in technologies of VR will bridge the gap between humans and machines, resulting in better connection and access to digital information with greater efficiency and productivity. Albert Einstein has said, “Imagination is more powerful than knowledge!” I strongly agree with this statement and also believe that the power of imagination has the power to change the way we view the world. In this session, I will be sharing my views on how “Virtual is becoming Reality” and “Reality is becoming Virtual”, especially how “VR is shaping the future of travel?”
+
+- title: Functional Patterns for the Object Oriented
+  type: regular
+  level:
+  time: 2018-11-19 11:30
+  room: Nootropic Market
+  authors:
+  - name: Øystein Kolsrud
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=h89E7SU5ZpI
+  description: |-
+    Object-oriented languages have during the last decade introduced a number of features originating from the functional programming domain. Most notable are the introduction of lambda expressions and stream processing libraries like LINQ in C# and the Stream API in Java, but other features are emerging as well. C# 7.0 introduced the concepts of tuples and pattern matching, both of which have for a long time been fundamental features of functional languages like Haskell. Why do people consider these features to be functional? And why are people with a background in functional programming thrilled to see these features introduced in the object-oriented world? This talk will focus on a set of case studies that illustrate how functional patterns are typically applied in Haskell and how solutions based on those patterns differ from the traditional OO approach. The talk does not assume a background in functional programming, but hold on to your hat and be prepared for something different!
+
+- title: Designing Distributed Systems with TLA+
+  type: regular
+  level:
+  time: 2018-11-19 11:30
+  room: Senescence Forest
+  authors:
+  - name: Hillel Wayne
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=8saFY-87gvQ
+  description: |-
+    Distributed systems are hard. How do you test your system when it's spread across three services and four languages? Unit testing and type systems only take us so far. At some point, we need new tools. Enter TLA+. TLA+ is a specification language that describes your system and the properties you want. This makes it a fantastic complement to testing: not only can you check your code, you can check your design, too! TLA+ is especially effective for testing concurrency problems, like crashes, race conditions, and dropped messages. TLA+ is so effective for this that both AWS and Azure teams consider it essential to their work. It keeps subtle, serious bugs out of their code and helps them optimize without losing correctness. And it's not just for the cloud: engineers have used TLA+ to verify everything from business workflows to video games. This talk will introduce the ideas behind TLA+ and how it works, with a focus on practical examples and how you can apply it to your own work.
+
+- title: 'TDD on Android: Why and how?'
+  type: regular
+  level:
+  time: 2018-11-19 12:50
+  room: Bionic Square
+  authors:
+  - name: Danny Preussler
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    We have all heard about TDD: Test Driven Development. It produces better code and leads to fewer bugs. But, in our daily Android lives, why aren’t we doing it? Is it possible to develop an Android app that is fully test driven? Where do you start? Should you only test Java classes? Should you use or avoid Robolectric?
+
+- title: Practice Safe Networking
+  type: regular
+  level:
+  time: 2018-11-19 12:50
+  room: CRISPR Corner
+  authors:
+  - name: Zoë Rose
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=vgOtNrwvWhE
+  description: |-
+    Have you ever found yourself lost in a server room, or more often a closet, no idea where to start and confused if you are ever going to find the right port? Have you logged into the gateway router, when you're pretty sure you were supposed to be on a switch, and all of the sudden everything stops working, but you are 99% confident you didn't actually do anything? Then this talk is for you! We will discuss the foundations of network architecture. We'll cover what people mean when they say flat network, and why that's harder to diagnose when there are issues. We will walk through two example networks, home and SME, talking about how you can embed security and privacy by design.
+
+- title: Crafting Faster in the Dark
+  type: regular
+  level:
+  time: 2018-11-19 12:50
+  room: Cryogenic Chamber
+  authors:
+  - name: Richard Feldman
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=V_HveL2OVkc
+  description: |-
+    When I got into Elm as a React developer in 2014, I only expected to learn a pleasant functional programming language. I never thought I would discover a whole new programming flow—a flow where I could spend hours productively writing UI code without slowing down to open a browser and visually check my progress. What kind of bizarro front-end Web development world is that? What is it about Elm's design that makes this kind of flow possible, and what assumptions does it challenge about the most effective ways to write code? Does it take a whole different programming language to pull this off, or are there ways to get the same benefits in any language? We'll explore all of these questions and more in this talk. Come find out!
+
+- title: 'Behind the Scenes at Gapminder: A Story about Data and Visualizations'
+  type: regular
+  level:
+  time: 2018-11-19 12:50
+  room: Epigenetic Gardens
+  authors:
+  - name: Jasper Heeffer
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=n5nHk8SKuRA
+  description: |-
+    We'll take you along on the journey data makes both before it enters our pipelines and how we then shape it to end up in our visualizations. From large-scale data collection in the field to NGO's crunching surveys to datasets, to harmonizing data syntax and semantics, to defining visualizations using a visualization grammar and finally to serving the result on our tools page: www.gapminder.org/tools. At each step of the way we'll highlight interesting stories, lessons we learned during our work and challenges we still have.
+
+- title: The Future of QA in the Age of AI
+  type: regular
+  level:
+  time: 2018-11-19 12:50
+  room: Neosense Beach
+  authors:
+  - name: Nivia Henry
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    There is a misconception that the only job of QA is to test the software. This has led to bold proclamations that AI and automation have made the role obsolete. Before we lament - or for some celebrate - the disappearance of QA, let's step back and understand the greater ecosystem of quality and how testing fits into it. And let's also discuss how quality overall has been evolving to date. In this session, I hope to surprise you with the breadth and depth of the quality role; and offer a bold vision of its future based on how we are evolving it at Spotify. You'll come away with the language you need to initiate your own discussions for the quality and testing vision at your organization.
+
+- title: 'Blazor, a New .NET Single Page Application Framework'
+  type: regular
+  level:
+  time: 2018-11-19 12:50
+  room: Nootropic Market
+  authors:
+  - name: Steve Sanderson
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=qrf3OrLHeFI
+  description: |-
+    Today, nearly all browser-based apps are written in JavaScript (or similar languages that transpile to it). That’s fine, but there’s no good reason to limit our industry to basically one language when so many powerful and mature alternate languages and programming platforms exist. Starting now, WebAssembly opens the floodgates to new choices, and one of the first realistic options may be .NET. Blazor is a new experimental web UI framework from the ASP.NET team that aims to bring .NET applications into all browsers (including mobile) via WebAssembly. It allows you to build true full-stack .NET applications, sharing code across server and client, with no need for transpilation or plugins. In this talk, I’ll demonstrate what you can do with Blazor today and how it works on the underlying WebAssembly runtime behind the scenes. You’ll see its modern, component-based architecture (inspired by modern SPA frameworks) at work as we use it to build a responsive client-side UI. I’ll cover both basic and advanced scenarios using Blazor’s components, router, DI system, JavaScript interop, and more.
+
+- title: How to Be a High Performing Distributed Agile Team
+  type: regular
+  level:
+  time: 2018-11-19 12:50
+  room: Senescence Forest
+  authors:
+  - name: Lisette Sutherland
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=xzvt8qGafUo
+  description: |-
+    Working from distance comes with its own set of challenges. Remote teams need to combat the "out of sight, out of mind" mentality and learn how to build trust in new ways. In this session, we will explore how digital nomads, virtual entrepreneurs, and global organizations are reaching through the screens to collaborate seamlessly at a distance. You will walk away with new ideas for what it means to be present at work and how to create that sense camaraderie even when you're virtual. This session complements the session Judy Rees is facilitating. Attend both for full remote mastery!
+
+- title: Java with a Clojure Mindset
+  type: regular
+  level:
+  time: 2018-11-19 13:50
+  room: Bionic Square
+  authors:
+  - name: Dan Lebrero
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    New languages bring new ways of thinking and teach us new principles and tools that we can bring back to your day to day language. Using a real application as an example, we will learn how to build and design Java applications that follow Clojure’s functional principles using just core Java, without any libraries, lambdas, streams or weird syntax; and we will see what benefits those functional principles can bring. No Clojure or functional programming knowledge required, just plain old good Java.
+
+- title: 'Functional Programming in the Cloud: Simpler Application Development with Datomic Cloud'
+  type: regular
+  level:
+  time: 2018-11-19 13:50
+  room: CRISPR Corner
+  authors:
+  - name: David Nolen
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=qXTidbMcjH8
+  description: |-
+    In this session, we will explore "Cloud First" application development. Typical application development in the cloud often involves a host of tools that either compound or only temporarily alleviate incidental complexity. We'll see how functional programming techniques and tools like Datomic Cloud simplify the development process and allow us to program directly and iteratively in the cloud.
+
+- title: Science based Design Decision Making for Virtual Reality
+  type: regular
+  level:
+  time: 2018-11-19 13:50
+  room: Cryogenic Chamber
+  authors:
+  - name: Az Balabanian
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=lvDXPEoc3Vo
+  description: |-
+    Join Az Balabanian, the Host of the Research VR Podcast, to learn important design principles from the successful developers of the VR industry. After 2.5 years of weekly interviews with VR developers, Az has compiled the overarching concepts and key decisions that have led VR apps to go viral, and in turn, become profitable. He will guide you through the principles of cognitive science crucial for understanding how VR works, how to apply those principles to create better and more comfortable experiences, and how to create apps that remain "fresh" and with-the-times.
+
+- title: 'Hackers Gonna Hack: Identifying and Fixing Vulnerabilities Proactively'
+  type: regular
+  level:
+  time: 2018-11-19 13:50
+  room: Epigenetic Gardens
+  authors:
+  - name: Peter Yaworski
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=CzP6-NmH7g0
+  description: |-
+    It's impossible to avoid shipping code without vulnerabilities. Instead, the goal should be identifying and fixing those vulnerabilities as soon as possible, without repeating the same mistakes twice. In this session, I will walk you through how hackers discover your assets, test your systems and look for interesting functionality to shake bugs out of. In doing so, I'll detail various vulnerabilities I've found and other notable public write-ups / disclosures. We'll cover less popular but high impact vulnerabilities like cross-origin web socket hijacking, password reset poisoning, exfiltrating files from the File API and common design patterns that lead to unintentional information disclosure, just to name a few. Attending this session will help developers better understand what hackers look for, how they test and how to think like them in order to code more securely from day one.
+
+- title: Building cross-platform mobile apps with Flutter.io
+  type: regular
+  level:
+  time: 2018-11-19 13:50
+  room: Neosense Beach
+  authors:
+  - name: Ari Lerner
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Wanna build a mobile application that covers both Android and iOS, but don't want to sacrifice speed and efficiency of your application? The next generation of cross-platform mobile app frameworks is already here. In this session, we'll talk about flutter, what it is, why it's so cool, and we'll see a real-life application and illustrate how easy it is to build using Dart and Flutter.
+
+- title: Client Library Design Stories
+  type: regular
+  level:
+  time: 2018-11-19 13:50
+  room: Nootropic Market
+  authors:
+  - name: Jon Skeet
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=ls3WwdrGRFI
+  description: |-
+    For the last few years, I've been leading the effort on the Google Cloud Client Libraries for .NET. These are client libraries intended to make it as simple as possible for C# developers to use Google Cloud services. This ongoing journey has taught me many lessons about API design and versioning, as well as the benefits and drawbacks of code generation. This talk goes over some of those lessons. Even though the talk is grounded in my experience with the Google Cloud Client Libraries, many of the techniques are applicable to general library design.
+
+- title: Lean vs Agile vs Design Thinking
+  type: regular
+  level:
+  time: 2018-11-19 13:50
+  room: Senescence Forest
+  authors:
+  - name: Jeff Gothelf
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=MDY8IZX3IXY
+  description: |-
+    As companies evolve to adopt, integrate, and leverage software as the defining element of their success in the 21st century, a rash of processes and methodologies are vying for their product teams' attention. In the worst of cases, each discipline on these teams -- product management, design, and software engineering -- learns a different model. This short, tactical talk reconciles the perceived differences in Lean Startup, Design Thinking, and Agile software development by focusing not on rituals and practices but on the values that underpin all three methods. The tactics in this talk draw on Jeff’s years of practice as a team leader and coach in companies ranging from small high-growth startups to large enterprises. Whether you’re a product manager, software engineer, designer, or team leader, you’ll find practical tools in this talk immediately applicable to your team’s daily methods.
+
+- title: Designing Intuitive Tools
+  type: regular
+  level:
+  time: 2018-11-19 15:10
+  room: Bionic Square
+  authors:
+  - name: Tyler Wolf
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Whether it be running transformations on large data sets or producing sentient software, our job as developers is to build solutions to complex problems. We’re used to interfacing with software and even building tools for our fellow developers who are too. In this talk, we’ll explore building a tool for solving a complex problem faced by non-developers. We’ll talk about what it takes to replace the data visualization toolchain (R, custom scripts, D3.js, etc.) with a single tool that affords the same flexibility and expressiveness of software in an intuitive way for non-developers and how user experience considerations can impact all the way down to basic software architecture assumptions. This exploration will be supplemented with my own discoveries and moments of insight in building that tool that can be applied to building any tool and possibly to any piece of software at all.
+
+- title: Tuckman was Wrong — Dynamic Teaming
+  type: regular
+  level:
+  time: 2018-11-19 15:10
+  room: CRISPR Corner
+  authors:
+  - name: Doc Norton
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=S9aQMlvv6vE
+  description: |-
+    Stable Teams have long been a known and accepted leading practice in agile. And Tuckman's stages of group development proves the need for stable teams, right? But what if that's not correct? Doc posits that Tuckman's is actually a disproven theory that none-the-less mysteriously persists. What if, by stabilizing teams, we solved a completely different problem? And what if by de-stabilizing teams we could better solve other problems?
+
+- title: 10 Surprises for a JVM Engineer in Real Life Java Development
+  type: regular
+  level:
+  time: 2018-11-19 15:10
+  room: Cryogenic Chamber
+  authors:
+  - name: Bengt Rutisson
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=7I1O6q5D5Zw
+  description: |-
+    In this talk, you will learn about the surprises that an experienced JVM engineer gets when doing Java development in the wild. Bengt worked for 10 years with the Java platform specialising in garbage collection implementations inside the JVM. He worked with both the JRockit and HotSpot Java virtual machines and has built JVMs for JDK 6, JDK 7, JDK 8 and JDK 9. Two years ago he moved over to using the Java platform as a developer by joining the software team at Looklet. There are many assumptions you make as a JVM engineer that turn out to be quite wrong when you end up being a user of the platform rather than a developer of the platform. And there are many things you never even thought about as a JVM developer.
+
+- title: Oops! OOP's not what I thought
+  type: regular
+  level:
+  time: 2018-11-19 15:10
+  room: Epigenetic Gardens
+  authors:
+  - name: Anjana Vakil
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=qMdxExJCD5s
+  description: |-
+    This talk is a historical & philosophical journey deep into the heart of darkness, er, object-oriented programming (OOP). Join me as I have my world shaken by the discovery that objects & classes aren't OOP's most important concepts: messages & late binding are. We'll try to peek inside the heads of Alan Kay & other OOP founders as they created languages like Smalltalk, and find that those "old" ideas seem strikingly relevant today. Our jaws may drop as we realize that OOP & functional programming aren't as different as we may have thought and that the 1st OO language wasn't created in the 60's or 70's, but much, much earlier… What awaits us at the end of this journey? At worst, we'll undergo a brief crisis of faith in everything we ever thought we knew about programming. (A support group will meet after the conference.) At best, we'll shift the way we view this near-ubiquitous but oft-misunderstood paradigm, and walk away with new insights for how we architect & understand our code.
+
+- title: Nailing down bugs in distributed systems
+  type: regular
+  level:
+  time: 2018-11-19 15:10
+  room: Neosense Beach
+  authors:
+  - name: Kamil Szymański
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Finding bugs in distributed systems is challenging. Finding bugs in production in distributed systems is even harder due to time pressure, especially if the bug is on a critical path. In such times, you can't afford to guess what's wrong, you have to take decisions based on real data. In this slides-free session, we will see how can we use live data for making bugs discovery quicker and finding the root causes of such bugs easier. Moreover, we will discuss how to deal with production outages and quickly recover from them.
+
+- title: 'C# 8 and Beyond'
+  type: regular
+  level:
+  time: 2018-11-19 15:10
+  room: Nootropic Market
+  authors:
+  - name: Filip Ekberg
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=1TOHgeUdjRw
+  description: |-
+    One of the most popular programming language on the market is getting even better. With every iteration of C# we get more and more features that are meant to make our lives as developers a lot easier. Join me in this session to explore what's new in C# 8, as well as what we can expect in the near (and far) future of C#! We'll talk about: - News in C# 8 - Pattern Matching (incl. Record Types) - Nullable Reference Types and How to Avoid Null Reference Exceptions - How Async & Await is Improving
+
+- title: A New Model for Software Development
+  type: regular
+  level:
+  time: 2018-11-19 15:10
+  room: Senescence Forest
+  authors:
+  - name: Jason Gorman
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    The way we build software teams and manage developer careers is broken. Exponential growth in people entering the profession means more experienced developers are greatly outnumbered. This is compounded by a tendency to promote the most experienced developers into "hands-off" management roles, where no longer influence developers day-to-day at the "code face". This leads to a profession of "perpetual beginners", and an effective skills shortage that holds many organisations back. A new model is needed; one that keeps the most experienced developers working on code (while still progressing in the organisation), that accelerates learning through structured long-term mentoring, and that treats effective dev teams as valuable assets that require ongoing investment, and not fixed costs that need to be disposed of as soon as the work is "done". Finally, we'll look at a business model that could give devs the control we need to achieve this: the software development "practice".
+
+- title: 'Future of VR Cinematography: Photogrammetry, Volumetric Videos, Mocap Animations'
+  type: regular
+  level:
+  time: 2018-11-19 16:10
+  room: Bionic Square
+  authors:
+  - name: Az Balabanian
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Join Az Balabanian, an Immersive Filmmaker and Cinematographer, who specializes in 3D Scanning Photogrammetry and immersive documentaries. Az will walk you through the current technologies that he uses to create his independent VR films, talk about his workflow and the variety of software needed, and expose the areas that are ripe for disruption. He will showcase some of the innovations in the space that will transform the cinematic industry like real-time 3D engines, accessible mocap capture tools, Photogrammetry 3D scanning, and volumetric videos.
+
+- title: 'Istio on Kubernetes: Chaos, Canaries, Dark Launches'
+  type: regular
+  level:
+  time: 2018-11-19 16:10
+  room: CRISPR Corner
+  authors:
+  - name: Burr Sutter
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=0tixf7ws0sE
+  description: |-
+    We will be live demo’ing, the Istio Service Mesh on top of Kubernetes/OpenShift. Key use cases include easy distributed tracing via Jaeger, clever canary deployment scenarios, circuit breakers, network chaos injection and the beauty of the dark launch. How do you achieve the velocity of many deploys per day? Small batch sizes, well-architected Java apps and the capabilities of a service mesh, taking your Linux container, Kubernetes & microservice capabilities to the next level. In this session, you will witness several of the new superpowers of Istio on Kubernetes and OpenShift. Things like distributed tracing (Jaeger) and metrics, clever canary deployments, chaos injection, circuit breakers and the dark launch.
+
+- title: 'Compiler Errors in rustc: A UX Perspective'
+  type: regular
+  level:
+  time: 2018-11-19 16:10
+  room: Cryogenic Chamber
+  authors:
+  - name: Steve Klabnik
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=78cwd_7Rgx4
+  description: |-
+    Rust is known for having a very strict compiler that checks many things in your code. But when problems are inevitably found, how does the compiler communicate them to the user? In this talk, Steve will give a deep dive into the compiler, showing the work needed to produce excellent compiler errors.
+
+- title: Hyped About Hyperapp
+  type: regular
+  level:
+  time: 2018-11-19 16:10
+  room: Epigenetic Gardens
+  authors:
+  - name: Gleb Bahmutov
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=b1Vp5ncwrJU
+  description: |-
+    What is the smallest and purest front-end framework out there? Did someone say Elm? I said smallest! The answer is Hyperapp - a really tiny, Elm-inspired pure functional web framework that combines the best features of today's hottest frameworks. It has built-in state management, pure functions, virtual DOM and still is easy to learn in a few minutes. Come to this session to learn how Hyperapp allows one to build a complete web application from small pure parts that are easy to code, simple to understand and convenient to test.
+
+- title: Safe Interaction with Java through Eta's FFI
+  type: regular
+  level:
+  time: 2018-11-19 16:10
+  room: Neosense Beach
+  authors:
+  - name: Rahul Muttineni
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Eta is a pure, lazy, strongly-typed functional programming language on the JVM. Java is an impure object-oriented programming language. The selling point of a JVM language is that you are able to use a vast ecosystem of existing libraries without having to re-invent the wheel. How do we make these two seemingly incompatible programming paradigms work with each other? In this talk, we will discuss Eta's Foreign Function Interface (FFI), a mechanism with provides a type-safe way to interact with the Java ecosystem while maintaining the purity property. It also has support for handling Java's inheritance, generics, and even allows you to use an Eta function to implement a Java Single Abstract Method (SAM) type. This allows you to easily import Java methods into your programs without knowing the internals of Java and also export your Eta functions into a form that Java can understand.
+
+- title: Mapping Well-Designed Domain Models with EF Core 2.1
+  type: regular
+  level:
+  time: 2018-11-19 16:10
+  room: Nootropic Market
+  authors:
+  - name: Julie Lerman
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=9Vp2iXlhK-s
+  description: |-
+    Entity Framework half-heartedly supported Domain-Driven Design patterns. But the new-from-scratch EF Core has brought new hope for developers to map your well-designed domain classes to a database, reducing the cases where a separate data model is needed. EF Core 2.1 is very DDD friendly, even supporting things like fully encapsulated collections, backing fields and the return of support for value objects. In this session, we'll review some well-designed aggregates and explore how far EF Core 2.1 goes to act as the mapper between your domain classes and your data store.
+
+- title: Turn Up the Good
+  type: regular
+  level:
+  time: 2018-11-19 16:10
+  room: Senescence Forest
+  authors:
+  - name: Woody Zuill
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=Y1u6Hzve6rk
+  description: |-
+    Many things can hamper the effectiveness of our teams: Too many meetings, technical debt, bugs, multi-tasking, and so on. When we see these problems our first reaction is often to say "We need to fix this stuff". We want things to be better, but just as often our fix introduces its own problem and it's not unusual to see today's "solution" become tomorrows problem. Wouldn't it be nice if these problems would simply "fade away"? While I can't promise you that there is at least one alternative approach which I call "Turn Up The Good". This concept is expressed nicely by Kent Beck in the first edition of the book "Extreme Programming Explained": “When I first articulated XP, I had the mental image of knobs on a control board. Each knob was a practice that from experience I knew worked well. I would turn all the knobs up to 10 and see what happened. ” - Kent Beck The basic idea: Pay attention to what is working nicely and experiment with ways to make it even better, or "Turn It Up". I've noticed several benefits to this approach, and a big one is that as we "turn up the good" on things that are going well, many of the common problems fade away. We'll take a look at examples of how this has worked out in practice, and see how this can be applied in our daily work.
+
+- title: Diving into Functional Programming — Beyond the Basics
+  type: regular
+  level:
+  time: 2018-11-19 17:10
+  room: Bionic Square
+  authors:
+  - name: Ashic Mahtab
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Most talks on functional programming revolve around immutability, concise syntax, perhaps higher order functions. While these are definitely useful attributes, I personally think of them as nice side effects. I find the notion of composable abstractions as a key benefit of functional programming. And I will cover some of these aspects in this talks. Come along, and (finally?) get your head around Functors, Applicatives, Monoids, Monads, and see how they can be useful to you. We will see examples from a few functional languages to best get to grips with the core concepts.
+
+- title: Intro to Web Graphics with HTML5 Canvas
+  type: regular
+  level:
+  time: 2018-11-19 17:10
+  room: CRISPR Corner
+  authors:
+  - name: Kai Chang
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=qVQzSJ19oOw
+  description: |-
+    Learn to draw on the web with HTML5 Canvas and JavaScript. We'll use primitive shapes like rectangles, circles and lines to visualize data and create generative art. We'll get a taste of D3.js to design and animate our graphics. We'll also use D3 for simple mapmaking, learning the basics of spatial visualization and geographic projections.
+
+- title: 'The Good, The Bad and The Ugly - An Event Sourcing Retrospective'
+  type: regular
+  level:
+  time: 2018-11-19 17:10
+  room: Cryogenic Chamber
+  authors:
+  - name: Dennis Doomen
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=qaMUYAG4njY
+  description: |-
+    In 2009, I first learned about Event Sourcing and Command Query Responsibility Seggregation (CQRS) at a training Greg Young gave in Utrecht, The Netherlands. I remember being awed by the scalability and architectural simplicity those styles provided. However, I also remembered the technical complexity that comes with it. In 2012, I was in charge of transitioning a CQRS-based system to Event Sourcing. I knew it would be non-trivial, but boy was I in for a surprise. So, over the last four years, I've experienced first-hand how a large group of developers had to deal with the transition. It's a brilliant solution for high-performance or complex business systems, but you need to be aware that this also introduces challenges most people don't tell you about. In this talk, I'd like to share you some of the most powerful benefits of ES, but also show you the flipside of the coin and cover some of the smaller and bigger challenges you'll run into it. Again, I love it and would apply it again without any doubt, but I really want you to understand the trade-offs before you jump on the Event Sourcing train.
+
+- title: History of the Occult and Technology -Downloading Paganism
+  type: regular
+  level:
+  time: 2018-11-19 17:10
+  room: Epigenetic Gardens
+  authors:
+  - name: Chris Dancy
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=-cdreTv9NHk
+  description: |-
+    Arthur C Clark stated that “Any sufficiently advanced technology is indistinguishable from magic,” in that way we explore the deep pagan roots built into the everyday technology. From meme magic to technopaganism the rituals, and history of magic and the occult. Have you ever thought about how speaking to AI looks like casting spells, or how we used wizards to install software for years? Have you ever wanted to learn to cast a spell with a password reset? Welcome to the eBook of digital shadows.
+
+- title: Brain-Computer Interfaces — Science Fiction or Reality?
+  type: regular
+  level:
+  time: 2018-11-19 17:10
+  room: Neosense Beach
+  authors:
+  - name: Piotr Wittchen
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Brain-Computer Interface (BCI) is a direct communication pathway between the brain and an external device. It seems to be new technology, but it has its origins in 1924! Today, we have technologies, which lie on the border between biology and computer science like neuroprosthetics, electromyography and of course BCI. During the talk, we will start the journey through different brain imaging techniques with a focus on electroencephalography (EEG). BCI is no longer expensive technology available only in laboratories. Anyone can have access to it. Such technology gives us the possibility to create human-computer interaction of the future. Additionally, we can develop communication interfaces for people with illnesses like locked-in syndrome (LIS). We will discuss not only theory but also practical examples together with available software and working pieces of code for the Android platform. If you care about transhumanism, you cannot neglect BCI.
+
+- title: 'Writing Allocation Free Code in C#'
+  type: regular
+  level:
+  time: 2018-11-19 17:10
+  room: Nootropic Market
+  authors:
+  - name: Matthew Ellis
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=hVhxqRMpHNE
+  description: |-
+    Performance is a feature. We all want our code to run faster, and there are plenty of ways to do this - caching, using a smarter algorithm or simply doing less stuff. In this session, we’re not going to look at any of that. Instead, we’re going to focus on a recent trend in the C# world - improving performance by reducing memory allocations. We’ll see how recent versions of C# allow using structs without creating lots of copies, and we’ll have a timely reminder on exactly what is the difference between a class and a struct. We’ll also spend some time with the new Span<T> runtime type and find out how that can help work with slices of existing memory, and how it’s already into the types we know and love in the framework. And of course, we’ll take a look at when you should and (more importantly) shouldn’t use these new techniques.
+
+- title: Getting Them To Get It
+  type: regular
+  level:
+  time: 2018-11-19 17:10
+  room: Senescence Forest
+  authors:
+  - name: Judy Rees
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=T9FJhVhR1cU
+  description: |-
+    You’ve got important stuff to say. But how can you make sure people listen, and understand? What needs to happen for them to pay attention to your message and take the right action? Whether you're communicating with executives, with customers, with colleagues or with others people, you need to to be heard and understood above the constant buzz of everyday distractions. Here’s an approach that works: when they know that you “get” them, they’ll be more open to hearing you. Then, they’re much more likely to “get it”.
+
+- title: Hacking a Cat — Going Beyond Traditional Attack Vectors
+  type: regular
+  level:
+  time: 2018-11-19 18:20
+  room: Epigenetic Gardens
+  authors:
+  - name: Niall Merrigan
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=L-U2cmz_SV4
+  description: |-
+    The future is now. Implants the size of a grain of rice are being used by people to open doors, hold payment information and where a handshake can literally exchange digital business cards. We are also seeing major advances in medical tech with new smaller hearing aids with Wi-Fi, AR/VR to help the visually impaired and even Wi-Fi enabled hearts. We now need to look at the connected human and see how the threat landscape is changing. Soon it may be possible for you to get a computer virus.
+
+- title: Designing Compassionate Systems
+  type: regular
+  level:
+  time: 2018-11-20 09:00
+  room: Epigenetic Gardens
+  authors:
+  - name: Chris Dancy
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=OOOTqFwmzTo
+  description: |-
+    What if we designed applications that worry less about "where you are" and more about "how you are?" The internet has been engineered to steal our attention and take us away from our present moment. Where does Buddhism meet technology and how can we reclaim our sense of safety in ephemeral society. In this session, we will discover the five ways we can filter information and the three keys that will help us return that as wisdom to consumers. How to design software and services to support a gentler kinder world.
+
+- title: Multifaceted Visualization
+  type: regular
+  level:
+  time: 2018-11-20 10:30
+  room: Bionic Square
+  authors:
+  - name: Kai Chang
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Explore ways of visualizing and interacting with many-dimensional spaces. Don't let machine learning algorithms have all the fun: the human mind has untapped potential yet! Our world is full of multidimensional problems, but we can look at high-dimensional data to build our intuition. We will look at applications in nutrition, public health, genomics and astronomy.
+
+- title: 'Serverless or Serverfull with Kubernetes: Microservices & Functions'
+  type: regular
+  level:
+  time: 2018-11-20 10:30
+  room: CRISPR Corner
+  authors:
+  - name: Burr Sutter
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Serverless is a misnomer; your future cloud native applications will consist of both microservces and functions, often wrapped as Linux containers, but in many cases where you the developer ignore the operational aspects of managing that infrastructure. In this session, we will dive into the capabilities of a Function-as-a-Service Platform for Kubernetes/OpenShift. The Microservices evolution was relatively easy, the programming model was nearly identical to the previous generation of Java EE. Today, Functions represent a new programming model for your next generation Java business applications. This will be a demo intensive session.
+
+- title: Next generation message driven systems with Akka
+  type: regular
+  level:
+  time: 2018-11-20 10:30
+  room: Cryogenic Chamber
+  authors:
+  - name: Johan Andrén
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=L26kGCBHcsw
+  description: |-
+    Akka is the leading actor model implementation for Java and Scala. The actor model is a single abstraction that allows you to build both concurrent and distributed, message-driven systems more easily. In this talks, we will introduce the latest feature of Akka, Akka Typed, a new fully typesafe API to the actor model to increase productivity and detect bugs at compile time instead of you in a production environment.
+
+- title: The Psychology of Social Engineering
+  type: regular
+  level:
+  time: 2018-11-20 10:30
+  room: Epigenetic Gardens
+  authors:
+  - name: Niall Merrigan
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    There is an old saying, give a person money and they will eat for a day, teach a person to phish and they will eat for life. This session shows how social engineering is less technology and more psychology. I will show the techniques that are being used against you today and even how advertising and selling uses social engineering to influence your decisions.
+
+- title: 'Deep Oracles: Multiplying the Value of Automated Tests'
+  type: regular
+  level:
+  time: 2018-11-20 10:30
+  room: Neosense Beach
+  authors:
+  - name: Emanuil Slavov
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    One of the most widely touted drawbacks of the automated tests is that they work in strictly bounded context. They can only detect problems for which they are specifically programmed. The standard automated test has a bunch of assertions in the last step. By definition, an automated test cannot detect an ‘unknown’ problem. Because of their narrow focus, the automated tests are occasionally compared to dumb robots. It takes a lot of time and effort to write and support them however their return on investment is still marginal. I’ve heard this mantra so many times that people just starting in the testing field can easily accept it as a truism. Using the 6 techniques (flaky behavior, random test data, attack proxy, logs insights, data quality and application metrics), any automated tests can be transformed into a sensitive and highly advanced suite. New, unseen or unanticipated problems are now immediately highlighted. And the best part is that you don’t need to modify the existing tests.
+
+- title: Managing the Conversation Flow within a Bot
+  type: regular
+  level:
+  time: 2018-11-20 10:30
+  room: Nootropic Market
+  authors:
+  - name: Rabeb Othmani
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=-f0r63Gdw6s
+  description: |-
+    If there's one challenge with bots, that has to be how effortless and smooth the interaction between the user and the bot has to be. The user shouldn't even feel like conversing with a program. That's why thinking about how to handle the conversation flow when building bots is an essential task for developers. In this talk, we will go through how to manage the conversation flow with Microsoft Bot Framework and dialogs. We will tackle some scenarios like prompt input, validate input, multiple dialogs, handling the context etc.
+
+- title: Managing Distributed Teams
+  type: regular
+  level:
+  time: 2018-11-20 10:30
+  room: Senescence Forest
+  authors:
+  - name: Lisette Sutherland
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=W-xDkEnoFZ4
+  description: |-
+    Sometimes managers won’t allow remote working because they fear the lack of control. Sometimes managers force teams to start working together remotely and then teams face a sink or swim scenario. Managing remotely is different than managing in person. In this talk, we will discuss what it takes to be a successful remote team manager and how to use remote working to your company’s advantage.
+
+- title: Testing in DevOps for Engineers
+  type: regular
+  level:
+  time: 2018-11-20 11:30
+  room: Bionic Square
+  authors:
+  - name: Katrina Clokie
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Most developers and operations engineers are natural testers. Testing is pervasive in these roles, even when we don’t name a task as testing or consider test separate from other activities. But there is a difference between being able to do something and doing it well. We can all run, but only some of us could finish a marathon. There are opportunities for those who test by instinct to discover and practice techniques to develop testing skills. In this talk, Katrina will identify the test thinking in non-testing roles to shine a spotlight on testing in DevOps for engineers. She will introduce oracles to encourage broader thinking about what is unit tested and how production problems are discovered. She will explain the relationships between automated test and monitoring assets to illustrate how these can be re-used beyond their normal contexts. She will describe an inclusive approach to test strategy in a DevOps culture that brings people together to create a collaborative approach to risk.
+
+- title: 'Headers for Hackers: Wrangling HTTP Like a Pro'
+  type: regular
+  level:
+  time: 2018-11-20 11:30
+  room: CRISPR Corner
+  authors:
+  - name: Andrew Betts
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    HTTP has been gradually adding lots of new and exotic headers, and more are on the way. Learn about current best practices with Vary, Link, Content-Security-Policy, Referrer-Policy, Client-Hints, Clear-Site-Data and Alt-Svc, upcoming features such as Feature-Policy and proposals like Variants, Early-Hints and Origin-Policy. HTTP gives you incredibly powerful control over many aspects of the way a browser will process the page and is often a more effective or more secure option than trying to achieve the same effect with tags or script in the page.
+
+- title: 'Beyond Conway''s Law: Meet the Social Side of Your Code'
+  type: regular
+  level:
+  time: 2018-11-20 11:30
+  room: Cryogenic Chamber
+  authors:
+  - name: Adam Tornhill
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Software projects often mistake organizational problems for technical issues and treat the symptoms instead of the root cause. The main reason is that the organization that builds the system is invisible in our code. From code alone, we cannot tell if a module is a productivity bottleneck for five different teams, or whether our microservice boundaries support the way our codebase evolves or not. This session closes that gap by taking a behavioral view of version-control data combined with insights from social psychology to measure aspects of software development that we haven't been able to capture before. You learn how this information lets you detect modules with excess coordination needs, measure how well your architecture supports your organization, suggest and guide refactorings, as well as why Conway's law is an oversimplification. To make it specific, each point is illustrated with a case study from a real-world codebase.
+
+- title: Your 2019 CSS Layout Toolkit
+  type: regular
+  level:
+  time: 2018-11-20 11:30
+  room: Epigenetic Gardens
+  authors:
+  - name: Rachel Andrew
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    As we head into the final quarter of 2018, let’s take a look at where we are with CSS Grid Layout, and CSS layout in general. In this talk, you will learn the key elements of layout. The things you need to know as you plan your projects now and into the next year. Rachel will take you on a tour of what we have now and what is coming next, with plenty of practical advice and takeaway code examples so that you can start to use these features in your own work.
+
+- title: In-depth path morphing w/ Shape Shifter
+  type: regular
+  level:
+  time: 2018-11-20 11:30
+  room: Neosense Beach
+  authors:
+  - name: Alex Lockwood
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Writing high-quality path morphing animations for Android is a near impossible task. In order to morph one shape into another, the SVG paths describing the two must be compatible with each other — that is, they need to have the same number and type of drawing commands. Unfortunately, popular design tools, such as Sketch and Illustrator, do not take this into account. As a result, engineers will often have to spend time tweaking the raw SVG's given to them by designers before they can be morphed. To address this issue, I built a web app called Shape Shifter, a tool that helps developers create path morphing animations for their Android apps. In this talk, I'll explain how to use Shape Shifter to create transitions between arbitrary shapes using AnimatedVectorDrawables. I will also explain how Shape Shifter internally uses bioinformatics algorithms to auto-generate morphing animations between incompatible shapes, as well as some of the challenges I faced while building the tool.
+
+- title: Security in ASP.NET Core 2.1
+  type: regular
+  level:
+  time: 2018-11-20 11:30
+  room: Nootropic Market
+  authors:
+  - name: Barry Dorrans
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=W6-OK2v94rU
+  description: |-
+    This session will cover security in ASP.NET Core, from 1.0 all the way through to the brand new 2.1.
+
+- title: Overcoming the Difficulties of Remote Meetings
+  type: regular
+  level:
+  time: 2018-11-20 11:30
+  room: Senescence Forest
+  authors:
+  - name: Judy Rees
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=qLDc0Yk-vkw
+  description: |-
+    What makes remote meetings, workshops and training so difficult? As I've been teaching great in-the-room trainers, facilitators and coaches to do their thing remotely, it struck me that we can boil it down to three big challenges, the 3 Difficult-Ds: - Distraction - Discomfort - Disconnection (both literal and metaphorical) To make our remote meetings and events brilliant, we need to tackle these. And with a little effort, it really is possible! In this highly-interactive session I’ll share top tips, and aim to crowdsource new ideas from you. This session will complement both Lisette Sutherland's sessions, but can also stand alone.
+
+- title: Navigating to the Navigation Architecture Component
+  type: regular
+  level:
+  time: 2018-11-20 12:50
+  room: Bionic Square
+  authors:
+  - name: Huyen Dao
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    One of the new Architecture Components announced at Google I/O 2018 was the Navigation Component which encapsulates principles of well-designed Android navigation. The Navigation Component consists of higher-level abstractions that allow us as developers to more clearly and cleanly define how we want navigation to flow within our apps. For those of us looking to adopt the Navigation Component into existing apps, there are plenty of questions: How do current navigation patterns translate to the Navigation Component? How do we handle multiple activities since the new navigation controller handles a single activity? How can we do improve our deep linking, how can we clean up our back/up logic? In what ways can we extend the Navigation Component? How does the Navigation editor work? In this session, we will look at the fundamentals of the Navigation Component and try to answer these questions, making navigating our apps smooth sailing for our users.
+
+- title: 'TimescaleDB: Re-engineering PostgreSQL as a time-series database'
+  type: regular
+  level:
+  time: 2018-11-20 12:50
+  room: CRISPR Corner
+  authors:
+  - name: Erik Nordström
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=JVv65FkHcLY
+  description: |-
+    Time-series data is now everywhere and increasingly used to power core applications. It also creates a number of technical challenges: to ingest high volumes of data; to ask complex, queries for recent and historical time intervals; to perform time-centric analysis and data management. And this data doesn’t exist in isolation: entries are often joined against other relational data to ask key business questions. In this talk, I offer an overview of how we developed TimescaleDB, a new open-source database designed for time series workloads, engineered up as a plugin to PostgreSQL, in order to simplify time-series application development. Unlike most time-series newcomers, TimescaleDB supports full SQL while achieving fast ingest and complex queries. This enables developers to avoid today’s polyglot architectures and their corresponding operational and application complexity.
+
+- title: Staging Systems are Overrated - Docker-Based System Testing
+  type: regular
+  level:
+  time: 2018-11-20 12:50
+  room: Cryogenic Chamber
+  authors:
+  - name: Peter Neubauer
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=BTRxX2Thie0
+  description: |-
+    We will look at how our team is describing services, dependencies on other services and service providers. From that, we generate valid docker setup scenarios and docker images that we use both to deploy to production and to set up individual testing environments for the developers for testing even complex event-source based scenarios with repeatable results and reliable startup order for the different docker containers in a system.
+
+- title: Well Tested Software
+  type: regular
+  level:
+  time: 2018-11-20 12:50
+  room: Epigenetic Gardens
+  authors:
+  - name: Gleb Bahmutov
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Testing is hard. Realistic testing of web applications in a real browser is even harder. In this presentation, I will show you how to quickly test any web application using cutting-edge tools. Then we will see how to build high-quality software from individual modules using appropriate tools and creating an environment where bugs can be discovered immediately and fixed quickly. This session will give tremendous value for anyone programming in JavaScript or building modern web applications.
+
+- title: From Overnight to Always-On
+  type: regular
+  level:
+  time: 2018-11-20 12:50
+  room: Neosense Beach
+  authors:
+  - name: Enno Runne
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Systems integration is everywhere; not because we want it, but because we need it. It’s the download of exchange rates, the list of yesterday’s orders and the latest inventory. Not long time ago, we’d pull this kind of information in overnight batches and every system had something to work on. That was the age where we had printed newspapers. Today, data needs to be there. Instantaneously. Or “as fast as possible”. We don’t want to transfer huge piles of data once every night but have the updates coming by — just after the change happened. We want streaming data. In this talk, we exemplify the path to move from overnight file exchanges to streaming data by using Alpakka, which is an integration library based on Reactive Streams and Akka. Always on.
+
+- title: 'Sociotechnical Architecture: Aligning Teams and Software for Continuous Delivery'
+  type: regular
+  level:
+  time: 2018-11-20 12:50
+  room: Nootropic Market
+  authors:
+  - name: Nick Tune
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=Pmz3FXu-Dzk
+  description: |-
+    Model the wrong boundaries, and disaster is just around the corner waiting to tease your sanity. An excess of dependencies between modules will result in changes rippling across a fragile codebase at compile time, and that same web of dependencies means even just a small runtime error in one module has the potential bring the entire system crashing down. Modelling the wrong boundaries will test the patience of your teams as well. Every piece of work will require expensive coordination with many other teams who all have different priorities and political agendas. In this talk, you’ll learn practical techniques for identifying effective modules in your software systems and enabling autonomous teams in your organisation, and you’ll see modelling patterns based on real-world examples from a variety of domains. Along the way, you’ll learn about the theoretical concepts underpinning the techniques, touching on DDD, Systems Thinking, Promise Theory, Theory of Constraints, and more.
+
+- title: Escape Velocity - Better Metrics for Software Teams
+  type: regular
+  level:
+  time: 2018-11-20 12:50
+  room: Senescence Forest
+  authors:
+  - name: Doc Norton
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=o-Rv8UNUVxA
+  description: |-
+    If your team uses velocity for planning but you don't find it very useful, this session is for you. If your manager or scrum master or other pseudo-authority figure keeps obsessing over your velocity, this session is for you. If you want to know about better ways to forecast when a piece of work will be done or how to gather data that actually helps your team, this session is for you. Doc Norton shares stories and science detailing why velocity isn't a very good metric, talks about some common velocity anti-patterns, and shares what metrics you could use instead. You'll be able to better forecast when work will be done and you'll be better able to diagnose issues with your process and work toward correcting them.
+
+- title: How We Support Informed Decisions at IKEA IT
+  type: regular
+  level:
+  time: 2018-11-20 13:50
+  room: Bionic Square
+  authors:
+  - name: Christian Runnevik
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    At IKEA IT operations, we have a large-scale intricate IT landscape that turns decision-making into a complex matter. We will talk about decision-making all the way from values to the tools we use. We will discuss how and why we put effort into making our people grow in their decision-making process and also focus on the toolset we use to achieve one single coherent way to combine numerous data sources in multiple views. We would like to discuss and show how IKEA IT got here today and where we aim to go in the future.
+
+- title: 'Vue and Vuex: Structure your app with centralized state management'
+  type: regular
+  level:
+  time: 2018-11-20 13:50
+  room: CRISPR Corner
+  authors:
+  - name: Christoffer Noring
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=wv09zxowApE
+  description: |-
+    Vue.js is the latest major SPA framework that has grown in popularity immensely, becoming a legitimate competitor to React and Angular. In part, this is because it combines—according to many—the best of both worlds. Simplicity is another key characteristic of Vue.js, manifesting itself not only in its excellent documentation and the possibility to start off with a simple script tag but also through the superb Vue-CLI that helps you structure and scale your projects. Apart from the fundamentals of the framework, such as components, directives, routing, and testing, we will dive into centralised state management in the form of Vuex.
+
+- title: Idiomatic Interop with Kotlin
+  type: regular
+  level:
+  time: 2018-11-20 13:50
+  room: Cryogenic Chamber
+  authors:
+  - name: Kevin Most
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=YydqalTh6NI
+  description: |-
+    Kotlin's most valuable feature is arguably its 100% Java interop, which not only lowers the barrier to entry for its use in existing projects but gives it access to Java's rich ecosystem of libraries too. However, calling clean Java code from Kotlin, and calling clean Kotlin code from Java, is not always so clean. We will discuss strategies and tools that enable you to write code in either language that is clean, safe, and idiomatic whether it's being called from Java or from Kotlin. Kotlin has been embracing multiplatform as of late, as well; aside from targeting JS and Native, Kotlin allows targeting "common", where all of your code is written against a purely Kotlin stdlib, and can then be consumed by modules that target any platform. We will touch on the interop stories on these platforms, and how those of us who are likely using Kotlin on the JVM today can adapt and prepare our code to be idiomatic no matter where it may run in the future.
+
+- title: Attacking "Modern" Web Technologies
+  type: regular
+  level:
+  time: 2018-11-20 13:50
+  room: Epigenetic Gardens
+  authors:
+  - name: Frans Rosén
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    In this talk, top ranked white-hat hacker Frans Rosén will focus on methodologies and results of attacking modern web technologies. He will explain how he accessed private Slack tokens by using postMessage and WebSocket-reconnect, and how vulnerable configurations in both AWS and Google Cloud allow attackers to take full control of your assets. Listen to 40 minutes of new hacks, bug bounty stories and learnings that will make you realize that the protocols and policies you believed to be secure are most likely not.
+
+- title: Escape from Flatland! How to design captivating 3D experiences
+  type: regular
+  level:
+  time: 2018-11-20 13:50
+  room: Neosense Beach
+  authors:
+  - name: Andras Velvart
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    When getting started with AR and VR development, the most difficult challenge to overcome is not technical — it is to think and design spatially instead of in 2D. Just like the characters in Edwin A. Abbott’s novella, most design teams find it difficult to escape traditional 2D thinking and seize the opportunities the new technologies present. This talk contains tips & tricks on how to think in 3D, alongside inspiring real-world examples and demos.
+
+- title: Working with Dates and Times (It's Possible!)
+  type: regular
+  level:
+  time: 2018-11-20 13:50
+  room: Nootropic Market
+  authors:
+  - name: Jon Skeet
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=0mGeDEMe3Jc
+  description: |-
+    Working with date and time data doesn't need to be scary. Many developers know that time zones can be complicated, and go no further than that. You can do better! This talk will provide you with a framework to think about the different kinds of date/time data when you should record what information, and what challenges still lurk. I'll talk about the BCL types (System.DateTime and DateTimeOffset) as well as the Noda Time project I created to make life better for .NET developers. While many of the examples will be given in Noda Time, the same principles can be applied to the BCL types if you can't use Noda Time - it just won't be quite as simple. Confront your fear, and all will be well! (It won't be *easy* necessarily, but it'll at least be *feasible*.)
+
+- title: Development X Design - From Chaos to Cosmos
+  type: regular
+  level:
+  time: 2018-11-20 13:50
+  room: Senescence Forest
+  authors:
+  - name: Juha Rouvinen
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=-HK71AXu9z4
+  description: |-
+    Our job is to solve problems. The complexity of the problems takes us on the verge of chaos. We have learned to embrace the constant flux of problems through methods such as lean, agile and design thinking. These methods create order and give us a sense of control but they keep us separated. In terms of collaboration, we have come a long way from the times of BDUF. But even with design systems and the emerging DesignOps movement improving the workflow efficiency, our domains are still exclusive. This talk proposes an interpretation of design as a universal problem-solving skill which works best through equality and inclusion. This talk is intended to inspire developers to become responsive towards collaborative problem-solving. I believe we are all designers and we become better at problem-solving together. By the end of this talk so will you.
+
+- title: 'Understanding Blockchain : A Developers View of How Blockchain Works'
+  type: regular
+  level:
+  time: 2018-11-20 15:10
+  room: Bionic Square
+  authors:
+  - name: Stephen Haunts
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    The blockchain is described as the next revolution in computing as it solves the problem of distributed trust when there is no trust on the internet. In this talk, we will explore what blockchain is in some detail from the conceptual use cases for it through to looking under the covers at how it works in detail. As the talk progresses, we will build up a sample implementation that will help developers form their mental model of what a blockchain is and how it works. In this talk, I will cover • Cryptographic principles used by blockchain • Storing transactions • Hashing with Merkle trees • Authorising transactions • Verifying transactions in a block • Proof of work vs Proof of stake • Maintaining consistency and consensus You will leave this talk with a very good understanding of how the blockchain technology works and how it helps you solve the problem of trust on a trust-less internet.
+
+- title: Sniffing Out the Strange — A Look at Anomaly Detection
+  type: regular
+  level:
+  time: 2018-11-20 15:10
+  room: CRISPR Corner
+  authors:
+  - name: Ashic Mahtab
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=tD7QLcxH4FE
+  description: |-
+    Clustering is a form of unsupervised machine learning that attempts to group together similar things. It has many applications, one of which is finding anomalies in unlabelled data. One of the practical applications of this is identifying fraudulent behaviour. The most common algorithm for clustering is K-means. However, K-means only works with regularly shaped clusters, computation can be expensive for large datasets, and it is quite sensitive to outliers. Other algorithms for clustering exist, such as the BFR algorithm and the CURE algorithm that can tackle some of these problems. In this session, we will start off by looking at K-means clustering, and then we will see how BFR and CURE can solve some of its problems. We will also discuss how these techniques helped in implementing a streaming fraud detection solution for an FX client. We will see how we went from simple query based processing to complex models that led to better insight, which in turn led to a simpler system.
+
+- title: Design Tools and Design Handoffs — Closing the Gap Between Design and Development
+  type: regular
+  level:
+  time: 2018-11-20 15:10
+  room: Cryogenic Chamber
+  authors:
+  - name: Taylor Ling
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=5yBVsRgMUiE
+  description: |-
+    The talk is about all the tooling used by the speaker in designing UI and Interactions at Fabulous, and how the handover happens between the design and dev team to ensure top quality app implementation. It also discusses some of the common obstacles in efficient communication between designers and developers, and how to address them. Its goal is to share with developers how a designer typically works, and what are some of the tools that can help improve the communication between designers and developers.
+
+- title: APIs on the Scale of Decades
+  type: regular
+  level:
+  time: 2018-11-20 15:10
+  room: Epigenetic Gardens
+  authors:
+  - name: Gary Fleming
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    "APIs are hard. They are pretty much ship now, regret later." -- Chet Haase. What do Greek philosophy, early video games, and Japanese bullet trains tell us about how we should design our APIs? Writing any old API is easy. Writing an API that can evolve to meet your needs over the coming months, years, and even decades; now that's hard. We'll look at some common practices and try to see where they go wrong, some misunderstood techniques and how to use them better, and some less common practices that might be useful. Let me give you some good advice that'll help you evolve your APIs, and some big ideas that might provoke some interesting thoughts.
+
+- title: Machine Learning on mobile with MLKit
+  type: regular
+  level:
+  time: 2018-11-20 15:10
+  room: Neosense Beach
+  authors:
+  - name: Erik Hellman
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Machine Learning is becoming more approachable for developers with no or very little background in Data Science. With the release of MLKit from Google, developers can now easily add features based on Machine Learning to their mobile apps. In this session, we will go through a number of use-cases and how to implement it for a mobile app.
+
+- title: The Code Behind The Vulnerability
+  type: regular
+  level:
+  time: 2018-11-20 15:10
+  room: Nootropic Market
+  authors:
+  - name: Barry Dorrans
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=zLqbIfnigoI
+  description: |-
+    In this session, we dive into a couple of .NET core cases that have been reported to the Microsoft Security Response Center (MSRC). Mind you; these vulnerabilities are not just framework vulnerabilities. Instead, they are coding patterns that you may have introduced in your applications. Examples are issues with hash tables, compression, encryption, regular expressions and more. In this session, you will learn how to spot these vulnerabilities in your code. On top of that, you will walk away with the skills to fix them.
+
+- title: Leading Lasting Learning
+  type: regular
+  level:
+  time: 2018-11-20 15:10
+  room: Senescence Forest
+  authors:
+  - name: Karl Scotland
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=4dxWe1t2GyQ
+  description: |-
+    Learning is a key part of both Lean and Agile. Learning about customer needs and how to most effectively meet those needs. But as well as learning how to solve today's problems, we need to be able to solve tomorrow's problems, and next weeks, and next years. We need to learn how to learn. This talk will describe how Strategy Deployment can be used to lead lasting learning, with some tools and techniques that can help achieve that goal.
+
+- title: 'Discussion Panel: Security'
+  type: regular
+  level:
+  time: 2018-11-20 16:10
+  room: Bionic Square
+  authors:
+  - name: Øredev Øredevsson
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Come listen to an expert discussion on security — best practices, war stories, hopes and fears, ...
+
+- title: DevTools and Headless Chrome - The Automation Power-Couple
+  type: regular
+  level:
+  time: 2018-11-20 16:10
+  room: CRISPR Corner
+  authors:
+  - name: Yonatan Mevorach
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=9niUVAmhkMw
+  description: |-
+    In this talk, we'll see what problems we can fix (or better yet, avoid) by combining two things developers love: Chrome DevTools and automating repetitive tasks. To do this, we'll use a new capability introduced in Chrome 59: running Chrome in "Headless Mode". First off, we'll show the powers of each of these tools separately. We'll use DevTools to debug other platforms like node.js, and we'll use Chrome in Headless Mode to run tests, take screenshots, and to scrape sites for data. Then, we'll explore how by combining the two you can perform any DevTools action from code. Using this approach you can have DevTools work for you around-the-clock and monitor everything about your app (amount of unused CSS\JS, memory footprint, etc.). After attending this talk prepare to never say "Sorry I can't automate this" ever again.
+
+- title: Communicating in Types
+  type: regular
+  level:
+  time: 2018-11-20 16:10
+  room: Cryogenic Chamber
+  authors:
+  - name: Kris Jenkins
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=R2afqbzWDiU
+  description: |-
+    Modern type systems have come a long way from the days of C and Java. Far from being nit-pickers that berate us for making mistakes, type systems like the ones found in Haskell, PureScript and Elm form a language in themselves. A language for expressing high-level ideas about our software to our colleagues and to the computer. A design language. In this talk, we'll take a look at the way the right kind of type signatures let us talk about software. We'll survey how to state our assumptions about the domain we're coding in and how each part fits together. We'll show how it can highlight problems, and surface opportunities for reuse. And most importantly, we'll see how types can help you communicate to your coworkers, and to future maintainers, with little effort. You've probably heard the phrase, "programs are meant to be read by humans and only incidentally for computers to execute." Come and see how a modern type system is about communicating ideas to humans, and only incidentally about proving correctness.
+
+- title: Finding your service boundaries - a practical guide
+  type: regular
+  level:
+  time: 2018-11-20 16:10
+  room: Epigenetic Gardens
+  authors:
+  - name: Adam Ralph
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    We know it's useful to split up complex systems. We've seen the benefits of modular deployment of microservices. Dealing with only one piece of code at a time eases our cognitive load. But how do we know where to draw the service boundaries? In complex business domains, it's often difficult to know where to start. When we get our boundaries wrong, the clocks starts ticking. Before long, we hear ourselves say "it would be easier to re-write it". Join Adam for practical advice on discovering the hidden boundaries in your systems. Help tease out the natural separation of concerns in a sample business domain. During 20 years of developing complex systems, Adam has had plenty of time to get things wrong. Learn to avoid the common pitfalls that can lead us down the path to "the big re-write".
+
+- title: Functional Reactive Programming on Android with Eta
+  type: regular
+  level:
+  time: 2018-11-20 16:10
+  room: Neosense Beach
+  authors:
+  - name: Jyothsna Patnam
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Functional reactive programming has been a trending topic for the past few years. What is it exactly? How will it helps us build better Android applications? Eta is a pure functional, statically typed language on the JVM. In this session, I will deep-dive into the most relevant aspects of FRP in Eta focusing on the advantages that we can get when using this approach to build an Android app. I will demonstrate how you go about architecting an FRP application by developing an application from scratch.
+
+- title: Serverless Data APIs with Azure Functions and Cosmos DB
+  type: regular
+  level:
+  time: 2018-11-20 16:10
+  room: Nootropic Market
+  authors:
+  - name: Julie Lerman
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=fp9bB3L5utM
+  description: |-
+    Azure Functions, Microsoft’s serverless offering, allow developers to focus on their code and not be concerned with infrastructure or DevOps. And thanks to a slew of built-in integrations, it's also easy to have your functions get and send data to various services or even be triggered by events in those services. One such integration is with Azure Cosmos DB, the multi-model, globally distributed NoSQL data service. Cosmos DB exposes data as documents that you can access via SQL, JavaScript MongoDB or Cassandra as well as graph and key-value store. In this session, you'll see how easily you can build an API from a set of Azure Functions that interact with Cosmos DB documents and some other services. We’ll go all cross-platform with Visual Studio Code and Node JS.
+
+- title: 'Ghost in the Machine: The Unexpected Results of Not Understanding Your Users'
+  type: regular
+  level:
+  time: 2018-11-20 16:10
+  room: Senescence Forest
+  authors:
+  - name: Nivia Henry
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=zOZE6qLnXSo
+  description: |-
+    What if the code you’ve written accidentally excluded 25% of its users? Or what if it only worked 50% of the time for some people? These are the possible effects when we do not account for the diverse set of users when we are writing AI, ML and NLP code. While some effects may be comically embarrassing - like a smart speaker not accounting for the US’ southern accents; others can be deeply unfair to large groups of your users. Come with me on a journey to explore the importance of knowing your users, and building inclusive apps for a better world!
+
+- title: Natural Born Cyborgs
+  type: regular
+  level:
+  time: 2018-11-20 17:10
+  room: Bionic Square
+  authors:
+  - name: Liviu Babitz
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    How can humans stay in control when artificial intelligence is developing so rapidly? We spend so much time, energy and money to make our phones smarter, our homes smarter and all of our gadgets smarter. Why aren’t we spending the same amount of time, energy and money on us? Our mission is to disrupt the way people experience the world by adding new senses. Everybody will soon have new senses. Everything we ever created, we created using one or more inputs from our born with senses that was processed in the brain into an idea. Now you have more senses and can start thinking from places previously not available to humans. The end of «GenerationScreen». We can now sense the data we want and stop obscuring our vision with a little screen.
+
+- title: Programming with Math
+  type: regular
+  level:
+  time: 2018-11-20 17:10
+  room: CRISPR Corner
+  authors:
+  - name: Bartosz Milewski
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=cvjOESfPoVg
+  description: |-
+    As programs are getting more complex, it's time to go back to basics, to the old well tested approach to complexity called mathematics. Let compilers deal with the intricacies of Turing machines. Our strength is abstract thinking. Let's use it!
+
+- title: 'VR gaming as a fitness biohack, re-visited (now with metrics!)'
+  type: regular
+  level:
+  time: 2018-11-20 17:10
+  room: Cryogenic Chamber
+  authors:
+  - name: Ray Kawalec
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Whether you're a coder, designer, or digital content creator - what unites us all is that we spend a majority of our daily lives sitting in a chair in front of a screen. We often don't eat well, don't stay hydrated, stay up late - and needless to say, a lot of us aren't doing a fraction of the exercise necessary to keep our minds and bodies in shape. VR gaming is a great method to put some fun activity in a co-working space or home office. If you think runner's high is a myth, try playing some fast-paced room-scale VR games - those have the reward mechanisms built in! Since last year's Øredev, I've used a biometric sensor to track how weeks of regular VR gaming compare to a regular physical workout and no workout at all - and how all of that affects your sleep patterns as well as your overall physical and mental condition. I've also built what is probably the ultimate home VR gaming setup - and I'll share everything I've learned.
+
+- title: Making A11y Easy
+  type: regular
+  level:
+  time: 2018-11-20 17:10
+  room: Epigenetic Gardens
+  authors:
+  - name: Ire Aderinokun
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Web accessibility is often thought of as too difficult to incorporate into your average website. This talk hopes to demystify making accessible sites, and show how it can be simpler than you thought!
+
+- title: Building a Smart IoT App
+  type: regular
+  level:
+  time: 2018-11-20 17:10
+  room: Neosense Beach
+  authors:
+  - name: Hans Boef
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    I will build/demonstrate an application which can interact with devices (IoT) such as a coffee machine. First, I will show how this is build and how you connect devices and let them do something. I will use a Raspberry Pi for this. The human interaction with this application makes use of AI: to translate speech into text and the other way around in a contextual way. Another part of this demonstration is how you can send the status of those devices to, for instance, a Slack channel. So it involves more then IoT, it involves also AI, integration with other platforms and it is built with Node-RED which is an open source tool (based on Node.js) very suitable for this.
+
+- title: 'The Material is dead, long live the Material 2 — is the Material Design worn out?'
+  type: regular
+  level:
+  time: 2018-11-20 17:10
+  room: Nootropic Market
+  authors:
+  - name: Anna Kamieniak
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=p_l8X2BYD48
+  description: |-
+    Google defined a design system that went viral — far further than just Android apps. We will go through some weak and strong points of the material design system with considerations for the human mind and perception. We will also check the latest updates in the most popular design system ever. The change is vast and affords designers and developers much more freedom that can improve your app significantly.
+
+- title: How The West Was Lost - A Heartwarming Tale of Software Developers Who Were Just Following Orders
+  type: regular
+  level:
+  time: 2018-11-20 17:10
+  room: Senescence Forest
+  authors:
+  - name: Jason Gorman
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    The news has been filled with stories about how Western democracy and our whole way of life is being undermined by powerful people who have exploited new technology - technology created by people like us. From presidential elections to EU referendums, we're seeing how technology can be turned against a citizenry. On a less newsworthy scale, software that works against our interests has become a day-to-day thing, stripping millions of privacy, livelihoods, basic rights and freedoms. How can developers say "no" when asked to create systems and solutions that can skew votes, spy on private citizens, destroy jobs and communities, and undermine nation states? As software "eats the world", do we have a role to play in making sure the new world that emerges is safe and fair for *all* of its citizens, and not just the oligarchs who employ us? As individuals and teams, what can we do? Are we powerless, or are we actually enablers whose decisions will determine the shape of things to come?
+
+- title: 'On Bioethics: The Ethics of Manipulating (the Future of) Humanity'
+  type: regular
+  level:
+  time: 2018-11-20 18:20
+  room: Epigenetic Gardens
+  authors:
+  - name: Alex Pearlman
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=3r8P1UolM14
+  description: |-
+    Before we start using technologies like CRISPR on a large scale both for germline and somatic genetic engineering, we need to consider questions such as who is able to access these technologies, who gets to make those decisions, and how they will be implemented. It is vital to discuss how we go forward into a world where humans regularly use these formidable technologies, whether we need to differentiate between therapeutic use and enhancement, and — most importantly — how to make them accessible to anyone who wants to use them.
+
+- title: 'Earthbeat: The Art of Creating your own Senses'
+  type: regular
+  level:
+  time: 2018-11-20 20:00
+  room: Epigenetic Gardens
+  authors:
+  - name: Moon Ribas
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=v4Lp0WbPieM
+  description: |-
+    This talk goes into detail about the projects of Moon Ribas, her philosophy as a cyborg artist and the process that drove her to cofound the Cyborg Foundation. Ribas has a sensory extension on her arm that allows her to feel earthquakes through small vibrations, she applies this new sense to her artistic work. Her talk is about the union between our species and technology, the extension of the human senses through cybernetics, using the internet as a sense and cyborg art. The talk will also explore how becoming a cyborg will enhance our relationship with animals, nature and space.
+
+- title: 'Sense & Respond: Continuously learning our way to better outcomes'
+  type: regular
+  level:
+  time: 2018-11-21 09:00
+  room: Epigenetic Gardens
+  authors:
+  - name: Jeff Gothelf
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=hKQKSAM1M8Q
+  description: |-
+    The definition of done for software has been focused on whether or not the software works as it was designed. This was relevant in a world of static software. Today, software is continuous. In this reality what really starts to matter is what our users are doing with that software. The same software can be used for sharing baby pictures and instigating a mob of Twitter trolls. The systems we create generate outcomes - changes in user behavior. The modern, continuous nature of software allows us to build learning loops and determine if what we’re doing is generating the outcomes we expect. In this talk, Jeff will cover how technology can enable tremendous gains but, when coupled with the uncertainty of human behavior, can often go awry. How can we ensure we’re working on products that actually make our users more successful? And how do we inspire a new generation of designers and developers to consider a new definition of “done” -- one focused on positively impacting customer behaviors.
+
+- title: Monitoring vs Testing
+  type: regular
+  level:
+  time: 2018-11-21 10:30
+  room: Bionic Square
+  authors:
+  - name: Mark Hrynczak
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Techniques for building and deploying software are evolving quickly. Traditionally we strive for trust in the changes we make, and find a balance between shipping carefully and shipping fast. Newer techniques enable us to think differently: start from an assumption that mistakes will be made, and optimise your systems and processes so that those mistakes are detected sooner, have a limited impact, and are quickly resolved. I will talk about the practices underlying these perspectives, compare the suitability of testing and monitoring to solve different problems, and offer guidance on how to find a good balance. I'll share stories on my path at Atlassian, and different roles I've had focused on manual testing, automated testing, monitoring and alerting. My message is ultimately how metrics and processes can help your team to deliver a better customer experience.
+
+- title: 'WebAssembly: A Deep Dive'
+  type: regular
+  level:
+  time: 2018-11-21 10:30
+  room: CRISPR Corner
+  authors:
+  - name: Steve Klabnik
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    WebAssembly is an exciting new technology that will change our conception of web applications. As a fairly new technology, not many developers know how it works. In this talk, Steve will give a deep dive into WebAssembly and how it works, down to the binary level. He'll then connect that to how you would actually use WebAssembly day to day.
+
+- title: 'Chrono-Cyborgology -Learning to hack your sense of time with technology, Pt. 1'
+  type: regular
+  level:
+  time: 2018-11-21 10:30
+  room: Cryogenic Chamber
+  authors:
+  - name: Chris Dancy
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    The workshop is designed to teach people to look at their technology through the lens of time. We will review the temporal aspects of how technology is developed to “steal” our focus and ways to counteract the onslaught of demands for our interaction. We will learn to interact with the past, the recent, the now, soon and future via multiple interface technologies.
+
+- title: Building Streaming Microservices with Apache Kafka
+  type: regular
+  level:
+  time: 2018-11-21 10:30
+  room: Epigenetic Gardens
+  authors:
+  - name: Benjamin Stopford
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Streaming is all the rage in the data space, but can stream processing be used to build business systems? Do Streaming and Microservices actually have anything in common? These are the questions we’ll explore in this talk by looking at how real-world Streaming Microservices are actually built. We'll explore how services collaborate using events instead of traditional REST calls. We'll take this idea a step further using Kafka’s Streams API: embedding the ability to join and process data right inside our services. Finally, we'll build a fictitious system, from the ground up, using these tools and techniques, bridging the sync-async divide to form bounded contexts separated by an asynchronous core.
+
+- title: Domain Modeling with Haskell Data Structures
+  type: regular
+  level:
+  time: 2018-11-21 10:30
+  room: Neosense Beach
+  authors:
+  - name: Oskar Wickström
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Haskell is an amazing language for domain modeling, with its purely functional foundation, expressive type system, and highly reusable abstractions. With Haskell data types as a starting point, this talk will explore how we can leverage this power when building and maintaining "bread and butter" business applications.
+
+- title: 'Sign here, please!'
+  type: regular
+  level:
+  time: 2018-11-21 10:30
+  room: Nootropic Market
+  authors:
+  - name: Ana Baotić
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    An application ID might define your app among all others, but its signature is what proves and confirms its identity and integrity. From working in distributed teams to fending off fraudulent clones of your application, you eventually come to understand the importance of signatures. In this talk, we'll take a deep dive into the Android Keystore system, certificates and signatures, and go over key points necessary for any application's long and productive life. Also, we will cover some security tips and tricks that will help ensure your app is safe to use, even if the users are faced with its evil twin. You will walk away with a deeper insight into everyday mechanisms that are often taken for granted, and the impact that they have on your users' security.
+
+- title: 7 Principles of Productive Software Developers
+  type: regular
+  level:
+  time: 2018-11-21 10:30
+  room: Senescence Forest
+  authors:
+  - name: Sebastian Daschner
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    When working as a software developer, as well as in any other job, it’s important to be productive and to get things done. You want to focus on what adds value, increase your development speed, and cut out as many of the cumbersome, boring and repetitive tasks as possible. This session shows seven principles how to accomplish the goal of being more effective and efficient as a Java developer. These principles include technical as well as self-organizational aspects. We’ll see how to implement them, especially how we can get the most out of our tools, why the invention of the mouse was a setback in productivity, and which mindsets to follow. This talk is not limited to specific tools or technologies yet it’ll provide examples and experiences, and it is brought to you by a German — from the country of efficiency.
+
+- title: Mobile Augmented Reality with ARCore
+  type: regular
+  level:
+  time: 2018-11-21 11:30
+  room: Bionic Square
+  authors:
+  - name: Erik Hellman
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    ARCore is the framework from Google for building rich Augmented Reality applications for mobile. In this session, you will be introduced to the concepts of Augmented Reality and how to build apps using the technology. Come and see some cool live demos and learn how easy it is to get started with the ARCore SDK.
+
+- title: 'Rust in the Browser for Javascripters: New Frontiers, New Possibilities'
+  type: regular
+  level:
+  time: 2018-11-21 11:30
+  room: CRISPR Corner
+  authors:
+  - name: Sean Grove
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Thanks to wasm, Rust can reach the platform with the largest reach: the browser. We'll take a look at how thanks to the impressive language design, thoughtful compiler error messages, and great documentation, JavaScripters can unlock high-performance concurrency and graphics thanks to Rust. We'll step through Rust/wasm/JS interop, see what it's like to get a reference to a canvas instance, to communicate with services workers, and to pass data between all the pieces involved. We'll take a look at what's enabled, as well as pitfalls around the data boundaries involved, and the size of the final payload, so that it's clear where the cost of introducing Rust is outweighed by its benefits. Finally, we'll speculate on how the web may develop, with a Rust-core/JavaScript-surface design, combining high performance, safety, while maintaining ease-of-use.
+
+- title: 'Chrono-Cyborgology -Learning to hack your sense of time with technology, Pt. 2'
+  type: regular
+  level:
+  time: 2018-11-21 11:30
+  room: Cryogenic Chamber
+  authors:
+  - name: Chris Dancy
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    The workshop is designed to teach people to look at their technology through the lens of time. We will review the temporal aspects of how technology is developed to “steal” our focus and ways to counteract the onslaught of demands for our interaction. We will learn to interact with the past, the recent, the now, soon and future via multiple interface technologies.
+
+- title: Spring Boot 2 Web Applications
+  type: regular
+  level:
+  time: 2018-11-21 11:30
+  room: Epigenetic Gardens
+  authors:
+  - name: Stéphane Nicoll
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    The new generation of Spring Boot applications is here! With Spring Boot 2, developers can use the new Spring WebFlux reactive web framework to build fully async event-loop based web applications. But some of these features are also available for your regular Spring MVC application. During this live coding session, Stéphane will upgrade an existing Spring Boot 1.5 web applications to Spring Boot 2 and showcase features such as the new WebClient API, Actuator, Developer Tools and more.
+
+- title: Patterns for Building Zero-Support Distributed Systems in Erlang
+  type: regular
+  level:
+  time: 2018-11-21 11:30
+  room: Neosense Beach
+  authors:
+  - name: Robert Ashton
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    For the last several years, I have been working in a small team, both building and deploying products that power upwards of half a million live video events a year, as well as forming the backbone of various TV services across Europe. For some customers, it has been half a decade since we received a support call and indeed it is a virtual non-happening that anybody has to solve a problem in production. A lot of this results from our use of OTP, and there are then wider patterns that have arisen across our code-bases and even the manner in which we provide support to our clients. In this session, we will be using code and examples from real-world projects to demonstrate how we build, deploy, and then support hundreds of services/workloads across both the cloud and our on-premise high density units in production, as well as also covering how our services carry on delivering content even when servers are catching fire or somebody has spilled coffee on the data centre power supply.
+
+- title: Azure Kubernetes Services
+  type: regular
+  level:
+  time: 2018-11-21 11:30
+  room: Nootropic Market
+  authors:
+  - name: Gustav Kaleta
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Gustav will walk us through the Engineering aspect and challenges of creating Azure Kubernetes Services and how Microsoft implement and build services based on upstream Kubernetes along with infrastructure technologies. We will also have a look at cloud native Kubernetes development toolsets that we are building to support Kubernetes
+
+- title: 'On the Road with Imogen Heap: The Diaries of a Music and Tech Adventurist'
+  type: regular
+  level:
+  time: 2018-11-21 11:30
+  room: Senescence Forest
+  authors:
+  - name: Imogen Heap
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    A 12-month, 40-city technology and music tour which presents Imogen Heap’s vision for a future music industry, while bringing to life Mycelia’s Creative Passport — a blockchain based digital identity standard which empowers music makers to connect their digital self and personal works. Imogen shares the progress of the tour as she meets music makers and shapers working to better seek, acknowledge and reward creators through transformative technologies and creative partnerships. Highlighting how innovations such as Distributed Ledger Technology, Artificial Intelligence and Virtual Reality have the potential to change the lives of music makers, this tour is on a mission to connect the dots, helping to set the framework for a fair, vibrant and flourishing music industry.
+
+- title: 'Discussion Panel: Transhumanism'
+  type: regular
+  level:
+  time: 2018-11-21 12:50
+  room: Bionic Square
+  authors:
+  - name: Øredev Øredevsson
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Discussion panel with Liviu Babitz (CyborgNest), Teemu Arina (author of Biohacking Handbook, curator of Biohacker Summit), and Chris Dancy (the most connected human on the planet).
+
+- title: Moving beyond Virtual DOM and State Management
+  type: regular
+  level:
+  time: 2018-11-21 12:50
+  room: CRISPR Corner
+  authors:
+  - name: Sindre Osen Aarsaether
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    The virtual dom was a fantastic innovation. It brought about a much more productive way of writing web applications by allowing us to write our views in a declarative manner. But how fast is the virtual dom? Could we make it faster? Learn how a faster alternative to the virtual dom makes it much easier to build web applications. At Scrimba.com we've built a new programming language (Imba) that compiles declarative views using a new technique, resulting in a 20 fold speedup relative to React & Vue. We'll briefly go over the concept and back up our extraordinary claims.
+
+- title: Domain-driven Design with Kotlin
+  type: regular
+  level:
+  time: 2018-11-21 12:50
+  room: Cryogenic Chamber
+  authors:
+  - name: Simon Harrer
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    We struggle daily with inherent business complexity. With the advent of domain-driven design, we got a toolbox for keeping that complexity in check. But implementing a tactical design in Java can be cumbersome. That’s why we want to look at Kotlin, the new kid on the block, that comes with data classes, type aliases, operator overloading, sealed classes, and more. We want to find out whether those language features might help us implement a tactical design more easily. Instead of using the typical case study of an online shop with orders, we’ll resort to the inherently complex rules of dungeons and dragons. So let's roll some dice together!
+
+- title: Designing Events-First Microservices
+  type: regular
+  level:
+  time: 2018-11-21 12:50
+  room: Epigenetic Gardens
+  authors:
+  - name: Jonas Bonér
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    In this talk, we will explore the nature of events, what it means to be event-driven, and how we can unleash the power of events and commands by applying an events-first domain-driven design to microservices-based architectures. We will start by developing a solid theoretical understanding of how to design systems of event-driven microservices. Then we will discuss the practical tools and techniques you can use to reap the most benefit from that design as well as, most importantly, what to avoid along the way. We’ll discuss how an events-first design approach to building microservices can improve the following characteristics over competing techniques: - increase certainty - increase resilience - increase scalability - increase traceability - increase loose coupling - reduce risk Sceptics should definitely attend.
+
+- title: 'When You Are Your Money: Testing in the Evolving World of Payment Services'
+  type: regular
+  level:
+  time: 2018-11-21 12:50
+  room: Neosense Beach
+  authors:
+  - name: Katrina Clokie
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    The landscape of payment services is changing rapidly. With the entry of Apple and Google, the arrival of open APIs, and the emerging challenge of FinTech, the industry is shifting. Society is shifting from cash in our pockets to contactless payment via card or mobile device, where next? Katrina will explore a future where new payment technology intersects with microchip implants. A world where you are your money. She will share examples from across the globe of those who are already exploring this technology. Learn about this emerging field, understand the benefits and drawbacks, and ponder the role of testing in the development of a safe, secure, and trusted future of payments.
+
+- title: What Developers Want
+  type: regular
+  level:
+  time: 2018-11-21 12:50
+  room: Nootropic Market
+  authors:
+  - name: Rabeb Othmani
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    There is so much going on in the tech world nowadays, new programming languages, new APIs and new tools every day. Trying to keep up with all of it can be challenging. So how can we guarantee a smooth developer experience? In this talk, I'd like to share with you what I've learnt as a Developer Advocate. What developers really want from an API, from clean simple code to great documentation. How do we get developers excited about using our APIs with .NET.
+
+- title: Make Equal Organizations
+  type: regular
+  level:
+  time: 2018-11-21 13:50
+  room: Bionic Square
+  authors:
+  - name: Kim Hof
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Make Equal invites you to a learning experience with practical tools towards exposing and changing excluding norms within your company. We know today that equal workspaces are more profitable, contribute to a more modern brand, are more attractive to job seekers, and constitute an all-around more enjoyable environment for coworkers. Yet few businesses prioritize working hands-on with equality. Make Equal explains central concepts such as norms, norm criticism, norm creativity, inclusiveness, intersectionality, and demonstrates how you can apply these in your day-to-day business. We also explore masculinity norms as an element in preventing hazardous work environments.
+
+- title: Future of Templating on the Web
+  type: regular
+  level:
+  time: 2018-11-21 13:50
+  room: CRISPR Corner
+  authors:
+  - name: Filip Bech-Larsen
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Maybe you thought they were just multi-line strings — but ES6 template literals are in fact really powerful. With Tagged Template Literals your browser now has a native way of handling templating, that is both scalable and extensible - and really performant. In this talk I will not only explain the native building-blocks but also introduce lit-html, which is a templating system by Google, build on this very concept. In the end, I will demo a webcomponent-baseclass that packages this approach up very nicely, so you can write components kinda like react, but with a total footprint of only ~2kb.
+
+- title: Decomposing Java Applications
+  type: regular
+  level:
+  time: 2018-11-21 13:50
+  room: Cryogenic Chamber
+  authors:
+  - name: Milen Dyankov
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Most Java developers happily use libraries in their applications. Many developers split their own code into what they call modules hoping that brings benefits. Yet way too often they end up having a (distributed?) big ball of mud sooner or later? This session aims to answer the question: why simply cutting things down into smaller pieces and calling them libraries, modules, microservices, ... does not work? In this talk, we'll go one abstraction level above and look at the process of decomposing a Java application into reusable components. We'll examine different ways to organize Java code in methods, classes, packages and modules. We'll talk about APIs, SPIs, hiding implementation details and enforcing module boundaries. Some of you will be surprised how well SOLID principles fits into the picture. But most important of all, we'll end up with application design that has a good chance to evolve over the years without introducing additional accidental complexity.
+
+- title: Any Update? Lessons Learned From Running a Bug Bounty Program for Over 5 Years
+  type: regular
+  level:
+  time: 2018-11-21 13:50
+  room: Epigenetic Gardens
+  authors:
+  - name: Peter Yaworski
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    This session will build on Shopify's 2017 Year in Review bug bounty blog post and dive into the details of running one of the most successful and responsive public programs on HackerOne. To date, the Shopify bug bounty program has resolved 489 reports from 301 hackers, after having operated an independent bounty program for two years. Offering one of the highest minimum bounties on the platform makes Shopify an attractive target for hackers of all skill levels. This creates an additional workload, particularly having to respond to invalid reports and help new hackers level up. Despite that, Shopify continues to exceed HackerOne SLA requirements and is steadily building awesome relationships with top level hackers. In this session, we'll discuss how to run a successful bounty program that complements existing security strategies, why it's important to proactively disclose reports publicly and what hackers look for from a bounty program to keep them working on your program.
+
+- title: Augmented Reality — The State of Play
+  type: regular
+  level:
+  time: 2018-11-21 13:50
+  room: Neosense Beach
+  authors:
+  - name: Rafał Legiędź
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Augmented Reality is far more than a Pokémon Go thing now. The hype is real, and many big players (Google, Microsoft, Apple, Facebook, you name it) are pushing AR to become ubiquitous. Hence the abundance of different approaches to AR, a significant need for content creators and creative ways of tackling problems using new techniques. Is mobile AR superior to HMDs? What's AR Cloud and why is it important? What are real-world cases solved with AR? Is this all still sci-fi or should you start caring? This session presents the current state of AR, showcases its real capabilities, and demonstrates that we are on the verge of a revolution in how humans interact with digital content.
+
+- title: Failure is not an Option
+  type: regular
+  level:
+  time: 2018-11-21 13:50
+  room: Senescence Forest
+  authors:
+  - name: Karl Scotland
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    For many organisations, failure is something to be avoided. Poor results are frowned upon, so people don’t take risks and hide undesirable results for fear of being blamed and punished. However, it is precisely these failures that generate new information from which we can learn, and that learning is what leads to organisational improvement and long-term success. This talk will explore why failure is not an option, but a necessity, and how we can make failure and friend and not a foe.
+
+- title: 'Houdini: Breaking Out from the CSS Straightjacket'
+  type: regular
+  level:
+  time: 2018-11-21 15:10
+  room: Bionic Square
+  authors:
+  - name: Pontus Lundin
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    CSS Houdini is a collection of draft CSS specifications that all strive for the same goal, to jointly develop features that explain the “magic” of Styling and Layout on the web and give us a way to interface with the browsers CSS engine using JavaScript. The CSS Typed OM + Properties and Values API finally gives us a performant way to work with CSS in JavaScript without concatenating strings. The CSS Layout API and the CSS Painting API will expose hooks that we can tap into to modify the behaviour of CSS. We will go through the specifications and see how they fit into the CSS rendering pipeline. Keep calm, there will be code and examples. We'll look at what is supported today and what lies ahead, how to interface with CSS using JavaScript, how to create and animate CSS custom properties, how to create your own display type (as in "display: myDisplayType") and more.
+
+- title: Creative Analogies For The Underpinnings of Deep Learning
+  type: regular
+  level:
+  time: 2018-11-21 15:10
+  room: CRISPR Corner
+  authors:
+  - name: Robert Luciani
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    What all great scientists have in common is the ability to make leaps of insight by way of analogy. In this session, I will talk about the underpinnings of deep learning from a meta-mathematical perspective, and demonstrate how high-level analogies allow us to work more creatively and intelligently. With a set of smouldering GPUs and some nifty code, I will walk you through exactly why patterns such as symmetry, locality, compositionality, and nonlinearity are so easily learned by deep neural networks. Then you too will be able to see the world through the neurons of a deep learning model!
+
+- title: Introduction to the Unison Language
+  type: regular
+  level:
+  time: 2018-11-21 15:10
+  room: Cryogenic Chamber
+  authors:
+  - name: Rúnar Bjarnason
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Unison is a new programming paradigm for building distributed systems. Unison lets you treat any pool of distributed resources like a single supercomputer, and provides a language in which to program this supercomputer simply and directly. The Unison runtime is written in Scala and runs on the Java Virtual Machine. This talk will introduce the Unison language, its type system, runtime, and developer experience, as well as the core ideas that make it uniquely well suited to programming distributed systems.
+
+- title: Achieving 7 Seconds
+  type: regular
+  level:
+  time: 2018-11-21 15:10
+  room: Epigenetic Gardens
+  authors:
+  - name: Zoë Rose
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    This talk is focused on understanding the malicious user and the not-so-malicious, but ever-present, human error. We will review how to embed stress testing throughout the development lifecycle, and more importantly how to know if you have an effective tester. We will talk about common issues found in my experience, along with different approaches you can take to change the behaviours of your development team. Security and privacy by design are not simply done, it takes motivation across the organisation, and knowledge on where to start. My hope is that following this talk, you will not only be able to identify where to start but also how to continue to grow in your secure development lifecycle.
+
+- title: Talking about Software Testing — Conversations between a Developer and a Tester
+  type: regular
+  level:
+  time: 2018-11-21 15:10
+  room: Neosense Beach
+  authors:
+  - name: Peter Kedemo
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    You’ve probably heard the advice that you shouldn’t bring work home or discuss job-related problems with your partner. It could have a negative effect on your relationship and well being - especially when you work in roles that are sometimes at odds with each other. Meet the example professional pair that (dis)proves this rule! We’ve found that talking about our work in a relaxed environment after work at home, have enabled our passionate and productive debates. Being in a high trust environment has allowed us to truly get to the bottom of how testability crosses role boundaries, and in what ways automation can help us. By disputing and talking about software development, and by sharing experiences and problems, we learn from each other. It is an important part of how we improve and bring different perspectives and insights into our daily work with clients. In this session, you’ll get to eavesdrop on the conversations we have while cooking dinner for the family, sitting at the dinner table, putting our children to bed or taking a walk together. We’ll share the outcomes of our passionate tester-developer debates!
+
+- title: Web Payment APIs
+  type: regular
+  level:
+  time: 2018-11-21 15:10
+  room: Nootropic Market
+  authors:
+  - name: AMahdy Abdelaziz
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    An essential part of modern UX is getting rid of forms, especially on mobile devices. Implementing the standard Web Payment APIs will not just improve the user experience but also increase the chance of maintaining your users. In this session, we will discuss the basics of implementing the APIs, the available gateways, and show demos and how they resonate in the era of PWA. We will also explore the current limitations, and how the future will look like with regard to standardizing those APIs.
+
+- title: Building Intelligent Agents Using Deep Reinforcement Learning
+  type: regular
+  level:
+  time: 2018-11-21 16:10
+  room: Bionic Square
+  authors:
+  - name: Ali Kheyrollahi
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    AlphaGo’s victory over the Go’s world champion was viewed dubiously by some critics as hype by a one-trick pony. Yet AlphaZero’s ability to learn chess in 4 hours and beat the strongest computer using not-of-this-world moves has silenced the strongest of sceptics. Reinforcement Learning is the cornerstone of building game-playing agents and along with algorithms such as Monte Carlo Tree Search (MCTS), they provide the tooling for building your own game-playing agent. This is exactly what we will go through in this talk: from representing the game rules to designing the network, we will cover how to build an agent to play and win Danske Bank's Hexagon (https://playhexagon.com/), a round-based strategy game. The talk is divided into a one-third introduction, history and basic theory, and two-thirds nitty-gritty of actually building the agent. Knowledge of Machine Learning basics is advantageous but the talk will be both informative and entertaining for the novice.
+
+- title: Making software security a part of your development culture
+  type: regular
+  level:
+  time: 2018-11-21 16:10
+  room: CRISPR Corner
+  authors:
+  - name: Fredrik Larsson
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Developing secure software at scale is a multifaceted challenge. It ranges all the way from detailed technical aspects such as picking a good password hash function, to software engineering cultural aspects such as treating security as software property just like quality. The challenge is even greater when facing a massive code base evolved by a large highly productive developer community. This session will give you an overview of methodologies for developing secure software, as well as an insight into how to integrate them in your development culture. This talk will also cover the developer perspective including real world examples of vulnerabilities our development teams have identified and fixed.
+
+- title: Unbundling the JavaScript module bundler
+  type: regular
+  level:
+  time: 2018-11-21 16:10
+  room: Cryogenic Chamber
+  authors:
+  - name: Luciano Mammino
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    The landscape of module bundlers has evolved significantly since the days you would manually copy-paste your libraries to create a package for your frontend app. Like many parts of the JS world, the evolution has happened somewhat haphazardly, and the pace of change can feel overwhelming. Has Webpack ever felt like magic to you? How well do you understand what’s really going on under the hood? In this talk, I will uncover the history of JS module bundlers and illustrate how they actually work. Once we have the basics down, I will dive deeper into some of the more advanced topics, such as module caching and resolving cycling dependencies. At the end of this session, you will have a much more profound understanding of what’s going on behind the scenes.
+
+- title: 'Thread Safety with Phaser, StampedLock and VarHandle'
+  type: regular
+  level:
+  time: 2018-11-21 16:10
+  room: Epigenetic Gardens
+  authors:
+  - name: Heinz Kabutz
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Every major Java version introduces a new and better way of managing state. Java 7 gave us Phaser as a replacement for CountDownLatch and CyclicBarrier. Hardly any programmers know how it works, even though we are now on Java 11. Java 8 gave us StampedLock, useful as a lighter read "lock" when building concurrent classes. Again, not very widely known, but lots of use cases. Java 9/10/11 introduced VarHandle as an escape latch for the Unsafe addicts. In this talk, we will show all three concepts and explain when each should be used.
+
+- title: Book of Wishes for 2019
+  type: regular
+  level:
+  time: 2018-11-21 16:10
+  room: Neosense Beach
+  authors:
+  - name: Øredev Øredevsson
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    What (kinds of) sessions would you like to see more of next year? Any topics you feel we have missed? Was the coffee bad or the carpet the wrong colour? We would love to tap your brain while you're still full of impressions and inspiration. The good, the bad, the pretty, the ugly, we'd love to hear it all so that the next year can be even better, more fun, more epic.
+
+- title: Vector workflows
+  type: regular
+  level:
+  time: 2018-11-21 16:10
+  room: Nootropic Market
+  authors:
+  - name: Alex Lockwood
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Vector assets are lightweight and sharp on every screen size, but working with them can be complicated. Android doesn’t directly support SVG, potentially leading to conversion and ownership issues. This talk will cover what designers and developers need to know to work together to create static and animated vector assets. We’ll cover the capabilities of Android’s vector formats, how they influence producing assets in graphics packages (with a focus on Sketch) and how to efficiently export them. We'll also look at tooling and workflows that allow designers and devs to collaborate on creating vector animations.
+
+- title: 'PWA: Is a new cross-platform development era coming?'
+  type: regular
+  level:
+  time: 2018-11-21 16:10
+  room: Senescence Forest
+  authors:
+  - name: Maxim Salnikov
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Having a single codebase for the main mobile platforms applications is a Holy Grail for many developers. There are some different approaches like using some existing programming languages (not related to mobile dev) and “compile” to native, or creating a synthetic language, or using JavaScript and wrap by the native code (or run in VM). The results are often slow, cumbersome and quite far from having real “native” feeling. What could be the real unifying factor for the app platforms we have now, both mobile, desktop and web-based? Right! We have browsers everywhere, that means we can run JavaScript everywhere and the only questions are how to “unbind” it from online-only usage pattern, how to give an access to main hardware APIs without any plugins, and how to let the apps out from the browser UI. Progressive web apps idea is gaining momentum among web developers, but let’s have a look at it from the mobile developer’s point of view. Is this a real new cross-platform silver bullet?
+
+- title: Upgraded Huma^ns In the Age of Biological Machines
+  type: regular
+  level:
+  time: 2018-11-21 17:20
+  room: Epigenetic Gardens
+  authors:
+  - name: Teemu Arina
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  - https://www.youtube.com/watch?v=a8Q_wm1NeRk
+  description: |-
+    The current hype around wearables, mixed reality, AR/VR and biohacking is a telltale sign of what's to come. The relationships with our tools have defined human progress in the industrial times and have taken industrial production and human productivity into an exponential trajectory. In the process, we have doubled lifespan and moved human jobs to machines. This progress will only accelerate with technological paradigm shifts set forward by artificial intelligence, robotics, synthetic biology and advancements in human-computer interfaces. As humans we are already intricate machines — Constantly updating biological computers adapting to the environment through epigenetic change dictated by signals transmitted through our neural connections, metabolic pathways and gene transcription. In the 5th industrial revolution, biological intelligence will merge with technological intelligence, forming a new entity that is no longer a human nor a machine. In other words, the very tools we have created will help us recreate ourselves as a species. Direct technological augmentation of human capabilities will be the largest shift since the industrial revolution.
+
+- title: Let's Make a Web App Progressive in a Workday
+  type: workshop
+  level:
+  time: 2018-11-22 09:00
+  room: Bionic Square
+  authors:
+  - name: Maxim Salnikov
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    It eventually happened: Progressive Web Applications took a worthy place in the modern web landscape, and there is no more need to convince developers why to go for performant, reliable, and engaging apps. Most likely, your web application is not the exception: adding PWA features is getting it to the next level of user experience. In our 100% hands-on session, we'll take a regular app and make it progressive. We'll create and register Service Worker, build App Shell, generate Application Manifest, send Push Notifications. We'll get a practical experience with Workbox - a PWA library, allowing us to perform these tasks really fast. The result of our workshop: fast, installable, offline-capable, mobile-network-friendly, re-engageable app.
+
+- title: Introduction to Elm
+  type: workshop
+  level:
+  time: 2018-11-22 09:00
+  room: CRISPR Corner
+  authors:
+  - name: Richard Feldman
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    This workshop will take you from zero knowledge of the Elm programming language to being able to build a web app in it. First, we'll discuss the benefits of Elm, including its delightfully cohesive package ecosystem, excellent performance, and reputation for practically never crashing. Then we'll move on to language syntax, interaction, state management, testing, talking to servers, interoperating with JavaScript, and how to put them all together to build applications. Along the way, we'll discuss tips and tricks for getting the most out of the language, including the most successful techniques people use to get started using it at work.
+
+- title: Hacking Web Applications
+  type: workshop
+  level:
+  time: 2018-11-22 09:00
+  room: Cryogenic Chamber
+  authors:
+  - name: Linus Kvarnhammar
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    After an introduction to security testing for web applications, you will start an interactive lab were you will discover vulnerabilities in a web application which has been designed with this purpose in mind. Throughout the day minor presentations will be given on relevant topics, but primarily the workshop will consist of hands-on hacking web applications. The session will be concluded with a demonstration and discussion regarding some of the most interesting vulnerabilities in the target application. This session is aimed at developers interested in web application security. Whatever level you are currently on, you will learn a lot, as the challenges are of varying difficulty.
+
+- title: Third-Generation Software Testing
+  type: workshop
+  level:
+  time: 2018-11-22 09:00
+  room: Epigenetic Gardens
+  authors:
+  - name: Jason Gorman
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    First-generation manual software testing created severe bottlenecks. In the second generation, automating our tests removed this bottleneck. But we've learned that automated testing offers insufficient assurance on critical, "load-bearing" code. Introducing Third-Generation Software Testing! We'll be learning techniques for exhaustively testing our software with minimal extra code - using tools you already know - to explore far beyond the cases we thought of for the code that really needs it. With simple examples, you'll learn to: * Refactor duplicated unit tests (e.g., from doing TDD) into data-driven parameterized tests * Generalise test assertions into "properties" * Generate test data with a variety of techniques: random, ranges, combinations, paths * Architect your tests to optimise execution * Use the cloud to execute millions of tests in minutes (for pennies) * Identify load-bearing code by analysing requirements & critical paths, code complexity, and dependencies
+
+- title: Hands-on on Design Tools and Design Handoff
+  type: workshop
+  level:
+  time: 2018-11-22 09:00
+  room: Neosense Beach
+  authors:
+  - name: Taylor Ling
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    This workshop aimed to introduce some of the most popular design tools on the market like Sketch, Zeplin, Principle, Lottie etc. and how to make use of them to make a convinceable prototype, while at the same time, preparing the design handoffs like design specs, design assets, animation details which are ready to be used by developers to create a beautiful app as intended by designers. Mac is required for the workshop attendee, with some of the required software installed before the workshop. For Windows users, it's fine to participate as well, but the software used will be different.
+
+- title: Java performance and efficiency - practical guide
+  type: workshop
+  level:
+  time: 2018-11-22 09:00
+  room: Nootropic Market
+  authors:
+  - name: Heinz Kabutz
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    Writing performant code is not easy. Luckily, there are some very common ways for writing non-performant code that there are some things that if you simply avoid, you can get a good head-start. Then you would need to gain knowledge and understanding of the existing state, and ways to measure if improvements you make are actually effective and contributing to your goal. Drawing from experience in building high-efficient, high performance systems on the largest scale possible, we will explore hands-on methods (not vendor specific) to measure and improve on performance and effectiveness of Java systems. We will cover profiling, efficiency metrics, garbage minimization, non-blocking IO, non blocking data structures and synchronization blocks, and more. Bring a laptop!
+
+- title: Work Together Anywhere Workshop
+  type: workshop
+  level:
+  time: 2018-11-22 09:00
+  room: Senescence Forest
+  authors:
+  - name: Lisette Sutherland
+    twitter:
+    github:
+    website:
+  slides:
+  videos:
+  description: |-
+    It IS possible to work online like you’re in an office together and feel that sense of team when you’re virtual! The Work Together Anywhere Workshop will give the latest and most essential tools and techniques for remote workers. At the end of this workshop, you’ll be a virtual pro with a roadmap of solutions for your remote team. Specifically, you will learn how to: * Avoid miscommunications * Increase camaraderie * Run problem free meetings where everyone contributes * Inspire continuous improvement This is a half day in-person workshop with 2 online sessions to follow. For more information, visit https://www.collaborationsuperpowers.com/anywhereworkshop/.

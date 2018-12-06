@@ -82,3 +82,14 @@
   description: |-
     Connect with Chrome engineers and other leading developers for an exploration of building beautiful and performant experiences.
 
+- id: 2018-11-19-orevdev-2018
+  name: Øredev 2018
+  url: http://oredev.org/2018
+  date:
+    from: 2018-11-19
+    to: 2018-11-22
+  location:
+    country: Sweden
+    city: Malmö
+  description: |-
+    Øredev is the Premier developer's conference in Europe, focused on the whole software development process. This year, we are going to explore advances in biohacking and transhumanism and their implications for humankind. Will they be to our benefit, further enhancing quality of life? How mindful should we be of the potential social and ethical pitfalls whilst we transform?
