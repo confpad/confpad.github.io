@@ -3,7 +3,7 @@
 - title: 'Adapting from Spark to Dask: what to expect'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom A
   authors:
   - name: Irina Truong
@@ -19,7 +19,7 @@
 - title: 'All in the timing: How side channel attacks work'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom B
   authors:
   - name: Philip James
@@ -39,7 +39,7 @@
 - title: 'Analyzing Data: What pandas and SQL Taught Me About Taking an Average'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Global Center Ballroom AB
   authors:
   - name: Alex Petralia
@@ -56,7 +56,7 @@
 - title: Augmenting Human Decision Making with Data Science
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom A
   authors:
   - name: Kelsey Pedersen
@@ -72,7 +72,7 @@
 - title: Behavior-Driven Python
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom A
   authors:
   - name: Andrew Knight
@@ -89,7 +89,7 @@
 - title: 'Beyond scraping: how to use machine learning when you''re not sure where to start'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom B
   authors:
   - name: Julie Lavoie
@@ -105,7 +105,7 @@
 - title: 'Beyond Unit Tests: Taking Your Testing to the Next Level'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Room 26A/B/C
   authors:
   - name: Hillel Wayne
@@ -122,7 +122,7 @@
 - title: Birding with Python and Machine Learning
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom C
   authors:
   - name: Kirk Kaiser
@@ -138,7 +138,7 @@
 - title: 'Bowerbirds of Technology: Architecture and Teams at Less-than-Google Scale'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Global Center Ballroom AB
   authors:
   - name: Sam Kitajima-Kimbrel
@@ -155,7 +155,7 @@
 - title: Building a Data Pipeline with Testing in Mind
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Room 26A/B/C
   authors:
   - name: Jiaqi Liu
@@ -172,7 +172,7 @@
 - title: Build Teams as an Engineer
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom C
   authors:
   - name: Joyce Jang
@@ -189,7 +189,7 @@
 - title: 'Code like an accountant: Designing data systems for accuracy, resilience and auditability'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Global Center Ballroom AB
   authors:
   - name: Sophie Rapoport
@@ -205,7 +205,7 @@
 - title: Code Reviews Using Art Critique Principles
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom A
   authors:
   - name: Stacy Morse
@@ -222,7 +222,7 @@
 - title: Coding through Adversity
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom B
   authors:
   - name: Chris Schuhmacher
@@ -238,7 +238,7 @@
 - title: 'CuPy: A NumPy-compatible Library for GPU'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Global Center Ballroom AB
   authors:
   - name: Shohei Hido
@@ -255,7 +255,7 @@
 - title: Debugging PySpark -- Or trying to make sense of a JVM stack trace when you were minding your own bus
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom A
   authors:
   - name: Holden Karau
@@ -271,7 +271,7 @@
 - title: Deconstructing the US Patent Database
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom B
   authors:
   - name: Van Lindberg
@@ -287,7 +287,7 @@
 - title: Demystifying the Patch Function
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom B
   authors:
   - name: Lisa Roach
@@ -303,7 +303,7 @@
 - title: Elegant Solutions For Everyday Python Problems
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Room 26A/B/C
   authors:
   - name: Nina Zakharenko
@@ -319,7 +319,7 @@
 - title: Exploring Deep Learning Framework PyTorch
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom A
   authors:
   - name: Stephanie Kim
@@ -335,7 +335,7 @@
 - title: 'Flourishing FLOSS: Making Your Project Successful'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom B
   authors:
   - name: Anna Ossowski
@@ -352,7 +352,7 @@
 - title: How we designed an inclusivity-first conference on a shoestring budget and short timeline
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Room 26A/B/C
   authors:
   - name: Christopher Neugebauer
@@ -376,7 +376,7 @@
 - title: 'import time_travel: A Primer on Timezones in Python'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom C
   authors:
   - name: David Gouldin
@@ -393,7 +393,7 @@
 - title: 'Listen, Attend, and Walk : Interpreting natural language navigational instructions'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom B
   authors:
   - name: Padmaja Bhagwat
@@ -410,7 +410,7 @@
 - title: Love your bugs
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom C
   authors:
   - name: Allison Kaptur
@@ -426,7 +426,7 @@
 - title: 'Performance Python: Seven Strategies for Optimizing Your Numerical Code'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom C
   authors:
   - name: Jake VanderPlas
@@ -443,7 +443,7 @@
 - title: Python for the quantum computing age
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Room 26A/B/C
   authors:
   - name: Ravi Chityala
@@ -458,7 +458,7 @@
 - title: 'Randomness in Python: Controlled Chaos in an Ordered Machine'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Room 26A/B/C
   authors:
   - name: Amanda Sopkin
@@ -474,7 +474,7 @@
 - title: Reactive Programming with RxPy
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Global Center Ballroom AB
   authors:
   - name: Valery Calderon
@@ -491,7 +491,7 @@
 - title: 'Software Library APIs: Lessons Learned from scikit-learn'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom A
   authors:
   - name: Liz Sander
@@ -508,7 +508,7 @@
 - title: Strategies to Edit Production Data
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Room 26A/B/C
   authors:
   - name: Julie Qiu
@@ -524,7 +524,7 @@
 - title: Taking Django Async
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom C
   authors:
   - name: Andrew Godwin
@@ -540,7 +540,7 @@
 - title: The AST and Me
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom B
   authors:
   - name: Emily Morehouse-Valcarcel
@@ -556,7 +556,7 @@
 - title: Trust the data to speak for itself
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Room 26A/B/C
   authors:
   - name: Opetunde Adepoju
@@ -571,7 +571,7 @@
 - title: Thinking Outside the GIL with AsyncIO and Multiprocessing
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Global Center Ballroom AB
   authors:
   - name: John Reese
@@ -587,7 +587,7 @@
 - title: 'Trio: Async concurrency for mere mortals'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom C
   authors:
   - name: Nathaniel J. Smith
@@ -603,7 +603,7 @@
 - title: Using Python to build an AI to play and win SNES StreetFighter II
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom C
   authors:
   - name: Adam Fletcher
@@ -623,7 +623,7 @@
 - title: Visual Testing with PyCharm and pytest
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Grand Ballroom A
   authors:
   - name: Brian Okken
@@ -644,7 +644,7 @@
 - title: '"WHAT IS THIS MESS?" - Writing tests for pre-existing code bases'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Global Center Ballroom AB
   authors:
   - name: Justin Crown
@@ -661,7 +661,7 @@
 - title: 'Win back lovely API: GraphQL in Python'
   type: regular
   level:
-  date: 2018-05-11
+  time: 2018-05-11
   room: Global Center Ballroom AB
   authors:
   - name: Keith Yang
@@ -676,7 +676,7 @@
 - title: 'A Bit about Bytes: Understanding Python Bytecode'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom B
   authors:
   - name: James Bennett
@@ -692,7 +692,7 @@
 - title: Bayesian Non-parametric Models for Data Science using PyMC3
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Global Center Ballroom AB
   authors:
   - name: Christopher Fonnesbeck
@@ -708,7 +708,7 @@
 - title: Building a cross-platform native app with BeeWare
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom C
   authors:
   - name: Russell Keith-Magee
@@ -724,7 +724,7 @@
 - title: 'By the Numbers: Python Community Trends in 2017/2018'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Room 26A/B/C
   authors:
   - name: Dmitry Filippov
@@ -744,7 +744,7 @@
 - title: Colossal Cave Adventure in Python... in the browser!
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom B
   authors:
   - name: Christopher Swenson
@@ -761,7 +761,7 @@
 - title: 'Controlling apples with snakes: Automating mobile apps with Appium'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom A
   authors:
   - name: Nir Arad
@@ -778,7 +778,7 @@
 - title: 'Counter, Gauge, Upper 90 - Oh my!'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom B
   authors:
   - name: Amit Saha
@@ -795,7 +795,7 @@
 - title: 'Dataclasses:  The code generator to end all code generators'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom C
   authors:
   - name: Raymond Hettinger
@@ -811,7 +811,7 @@
 - title: Data Visualization in Mixed Reality with Python
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom B
   authors:
   - name: Anna Nicanorova
@@ -827,7 +827,7 @@
 - title: Democratizing Distributed Computing with Dask and JupyterHub
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Room 26A/B/C
   authors:
   - name: Matthew Rocklin
@@ -843,7 +843,7 @@
 - title: 'Don''t Look Back in Anger: Wildman Whitehouse and the Great Failure of 1858'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom C
   authors:
   - name: Lilly Ryan
@@ -859,7 +859,7 @@
 - title: Easy 2D Game Creation With Arcade
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Room 26A/B/C
   authors:
   - name: Paul Vincent Craven
@@ -876,7 +876,7 @@
 - title: Fighting Gerrymandering with PyMC3
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom B
   authors:
   - name: Colin Carroll
@@ -897,7 +897,7 @@
 - title: 'Fighting the Good Fight: Python 3 in your organization'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom B
   authors:
   - name: Jason Fried
@@ -913,7 +913,7 @@
 - title: 'Get your resources faster, with importlib.resources'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom C
   authors:
   - name: Barry Warsaw
@@ -930,7 +930,7 @@
 - title: 'Graph Databases: Talking about your Data Relationships with Python'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom A
   authors:
   - name: Nicolle Cysneiros
@@ -946,7 +946,7 @@
 - title: How Netflix does failovers in 7 minutes flat
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Global Center Ballroom AB
   authors:
   - name: Amjith Ramanujam
@@ -962,7 +962,7 @@
 - title: HOWTO Write a Function
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Room 26A/B/C
   authors:
   - name: Jack Diederich
@@ -979,7 +979,7 @@
 - title: How to Write Deployment-friendly Applications
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom A
   authors:
   - name: Hynek Schlawack
@@ -995,7 +995,7 @@
 - title: 'Inside the Cheeseshop: How Python Packaging Works'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Room 26A/B/C
   authors:
   - name: Dustin Ingram
@@ -1011,7 +1011,7 @@
 - title: One weird trick to becoming a better software developer
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Global Center Ballroom AB
   authors:
   - name: Esther Nam
@@ -1027,7 +1027,7 @@
 - title: Oops! I Committed My Password To GitHub!
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom C
   authors:
   - name: Miguel Grinberg
@@ -1044,7 +1044,7 @@
 - title: 'Pipenv: The Future of Python Dependency Management'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Global Center Ballroom AB
   authors:
   - name: Kenneth Reitz
@@ -1061,7 +1061,7 @@
 - title: Practical Sphinx
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom A
   authors:
   - name: Carol Willing
@@ -1077,7 +1077,7 @@
 - title: Programming microbes using Python
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom A
   authors:
   - name: Janet Matsen
@@ -1094,7 +1094,7 @@
 - title: 'Python 2 to 3: How to Upgrade and What Features to Start Using'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom C
   authors:
   - name: Trey Hunner
@@ -1111,7 +1111,7 @@
 - title: 'Python 3: ten years later'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom B
   authors:
   - name: Victor Stinner
@@ -1127,7 +1127,7 @@
 - title: 'Python across the USA: This is the Bus.'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom A
   authors:
   - name: Justin Myles Holmes
@@ -1143,7 +1143,7 @@
 - title: Python Data Sonification for Science and Discovery
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Global Center Ballroom AB
   authors:
   - name: Erin Braswell
@@ -1159,7 +1159,7 @@
 - title: 'Python, Locales and Writing Systems'
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Global Center Ballroom AB
   authors:
   - name: Rae Knowler
@@ -1176,7 +1176,7 @@
 - title: Python Performance Investigation by Example
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Room 26A/B/C
   authors:
   - name: Matt Davis
@@ -1192,7 +1192,7 @@
 - title: Reinventing the Parser Generator
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom C
   authors:
   - name: David Beazley
@@ -1208,7 +1208,7 @@
 - title: Secrets of a WSGI master.
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Room 26A/B/C
   authors:
   - name: Graham Dumpleton
@@ -1225,7 +1225,7 @@
 - title: Solve Your Problem With Sloppy Python
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom C
   authors:
   - name: Larry Hastings
@@ -1241,7 +1241,7 @@
 - title: Surviving (and thriving!) when you are overloaded
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Global Center Ballroom AB
   authors:
   - name: Scott Triglia
@@ -1258,7 +1258,7 @@
 - title: The human nature of failure & resiliency
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Room 26A/B/C
   authors:
   - name: VM (Vicky) Brasseur
@@ -1274,7 +1274,7 @@
 - title: The Journey Over the Intermediate Gap
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom A
   authors:
   - name: Sara Packman
@@ -1291,7 +1291,7 @@
 - title: Visualizing Algorithms with Python and Programmable LEDs
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom A
   authors:
   - name: Christopher Beacham / Lady Red
@@ -1307,7 +1307,7 @@
 - title: What is a Python Core Developer?
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Global Center Ballroom AB
   authors:
   - name: Mariatta Wijaya
@@ -1324,7 +1324,7 @@
 - title: You're an expert. Here's how to teach like one.
   type: regular
   level:
-  date: 2018-05-12
+  time: 2018-05-12
   room: Grand Ballroom B
   authors:
   - name: Shannon Turner
@@ -1341,7 +1341,7 @@
 - title: A practical guide to Singular Value Decomposition in Python
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Room 26A/B/C
   authors:
   - name: Daniel Pyrathon
@@ -1358,7 +1358,7 @@
 - title: Automating Code Quality
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Grand Ballroom A
   authors:
   - name: Kyle Knapp
@@ -1375,7 +1375,7 @@
 - title: 'Big-O: How Code Slows as Data Grows'
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Grand Ballroom C
   authors:
   - name: Ned Batchelder
@@ -1391,7 +1391,7 @@
 - title: 'Clearer Code at Scale: Static Types at Zulip and Dropbox'
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Grand Ballroom B
   authors:
   - name: Greg Price
@@ -1407,7 +1407,7 @@
 - title: Efficient shared memory data structures
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Grand Ballroom B
   authors:
   - name: Claudio Freire
@@ -1424,7 +1424,7 @@
 - title: 'Effortless Logging: A deep dive into the logging module'
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Room 26A/B/C
   authors:
   - name: Mario Corchero
@@ -1440,7 +1440,7 @@
 - title: How We Do Identity Wrong
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Global Center Ballroom AB
   authors:
   - name: Amber Brown ("HawkOwl")
@@ -1456,7 +1456,7 @@
 - title: 'Learning From Failure: Post Mortems'
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Grand Ballroom C
   authors:
   - name: Alex Gaynor
@@ -1472,7 +1472,7 @@
 - title: Pumping up Python modules using Rust
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Global Center Ballroom AB
   authors:
   - name: vigneshwer dhinakaran
@@ -1489,7 +1489,7 @@
 - title: 'Systemd: why you should care as a Python developer'
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Grand Ballroom C
   authors:
   - name: Alvaro Leiva Geisse
@@ -1505,7 +1505,7 @@
 - title: 'The Hare Wins the Race: Getting the most out of RabbitMQ in distributed applications'
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Grand Ballroom A
   authors:
   - name: Steven Sklar
@@ -1521,7 +1521,7 @@
 - title: 'There and Back Again: Disable and re-enable garbage collector at Instagram'
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Grand Ballroom A
   authors:
   - name: Zekun Li
@@ -1538,7 +1538,7 @@
 - title: Type-checked Python in the real world
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Global Center Ballroom AB
   authors:
   - name: Carl Meyer
@@ -1555,7 +1555,7 @@
 - title: 'Types, Deeper Static Analysis, and you'
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Room 26A/B/C
   authors:
   - name: Pieter Hooimeijer
@@ -1571,7 +1571,7 @@
 - title: User focused API Design
   type: regular
   level:
-  date: 2018-05-13
+  time: 2018-05-13
   room: Grand Ballroom B
   authors:
   - name: Renato Oliveira

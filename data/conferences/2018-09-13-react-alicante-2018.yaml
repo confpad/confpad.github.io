@@ -3,7 +3,7 @@
 - title: 2018 - The Year of Web Components
   type: regular
   level:
-  date: 2018-09-14
+  time: 2018-09-14
   room: Room Europa
   authors:
   - name: Dominik Kundel
@@ -20,7 +20,7 @@
 - title: The Lonely and Dark Road to Styling in React
   type: regular
   level:
-  date: 2018-09-14
+  time: 2018-09-14
   room: Room Europa
   authors:
   - name: Sara Vieira
@@ -37,7 +37,7 @@
 - title: Next Generation Forms with React Final Form
   type: regular
   level:
-  date: 2018-09-14
+  time: 2018-09-14
   room: Room Europa
   authors:
   - name: Erik Rasmussen
@@ -54,7 +54,7 @@
 - title: The ABC of Coded Style Guides
   type: regular
   level:
-  date: 2018-09-14
+  time: 2018-09-14
   room: Room Europa
   authors:
   - name: Henning Muszynski
@@ -70,7 +70,7 @@
 - title: Testing, Testing, 1, 2, NaN
   type: regular
   level:
-  date: 2018-09-14
+  time: 2018-09-14
   room: Room Europa
   authors:
   - name: Gant Laborde
@@ -87,7 +87,7 @@
 - title: Lambdas, lambdas everywhere...
   type: lightning
   level:
-  date: 2018-09-14
+  time: 2018-09-14
   room: Room Europa
   authors:
   - name: Flavio Corpa
@@ -103,7 +103,7 @@
 - title: Building a Chrome extension with React
   type: lightning
   level:
-  date: 2018-09-14
+  time: 2018-09-14
   room: Room Europa
   authors:
   - name: Olena Sovyn
@@ -119,7 +119,7 @@
 - title: Modeling errors in Now CLI
   type: lightning
   level:
-  date: 2018-09-14
+  time: 2018-09-14
   room: Room Europa
   authors:
   - name: Javi Velasco
@@ -134,7 +134,7 @@
 - title: Journey through VR and AR with React
   type: regular
   level:
-  date: 2018-09-14
+  time: 2018-09-14
   room: Room Europa
   authors:
   - name: Tomasz Lakomy
@@ -151,7 +151,7 @@
 - title: The new era of zero-config tools
   type: regular
   level:
-  date: 2018-09-14
+  time: 2018-09-14
   room: Room Europa
   authors:
   - name: Alex Jover
@@ -168,7 +168,7 @@
 - title: Help! My React app is slowwwww!
   type: regular
   level:
-  date: 2018-09-14
+  time: 2018-09-14
   room: Room Europa
   authors:
   - name: Ben Ilegbodu
@@ -185,7 +185,7 @@
 - title: Pushing React Native outside the comfort zone
   type: regular
   level:
-  date: 2018-09-14
+  time: 2018-09-14
   room: Room Europa
   authors:
   - name: Raúl Gómez
@@ -202,7 +202,7 @@
 - title: Components, patterns and sh.t it’s hard to deal with
   type: regular
   level:
-  date: 2018-09-15
+  time: 2018-09-15
   room: Room Europa
   authors:
   - name: Marco Cedaro
@@ -219,7 +219,7 @@
 - title: GraphQL Boilerplates
   type: regular
   level:
-  date: 2018-09-15
+  time: 2018-09-15
   room: Room Europa
   authors:
   - name: Manjula Dube
@@ -236,7 +236,7 @@
 - title: Taming Forms in React
   type: regular
   level:
-  date: 2018-09-15
+  time: 2018-09-15
   room: Room Europa
   authors:
   - name: Jared Palmer
@@ -253,7 +253,7 @@
 - title: Mobile navigation
   type: regular
   level:
-  date: 2018-09-15
+  time: 2018-09-15
   room: Room Europa
   authors:
   - name: Brent Vatne
@@ -270,7 +270,7 @@
 - title: Motion in React
   type: regular
   level:
-  date: 2018-09-15
+  time: 2018-09-15
   room: Room Europa
   authors:
   - name: Kaylie Kwon
@@ -286,7 +286,7 @@
 - title: Better ReasonML Integration in Flow & TypeScript Codebases
   type: lightning
   level:
-  date: 2018-09-15
+  time: 2018-09-15
   room: Room Europa
   authors:
   - name: Patrick Stapfer
@@ -301,7 +301,7 @@
 - title: Testing a Redux store
   type: lightning
   level:
-  date: 2018-09-15
+  time: 2018-09-15
   room: Room Europa
   authors:
   - name: Anna Gruber
@@ -316,7 +316,7 @@
 - title: Powering Code Reuse with Context and Render Props
   type: regular
   level:
-  date: 2018-09-15
+  time: 2018-09-15
   room: Room Europa
   authors:
   - name: Forbes Lindesay
@@ -333,7 +333,7 @@
 - title: 'React Native: The dark side of Background tasks'
   type: regular
   level:
-  date: 2018-09-15
+  time: 2018-09-15
   room: Room Europa
   authors:
   - name: Ferran Negre
@@ -350,7 +350,7 @@
 - title: An unknown land of creating libraries
   type: regular
   level:
-  date: 2018-09-15
+  time: 2018-09-15
   room: Room Europa
   authors:
   - name: Kamlesh Chandnani
@@ -367,7 +367,7 @@
 - title: Navigating the hype-driven frontend development world without going insane
   type: regular
   level:
-  date: 2018-09-15
+  time: 2018-09-15
   room: Room Europa
   authors:
   - name: Kristijan Ristovski

@@ -3,7 +3,7 @@
 - title: Day 1 Keynote
   type: regular
   level:
-  date: 2018-11-12
+  time: 2018-11-12
   room:
   authors:
   - name: Ben Galbraith
@@ -23,7 +23,7 @@
 - title: 'Get Down to Business: Why the Web Matters'
   type: regular
   level:
-  date: 2018-11-12
+  time: 2018-11-12
   room:
   authors:
   - name: Aanchal Bahadur
@@ -51,7 +51,7 @@
 - title: State of the Union for Speed Tooling
   type: regular
   level:
-  date: 2018-11-12
+  time: 2018-11-12
   room:
   authors:
   - name: Paul Irish
@@ -71,7 +71,7 @@
 - title: 'Speed Essentials: Key Techniques for Fast Websites'
   type: regular
   level:
-  date: 2018-11-12
+  time: 2018-11-12
   room:
   authors:
   - name: Houssein Djirdeh
@@ -92,7 +92,7 @@
     Deep Dive'
   type: regular
   level:
-  date: 2018-11-12
+  time: 2018-11-12
   room:
   authors:
   - name: Ewa Gasperowicz
@@ -112,7 +112,7 @@
 - title: 'Smooth Moves: Rendering at the Speed of Right ®'
   type: regular
   level:
-  date: 2018-11-12
+  time: 2018-11-12
   room:
   authors:
   - name: Jason Miller
@@ -132,7 +132,7 @@
 - title: Complex JS-heavy Web Apps, Avoiding the Slow
   type: regular
   level:
-  date: 2018-11-12
+  time: 2018-11-12
   room:
   authors:
   - name: Jake Archibald
@@ -152,7 +152,7 @@
 - title: 'Building Modern Web Media Experiences: Picture-in-Picture and AV1'
   type: regular
   level:
-  date: 2018-11-12
+  time: 2018-11-12
   room:
   authors:
   - name: François Beaufort
@@ -172,7 +172,7 @@
 - title: Modern Websites for E-commerce in the Real World
   type: regular
   level:
-  date: 2018-11-12
+  time: 2018-11-12
   room:
   authors:
   - name: Cheney Tsai
@@ -192,7 +192,7 @@
 - title: Progressive Content Management Systems
   type: regular
   level:
-  date: 2018-11-12
+  time: 2018-11-12
   room:
   authors:
   - name: Alberto Medina
@@ -212,7 +212,7 @@
 - title: Making Modern Web Content Discoverable for Search
   type: regular
   level:
-  date: 2018-11-12
+  time: 2018-11-12
   room:
   authors:
   - name: Martin Splitt
@@ -232,7 +232,7 @@
 - title: Day 2 Keynote
   type: regular
   level:
-  date: 2018-11-13
+  time: 2018-11-13
   room:
   authors:
   - name: Malte Ubl
@@ -252,7 +252,7 @@
 - title: Feature Policy & the Well-Lit Path for Web Development
   type: regular
   level:
-  date: 2018-11-13
+  time: 2018-11-13
   room:
   authors:
   - name: Jason Chase
@@ -268,7 +268,7 @@
 - title: 'virtual-scroller: Let there be less (DOM)'
   type: regular
   level:
-  date: 2018-11-13
+  time: 2018-11-13
   room:
   authors:
   - name: Gray Norton
@@ -284,7 +284,7 @@
 - title: 'A Quest to Guarantee Responsiveness: Scheduling On and Off the Main Thread'
   type: regular
   level:
-  date: 2018-11-13
+  time: 2018-11-13
   room:
   authors:
   - name: Shubhie Panicker
@@ -304,7 +304,7 @@
 - title: Architecting Web Apps - Lights, Camera, Action!
   type: regular
   level:
-  date: 2018-11-13
+  time: 2018-11-13
   room:
   authors:
   - name: Paul Lewis
@@ -324,7 +324,7 @@
 - title: From Low Friction to Zero Friction with Web Packaging and Portals
   type: regular
   level:
-  date: 2018-11-13
+  time: 2018-11-13
   room:
   authors:
   - name: Kinuko Yasuda
@@ -352,7 +352,7 @@
 - title: State of Houdini
   type: regular
   level:
-  date: 2018-11-13
+  time: 2018-11-13
   room:
   authors:
   - name: Surma
@@ -368,7 +368,7 @@
 - title: Building Engaging Immersive Experiences
   type: regular
   level:
-  date: 2018-11-13
+  time: 2018-11-13
   room:
   authors:
   - name: Chris Wilson
@@ -388,7 +388,7 @@
 - title: Using WebAssembly and Threads
   type: regular
   level:
-  date: 2018-11-13
+  time: 2018-11-13
   room:
   authors:
   - name: Alex Danilo
@@ -408,7 +408,7 @@
 - title: 'The Virtue of Laziness: Leveraging Incrementality for Faster Web UI'
   type: regular
   level:
-  date: 2018-11-13
+  time: 2018-11-13
   room:
   authors:
   - name: Justin Fagnani
@@ -424,7 +424,7 @@
 - title: 'Chrome OS: Ready for Web Development'
   type: regular
   level:
-  date: 2018-11-13
+  time: 2018-11-13
   room:
   authors:
   - name: Dan Dascalescu

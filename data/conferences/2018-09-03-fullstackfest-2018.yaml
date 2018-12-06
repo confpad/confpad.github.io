@@ -3,7 +3,7 @@
 - title: Reinvent the social web
   type: regular
   level:
-  date: 2018-09-03
+  time: 2018-09-03
   room:
   authors:
   - name: André Staltz
@@ -18,7 +18,7 @@
 - title: Open Gateway - Decentralized IoT
   type: regular
   level:
-  date: 2018-09-03
+  time: 2018-09-03
   room:
   authors:
   - name: Kalyan Dikshit
@@ -34,7 +34,7 @@
     Composer
   type: regular
   level:
-  date: 2018-09-03
+  time: 2018-09-03
   room:
   authors:
   - name: Horea Porutiu
@@ -50,7 +50,7 @@
 - title: 'A Game of Theories: Why languages do what they do '
   type: regular
   level:
-  date: 2018-09-03
+  time: 2018-09-03
   room:
   authors:
   - name: Rae Krantz
@@ -65,7 +65,7 @@
 - title: The Future of ChatBots in the Travel Industry
   type: regular
   level:
-  date: 2018-09-03
+  time: 2018-09-03
   room:
   authors:
   - name: Prabh Simran Singh Baweja
@@ -80,7 +80,7 @@
 - title: Avoiding Digital Bias
   type: regular
   level:
-  date: 2018-09-03
+  time: 2018-09-03
   room:
   authors:
   - name: Adam L Smith
@@ -95,7 +95,7 @@
 - title: Everything I always wanted to know about crypto, but never thought I'd understand
   type: regular
   level:
-  date: 2018-09-03
+  time: 2018-09-03
   room:
   authors:
   - name: Sasha Romijn
@@ -110,7 +110,7 @@
 - title: 'Onion adventures: how to use onion services and the Tor network in your web endeavors'
   type: regular
   level:
-  date: 2018-09-03
+  time: 2018-09-03
   room:
   authors:
   - name: Silvia Puglisi
@@ -125,7 +125,7 @@
 - title: 'Observability for Emerging Infra: What Got You Here Won''t Get You There'
   type: regular
   level:
-  date: 2018-09-04
+  time: 2018-09-04
   room:
   authors:
   - name: Charity Majors
@@ -140,7 +140,7 @@
 - title: Do you need a Service Mesh?
   type: regular
   level:
-  date: 2018-09-04
+  time: 2018-09-04
   room:
   authors:
   - name: Matt Turner
@@ -155,7 +155,7 @@
 - title: HTTP and JSON for your gRPC Services
   type: regular
   level:
-  date: 2018-09-04
+  time: 2018-09-04
   room:
   authors:
   - name: Michael Hamrah
@@ -170,7 +170,7 @@
 - title: Software Engineering - A philosophical activity
   type: regular
   level:
-  date: 2018-09-04
+  time: 2018-09-04
   room:
   authors:
   - name: Tom Enden
@@ -185,7 +185,7 @@
 - title: Take a (Client) Hint!
   type: regular
   level:
-  date: 2018-09-04
+  time: 2018-09-04
   room:
   authors:
   - name: Jeremy Wagner
@@ -200,7 +200,7 @@
 - title: Lost in transaction? Strategies to deal with (in-)consistency in distributed systems
   type: regular
   level:
-  date: 2018-09-04
+  time: 2018-09-04
   room:
   authors:
   - name: Bernd Rücker
@@ -215,7 +215,7 @@
 - title: Lightning talks Backend
   type: lightning
   level:
-  date: 2018-09-04
+  time: 2018-09-04
   room:
   authors:
   slides:
@@ -226,7 +226,7 @@
 - title: Cats, The Musical! Algorithmic Song Meow-ification
   type: regular
   level:
-  date: 2018-09-04
+  time: 2018-09-04
   room:
   authors:
   - name: Beth Haubert
@@ -241,7 +241,7 @@
 - title: Building peer-to-peer apps with the Beaker Browser
   type: regular
   level:
-  date: 2018-09-06
+  time: 2018-09-06
   room:
   authors:
   - name: Tara Vancil
@@ -256,7 +256,7 @@
 - title: To push, or not to push?! - The future of HTTP/2 server push
   type: regular
   level:
-  date: 2018-09-06
+  time: 2018-09-06
   room:
   authors:
   - name: Patrick Hamann
@@ -271,7 +271,7 @@
 - title: The Future of Front-End Performance
   type: regular
   level:
-  date: 2018-09-06
+  time: 2018-09-06
   room:
   authors:
   - name: Sia Karamalegos
@@ -286,7 +286,7 @@
 - title: Native JavaScript modules- import {Browsers, NodeJs}; export {production};
   type: regular
   level:
-  date: 2018-09-06
+  time: 2018-09-06
   room:
   authors:
   - name: Serg Hospodarets
@@ -301,7 +301,7 @@
 - title: Unity + HTML5 = Isomorphic Game Engine?
   type: regular
   level:
-  date: 2018-09-06
+  time: 2018-09-06
   room:
   authors:
   - name: LeRenzo Malcom
@@ -316,7 +316,7 @@
 - title: State of the Art Web User Interfaces with State Machines
   type: regular
   level:
-  date: 2018-09-06
+  time: 2018-09-06
   room:
   authors:
   - name: David Khourshid
@@ -331,7 +331,7 @@
 - title: A Front-end dev's hobbyist approach into Machine Learning
   type: regular
   level:
-  date: 2018-09-06
+  time: 2018-09-06
   room:
   authors:
   - name: Susanna Wong
@@ -346,7 +346,7 @@
 - title: Building a Modern Memex
   type: regular
   level:
-  date: 2018-09-06
+  time: 2018-09-06
   room:
   authors:
   - name: Andrew Louis
@@ -361,7 +361,7 @@
 - title: Accessibility vs latest Web APIs. Can’t we just get along?
   type: regular
   level:
-  date: 2018-09-07
+  time: 2018-09-07
   room:
   authors:
   - name: Mauricio Palma
@@ -376,7 +376,7 @@
 - title: The Web Authentication API - Imagine a World Without Passwords
   type: regular
   level:
-  date: 2018-09-07
+  time: 2018-09-07
   room:
   authors:
   - name: Suby Raman
@@ -391,7 +391,7 @@
 - title: 'Killing the checkout or: How I learned to stop worrying and love Payment Request'
   type: regular
   level:
-  date: 2018-09-07
+  time: 2018-09-07
   room:
   authors:
   - name: Krystian Czesak
@@ -406,7 +406,7 @@
 - title: A Real World PWA
   type: regular
   level:
-  date: 2018-09-07
+  time: 2018-09-07
   room:
   authors:
   - name: Zack Argyle
@@ -421,7 +421,7 @@
 - title: Purifying Typescript
   type: regular
   level:
-  date: 2018-09-07
+  time: 2018-09-07
   room:
   authors:
   - name: Timothy Clifford
@@ -436,7 +436,7 @@
 - title: 'Dynamic CSS: Layouts & Beyond'
   type: regular
   level:
-  date: 2018-09-07
+  time: 2018-09-07
   room:
   authors:
   - name: Miriam Suzanne
@@ -451,7 +451,7 @@
 - title: WebXR, if X = how?
   type: regular
   level:
-  date: 2018-09-07
+  time: 2018-09-07
   room:
   authors:
   - name: Diego González
@@ -470,7 +470,7 @@
 - title: Lightning talks Frontend
   type: lightning
   level:
-  date: 2018-09-07
+  time: 2018-09-07
   room:
   authors:
   slides:

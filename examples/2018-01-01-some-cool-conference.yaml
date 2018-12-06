@@ -1,10 +1,10 @@
 ---
 
 - title: How to XYZ
-  type: regular # [regular, lightning]
+  type: regular # [regular, lightning, workshop]
   level: beginner # [beginner, intermediate, advanced]
-  date: 2018-09-03
-  room: # Room number, room name, …
+  time: 2018-09-03 # or 2018-09-03 09:30
+  room: # Room number or room name
   authors:
   - name: John Doe
     twitter: johndoe

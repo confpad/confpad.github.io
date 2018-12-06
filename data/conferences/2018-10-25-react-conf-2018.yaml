@@ -3,7 +3,7 @@
 - title: React Today and Tomorrow
   type: regular
   level:
-  date: 2018-10-25
+  time: 2018-10-25
   room:
   authors:
   - name: Sophie Alpert
@@ -22,7 +22,7 @@
 - title: 90% Cleaner React
   type: regular
   level:
-  date: 2018-10-25
+  time: 2018-10-25
   room:
   authors:
   - name: Ryan Florence
@@ -38,7 +38,7 @@
 - title: Building Todo The Game In A Cloud-Only Dev Environment
   type: regular
   level:
-  date: 2018-10-25
+  time: 2018-10-25
   room:
   authors:
   - name: Christina Holland
@@ -54,7 +54,7 @@
 - title: The Path To A Declaratively Animated Future
   type: regular
   level:
-  date: 2018-10-25
+  time: 2018-10-25
   room:
   authors:
   - name: Matt Perry
@@ -70,7 +70,7 @@
 - title: What's New in Create React App
   type: lightning
   level:
-  date: 2018-10-25
+  time: 2018-10-25
   room:
   authors:
   - name: Joe Haddad
@@ -85,7 +85,7 @@
 - title: Components as Units of Work
   type: lightning
   level:
-  date: 2018-10-25
+  time: 2018-10-25
   room:
   authors:
   - name: Bryce Kalow
@@ -100,7 +100,7 @@
 - title: 5 Animations You Should Know and Use
   type: lightning
   level:
-  date: 2018-10-25
+  time: 2018-10-25
   room:
   authors:
   - name: Marcos Martins
@@ -115,7 +115,7 @@
 - title: Render Props, PureComponent and Reactivity
   type: lightning
   level:
-  date: 2018-10-25
+  time: 2018-10-25
   room:
   authors:
   - name: Karl Dray
@@ -130,7 +130,7 @@
 - title: Better Living through Git Hooks
   type: lightning
   level:
-  date: 2018-10-25
+  time: 2018-10-25
   room:
   authors:
   - name: Leta Keane
@@ -146,7 +146,7 @@
     Colocating Data Requests With Components '
   type: regular
   level:
-  date: 2018-10-25
+  time: 2018-10-25
   room:
   authors:
   - name: Conor Hastings
@@ -162,7 +162,7 @@
 - title: 'Playing With Polyhedra: Creating Beauty from Obsession'
   type: regular
   level:
-  date: 2018-10-25
+  time: 2018-10-25
   room:
   authors:
   - name: Nat Alison
@@ -178,7 +178,7 @@
 - title: Developing Immersive cross-platform AR and VR Apps using React-Native
   type: regular
   level:
-  date: 2018-10-25
+  time: 2018-10-25
   room:
   authors:
   - name: Pulkit Kakkar
@@ -195,7 +195,7 @@
     Apps'
   type: regular
   level:
-  date: 2018-10-25
+  time: 2018-10-25
   room:
   authors:
   - name: Florian Rival
@@ -211,7 +211,7 @@
 - title: React For Social Change
   type: regular
   level:
-  date: 2018-10-25
+  time: 2018-10-25
   room:
   authors:
   - name: Rodrigo Quezada
@@ -227,7 +227,7 @@
 - title: Concurrent Rendering in React
   type: regular
   level:
-  date: 2018-10-26
+  time: 2018-10-26
   room:
   authors:
   - name: Andrew Clark
@@ -246,7 +246,7 @@
 - title: Moving To Suspense
   type: regular
   level:
-  date: 2018-10-26
+  time: 2018-10-26
   room:
   authors:
   - name: Jared Palmer
@@ -262,7 +262,7 @@
 - title: SVG illustrations as React Components
   type: regular
   level:
-  date: 2018-10-26
+  time: 2018-10-26
   room:
   authors:
   - name: Elizabet Oliveira
@@ -278,7 +278,7 @@
 - title: The Missing Abstraction of Charting
   type: regular
   level:
-  date: 2018-10-26
+  time: 2018-10-26
   room:
   authors:
   - name: Chris Trevino
@@ -294,7 +294,7 @@
 - title: 'Elsa: AI Conversational Agent Aimed At Improving Mental Health For Women'
   type: regular
   level:
-  date: 2018-10-26
+  time: 2018-10-26
   room:
   authors:
   - name: Damini Satya Kammakomati
@@ -310,7 +310,7 @@
 - title: Context in React
   type: lightning
   level:
-  date: 2018-10-26
+  time: 2018-10-26
   room:
   authors:
   - name: Sophia Shoemaker
@@ -325,7 +325,7 @@
 - title: Building a better Country through Tech
   type: lightning
   level:
-  date: 2018-10-26
+  time: 2018-10-26
   room:
   authors:
   - name: Manuela Castrillon
@@ -340,7 +340,7 @@
 - title: An Effective Code Review
   type: lightning
   level:
-  date: 2018-10-26
+  time: 2018-10-26
   room:
   authors:
   - name: Donavon West
@@ -355,7 +355,7 @@
 - title: Syncing Component State Across Tabs with Service Workers
   type: lightning
   level:
-  date: 2018-10-26
+  time: 2018-10-26
   room:
   authors:
   - name: Tyler Clark
@@ -370,7 +370,7 @@
 - title: Block the Main Thread
   type: regular
   level:
-  date: 2018-10-26
+  time: 2018-10-26
   room:
   authors:
   - name: James Long
@@ -386,7 +386,7 @@
 - title: React Native's New Architecture
   type: regular
   level:
-  date: 2018-10-26
+  time: 2018-10-26
   room:
   authors:
   - name: Parashuram N
@@ -402,7 +402,7 @@
 - title: Let React speak your language
   type: regular
   level:
-  date: 2018-10-26
+  time: 2018-10-26
   room:
   authors:
   - name: Tomáš Ehrlich
@@ -418,7 +418,7 @@
 - title: React for Designers with FramerX
   type: regular
   level:
-  date: 2018-10-26
+  time: 2018-10-26
   room:
   authors:
   - name: Thomas Aylott
@@ -434,7 +434,7 @@
 - title: Building A Diverse And Inclusive Community.
   type: regular
   level:
-  date: 2018-10-26
+  time: 2018-10-26
   room:
   authors:
   - name: Eyitayo Alimi
