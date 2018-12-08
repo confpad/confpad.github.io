@@ -1,0 +1,79 @@
+- title: "Announcing Flutter 1.0"
+  type: regular
+  level:
+  time: 2018-12-04
+  room:
+  authors:
+    - name: Tim Sneath
+      twitter: timsneath
+      github: timsneath
+      website:
+    - name: Filip Hráček
+      twitter: filiphracek
+      github: filiph
+      website: https://filiph.net
+  slides:
+  videos:
+    - https://youtu.be/kpcjBD1XDwU
+  description: |-
+    Tim Sneath from the Flutter team explains the goals behind Flutter, how it was developed, and what it's capable of today. He also defines the four pillars of Flutter (beautiful, fast, productive, open) and how they are upheld by the SDK. 
+
+- title: "Flutter Design"
+  type: regular
+  level:
+  time: 2018-12-04
+  room:
+  authors:
+    - name: Will Larche
+      twitter:
+      github: willlarche
+      website:
+    - name: Guido Rosso
+      twitter: guidorosso
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/6hmgkimeaEE
+  description: |-
+    Will Larche discusses Flutter's architecture, designed for building beautiful, custom UI. Learn more from Will about Flutter's expressive and flexible design as well as the evolution of Material Components for Flutter.
+
+- title: "Flutter Development"
+  type: regular
+  level:
+  time: 2018-12-04
+  room:
+  authors:
+    - name: Emily Fortuna
+      twitter: bouncingsheep
+      github: efortuna
+      website: http://www.emilyfortuna.com/
+    - name: Matt Sullivan
+      twitter: mjohnsullivan
+      github: mjohnsullivan
+      website:
+    - name: Maurice Parrish
+      twitter:
+      github: bparrishMines
+      website:
+  slides:
+  videos:
+    - https://youtu.be/OAEWySye0BQ
+  description: |-
+    Hear from the Flutter team about what makes Flutter powerful, productive, and connected. Watch as they demonstrate Flutter's creative power and customizability in a live-coding session.
+
+- title: "One More Thing"
+  type: regular
+  level:
+  time: 2018-12-04
+  room:
+  authors:
+    - name: Eric Seidel
+      twitter: _eseidel
+      github: eseidelGoogle
+      website:
+  slides:
+  videos:
+    - https://youtu.be/5SZZfpkVhwk
+  description: |-
+    Eric Seidel, Engineering Lead and co-founder of the Flutter project, along with the Flutter team, give some closing remarks.
