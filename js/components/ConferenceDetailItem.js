@@ -13,6 +13,10 @@ const getTypeEmoji = type => {
       return html`
         <span title="lightning talk">️⚡️</span>
       `;
+    case 'workshop':
+      return html`
+        <span title="workshop">🖐🏻</span>
+      `;
   }
 };
 
