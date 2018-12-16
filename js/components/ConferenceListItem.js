@@ -49,7 +49,7 @@ const getDate = (from, to) => html`
 const getLocation = location => html`
   <div>
     🌎
-    ${Object.values(location).join(', ')}
+    ${[location.city, location.country].filter(item => item).join(', ')}
   </div>
 `;
 
