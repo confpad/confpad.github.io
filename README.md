@@ -2,13 +2,13 @@
 
 ## How to add a conference
 
-1. Fork project to your account
+1. [Fork project](https://help.github.com/articles/fork-a-repo/)
 2. Add conference metadata into `data/conferences.yaml`
    * Conference ID must be in format `yyyy-mm-dd-conference-name`
-     * `yyyy-mm-dd`: ISO date of the first day of the conference
-     * `conference-name`: conference name slug (React Alicante 2018 > react-alicante-2018)
-3. Create a new file `data/conferences/yyyy-mm-dd-conference-name.yaml`
-4. Commit changes and submit a pull request
+     * `yyyy-mm-dd`: first day of the conference
+     * `conference-name`: slug, e.g. React Alicante 2018 > react-alicante-2018
+3. Create a conference config file `data/conferences/yyyy-mm-dd-conference-name.yaml`
+4. Commit changes and [create a pull request](https://help.github.com/articles/creating-a-pull-request/)
 
 ## Development
 
@@ -22,7 +22,7 @@
 ## Tests
 
 * Run `make test`
-* You should verify the newly added config files have all required properties. Have a look at examples directory.
+* Tests verify all config files have all required properties. Have a look at examples directory.
 * Dependencies: Docker
 
 ## TODO
