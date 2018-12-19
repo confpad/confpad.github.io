@@ -4,9 +4,6 @@
 
 1. [Fork project](https://help.github.com/articles/fork-a-repo/)
 2. Add conference metadata into `data/conferences.yaml`
-   * Conference ID must be in format `yyyy-mm-dd-conference-name`
-     * `yyyy-mm-dd`: first day of the conference
-     * `conference-name`: slug, e.g. React Alicante 2018 > react-alicante-2018
 3. Create a conference config file `data/conferences/yyyy-mm-dd-conference-name.yaml`
 4. Commit changes and [create a pull request](https://help.github.com/articles/creating-a-pull-request/)
 
