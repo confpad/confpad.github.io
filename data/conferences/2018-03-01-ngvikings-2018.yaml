@@ -359,14 +359,14 @@
   - https://www.youtu.be/ZuHFqE6ljVk
   description:
 
-- title: Enhanching performance
+- title: Enhanching performance by leveraging the power of Observables
   type: regular
   level:
   time:
   room:
   authors:
-  - name: leveraging the power of Observables
-    twitter:
+  - name: Sander Elias
+    twitter: esosanderelias
     github:
     website:
   slides:
