@@ -99,8 +99,8 @@ const ConferenceDetailItem = props => html`
           ${author.googleplus && getAuthorGooglePlus(author.googleplus)}
         </div>
       `)}
-      ${props.videos && props.videos.map(video => getVideo(video))}
       ${props.slides && props.slides.map(slides => getSlides(slides))}
+      ${props.videos && props.videos.map(video => getVideo(video))}
       ${props.description && getDescription(props.description)}
     </div>
   </li>
