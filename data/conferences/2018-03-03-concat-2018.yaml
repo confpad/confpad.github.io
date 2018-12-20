@@ -1,0 +1,266 @@
+- title: When Fast is Faster Than Fastest
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Daniel Clifford
+    twitter: expatdanno
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/4M5VK-RfP0E
+  description:
+
+- title: Your Algorithm isn't neutral...
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Ivana McConnell
+    twitter: IvanaMcConnell
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/As5fhzBY5xk
+  description:
+
+- title: Server-Side Swift from Scratch
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Brandon Williams
+    twitter: mbrandonw
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/Qh3acxkzT8M
+  description:
+
+- title: 'When Old meets New: Codebases'
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Ursula Sarracini
+    twitter: ursulasarracini
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/J5Z-UUoWg60
+  description:
+
+- title: 'Let''s save the internet: How to make browsers…'
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Ola Gasidlo
+    twitter: misprintedtype
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/lH581sCW57w
+  description:
+
+- title: 'Bringing GraphQL to the Enterprise: When IBM met Apollo'
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Ryan Mackey
+    twitter: ReadOnlyMackey
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/DXKZHV-BHmM
+  description:
+
+- title: Build bridges, not walls – Design for users across cultures
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Jenny Shen
+    twitter: jennyshen
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/ER3534JJucc
+  description:
+
+- title: PHP in 2018
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Rasmus Lerdorf
+    twitter: rasmus
+    github:
+    website:
+  slides:
+    - http://talks.php.net/concat18
+  videos:
+  - https://youtu.be/umxGUWYmiSw
+  description:
+
+- title: Designing Great Progressive Web Apps
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Nicole Saidy
+    twitter: nicolesaidy
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/2NZc4C7uNcU
+  description:
+
+- title: Thinking PRPL
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Houssein Djirdeh
+    twitter: hdjirdeh
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/RcHWKieBslk
+  description:
+
+- title: Fast. Simple. Accessible.
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Estelle Weyl
+    twitter: estellevw
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/Zk4X_AmPsoU
+  description:
+
+- title: 'Live and let die: Untangling the web of objects'
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Michael Lippautz
+    twitter: mlippautz
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/qETWAqrhUL4
+  description:
+
+- title: The strategy guide to CSS Custom Properties
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Mike Riethmuller
+    twitter: MikeRiethmuller
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/Zg8f0fNekp4
+  description:
+
+- title: 'Psychological safety: How to become a team that learns'
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Georg Sorst
+    twitter: piefke_schorsch
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/ybD7ge-TU5k
+  description:
+
+- title: Remote device sign-in – Authenticating without a keyboard
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Tiffany Conroy
+    twitter: theophani
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/KdJ6j-1tPVE
+  description:
+
+- title: Mathematics of Animation
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Varun Vachhar
+    twitter: winkerVSbecks
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/o59ioaZ6x3g
+  description:
+
+- title: Styled Components
+  type: regular
+  level:
+  time:
+  room:
+  authors:
+  - name: Max Stoiber
+    twitter: mxstbr
+    github:
+    website:
+  slides:
+  videos:
+  - https://youtu.be/1AuEnDiuRs4
+  description:
+
+- title: Lightning Talks
+  type: lightning
+  level:
+  time:
+  room:
+  authors:
+  slides:
+  videos:
+  - https://youtu.be/-i58z7H7emg
+  description:
