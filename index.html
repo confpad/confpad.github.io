@@ -69,10 +69,10 @@
     </div>
   </header>
 
-  <div class="content">
-    <div class="c-notice c-notice--warning c-notice--medium" >
-        Enable JS to see… anything :)
-    </div>
+  <div class="content"></div>
+
+  <div class="c-notice c-notice--warning c-notice--medium js-no-js-warning" >
+    Enable JS to see… anything :)
   </div>
 
   <footer class="footer">
@@ -85,7 +85,7 @@
 
 <!-- JS warning -->
 <script>
-  document.querySelector('.content').innerHTML = '';
+  document.querySelector('.js-no-js-warning').remove();
 </script>
 
 <!-- npm packages -->
