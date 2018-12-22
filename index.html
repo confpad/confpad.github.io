@@ -69,7 +69,11 @@
     </div>
   </header>
 
-  <div class="content"></div>
+  <div class="content">
+    <div class="c-notice c-notice--warning c-notice--medium" >
+        Enable JS to see… anything :)
+    </div>
+  </div>
 
   <footer class="footer">
     Attending a conference right now? Add it!
@@ -78,6 +82,11 @@
   </footer>
 
 </div>
+
+<!-- JS warning -->
+<script>
+  document.querySelector('.content').innerHTML = '';
+</script>
 
 <!-- npm packages -->
 <script src="https://unpkg.com/preact@8.3.1/dist/preact.min.js"></script>
