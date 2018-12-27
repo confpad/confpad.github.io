@@ -29,16 +29,16 @@ const getTitle = (id, name, isDetail) => {
 };
 
 const getLink = url => html`
-  <div>
+  <div class="u-clip">
     🔗
-    <a href="${url}" target="_blank" class="e-link">
+    <a href="${url}" target="_blank" class="e-link e-link--no-area">
       ${url}
     </a>
   </div>
 `;
 
 const getDate = (from, to) => html`
-  <div>
+  <div class="u-clip">
     📅
     ${from && from.toISOString().split('T')[0]}
     -
@@ -47,7 +47,7 @@ const getDate = (from, to) => html`
 `;
 
 const getLocation = location => html`
-  <div>
+  <div class="u-clip">
     🌎
     ${[location.city, location.country].filter(item => item).join(', ')}
   </div>

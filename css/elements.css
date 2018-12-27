@@ -1,0 +1,5 @@
+/* .e-link clips text even when not necessary with u-clip as a parent eleemnt */
+.e-link--no-area {
+  margin: 0 !important;
+  padding: 0 !important;
+}
