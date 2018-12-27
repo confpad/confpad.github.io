@@ -34,6 +34,18 @@
   description: |-
     The web development and UX conference in Salzburg. One day, two tracks, 19 amazing speakers.
 
+- id: 2018-04-11-ijs-2018-london
+  name: International Javascript Conference 2018 London
+  url: https://javascript-conference.com/archiv/ijs-2018-london/
+  date:
+    from: 2018-04-11
+    to: 2018-04-13
+  location:
+    country: UK
+    city: London
+  description: |-
+    JavaScript is everywhere. At the International JavaScript Conference you will meet internationally known JavaScript experts who share their knowledge in vanilla JavaScript as well as the most important JS frameworks.
+
 - id: 2018-05-11-pycon-2018
   name: PyCon 2018
   url: https://us.pycon.org/2018/
