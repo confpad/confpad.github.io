@@ -34,6 +34,18 @@
   description: |-
     The web development and UX conference in Salzburg. One day, two tracks, 19 amazing speakers.
 
+- id: 2018-04-10-jsheroes-2018
+  name: JSHeroes 2018
+  url: https://jsheroes.io/2018
+  date:
+    from: 2018-04-10
+    to: 2018-04-12
+  location:
+    country: Romania
+    city: Cluj-Napoca
+  description: |-
+    We believe that the community and the open-source models are well suited for our core values:learning, teaching and knowledge sharing. Our mission is to inspire other communities with the concept of open-source events.We’re publishing all data about this conference, in full transparency. We are also available at any time for inquires and we`re really looking forward to sharing our knowledge about organizing international events. This way, whenever a community wants to start something similar, they can build on our knowledge.
+
 - id: 2018-04-11-ijs-2018-london
   name: International Javascript Conference 2018 London
   url: https://javascript-conference.com/archiv/ijs-2018-london/
