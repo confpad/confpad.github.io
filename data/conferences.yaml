@@ -128,6 +128,18 @@
   description: |-
     Do you want to learn about React and React Native? Then you shouldn't miss React Alicante next September! You will have the opportunity to improve your developer skills and meet people from around the world, while enjoying the food and warm weather from the southeast coast of Spain.
 
+- id: 2018-10-18-graphql-finland-2018
+  name: GraphQL Finland 2018
+  url: https://graphql-finland.fi/2018/
+  date:
+    from: 2018-10-18
+    to: 2018-10-19
+  location:
+    country: Finland
+    city: Helsin
+  description: |-
+    So you want to learn GraphQL? That is awesome! But like any other technology it's not easy to get started and get the basics of it mainly because all the docs are spread all over the place.In this 8 hour workshop we will create a GraphQL server with Apollo Server, connect it to a Postgres database in Heroku to have a fully functional GraphQL Server.After that we will jump to the frontend using React and Apollo to query and mutate a GraphQL Endpoint easily.
+
 - id: 2018-10-25-react-conf-2018
   name: React Conf 2018
   url: https://conf.reactjs.org/
