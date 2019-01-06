@@ -82,6 +82,18 @@
   description: |-
     The PyCon 2018 conference, which will take place in Cleveland, is the largest annual gathering for the community using and developing the open-source Python programming language.
 
+- id: 2018-07-11-chain-react-2018
+  name: Chain React 2018
+  url: https://infinite.red/ChainReactConf/2018
+  date:
+    from: 2018-07-11
+    to: 2018-07-13
+  location:
+    country: USA
+    city: Portland, OR
+  description: |-
+    Chain React was started in 2017 by the team at Infinite Red, who wanted nothing more than to learn from other React Native enthusiasts, eat great food, and nerd out about Redux vs MobX.
+
 - id: 2018-08-31-byteconf-react-2018
   name: Byteconf React 2018
   url: https://www.byteconf.com/react-2018/
