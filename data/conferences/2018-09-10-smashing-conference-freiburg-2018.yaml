@@ -4,10 +4,10 @@
   time: 2018-08-10
   room:
   authors:
-  - name: Craig Mod
-    twitter:
-    github:
-    website:
+    - name: Craig Mod
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -19,13 +19,13 @@
   time: 2018-08-10
   room:
   authors:
-  - name: Tammy Everts
-    twitter:
-    github:
-    website:
+    - name: Tammy Everts
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://vimeo.com/297828304
+    - https://vimeo.com/297828304
   description: |-
     How do you know what consumers expect from your site? Every shopper is different and every shopping visit is different. Industry stats tell only part of the story. You need to crack the hood and analyze your own real user data.
 
@@ -35,13 +35,13 @@
   time: 2018-08-10
   room:
   authors:
-  - name: Ian Feather
-    twitter:
-    github:
-    website:
+    - name: Ian Feather
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://vimeo.com/297829767
+    - https://vimeo.com/297829767
   description: |-
     It’s time to accept that system and network failures are inevitable and to start designing our systems to withstand them. Accomplishing this isn’t easy but we’ve learnt a few tricks along the way which we would love to share!
 
@@ -51,13 +51,13 @@
   time: 2018-08-10
   room:
   authors:
-  - name: Chui Chui Tan
-    twitter:
-    github:
-    website:
+    - name: Chui Chui Tan
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://vimeo.com/297829238
+    - https://vimeo.com/297829238
   description: |-
     Whether or not the product you’re creating is currently only being sold in one country, it’s always crucial to design and build it with global audiences in mind.
 
@@ -67,13 +67,13 @@
   time: 2018-08-10
   room:
   authors:
-  - name: Morten R.-Hendriksen
-    twitter:
-    github:
-    website:
+    - name: Morten R.-Hendriksen
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://vimeo.com/297827456
+    - https://vimeo.com/297827456
   description: |-
     Every decision we make is one made on behalf of your user. How do we know the decisions we make are the right ones? It is time we initiate a conversation: About where we are and where we want to go, about how we define and measure goodness and rightness in the digital realm, about responsibility, about decisions and consequences, about building something bigger than our own apps. It is time we talk about the ethics of design.
 
@@ -83,13 +83,13 @@
   time: 2018-08-10
   room:
   authors:
-  - name: Seb Lee-Delisle
-    twitter:
-    github:
-    website:
+    - name: Seb Lee-Delisle
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://vimeo.com/297827821
+    - https://vimeo.com/297827821
   description: |-
     Seb loves to strip down classic machines from the 80s, and give them an extreme make-over with cutting edge technology. You may have seen the hacked Nintendo light gun with laser, lights and a built-in smoke machine that became a viral sensation on the internet in 2016.
 
@@ -99,10 +99,10 @@
   time: 2018-08-11
   room:
   authors:
-  - name: Hannah Pileggi
-    twitter:
-    github:
-    website:
+    - name: Hannah Pileggi
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -114,13 +114,13 @@
   time: 2018-08-11
   room:
   authors:
-  - name: Trine Falbe
-    twitter:
-    github:
-    website:
+    - name: Trine Falbe
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://vimeo.com/297828567
+    - https://vimeo.com/297828567
   description: |-
     The children of today are growing up in a different paradigm than their parents, who might even remember what the world was like before the Internet!
 
@@ -130,13 +130,13 @@
   time: 2018-08-11
   room:
   authors:
-  - name: Yoav Weiss
-    twitter:
-    github:
-    website:
+    - name: Yoav Weiss
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://vimeo.com/297828895
+    - https://vimeo.com/297828895
   description: |-
     We have a complex love-hate relationship with the third-party content on our sites, and it has taken a turn for the worse. On the one hand, third-party content often pays the bills. On the other hand, recent developments have increased its “cost.” HTTP/2 means third-party content is even more of a performance burden than before; the weight of that content is taking up an ever larger percentage of our site’s overall bytesize; ad-blockers mean users have had enough; and projects like Google AMP and Facebook Instant Articles mean that embedders feel the same. Our lack of control over what third parties are doing on our sites is showing. How can we gain it back?
 
@@ -146,13 +146,13 @@
   time: 2018-08-11
   room:
   authors:
-  - name: Andrea Drugay
-    twitter:
-    github:
-    website:
+    - name: Andrea Drugay
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://vimeo.com/297829604
+    - https://vimeo.com/297829604
   description: Getting the right words into your product is a process that’s akin
     to designing with words. Great UX writing isn't a fill-in-the-blanks approach,
     but a strategy and creative process, just like design and product development.
@@ -163,10 +163,10 @@
   time: 2018-08-11
   room:
   authors:
-  - name: Josh Clark
-    twitter:
-    github:
-    website:
+    - name: Josh Clark
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-

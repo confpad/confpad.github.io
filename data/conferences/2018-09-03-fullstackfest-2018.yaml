@@ -4,13 +4,13 @@
   time: 2018-09-03
   room:
   authors:
-  - name: André Staltz
-    twitter: andrestaltz
-    github: staltz
-    website: https://staltz.com/
+    - name: André Staltz
+      twitter: andrestaltz
+      github: staltz
+      website: https://staltz.com/
   slides:
   videos:
-  - https://youtu.be/8GE5C9-RUpg
+    - https://youtu.be/8GE5C9-RUpg
   description: |-
 
 - title: Open Gateway - Decentralized IoT
@@ -19,30 +19,29 @@
   time: 2018-09-03
   room:
   authors:
-  - name: Kalyan Dikshit
-    twitter: decode_dev
-    github: decode-dev
-    website: https://medium.com/@decode_dev
+    - name: Kalyan Dikshit
+      twitter: decode_dev
+      github: decode-dev
+      website: https://medium.com/@decode_dev
   slides:
   videos:
-  - https://youtu.be/95Un8APgmjg
+    - https://youtu.be/95Un8APgmjg
   description: |-
 
-- title: Build and deploy a Blockchain web-app with Hyperledger Fabric and Hyperledger
-    Composer
+- title: Build and deploy a Blockchain web-app with Hyperledger Fabric and Hyperledger Composer
   type: regular
   level:
   time: 2018-09-03
   room:
   authors:
-  - name: Horea Porutiu
-    twitter: horeaporutiu
-    github: horeaporutiu
-    website: https://medium.com/@horeaporutiu
+    - name: Horea Porutiu
+      twitter: horeaporutiu
+      github: horeaporutiu
+      website: https://medium.com/@horeaporutiu
   slides:
-  - https://www.slideshare.net/HoreaPorutiu/getting-up-and-running-with-hyperledger-fabric-composer-full-stack
+    - https://www.slideshare.net/HoreaPorutiu/getting-up-and-running-with-hyperledger-fabric-composer-full-stack
   videos:
-  - https://youtu.be/v2WiqQs_JAs
+    - https://youtu.be/v2WiqQs_JAs
   description: |-
 
 - title: 'A Game of Theories: Why languages do what they do '
@@ -51,13 +50,13 @@
   time: 2018-09-03
   room:
   authors:
-  - name: Rae Krantz
-    twitter: rustbeltrae
-    github: krantzinator
-    website: http://rachelkrantz.com
+    - name: Rae Krantz
+      twitter: rustbeltrae
+      github: krantzinator
+      website: http://rachelkrantz.com
   slides:
   videos:
-  - https://youtu.be/82C72atD3Ws
+    - https://youtu.be/82C72atD3Ws
   description: |-
 
 - title: The Future of ChatBots in the Travel Industry
@@ -66,13 +65,13 @@
   time: 2018-09-03
   room:
   authors:
-  - name: Prabh Simran Singh Baweja
-    twitter: prabh_baweja
-    github:
-    website: https://medium.com/@prabhsimransingh.baweja/floating-point-representation-843587162dc4
+    - name: Prabh Simran Singh Baweja
+      twitter: prabh_baweja
+      github:
+      website: https://medium.com/@prabhsimransingh.baweja/floating-point-representation-843587162dc4
   slides:
   videos:
-  - https://youtu.be/Ke-uEJJJlzw
+    - https://youtu.be/Ke-uEJJJlzw
   description: |-
 
 - title: Avoiding Digital Bias
@@ -81,13 +80,13 @@
   time: 2018-09-03
   room:
   authors:
-  - name: Adam L Smith
-    twitter: adamleonsmith
-    github: adamleonsmith
-    website: https://www.piccadillygroup.com
+    - name: Adam L Smith
+      twitter: adamleonsmith
+      github: adamleonsmith
+      website: https://www.piccadillygroup.com
   slides:
   videos:
-  - https://youtu.be/nU3vn1evwYg
+    - https://youtu.be/nU3vn1evwYg
   description: |-
 
 - title: Everything I always wanted to know about crypto, but never thought I'd understand
@@ -96,13 +95,13 @@
   time: 2018-09-03
   room:
   authors:
-  - name: Sasha Romijn
-    twitter: mxsash
-    github:
-    website: https://www.mxsasha.eu/
+    - name: Sasha Romijn
+      twitter: mxsash
+      github:
+      website: https://www.mxsasha.eu/
   slides:
   videos:
-  - https://youtu.be/IUONbU3bgh0
+    - https://youtu.be/IUONbU3bgh0
   description: |-
 
 - title: 'Onion adventures: how to use onion services and the Tor network in your web endeavors'
@@ -111,13 +110,13 @@
   time: 2018-09-03
   room:
   authors:
-  - name: Silvia Puglisi
-    twitter: nopressure
-    github: hiromipaw
-    website: http://www.hiro7.eu
+    - name: Silvia Puglisi
+      twitter: nopressure
+      github: hiromipaw
+      website: http://www.hiro7.eu
   slides:
   videos:
-  - https://youtu.be/yGLYax_2vVg
+    - https://youtu.be/yGLYax_2vVg
   description: |-
 
 - title: 'Observability for Emerging Infra: What Got You Here Won''t Get You There'
@@ -126,13 +125,13 @@
   time: 2018-09-04
   room:
   authors:
-  - name: Charity Majors
-    twitter: mipsytipsy
-    github:
-    website: https://www.honeycomb.io/blog/
+    - name: Charity Majors
+      twitter: mipsytipsy
+      github:
+      website: https://www.honeycomb.io/blog/
   slides:
   videos:
-  - https://youtu.be/OdY1UNzzOr8
+    - https://youtu.be/OdY1UNzzOr8
   description: |-
 
 - title: Do you need a Service Mesh?
@@ -141,13 +140,13 @@
   time: 2018-09-04
   room:
   authors:
-  - name: Matt Turner
-    twitter: mt165pro
-    github:
-    website: https://mt165.co.uk
+    - name: Matt Turner
+      twitter: mt165pro
+      github:
+      website: https://mt165.co.uk
   slides:
   videos:
-  - https://youtu.be/lyue42wd7a8
+    - https://youtu.be/lyue42wd7a8
   description: |-
 
 - title: HTTP and JSON for your gRPC Services
@@ -156,13 +155,13 @@
   time: 2018-09-04
   room:
   authors:
-  - name: Michael Hamrah
-    twitter: mhamrah
-    github: mhamrah
-    website: http://www.michaelhamrah.com
+    - name: Michael Hamrah
+      twitter: mhamrah
+      github: mhamrah
+      website: http://www.michaelhamrah.com
   slides:
   videos:
-  - https://youtu.be/AmXo6tPGUdQ
+    - https://youtu.be/AmXo6tPGUdQ
   description: |-
 
 - title: Software Engineering - A philosophical activity
@@ -171,13 +170,13 @@
   time: 2018-09-04
   room:
   authors:
-  - name: Tom Enden
-    twitter: tom_enden
-    github:
-    website:
+    - name: Tom Enden
+      twitter: tom_enden
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/JJ7UgLpgkzc
+    - https://youtu.be/JJ7UgLpgkzc
   description: |-
 
 - title: Take a (Client) Hint!
@@ -186,13 +185,13 @@
   time: 2018-09-04
   room:
   authors:
-  - name: Jeremy Wagner
-    twitter: malchata
-    github: malchata
-    website: https://jeremywagner.me/
+    - name: Jeremy Wagner
+      twitter: malchata
+      github: malchata
+      website: https://jeremywagner.me/
   slides:
   videos:
-  - https://youtu.be/md7Ua82fPe4
+    - https://youtu.be/md7Ua82fPe4
   description: |-
 
 - title: Lost in transaction? Strategies to deal with (in-)consistency in distributed systems
@@ -201,13 +200,13 @@
   time: 2018-09-04
   room:
   authors:
-  - name: Bernd Rücker
-    twitter: berndruecker
-    github:
-    website: http://bernd-ruecker.com/
+    - name: Bernd Rücker
+      twitter: berndruecker
+      github:
+      website: http://bernd-ruecker.com/
   slides:
   videos:
-  - https://youtu.be/JtaoNlL5mdI
+    - https://youtu.be/JtaoNlL5mdI
   description: |-
 
 - title: Lightning talks Backend
@@ -218,7 +217,7 @@
   authors:
   slides:
   videos:
-  - https://youtu.be/C3GvXp4Detk
+    - https://youtu.be/C3GvXp4Detk
   description: |-
 
 - title: Cats, The Musical! Algorithmic Song Meow-ification
@@ -227,13 +226,13 @@
   time: 2018-09-04
   room:
   authors:
-  - name: Beth Haubert
-    twitter: haubertdashery
-    github: bethanyhaubert
-    website: http://www.bethanyhaubert.com/
+    - name: Beth Haubert
+      twitter: haubertdashery
+      github: bethanyhaubert
+      website: http://www.bethanyhaubert.com/
   slides:
   videos:
-  - https://youtu.be/nAiT2cBvl5w
+    - https://youtu.be/nAiT2cBvl5w
   description: |-
 
 - title: Building peer-to-peer apps with the Beaker Browser
@@ -242,13 +241,13 @@
   time: 2018-09-06
   room:
   authors:
-  - name: Tara Vancil
-    twitter: taravancil
-    github: taravancil
-    website: https://taravancil.com
+    - name: Tara Vancil
+      twitter: taravancil
+      github: taravancil
+      website: https://taravancil.com
   slides:
   videos:
-  - https://youtu.be/raUE23RKLvE
+    - https://youtu.be/raUE23RKLvE
   description: |-
 
 - title: To push, or not to push?! - The future of HTTP/2 server push
@@ -257,13 +256,13 @@
   time: 2018-09-06
   room:
   authors:
-  - name: Patrick Hamann
-    twitter: patrickhamann
-    github:
-    website:
+    - name: Patrick Hamann
+      twitter: patrickhamann
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/ga_-zsTHRm8
+    - https://youtu.be/ga_-zsTHRm8
   description: |-
 
 - title: The Future of Front-End Performance
@@ -272,13 +271,13 @@
   time: 2018-09-06
   room:
   authors:
-  - name: Sia Karamalegos
-    twitter: thegreengreek
-    github:
-    website: http://www.clioandcalliope.com/
+    - name: Sia Karamalegos
+      twitter: thegreengreek
+      github:
+      website: http://www.clioandcalliope.com/
   slides:
   videos:
-  - https://youtu.be/SA_Hp8l7lr4
+    - https://youtu.be/SA_Hp8l7lr4
   description: |-
 
 - title: Native JavaScript modules- import {Browsers, NodeJs}; export {production};
@@ -287,13 +286,13 @@
   time: 2018-09-06
   room:
   authors:
-  - name: Serg Hospodarets
-    twitter: malyw
-    github:
-    website: https://hospodarets.com/
+    - name: Serg Hospodarets
+      twitter: malyw
+      github:
+      website: https://hospodarets.com/
   slides:
   videos:
-  - https://youtu.be/O4r9D2jI0_w
+    - https://youtu.be/O4r9D2jI0_w
   description: |-
 
 - title: Unity + HTML5 = Isomorphic Game Engine?
@@ -302,13 +301,13 @@
   time: 2018-09-06
   room:
   authors:
-  - name: LeRenzo Malcom
-    twitter: lerenzom
-    github:
-    website: http://www.quantumviz.com
+    - name: LeRenzo Malcom
+      twitter: lerenzom
+      github:
+      website: http://www.quantumviz.com
   slides:
   videos:
-  - https://youtu.be/zB4gRcgaCF0
+    - https://youtu.be/zB4gRcgaCF0
   description: |-
 
 - title: State of the Art Web User Interfaces with State Machines
@@ -317,13 +316,13 @@
   time: 2018-09-06
   room:
   authors:
-  - name: David Khourshid
-    twitter: davidkpiano
-    github: davidkpiano
-    website: https://codepen.io/davidkpiano
+    - name: David Khourshid
+      twitter: davidkpiano
+      github: davidkpiano
+      website: https://codepen.io/davidkpiano
   slides:
   videos:
-  - https://youtu.be/OVS9cKNK00U
+    - https://youtu.be/OVS9cKNK00U
   description: |-
 
 - title: A Front-end dev's hobbyist approach into Machine Learning
@@ -332,13 +331,13 @@
   time: 2018-09-06
   room:
   authors:
-  - name: Susanna Wong
-    twitter: studioswong
-    github: studioswong
-    website:
+    - name: Susanna Wong
+      twitter: studioswong
+      github: studioswong
+      website:
   slides:
   videos:
-  - https://youtu.be/JcLZGfXKk8c
+    - https://youtu.be/JcLZGfXKk8c
   description: |-
 
 - title: Building a Modern Memex
@@ -347,13 +346,13 @@
   time: 2018-09-06
   room:
   authors:
-  - name: Andrew Louis
-    twitter: hyfen
-    github:
-    website: https://hyfen.net/memex/
+    - name: Andrew Louis
+      twitter: hyfen
+      github:
+      website: https://hyfen.net/memex/
   slides:
   videos:
-  - https://youtu.be/K0WU02flF_E
+    - https://youtu.be/K0WU02flF_E
   description: |-
 
 - title: Accessibility vs latest Web APIs. Can’t we just get along?
@@ -362,13 +361,13 @@
   time: 2018-09-07
   room:
   authors:
-  - name: Mauricio Palma
-    twitter: palmaswell
-    github: Palmaswell
-    website: https://codepen.io/palmaswell/
+    - name: Mauricio Palma
+      twitter: palmaswell
+      github: Palmaswell
+      website: https://codepen.io/palmaswell/
   slides:
   videos:
-  - https://youtu.be/wtZWRUsn3ms
+    - https://youtu.be/wtZWRUsn3ms
   description: |-
 
 - title: The Web Authentication API - Imagine a World Without Passwords
@@ -377,13 +376,13 @@
   time: 2018-09-07
   room:
   authors:
-  - name: Suby Raman
-    twitter: subyraman
-    github:
-    website: http://subyraman.com
+    - name: Suby Raman
+      twitter: subyraman
+      github:
+      website: http://subyraman.com
   slides:
   videos:
-  - https://youtu.be/MesXuMg0WKo
+    - https://youtu.be/MesXuMg0WKo
   description: |-
 
 - title: 'Killing the checkout or: How I learned to stop worrying and love Payment Request'
@@ -392,13 +391,13 @@
   time: 2018-09-07
   room:
   authors:
-  - name: Krystian Czesak
-    twitter: krystosterone
-    github:
-    website: https://blog.krystosterone.com
+    - name: Krystian Czesak
+      twitter: krystosterone
+      github:
+      website: https://blog.krystosterone.com
   slides:
   videos:
-  - https://youtu.be/MvgdYbYBzcs
+    - https://youtu.be/MvgdYbYBzcs
   description: |-
 
 - title: A Real World PWA
@@ -407,13 +406,13 @@
   time: 2018-09-07
   room:
   authors:
-  - name: Zack Argyle
-    twitter: zackargyle
-    github: zackargyle
-    website: http://zackargyle.com/
+    - name: Zack Argyle
+      twitter: zackargyle
+      github: zackargyle
+      website: http://zackargyle.com/
   slides:
   videos:
-  - https://youtu.be/pluzva6Dk9Q
+    - https://youtu.be/pluzva6Dk9Q
   description: |-
 
 - title: Purifying Typescript
@@ -422,13 +421,13 @@
   time: 2018-09-07
   room:
   authors:
-  - name: Timothy Clifford
-    twitter: timothyclifford
-    github: timothyclifford
-    website: http://timclifford.io
+    - name: Timothy Clifford
+      twitter: timothyclifford
+      github: timothyclifford
+      website: http://timclifford.io
   slides:
   videos:
-  - https://youtu.be/huIHUim76AM
+    - https://youtu.be/huIHUim76AM
   description: |-
 
 - title: 'Dynamic CSS: Layouts & Beyond'
@@ -437,13 +436,13 @@
   time: 2018-09-07
   room:
   authors:
-  - name: Miriam Suzanne
-    twitter: mirisuzanne
-    github: mirisuzanne
-    website: http://oddbird.net
+    - name: Miriam Suzanne
+      twitter: mirisuzanne
+      github: mirisuzanne
+      website: http://oddbird.net
   slides:
   videos:
-  - https://youtu.be/9fTUeLsR2Hc
+    - https://youtu.be/9fTUeLsR2Hc
   description: |-
 
 - title: WebXR, if X = how?
@@ -452,17 +451,17 @@
   time: 2018-09-07
   room:
   authors:
-  - name: Diego González
-    twitter:
-    github:
-    website:
-  - name: Indira Knight
-    twitter:
-    github:
-    website:
+    - name: Diego González
+      twitter:
+      github:
+      website:
+    - name: Indira Knight
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/iIDB96u4bng
+    - https://youtu.be/iIDB96u4bng
   description: |-
 
 - title: Lightning talks Frontend
@@ -473,5 +472,5 @@
   authors:
   slides:
   videos:
-  - https://youtu.be/B-2Nn2TOo0A
+    - https://youtu.be/B-2Nn2TOo0A
   description: |-

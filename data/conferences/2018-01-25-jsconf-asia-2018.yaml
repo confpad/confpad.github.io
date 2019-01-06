@@ -4,10 +4,10 @@
   time: 2018-01-25 09:30
   room:
   authors:
-  - name: Una Kravets
-    twitter: una
-    github:
-    website:
+    - name: Una Kravets
+      twitter: una
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/XZmvHVVj0Ns
@@ -20,10 +20,10 @@
   time: 2018-01-25 10:40
   room:
   authors:
-  - name: Inian Parameshwaran
-    twitter: everConfusedGuy
-    github:
-    website:
+    - name: Inian Parameshwaran
+      twitter: everConfusedGuy
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/obkdza-dPco
@@ -36,10 +36,10 @@
   time: 2018-01-25 11:10
   room:
   authors:
-  - name: Feross Aboukhadijeh
-    twitter: feross
-    github:
-    website:
+    - name: Feross Aboukhadijeh
+      twitter: feross
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/kuHfMw8j4xk
@@ -52,14 +52,14 @@
   time: 2018-01-25 11:30
   room:
   authors:
-  - name: Giang Nguyen
-    twitter:
-    github:
-    website:
-  - name: GrabDickson Tan
-    twitter:
-    github:
-    website:
+    - name: Giang Nguyen
+      twitter:
+      github:
+      website:
+    - name: GrabDickson Tan
+      twitter:
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/7cEfxhsn3Bg
@@ -72,14 +72,14 @@
   time: 2018-01-25 13:00
   room:
   authors:
-  - name: Shirley Wu
-    twitter: sxywuNadieh Bremer
-    github:
-    website:
-  - name: Nadieh Bremer
-    twitter: NadiehBremer
-    github:
-    website:
+    - name: Shirley Wu
+      twitter: sxywuNadieh Bremer
+      github:
+      website:
+    - name: Nadieh Bremer
+      twitter: NadiehBremer
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/Ww57lUS9dF4
@@ -92,10 +92,10 @@
   time: 2018-01-25 13:30
   room:
   authors:
-  - name: Wilson Mendes
-    twitter: willmendesneto
-    github:
-    website:
+    - name: Wilson Mendes
+      twitter: willmendesneto
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/Kphwg2IsJfA
@@ -108,10 +108,10 @@
   time: 2018-01-25 14:00
   room:
   authors:
-  - name: Shazron Abdullah
-    twitter: shazron
-    github:
-    website:
+    - name: Shazron Abdullah
+      twitter: shazron
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/ne6YvKWbQYg
@@ -124,10 +124,10 @@
   time: 2018-01-25 14:15
   room:
   authors:
-  - name: István Szmozsánszky "Flaki"
-    twitter: slsoftworks
-    github:
-    website:
+    - name: István Szmozsánszky "Flaki"
+      twitter: slsoftworks
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/8n4jCTbvYwI
@@ -140,10 +140,10 @@
   time: 2018-01-25 15:30
   room:
   authors:
-  - name: Tony Sebastian
-    twitter: tsktony
-    github:
-    website:
+    - name: Tony Sebastian
+      twitter: tsktony
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/sltPORiz1Ks
@@ -156,10 +156,10 @@
   time: 2018-01-25 15:45
   room:
   authors:
-  - name: Chen Hui Jing
-    twitter: hj_chen
-    github:
-    website:
+    - name: Chen Hui Jing
+      twitter: hj_chen
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/Tqxo269aORM
@@ -172,10 +172,10 @@
   time: 2018-01-25 16:15
   room:
   authors:
-  - name: Matteo Collina
-    twitter: matteocollina
-    github:
-    website:
+    - name: Matteo Collina
+      twitter: matteocollina
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/G9Vkpe55Gu8
@@ -188,10 +188,10 @@
   time: 2018-01-25 16:30
   room:
   authors:
-  - name: David Bryant
-    twitter: david_bryant
-    github:
-    website:
+    - name: David Bryant
+      twitter: david_bryant
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/yqZYAM2es9Q
@@ -204,10 +204,10 @@
   time: 2018-01-25 09:00
   room:
   authors:
-  - name: Martin Splitt
-    twitter: g33konaut
-    github:
-    website:
+    - name: Martin Splitt
+      twitter: g33konaut
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/9SgDOtfuYhc
@@ -220,10 +220,10 @@
   time: 2018-01-25 09:00
   room:
   authors:
-  - name: Gurudath Reddy
-    twitter:
-    github:
-    website:
+    - name: Gurudath Reddy
+      twitter:
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/5WyOtacc8Xs
@@ -236,10 +236,10 @@
   time: 2018-01-25 09:00
   room:
   authors:
-  - name: Chen Hui Jing
-    twitter: hj_chen
-    github:
-    website:
+    - name: Chen Hui Jing
+      twitter: hj_chen
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/nx0yboEhUNc
@@ -252,14 +252,14 @@
   time: 2018-01-25 13:30
   room:
   authors:
-  - name: Dave Appleton
-    twitter: appletondave
-    github:
-    website:
-  - name: Raman Shalupau
-    twitter: ksaitor
-    github:
-    website:
+    - name: Dave Appleton
+      twitter: appletondave
+      github:
+      website:
+    - name: Raman Shalupau
+      twitter: ksaitor
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/1YNV-NYxDDo
@@ -272,10 +272,10 @@
   time: 2018-01-25 13:30
   room:
   authors:
-  - name: Giang Nguyen
-    twitter:
-    github:
-    website:
+    - name: Giang Nguyen
+      twitter:
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/3xvxV5QsENo
@@ -288,14 +288,14 @@
   time: 2018-01-25 13:30
   room:
   authors:
-  - name: Shirley Wu
-    twitter: sxywu
-    github:
-    website:
-  - name: Nadieh Bremer
-    twitter: NadiehBremer
-    github:
-    website:
+    - name: Shirley Wu
+      twitter: sxywu
+      github:
+      website:
+    - name: Nadieh Bremer
+      twitter: NadiehBremer
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/TKv_cUZd9sM
@@ -308,14 +308,14 @@
   time: 2018-01-25 13:30
   room:
   authors:
-  - name: Inian Parameshwaran
-    twitter: everConfusedGuy
-    github:
-    website:
-  - name: Sebastiaan Deckers
-    twitter: sebdeckers
-    github:
-    website:
+    - name: Inian Parameshwaran
+      twitter: everConfusedGuy
+      github:
+      website:
+    - name: Sebastiaan Deckers
+      twitter: sebdeckers
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/m0R4joKAPuE
@@ -328,10 +328,10 @@
   time: 2018-01-25 09:00
   room:
   authors:
-  - name: Martin Splitt
-    twitter: g33konaut
-    github:
-    website:
+    - name: Martin Splitt
+      twitter: g33konaut
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/QYnJUrvzlLk
@@ -344,10 +344,10 @@
   time: 2018-01-25 09:30
   room:
   authors:
-  - name: Jake Archibald
-    twitter: jaffathecake
-    github:
-    website:
+    - name: Jake Archibald
+      twitter: jaffathecake
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/cCOL7MC4Pl0
@@ -360,10 +360,10 @@
   time: 2018-01-25 11:10
   room:
   authors:
-  - name: Jerome Etienne
-    twitter: jerome_etienne
-    github:
-    website:
+    - name: Jerome Etienne
+      twitter: jerome_etienne
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/NBrM7YVznzk
@@ -376,10 +376,10 @@
   time: 2018-01-25 13:20
   room:
   authors:
-  - name: Tim Holman
-    twitter: twholman
-    github:
-    website:
+    - name: Tim Holman
+      twitter: twholman
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/iGPzwotXgfk
@@ -392,10 +392,10 @@
   time: 2018-01-25 13:45
   room:
   authors:
-  - name: Thai Pangsakulyanont
-    twitter: dtinth
-    github:
-    website:
+    - name: Thai Pangsakulyanont
+      twitter: dtinth
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/xBa0_b-5XDw
@@ -408,10 +408,10 @@
   time: 2018-01-25 14:15
   room:
   authors:
-  - name: Sareh Heidari
-    twitter: sareh88
-    github:
-    website:
+    - name: Sareh Heidari
+      twitter: sareh88
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/pOqX-TdyvXU
@@ -424,10 +424,10 @@
   time: 2018-01-25 14:45
   room:
   authors:
-  - name: Shi Ling Tai
-    twitter:
-    github:
-    website:
+    - name: Shi Ling Tai
+      twitter:
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/0wjqnkrvYz4
@@ -439,10 +439,10 @@
   time: 2018-01-25 14:45
   room:
   authors:
-  - name: Yoshua Wuyts
-    twitter:
-    github:
-    website:
+    - name: Yoshua Wuyts
+      twitter:
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/L41IrT-WnNE
@@ -454,10 +454,10 @@
   time: 2018-01-25 14:45
   room:
   authors:
-  - name: Phoomparin Mano
-    twitter:
-    github:
-    website:
+    - name: Phoomparin Mano
+      twitter:
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/-2iJG0FVGaY
@@ -469,10 +469,10 @@
   time: 2018-01-25 14:45
   room:
   authors:
-  - name: Tim Holman
-    twitter:
-    github:
-    website:
+    - name: Tim Holman
+      twitter:
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/04zfAyPD9Tk
@@ -484,10 +484,10 @@
   time: 2018-01-25 14:45
   room:
   authors:
-  - name: Feross Aboukhadijeh
-    twitter:
-    github:
-    website:
+    - name: Feross Aboukhadijeh
+      twitter:
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/rLgBqT_e6Yo
@@ -499,10 +499,10 @@
   time: 2018-01-25 14:45
   room:
   authors:
-  - name: Chris Lienert
-    twitter:
-    github:
-    website:
+    - name: Chris Lienert
+      twitter:
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/qvkI44LLDWM
@@ -514,10 +514,10 @@
   time: 2018-01-25 15:45
   room:
   authors:
-  - name: Zell Liew
-    twitter: zellwk
-    github:
-    website:
+    - name: Zell Liew
+      twitter: zellwk
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/XnDGJrvEzJg
@@ -530,10 +530,10 @@
   time: 2018-01-25 16:00
   room:
   authors:
-  - name: Irina Shestak
-    twitter: _lrlna
-    github:
-    website:
+    - name: Irina Shestak
+      twitter: _lrlna
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/dpxq4QWVhc0
@@ -546,10 +546,10 @@
   time: 2018-01-25 16:30
   room:
   authors:
-  - name: Bruce Lawson
-    twitter: brucel
-    github:
-    website:
+    - name: Bruce Lawson
+      twitter: brucel
+      github:
+      website:
   slides:
   videos:
     - https://youtu.be/OZ7rc0_Ps68

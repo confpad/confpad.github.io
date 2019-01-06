@@ -4,13 +4,13 @@
   time: 2018-11-19 09:00
   room: Epigenetic Gardens
   authors:
-  - name: Elsa Sotiriadis
-    twitter:
-    github:
-    website:
+    - name: Elsa Sotiriadis
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/hMGZZm-TBW0
+    - https://youtu.be/hMGZZm-TBW0
   description: |-
     Biology is the new digital. The accelerating potential of enabling technologies is bringing upon us a new era. CRISPR lets us rewrite the source code of our own species, we can design, test and build designer organisms in the cloud, and cells are becoming nano-scale manufacturing units for anything from lab-grown meat and mushroom leather to medicines. How is biological software transforming industries? What's brewing for us in the future?
 
@@ -20,10 +20,10 @@
   time: 2018-11-19 10:30
   room: Bionic Square
   authors:
-  - name: Andras Velvart
-    twitter:
-    github:
-    website:
+    - name: Andras Velvart
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -35,13 +35,13 @@
   time: 2018-11-19 10:30
   room: CRISPR Corner
   authors:
-  - name: Sebastian Daschner
-    twitter:
-    github:
-    website:
+    - name: Sebastian Daschner
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/d3e3coq_Ulw
+    - https://youtu.be/d3e3coq_Ulw
   description: |-
     Why should developers even care about buzzwords like 12-factor apps, cloud native, resilience, reactiveness or scalability? Why is it a good idea to integrate these concepts into our application in the year 2018? And which technology to we need to realize this? This session shows what it takes to implement cloud-ready, adaptive and scalable applications on containers and container orchestration. We will see modern Java Enterprise shipped in Docker containers orchestrated by Kubernetes running on a cloud service offering. The question of how to realize 12-factor and cloud native concerns, such as resilience, service discovery, or scalability will be answered. All of the time will be spent live-coding while explaining the concepts and solutions.
 
@@ -51,13 +51,13 @@
   time: 2018-11-19 10:30
   room: Cryogenic Chamber
   authors:
-  - name: Patrick Kua
-    twitter:
-    github:
-    website:
+    - name: Patrick Kua
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/D4z5TEOqutY
+    - https://youtu.be/D4z5TEOqutY
   description: |-
     In our industry, one of the only guarantees is change. Many of today’s tools, technologies, and business models will soon cease to exist, only to be replaced by newer ones. Architects face the challenge of planning for today’s systems knowing that the problems of tomorrow will be completely different from the problems of today. Evolutionary architecture is an architectural approach that prioritises change as a first principle but balances this need with delivering value early.
 
@@ -67,13 +67,13 @@
   time: 2018-11-19 10:30
   room: Epigenetic Gardens
   authors:
-  - name: Rachel Andrew
-    twitter:
-    github:
-    website:
+    - name: Rachel Andrew
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/W0q-DLOfxu4
+    - https://youtu.be/W0q-DLOfxu4
   description: |-
     CSS, and what is possible and supported in browsers, is developing and changing at a rate far faster than we have ever seen. Things that were deemed impossible a few years ago are now possible and available to explore. Learn how you can begin to incorporate some of these new creative possibilities into your work. Rachel will share practical ideas for using the new CSS. She’ll show us how it solves problems that were hard to solve in the past, and the creative opportunities it holds. She’ll explore the newest features, from fonts to colour options, layout, and animations.
 
@@ -83,13 +83,13 @@
   time: 2018-11-19 10:30
   room: Neosense Beach
   authors:
-  - name: Ari Lerner
-    twitter:
-    github:
-    website:
+    - name: Ari Lerner
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/CMqhv5KRWAE
+    - https://youtu.be/CMqhv5KRWAE
   description: |-
     Do you write backends with slow, fully-interpreted experiences? Have you ever had your cluster of compute machines fall over, paying hand-over-fist to throw more machines at the cluster due to memory constraints? Have you ever been bored with purely object-oriented languages? Not only performant, Elixir/Erlang present a completely new way of thinking when building applications through the novel language characteristics. In this talk, we'll not only discuss the advantages/disadvantages of using Elixir, but we'll also walk through building our first web-server and integration with a web-frontend.
 
@@ -99,13 +99,13 @@
   time: 2018-11-19 10:30
   room: Nootropic Market
   authors:
-  - name: Iris Classon
-    twitter:
-    github:
-    website:
+    - name: Iris Classon
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/0qdGjC0I580
+    - https://youtu.be/0qdGjC0I580
   description: |-
     With all the excitement around ASP.NET Core we decided to adopt early for our distributed monolith, a SaaS BI solution of decent size. Two years later, and after several migrations between ASP.NET Core versions, we have learned quite a few lessons about migrating and running ASP.NET Core in production. It affected every part of our system: code, dependencies, editors, integration and deployment pipeline, as well as distribution model- but was it worth it in the end? In this session I’d love to share with you the lessons learned, the questions answered and the tools used.
 
@@ -115,13 +115,13 @@
   time: 2018-11-19 10:30
   room: Senescence Forest
   authors:
-  - name: Diane Zajac
-    twitter:
-    github:
-    website:
+    - name: Diane Zajac
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/XamH2C55sYY
+    - https://youtu.be/XamH2C55sYY
   description: |-
     Useless \ˈyüs-ləs\ use·less: not fulfilling or not expected to achieve the intended purpose or desired outcome. [Synonyms: futile, (in) vain, pointless, to no purpose, ineffectual, ineffective, to no effect, unprofitable] If you want to stop building useless software, you have to start understanding your customers. Empathy mapping is a simple activity for your team, stakeholders & anyone who is responsible for delivering products & services. You collectively explore what your customers see, hear, say & do, as well as consider what they think & feel. You gain insights into their pains & potential wants which are the keys to building more useful software. In this session, Diane shows you how to build an empathy map & points out the potential biases to watch out for as you go. You will learn how easy it is to work collaboratively to create a shared understanding of the customer. And that is the first step to start building software that customers find useful.
 
@@ -131,10 +131,10 @@
   time: 2018-11-19 11:30
   room: Bionic Square
   authors:
-  - name: Philipp Krenn
-    twitter:
-    github:
-    website:
+    - name: Philipp Krenn
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -146,13 +146,13 @@
   time: 2018-11-19 11:30
   room: CRISPR Corner
   authors:
-  - name: Sean Grove
-    twitter:
-    github:
-    website:
+    - name: Sean Grove
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/bdjvLiI5tzA
+    - https://youtu.be/bdjvLiI5tzA
   description: |-
     Traditionally, soundly typed-language are warm and cozy in their own world, but as soon as they have to deal with the outside world (say, talking to a REST API), the pain quickly sets in: trying to keep a type definition in sync with a moving external service, manual conversion back and forth, and lots of boilerplate. Well no more! Proper GraphQL support in ReasonML libraries means that we can have full-stack safety, knowing that if our programs compile, the server can satisfy our requirements! And on top of that, we get all the other GraphQL goodies, like tooling, in-editor auto-complete, and fantastic compile-time optimizations, for free! But what about the server-side, you ask? There are so many places things can go wrong when trying to maintain the promises you give to your GraphQL clients, I hear you cry out! Dry your eyes, friend, for ocaml-graphql-server is here to guide you to the happy full-stack GraphQL+Reason world you’ve been dreaming of, where whole classes of errors are eliminated. As in any good talk, however, we’ll also take a look at some of the painful points of this approach, and how ReasonML might make some tasks more difficult so that you can leave with a confident understanding of whether this new frontier is one you want to brave any time soon.
 
@@ -162,17 +162,17 @@
   time: 2018-11-19 11:30
   room: Cryogenic Chamber
   authors:
-  - name: Max Larcombe
-    twitter:
-    github:
-    website:
-  - name: Alex Neuman
-    twitter:
-    github:
-    website:
+    - name: Max Larcombe
+      twitter:
+      github:
+      website:
+    - name: Alex Neuman
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/mCxvVHAz5rs
+    - https://youtu.be/mCxvVHAz5rs
   description: |-
     This interactive session is a crash course in team development for the messy modern world. Too many leaders and organizations rely on outdated approaches to leadership which are as ancient as the factory shop floors they were designed for. Instead of clinging onto to these archaic ways of working we need a new playbook for the complex, uncertain and fast-changing digital landscape of today. This session will give an introduction to principles and methods you can use to build happier and more effective teams. Get inspiration for new ways of thinking and working, reflect on how your team is functioning and identify specific areas where you and your team can improve. Alex Neuman and Max Larcombe work with 21st-century learning and organizational development at Hyper Island. They have worked extensively with process design, leadership and team development. Alex was product lead on the Hyper Island Toolbox. Max previously led Master’s education and is currently Head of Online Courses.
 
@@ -182,13 +182,13 @@
   time: 2018-11-19 11:30
   room: Epigenetic Gardens
   authors:
-  - name: Huyen Dao
-    twitter:
-    github:
-    website:
+    - name: Huyen Dao
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/rpWfdiJJWa0
+    - https://youtu.be/rpWfdiJJWa0
   description: |-
     One of the best places to learn idiomatic Kotlin is the stdlib. Now I don’t mean just using the stdlib, but going to the source, literally. In this session, we’ll look at some of the methods and tools inside the stdlib and dig into how they’re written to reveal intermediate to advanced language features, slick syntax and conventions, and high-level abstractions to help you write more fluent objects and interfaces. We’ll also take a few glances at the underlying bytecode to understand how and why the features work the way they do.
 
@@ -198,10 +198,10 @@
   time: 2018-11-19 11:30
   room: Neosense Beach
   authors:
-  - name: Roshan Khan
-    twitter:
-    github:
-    website:
+    - name: Roshan Khan
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -213,13 +213,13 @@
   time: 2018-11-19 11:30
   room: Nootropic Market
   authors:
-  - name: Øystein Kolsrud
-    twitter:
-    github:
-    website:
+    - name: Øystein Kolsrud
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/h89E7SU5ZpI
+    - https://youtu.be/h89E7SU5ZpI
   description: |-
     Object-oriented languages have during the last decade introduced a number of features originating from the functional programming domain. Most notable are the introduction of lambda expressions and stream processing libraries like LINQ in C# and the Stream API in Java, but other features are emerging as well. C# 7.0 introduced the concepts of tuples and pattern matching, both of which have for a long time been fundamental features of functional languages like Haskell. Why do people consider these features to be functional? And why are people with a background in functional programming thrilled to see these features introduced in the object-oriented world? This talk will focus on a set of case studies that illustrate how functional patterns are typically applied in Haskell and how solutions based on those patterns differ from the traditional OO approach. The talk does not assume a background in functional programming, but hold on to your hat and be prepared for something different!
 
@@ -229,13 +229,13 @@
   time: 2018-11-19 11:30
   room: Senescence Forest
   authors:
-  - name: Hillel Wayne
-    twitter:
-    github:
-    website:
+    - name: Hillel Wayne
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/8saFY-87gvQ
+    - https://youtu.be/8saFY-87gvQ
   description: |-
     Distributed systems are hard. How do you test your system when it's spread across three services and four languages? Unit testing and type systems only take us so far. At some point, we need new tools. Enter TLA+. TLA+ is a specification language that describes your system and the properties you want. This makes it a fantastic complement to testing: not only can you check your code, you can check your design, too! TLA+ is especially effective for testing concurrency problems, like crashes, race conditions, and dropped messages. TLA+ is so effective for this that both AWS and Azure teams consider it essential to their work. It keeps subtle, serious bugs out of their code and helps them optimize without losing correctness. And it's not just for the cloud: engineers have used TLA+ to verify everything from business workflows to video games. This talk will introduce the ideas behind TLA+ and how it works, with a focus on practical examples and how you can apply it to your own work.
 
@@ -245,10 +245,10 @@
   time: 2018-11-19 12:50
   room: Bionic Square
   authors:
-  - name: Danny Preussler
-    twitter:
-    github:
-    website:
+    - name: Danny Preussler
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -260,13 +260,13 @@
   time: 2018-11-19 12:50
   room: CRISPR Corner
   authors:
-  - name: Zoë Rose
-    twitter:
-    github:
-    website:
+    - name: Zoë Rose
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/vgOtNrwvWhE
+    - https://youtu.be/vgOtNrwvWhE
   description: |-
     Have you ever found yourself lost in a server room, or more often a closet, no idea where to start and confused if you are ever going to find the right port? Have you logged into the gateway router, when you're pretty sure you were supposed to be on a switch, and all of the sudden everything stops working, but you are 99% confident you didn't actually do anything? Then this talk is for you! We will discuss the foundations of network architecture. We'll cover what people mean when they say flat network, and why that's harder to diagnose when there are issues. We will walk through two example networks, home and SME, talking about how you can embed security and privacy by design.
 
@@ -276,13 +276,13 @@
   time: 2018-11-19 12:50
   room: Cryogenic Chamber
   authors:
-  - name: Richard Feldman
-    twitter:
-    github:
-    website:
+    - name: Richard Feldman
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/V_HveL2OVkc
+    - https://youtu.be/V_HveL2OVkc
   description: |-
     When I got into Elm as a React developer in 2014, I only expected to learn a pleasant functional programming language. I never thought I would discover a whole new programming flow—a flow where I could spend hours productively writing UI code without slowing down to open a browser and visually check my progress. What kind of bizarro front-end Web development world is that? What is it about Elm's design that makes this kind of flow possible, and what assumptions does it challenge about the most effective ways to write code? Does it take a whole different programming language to pull this off, or are there ways to get the same benefits in any language? We'll explore all of these questions and more in this talk. Come find out!
 
@@ -292,13 +292,13 @@
   time: 2018-11-19 12:50
   room: Epigenetic Gardens
   authors:
-  - name: Jasper Heeffer
-    twitter:
-    github:
-    website:
+    - name: Jasper Heeffer
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/n5nHk8SKuRA
+    - https://youtu.be/n5nHk8SKuRA
   description: |-
     We'll take you along on the journey data makes both before it enters our pipelines and how we then shape it to end up in our visualizations. From large-scale data collection in the field to NGO's crunching surveys to datasets, to harmonizing data syntax and semantics, to defining visualizations using a visualization grammar and finally to serving the result on our tools page: www.gapminder.org/tools. At each step of the way we'll highlight interesting stories, lessons we learned during our work and challenges we still have.
 
@@ -308,10 +308,10 @@
   time: 2018-11-19 12:50
   room: Neosense Beach
   authors:
-  - name: Nivia Henry
-    twitter:
-    github:
-    website:
+    - name: Nivia Henry
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -323,13 +323,13 @@
   time: 2018-11-19 12:50
   room: Nootropic Market
   authors:
-  - name: Steve Sanderson
-    twitter:
-    github:
-    website:
+    - name: Steve Sanderson
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/qrf3OrLHeFI
+    - https://youtu.be/qrf3OrLHeFI
   description: |-
     Today, nearly all browser-based apps are written in JavaScript (or similar languages that transpile to it). That’s fine, but there’s no good reason to limit our industry to basically one language when so many powerful and mature alternate languages and programming platforms exist. Starting now, WebAssembly opens the floodgates to new choices, and one of the first realistic options may be .NET. Blazor is a new experimental web UI framework from the ASP.NET team that aims to bring .NET applications into all browsers (including mobile) via WebAssembly. It allows you to build true full-stack .NET applications, sharing code across server and client, with no need for transpilation or plugins. In this talk, I’ll demonstrate what you can do with Blazor today and how it works on the underlying WebAssembly runtime behind the scenes. You’ll see its modern, component-based architecture (inspired by modern SPA frameworks) at work as we use it to build a responsive client-side UI. I’ll cover both basic and advanced scenarios using Blazor’s components, router, DI system, JavaScript interop, and more.
 
@@ -339,13 +339,13 @@
   time: 2018-11-19 12:50
   room: Senescence Forest
   authors:
-  - name: Lisette Sutherland
-    twitter:
-    github:
-    website:
+    - name: Lisette Sutherland
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/xzvt8qGafUo
+    - https://youtu.be/xzvt8qGafUo
   description: |-
     Working from distance comes with its own set of challenges. Remote teams need to combat the "out of sight, out of mind" mentality and learn how to build trust in new ways. In this session, we will explore how digital nomads, virtual entrepreneurs, and global organizations are reaching through the screens to collaborate seamlessly at a distance. You will walk away with new ideas for what it means to be present at work and how to create that sense camaraderie even when you're virtual. This session complements the session Judy Rees is facilitating. Attend both for full remote mastery!
 
@@ -355,10 +355,10 @@
   time: 2018-11-19 13:50
   room: Bionic Square
   authors:
-  - name: Dan Lebrero
-    twitter:
-    github:
-    website:
+    - name: Dan Lebrero
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -370,13 +370,13 @@
   time: 2018-11-19 13:50
   room: CRISPR Corner
   authors:
-  - name: David Nolen
-    twitter:
-    github:
-    website:
+    - name: David Nolen
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/qXTidbMcjH8
+    - https://youtu.be/qXTidbMcjH8
   description: |-
     In this session, we will explore "Cloud First" application development. Typical application development in the cloud often involves a host of tools that either compound or only temporarily alleviate incidental complexity. We'll see how functional programming techniques and tools like Datomic Cloud simplify the development process and allow us to program directly and iteratively in the cloud.
 
@@ -386,13 +386,13 @@
   time: 2018-11-19 13:50
   room: Cryogenic Chamber
   authors:
-  - name: Az Balabanian
-    twitter:
-    github:
-    website:
+    - name: Az Balabanian
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/lvDXPEoc3Vo
+    - https://youtu.be/lvDXPEoc3Vo
   description: |-
     Join Az Balabanian, the Host of the Research VR Podcast, to learn important design principles from the successful developers of the VR industry. After 2.5 years of weekly interviews with VR developers, Az has compiled the overarching concepts and key decisions that have led VR apps to go viral, and in turn, become profitable. He will guide you through the principles of cognitive science crucial for understanding how VR works, how to apply those principles to create better and more comfortable experiences, and how to create apps that remain "fresh" and with-the-times.
 
@@ -402,13 +402,13 @@
   time: 2018-11-19 13:50
   room: Epigenetic Gardens
   authors:
-  - name: Peter Yaworski
-    twitter:
-    github:
-    website:
+    - name: Peter Yaworski
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/CzP6-NmH7g0
+    - https://youtu.be/CzP6-NmH7g0
   description: |-
     It's impossible to avoid shipping code without vulnerabilities. Instead, the goal should be identifying and fixing those vulnerabilities as soon as possible, without repeating the same mistakes twice. In this session, I will walk you through how hackers discover your assets, test your systems and look for interesting functionality to shake bugs out of. In doing so, I'll detail various vulnerabilities I've found and other notable public write-ups / disclosures. We'll cover less popular but high impact vulnerabilities like cross-origin web socket hijacking, password reset poisoning, exfiltrating files from the File API and common design patterns that lead to unintentional information disclosure, just to name a few. Attending this session will help developers better understand what hackers look for, how they test and how to think like them in order to code more securely from day one.
 
@@ -418,10 +418,10 @@
   time: 2018-11-19 13:50
   room: Neosense Beach
   authors:
-  - name: Ari Lerner
-    twitter:
-    github:
-    website:
+    - name: Ari Lerner
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -433,13 +433,13 @@
   time: 2018-11-19 13:50
   room: Nootropic Market
   authors:
-  - name: Jon Skeet
-    twitter:
-    github:
-    website:
+    - name: Jon Skeet
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/ls3WwdrGRFI
+    - https://youtu.be/ls3WwdrGRFI
   description: |-
     For the last few years, I've been leading the effort on the Google Cloud Client Libraries for .NET. These are client libraries intended to make it as simple as possible for C# developers to use Google Cloud services. This ongoing journey has taught me many lessons about API design and versioning, as well as the benefits and drawbacks of code generation. This talk goes over some of those lessons. Even though the talk is grounded in my experience with the Google Cloud Client Libraries, many of the techniques are applicable to general library design.
 
@@ -449,13 +449,13 @@
   time: 2018-11-19 13:50
   room: Senescence Forest
   authors:
-  - name: Jeff Gothelf
-    twitter:
-    github:
-    website:
+    - name: Jeff Gothelf
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/MDY8IZX3IXY
+    - https://youtu.be/MDY8IZX3IXY
   description: |-
     As companies evolve to adopt, integrate, and leverage software as the defining element of their success in the 21st century, a rash of processes and methodologies are vying for their product teams' attention. In the worst of cases, each discipline on these teams -- product management, design, and software engineering -- learns a different model. This short, tactical talk reconciles the perceived differences in Lean Startup, Design Thinking, and Agile software development by focusing not on rituals and practices but on the values that underpin all three methods. The tactics in this talk draw on Jeff’s years of practice as a team leader and coach in companies ranging from small high-growth startups to large enterprises. Whether you’re a product manager, software engineer, designer, or team leader, you’ll find practical tools in this talk immediately applicable to your team’s daily methods.
 
@@ -465,10 +465,10 @@
   time: 2018-11-19 15:10
   room: Bionic Square
   authors:
-  - name: Tyler Wolf
-    twitter:
-    github:
-    website:
+    - name: Tyler Wolf
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -480,13 +480,13 @@
   time: 2018-11-19 15:10
   room: CRISPR Corner
   authors:
-  - name: Doc Norton
-    twitter:
-    github:
-    website:
+    - name: Doc Norton
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/S9aQMlvv6vE
+    - https://youtu.be/S9aQMlvv6vE
   description: |-
     Stable Teams have long been a known and accepted leading practice in agile. And Tuckman's stages of group development proves the need for stable teams, right? But what if that's not correct? Doc posits that Tuckman's is actually a disproven theory that none-the-less mysteriously persists. What if, by stabilizing teams, we solved a completely different problem? And what if by de-stabilizing teams we could better solve other problems?
 
@@ -496,13 +496,13 @@
   time: 2018-11-19 15:10
   room: Cryogenic Chamber
   authors:
-  - name: Bengt Rutisson
-    twitter:
-    github:
-    website:
+    - name: Bengt Rutisson
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/7I1O6q5D5Zw
+    - https://youtu.be/7I1O6q5D5Zw
   description: |-
     In this talk, you will learn about the surprises that an experienced JVM engineer gets when doing Java development in the wild. Bengt worked for 10 years with the Java platform specialising in garbage collection implementations inside the JVM. He worked with both the JRockit and HotSpot Java virtual machines and has built JVMs for JDK 6, JDK 7, JDK 8 and JDK 9. Two years ago he moved over to using the Java platform as a developer by joining the software team at Looklet. There are many assumptions you make as a JVM engineer that turn out to be quite wrong when you end up being a user of the platform rather than a developer of the platform. And there are many things you never even thought about as a JVM developer.
 
@@ -512,13 +512,13 @@
   time: 2018-11-19 15:10
   room: Epigenetic Gardens
   authors:
-  - name: Anjana Vakil
-    twitter:
-    github:
-    website:
+    - name: Anjana Vakil
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/qMdxExJCD5s
+    - https://youtu.be/qMdxExJCD5s
   description: |-
     This talk is a historical & philosophical journey deep into the heart of darkness, er, object-oriented programming (OOP). Join me as I have my world shaken by the discovery that objects & classes aren't OOP's most important concepts: messages & late binding are. We'll try to peek inside the heads of Alan Kay & other OOP founders as they created languages like Smalltalk, and find that those "old" ideas seem strikingly relevant today. Our jaws may drop as we realize that OOP & functional programming aren't as different as we may have thought and that the 1st OO language wasn't created in the 60's or 70's, but much, much earlier… What awaits us at the end of this journey? At worst, we'll undergo a brief crisis of faith in everything we ever thought we knew about programming. (A support group will meet after the conference.) At best, we'll shift the way we view this near-ubiquitous but oft-misunderstood paradigm, and walk away with new insights for how we architect & understand our code.
 
@@ -528,10 +528,10 @@
   time: 2018-11-19 15:10
   room: Neosense Beach
   authors:
-  - name: Kamil Szymański
-    twitter:
-    github:
-    website:
+    - name: Kamil Szymański
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -543,13 +543,13 @@
   time: 2018-11-19 15:10
   room: Nootropic Market
   authors:
-  - name: Filip Ekberg
-    twitter:
-    github:
-    website:
+    - name: Filip Ekberg
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/1TOHgeUdjRw
+    - https://youtu.be/1TOHgeUdjRw
   description: |-
     One of the most popular programming language on the market is getting even better. With every iteration of C# we get more and more features that are meant to make our lives as developers a lot easier. Join me in this session to explore what's new in C# 8, as well as what we can expect in the near (and far) future of C#! We'll talk about: - News in C# 8 - Pattern Matching (incl. Record Types) - Nullable Reference Types and How to Avoid Null Reference Exceptions - How Async & Await is Improving
 
@@ -559,10 +559,10 @@
   time: 2018-11-19 15:10
   room: Senescence Forest
   authors:
-  - name: Jason Gorman
-    twitter:
-    github:
-    website:
+    - name: Jason Gorman
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -574,10 +574,10 @@
   time: 2018-11-19 16:10
   room: Bionic Square
   authors:
-  - name: Az Balabanian
-    twitter:
-    github:
-    website:
+    - name: Az Balabanian
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -589,13 +589,13 @@
   time: 2018-11-19 16:10
   room: CRISPR Corner
   authors:
-  - name: Burr Sutter
-    twitter:
-    github:
-    website:
+    - name: Burr Sutter
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/0tixf7ws0sE
+    - https://youtu.be/0tixf7ws0sE
   description: |-
     We will be live demo’ing, the Istio Service Mesh on top of Kubernetes/OpenShift. Key use cases include easy distributed tracing via Jaeger, clever canary deployment scenarios, circuit breakers, network chaos injection and the beauty of the dark launch. How do you achieve the velocity of many deploys per day? Small batch sizes, well-architected Java apps and the capabilities of a service mesh, taking your Linux container, Kubernetes & microservice capabilities to the next level. In this session, you will witness several of the new superpowers of Istio on Kubernetes and OpenShift. Things like distributed tracing (Jaeger) and metrics, clever canary deployments, chaos injection, circuit breakers and the dark launch.
 
@@ -605,13 +605,13 @@
   time: 2018-11-19 16:10
   room: Cryogenic Chamber
   authors:
-  - name: Steve Klabnik
-    twitter:
-    github:
-    website:
+    - name: Steve Klabnik
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/78cwd_7Rgx4
+    - https://youtu.be/78cwd_7Rgx4
   description: |-
     Rust is known for having a very strict compiler that checks many things in your code. But when problems are inevitably found, how does the compiler communicate them to the user? In this talk, Steve will give a deep dive into the compiler, showing the work needed to produce excellent compiler errors.
 
@@ -621,13 +621,13 @@
   time: 2018-11-19 16:10
   room: Epigenetic Gardens
   authors:
-  - name: Gleb Bahmutov
-    twitter:
-    github:
-    website:
+    - name: Gleb Bahmutov
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/b1Vp5ncwrJU
+    - https://youtu.be/b1Vp5ncwrJU
   description: |-
     What is the smallest and purest front-end framework out there? Did someone say Elm? I said smallest! The answer is Hyperapp - a really tiny, Elm-inspired pure functional web framework that combines the best features of today's hottest frameworks. It has built-in state management, pure functions, virtual DOM and still is easy to learn in a few minutes. Come to this session to learn how Hyperapp allows one to build a complete web application from small pure parts that are easy to code, simple to understand and convenient to test.
 
@@ -637,10 +637,10 @@
   time: 2018-11-19 16:10
   room: Neosense Beach
   authors:
-  - name: Rahul Muttineni
-    twitter:
-    github:
-    website:
+    - name: Rahul Muttineni
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -652,13 +652,13 @@
   time: 2018-11-19 16:10
   room: Nootropic Market
   authors:
-  - name: Julie Lerman
-    twitter:
-    github:
-    website:
+    - name: Julie Lerman
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/9Vp2iXlhK-s
+    - https://youtu.be/9Vp2iXlhK-s
   description: |-
     Entity Framework half-heartedly supported Domain-Driven Design patterns. But the new-from-scratch EF Core has brought new hope for developers to map your well-designed domain classes to a database, reducing the cases where a separate data model is needed. EF Core 2.1 is very DDD friendly, even supporting things like fully encapsulated collections, backing fields and the return of support for value objects. In this session, we'll review some well-designed aggregates and explore how far EF Core 2.1 goes to act as the mapper between your domain classes and your data store.
 
@@ -668,13 +668,13 @@
   time: 2018-11-19 16:10
   room: Senescence Forest
   authors:
-  - name: Woody Zuill
-    twitter:
-    github:
-    website:
+    - name: Woody Zuill
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/Y1u6Hzve6rk
+    - https://youtu.be/Y1u6Hzve6rk
   description: |-
     Many things can hamper the effectiveness of our teams: Too many meetings, technical debt, bugs, multi-tasking, and so on. When we see these problems our first reaction is often to say "We need to fix this stuff". We want things to be better, but just as often our fix introduces its own problem and it's not unusual to see today's "solution" become tomorrows problem. Wouldn't it be nice if these problems would simply "fade away"? While I can't promise you that there is at least one alternative approach which I call "Turn Up The Good". This concept is expressed nicely by Kent Beck in the first edition of the book "Extreme Programming Explained": “When I first articulated XP, I had the mental image of knobs on a control board. Each knob was a practice that from experience I knew worked well. I would turn all the knobs up to 10 and see what happened. ” - Kent Beck The basic idea: Pay attention to what is working nicely and experiment with ways to make it even better, or "Turn It Up". I've noticed several benefits to this approach, and a big one is that as we "turn up the good" on things that are going well, many of the common problems fade away. We'll take a look at examples of how this has worked out in practice, and see how this can be applied in our daily work.
 
@@ -684,10 +684,10 @@
   time: 2018-11-19 17:10
   room: Bionic Square
   authors:
-  - name: Ashic Mahtab
-    twitter:
-    github:
-    website:
+    - name: Ashic Mahtab
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -699,13 +699,13 @@
   time: 2018-11-19 17:10
   room: CRISPR Corner
   authors:
-  - name: Kai Chang
-    twitter:
-    github:
-    website:
+    - name: Kai Chang
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/qVQzSJ19oOw
+    - https://youtu.be/qVQzSJ19oOw
   description: |-
     Learn to draw on the web with HTML5 Canvas and JavaScript. We'll use primitive shapes like rectangles, circles and lines to visualize data and create generative art. We'll get a taste of D3.js to design and animate our graphics. We'll also use D3 for simple mapmaking, learning the basics of spatial visualization and geographic projections.
 
@@ -715,13 +715,13 @@
   time: 2018-11-19 17:10
   room: Cryogenic Chamber
   authors:
-  - name: Dennis Doomen
-    twitter:
-    github:
-    website:
+    - name: Dennis Doomen
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/qaMUYAG4njY
+    - https://youtu.be/qaMUYAG4njY
   description: |-
     In 2009, I first learned about Event Sourcing and Command Query Responsibility Seggregation (CQRS) at a training Greg Young gave in Utrecht, The Netherlands. I remember being awed by the scalability and architectural simplicity those styles provided. However, I also remembered the technical complexity that comes with it. In 2012, I was in charge of transitioning a CQRS-based system to Event Sourcing. I knew it would be non-trivial, but boy was I in for a surprise. So, over the last four years, I've experienced first-hand how a large group of developers had to deal with the transition. It's a brilliant solution for high-performance or complex business systems, but you need to be aware that this also introduces challenges most people don't tell you about. In this talk, I'd like to share you some of the most powerful benefits of ES, but also show you the flipside of the coin and cover some of the smaller and bigger challenges you'll run into it. Again, I love it and would apply it again without any doubt, but I really want you to understand the trade-offs before you jump on the Event Sourcing train.
 
@@ -731,13 +731,13 @@
   time: 2018-11-19 17:10
   room: Epigenetic Gardens
   authors:
-  - name: Chris Dancy
-    twitter:
-    github:
-    website:
+    - name: Chris Dancy
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/-cdreTv9NHk
+    - https://youtu.be/-cdreTv9NHk
   description: |-
     Arthur C Clark stated that “Any sufficiently advanced technology is indistinguishable from magic,” in that way we explore the deep pagan roots built into the everyday technology. From meme magic to technopaganism the rituals, and history of magic and the occult. Have you ever thought about how speaking to AI looks like casting spells, or how we used wizards to install software for years? Have you ever wanted to learn to cast a spell with a password reset? Welcome to the eBook of digital shadows.
 
@@ -747,10 +747,10 @@
   time: 2018-11-19 17:10
   room: Neosense Beach
   authors:
-  - name: Piotr Wittchen
-    twitter:
-    github:
-    website:
+    - name: Piotr Wittchen
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -762,13 +762,13 @@
   time: 2018-11-19 17:10
   room: Nootropic Market
   authors:
-  - name: Matthew Ellis
-    twitter:
-    github:
-    website:
+    - name: Matthew Ellis
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/hVhxqRMpHNE
+    - https://youtu.be/hVhxqRMpHNE
   description: |-
     Performance is a feature. We all want our code to run faster, and there are plenty of ways to do this - caching, using a smarter algorithm or simply doing less stuff. In this session, we’re not going to look at any of that. Instead, we’re going to focus on a recent trend in the C# world - improving performance by reducing memory allocations. We’ll see how recent versions of C# allow using structs without creating lots of copies, and we’ll have a timely reminder on exactly what is the difference between a class and a struct. We’ll also spend some time with the new Span<T> runtime type and find out how that can help work with slices of existing memory, and how it’s already into the types we know and love in the framework. And of course, we’ll take a look at when you should and (more importantly) shouldn’t use these new techniques.
 
@@ -778,13 +778,13 @@
   time: 2018-11-19 17:10
   room: Senescence Forest
   authors:
-  - name: Judy Rees
-    twitter:
-    github:
-    website:
+    - name: Judy Rees
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/T9FJhVhR1cU
+    - https://youtu.be/T9FJhVhR1cU
   description: |-
     You’ve got important stuff to say. But how can you make sure people listen, and understand? What needs to happen for them to pay attention to your message and take the right action? Whether you're communicating with executives, with customers, with colleagues or with others people, you need to to be heard and understood above the constant buzz of everyday distractions. Here’s an approach that works: when they know that you “get” them, they’ll be more open to hearing you. Then, they’re much more likely to “get it”.
 
@@ -794,13 +794,13 @@
   time: 2018-11-19 18:20
   room: Epigenetic Gardens
   authors:
-  - name: Niall Merrigan
-    twitter:
-    github:
-    website:
+    - name: Niall Merrigan
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/L-U2cmz_SV4
+    - https://youtu.be/L-U2cmz_SV4
   description: |-
     The future is now. Implants the size of a grain of rice are being used by people to open doors, hold payment information and where a handshake can literally exchange digital business cards. We are also seeing major advances in medical tech with new smaller hearing aids with Wi-Fi, AR/VR to help the visually impaired and even Wi-Fi enabled hearts. We now need to look at the connected human and see how the threat landscape is changing. Soon it may be possible for you to get a computer virus.
 
@@ -810,13 +810,13 @@
   time: 2018-11-20 09:00
   room: Epigenetic Gardens
   authors:
-  - name: Chris Dancy
-    twitter:
-    github:
-    website:
+    - name: Chris Dancy
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/OOOTqFwmzTo
+    - https://youtu.be/OOOTqFwmzTo
   description: |-
     What if we designed applications that worry less about "where you are" and more about "how you are?" The internet has been engineered to steal our attention and take us away from our present moment. Where does Buddhism meet technology and how can we reclaim our sense of safety in ephemeral society. In this session, we will discover the five ways we can filter information and the three keys that will help us return that as wisdom to consumers. How to design software and services to support a gentler kinder world.
 
@@ -826,10 +826,10 @@
   time: 2018-11-20 10:30
   room: Bionic Square
   authors:
-  - name: Kai Chang
-    twitter:
-    github:
-    website:
+    - name: Kai Chang
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -841,10 +841,10 @@
   time: 2018-11-20 10:30
   room: CRISPR Corner
   authors:
-  - name: Burr Sutter
-    twitter:
-    github:
-    website:
+    - name: Burr Sutter
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -856,13 +856,13 @@
   time: 2018-11-20 10:30
   room: Cryogenic Chamber
   authors:
-  - name: Johan Andrén
-    twitter:
-    github:
-    website:
+    - name: Johan Andrén
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/L26kGCBHcsw
+    - https://youtu.be/L26kGCBHcsw
   description: |-
     Akka is the leading actor model implementation for Java and Scala. The actor model is a single abstraction that allows you to build both concurrent and distributed, message-driven systems more easily. In this talks, we will introduce the latest feature of Akka, Akka Typed, a new fully typesafe API to the actor model to increase productivity and detect bugs at compile time instead of you in a production environment.
 
@@ -872,10 +872,10 @@
   time: 2018-11-20 10:30
   room: Epigenetic Gardens
   authors:
-  - name: Niall Merrigan
-    twitter:
-    github:
-    website:
+    - name: Niall Merrigan
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -887,10 +887,10 @@
   time: 2018-11-20 10:30
   room: Neosense Beach
   authors:
-  - name: Emanuil Slavov
-    twitter:
-    github:
-    website:
+    - name: Emanuil Slavov
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -902,13 +902,13 @@
   time: 2018-11-20 10:30
   room: Nootropic Market
   authors:
-  - name: Rabeb Othmani
-    twitter:
-    github:
-    website:
+    - name: Rabeb Othmani
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/-f0r63Gdw6s
+    - https://youtu.be/-f0r63Gdw6s
   description: |-
     If there's one challenge with bots, that has to be how effortless and smooth the interaction between the user and the bot has to be. The user shouldn't even feel like conversing with a program. That's why thinking about how to handle the conversation flow when building bots is an essential task for developers. In this talk, we will go through how to manage the conversation flow with Microsoft Bot Framework and dialogs. We will tackle some scenarios like prompt input, validate input, multiple dialogs, handling the context etc.
 
@@ -918,13 +918,13 @@
   time: 2018-11-20 10:30
   room: Senescence Forest
   authors:
-  - name: Lisette Sutherland
-    twitter:
-    github:
-    website:
+    - name: Lisette Sutherland
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/W-xDkEnoFZ4
+    - https://youtu.be/W-xDkEnoFZ4
   description: |-
     Sometimes managers won’t allow remote working because they fear the lack of control. Sometimes managers force teams to start working together remotely and then teams face a sink or swim scenario. Managing remotely is different than managing in person. In this talk, we will discuss what it takes to be a successful remote team manager and how to use remote working to your company’s advantage.
 
@@ -934,10 +934,10 @@
   time: 2018-11-20 11:30
   room: Bionic Square
   authors:
-  - name: Katrina Clokie
-    twitter:
-    github:
-    website:
+    - name: Katrina Clokie
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -949,10 +949,10 @@
   time: 2018-11-20 11:30
   room: CRISPR Corner
   authors:
-  - name: Andrew Betts
-    twitter:
-    github:
-    website:
+    - name: Andrew Betts
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -964,10 +964,10 @@
   time: 2018-11-20 11:30
   room: Cryogenic Chamber
   authors:
-  - name: Adam Tornhill
-    twitter:
-    github:
-    website:
+    - name: Adam Tornhill
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -979,10 +979,10 @@
   time: 2018-11-20 11:30
   room: Epigenetic Gardens
   authors:
-  - name: Rachel Andrew
-    twitter:
-    github:
-    website:
+    - name: Rachel Andrew
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -994,10 +994,10 @@
   time: 2018-11-20 11:30
   room: Neosense Beach
   authors:
-  - name: Alex Lockwood
-    twitter:
-    github:
-    website:
+    - name: Alex Lockwood
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1009,13 +1009,13 @@
   time: 2018-11-20 11:30
   room: Nootropic Market
   authors:
-  - name: Barry Dorrans
-    twitter:
-    github:
-    website:
+    - name: Barry Dorrans
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/W6-OK2v94rU
+    - https://youtu.be/W6-OK2v94rU
   description: |-
     This session will cover security in ASP.NET Core, from 1.0 all the way through to the brand new 2.1.
 
@@ -1025,13 +1025,13 @@
   time: 2018-11-20 11:30
   room: Senescence Forest
   authors:
-  - name: Judy Rees
-    twitter:
-    github:
-    website:
+    - name: Judy Rees
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/qLDc0Yk-vkw
+    - https://youtu.be/qLDc0Yk-vkw
   description: |-
     What makes remote meetings, workshops and training so difficult? As I've been teaching great in-the-room trainers, facilitators and coaches to do their thing remotely, it struck me that we can boil it down to three big challenges, the 3 Difficult-Ds: - Distraction - Discomfort - Disconnection (both literal and metaphorical) To make our remote meetings and events brilliant, we need to tackle these. And with a little effort, it really is possible! In this highly-interactive session I’ll share top tips, and aim to crowdsource new ideas from you. This session will complement both Lisette Sutherland's sessions, but can also stand alone.
 
@@ -1041,10 +1041,10 @@
   time: 2018-11-20 12:50
   room: Bionic Square
   authors:
-  - name: Huyen Dao
-    twitter:
-    github:
-    website:
+    - name: Huyen Dao
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1056,13 +1056,13 @@
   time: 2018-11-20 12:50
   room: CRISPR Corner
   authors:
-  - name: Erik Nordström
-    twitter:
-    github:
-    website:
+    - name: Erik Nordström
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/JVv65FkHcLY
+    - https://youtu.be/JVv65FkHcLY
   description: |-
     Time-series data is now everywhere and increasingly used to power core applications. It also creates a number of technical challenges: to ingest high volumes of data; to ask complex, queries for recent and historical time intervals; to perform time-centric analysis and data management. And this data doesn’t exist in isolation: entries are often joined against other relational data to ask key business questions. In this talk, I offer an overview of how we developed TimescaleDB, a new open-source database designed for time series workloads, engineered up as a plugin to PostgreSQL, in order to simplify time-series application development. Unlike most time-series newcomers, TimescaleDB supports full SQL while achieving fast ingest and complex queries. This enables developers to avoid today’s polyglot architectures and their corresponding operational and application complexity.
 
@@ -1072,13 +1072,13 @@
   time: 2018-11-20 12:50
   room: Cryogenic Chamber
   authors:
-  - name: Peter Neubauer
-    twitter:
-    github:
-    website:
+    - name: Peter Neubauer
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/BTRxX2Thie0
+    - https://youtu.be/BTRxX2Thie0
   description: |-
     We will look at how our team is describing services, dependencies on other services and service providers. From that, we generate valid docker setup scenarios and docker images that we use both to deploy to production and to set up individual testing environments for the developers for testing even complex event-source based scenarios with repeatable results and reliable startup order for the different docker containers in a system.
 
@@ -1088,10 +1088,10 @@
   time: 2018-11-20 12:50
   room: Epigenetic Gardens
   authors:
-  - name: Gleb Bahmutov
-    twitter:
-    github:
-    website:
+    - name: Gleb Bahmutov
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1103,10 +1103,10 @@
   time: 2018-11-20 12:50
   room: Neosense Beach
   authors:
-  - name: Enno Runne
-    twitter:
-    github:
-    website:
+    - name: Enno Runne
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1118,13 +1118,13 @@
   time: 2018-11-20 12:50
   room: Nootropic Market
   authors:
-  - name: Nick Tune
-    twitter:
-    github:
-    website:
+    - name: Nick Tune
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/Pmz3FXu-Dzk
+    - https://youtu.be/Pmz3FXu-Dzk
   description: |-
     Model the wrong boundaries, and disaster is just around the corner waiting to tease your sanity. An excess of dependencies between modules will result in changes rippling across a fragile codebase at compile time, and that same web of dependencies means even just a small runtime error in one module has the potential bring the entire system crashing down. Modelling the wrong boundaries will test the patience of your teams as well. Every piece of work will require expensive coordination with many other teams who all have different priorities and political agendas. In this talk, you’ll learn practical techniques for identifying effective modules in your software systems and enabling autonomous teams in your organisation, and you’ll see modelling patterns based on real-world examples from a variety of domains. Along the way, you’ll learn about the theoretical concepts underpinning the techniques, touching on DDD, Systems Thinking, Promise Theory, Theory of Constraints, and more.
 
@@ -1134,13 +1134,13 @@
   time: 2018-11-20 12:50
   room: Senescence Forest
   authors:
-  - name: Doc Norton
-    twitter:
-    github:
-    website:
+    - name: Doc Norton
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/o-Rv8UNUVxA
+    - https://youtu.be/o-Rv8UNUVxA
   description: |-
     If your team uses velocity for planning but you don't find it very useful, this session is for you. If your manager or scrum master or other pseudo-authority figure keeps obsessing over your velocity, this session is for you. If you want to know about better ways to forecast when a piece of work will be done or how to gather data that actually helps your team, this session is for you. Doc Norton shares stories and science detailing why velocity isn't a very good metric, talks about some common velocity anti-patterns, and shares what metrics you could use instead. You'll be able to better forecast when work will be done and you'll be better able to diagnose issues with your process and work toward correcting them.
 
@@ -1150,10 +1150,10 @@
   time: 2018-11-20 13:50
   room: Bionic Square
   authors:
-  - name: Christian Runnevik
-    twitter:
-    github:
-    website:
+    - name: Christian Runnevik
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1165,13 +1165,13 @@
   time: 2018-11-20 13:50
   room: CRISPR Corner
   authors:
-  - name: Christoffer Noring
-    twitter:
-    github:
-    website:
+    - name: Christoffer Noring
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/wv09zxowApE
+    - https://youtu.be/wv09zxowApE
   description: |-
     Vue.js is the latest major SPA framework that has grown in popularity immensely, becoming a legitimate competitor to React and Angular. In part, this is because it combines—according to many—the best of both worlds. Simplicity is another key characteristic of Vue.js, manifesting itself not only in its excellent documentation and the possibility to start off with a simple script tag but also through the superb Vue-CLI that helps you structure and scale your projects. Apart from the fundamentals of the framework, such as components, directives, routing, and testing, we will dive into centralised state management in the form of Vuex.
 
@@ -1181,13 +1181,13 @@
   time: 2018-11-20 13:50
   room: Cryogenic Chamber
   authors:
-  - name: Kevin Most
-    twitter:
-    github:
-    website:
+    - name: Kevin Most
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/YydqalTh6NI
+    - https://youtu.be/YydqalTh6NI
   description: |-
     Kotlin's most valuable feature is arguably its 100% Java interop, which not only lowers the barrier to entry for its use in existing projects but gives it access to Java's rich ecosystem of libraries too. However, calling clean Java code from Kotlin, and calling clean Kotlin code from Java, is not always so clean. We will discuss strategies and tools that enable you to write code in either language that is clean, safe, and idiomatic whether it's being called from Java or from Kotlin. Kotlin has been embracing multiplatform as of late, as well; aside from targeting JS and Native, Kotlin allows targeting "common", where all of your code is written against a purely Kotlin stdlib, and can then be consumed by modules that target any platform. We will touch on the interop stories on these platforms, and how those of us who are likely using Kotlin on the JVM today can adapt and prepare our code to be idiomatic no matter where it may run in the future.
 
@@ -1197,10 +1197,10 @@
   time: 2018-11-20 13:50
   room: Epigenetic Gardens
   authors:
-  - name: Frans Rosén
-    twitter:
-    github:
-    website:
+    - name: Frans Rosén
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1212,10 +1212,10 @@
   time: 2018-11-20 13:50
   room: Neosense Beach
   authors:
-  - name: Andras Velvart
-    twitter:
-    github:
-    website:
+    - name: Andras Velvart
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1227,13 +1227,13 @@
   time: 2018-11-20 13:50
   room: Nootropic Market
   authors:
-  - name: Jon Skeet
-    twitter:
-    github:
-    website:
+    - name: Jon Skeet
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/0mGeDEMe3Jc
+    - https://youtu.be/0mGeDEMe3Jc
   description: |-
     Working with date and time data doesn't need to be scary. Many developers know that time zones can be complicated, and go no further than that. You can do better! This talk will provide you with a framework to think about the different kinds of date/time data when you should record what information, and what challenges still lurk. I'll talk about the BCL types (System.DateTime and DateTimeOffset) as well as the Noda Time project I created to make life better for .NET developers. While many of the examples will be given in Noda Time, the same principles can be applied to the BCL types if you can't use Noda Time - it just won't be quite as simple. Confront your fear, and all will be well! (It won't be *easy* necessarily, but it'll at least be *feasible*.)
 
@@ -1243,13 +1243,13 @@
   time: 2018-11-20 13:50
   room: Senescence Forest
   authors:
-  - name: Juha Rouvinen
-    twitter:
-    github:
-    website:
+    - name: Juha Rouvinen
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/-HK71AXu9z4
+    - https://youtu.be/-HK71AXu9z4
   description: |-
     Our job is to solve problems. The complexity of the problems takes us on the verge of chaos. We have learned to embrace the constant flux of problems through methods such as lean, agile and design thinking. These methods create order and give us a sense of control but they keep us separated. In terms of collaboration, we have come a long way from the times of BDUF. But even with design systems and the emerging DesignOps movement improving the workflow efficiency, our domains are still exclusive. This talk proposes an interpretation of design as a universal problem-solving skill which works best through equality and inclusion. This talk is intended to inspire developers to become responsive towards collaborative problem-solving. I believe we are all designers and we become better at problem-solving together. By the end of this talk so will you.
 
@@ -1259,10 +1259,10 @@
   time: 2018-11-20 15:10
   room: Bionic Square
   authors:
-  - name: Stephen Haunts
-    twitter:
-    github:
-    website:
+    - name: Stephen Haunts
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1274,13 +1274,13 @@
   time: 2018-11-20 15:10
   room: CRISPR Corner
   authors:
-  - name: Ashic Mahtab
-    twitter:
-    github:
-    website:
+    - name: Ashic Mahtab
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/tD7QLcxH4FE
+    - https://youtu.be/tD7QLcxH4FE
   description: |-
     Clustering is a form of unsupervised machine learning that attempts to group together similar things. It has many applications, one of which is finding anomalies in unlabelled data. One of the practical applications of this is identifying fraudulent behaviour. The most common algorithm for clustering is K-means. However, K-means only works with regularly shaped clusters, computation can be expensive for large datasets, and it is quite sensitive to outliers. Other algorithms for clustering exist, such as the BFR algorithm and the CURE algorithm that can tackle some of these problems. In this session, we will start off by looking at K-means clustering, and then we will see how BFR and CURE can solve some of its problems. We will also discuss how these techniques helped in implementing a streaming fraud detection solution for an FX client. We will see how we went from simple query based processing to complex models that led to better insight, which in turn led to a simpler system.
 
@@ -1290,13 +1290,13 @@
   time: 2018-11-20 15:10
   room: Cryogenic Chamber
   authors:
-  - name: Taylor Ling
-    twitter:
-    github:
-    website:
+    - name: Taylor Ling
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/5yBVsRgMUiE
+    - https://youtu.be/5yBVsRgMUiE
   description: |-
     The talk is about all the tooling used by the speaker in designing UI and Interactions at Fabulous, and how the handover happens between the design and dev team to ensure top quality app implementation. It also discusses some of the common obstacles in efficient communication between designers and developers, and how to address them. Its goal is to share with developers how a designer typically works, and what are some of the tools that can help improve the communication between designers and developers.
 
@@ -1306,10 +1306,10 @@
   time: 2018-11-20 15:10
   room: Epigenetic Gardens
   authors:
-  - name: Gary Fleming
-    twitter:
-    github:
-    website:
+    - name: Gary Fleming
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1321,10 +1321,10 @@
   time: 2018-11-20 15:10
   room: Neosense Beach
   authors:
-  - name: Erik Hellman
-    twitter:
-    github:
-    website:
+    - name: Erik Hellman
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1336,13 +1336,13 @@
   time: 2018-11-20 15:10
   room: Nootropic Market
   authors:
-  - name: Barry Dorrans
-    twitter:
-    github:
-    website:
+    - name: Barry Dorrans
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/zLqbIfnigoI
+    - https://youtu.be/zLqbIfnigoI
   description: |-
     In this session, we dive into a couple of .NET core cases that have been reported to the Microsoft Security Response Center (MSRC). Mind you; these vulnerabilities are not just framework vulnerabilities. Instead, they are coding patterns that you may have introduced in your applications. Examples are issues with hash tables, compression, encryption, regular expressions and more. In this session, you will learn how to spot these vulnerabilities in your code. On top of that, you will walk away with the skills to fix them.
 
@@ -1352,13 +1352,13 @@
   time: 2018-11-20 15:10
   room: Senescence Forest
   authors:
-  - name: Karl Scotland
-    twitter:
-    github:
-    website:
+    - name: Karl Scotland
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/4dxWe1t2GyQ
+    - https://youtu.be/4dxWe1t2GyQ
   description: |-
     Learning is a key part of both Lean and Agile. Learning about customer needs and how to most effectively meet those needs. But as well as learning how to solve today's problems, we need to be able to solve tomorrow's problems, and next weeks, and next years. We need to learn how to learn. This talk will describe how Strategy Deployment can be used to lead lasting learning, with some tools and techniques that can help achieve that goal.
 
@@ -1368,10 +1368,10 @@
   time: 2018-11-20 16:10
   room: Bionic Square
   authors:
-  - name: Øredev Øredevsson
-    twitter:
-    github:
-    website:
+    - name: Øredev Øredevsson
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1383,13 +1383,13 @@
   time: 2018-11-20 16:10
   room: CRISPR Corner
   authors:
-  - name: Yonatan Mevorach
-    twitter:
-    github:
-    website:
+    - name: Yonatan Mevorach
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/9niUVAmhkMw
+    - https://youtu.be/9niUVAmhkMw
   description: |-
     In this talk, we'll see what problems we can fix (or better yet, avoid) by combining two things developers love: Chrome DevTools and automating repetitive tasks. To do this, we'll use a new capability introduced in Chrome 59: running Chrome in "Headless Mode". First off, we'll show the powers of each of these tools separately. We'll use DevTools to debug other platforms like node.js, and we'll use Chrome in Headless Mode to run tests, take screenshots, and to scrape sites for data. Then, we'll explore how by combining the two you can perform any DevTools action from code. Using this approach you can have DevTools work for you around-the-clock and monitor everything about your app (amount of unused CSS\JS, memory footprint, etc.). After attending this talk prepare to never say "Sorry I can't automate this" ever again.
 
@@ -1399,13 +1399,13 @@
   time: 2018-11-20 16:10
   room: Cryogenic Chamber
   authors:
-  - name: Kris Jenkins
-    twitter:
-    github:
-    website:
+    - name: Kris Jenkins
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/R2afqbzWDiU
+    - https://youtu.be/R2afqbzWDiU
   description: |-
     Modern type systems have come a long way from the days of C and Java. Far from being nit-pickers that berate us for making mistakes, type systems like the ones found in Haskell, PureScript and Elm form a language in themselves. A language for expressing high-level ideas about our software to our colleagues and to the computer. A design language. In this talk, we'll take a look at the way the right kind of type signatures let us talk about software. We'll survey how to state our assumptions about the domain we're coding in and how each part fits together. We'll show how it can highlight problems, and surface opportunities for reuse. And most importantly, we'll see how types can help you communicate to your coworkers, and to future maintainers, with little effort. You've probably heard the phrase, "programs are meant to be read by humans and only incidentally for computers to execute." Come and see how a modern type system is about communicating ideas to humans, and only incidentally about proving correctness.
 
@@ -1415,10 +1415,10 @@
   time: 2018-11-20 16:10
   room: Epigenetic Gardens
   authors:
-  - name: Adam Ralph
-    twitter:
-    github:
-    website:
+    - name: Adam Ralph
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1430,10 +1430,10 @@
   time: 2018-11-20 16:10
   room: Neosense Beach
   authors:
-  - name: Jyothsna Patnam
-    twitter:
-    github:
-    website:
+    - name: Jyothsna Patnam
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1445,13 +1445,13 @@
   time: 2018-11-20 16:10
   room: Nootropic Market
   authors:
-  - name: Julie Lerman
-    twitter:
-    github:
-    website:
+    - name: Julie Lerman
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/fp9bB3L5utM
+    - https://youtu.be/fp9bB3L5utM
   description: |-
     Azure Functions, Microsoft’s serverless offering, allow developers to focus on their code and not be concerned with infrastructure or DevOps. And thanks to a slew of built-in integrations, it's also easy to have your functions get and send data to various services or even be triggered by events in those services. One such integration is with Azure Cosmos DB, the multi-model, globally distributed NoSQL data service. Cosmos DB exposes data as documents that you can access via SQL, JavaScript MongoDB or Cassandra as well as graph and key-value store. In this session, you'll see how easily you can build an API from a set of Azure Functions that interact with Cosmos DB documents and some other services. We’ll go all cross-platform with Visual Studio Code and Node JS.
 
@@ -1461,13 +1461,13 @@
   time: 2018-11-20 16:10
   room: Senescence Forest
   authors:
-  - name: Nivia Henry
-    twitter:
-    github:
-    website:
+    - name: Nivia Henry
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/zOZE6qLnXSo
+    - https://youtu.be/zOZE6qLnXSo
   description: |-
     What if the code you’ve written accidentally excluded 25% of its users? Or what if it only worked 50% of the time for some people? These are the possible effects when we do not account for the diverse set of users when we are writing AI, ML and NLP code. While some effects may be comically embarrassing - like a smart speaker not accounting for the US’ southern accents; others can be deeply unfair to large groups of your users. Come with me on a journey to explore the importance of knowing your users, and building inclusive apps for a better world!
 
@@ -1477,10 +1477,10 @@
   time: 2018-11-20 17:10
   room: Bionic Square
   authors:
-  - name: Liviu Babitz
-    twitter:
-    github:
-    website:
+    - name: Liviu Babitz
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1492,13 +1492,13 @@
   time: 2018-11-20 17:10
   room: CRISPR Corner
   authors:
-  - name: Bartosz Milewski
-    twitter:
-    github:
-    website:
+    - name: Bartosz Milewski
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/cvjOESfPoVg
+    - https://youtu.be/cvjOESfPoVg
   description: |-
     As programs are getting more complex, it's time to go back to basics, to the old well tested approach to complexity called mathematics. Let compilers deal with the intricacies of Turing machines. Our strength is abstract thinking. Let's use it!
 
@@ -1508,10 +1508,10 @@
   time: 2018-11-20 17:10
   room: Cryogenic Chamber
   authors:
-  - name: Ray Kawalec
-    twitter:
-    github:
-    website:
+    - name: Ray Kawalec
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1523,10 +1523,10 @@
   time: 2018-11-20 17:10
   room: Epigenetic Gardens
   authors:
-  - name: Ire Aderinokun
-    twitter:
-    github:
-    website:
+    - name: Ire Aderinokun
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1538,10 +1538,10 @@
   time: 2018-11-20 17:10
   room: Neosense Beach
   authors:
-  - name: Hans Boef
-    twitter:
-    github:
-    website:
+    - name: Hans Boef
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1553,13 +1553,13 @@
   time: 2018-11-20 17:10
   room: Nootropic Market
   authors:
-  - name: Anna Kamieniak
-    twitter:
-    github:
-    website:
+    - name: Anna Kamieniak
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/p_l8X2BYD48
+    - https://youtu.be/p_l8X2BYD48
   description: |-
     Google defined a design system that went viral — far further than just Android apps. We will go through some weak and strong points of the material design system with considerations for the human mind and perception. We will also check the latest updates in the most popular design system ever. The change is vast and affords designers and developers much more freedom that can improve your app significantly.
 
@@ -1569,10 +1569,10 @@
   time: 2018-11-20 17:10
   room: Senescence Forest
   authors:
-  - name: Jason Gorman
-    twitter:
-    github:
-    website:
+    - name: Jason Gorman
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1584,13 +1584,13 @@
   time: 2018-11-20 18:20
   room: Epigenetic Gardens
   authors:
-  - name: Alex Pearlman
-    twitter:
-    github:
-    website:
+    - name: Alex Pearlman
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/3r8P1UolM14
+    - https://youtu.be/3r8P1UolM14
   description: |-
     Before we start using technologies like CRISPR on a large scale both for germline and somatic genetic engineering, we need to consider questions such as who is able to access these technologies, who gets to make those decisions, and how they will be implemented. It is vital to discuss how we go forward into a world where humans regularly use these formidable technologies, whether we need to differentiate between therapeutic use and enhancement, and — most importantly — how to make them accessible to anyone who wants to use them.
 
@@ -1600,13 +1600,13 @@
   time: 2018-11-20 20:00
   room: Epigenetic Gardens
   authors:
-  - name: Moon Ribas
-    twitter:
-    github:
-    website:
+    - name: Moon Ribas
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/v4Lp0WbPieM
+    - https://youtu.be/v4Lp0WbPieM
   description: |-
     This talk goes into detail about the projects of Moon Ribas, her philosophy as a cyborg artist and the process that drove her to cofound the Cyborg Foundation. Ribas has a sensory extension on her arm that allows her to feel earthquakes through small vibrations, she applies this new sense to her artistic work. Her talk is about the union between our species and technology, the extension of the human senses through cybernetics, using the internet as a sense and cyborg art. The talk will also explore how becoming a cyborg will enhance our relationship with animals, nature and space.
 
@@ -1616,13 +1616,13 @@
   time: 2018-11-21 09:00
   room: Epigenetic Gardens
   authors:
-  - name: Jeff Gothelf
-    twitter:
-    github:
-    website:
+    - name: Jeff Gothelf
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/hKQKSAM1M8Q
+    - https://youtu.be/hKQKSAM1M8Q
   description: |-
     The definition of done for software has been focused on whether or not the software works as it was designed. This was relevant in a world of static software. Today, software is continuous. In this reality what really starts to matter is what our users are doing with that software. The same software can be used for sharing baby pictures and instigating a mob of Twitter trolls. The systems we create generate outcomes - changes in user behavior. The modern, continuous nature of software allows us to build learning loops and determine if what we’re doing is generating the outcomes we expect. In this talk, Jeff will cover how technology can enable tremendous gains but, when coupled with the uncertainty of human behavior, can often go awry. How can we ensure we’re working on products that actually make our users more successful? And how do we inspire a new generation of designers and developers to consider a new definition of “done” -- one focused on positively impacting customer behaviors.
 
@@ -1632,10 +1632,10 @@
   time: 2018-11-21 10:30
   room: Bionic Square
   authors:
-  - name: Mark Hrynczak
-    twitter:
-    github:
-    website:
+    - name: Mark Hrynczak
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1647,10 +1647,10 @@
   time: 2018-11-21 10:30
   room: CRISPR Corner
   authors:
-  - name: Steve Klabnik
-    twitter:
-    github:
-    website:
+    - name: Steve Klabnik
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1662,10 +1662,10 @@
   time: 2018-11-21 10:30
   room: Cryogenic Chamber
   authors:
-  - name: Chris Dancy
-    twitter:
-    github:
-    website:
+    - name: Chris Dancy
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1677,10 +1677,10 @@
   time: 2018-11-21 10:30
   room: Epigenetic Gardens
   authors:
-  - name: Benjamin Stopford
-    twitter:
-    github:
-    website:
+    - name: Benjamin Stopford
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1692,10 +1692,10 @@
   time: 2018-11-21 10:30
   room: Neosense Beach
   authors:
-  - name: Oskar Wickström
-    twitter:
-    github:
-    website:
+    - name: Oskar Wickström
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1707,10 +1707,10 @@
   time: 2018-11-21 10:30
   room: Nootropic Market
   authors:
-  - name: Ana Baotić
-    twitter:
-    github:
-    website:
+    - name: Ana Baotić
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1722,10 +1722,10 @@
   time: 2018-11-21 10:30
   room: Senescence Forest
   authors:
-  - name: Sebastian Daschner
-    twitter:
-    github:
-    website:
+    - name: Sebastian Daschner
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1737,10 +1737,10 @@
   time: 2018-11-21 11:30
   room: Bionic Square
   authors:
-  - name: Erik Hellman
-    twitter:
-    github:
-    website:
+    - name: Erik Hellman
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1752,10 +1752,10 @@
   time: 2018-11-21 11:30
   room: CRISPR Corner
   authors:
-  - name: Sean Grove
-    twitter:
-    github:
-    website:
+    - name: Sean Grove
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1767,10 +1767,10 @@
   time: 2018-11-21 11:30
   room: Cryogenic Chamber
   authors:
-  - name: Chris Dancy
-    twitter:
-    github:
-    website:
+    - name: Chris Dancy
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1782,10 +1782,10 @@
   time: 2018-11-21 11:30
   room: Epigenetic Gardens
   authors:
-  - name: Stéphane Nicoll
-    twitter:
-    github:
-    website:
+    - name: Stéphane Nicoll
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1797,10 +1797,10 @@
   time: 2018-11-21 11:30
   room: Neosense Beach
   authors:
-  - name: Robert Ashton
-    twitter:
-    github:
-    website:
+    - name: Robert Ashton
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1812,10 +1812,10 @@
   time: 2018-11-21 11:30
   room: Nootropic Market
   authors:
-  - name: Gustav Kaleta
-    twitter:
-    github:
-    website:
+    - name: Gustav Kaleta
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1827,10 +1827,10 @@
   time: 2018-11-21 11:30
   room: Senescence Forest
   authors:
-  - name: Imogen Heap
-    twitter:
-    github:
-    website:
+    - name: Imogen Heap
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1842,10 +1842,10 @@
   time: 2018-11-21 12:50
   room: Bionic Square
   authors:
-  - name: Øredev Øredevsson
-    twitter:
-    github:
-    website:
+    - name: Øredev Øredevsson
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1857,10 +1857,10 @@
   time: 2018-11-21 12:50
   room: CRISPR Corner
   authors:
-  - name: Sindre Osen Aarsaether
-    twitter:
-    github:
-    website:
+    - name: Sindre Osen Aarsaether
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1872,10 +1872,10 @@
   time: 2018-11-21 12:50
   room: Cryogenic Chamber
   authors:
-  - name: Simon Harrer
-    twitter:
-    github:
-    website:
+    - name: Simon Harrer
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1887,10 +1887,10 @@
   time: 2018-11-21 12:50
   room: Epigenetic Gardens
   authors:
-  - name: Jonas Bonér
-    twitter:
-    github:
-    website:
+    - name: Jonas Bonér
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1902,10 +1902,10 @@
   time: 2018-11-21 12:50
   room: Neosense Beach
   authors:
-  - name: Katrina Clokie
-    twitter:
-    github:
-    website:
+    - name: Katrina Clokie
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1917,10 +1917,10 @@
   time: 2018-11-21 12:50
   room: Nootropic Market
   authors:
-  - name: Rabeb Othmani
-    twitter:
-    github:
-    website:
+    - name: Rabeb Othmani
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1932,10 +1932,10 @@
   time: 2018-11-21 13:50
   room: Bionic Square
   authors:
-  - name: Kim Hof
-    twitter:
-    github:
-    website:
+    - name: Kim Hof
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1947,10 +1947,10 @@
   time: 2018-11-21 13:50
   room: CRISPR Corner
   authors:
-  - name: Filip Bech-Larsen
-    twitter:
-    github:
-    website:
+    - name: Filip Bech-Larsen
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1962,10 +1962,10 @@
   time: 2018-11-21 13:50
   room: Cryogenic Chamber
   authors:
-  - name: Milen Dyankov
-    twitter:
-    github:
-    website:
+    - name: Milen Dyankov
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1977,10 +1977,10 @@
   time: 2018-11-21 13:50
   room: Epigenetic Gardens
   authors:
-  - name: Peter Yaworski
-    twitter:
-    github:
-    website:
+    - name: Peter Yaworski
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -1992,10 +1992,10 @@
   time: 2018-11-21 13:50
   room: Neosense Beach
   authors:
-  - name: Rafał Legiędź
-    twitter:
-    github:
-    website:
+    - name: Rafał Legiędź
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2007,10 +2007,10 @@
   time: 2018-11-21 13:50
   room: Senescence Forest
   authors:
-  - name: Karl Scotland
-    twitter:
-    github:
-    website:
+    - name: Karl Scotland
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2022,10 +2022,10 @@
   time: 2018-11-21 15:10
   room: Bionic Square
   authors:
-  - name: Pontus Lundin
-    twitter:
-    github:
-    website:
+    - name: Pontus Lundin
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2037,10 +2037,10 @@
   time: 2018-11-21 15:10
   room: CRISPR Corner
   authors:
-  - name: Robert Luciani
-    twitter:
-    github:
-    website:
+    - name: Robert Luciani
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2052,10 +2052,10 @@
   time: 2018-11-21 15:10
   room: Cryogenic Chamber
   authors:
-  - name: Rúnar Bjarnason
-    twitter:
-    github:
-    website:
+    - name: Rúnar Bjarnason
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2067,10 +2067,10 @@
   time: 2018-11-21 15:10
   room: Epigenetic Gardens
   authors:
-  - name: Zoë Rose
-    twitter:
-    github:
-    website:
+    - name: Zoë Rose
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2082,10 +2082,10 @@
   time: 2018-11-21 15:10
   room: Neosense Beach
   authors:
-  - name: Peter Kedemo
-    twitter:
-    github:
-    website:
+    - name: Peter Kedemo
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2097,10 +2097,10 @@
   time: 2018-11-21 15:10
   room: Nootropic Market
   authors:
-  - name: AMahdy Abdelaziz
-    twitter:
-    github:
-    website:
+    - name: AMahdy Abdelaziz
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2112,10 +2112,10 @@
   time: 2018-11-21 16:10
   room: Bionic Square
   authors:
-  - name: Ali Kheyrollahi
-    twitter:
-    github:
-    website:
+    - name: Ali Kheyrollahi
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2127,10 +2127,10 @@
   time: 2018-11-21 16:10
   room: CRISPR Corner
   authors:
-  - name: Fredrik Larsson
-    twitter:
-    github:
-    website:
+    - name: Fredrik Larsson
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2142,10 +2142,10 @@
   time: 2018-11-21 16:10
   room: Cryogenic Chamber
   authors:
-  - name: Luciano Mammino
-    twitter:
-    github:
-    website:
+    - name: Luciano Mammino
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2157,10 +2157,10 @@
   time: 2018-11-21 16:10
   room: Epigenetic Gardens
   authors:
-  - name: Heinz Kabutz
-    twitter:
-    github:
-    website:
+    - name: Heinz Kabutz
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2172,10 +2172,10 @@
   time: 2018-11-21 16:10
   room: Neosense Beach
   authors:
-  - name: Øredev Øredevsson
-    twitter:
-    github:
-    website:
+    - name: Øredev Øredevsson
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2187,10 +2187,10 @@
   time: 2018-11-21 16:10
   room: Nootropic Market
   authors:
-  - name: Alex Lockwood
-    twitter:
-    github:
-    website:
+    - name: Alex Lockwood
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2202,10 +2202,10 @@
   time: 2018-11-21 16:10
   room: Senescence Forest
   authors:
-  - name: Maxim Salnikov
-    twitter:
-    github:
-    website:
+    - name: Maxim Salnikov
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2217,13 +2217,13 @@
   time: 2018-11-21 17:20
   room: Epigenetic Gardens
   authors:
-  - name: Teemu Arina
-    twitter:
-    github:
-    website:
+    - name: Teemu Arina
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/a8Q_wm1NeRk
+    - https://youtu.be/a8Q_wm1NeRk
   description: |-
     The current hype around wearables, mixed reality, AR/VR and biohacking is a telltale sign of what's to come. The relationships with our tools have defined human progress in the industrial times and have taken industrial production and human productivity into an exponential trajectory. In the process, we have doubled lifespan and moved human jobs to machines. This progress will only accelerate with technological paradigm shifts set forward by artificial intelligence, robotics, synthetic biology and advancements in human-computer interfaces. As humans we are already intricate machines — Constantly updating biological computers adapting to the environment through epigenetic change dictated by signals transmitted through our neural connections, metabolic pathways and gene transcription. In the 5th industrial revolution, biological intelligence will merge with technological intelligence, forming a new entity that is no longer a human nor a machine. In other words, the very tools we have created will help us recreate ourselves as a species. Direct technological augmentation of human capabilities will be the largest shift since the industrial revolution.
 
@@ -2233,10 +2233,10 @@
   time: 2018-11-22 09:00
   room: Bionic Square
   authors:
-  - name: Maxim Salnikov
-    twitter:
-    github:
-    website:
+    - name: Maxim Salnikov
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2248,10 +2248,10 @@
   time: 2018-11-22 09:00
   room: CRISPR Corner
   authors:
-  - name: Richard Feldman
-    twitter:
-    github:
-    website:
+    - name: Richard Feldman
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2263,10 +2263,10 @@
   time: 2018-11-22 09:00
   room: Cryogenic Chamber
   authors:
-  - name: Linus Kvarnhammar
-    twitter:
-    github:
-    website:
+    - name: Linus Kvarnhammar
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2278,10 +2278,10 @@
   time: 2018-11-22 09:00
   room: Epigenetic Gardens
   authors:
-  - name: Jason Gorman
-    twitter:
-    github:
-    website:
+    - name: Jason Gorman
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2293,10 +2293,10 @@
   time: 2018-11-22 09:00
   room: Neosense Beach
   authors:
-  - name: Taylor Ling
-    twitter:
-    github:
-    website:
+    - name: Taylor Ling
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2308,10 +2308,10 @@
   time: 2018-11-22 09:00
   room: Nootropic Market
   authors:
-  - name: Heinz Kabutz
-    twitter:
-    github:
-    website:
+    - name: Heinz Kabutz
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -2323,10 +2323,10 @@
   time: 2018-11-22 09:00
   room: Senescence Forest
   authors:
-  - name: Lisette Sutherland
-    twitter:
-    github:
-    website:
+    - name: Lisette Sutherland
+      twitter:
+      github:
+      website:
   slides:
   videos:
   description: |-

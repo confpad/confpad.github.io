@@ -4,13 +4,13 @@
   time: 2018-09-03 09:30 # or just 2018-09-03 is ok
   room: # Room number or room name
   authors:
-  - name: John Doe
-    twitter: johndoe
-    github: johndoe
-    website: https://www.johndoe.io/
+    - name: John Doe
+      twitter: johndoe
+      github: johndoe
+      website: https://www.johndoe.io/
   slides: # Array of slides
-  - https://www.slideshare.net/lemiorhan/ethics-in-software-development
+    - https://www.slideshare.net/lemiorhan/ethics-in-software-development
   videos: # Array of videos
-  - https://youtu.be/Vhh_GeBPOhs
+    - https://youtu.be/Vhh_GeBPOhs
   description: |-
     This talk will explain how XYZ can…

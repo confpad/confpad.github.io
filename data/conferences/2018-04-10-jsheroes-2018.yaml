@@ -4,13 +4,13 @@
   time: 2018-04-11
   room:
   authors:
-  - name: Mark Dalgleish
-    twitter: markdalgleish
-    github:
-    website:
+    - name: Mark Dalgleish
+      twitter: markdalgleish
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/ohw6AgPbJoE
+    - https://youtu.be/ohw6AgPbJoE
   description: |-
     Keeping developers and designers in sync is an ongoing challenge for our industry, with both disciplines working in completely different mediums. Lately, we have seen the emergence of tools like react-sketchapp and html-sketchapp that allow us to generate Sketch libraries from our application code. In this talk, we will run through a real-world example of this technique, have a closer look at how.it all works, and show you how you can start experimenting with this yourself. Most importantly, we will talk about what this means for the future of design.
 
@@ -20,13 +20,13 @@
   time: 2018-04-11
   room:
   authors:
-  - name: Dominik Kundel
-    twitter: DKundel
-    github: dkundel
-    website: https://dkundel.com/
+    - name: Dominik Kundel
+      twitter: DKundel
+      github: dkundel
+      website: https://dkundel.com/
   slides:
   videos:
-  - https://youtu.be/sHKyMwIK9F0
+    - https://youtu.be/sHKyMwIK9F0
   description: |-
     Robert DROP TABLE Students-- The little Bobby Tables is embodying the classical fear of SQL injections when building web applications.However, SQL injections are just one aspect of security we need to worry about when building web applications. With the recent popularity of Angular, React and other Single Page Application frameworks we got more logic executing on the front-end, create new problems, and make you forget about others.
 
@@ -36,13 +36,13 @@
   time: 2018-04-11
   room:
   authors:
-  - name: Monica Dinculescu
-    twitter: notwaldorf
-    github: notwaldorf
-    website:
+    - name: Monica Dinculescu
+      twitter: notwaldorf
+      github: notwaldorf
+      website:
   slides:
   videos:
-  - https://youtu.be/WsFirqL4lBI
+    - https://youtu.be/WsFirqL4lBI
   description: |-
     Web fonts are awesome. They make your sans-serifs slabby, your headers special and your website look gorgeous. But fonts are a resource, and downloading resources always comes as a cost — if you don’t load web fonts efficiently, what you get instead are phantom underlines, blank pages, and user rage. Let’s talk about ways to avoid this, and what new platform features are here to help us deliver pretty (but also!) fast experiences to everyone.
 
@@ -52,13 +52,13 @@
   time: 2018-04-11
   room:
   authors:
-  - name: Mashhood Rastgar
-    twitter: mashhoodr
-    github: mashhoodr
-    website: http://imars.info/
+    - name: Mashhood Rastgar
+      twitter: mashhoodr
+      github: mashhoodr
+      website: http://imars.info/
   slides:
   videos:
-  - https://youtu.be/OigaRuQrkFs
+    - https://youtu.be/OigaRuQrkFs
   description: |-
     Minimizing first time to render is one of the bigger challenges in Angular. This talks covers several tips and tricks you can do to get those bundle sizes small and loading times to a minimum!
 
@@ -68,13 +68,13 @@
   time: 2018-04-11
   room:
   authors:
-  - name: Stefan Judis
-    twitter: stefanjudis
-    github: stefanjudis
-    website: https://www.stefanjudis.com/
+    - name: Stefan Judis
+      twitter: stefanjudis
+      github: stefanjudis
+      website: https://www.stefanjudis.com/
   slides:
   videos:
-  - https://youtu.be/0cbCxfJMfx0
+    - https://youtu.be/0cbCxfJMfx0
   description: |-
     Everybody talks about the vDOM but who really knows how it works? How virtual is it in reality? And why does it work so well? This talk looks at Preact ( and others ) and brings some light into the topic.
 
@@ -84,13 +84,13 @@
   time: 2018-04-11
   room:
   authors:
-  - name: Kristijan Ristovski
-    twitter: thekitze
-    github:
-    website:
+    - name: Kristijan Ristovski
+      twitter: thekitze
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/QjGuhXwpbUc
+    - https://youtu.be/QjGuhXwpbUc
   description: |-
     Aside from the fact that the core of React was completely rewritten, version 16 also comes with some powerful new features. We`ll see interesting and practical use-cases for error boundaries, portals, and fragments. Additionally, we`re gonna explore some experimental features like react-call-return and we`re going to see what does the future hold for React.
 
@@ -100,13 +100,13 @@
   time: 2018-04-11
   room:
   authors:
-  - name: Paul Brie
-    twitter: aelythe
-    github: paulbrie
-    website: http://www.paulbrie.com/
+    - name: Paul Brie
+      twitter: aelythe
+      github: paulbrie
+      website: http://www.paulbrie.com/
   slides:
   videos:
-  - https://youtu.be/LDIXccAjuTw
+    - https://youtu.be/LDIXccAjuTw
   description: |-
     The talk will present Teleport, a new platform allowing developers to collaborate and to generate and maintain all their front-end codebase for React and React-Native.
 
@@ -116,13 +116,13 @@
   time: 2018-04-11
   room:
   authors:
-  - name: Brent Vatne
-    twitter: notbrent
-    github: brentvatne
-    website:
+    - name: Brent Vatne
+      twitter: notbrent
+      github: brentvatne
+      website:
   slides:
   videos:
-  - https://youtu.be/J_TXDkq8Y-4
+    - https://youtu.be/J_TXDkq8Y-4
   description: |-
     When a highly hyped new tool is released, many users end up disappointed that it doesn’t handle their use case easily or that it isn’t as polished as they expected. Others don’t bother because the documentation isn’t good enough and there aren’t enough learning resources. If the project survives, then over time developers will chip away at these problems, but it’s often hard to convince people to shake their initial impression. React Native is no different from other tools in this regard, so I want to present a few reasons why you might want to give React Native a(nother) try now, nearly three years since its initial release.
 
@@ -132,13 +132,13 @@
   time: 2018-04-11
   room:
   authors:
-  - name: Nir Kaufman
-    twitter: nirkaufman
-    github: nirkaufman
-    website:
+    - name: Nir Kaufman
+      twitter: nirkaufman
+      github: nirkaufman
+      website:
   slides:
   videos:
-  - https://youtu.be/5gl3cCB_26M
+    - https://youtu.be/5gl3cCB_26M
   description: |-
     Redux is as a modern popular state management library in frontend today. But if you dig a little deeper, you will find out the Redux build on top of patterns and concepts that was introduced 20 years ago. During this session, we talk about design patterns from the world of micro services and messaging systems and see how to use those ideas in the context of modern single page app. You will never use Redux the same way again.
 
@@ -148,13 +148,13 @@
   time: 2018-04-11
   room:
   authors:
-  - name: Sebastien Chopin
-    twitter: Atinux
-    github: Atinux
-    website:
+    - name: Sebastien Chopin
+      twitter: Atinux
+      github: Atinux
+      website:
   slides:
   videos:
-  - https://youtu.be/9jATabR27ME
+    - https://youtu.be/9jATabR27ME
   description: |-
     An overview of Nuxt.js, the Meta Vue Framework that let you create blazing fast Vue.js application quickly.
 
@@ -164,13 +164,13 @@
   time: 2018-04-11
   room:
   authors:
-  - name: Sarah Drasner
-    twitter: sarah_edo
-    github: sdras
-    website: http://sarahdrasnerdesign.com/
+    - name: Sarah Drasner
+      twitter: sarah_edo
+      github: sdras
+      website: http://sarahdrasnerdesign.com/
   slides:
   videos:
-  - https://youtu.be/0995H5BMHJE
+    - https://youtu.be/0995H5BMHJE
   description: |-
     Learn how to use Serverless functions to easily run small segments of code in the cloud with Azure.We'll learn how to integrate it with Vue and Nuxt to crop and store images on the fly, update geolocation data, and more - all without needing to maintain or scale a server.
 
@@ -181,13 +181,13 @@
   time: 2018-04-12
   room:
   authors:
-  - name: Jack Franklin
-    twitter: Jack_Franklin
-    github: jackfranklin
-    website: http://www.jackfranklin.co.uk/
+    - name: Jack Franklin
+      twitter: Jack_Franklin
+      github: jackfranklin
+      website: http://www.jackfranklin.co.uk/
   slides:
   videos:
-  - https://youtu.be/SF64OwN58Fw
+    - https://youtu.be/SF64OwN58Fw
   description: |-
     This talk will explore the changes that have occurred in the front end space in the past few years and how we’ve aligned on the concepts of components being the key building block for frontend applications.We’ll discuss how thinking of a web application as a tree of components, rather than discrete pages, leads to a more testable, maintainable and reliable codebase. We’ll look at how we can build predictable components, encapsulating perfectly the triumvirate of HTML, CSS and JS that can be combined to build reusable components.Using React as our component library of choice, we’ll look at patterns that lead you down the path of reusability almost by default and how to walk the fine line between reusability and death by configuration.Then we’ll explore the final piece of the puzzle,CSS. CSS goes against everything the componentised world stands for but its global, cascading nature can be tamed. I’ll show different approaches to combining your CSS with your components in order to fully encapsulate a component into a lovely, reusable lego brick.
 
@@ -197,13 +197,13 @@
   time: 2018-04-12
   room:
   authors:
-  - name: Sara Vieira
-    twitter: NikkitaFTW
-    github: SaraVieira
-    website: http://iamsaravieira.com/
+    - name: Sara Vieira
+      twitter: NikkitaFTW
+      github: SaraVieira
+      website: http://iamsaravieira.com/
   slides:
   videos:
-  - https://youtu.be/_XJFeSZV6FI
+    - https://youtu.be/_XJFeSZV6FI
   description: |-
     You have heard of all types of driven development but react emerged a new type, styleguide driven development became a reality with components. This type of development focuses on Developer/Designer collaboration and on assertive components. With the use of React, CSS-in-JS, Flow and Snapshot testing we were able to almost remove style regressions. In this talk you get a glimpse of you can start styleguide driven development and how you can sell this dream to your project managers.
 
@@ -213,10 +213,10 @@
   time: 2018-04-12
   room:
   authors:
-  - name: Larissa Davidova
-    twitter: larathedev
-    github:
-    website:
+    - name: Larissa Davidova
+      twitter: larathedev
+      github:
+      website:
   slides:
   videos:
   description: |-
@@ -227,13 +227,13 @@
   time: 2018-04-12
   room:
   authors:
-  - name: Anjana vakil
-    twitter: AnjanaVakil
-    github: vakila
-    website: http://vakila.github.io/
+    - name: Anjana vakil
+      twitter: AnjanaVakil
+      github: vakila
+      website: http://vakila.github.io/
   slides:
   videos:
-  - https://youtu.be/FmiQr4nfoPQ
+    - https://youtu.be/FmiQr4nfoPQ
   description: |-
     Recursion and iteration are two alternative paradigms for solving problems by breaking them down into smaller chunks; this talk is a deep dive into how these paradigms work, and how JS supports them both. There’s a fundamental tradeoff between the two: the stateful repetition of iteration is often more performant as it’s closer to the way our machines “think”, whereas many programmers find the self-referential abstraction of recursion easier to read & write. In JS prior to ES6, neither paradigm was especially easy to work with: iterative loops were laborious to read and write (not human-efficient), and recursion was limited by the fact that subsequent recursive calls to a function require additional frames added to the stack, potentially leading to stack overflow (not machine-efficient). Eventually, however, all three - recursion, iteration, and JS - were finally brought closer together. In this talk we’ll dive into the nature of the two paradigms, examine what an Iterable and a tail-recursive function are, and learn how Tail Call Optimization unites the two paradigms, allowing us to write code recursively and run it iteratively.
 
@@ -243,13 +243,13 @@
   time: 2018-04-12
   room:
   authors:
-  - name: Mathias Bynens
-    twitter: mathias
-    github: mathiasbynens
-    website: https://mathiasbynens.be/
+    - name: Mathias Bynens
+      twitter: mathias
+      github: mathiasbynens
+      website: https://mathiasbynens.be/
   slides:
   videos:
-  - https://youtu.be/5UZzT_hgsl0
+    - https://youtu.be/5UZzT_hgsl0
   description: |-
     This presentation demonstrates how learning just a little bit about JavaScript engine internals can help you improve the run-time performance of your JavaScript code — not just in V8 specifically, but across all JavaScript engines!
 
@@ -259,13 +259,13 @@
   time: 2018-04-12
   room:
   authors:
-  - name: Stephanie Nemeth
-    twitter: stephaniecodes
-    github:
-    website:
+    - name: Stephanie Nemeth
+      twitter: stephaniecodes
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/VTxsAiznxt4
+    - https://youtu.be/VTxsAiznxt4
   description: |-
     Wooed by the possibility to put LEDs on ALL THE THINGS and control them with an app, I bought my first (and second and third...) arduino this year and haven’t looked back. But, as a IoT newbie, I defaulted to what I knew as a frontend developer. I applied the libraries I was familiar with from my daily work to solve my IoT problems with lackluster results. Things kind of worked, but the connections were flaky and it crashed a lot. It felt like there had to be something out there that was a better fit for communicating from the web to hardware. In my pursuit for a minimalist solution that could handle poor network connections and had implementations in C++ and JavaScript, I found the MQTT protocol.MQTT is a lightweight messaging architecture for sending data between hardware and other devices where a small code footprint and performance in poor network conditions are crucial. In this talk, we’ll look what exactly what MQTT is, how I use it in my own art/wearable project, and why you should check it out for your next hardware project.
 
@@ -275,13 +275,13 @@
   time: 2018-04-12
   room:
   authors:
-  - name: Liran Tal
-    twitter:
-    github:
-    website:
+    - name: Liran Tal
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://youtu.be/uOsVBHgHZY0
+    - https://youtu.be/uOsVBHgHZY0
   description: |-
     Whether it’s npm, webpack or yeoman generators, developers spend a great deal of their time on the CLI to run, debug and interact with programs. You already know React, and use it to render to the browser or to mobile apps. Now you can harness this knowledge of React and Node.js to build your next shiny terminal UI application.This is your chance to learn the great world of Node.js CLI applications and dive into hands-on coding of a fancy React console app. You will also discover some powerful and fun CLI tools and libraries that make up the ecosystem and can help you with your day to day developer activity.
 
@@ -291,13 +291,13 @@
   time: 2018-04-12
   room:
   authors:
-  - name: Even Stensberg
-    twitter: evenstensberg
-    github: evenstensberg
-    website:
+    - name: Even Stensberg
+      twitter: evenstensberg
+      github: evenstensberg
+      website:
   slides:
   videos:
-  - https://youtu.be/iKgJVh7bWlc
+    - https://youtu.be/iKgJVh7bWlc
   description: |-
     Being a developer shouldn`t be hard. You should create a file and start developing. But if you`d want to develop like a hipster, it would mean tooling, a lot of tooling. The talk will focus on how maintainers should reduce the entry requirements to build modern applications with as little configuration as possible.
 
@@ -307,13 +307,13 @@
   time: 2018-04-12
   room:
   authors:
-  - name: Lves van Hoorne
-    twitter: Compulves
-    github: CompuIves
-    website:
+    - name: Lves van Hoorne
+      twitter: Compulves
+      github: CompuIves
+      website:
   slides:
   videos:
-  - https://youtu.be/DQtj811KIT4
+    - https://youtu.be/DQtj811KIT4
   description: |-
     CodeSandbox is an online editor built for web applications. During the talk I`ll explain how it works, and how we got where we are now.
 
@@ -323,13 +323,13 @@
   time: 2018-04-12
   room:
   authors:
-  - name: Phil Hawksworth
-    twitter: philhawksworth
-    github: philhawksworth
-    website: http://hawksworx.com/
+    - name: Phil Hawksworth
+      twitter: philhawksworth
+      github: philhawksworth
+      website: http://hawksworx.com/
   slides:
   videos:
-  - https://youtu.be/ttL4K-WLJ-c
+    - https://youtu.be/ttL4K-WLJ-c
   description: |-
     You’ve chosen your frameworks and libraries. You’ve learned how to write code which satisfies the buzzword and performance gods. Now you need to serve it to a global audience, and make things easy to preview, to test, to sign-off, and to evolve.This talk looks at some case studies of projects making common mistakes, and some which benefit from a better approach.We’ll explore tools and techniques which ease the path to production. Things anyone can do to boost confidence in every release. And ways to optimise our hosting for performance, hassle free localisation and genuine A/B testing.
 
@@ -340,13 +340,13 @@
   time: 2018-04-12
   room:
   authors:
-  - name: Shagufta Gurmukhdas
-    twitter: shaguftamethwan
-    github: ShaguftaMethwani
-    website:
+    - name: Shagufta Gurmukhdas
+      twitter: shaguftamethwan
+      github: ShaguftaMethwani
+      website:
   slides:
   videos:
-  - https://youtu.be/GCXFcfyLmyA
+    - https://youtu.be/GCXFcfyLmyA
   description: |-
     Since 2016 the VR technology has been a rising trend again, and many types of headsets are out in the market. Proprietary tools for creating VR apps have their requirements for ecosystems, controllers, installations etc. And the simplest of applications needs a lot of complex/boilerplate code to be written for setup. A-Frame is an open source web framework which enables creating VR experiences with simple HTML and little JS without much efforts. You learn how to use it to create fantastic VR applications which can even be multi-user/real-time and also get inspired from some usecases.
 
@@ -356,12 +356,12 @@
   time: 2018-04-12
   room:
   authors:
-  - name: Jeffrey Lembeck
-    twitter: jefflembeck
-    github: jefflembeck
-    website: http://www.jefflembeck.com/
+    - name: Jeffrey Lembeck
+      twitter: jefflembeck
+      github: jefflembeck
+      website: http://www.jefflembeck.com/
   slides:
   videos:
-  - https://youtu.be/GSnyVS79OR0
+    - https://youtu.be/GSnyVS79OR0
   description: |-
     Ever wonder what happens when you `npm install` something? Follow an odyssey across the wires as our hero client embarks on an adventure to bring you the software that you need, right when you ask for it. After this talk you have a better understanding of the course a package takes - helping you understand architecture that works at scale as well as being able to troubleshoot package installation problems.

@@ -5,13 +5,13 @@
   time:
   room:
   authors:
-  - name: Matias Niemelä
-    twitter: yearofmoo/
-    github:
-    website:
+    - name: Matias Niemelä
+      twitter: yearofmoo/
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/WahpV6zn8lQ
+    - https://www.youtu.be/WahpV6zn8lQ
   description:
 
 - title: Build progressive web apps with Angular
@@ -20,13 +20,13 @@
   time:
   room:
   authors:
-  - name: Simona Cotin
-    twitter: simona_cotin
-    github:
-    website:
+    - name: Simona Cotin
+      twitter: simona_cotin
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/LKqPvANj8O8
+    - https://www.youtu.be/LKqPvANj8O8
   description:
 
 - title: 6 APPS ONE CODE WITH Ionic
@@ -35,13 +35,13 @@
   time:
   room:
   authors:
-  - name: Sani Yusuf
-    twitter: saniyusuf
-    github:
-    website:
+    - name: Sani Yusuf
+      twitter: saniyusuf
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/4bGMXuPM_FI
+    - https://www.youtu.be/4bGMXuPM_FI
   description:
 
 - title: Angular + CMS = ❤️
@@ -50,13 +50,13 @@
   time:
   room:
   authors:
-  - name: Filip Bech-Larsen
-    twitter: Filipbech
-    github:
-    website:
+    - name: Filip Bech-Larsen
+      twitter: Filipbech
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/PEVeEGigd8Q
+    - https://www.youtu.be/PEVeEGigd8Q
   description:
 
 - title: Scalable Angular Architecture
@@ -65,13 +65,13 @@
   time:
   room:
   authors:
-  - name: Bartosz Pietrucha
-    twitter: pietrucha
-    github:
-    website: https://angular-academy.com/
+    - name: Bartosz Pietrucha
+      twitter: pietrucha
+      github:
+      website: https://angular-academy.com/
   slides:
   videos:
-  - https://www.youtu.be/j5NQ19DGBxM
+    - https://www.youtu.be/j5NQ19DGBxM
   description:
 
 - title: Multiplayer game with Angular and Firebase
@@ -80,13 +80,13 @@
   time:
   room:
   authors:
-  - name: Michael Haberman
-    twitter: hab_mic
-    github:
-    website:
+    - name: Michael Haberman
+      twitter: hab_mic
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/YtHkclzU3lw
+    - https://www.youtu.be/YtHkclzU3lw
   description:
 
 - title: ng install
@@ -95,13 +95,13 @@
   time:
   room:
   authors:
-  - name: Stepan Suvorov
-    twitter: stevermeister
-    github:
-    website:
+    - name: Stepan Suvorov
+      twitter: stevermeister
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/eXUuBMWZyLE
+    - https://www.youtu.be/eXUuBMWZyLE
   description:
 
 - title: A Token Walks Into a SPA...
@@ -110,13 +110,13 @@
   time:
   room:
   authors:
-  - name: Ado Kukic
-    twitter: KukicAdo
-    github: kukicado
-    website: https://kukicado.com/
+    - name: Ado Kukic
+      twitter: KukicAdo
+      github: kukicado
+      website: https://kukicado.com/
   slides:
   videos:
-  - https://www.youtu.be/EoEOjQhSHNo
+    - https://www.youtu.be/EoEOjQhSHNo
   description:
 
 - title: Use React tools for better Angular apps
@@ -125,13 +125,13 @@
   time:
   room:
   authors:
-  - name: Martin Hochel
-    twitter: martin_hotell
-    github:
-    website:
+    - name: Martin Hochel
+      twitter: martin_hotell
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/LWXFX7qsIbA
+    - https://www.youtu.be/LWXFX7qsIbA
   description:
 
 - title: 'Custom Schematics: An Angular Application by the push of a Button...'
@@ -140,13 +140,13 @@
   time:
   room:
   authors:
-  - name: Manfred Steyer
-    twitter: ManfredSteyer
-    github:
-    website:
+    - name: Manfred Steyer
+      twitter: ManfredSteyer
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/JAt1FSwhnWk
+    - https://www.youtu.be/JAt1FSwhnWk
   description:
 
 - title: Make Web Components Great Again with StencilJS
@@ -155,13 +155,13 @@
   time:
   room:
   authors:
-  - name: Julien Renaux
-    twitter: julienrenaux
-    github:
-    website:
+    - name: Julien Renaux
+      twitter: julienrenaux
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/hQ9vHusMscw
+    - https://www.youtu.be/hQ9vHusMscw
   description:
 
 - title: Understanding the realtime web with websockets
@@ -170,13 +170,13 @@
   time:
   room:
   authors:
-  - name: Srushtika Neelakantam
-    twitter: Srushtika
-    github:
-    website:
+    - name: Srushtika Neelakantam
+      twitter: Srushtika
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/PJZ06MLXGwA
+    - https://www.youtu.be/PJZ06MLXGwA
   description:
 
 - title: Angular, What's Coming Next
@@ -185,13 +185,13 @@
   time:
   room:
   authors:
-  - name: Wassim Chegham
-    twitter:
-    github:
-    website:
+    - name: Wassim Chegham
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/ukDGkunqiCk
+    - https://www.youtu.be/ukDGkunqiCk
   description:
 
 - title: Angular Elements
@@ -200,13 +200,13 @@
   time:
   room:
   authors:
-  - name: Pascal Precht
-    twitter: PascalPrecht
-    github:
-    website:
+    - name: Pascal Precht
+      twitter: PascalPrecht
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/9zyq7FcIuvM
+    - https://www.youtu.be/9zyq7FcIuvM
   description:
 
 - title: Deploy Angular and Node to the Cloud
@@ -215,13 +215,13 @@
   time:
   room:
   authors:
-  - name: John Papa
-    twitter: John_Papa
-    github:
-    website:
+    - name: John Papa
+      twitter: John_Papa
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/XmpEZN5TCjw
+    - https://www.youtu.be/XmpEZN5TCjw
   description:
 
 - title: How to hack an Angular app?
@@ -230,13 +230,13 @@
   time:
   room:
   authors:
-  - name: Asim Hussain
-    twitter: jawache
-    github: jawache
-    website: https://codecraft.tv/
+    - name: Asim Hussain
+      twitter: jawache
+      github: jawache
+      website: https://codecraft.tv/
   slides:
   videos:
-  - https://www.youtu.be/-HZW7FH1L3g
+    - https://www.youtu.be/-HZW7FH1L3g
   description:
 
 - title: An Angular Front For Your API
@@ -245,13 +245,13 @@
   time:
   room:
   authors:
-  - name: Tara Z. Manicsic
-    twitter: tzmanics
-    github:
-    website:
+    - name: Tara Z. Manicsic
+      twitter: tzmanics
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/79j_IUs0zhk
+    - https://www.youtu.be/79j_IUs0zhk
   description:
 
 - title: Be lazy, but with strategy
@@ -260,13 +260,13 @@
   time:
   room:
   authors:
-  - name: Martin Sonnenholzer
-    twitter: chaos_monster
-    github:
-    website:
+    - name: Martin Sonnenholzer
+      twitter: chaos_monster
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/cMs5rvc7KqM
+    - https://www.youtu.be/cMs5rvc7KqM
   description:
 
 - title: Angular performance pitfalls and how to avoid them
@@ -275,13 +275,13 @@
   time:
   room:
   authors:
-  - name: Kristiyan Kostadinov
-    twitter: _crisbeto
-    github:
-    website:
+    - name: Kristiyan Kostadinov
+      twitter: _crisbeto
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/HT6nYzHCPbM
+    - https://www.youtu.be/HT6nYzHCPbM
   description:
 
 - title: Advanced DI
@@ -290,13 +290,13 @@
   time:
   room:
   authors:
-  - name: Ward Bell
-    twitter: wardbell
-    github:
-    website:
+    - name: Ward Bell
+      twitter: wardbell
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/PRRgo6F0cjs
+    - https://www.youtu.be/PRRgo6F0cjs
   description:
 
 - title: Fast, Cross-Platform Desktop Apps with Electron
@@ -305,13 +305,13 @@
   time:
   room:
   authors:
-  - name: Felix Rieseberg
-    twitter: felixrieseberg
-    github: felixrieseberg
-    website: https://www.felixrieseberg.com/
+    - name: Felix Rieseberg
+      twitter: felixrieseberg
+      github: felixrieseberg
+      website: https://www.felixrieseberg.com/
   slides:
   videos:
-  - https://www.youtu.be/M-DPfjuv5UI
+    - https://www.youtu.be/M-DPfjuv5UI
   description:
 
 - title: Hey Google, is there any presentation about ChatBots at ngVikings?
@@ -320,13 +320,13 @@
   time:
   room:
   authors:
-  - name: Wassim Chegham
-    twitter: manekinekko
-    github:
-    website:
+    - name: Wassim Chegham
+      twitter: manekinekko
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/-M2F2GPGU1M
+    - https://www.youtu.be/-M2F2GPGU1M
   description:
 
 - title: Q&A with all speakers
@@ -335,13 +335,13 @@
   time:
   room:
   authors:
-  - name:
-    twitter:
-    github:
-    website:
+    - name:
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/C6Wbul8gN8Y
+    - https://www.youtu.be/C6Wbul8gN8Y
   description:
 
 - title: Getting started with WebVR
@@ -350,13 +350,13 @@
   time:
   room:
   authors:
-  - name: Martin Splitt
-    twitter: g33konaut
-    github:
-    website:
+    - name: Martin Splitt
+      twitter: g33konaut
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/ZuHFqE6ljVk
+    - https://www.youtu.be/ZuHFqE6ljVk
   description:
 
 - title: Enhanching performance by leveraging the power of Observables
@@ -365,13 +365,13 @@
   time:
   room:
   authors:
-  - name: Sander Elias
-    twitter: esosanderelias
-    github:
-    website:
+    - name: Sander Elias
+      twitter: esosanderelias
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/u8B96WsIuB8
+    - https://www.youtu.be/u8B96WsIuB8
   description:
 
 - title: dummy to app
@@ -380,13 +380,13 @@
   time:
   room:
   authors:
-  - name: David Muellerchen
-    twitter: webdave_de
-    github: web-dave
-    website:
+    - name: David Muellerchen
+      twitter: webdave_de
+      github: web-dave
+      website:
   slides:
   videos:
-  - https://www.youtu.be/69XDRK4p5Rk
+    - https://www.youtu.be/69XDRK4p5Rk
   description:
 
 - title: Web Maps - Putting the M in Angular web apps!
@@ -395,13 +395,13 @@
   time:
   room:
   authors:
-  - name: Katerina Skroumpelou
-    twitter: psybercity
-    github:
-    website:
+    - name: Katerina Skroumpelou
+      twitter: psybercity
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/PqfJbbWdUWQ
+    - https://www.youtu.be/PqfJbbWdUWQ
   description:
 
 - title: Changing the world of travel with Angular and measuring...
@@ -410,17 +410,17 @@
   time:
   room:
   authors:
-  - name: Oskari Okko Ojala
-    twitter: okko
-    github:
-    website:
-  - name: Olli Leskinen
-    twitter: olliles
-    github:
-    website:
+    - name: Oskari Okko Ojala
+      twitter: okko
+      github:
+      website:
+    - name: Olli Leskinen
+      twitter: olliles
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/1iXTJ36XzOU
+    - https://www.youtu.be/1iXTJ36XzOU
   description:
 
 - title: Let's plant our Angular Tree
@@ -429,13 +429,13 @@
   time:
   room:
   authors:
-  - name: Juan Herrera
-    twitter: jdjuan
-    github:
-    website:
+    - name: Juan Herrera
+      twitter: jdjuan
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/HuoAWFKD12s
+    - https://www.youtu.be/HuoAWFKD12s
   description:
 
 - title: Designing Component API
@@ -444,13 +444,13 @@
   time:
   room:
   authors:
-  - name: Vitalii Bobrov
-    twitter: bobrov1989
-    github:
-    website:
+    - name: Vitalii Bobrov
+      twitter: bobrov1989
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/hpDQeTIbrRE
+    - https://www.youtu.be/hpDQeTIbrRE
   description:
 
 - title: Create & Publish Angular Libs like a PRO
@@ -459,13 +459,13 @@
   time:
   room:
   authors:
-  - name: Juri Strumpflohner
-    twitter: juristr
-    github:
-    website:
+    - name: Juri Strumpflohner
+      twitter: juristr
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/Tw8TCgeqotg
+    - https://www.youtu.be/Tw8TCgeqotg
   description:
 
 - title: Visualising Enterprise Data with Angular & d3
@@ -474,13 +474,13 @@
   time:
   room:
   authors:
-  - name: Sean Landsman
-    twitter:
-    github:
-    website:
+    - name: Sean Landsman
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/EMmkp9_5jlU
+    - https://www.youtu.be/EMmkp9_5jlU
   description:
 
 - title: Testing Angular apps
@@ -489,13 +489,13 @@
   time:
   room:
   authors:
-  - name: Carl Vuorinen
-    twitter: cvuorinen
-    github: cvuorinen
-    website:
+    - name: Carl Vuorinen
+      twitter: cvuorinen
+      github: cvuorinen
+      website:
   slides:
   videos:
-  - https://www.youtu.be/rjXJtIEQ3rw
+    - https://www.youtu.be/rjXJtIEQ3rw
   description:
 
 - title: Innovating is not about technology, but psychology
@@ -504,13 +504,13 @@
   time:
   room:
   authors:
-  - name: Alyssa Nicoll
-    twitter: AlyssaNicoll
-    github:
-    website: http://alyssa.io/
+    - name: Alyssa Nicoll
+      twitter: AlyssaNicoll
+      github:
+      website: http://alyssa.io/
   slides:
   videos:
-  - https://www.youtu.be/lclwj_uSINU
+    - https://www.youtu.be/lclwj_uSINU
   description:
 
 - title: Progressive Web Apps with Angular and Firebase
@@ -519,13 +519,13 @@
   time:
   room:
   authors:
-  - name: Erik Haddad
-    twitter: erikhaddad
-    github: erikhaddad
-    website:
+    - name: Erik Haddad
+      twitter: erikhaddad
+      github: erikhaddad
+      website:
   slides:
   videos:
-  - https://www.youtu.be/U-tXceRtwTk
+    - https://www.youtu.be/U-tXceRtwTk
   description:
 
 - title: Offline Angular app in action
@@ -534,13 +534,13 @@
   time:
   room:
   authors:
-  - name: Majid Hajian
-    twitter: mhadaily
-    github:
-    website:
+    - name: Majid Hajian
+      twitter: mhadaily
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/k5qeXE73zgA
+    - https://www.youtu.be/k5qeXE73zgA
   description:
 
 - title: Can't Touch This! What not to do to the DOM
@@ -549,13 +549,13 @@
   time:
   room:
   authors:
-  - name: Max NgWizard
-    twitter: maxim_koretskyi
-    github:
-    website:
+    - name: Max NgWizard
+      twitter: maxim_koretskyi
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/qWmqiYDrnDc
+    - https://www.youtu.be/qWmqiYDrnDc
   description:
 
 - title: Rendering Performance from the Ground Up
@@ -564,13 +564,13 @@
   time:
   room:
   authors:
-  - name: Martin Splitt
-    twitter: g33konaut
-    github:
-    website:
+    - name: Martin Splitt
+      twitter: g33konaut
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/lEH6FTNx8KY
+    - https://www.youtu.be/lEH6FTNx8KY
   description:
 
 - title: Real-Time stream processing with Reactive-Extensions
@@ -579,13 +579,13 @@
   time:
   room:
   authors:
-  - name: Michael Hladky
-    twitter: Michael_Hladky
-    github:
-    website:
+    - name: Michael Hladky
+      twitter: Michael_Hladky
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/iNlGvy7l24w
+    - https://www.youtu.be/iNlGvy7l24w
   description:
 
 - title: Abstractions in Angular
@@ -594,13 +594,13 @@
   time:
   room:
   authors:
-  - name: Akseli Virtanen
-    twitter:
-    github: _akseliv
-    website:
+    - name: Akseli Virtanen
+      twitter:
+      github: _akseliv
+      website:
   slides:
   videos:
-  - https://www.youtu.be/DVa7Gg9NUHk
+    - https://www.youtu.be/DVa7Gg9NUHk
   description:
 
 - title: Reactive Brain Waves
@@ -609,13 +609,13 @@
   time:
   room:
   authors:
-  - name: Uri Shaked
-    twitter: UriShaked
-    github:
-    website:
+    - name: Uri Shaked
+      twitter: UriShaked
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/KlkvSTSXfho
+    - https://www.youtu.be/KlkvSTSXfho
   description:
 
 - title: How WebAssembly is changing the Web and what it means for Angular
@@ -624,13 +624,13 @@
   time:
   room:
   authors:
-  - name: Boyan Mihaylov
-    twitter: boyanio
-    github:
-    website: https://boyan.io/
+    - name: Boyan Mihaylov
+      twitter: boyanio
+      github:
+      website: https://boyan.io/
   slides:
   videos:
-  - https://www.youtu.be/CJ8_3Jc4L0M
+    - https://www.youtu.be/CJ8_3Jc4L0M
   description:
 
 - title: Supercharging the Angular CLI with Nx
@@ -639,13 +639,13 @@
   time:
   room:
   authors:
-  - name: James Henry
-    twitter: MrJamesHenry
-    github:
-    website:
+    - name: James Henry
+      twitter: MrJamesHenry
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/bMkKz8AedHc
+    - https://www.youtu.be/bMkKz8AedHc
   description:
 
 - title: ngVikings 2018 - Highlights
@@ -654,11 +654,11 @@
   time:
   room:
   authors:
-  - name:
-    twitter:
-    github:
-    website:
+    - name:
+      twitter:
+      github:
+      website:
   slides:
   videos:
-  - https://www.youtu.be/-wVodWS-9OU
+    - https://www.youtu.be/-wVodWS-9OU
   description:
