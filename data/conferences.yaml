@@ -10,6 +10,18 @@
   description: |-
     Southeast Asia's largest web developer conference.
 
+- id: 2018-01-19-reactfoo-pune-2018
+  name: ReactFoo Pune 2018
+  url: https://reactfoo.in/2018-pune/
+  date:
+    from: 2018-01-19
+    to: 2018-01-20
+  location:
+    country: India
+    city: Pune
+  description: |-
+    A conference on the lessons learned while implementing React and React Native.
+
 - id: 2018-03-01-ngvikings-2018
   name: ngVikings 2018
   url: https://2018.ngvikings.org/
