@@ -10,6 +10,18 @@
   description: |-
     Southeast Asia's largest web developer conference.
 
+- id: 2018-02-22-assertjs-2018
+  name: Assert(js) 2018
+  url: https://www.assertjs.com/
+  date:
+    from: 2018-02-22
+    to: 2018-02-22
+  location:
+    country: USA
+    city: San Antonio, TX
+  description: |-
+    Assert(js) Testing Conference is a one-day, single-track conference with a laser focus on testing for JavaScript developers - both UI and Node.js.
+
 - id: 2018-03-01-ngvikings-2018
   name: ngVikings 2018
   url: https://2018.ngvikings.org/
