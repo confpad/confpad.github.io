@@ -1,0 +1,7 @@
+FROM node:11-alpine
+
+WORKDIR /app
+
+RUN yarn add js-yaml
+
+CMD ["node", "-v"]
