@@ -128,6 +128,18 @@
   description: |-
     Do you want to learn about React and React Native? Then you shouldn't miss React Alicante next September! You will have the opportunity to improve your developer skills and meet people from around the world, while enjoying the food and warm weather from the southeast coast of Spain.
 
+- id: 2018-10-20-jsdayes-2018
+  name: JSDayES 2018
+  url: https://2018.jsday.es/
+  date:
+    from: 2018-10-20
+    to: 2018-10-20
+  location:
+    country: Spain
+    city: Madrid
+  description: |-
+    Para muchos de nosotros, el desarrollo web es, simplemente, apasionante. Estar al tanto de las últimas tendencias en desarrollo, los últimos cambios de nuestro framework de cabecera o incluso de sus competidores, son parte de nuestro día a día. Por ese motivo, seguramente, estás ahora leyendo este artículo en el blog de JSDayES.
+
 - id: 2018-10-25-react-conf-2018
   name: React Conf 2018
   url: https://conf.reactjs.org/
