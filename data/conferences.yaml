@@ -188,6 +188,18 @@
   description: |-
     So you want to learn GraphQL? That is awesome! But like any other technology it's not easy to get started and get the basics of it mainly because all the docs are spread all over the place.In this 8 hour workshop we will create a GraphQL server with Apollo Server, connect it to a Postgres database in Heroku to have a fully functional GraphQL Server.After that we will jump to the frontend using React and Apollo to query and mutate a GraphQL Endpoint easily.
 
+- id: 2018-10-20-jsdayes-2018
+  name: JSDayES 2018
+  url: https://2018.jsday.es/
+  date:
+    from: 2018-10-20
+    to: 2018-10-20
+  location:
+    country: Spain
+    city: Madrid
+  description: |-
+    Para muchos de nosotros, el desarrollo web es, simplemente, apasionante. Estar al tanto de las últimas tendencias en desarrollo, los últimos cambios de nuestro framework de cabecera o incluso de sus competidores, son parte de nuestro día a día. Por ese motivo, seguramente, estás ahora leyendo este artículo en el blog de JSDayES.
+
 - id: 2018-10-25-react-conf-2018
   name: React Conf 2018
   url: https://conf.reactjs.org/
