@@ -1,0 +1,349 @@
+- title: Keynote Simply React
+  type: regular
+  level:
+  time: 2018-07-12
+  room:
+  authors:
+    - name: Kent C. Dodds
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/M9X2qGddHkU
+  description: |-
+    One of the things I love about React is how easy it is to encapsulate UI code into a component. I love this because it makes reuse of those components easy. But is it simple? I've made my fair share of components that had to accept a bunch of props to handle a growing list of different use cases resulting in a complex render function full of conditional statements and a confusing API for people using this "reusable" component. Eventually it becomes too much and I had to make a new version of the same component to handle slightly different use cases. Lots of code/bug duplication there because my reusable component wasn't reusable enough. It wasn't simple enough. Every view library or framework seems to be based on components these days. But when you write your React component you can't share it with an Angular developer. Your Vue components can't be used in Preact. The result: fragmentation. The cost: reinventing the wheel for every library. We've had the answer for years, though. Web components are the standards based solution, but they've never seemed ready for the big time. Until now. In this talk we'll look at why 2018 is finally the year of web components, the tools and libraries that we can use to build with web components and how you can get started building shareable, compatible, standards based components.There are patterns that have emerged in React that allow you to promote code reuse without sacrificing the simplicity or flexibility of the component. In this talk we’ll cover some of these patterns that will make your React components more useful.
+
+- title: All Together Now
+  type: regular
+  level:
+  time: 2018-07-12
+  room:
+  authors:
+    - name: TC Davis
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/p5ONpgb_e5w
+  description: |-
+    Abstract Fragmented ecosystems, a lack of tooling, and secrecy concerns have encouraged us to make a sharp divide between open and closed source projects, but React Native projects can chart a third path. I’d like to talk about how moving more of your development into the public eye can enable new workflows and benefit both your project and the community.
+
+- title: Debugging and Beyond with Reactotron
+  type: regular
+  level:
+  time: 2018-07-12
+  room:
+  authors:
+    - name: Darin Wilson
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/UiPo9A9k7xc
+  description: |-
+    If you've spent any time with React Native, you've probably tried debugging your apps with Chrome. It's handy, it's familiar, it kinda works, but maybe you've thought "this could be better." And you're right: it can be. In this talk, you'll meet Reactotron, a free, open-source development tool for your React and React Native projects. You'll see how just a few lines of code will give you access to a world of useful information about what's going in your app. Get better stack traces on errors, peer into the gory details of your network requests, pry open your async storage, subscribe to Redux store changes, debug your sagas, and the list goes on. By the end, you'll be ready to start working with Reactotron in your own projects, and wonder how you ever worked without it.
+
+- title: From Sketch to Code Designing a Component Kit
+  type: regular
+  level:
+  time: 2018-07-12
+  room:
+  authors:
+    - name: Samantha Bretous
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/C6fqRieYRVw
+  description: |-
+    Working on multiple enterprise projects that use the same components can get a little overwhelming. I will talk through how to create an effective work flow by showing examples of what worked and did not work for our team, from design QA to constant props. As well as how we tackled component documentation that stays up to date with API changes. Lastly we will explore new ideas that we will want to explore like working with AirBnb's react-sketchapp.
+
+- title: Detox A year in. Building it, Testing with it
+  type: regular
+  level:
+  time: 2018-07-12
+  room:
+  authors:
+    - name: Rotem Mizrachi-Meidan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/aMheT1qL5Lk
+  description: |-
+    A year in, developing and using Detox in production taught us a lot. From designing its API to consuming it, testing real user scenarios to advanced mocking, we learned what makes sense when E2E testing an app and what doesn’t. In this talk, we’ll discuss how Detox works and what makes it deterministic, cover some advanced use cases and methodologies, go over new features and tease the ones that are upcoming.
+
+- title: Learning React Native as a Junior Engineer
+  type: regular
+  level:
+  time: 2018-07-12
+  room:
+  authors:
+    - name: Erin Fox
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/N9QAbH0JaD0
+  description: |-
+    React Native is magical and it’s catching fire. What’s exactly is it? How does it work for iOS AND Android? Not only can you make universal components and save hundreds of lines of code, it allows developers to reuse code across the web AND mobile all with a smooth UI.
+
+- title: Machine Learning And React Native
+  type: regular
+  level:
+  time: 2018-07-12
+  room:
+  authors:
+    - name: Ray Deck
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/LbcuLfrt8XA
+  description: |-
+    Machine Learning can sound like it is just for big machines with lots of GPUs. But you can execute ML models on your phone! From React Native! And it's not that hard!We'll skip the neural network charts and focus directly on technologies that can run on your phone today to do cool things like Classify an image based on what you are looking at - and apply that information through a render prop updated in real time!Use a prop to apply a feedforward "generator" to make instant art from an image or viewfinder preview - fast!
+
+- title: Customize Your Boilerplate to Speed Up Development with Ignite
+  type: regular
+  level:
+  time: 2018-07-12
+  room:
+  authors:
+    - name: Adrien Thiery
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/d822empRP6o
+  description: |-
+    In this talk, I will present how to create your custom boilerplate to use with ignite, looking at most of the options we can add (or make optional), to build an awesome boilerplate. Screen reader support enabled.
+
+- title: React Native at Eaze Marijuana Delivered
+  type: regular
+  level:
+  time: 2018-07-12
+  room:
+  authors:
+    - name: Erica Cooksey
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/wdRacNKZs7g
+  description: |-
+    The legal cannabis industry is very new and constantly evolving. New local regulations are frequently introduced and app store policies are unclear. Over the past two years, we at Eaze have leveraged React Native for rapid development and iteration of our mobile presence. Our fleet-management app used by our delivery drivers as well as our consumer app have taken many forms and seen several complete rearchitectures. This talk covers the evolution of our mobile applications, the advantages and shortcomings of using React Native in a grey market industry, and the solid technical solutions that we have implemented over the long term.
+
+- title: How TypeScript Ruined My Life (In a Good Way)
+  type: regular
+  level:
+  time: 2018-07-12
+  room:
+  authors:
+    - name: Andy Mockler
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/P_oXHZvooCo
+  description: |-
+    TypeScript has totally changed the way I treat software development and I want to encourage others to give some kind of typed JavaScript a try. While my talk will largely focus on TypeScript (since it is the flavor I am most familiar with), I want to focus largely on the general benefits of type systems and the dev tools that are being built around them.
+
+- title: ReasonML and You - A Fireside Chat with Mike
+  type: regular
+  level:
+  time: 2018-07-12
+  room:
+  authors:
+    - name: Mike Grabowski
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/HDIuUd52cmY
+  description: |-
+    ReasonML and You - A Fireside Chat with Mike Grabowski
+
+- title: Be a React Native A11
+  type: regular
+  level:
+  time: 2018-07-12
+  room:
+  authors:
+    - name: Jen Luker
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/cfzFZIouydY
+  description: |-
+    React Native is a platform that bridges the gap between web programming practices and native mobile technology. How does accessibility fit in when it doesn't quite belong in either camp? I'll cover some how-tos of React Native accessibility, provide some insight into testing, and how to convince leadership that the time spent is worth it. This talk is sure to leave you with actionable ways to Be a React Native A11y.
+
+- title: Organizing Code for Cross-Platform Web and Mobile Development
+  type: regular
+  level:
+  time: 2018-07-12
+  room:
+  authors:
+    - name: Robert Scarano
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/kZGaWefWVBs
+  description: |-
+    For teams that deliver code for the web, android, and iOS, we want to avoid writing all of our logic three times, in three different languages, across three different platforms. We will share how our team was successful in developing features of our platform that realized 70% business logic code re-use between web and mobile and even more re-use between Android and iOS. We will discuss the motivations for when it is right to code-share, how to organize your React code and build configurations to accomplish code sharing, and how we approach integrating React components into native Android and iOS app.
+
+- title: Reactive Programming Demystified Drink the Kool-Aid
+  type: regular
+  level:
+  time: 2018-07-13
+  room:
+  authors:
+    - name: Tracy Lee
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Hl8d8-aKWGI
+  description: |-
+    There will always be a new JavaScript framework to learn. Technology will continue to evolve and change, and developers will continue to rewrite applications. Wouldn't it be amazing if we could just copy paste 90% of our code from framework to framework?Well, you can. Reactive programming enables just this AND the ability to future proof your code.Not only can reactive programming help with your solutions to JavaScript fatigue, but the concepts and technology remain consistent from framework to framework.With its more declarative syntax and intrinsic portability, learn how to use RxJS in Angular, React, and Vue and what the future holds for for reactive primitives in TC39 and WHATWG.
+
+- title: The State of React Native
+  type: regular
+  level:
+  time: 2018-07-13
+  room:
+  authors:
+    - name: Ram N
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/83ffAY-CmL4
+  description: |-
+    React Native has been around for almost 5 years and has helped many developers build amazing Mobile Applications. In this talk, we will look at the current state of React Native with a whirlwind tool of its internals. We will also look at the upcoming changes in the architecture and how it plays well with React Fiber.
+
+- title: GraphQL State Management for React Native
+  type: regular
+  level:
+  time: 2018-07-13
+  room:
+  authors:
+    - name: Peggy Rayzis
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Lso6HbYNaLA
+  description: |-
+
+- title: Strategies For Using React Native In A Brownfield App
+  type: regular
+  level:
+  time: 2018-07-13
+  room:
+  authors:
+    - name: Harry Tormey
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/44YdvFAwQwA
+  description: |-
+    Hot reloading--the ability to push over the air updates to published apps and the promise of having your app “just work” out of the box on Android as well as iOS--make React Native a tempting proposition for frontend developers. But what do you do when you have to integrate React Native into a large existing native code base?This talk is from the perspective of an experienced native iOS developer who has worked with React Native to ship several cross-platform Greenfield and brownfield apps.
+
+- title: WebXR A New Dimension For The Web
+  type: regular
+  level:
+  time: 2018-07-13
+  room:
+  authors:
+    - name: Michaela Lehr
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/C9UdKyX1Si0
+  description: |-
+    Writing 3D applications for the browser is possible since some years due to the WebGL API. But since Virtual Reality and Augmented Reality are getting more popular, web developers and designers now have a serious reason to get to know the 3D web, its APIs and design patterns In this talk you will learn how to create 3D applications in the browser, using ReactJS in combination with popular VR libraries, like A-Frame and ReactVR. You will also see what is necessary to create a Virtual Reality app that runs on common VR devices, and how to create Augmented Reality applications for Android and iOS phones.Since 3D user interfaces and interactions in the browser are relatively new for designers and users, there are no established UX design patterns yet, but you will get to know best-practices and see some tips for improving the usability of your 3d application.The talk ends with my advice on how to create responsible applications, that won’t harm your users – neither physically nor psychologically.
+
+- title: Panel
+  type: regular
+  level:
+  time: 2018-07-13
+  room:
+  authors:
+    - name: nadir babit
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/iV-1gYCNhkQ
+  description: |-
+
+- title: Building AR Apps with React Native
+  type: regular
+  level:
+  time: 2018-07-13
+  room:
+  authors:
+    - name: Vladimir Novick
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/WYCZgWEnHkg
+  description: |-
+    With the release of ARKit and ARCore by Apple and Google we see various Augmented reality apps created for iOS and Android. Have you ever wondered how you can create such apps in React Native? In this talk we will see how it can be done fairly easily.
+
+- title: Using SVG in React Native
+  type: regular
+  level:
+  time: 2018-07-13
+  room:
+  authors:
+    - name: Ori Harel
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/IU44A0Z4Yrw
+  description: |-
+    Vector graphics is in fact the best way to provide great visualization and interaction combined. It exist on all platforms in some way or form, so it's just natural to use it in React Native. In this talk, I'll show you how I integrated the use of SVG with the opinionated component and state system of React, but in the same time keeping things highly performant when interacting with the UI thread - a topic a lot of developers are struggling with.
+
+- title: Good Enough Still Isn't Good Enough
+  type: regular
+  level:
+  time: 2018-07-13
+  room:
+  authors:
+    - name: Jani Eväkallio
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ZHARREDCwwo
+  description: |-
+    React Native has helped teams ship some wonderful apps -- but also many really, really terrible ones. We know it can be done, but what makes the successful ones tick? As React Native scales the hype curve towards a mainstream plateau, we need to have a talk about its strengths and weaknesses, and our responsibility as developers to make our products, and React Native as a technology, successful.This talk bridges engineering and art, spans topics from psychology to economics, and whatever you think it's going to be like, it probably isn't.
