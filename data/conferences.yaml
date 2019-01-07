@@ -140,6 +140,18 @@
   description: |-
     React Conf 2018 is the official Facebook React event. This year's event will be held in Henderson, Nevada.
 
+- id: 2018-11-03-javascript-conference-armenia
+  name: JavaScript Conference Armenia
+  url: https://jsconf.am/
+  date:
+    from: 2018-11-03
+    to: 2018-11-03
+  location:
+    country: Armenia
+    city: Yerevan
+  description: |-
+    Learn about the modern development ecosystem by attending talks and workshops.
+
 - id: 2018-11-12-chrome-dev-summit-2018
   name: Chrome Dev Summit 2018
   url: https://developer.chrome.com/devsummit/

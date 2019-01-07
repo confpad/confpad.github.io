@@ -1,0 +1,379 @@
+- title: Framework Design - Lessons Learned from Repeated Mistakes
+  type: regular
+  level:
+  time: 2018-11-03
+  room: Manoogyan Hall
+  authors:
+    - name: Rouben Meschian
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/FGSqKyws6i8
+  description: |-
+
+- title: Building Reliable Backend with Node.js
+  type: regular
+  level:
+  time: 2018-11-03
+  room: Manoogyan Hall
+  authors:
+    - name: Illya Klymov
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/uGumw80nYSM
+  description: |-
+
+- title: GraphQL & Apollo in Vue
+  type: regular
+  level:
+  time: 2018-11-03
+  room: Manoogyan Hall
+  authors:
+    - name: Natalia Tepluhina
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/iJULWNCaLrY
+  description: |-
+
+- title: Machine learning in the browser
+  type: regular
+  level:
+  time: 2018-11-03
+  room: Manoogyan Hall
+  authors:
+    - name: Varuzhan Harutyunyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/cbYT2oQzQQU
+  description: |-
+
+- title: Scalable Best Practices for Your Development Team
+  type: regular
+  level:
+  time: 2018-11-03
+  room: Manoogyan Hall
+  authors:
+    - name: Tejas Kumar
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/bs4vsji1GZ0
+  description: |-
+
+- title: The State of State Management in React
+  type: regular
+  level:
+  time: 2018-11-03
+  room: Manoogyan Hall
+  authors:
+    - name: Vardges Vardanyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/wYyvYMuPYyM
+  description: |-
+
+- title: Presentations with React and GraphQL
+  type: regular
+  level:
+  time: 2018-11-03
+  room: Manoogyan Hall
+  authors:
+    - name: Juho Vepsäläinen
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/vmGLhIbU-aE
+  description: |-
+
+- title: Orchestrating Node.js Containers with Kubernetes
+  type: regular
+  level:
+  time: 2018-11-03
+  room: Manoogyan Hall
+  authors:
+    - name: Shahen Hovhannisyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/JeRtDBbD7bs
+  description: |-
+
+- title: Metaprogramming, ES6 Proxy
+  type: regular
+  level:
+  time: 2018-11-03
+  room: Manoogyan Hall
+  authors:
+    - name: Robert Hanesoghlyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Xg6id30T0qY
+  description: |-
+
+- title: Objects in JavaScript
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 408E
+  authors:
+    - name: Hayk Barseghyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/viiidc6Buqc
+  description: |-
+
+- title: React !sync Rendering
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 408E
+  authors:
+    - name: Khachatur Virabyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Oy0jRhyodBc
+  description: |-
+
+- title: Optimizing bundle with WebPack and Code Splitting
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 408E
+  authors:
+    - name: Arnold Dadayan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/G9JWBtueLeU
+  description: |-
+
+- title: GatsbyJS as the Future of the Web
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 408E
+  authors:
+    - name: Ruben Harutyunyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/JTJ-0Y2Wlc8
+  description: |-
+
+- title: Thinking and Styling in React
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 408E
+  authors:
+    - name: Hrach Mkrtchyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/XNJ11uDJGfc
+  description: |-
+
+- title: Test-Driven Development with Jest
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 408E
+  authors:
+    - name: David Demirkhanyan
+      twitter:
+      github:
+      website:
+    - name: Narek Ghevondian
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/0G5E5XDDp48
+  description: |-
+
+- title: ES2015+ code in production, Reality or Myth
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 408E
+  authors:
+    - name: Lilit Tadevosyan
+      twitter:
+      github:
+      website:
+  slides:
+    - https://docs.google.com/presentation/d/1nwXYF6POhhSelww4lvnB61KRocpur9wlIx2DPixFTWI/edit?fbclid=IwAR2Ff0kiLlnC1oAYUgEM0Hr4KKanVnaQLudcgrKtb_70iUp1U-k6bJeTPyM
+  videos:
+    - https://youtu.be/adclLyUFx3c
+  description: |-
+
+- title: Simple Mobile App Using NativeScript Angular
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 408E
+  authors:
+    - name: Gor Rustamyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/eE3GmEfpi6Y
+  description: |-
+
+- title: NodeJS. Going Serverless with AWS Lambda
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 114W
+  authors:
+    - name: Slavik Manukyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/q8U3iHYh3uI
+  description: |-
+
+- title: JavaScript Engines.The V8 Engine
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 114W
+  authors:
+    - name: Albert Hovhannisyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/5_NVFmmjEI0
+  description: |-
+
+- title: React Server-Side Rendering | Isomorphic JavaScript
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 114W
+  authors:
+    - name: Ruben Sargsyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/l7oNkk1196A
+  description: |-
+
+- title: Developing JS Applications Using Docker Containers
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 114W
+  authors:
+    - name: Hayk Galstyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/c4A-UAFS238
+  description: |-
+
+- title: Web Scraping with Puppeteer and NodeJS
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 114W
+  authors:
+    - name: Razmik Bourtoutian
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/5ArQ6cgam0w
+  description: |-
+
+- title: GraphQL, why and when?
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 114W
+  authors:
+    - name: Vova Hayrapetyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/6yBOkb48QoM
+  description: |-
+
+- title: Building SPA with WebAssembly by using Blazor
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 114W
+  authors:
+    - name: Aghasi Lorsabyan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/vKJvazrMgRo
+  description: |-
+
+- title: You Don't Know Node.js EventLoop
+  type: regular
+  level:
+  time: 2018-11-03
+  room: 114W
+  authors:
+    - name: Nairi Haroutiounian
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/_FTWUEezG_o
+  description: |-
