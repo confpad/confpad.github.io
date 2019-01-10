@@ -130,6 +130,18 @@
   description: |-
     Chain React was started in 2017 by the team at Infinite Red, who wanted nothing more than to learn from other React Native enthusiasts, eat great food, and nerd out about Redux vs MobX.
 
+- id: 2018-07-18-jscamp-2018
+  name: JSCamp 2018
+  url: https://jscamp.tech/2018/
+  date:
+    from: 2018-07-18
+    to: 2018-07-20
+  location:
+    country: Spain
+    city: Barcelona
+  description: |-
+    JSCamp 2018 is a two-day developer-driven conference and workshops, crafted for and by the community. Learn about the latest trends, meet experts and core team members of different frameworks, tools and engines. Let's talk about the Future of JavaScript and the Web.
+
 - id: 2018-08-31-byteconf-react-2018
   name: Byteconf React 2018
   url: https://www.byteconf.com/react-2018/

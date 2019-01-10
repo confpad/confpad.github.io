@@ -1,0 +1,287 @@
+- title: A Tale of Two Asyncs
+  type: regular
+  level:
+  time: 2018-07-19 09:40
+  room:
+  authors:
+    - name: Ashley Williams
+      twitter: ag_dubs
+      github: ashleygwilliams
+      website:
+  slides:
+    - https://ashleygwilliams.github.io/a-tale-of-two-asyncs/#1
+  videos:
+    - https://youtu.be/Gh3I9JqFAos
+  description: |-
+    Webpack 4 is closely drawing near to its final release! But what does that mean to you? Join me as not only I help break down everything we’ve accomplished this year, but also look forward to what we have in store for you in the future. Join me as we’ll talk about what it means to represent the #0CJS (Zero Config JS) movement, what it means to put developers first, and how we aim to embody the term Legato: to perform in a smooth, flowing, manner without gaps.
+
+- title: 'Building a Platform: Webpack and the Future'
+  type: regular
+  level:
+  time: 2018-07-19 10:20
+  room: ESTOCOLMO - 1st floor
+  authors:
+    - name: Sean Larkin
+      twitter: TheLarkInn
+      github: TheLarkInn
+      website:
+  slides:
+    - https://docs.google.com/presentation/d/1nE-9fE5Cfe5X0IJUtx4Qt6is06j5v-3b8JB9A37OKcA/edit?usp=sharing
+  videos:
+    - https://youtu.be/YHH6fWE0AdM
+  description: |-
+    Building a Platform: Webpack and the Future by Sean Larkin
+
+- title: Rise above the Framework
+  type: regular
+  level:
+  time: 2018-07-19 11:20
+  room:
+  authors:
+    - name: Mike Hartington
+      twitter: mhartington
+      github: mhartington
+      website:
+  slides:
+    - https://speakerdeck.com/mhartington/rise-above-the-framework-jscamp-2018
+  videos:
+    - https://youtu.be/zl9OMrgXoPk
+  description: |-
+    Rise above the framework by Mike Hartington
+
+- title: A Tale of Types, Classes, and Maps
+  type: regular
+  level:
+  time: 2018-07-19 12:00
+  room:
+  authors:
+    - name: Benedikt Meurer
+      twitter: bmeurer
+      github: bmeurer
+      website: https://benediktmeurer.de/
+  slides:
+    - https://slidr.io/bmeurer/javascript-engines-a-tale-of-types-classes-and-maps#1
+  videos:
+    - https://youtu.be/IFWulQnM5E0
+  description: |-
+    A Tale of Types, Classes, and Maps by Benedikt Meurer
+
+- title: Keep Betting On JavaScript
+  type: regular
+  level:
+  time: 2018-07-19 14:40
+  room:
+  authors:
+    - name: Kyle Simpson
+      twitter: getify
+      github: getify
+      website:
+  slides:
+    - https://speakerdeck.com/getify/keep-betting-on-js
+  videos:
+    - https://youtu.be/lDLQA6lQSFg
+  description: |-
+    Keep Betting on JavaScript by Kyle Simpson
+
+- title: Understanding client side routing with Vue.js
+  type: regular
+  level:
+  time: 2018-07-19 15:20
+  room:
+  authors:
+    - name: Hassan Djirdeh
+      twitter: djirdehh
+      github: djirdehh
+      website:
+  slides:
+    - https://speakerdeck.com/djirdehh/understanding-client-side-routing-with-vue-dot-js
+  videos:
+    - https://youtu.be/YFnimUl8Qjo
+  description: |-
+    Understanding client side routing with Vue.js by Hassan Djirdeh
+
+- title: WebXR
+  type: regular
+  level:
+  time: 2018-07-19 16:20
+  room:
+  authors:
+    - name: Michaela Lehr
+      twitter: fischaelameer
+      github: Fischaela
+      website:
+  slides:
+    - https://www.slideshare.net/geildanke/webxr-a-new-dimension-for-the-web-writing-virtual-and-augmented-reality-apps-with-web-technology
+  videos:
+    - https://youtu.be/DQ9ddFyUv1g
+  description: |-
+    WebXR by Michaela Lehr
+
+- title: Building Real-World Desktop Apps with Electron
+  type: regular
+  level:
+  time: 2018-07-19 17:00
+  room:
+  authors:
+    - name: Anuj Nair
+      twitter: anujrnair
+      github: AnujRNair
+      website:
+  slides:
+    - https://speakerdeck.com/anujrnair/building-real-world-desktop-apps-with-electron
+  videos:
+    - https://youtu.be/u7WvLTgyyqY
+  description: |-
+    Building Real-World Desktop Apps with Electron by Anuj Nair
+
+- title: The Bumpy Road to Universal JavaScript
+  type: regular
+  level:
+  time: 2018-07-20 09:40
+  room:
+  authors:
+    - name: Johannes Ewald
+      twitter: Jhnnns
+      github: jhnns
+      website:
+  slides:
+    - https://peerigon.github.io/talks/2018-07-20-js-camp-barcelona-bumpy-road-universal-javascript/
+  videos:
+    - https://youtu.be/r69Z3r4z-Hw
+  description: |-
+    The Bumpy Road to Universal JavaScript by Johannes Ewald
+
+- title: Semantic, Searchable Webapps with Angular
+  type: regular
+  level:
+  time: 2018-07-20 10:20
+  room:
+  authors:
+    - name: MARTIN SPLITT
+      twitter: g33konaut
+      github: g33konaut
+      website:
+  slides:
+  videos:
+    - https://youtu.be/E2lJoVD0Wec
+  description: |-
+    Semantic, Searchable Webapps with Angular by Martin Splitt
+
+- title: Break Up With Your Frontend Monolith
+  type: regular
+  level:
+  time: 2018-07-20 11:00
+  room:
+  authors:
+    - name: Elisabeth Engel
+      twitter: _lizzelo_
+      github:
+      website:
+  slides:
+    - https://slides.com/elisabethengel/micro-frontends/
+  videos:
+    - https://youtu.be/J30MEXMntLM
+  description: |-
+    Break Up With Your Frontend Monolith by Elisabeth Engel
+
+- title: Rethinking Enterprise Architectures with Node.js
+  type: regular
+  level:
+  time: 2018-07-20 12:00
+  room:
+  authors:
+    - name: Kamil Mysliwiec
+      twitter: kammysliwiec
+      github: kamilmysliwiec
+      website:
+  slides:
+    - https://speakerdeck.com/kamilmysliwiec/rethinking-enterprise-architectures-with-node-dot-js
+  videos:
+    - https://youtu.be/ixz0IefmecI
+  description: |-
+    Rethinking Enterprise Architectures with Node.js by Kamil Mysliwiec
+
+- title: Machine Learning in the browser
+  type: regular
+  level:
+  time: 2018-07-20 12:40
+  room:
+  authors:
+    - name: LIAN LI
+      twitter: Chimney42
+      github: Chimney42
+      website:
+  slides:
+    - https://slidr.io/Chimney42/machine-learning-in-the-browser
+  videos:
+    - https://youtu.be/x7TfHH5G8qM
+  description: |-
+    Machine Learning in the browser by Lian Li
+
+- title: The past, present, and future of the Web
+  type: regular
+  level:
+  time: 2018-07-20 14:40
+  room:
+  authors:
+    - name: Steve Klabnik
+      twitter: steveklabnik
+      github: steveklabnik
+      website:
+  slides:
+    - steveklabnik/jscampbcn2018
+  videos:
+    - https://youtu.be/EHzrk1j7z7Q
+  description: |-
+    The past, present, and future of the Web by Steve Klabnik
+
+- title: Service Workers + WebAssembly
+  type: regular
+  level:
+  time: 2018-07-20 15:20
+  room:
+  authors:
+    - name: Kenneth Christiansen
+      twitter: kennethrohde
+      github: kenchris
+      website:
+  slides:
+    - https://docs.google.com/presentation/d/1fzFU_1xnltIq0yWNfY1WKUZc7VjGE0JLHLOtk09AV1g/edit
+  videos:
+    - https://youtu.be/h6eIqy46OIk
+  description: |-
+    Experience implementing a WebP decoder by Kenneth Christiansen
+
+- title: How does npm design
+  type: regular
+  level:
+  time: 2018-07-20 16:20
+  room:
+  authors:
+    - name: Jerry Gabra
+      twitter: gabrrra
+      github: gabra
+      website:
+  slides:
+    - gabra/talks/blob/master/2018-07-jscamp-barcelona/slides.pdf
+  videos:
+    - https://youtu.be/4RlIPl8mySw
+  description: |-
+    How does npm design by Jerry Gabra
+
+- title: How to Create 'Vuetiful' Data-Driven User Interfaces
+  type: regular
+  level:
+  time: 2018-07-20 16:40
+  room:
+  authors:
+    - name: Evan Schultz
+      twitter: e_p82
+      github: e-schultz
+      website:
+  slides:
+    - https://www.slideshare.net/EvanSchultz1/createing-vuetiful-datadriven-user-interfaces
+  videos:
+    - https://youtu.be/G8-jEotjYpQ
+  description: |-
+    How to create "Vuetiful" Data-Driven User Interfaces by Evan Schultz
