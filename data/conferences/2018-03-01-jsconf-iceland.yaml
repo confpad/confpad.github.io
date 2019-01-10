@@ -1,0 +1,431 @@
+- title: 'Node.js: Where are we now, where are we going?'
+  type: regular
+  level:
+  time: 2017-03-01 09:30
+  room:
+  authors:
+    - name: Anna Henningsen
+      twitter: addaleax
+      github: addaleax
+      website:
+  slides:
+  videos:
+    - https://youtu.be/O3MYg3Tp36s
+  description: |-
+    Node.js has been around for 9 years now, so you might think we’re getting closer to holding a finished piece of software in our hands. Yet somehow, despite placing a high value on stability, it is seeing a record number of commits and new contributors.
+
+- title: Beyond React 16
+  type: regular
+  level:
+  time: 2017-03-01 10:00
+  room:
+  authors:
+    - name: Dan Abramov
+      twitter: dan_abramov
+      github: gaearon
+      website:
+  slides:
+  videos:
+    - https://youtu.be/nLF0n9SACd4
+  description: |-
+    React 16 was released several months ago. Even though this update was largely API-compatible, the rewritten internal engine included new long-requested features and opened the door for exciting future possibilities.
+
+- title: Speech Recognition as a Progressive Enhancement
+  type: regular
+  level:
+  time: 2017-03-01 11:10
+  room:
+  authors:
+    - name: Michael Henretty
+      twitter: mikehenrty
+      github: mikehenrty
+      website:
+  slides:
+  videos:
+    - https://youtu.be/rka9y6yJyX4
+  description: |-
+    Around 10 years ago, we had to reinvent the web to cope with tiny, touchable screens. In many ways we had to rethink the definition of a web application. These revisions yielded powerful new features like push notifications, and (usable) offline support
+
+- title: Simplifying Complex UIs with Finite Automata & Statecharts
+  type: regular
+  level:
+  time: 2017-03-01 11:10
+  room:
+  authors:
+    - name: David Khourshid
+      twitter: davidkpiano
+      github: davidkpiano
+      website:
+  slides:
+  videos:
+    - https://youtu.be/RqTxtOXcv8Y
+  description: |-
+    As the number of possible states in your app grows, developing UIs can become exponentially more complex. With the help of finite automata, or finite state machines (FSMs), you will be able to manage your app's states in a simple, robust way, and even visualize them! In this session, we will discover how FSMs and statecharts can take your UIs to the next level, with innovative techniques for implementing, testing, and visualizing your app's finite states in a robust, automated way, with plenty of use cases, demos, and resources.
+
+- title: “Works for Me”
+  type: regular
+  level:
+  time: 2017-03-01 11:50
+  room:
+  authors:
+    - name: Bryan Hughes
+      twitter: nebrius
+      github: nebrius
+      website:
+  slides:
+  videos:
+    - https://youtu.be/M5jb2eEWr0A
+  description: |-
+    "Works for me." The words spoken to dismiss a thousand bugs. "Can't Reproduce." Issue closed. "You're getting worked up over nothing." "It was just a joke." "I worked just as hard to get here." "It didn't bother me." Problem dismissed.
+
+- title: 'End to End Testing: The Game Has Changed'
+  type: regular
+  level:
+  time: 2017-03-01 11:50
+  room:
+  authors:
+    - name: Will Klein
+      twitter: willslab
+      github: willklein
+      website:
+  slides:
+  videos:
+    - https://youtu.be/C1D94jWy8uE
+  description: |-
+    Testing our JavaScript apps has come a long way. For years we relied on Selenium Webdriver to automate browser testing from outside the browser. Now we can use tools like Cypress to interact from the same JavaScript runtime as our app, without relying on remote APIs, language bindings, or browser-specific drivers.
+
+- title: 'Sharing is Caring: build a peer-to-peer network with WebRTC'
+  type: regular
+  level:
+  time: 2017-03-01 13:30
+  room:
+  authors:
+    - name: Nicole Chung
+      twitter: redconservatory
+      github: nicolechung
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ZGPOQOLv1p0
+  description: |-
+    Yes, it’s still experimental, but you can build a peer-to-peer real-time connection using WebRTC - a connection that shares audio, video, files in a fast, highly secure, decentralized manner.
+
+- title: 'Augmented Reality: Past, Present, Future'
+  type: regular
+  level:
+  time: 2017-03-01 13:30
+  room:
+  authors:
+    - name: Raisa Cuevas
+      twitter: raisaveuc
+      github: raisaveuc
+      website:
+  slides:
+  videos:
+    - https://youtu.be/vOy8Qaml5yY
+  description: |-
+    Big brands across various industries are starting to realize the potential of augmented reality (AR) for innovation in marketing and in product. But with AR's history dating back to 1968, why has it suddenly become the next big thing? This talk will dive into the rich history of AR to help us understand and appreciate where the technology is now. You will learn some tools to build with AR today, and understand how the technology will open up creative possibilities for our future
+
+- title: Humanizing Your Documentation
+  type: regular
+  level:
+  time: 2017-03-01 14:10
+  room:
+  authors:
+    - name: Carolyn Stransky
+      twitter: carolstran
+      github: carolstran
+      website:
+  slides:
+  videos:
+    - https://youtu.be/FvPXMUuUCS4
+  description: |-
+    It’s no secret that most people don’t read technical documentation for pleasure. Users often come to your docs when they are frustrated with your software, disappointed that they haven't been able to solve the problem on their own and generally feeling pretty low. This is a little sad, yeah, but being aware of these feelings is key for developers and technical writers. These emotions frame the reader’s perspective and therefore, should shape the mood of our docs. After all, when you've been stuck on a bug for hours, do you really want to read something saying 'but this is so easy'? In this talk, we’ll discuss how the language we use affects our users and the first steps towards writing accessible, approachable and use case-driven documentation.
+
+- title: 'Paint Splatter: The making of an interactive artwork'
+  type: regular
+  level:
+  time: 2017-03-01 14:10
+  room:
+  authors:
+    - name: Halldór Eldjárn & Þórður Hans Baldursson
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/5CljHnVQWUQ
+  description: |-
+    Colourful paint dripping all over Harpa Concert and Conference Hall's outer walls, vandalism without consequences.
+
+- title: Creating generative art with Javascript
+  type: regular
+  level:
+  time: 2017-03-01 14:50
+  room:
+  authors:
+    - name: Kate Compton
+      twitter: galaxykate
+      github: galaxykate
+      website:
+  slides:
+  videos:
+    - https://youtu.be/tJ49bTJ6fbs
+  description: |-
+    Can you write a program to create art? Code can create procedural content for games, but it can also create 3D printable objects, patterns for fabric, or Twitterbots that post code-created comic strips. Kate has produced all of these and more (and is known for outreach and education about generativity) and will demonstrate practical techniques behind generating emergent surprising and artistic worlds with Javascript, Canvas, and SVG.
+
+- title: XSS, CSRF, CSP, JWT, WTF? IDK
+  type: regular
+  level:
+  time: 2017-03-01 14:50
+  room:
+  authors:
+    - name: Dominik Kundel
+      twitter: dkundel
+      github: dkundel
+      website:
+  slides:
+  videos:
+    - https://youtu.be/c6mqdsfWdmE
+  description: |-
+    Robert'); DROP TABLE Students;-- The little Bobby Tables is embodying the classical fear of SQL injections when building web applications.However, SQL injections are just one aspect of things we need to worry about when building web applications. With the recent popularity of Angular, React and other Single Page Application frameworks we got more logic executing on the front-end create new problems and make you forget about others.
+
+- title: Give Apps Online Superpowers by Optimizing them for Offline
+  type: regular
+  level:
+  time: 2017-03-01 15:50
+  room:
+  authors:
+    - name: Dan Gebhardt
+      twitter: dgeb
+      github: dgeb
+      website:
+  slides:
+  videos:
+    - https://youtu.be/hr135pFCLU8
+  description: |-
+    Applications that are able to operate offline require a certain level of rigor for storing state and tracking mutations. It turns out that an application built with this rigor can also provide a better online user experience, by applying and tracking changes optimistically yet deterministically.
+
+- title: Directional Content in React
+  type: regular
+  level:
+  time: 2017-03-01 16:30
+  room:
+  authors:
+    - name: Maja Wichrowska
+      twitter: majapw
+      github: majapw
+      website:
+  slides:
+  videos:
+    - https://youtu.be/A_3BfONFRUc
+  description: |-
+    In 2017, Airbnb supported 27 languages and had developed robust translation tools that made it easy to add more. We launched Croatian in May with little overhead beyond setting up the new domain and translating phrases. However, this was not true for all new languages; our next most requested language, Hebrew, posed a unique challenge. Because it reads right-to-left, the entire Hebrew UI must be flipped. Browsers only handle reversing the DOM structure, but styling and interactions must be coded manually.
+
+- title: How to style in React and not lose friends
+  type: regular
+  level:
+  time: 2018-03-02 10:00
+  room:
+  authors:
+    - name: Sarrah Vesselov
+      twitter: svesselov
+      github:
+      website: sarrahvesselov.com/
+  slides:
+  videos:
+    - https://youtu.be/V-flI7ui52M
+  description: |-
+    Aside from recent political events, I don't know of another topic sure to cause more heated debate than how you should style React components. This talk sets out to cover the main methods for styling in React (and beyond).
+
+- title: Wait, you can do that with JavaScript…!?
+  type: regular
+  level:
+  time: 2018-03-02 10:00
+  room:
+  authors:
+    - name: Opher Vishnia
+      twitter: opherv
+      github: opherv
+      website: opherv.com
+  slides:
+  videos:
+    - https://youtu.be/JCATu2WkOq8
+  description: |-
+    In 98’ I made my first webpage, which leveraged JavaScript to annoy visitors with blinking text animations. In 2017 I developed a film entirely in JS, which debuted in the Tribeca Film Festival. You can do so much with the browser today: Procedural art, interactive VR, physical simulation, real-time multiplayer games - and that’s just the tip of the iceberg. In this talk I want to take you a step further beyond sites and Web Apps. Perhaps your next project could push the envelope of the web as we know it?
+
+- title: GitHub Pull Requests for Everyone
+  type: regular
+  level:
+  time: 2018-03-02 10:40
+  room:
+  authors:
+    - name: Catherine Meade
+      twitter: catheraaine
+      github: catheraaine
+      website: catheraaine.com
+  slides:
+  videos:
+    - https://youtu.be/LqOcx-CtN0w
+  description: |-
+    Reviewing a pull request can feel like a chore. If done poorly, PR reviews can mean a few hours of attempting to understand both the problem and the solution, then checking that the result matches the design. Sure, many of us have the luxury of walking to our coworker’s desk and getting a walk through. But what if the other dev isn’t free? What if they live in another time zone? What if you need a project manager or designer to look at your work, and they don’t have a local setup or much dev experience?
+
+- title: 'Building with Blockchains: Better Distributed Applications'
+  type: regular
+  level:
+  time: 2018-03-02 10:40
+  room:
+  authors:
+    - name: John Feminella
+      twitter: jxxf
+      github: fj
+      website: jxf.me/
+  slides:
+  videos:
+    -
+  description: |-
+    Blockchains are a new kind of data structure with many interesting applications, and are perhaps most notable for their use in cryptocurrencies like Bitcoin. In this talk, we’ll explore what a blockchain is, where and how you might use them (and when you shouldn't, despite what the hype might tell you!), and show how we might build our own in JS.
+
+- title: Houdini - What lies ahead
+  type: regular
+  level:
+  time: 2018-03-02 11:20
+  room:
+  authors:
+    - name: Arun Michael Dsouza
+      twitter: amdsouza92
+      github: arunmichaeldsouza
+      website: arunmichaeldsouza.com
+  slides:
+  videos:
+    - https://youtu.be/BalUlHBwwlM
+  description: |-
+    This talk aims at covering the CSS Houdini spec and its amalgamation with JavaScript.CSS Houdini is a W3C effort to define lower-level CSS APIs for developers to understand, recreate, and extend high level CSS authoring features.This talk will focus on current ideas (being discussed by the CSS Houdini working group), finalised specifications, future plans for development of CSS Houdini and how it will change the way we use JavaScript APIs to create rich user experiences.
+
+- title: Scaling NodeJS beyond the ordinary
+  type: regular
+  level:
+  time: 2018-03-02 11:20
+  room:
+  authors:
+    - name: Abhinav Rastogi
+      twitter: _abhinavrastogi
+      github: abhinavrastogi
+      website:
+  slides:
+  videos:
+    - https://youtu.be/K8spO4hHMhg
+  description: |-
+    We have been using Node as our primary web serving layer for the last 3 years at Flipkart, continuously adding more features, more properties and most importantly, more traffic onto it. This has led to the discovery of a lot of bottlenecks and a lot of late-night load tests. In this talk, I’ll be focusing on scaling a Node based web server and what kind of issues we have run into. This will include different approaches to attacking this problem like horizontal and vertical scaling. I will be taking you through the variety of resource bottlenecks you can expect to run into, like network, memory, disk and cpu. I’ll touch upon how to find these bottlenecks and what technologies you can use to solve them.
+
+- title: 'Today: Making a browser fast, the story of Firefox Quantum.'
+  type: regular
+  level:
+  time: 2018-03-02 13:00
+  room:
+  authors:
+    - name: Jean-Yves Perrier
+      twitter: Teoli2003
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Frwe3x8HfwE
+  description: |-
+    What is expected from a browser has changed over the years. From displaying a simple text pages with a few images in the 90s to a tool that displays 4K videos at 120 fps for Virtual Reality applications, browser had to evolve to keep up with the expectation.
+
+- title: 'Code, Play & Rock ''n'' Roll: A WebAudio Experiment'
+  type: regular
+  level:
+  time: 2018-03-02 13:00
+  room:
+  authors:
+    - name: Armagan Amcalar
+      twitter: dashersw
+      github: dashersw
+      website: arm.ag
+  slides:
+  videos:
+    - https://youtu.be/VE0kjwvuw7c
+  description: |-
+    The speaker hits the “stage” with a guitar, playing memorable rock tunes using a web browser as an amplifier. This talk is about pushing the limits of what a web browser can do, and goes over pedalboard.js, an open source JavaScript framework for building real-time guitar effects in the browser.
+
+- title: Building a raytracing engine with JS
+  type: regular
+  level:
+  time: 2018-03-02 13:40
+  room:
+  authors:
+    - name: Madlaina Kalunder
+      twitter: anialdam
+      github: aadjou
+      website: madlaina.li/
+  slides:
+  videos:
+    - https://youtu.be/s9-BqS32cF8
+  description: |-
+    In this talk we will build a 3D ray tracer with Javascript. We learn about the basics of real time 3D graphics and what we need in order to produce realistic looking 3D graphics in the browser
+
+- title: 'Empathy as a Service: Supporting Mental Health in Tech'
+  type: regular
+  level:
+  time: 2018-03-02 13:40
+  room:
+  authors:
+    - name: Nara Kasbergen
+      twitter: xiehan
+      github: xiehan
+      website: nara.codes
+  slides:
+  videos:
+    - https://youtu.be/nRMJMRdquJA
+  description: |-
+    1 in 5 Americans are living with a mental illness such as depression, bipolar, anxiety, or ADHD. As a community, the single most damaging thing we can do is perpetuate the stigma against mental disorders. This talk will begin with an overview of key statistics about mental wellness, followed by the efforts of the non-profit organization Open Sourcing Mental Illness to gather more data about mental health in the tech industry, and conclude with the bulk of the talk focusing on ideas and strategies for making our tech workplaces more accommodating and inclusive.
+
+- title: Daedalus – Though the Maze of Code
+  type: regular
+  level:
+  time: 2018-03-02 14:50
+  room:
+  authors:
+    - name: Martin Kleppe
+      twitter: aemkei
+      github: aemkei
+      website: aem1k.com/
+  slides:
+  videos:
+    - https://youtu.be/SeAbvjM5Fhw
+  description: |-
+    In Greek mythology, Daedalus (Greek: Δαίδαλος "to work artfully") was a skillful craftsman and artist who created the first Labyrinth. People like him still exist and are known as creative coders and code golfers. They push the limits of what is possible with JavaScript and open new doors for others.
+
+- title: 'Webpack 4: The State of the Art'
+  type: regular
+  level:
+  time: 2018-03-02 15:20
+  room:
+  authors:
+    - name: Sean Thomas Larkin
+      twitter: thelarkinn
+      github: thelarkinn
+      website:
+  slides:
+  videos:
+    - https://youtu.be/jUTE7lmrS70
+  description: |-
+    Webpack 4 is closely drawing near to its final release! But what does that mean to you? Join me as not only I help break down everything we’ve accomplished this year, but also look forward to what we have in store for you in the future. Join me as we’ll talk about what it means to represent the #0CJS (Zero Config JS) movement, what it means to put developers first, and how we aim to embody the term Legato: to perform in a smooth, flowing, manner without gaps.
+
+- title: Live and Machine Learn
+  type: regular
+  level:
+  time: 2018-03-02 15:50
+  room:
+  authors:
+    - name: Sarah Drasner
+      twitter: sarah_edo
+      github: sdras
+      website: sarahdrasnerdesign.com
+  slides:
+  videos:
+    - https://youtu.be/i2iCyulbnus
+  description: |-
+    The life we live online increasingly informs the way we live offline as well. Businesses live and die through algorithms like SEO, humans are sorted in government systems, and we make large, life-governing decisions through what is shown to us on the web: home buying, where to live, what to eat, and who we're in contact with regularly. The first shift we as web developers saw was people living and learning on the web more and more, which excited us. But as we start to automate those tasks through machine learning algorithms, a lot of us have trepidation. We know systems have flaws, what are the political and social consequences?

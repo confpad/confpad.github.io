@@ -46,6 +46,18 @@
   description: |-
     The main Angular event in the Nordics. And the only travelling Angular conference in the world.
 
+- id: 2018-03-01-jsconf-iceland
+  name: JSConf Iceland 2018
+  url: https://2018.jsconf.is/
+  date:
+    from: 2018-03-01
+    to: 2018-03-02
+  location:
+    country: Iceland
+    city: Reykjavik
+  description: |-
+    JSConf is coming to Iceland, again! This time, the conference takes place on March 1-2, 2018. That’s from Thursday through Friday. Perfect for catching up on talks, and with friends from the JavaScript community.Those two days will be jam-packed. Expect two tracks of inspiring, motivational and educational talks, from over 30 speakers from around the world. The speaker selection will comprise curated speakers and audience volunteers. The curated speakers submit proposals and make it through the selection process, whereas the audience volunteer speakers are “first-come, first-speak“.
+
 - id: 2018-03-03-concat-2018
   name: .concat() 2018
   url: https://2018.conc.at/
