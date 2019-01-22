@@ -154,6 +154,18 @@
   description: |-
     The PyCon 2018 conference, which will take place in Cleveland, is the largest annual gathering for the community using and developing the open-source Python programming language.
 
+- id: 2018-06-26-smashing-conference-toronto-2018
+  name: Smashing Conference Toronto 2018
+  url: https://archive.smashingconf.com/toronto-2018/
+  date:
+    from: 2018-06-26
+    to: 2018-06-27
+  location:
+    country: Canada
+    city: Toronto
+  description: |-
+    Learn how others failed, so that you won’thave to make the same mistakes. You willalso discover techniques, strategies andtooling to get to better results, faster.
+
 - id: 2018-07-11-chain-react-2018
   name: Chain React 2018
   url: https://infinite.red/ChainReactConf/2018
