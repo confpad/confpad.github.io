@@ -20,7 +20,7 @@ FIELDS_A1=("slides:" "videos:" "description:")
 
 for field in "${FIELDS_A1[@]}"
 do
-  echo Inspecting field: \"${field}\"
-  grep -A1 ${field} ${FILE} | sort -n | uniq -c | sort -nr
+  echo Inspecting field "(-A1)": \"${field}\"
+  grep -A1 ${field} ${FILE} | grep -v -e "^--$" | sort -n | uniq -c | sort -nr
   echo
 done
