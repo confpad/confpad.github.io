@@ -5,8 +5,8 @@
   room:
   authors:
     - name: Kent C. Dodds
-      twitter:
-      github:
+      twitter: kentcdodds
+      github: kentcdodds
       website:
   slides:
   videos:
@@ -37,8 +37,8 @@
   room:
   authors:
     - name: Darin Wilson
-      twitter:
-      github:
+      twitter: darinwilson
+      github: darinwilson
       website:
   slides:
   videos:
@@ -53,8 +53,8 @@
   room:
   authors:
     - name: Samantha Bretous
-      twitter:
-      github:
+      twitter: samanthabretous
+      github: samanthabretous
       website:
   slides:
   videos:
@@ -69,8 +69,8 @@
   room:
   authors:
     - name: Rotem Mizrachi-Meidan
-      twitter:
-      github:
+      twitter: rotemmiz
+      github: rotemmiz
       website:
   slides:
   videos:
@@ -85,7 +85,7 @@
   room:
   authors:
     - name: Erin Fox
-      twitter:
+      twitter: erinfoox
       github:
       website:
   slides:
@@ -101,8 +101,8 @@
   room:
   authors:
     - name: Ray Deck
-      twitter:
-      github:
+      twitter: ray_deck
+      github: rhdeck
       website:
   slides:
   videos:
@@ -117,8 +117,8 @@
   room:
   authors:
     - name: Adrien Thiery
-      twitter:
-      github:
+      twitter: adrien0
+      github: adrienthiery
       website:
   slides:
   videos:
@@ -133,7 +133,7 @@
   room:
   authors:
     - name: Erica Cooksey
-      twitter:
+      twitter: ericacooksey
       github:
       website:
   slides:
@@ -149,8 +149,8 @@
   room:
   authors:
     - name: Andy Mockler
-      twitter:
-      github:
+      twitter: asmockler
+      github: asmockler
       website:
   slides:
   videos:
@@ -165,8 +165,8 @@
   room:
   authors:
     - name: Mike Grabowski
-      twitter:
-      github:
+      twitter: grabbou
+      github: grabbou
       website:
   slides:
   videos:
@@ -181,8 +181,8 @@
   room:
   authors:
     - name: Jen Luker
-      twitter:
-      github:
+      twitter: knitcodemonkey
+      github: knitcodemonkey
       website:
   slides:
   videos:
@@ -197,7 +197,7 @@
   room:
   authors:
     - name: Robert Scarano
-      twitter:
+      twitter: scarano
       github:
       website:
   slides:
@@ -213,8 +213,8 @@
   room:
   authors:
     - name: Tracy Lee
-      twitter:
-      github:
+      twitter: ladyleet
+      github: ladyleet
       website:
   slides:
   videos:
@@ -229,8 +229,8 @@
   room:
   authors:
     - name: Ram N
-      twitter:
-      github:
+      twitter: nparashuram
+      github: axemclion
       website:
   slides:
   videos:
@@ -245,8 +245,8 @@
   room:
   authors:
     - name: Peggy Rayzis
-      twitter:
-      github:
+      twitter: peggyrayzis
+      github: peggyrayzis
       website:
   slides:
   videos:
@@ -260,7 +260,7 @@
   room:
   authors:
     - name: Harry Tormey
-      twitter:
+      twitter: htormey
       github:
       website:
   slides:
@@ -276,7 +276,7 @@
   room:
   authors:
     - name: Michaela Lehr
-      twitter:
+      twitter: FischaelaMeer
       github:
       website:
   slides:
@@ -291,7 +291,7 @@
   time: 2018-07-13
   room:
   authors:
-    - name: nadir babit
+    - name: Nadir Babit
       twitter:
       github:
       website:
@@ -307,8 +307,8 @@
   room:
   authors:
     - name: Vladimir Novick
-      twitter:
-      github:
+      twitter: VladimirNovick
+      github: vnovick
       website:
   slides:
   videos:
@@ -323,8 +323,8 @@
   room:
   authors:
     - name: Ori Harel
-      twitter:
-      github:
+      twitter: oriharel
+      github: oriharel
       website:
   slides:
   videos:
@@ -339,8 +339,8 @@
   room:
   authors:
     - name: Jani Eväkallio
-      twitter:
-      github:
+      twitter: jevakallio
+      github: jevakallio
       website:
   slides:
   videos:
