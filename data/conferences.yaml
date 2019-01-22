@@ -106,6 +106,18 @@
   description: |-
     JavaScript is everywhere. At the International JavaScript Conference you will meet internationally known JavaScript experts who share their knowledge in vanilla JavaScript as well as the most important JS frameworks.
 
+- id: 2018-04-17-smashing-conference-san-francisco-2018
+  name: Smashing Conference San Francisco 2018
+  url: https://archive.smashingconf.com/sf-2018/
+  date:
+    from: 2018-04-17
+    to: 2018-04-18
+  location:
+    country: USA
+    city: San Francisco, CA
+  description: |-
+    Learn how others failed, so that you won’thave to make the same mistakes. You willalso discover techniques, strategies andtooling to get to better results, faster.
+
 - id: 2018-04-25-react-finland-2018
   name: React Finland 2018
   url: https://react-finland.fi
