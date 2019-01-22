@@ -200,6 +200,18 @@
   description: |-
     Do you want to learn about React and React Native? Then you shouldn't miss React Alicante next September! You will have the opportunity to improve your developer skills and meet people from around the world, while enjoying the food and warm weather from the southeast coast of Spain.
 
+- id: 2018-09-20-empirejs-2018
+  name: EmpireJS 2018
+  url: https://2018.empirejs.org/
+  date:
+    from: 2018-09-20
+    to: 2018-09-21
+  location:
+    country: USA
+    city: New York, NY
+  description: |-
+    Every year the Empire team ramps up, we try to highlight one of the things that makes New York City an amazing place to live, work, visit, and git push origin master in. This year we return to showcase the little language you know and love at the Kaye Playhouse at Hunter College this September 20 and 21. We're so excited that we're able to feature New York at its finest, and we're really looking forward to pushing Empire, JS, and Node.js towards another incredible year.
+
 - id: 2018-10-18-graphql-finland-2018
   name: GraphQL Finland 2018
   url: https://graphql-finland.fi/2018/
