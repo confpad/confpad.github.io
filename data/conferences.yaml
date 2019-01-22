@@ -284,6 +284,18 @@
   description: |-
     Para muchos de nosotros, el desarrollo web es, simplemente, apasionante. Estar al tanto de las últimas tendencias en desarrollo, los últimos cambios de nuestro framework de cabecera o incluso de sus competidores, son parte de nuestro día a día. Por ese motivo, seguramente, estás ahora leyendo este artículo en el blog de JSDayES.
 
+- id: 2018-10-23-smashing-conference-new-york-2018
+  name: Smashing Conference New York 2018
+  url: https://archive.smashingconf.com/ny-2018/
+  date:
+    from: 2018-10-23
+    to: 2018-10-24
+  location:
+    country: USA
+    city: New York, NY
+  description: |-
+    Learn how others failed, so that you won’thave to make the same mistakes. You willalso discover techniques, strategies andtooling to get to better results, faster.
+
 - id: 2018-10-25-react-conf-2018
   name: React Conf 2018
   url: https://conf.reactjs.org/
