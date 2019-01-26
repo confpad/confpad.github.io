@@ -70,6 +70,18 @@
   description: |-
     The web development and UX conference in Salzburg. One day, two tracks, 19 amazing speakers.
 
+- id: 2018-03-08-reactfest-2018
+  name: ReactFest 2018
+  url: https://reactfest.com/
+  date:
+    from: 2018-03-08
+    to: 2018-03-09
+  location:
+    country: United Kingdom
+    city: London
+  description: |-
+    We're excited to have such amazing speakers and  great talks that wanted to keep it a surprise for you! You will find out the speakers line up during ReactFest and here is the agenda structure + some talks (not presented in sequential order) to think about.
+
 - id: 2018-04-10-jsheroes-2018
   name: JSHeroes 2018
   url: https://jsheroes.io/2018

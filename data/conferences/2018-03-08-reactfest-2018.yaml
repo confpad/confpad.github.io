@@ -1,0 +1,232 @@
+- title: Zero Config GraphQL State Management
+  type: regular
+  level:
+  time: 2018-03-09
+  room:
+  authors:
+    - name: Peggy Rayzis
+      twitter: peggyrayzis
+      github: peggyrayzis
+      website:
+  slides:
+    - http://reactfest-apollo.surge.sh/
+  videos:
+    - https://youtu.be/jFULzAMS-jI
+  description: |-
+    The future of state management in React apps is here!In this talk, we'll discuss why GraphQL queries and mutations are a perfect fit for describing what's happening with our app's local and remote data. You'll also learn how Apollo Client can simplify React state management by eliminating configuration and providing one unified interface to all of your app's data.
+
+- title: Suspense
+  type: regular
+  level:
+  time: 2018-03-09
+  room:
+  authors:
+    - name: Dan Abramov
+      twitter: dan_abramov
+      github: gaearon
+      website:
+  slides:
+  videos:
+    - https://youtu.be/6g3g0Q_XVb4
+  description: |-
+    Dan Abramov (@dan_abramov) is working on @reactjs at Facebook and is a co-author of Redux and Create React App.
+
+- title: The Dark and Lonely Road to Styling in React
+  type: regular
+  level:
+  time: 2018-03-09
+  room:
+  authors:
+    - name: Sara Vieira
+      twitter: NikkitaFTW
+      github:
+      website:
+  slides:
+    - https://react-fest-talk.now.sh/
+  videos:
+    - https://youtu.be/Q249u4W_IZQ
+  description: |-
+    CSS is hard ! I made a living out of it being hard but when React was introduced we had a whole new level of fighting over CSS, there are so many ways to approach it and so many tradeoffs one can do when choosing the better approach that a talk that will go over these options is more than necessary. Let's walk this road together and I promise it will all be fine and you will leave with an idea of type of styling is better for each project.
+
+- title: State Management in a GraphQL Era
+  type: regular
+  level:
+  time: 2018-03-09
+  room:
+  authors:
+    - name: Kitze
+      twitter: thekitze
+      github: kitze
+      website:
+  slides:
+    - https://www.slideshare.net/kristijanmkd/state-management-in-a-graphql-era
+  videos:
+    - https://youtu.be/s-3k7O5rSFY
+  description: |-
+    We're going to start with exploring the evolution of making a SPA.! Then we're going to dive into the problem of how fetching, caching, and reading data really complicates state-management and see what approaches we took with different libraries and frameworks like jQuery, Angular, and React. External state management frameworks like Redux and MobX definitely helped with this problem, especially when the data is fetched from a REST endpoint.But now that we're using GraphQL to take care of the data, is an external state-management library even needed?Can GraphQL coexist with the other state management frameworks? What about server-side rendering? What are the pros and cons of each combination?
+
+- title: Productive React Development
+  type: regular
+  level:
+  time: 2018-03-09
+  room:
+  authors:
+    - name: Stephanie Siaw
+      twitter: Siaw_Stephanie
+      github: stephanie
+      website:
+  slides:
+  videos:
+    - https://youtu.be/avKBrgIQXzk
+  description: |-
+    What are the secrets to productivity for a React developer? Could you be faster and happier while building components?From Stephanie's experiences working on React/Redux projects that have lasted from days to years, she will share some of the tools, work environments and teams that have worked best.
+
+- title: How to Draw an Owl
+  type: regular
+  level:
+  time: 2018-03-09
+  room:
+  authors:
+    - name: Marcel Cutts
+      twitter: marcelCutts
+      github: MarcelCutts
+      website:
+  slides:
+    - https://marcelcutts.github.io/how-to-draw-an-owl/#/
+  videos:
+    - https://youtu.be/53rifn77_bk
+  description: |-
+    OK! You've gotten to grips with JavaScript typing basics, and you want to use them in anger. You see talks with titles like "Pro-functor Lenses" and shrug. You will get to that level but for now you're just trying to make types help you create something marvellous.You'e not alone!We're going to cruise through building a full-stack application consisting of React, GraphQL, node and ReasonML to demonstrate how to best wield these weapons against real-world web application problems with both confidence and style.
+
+- title: You Have No Excuse!
+  type: regular
+  level:
+  time: 2018-03-09
+  room:
+  authors:
+    - name: Eli Schutze
+      twitter: elibelly
+      github: elischutze
+      website:
+  slides:
+  videos:
+    - https://youtu.be/6NwgHUcom_8
+  description: |-
+    While about 51% of the world's websites are in English, only about 25% of web users are English speakers.With half of the world’s population online, internationalisation is as crucial as ever. In this talk, we'll explore why all your lame excuses for not internationalising are wrong and how you can get started with i18n today.
+
+- title: Wait, What Happens When My React Native Application Starts?
+  type: regular
+  level:
+  time: 2018-03-09
+  room:
+  authors:
+    - name: Nicolas Couvrat
+      twitter: nicol4s_c
+      github: nicolascouvrat
+      website: http://www.nicolascouvrat.com/
+  slides:
+  videos:
+    - https://youtu.be/rReCzR6DMEM
+  description: |-
+    Developing in React Native we often forget that event an simple "hello world" uses almost 1 000 000 lines of code. A non negligible part of it is dedicated to organising its launch, from firing the JavaScript thread to maintaining a "bridge" between JavaScript and native code.While it might be fine not to worry about it for small applications, bigger developments can benefit from understanding what React Native does under the hood. For example, have you ever wondered what is the meaning behind the usual boilerplate when creating a native component?After a short overview of the launch phase and threading in React native, we will dive deeper and look at what exactly is hidden behind the "bridge", before discussing how it allows the creation of native modules usable both from native and JavaScript code.
+
+- title: An Introduction to Redux Saga
+  type: regular
+  level:
+  time: 2018-03-09
+  room:
+  authors:
+    - name: Sophie Koonin
+      twitter: type_error
+      github: sophiekoonin
+      website:
+  slides:
+    - https://docs.google.com/presentation/d/1gEnNXk7EQ7pp2c88eJGYOCMJZCK02jeorwMFcaiPy1A/edit
+  videos:
+    - https://youtu.be/il9rXYOLWjA
+  description: |-
+    Not to be confused with insurance policies for the over 50s, redux-saga is a super handy library for managing side effects (such as API calls) in your React app. When used in conjunction with Redux it's a powerful way to fetch data into the state while your main application is executing. Whether or not you've used the saga pattern or related libraries before, this talk will explain what sagas are, how they work, what they're useful for and - the icing on the cake - just how easy they are to test (especially compared to some of the alternatives out there such as redux-thunk).The talk is pitched at developers who are comfortable with React and have at least a baseline knowledge of what Redux does.
+
+- title: We Need To Talk About Our Frontend Workflow
+  type: regular
+  level:
+  time: 2018-03-09
+  room:
+  authors:
+    - name: Siddharth Kshetrapal
+      twitter: siddharthkp
+      github: siddharthkp
+      website:
+  slides:
+  videos:
+    - https://youtu.be/bLgZwFRYTJ4
+  description: |-
+    Building high quality interfaces that are consistent across products is hard. Fear not, Design Systems with React is the solution!
+
+- title: Journey Through VR and AR with React
+  type: regular
+  level:
+  time: 2018-03-09
+  room:
+  authors:
+    - name: Tomasz Łakomy
+      twitter: tlakomy
+      github: tlakomy
+      website:
+  slides:
+    - https://tlakomy.github.io/react-fest/
+  videos:
+    - https://youtu.be/PJyZdxGztaY
+  description: |-
+    It's time to leave the 2D world of a browser window and venture into the world of enhanced reality JavaScript applications.During the talk we'll see how to make great VR and AR experiences using just your browser and a bit of React, with live demos included, so we'll get to see them in action!
+
+- title: GraphQL Servers in the Browser
+  type: regular
+  level:
+  time: 2018-03-09
+  room:
+  authors:
+    - name: David Gomes
+      twitter: davidrfgomes
+      github: davidgomes
+      website: http://davidgom.es/
+  slides:
+    - https://speakerdeck.com/davidgomes/graphql-servers-in-the-client
+  videos:
+    - https://youtu.be/YOCrJ5vRCnw
+  description: |-
+    Why would it ever make sense to put a GraphQL server inside a browser? Client-side applications using React should consider this because of how it streamlines application development and solidifies the data - component relationship.It can also speed up your front-end application if you're dealing with millions of rows of data because your WebWorker will be dealing with the expensive stuff and your UI's Main Thread will be free for faster rendering.In this talk David explains why it makes sense to run GraphQL inside a browser for "pure" client-side applications and how to interact with WebWorkers to achieve this goal.
+
+- title: Taming the Beast How to Tame React and GraphQL
+  type: regular
+  level:
+  time: 2018-03-09
+  room:
+  authors:
+    - name: Susanna Wong
+      twitter: studioswong
+      github: studioswong
+      website:
+  slides:
+    - https://www.slideshare.net/SusannaWong5/taming-the-beast-how-to-tame-react-graphql-one-error-at-a-time
+  videos:
+    - https://youtu.be/5kCv8_A9yi8
+  description: |-
+    While the React stack and its many third party tools are powerful Beasts, as a React developer we often find ourselves trapped within errors ( webpack errors anyone?) that are the main cause of frustrations in our day to day work.This talk mainly focuses on going through some of the common development errors, peeling through the underlying principles of React, GraphQL and webpack in better understanding how we could tame those three beasts and be a master of our tools.
+
+- title: Garbage Collection in Modern Web Applications
+  type: regular
+  level:
+  time: 2018-03-09
+  room:
+  authors:
+    - name: Jan Monschke
+      twitter: thedeftone
+      github: janmonschke
+      website:
+  slides:
+    - https://docs.google.com/presentation/d/1dr1lbWO-jWcQ41TJAUwP55Bi1bVjVob4ZMiNnwgiwio/present?slide=id.p
+  videos:
+    - https://youtu.be/aaGacO-Yybs
+  description: |-
+    The React + Redux stack has become very popular and in addition with Electron is even used in desktop applications.Companies are using that stack to build chat clients, email clients and music streaming applications. Building applications for the desktop however comes with its own set of unique problems that usually don't apply for web applications.Users will have the app open for a significantly longer period of time than on the web. This means that all of a sudden web developers have to think about memory management.Redux itself does not come with tools to help you clean up your state but it is very flexible and allows developers to build solutions on top of it.
