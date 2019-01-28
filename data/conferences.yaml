@@ -214,6 +214,18 @@
   description: |-
     JSCamp 2018 is a two-day developer-driven conference and workshops, crafted for and by the community. Learn about the latest trends, meet experts and core team members of different frameworks, tools and engines. Let's talk about the Future of JavaScript and the Web.
 
+- id: 2018-08-16-react-rally-2018
+  name: React Rally 2018
+  url: http://www.reactrally.com/
+  date:
+    from: 2018-08-16
+    to: 2018-08-17
+  location:
+    country: USA
+    city: Salt Lake City, UT
+  description: |-
+    React Rally is a two day single track conference for developers of all backgrounds using Facebook's React.js, React Native, and related tools. Speakers will cover topics such as React Native, Flux, ES6, isomorphic universal JavaScript, and so much more. Whether you're a seasoned developer who has been using React since before it was cool, or a newcomer to the scene, React Rally has something for everyone!
+
 - id: 2018-08-30-frontend-conference-zurich
   name: Frontend Conference Zurich 2018
   url: https://frontendconf.ch/

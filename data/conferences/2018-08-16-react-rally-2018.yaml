@@ -1,0 +1,286 @@
+- title: Why React is not Reactive
+  type: regular
+  level:
+  time: 2018-08-16
+  room:
+  authors:
+    - name: Shawn Swyx Wang
+      twitter: swyx
+      github: sw-yx
+      website:
+  slides:
+  videos:
+    - https://youtu.be/nyFHR0dDZo0
+  description: |-
+    Functional-reactive libraries like RxJS make it easy to understand how data changes, giving us tools to declaratively handle events and manage state. But while our render methods react to state changes, React isn’t reactive. Instead, we write imperative event-handlers, and trip up on gotchas like async setState and race conditions. Why? In this talk we build a Reactive React to show the difference between the "push" and "pull" paradigms of data flow and understand why React chooses to manage Scheduling as a core Design Principle, enabling awesome features like async rendering and Suspense!
+
+- title: Reacting in a Crisis
+  type: regular
+  level:
+  time: 2018-08-16
+  room:
+  authors:
+    - name: Carrie Maxwell
+      twitter: Carofine247
+      github: cdikibo
+      website:
+  slides:
+  videos:
+    - https://youtu.be/S1E6C8O7fk0
+  description: |-
+    Budgets, Housing, and Hurricanes. What do all of these things have in common? Civic Hacking. These were local problems that were tackled by a village of coding warriors using React offerings to deploy quickly.
+
+- title: Algebraic effects, Fibers, Coroutines...Oh my!
+  type: regular
+  level:
+  time: 2018-08-16
+  room:
+  authors:
+    - name: Brandon Dail
+      twitter: aweary
+      github: aweary
+      website:
+  slides:
+  videos:
+    - https://youtu.be/7GcrT0SBSnI
+  description: |-
+    React Fiber was a full re-write of React that will enable new and exciting patterns around control flow, which we've seen previewed with React Suspense. But what is a fiber? How does it relate to a coroutine? What are algebraic effects, and why do I keep hearing about them? This talk will go over these computer science topics in the context of React Fiber, to help shed some light on how React Fiber is implemented and the control flow concepts behind the new APIs.
+
+- title: The Life Cycle Methods and The Wolf A Musicological Romp
+  type: regular
+  level:
+  time: 2018-08-16
+  room:
+  authors:
+    - name: Ryan Moore
+      twitter: panicwhenever
+      github: paniclater
+      website:
+  slides:
+  videos:
+    - https://youtu.be/o4XxQl-1JJU
+  description: |-
+    In 1936 Sergei Prokofiev introduced his piece Peter and The Wolf, which broke down a complex system of sound and tied it to narrative elements Peter as the playful Strings, the Wolf as powerful French Horns, etc.I will apply a similar method to introduce, teach and identify each component life cycle method with a musical accompaniment. I will compose a musical theme for and introduce each one independently. Finally I will conduct a small chamber of orchestral musicians as they perform their themes along with an actual react component performing updates in real(ish) time!
+
+- title: Chaos Monkeys in Your Browser What Chaos Engineering Means for the Front End
+  type: regular
+  level:
+  time: 2018-08-16
+  room:
+  authors:
+    - name: Brian Holt
+      twitter: holtbt
+      github: btholt
+      website:
+  slides:
+  videos:
+    - https://youtu.be/A4_rRj-4Mv0
+  description: |-
+    Chaos Monkey, but for your web app. Come learn how intentional failure injection is not only good for the back end but also for the front end. Hint,it means you’ll get paged less at 3AM, and I think we’re all happy about that.
+
+- title: Explorable Explanations with React
+  type: regular
+  level:
+  time: 2018-08-16
+  room:
+  authors:
+    - name: Joshua Comeau
+      twitter: joshWComaeu
+      github: joshwcomeau
+      website:
+  slides:
+  videos:
+    - https://youtu.be/XjFR9Jc-ras
+  description: |-
+    Explorable explanations are dynamic, interactive, visual tools created to teach systems and concepts, the unlikely pairing of a video game and a data visualization. They’re an exciting new form of media that lets the learner develop an intuitive understanding of the subject.In this talk, we’ll reconstruct an existing explorable explanation on waveforms and sound. We’ll start from the bottom up, using small, bite-sized components that encapsulate specific UI or behavioural concerns, working our way up to a dynamic, interactive, animated tool.
+
+- title: AI For Everybody
+  type: regular
+  level:
+  time: 2018-08-16
+  room:
+  authors:
+    - name: Feather
+      twitter: featherart
+      github: featherart
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Vbu7a2P_dQ4
+  description: |-
+    My team is building a platform for AI in the cloud using React. The concept behind this project is to make AI accessible to anyone. "AI for you! AI for you too! And even you, over there, have some AI!" This talk will explore unique challenges of writing a complex React app in a totally new domain.
+
+- title: One Hundred Years of JavaScript
+  type: regular
+  level:
+  time: 2018-08-16
+  room:
+  authors:
+    - name: Justin Falcone
+      twitter: modernserf
+      github: modernserf
+      website:
+  slides:
+  videos:
+    - https://youtu.be/J7Cotg0DRsg
+  description: |-
+    JavaScript is the new COBOL widely hated but hugely successful, JS defines populist programming in the 21st century much as COBOL did in the punchcard era. But COBOL never really went away -- there are COBOL programs still running our banks and civic institutions half a century after its heyday. Many JS apps will have similar lifespans, yet we struggle with the accumulated cruft of a two year-old codebase; how will we handle a hundred years? Let's examine how software can grow and adapt over the decades, so we can write code that won't be a burden to future generations.
+
+- title: ReasonML is Serious Business
+  type: regular
+  level:
+  time: 2018-08-17
+  room:
+  authors:
+    - name: Ken Wheeler
+      twitter: ken_wheeler
+      github: kenwheeler
+      website:
+  slides:
+  videos:
+    - https://youtu.be/lzEweA7RPi0
+  description: |-
+
+- title: Swipe Left, Uncaught TypeError Learning to Love Type Systems
+  type: regular
+  level:
+  time: 2018-08-17
+  room:
+  authors:
+    - name: Lauren Tan
+      twitter: sugarpirate_
+      github: poteto
+      website:
+  slides:
+  videos:
+    - https://youtu.be/y3uXazpAdwo
+  description: |-
+    Sometimes, undefined is not a function. As mortal programmers, we ship bugs to production everyday. Bugs slow us down, frustrate our users, and cause us to have crises of confidence. Don't go alone–type systems in TypeScript, Flow, and GraphQL can improve your confidence and help you ship less bugs. We'll start with why a practical look at what you'll get from embracing types. Then, a gentle introduction to the ideas behind them. Finally, we'll explore the possibilities of a type system over the network.
+
+- title: Help me WebAssembly, you're my only hope!
+  type: regular
+  level:
+  time: 2018-08-17
+  room:
+  authors:
+    - name: Jay Phelps
+      twitter: _jayphelps
+      github: jayphelps
+      website:
+  slides:
+  videos:
+    - https://youtu.be/6KeDFvdxRZk
+  description: |-
+    WebAssembly (aka wasm) is a new, standardized compilation target for the web, shipping in all modern browsers. But since it's so low level it can be difficult to see how it will revolutionize the next generation of web apps–and definitely not just games and C++!In this talk I will reveal what it is, how you can use it today, and the incredible opportunities it will unlock in the years to come on both the Web and on Desktop. We'll also explore how React itself might some day use WebAssembly to power it's Virtual DOM.
+
+- title: Hot Garbage Clean Code is Dead
+  type: regular
+  level:
+  time: 2018-08-17
+  room:
+  authors:
+    - name: Michael Chan
+      twitter: chantastic
+      github: chantastic
+      website:
+  slides:
+  videos:
+    - https://youtu.be/-NP_upexPFg
+  description: |-
+    The Code is rising up to enslave us. An army of linter-plugins have given it a voice and it's angry. Clean code isn't the goal, its the enemy. Great code isn't clean, it's hot garbage—hot-swappable and easy to throw out. Code is a means to an end. When we stop fetishizing code and start fighting it, we've found the right enemy and we can get back to to the good work of serving customers.
+
+- title: React Off the Grid
+  type: regular
+  level:
+  time: 2018-08-17
+  room:
+  authors:
+    - name: Sophia Shoemaker
+      twitter: wisecobbler
+      github: mrscobbler
+      website:
+  slides:
+  videos:
+    - https://youtu.be/UHNfv6k_1OQ
+  description: |-
+    Creating a React application for orphans in Ghana offered some unique challenges. Progressive Web Apps (PWAs) are more than just "cool" or "hip" — they can be really important for applications where the internet is spotty, if available at all. Learn why I chose React + AWS Lambda for a country with poor internet connectivity, and general lessons on the often messy and exciting world of creating offline applications.
+
+- title: Through the (Open Source) Looking Glass
+  type: regular
+  level:
+  time: 2018-08-17
+  room:
+  authors:
+    - name: Henry Zhu
+      twitter: left_pad
+      github: hzoo
+      website:
+  slides:
+  videos:
+    - https://youtu.be/h0sfFX7WH1c
+  description: |-
+    Why do releases take so long, what challenges do we still face in open source, and why have I been feeling so anxious all the time? Here's some reflections on open source.
+
+- title: Translating React
+  type: regular
+  level:
+  time: 2018-08-17
+  room:
+  authors:
+    - name: Jennifer Wong
+      twitter: mybluewristband
+      github: jennz0r
+      website: http://mochimachine.com/
+  slides:
+  videos:
+    - https://youtu.be/r33EWrP5EL4
+  description: |-
+    We often use React and write JSX without thinking about the syntax. But what’s React actually doing under the hood? What’s the JavaScript look like? Let’s translate React into JavaScript, transpile that and see what we get. Let’s pick apart what React is really doing and get at the heart of it. We’ll talk about the importance and usefulness of knowing its baselines for beginners and experts alike. We'll gain a clearer understanding of where React’s magic originates. So the next time you use React or write JSX, you’ll be secretly translating in your head for deeper insight and edification.
+
+- title: Simply React
+  type: regular
+  level:
+  time: 2018-08-17
+  room:
+  authors:
+    - name: Kent C. Dodds
+      twitter: kentcdodds
+      github: kentcdodds
+      website: https://kentcdodds.com/
+  slides:
+  videos:
+    - https://youtu.be/AiJ8tRRH0f8
+  description: |-
+    Don't you love how easy it is to encapsulate UI code into a React component? I do! Despite this, making those same components reusable can be a challenge. Our components often start simple, but then they have to adapt as unforeseen use cases come up. This often results in a growing list of props and complex implementation full of if statements and a confusing API. An inevitable rewrite of the component eventually hits and now we have two problems.Let's take a step back and consider some things we can do upfront to keep our components flexible, simple, and optimized for inevitable change.
+
+- title: Everything You Need to Know About GraphQL in 3 Components
+  type: regular
+  level:
+  time: 2018-08-17
+  room:
+  authors:
+    - name: Eve Porcello
+      twitter: eveporcello
+      github: eveporcello
+      website: http://moonhighway.com/
+  slides:
+  videos:
+    - https://youtu.be/F_M8v6MK0Sc
+  description: |-
+    Three components that’s all you need to know to start building React applications with GraphQL. In this talk, I’ll walk you through brand new ways to get data with the Query Component. We’ll examine how to change data in ways that will explode your mind with the Mutation Component. And just when you think you can’t handle any more excitement, we’ll bring out the Subscription Component. That’s all you’ll need to know to get hooked on GraphQL.
+
+- title: Route Recalculating
+  type: regular
+  level:
+  time: 2018-08-17
+  room:
+  authors:
+    - name: Ryan Florence
+      twitter: ryanflorence
+      github: ryanflorence
+      website:
+  slides:
+  videos:
+    - https://youtu.be/X-kA8B2QzjY
+  description: |-
+    React's new async rendering brings with it a whole new set of practices and possibilities. Many of these (if not most) are all about switching from one screen to another, which is exactly the job of a router. We're going to dive in to see what async rendering means for routing in React.
