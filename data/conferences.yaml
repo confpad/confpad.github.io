@@ -284,6 +284,18 @@
   description: |-
     Every year the Empire team ramps up, we try to highlight one of the things that makes New York City an amazing place to live, work, visit, and git push origin master in. This year we return to showcase the little language you know and love at the Kaye Playhouse at Hunter College this September 20 and 21. We're so excited that we're able to feature New York at its finest, and we're really looking forward to pushing Empire, JS, and Node.js towards another incredible year.
 
+- id: 2018-09-29-react-boston-2018
+  name: React Boston 2018
+  url: http://www.reactboston.com/
+  date:
+    from: 2018-09-29
+    to: 2018-09-30
+  location:
+    country: United States
+    city: Boston
+  description: |-
+    React Boston believes that diversity is an important part of creating a welcoming, inclusive, and innovative tech community.
+
 - id: 2018-10-18-graphql-finland-2018
   name: GraphQL Finland 2018
   url: https://graphql-finland.fi/2018/
