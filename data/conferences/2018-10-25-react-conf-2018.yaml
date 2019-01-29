@@ -140,8 +140,7 @@
     - https://youtu.be/m-uy_2xmIP4
   description: |-
 
-- title: 'GraphQL without GraphQL - Backend Agnostic GraphQL inspired Queries For
-    Colocating Data Requests With Components '
+- title: 'GraphQL without GraphQL - Backend Agnostic GraphQL inspired Queries For Colocating Data Requests With Components '
   type: regular
   level:
   time: 2018-10-25
@@ -189,8 +188,7 @@
   description: |-
     "React is a library to build intuitive User Interfaces" as quoted in official React documentation. The past few decades of computing have been limited to flat 2D screens. However, the rise of AR/VR means that society will soon move beyond the screen: where the UI won’t be a flat piece of glass but the 3D spaces in which we live & move around. Since the inception of React, there have been multiple React-Renderer being made by community, One of them is ViroReact, a platform for Native AR/VR. The aim of Talk is to create immersive, lag free cross-platform content using ViroReact from scratch.
 
-- title: 'Beyond Web-Apps: React, JavaScript and WebAssembly To Port Legacy Native
-    Apps'
+- title: 'Beyond Web-Apps: React, JavaScript and WebAssembly To Port Legacy Native Apps'
   type: regular
   level:
   time: 2018-10-25
