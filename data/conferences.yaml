@@ -427,3 +427,15 @@
     city: London
   description: |-
     Experience the latest from Flutter, Google’s free and open source SDK for building high-quality native iOS and Android apps from a single codebase.  Flutter Live is a global celebration of Flutter.
+
+- id: 2016-02-22-reactjs-conf-2016
+  name: React.js Conf 2016
+  url: https://conf2016.reactjs.org/
+  date:
+    from: 2016-02-22
+    to: 2015-02-23
+  location:
+    country: California
+    city: San Francisco
+  description: |-
+    Come to React.js Conf to shape the future of client-side applications!
