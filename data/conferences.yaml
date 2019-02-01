@@ -1,3 +1,15 @@
+- id: 2015-01-28-reactjs-conf-2015
+  name: React.js Conf 2015
+  url: http://conf2015.reactjs.org/
+  date:
+    from: 2015-01-28
+    to: 2015-01-29
+  location:
+    country: USA
+    city: Menlo Park, CA
+  description: |-
+    This year’s conference features a mix of panels and talks set against the backdrop of beautiful Lake Las Vegas. In addition to a can’t-miss schedule, we’re organizing off-hour activities providing opportunities for relaxation, adventure, and getting to other React enthusiasts.
+
 - id: 2018-01-25-jsconf-asia-2018
   name: JSConf.Asia 2018
   url: https://2018.jsconf.asia/
