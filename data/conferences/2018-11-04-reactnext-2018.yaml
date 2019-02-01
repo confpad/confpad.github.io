@@ -1,0 +1,273 @@
+- title: State of the React Ecosystem
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Ben Ilegbodu
+      twitter: benmvp
+      github: benmvp
+      website:
+  slides:
+  videos:
+    - https://youtu.be/yOWzQOZIANU
+  description: |-
+    React has exploded in popularity. But it’s only a UI library, not a full-fledged framework like Angular, Ember or [insert latest JS framework]. We need to create our own “framework” by picking from the plethora of libraries in the React ecosystem. But which ones should we choose? Or better yet, which ones do we actually need? Do we need a Redux? What about handling styling, testing and routing, etc? How does it all come together?!!?!Let’s walk through the tools and helper libraries that surround React. By the end of the session, you’ll have a solid understanding of the ecosystem and know which libraries you should prioritize learning first in order to confidently build your own React-based stack.Ben Ilegbodu - Eventbrite, Principal Frontend Engineer.Ben is a Christian, husband and father of 2 girls, with a dozen years of experience developing user interfaces for the Web. He currently is a Principal Frontend Engineer at Eventbrite on the Frontend Platform team, focused on improving their React-based design system and frontend infrastructure. Ben also enjoys playing basketball, DIY, watching movies, and tweeting (@benmvp) / blogging (benmvp.com) about his experiences with new web technologies.
+
+- title: Advanced Patterns - Moving Beyond Presentation and Container Components
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Robert Herbst
+      twitter: robertfall
+      github: robertfall
+      website:
+  slides:
+  videos:
+    - https://youtu.be/GjkIxno8bik
+  description: |-
+    One of the first advanced React patterns we learn is to separate presentational, "dumb" components from state full and connected components called "containers". But it turns out there are a couple of other patterns that are useful when building larger react applications.This talk covers topics like how to inject services into your component tree, how to deal with different designs for different screen sizes when media queries just don't cut it, how to really keep presentation components clean and simple and where to put the complicated bits. It also touches on some of the dark arts of what's really possible with JSX.Robert Herbst - GoDaddy, SDE IV.Robert is a lover of all things code related and passionate about sharing "Aha!" moments he experiences. He's walked a winding path through the software world—including Delphi, dotnet, Ruby, Haskell and a developing interest in Rust and Elixir—but has most recently been involved with frontend development of the React and Javascript flavour and has some insights and learnings to share that come from working on large scale frontend applications in the enterprise space. He enjoys talking at meetups and conferences and helping people level up in whichever way he can.
+
+- title: MonoRepos for the Masses
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Marcel Cutts
+      twitter: marcelcutts
+      github: MarcelCutts
+      website:
+  slides:
+  videos:
+    - https://youtu.be/rdeBtjBNcDI
+  description: |-
+    React! Babel! Angular! Ember! Meteor! Jest! All these beasts and more swear by the magic of the monorepo - a secret sauce all these impactful projects share. You’re intrigued, but you have questions. What is a monorepo? What does it offer my React projects? How would I even get to having a monorepo? Will my hipster cred be incredible if I get one?join me in answering these questions, highlighting both the joys and the tricky parts of the turning monorepo mythos into pragmatic reality.Marcel Cutts , Asgard Enterprises - Founder.Marcel is a vagabond software engineer whose work has ranged from providing software for satellites, to developing zombie based fitness apps for millions of users. He can often be found courageously flinging himself at emerging technologies to explore what's all hype, what has substance, and what gives you the biggest hipster cred.
+
+- title: Building a Maintainable UI with Storybook
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Norbert de Langen
+      twitter: NorbertdeLangen
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/9lQMmbITt0c
+  description: |-
+    Storybook is a tool for developing UI components in isolation. And it's also for documentation and testing.I'd like to give you an overview of how to use storybook. But also I want to talk about what it's like maintaining a project like this. How did we go from 0 maintainers to 50+ and what were the lessons learned.Norbert de Langen - Frontend Consultant.I'm a consultant helping clients modernize existing codebases and greenfield projects. I love working with modern tools like Storybook, which I co-maintain. I focus on improving the user and dev experience and am passionate about, amongst other things, quality control, performance and style-guides.
+
+- title: Motion in React
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Kaylie Kwon
+      twitter: Kaylie_alexa
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Jz7gpHR5Bf4
+  description: |-
+    As client side applications are growing richer with interactivity, motion is entering the conversation as a critical part of user experience. With all the languages, tools, and APIs available, such as CSS Transitions/Animations, GSAP, and React Transition Group, how do you decide to choose one over the other?This talk will be a comparison of several approaches to implementing motion in React, from using CSS-in-JS tools like Styled Components, as well as animating components with vanilla JS, functional libraries, or libraries more closely tied to the ecosystem like React Motion.Kaylie Kwon, Netflix, Senior Software EngineerKaylie is a frontend engineer who loves all things related to modern web development and tooling. On her spare time, she likes to contribute to Yarn and other open source projects.
+
+- title: Building React Native
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Parashuram N
+      twitter: nparashuram
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/FX_WBhuioGo
+  description: |-
+    React Native is a great way to build native apps for iOS, Android and other mobile platforms. In this talk, we will look at the internals of React Native, and how code written in JavaScript can power a fully native mobile application. We will look at the various parts of the system like the bridge, the UI manager and the plugins. We will also touch upon the rendering process and compare it to React's rendering on the web. We will look at some of the new and exciting improvements powered by Fiber, and talk about the the interesting experiments and upcoming features.This talk stems from my experiences as a web-developer newbie on the React Native team, and is an attempt to document my journey in comprehending the code base. At the end of the talk, the attendees will not only be able to build React Native apps, but also understands how it all works together.Parashuram N - Software Engineer, FacebookParashuram is a software engineer at Facebook, working on the React Native core team. Before Facebook, he worked at Microsoft on React Native related products like CodePush, Mobile Center and VS Code debugger for React Native. Parashuram has been working with JS based Mobile App development technologies and is also a committer in the Apache Cordova project.
+
+- title: Beautiful Abstractions "What I Learned Reading the Source-Code of 18 React Libraries"
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Yonatan Mevorach
+      twitter: cowchimp
+      github: cowchimp
+      website:
+  slides:
+    - https://noti.st/cowchimp/begO8Y/beautiful
+  videos:
+    - https://youtu.be/9z_4gd5xH9M
+  description: |-
+    The open-source React community has produced some amazing 3rd-party libraries that make React development as powerful as it is. But what does it take to create a "beautiful abstraction", a library that hides a lot of complexity into a simple API? To answer this, I took a journey into the source code of 18 different React libraries, including of course the "big ones" like Redux, React Router, etc.In this talk we'll examine the patterns that these libraries share, and how you can apply them your own React Components.Yonatan Mevorach, Web Developer @ Wix.com I am a Web Developer with an expertise in frontend technologies, and my passion is creating high-end, quality, beautiful and performant web applications. I love creating tools to improve the development experience. Open source tools I've created have been used by engineers at Yahoo, Atlassian, Adobe, Kayak, etc. I'm proud to be a part of the team at Wix, where we've been early champions of React and published several open-source React libraries. I'm also a blogger and active conference speaker.
+
+- title: Immer, Immutability and the Wonderful World of Proxies
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Michel Weststrate
+      twitter: mweststrate
+      github: mweststrate
+      website:
+  slides:
+    - http://immer-react-next-2018.surge.sh/#1
+  videos:
+    - https://youtu.be/FKRVDfpQ9cw
+  description: |-
+    Immer is a tiny package that allows you to work with immutable data structures with unprecedented ease. It doesn't require learning new data structures or update APIs, but instead creates a temporarily shadow tree which can be modified using the standard JavaScript APIs. The shadow tree will be used to generate your next immutable state tree. This shadow tree is maintained using Proxies.Proxies are an exotic javascript feature that is nowadays available in all modern browsers. What are they, how do they work and why should you (not) use them?Join this talk to learn more about Proxies, or about how to deal with immutability data structures with a better DX as was ever possible so far. Brace yourself; your reducers will become twice as short without giving up on any of the semantic constraints.Michel Weststrate - Mendix, Tech Lead & OSS Evangelist.Tech Lead and Open Source evangelist at Mendix. Speaker, blogger and author of MobX, MobX-state-tree, immer and several other libraries.
+
+- title: Breaking Down Your Web App
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Patrick Hund
+      twitter: wiekatz
+      github: pahund
+      website:
+  slides:
+  videos:
+    - https://youtu.be/hN_UmUdEmuU
+  description: |-
+    There’s magic in every new beginning – building a new web app on a green field is every developer’s dream. A dream that can turn into a nightmare as the codebase grows, matures and finally becomes unmanageable.React is based on the concept of components. The idea is to compose your application of independent building blocks that you can easily reuse or replace with better ones. If you embrace this idea, you can keep your platform tidy and maintainable. If you don’t – well, you can write React spaghetti code just as easily as you can write jQuery spaghetti code.Patrick talks about his team’s constant effort to “componentize all the things”, to find best practices, strategies and patterns to constantly improve the code base. You’ll take away hands-on advice from real-world experience, to help you make your own code a little better every day, too!.Patrick Hund, Software Developer at http://mobile.de, eBay Classifieds Group,Patrick helps React and Node.js conquer the tech stack at eBay in Berlin, working on Germany’s biggest auto trading platform and online community, mobile.de.
+
+- title: Applying Microservices Design Patterns to Scale React App Development
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Itay Maoz
+      twitter: TheRealMohaz
+      github: itaym2
+      website:
+  slides:
+  videos:
+    - https://youtu.be/k3ZJVN9Drmw
+  description: |-
+    React and React Native allow for building truly amazing apps. As great as they are, having multiple teams working on a single, shared codebase is still a difficult task. It forces you to deal with issues such as accumulating tech debt, code ownership, and generally keeping everyone from stepping on each other’s toes.The world of backend development has already moved from monolithing, single-process deployments to using microservices as the go-to architecture for development at scale.In this session we will explore microservices design patterns, and learn how you can apply them to a React app, in order to scale the development of the app to multiple teams.Itay Maoz  - Tech Lead @ Soluto,For the past three years I have worked at Soluto as a senior software engineer, and as a tech lead. With nearly a decade of building high-scale distributed systems, I was a full-stack developer even before it was cool. Currently focusing on fronted end architecture and patterns.
+
+- title: React Responsively, Render Responsibly
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Yoav Niran
+      twitter: poeticGeek
+      github: yoavniran
+      website:
+  slides:
+  videos:
+    - https://youtu.be/O6pLZK3R2II
+  description: |-
+    The main premise of modern reactive applications is that they provide high-performance out of the box, making the user experience feel blazingly fast. Yet, there’s a limit to the magic that even React can pull off. There are times we need to help it, and often we might actually hurt the performance of our applications.In this talk I will do a live demo of investigating and resolving performance issues such as how immutable state' can actually adversely affect performance or how inefficient selectors can lead to components unnecessarily re-rendering. Using the Chrome Dev Tools and other profiling tools provided by React itself, we will discover how to find what's causing slowdowns. Then we'll go through the best practices needed to make our app blazing fast again.Yoav Niran, Senior Frontend Developer @ Cloudinary,I’m passionate about Technology, Software Engineering, Basketball and all things Science and Sci-Fi. I've been writing code for many years with a focus on web and front-end in particular. These days, I split my time between my two passions: writing code and writing my first sci-fi novel.
+
+- title: Wiring TypeScript into React
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Gil Fink
+      twitter: gilfink
+      github: gilf
+      website:
+  slides:
+  videos:
+    - https://youtu.be/nI6eD6pFGdA
+  description: |-
+    TypeScript is JavaScript super set language that adds more capabilities to JavaScript and of course static typing.In this short lighting talk we will have a practical demo to show you how to wire TypeScript language into your React app and Webpack build.Gil is a web development expert, Microsoft MVP and sparXys CEO. He is currently consulting for various enterprises and companies, where he helps to develop web and RIA-based solutions. He conducts lectures and workshops for individuals and enterprises who want to specialize in infrastructure and web development. He is also co-author of several Microsoft Official Courses (MOCs) and training kits, co-author of Pro Single Page Application Development book (Apress), co-organiser of GDG Rashlatz Meetup and Angular UP conference.
+
+- title: How to Write Bad Code in Redux
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Adam Klein
+      twitter: _500Tech
+      github: 500Tech
+      website:
+  slides:
+  videos:
+    - https://youtu.be/5JALXEkft2E
+  description: |-
+    "Redux forces you to write good code" - I've heard that sentence many times.In fact - it's quite easy to write bad code with Redux, as I will demonstrate in this talk.In this talk I will show some bad practices and techniques with Redux, and how to avoid them.We will cover aspects such as code reuse, coding conventions, and architecture.Adam Klein, CEO @ 500Tech,Adam is a web developer and consultant, and is the CEO of 500Tech. He is a leading community activist and an open sourcerer
+
+- title: Beyond Web Apps "React, JavaScript and WebAssembly to Port Legacy Native Apps"
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Florian Rival
+      twitter: Florianrival
+      github: 4ian
+      website:
+  slides:
+  videos:
+  description: |-
+    Can we create or port an existing native desktop application to a complete "React powered" web-app matching (or even exceeding) the quality of the legacy desktop app? Sounds like a good challenge! 🤔And this is what I decided to do with my game making software.This talk will explain all the problems I had and solutions that I used to port my native app written in C++, to a full React + WebAssembly app - while still keeping all existing features! Spoiler alert: At the end, it works.
+
+- title: Functional Programming Fundamentals
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Matthew Gerstman
+      twitter: MatthewGerstman
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Pjc1AnBLG8c
+  description: |-
+    In the past few years, React and Redux have generated a surge of Functional and Declarative Programming which we often take for granted. However many of us never got a chance to learn the fundamentals.In this talk, we’ll discuss the fundamentals of Functional Programming and how they apply to modern JavaScript. We’ll cover immutability, separation of concerns, and composability. We’ll avoid unnecessary jargon like monads and functors and stick to concepts that will make our code better.Matthew is a software engineer at Dropbox. He has worked on everything across the stack from deploying containers and databases to shipping Javascript. In recent history, Matthew has been focused on frontend tooling and organizes an internal community at Dropbox called the JS Guild. When he's not writing code, Matthew enjoys Harry Potter, Green Day, and Broadway shows.
+
+- title: Migrating from Angular to React
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Maayan Glikser
+      twitter: MaayanGlikser
+      github: morsdyce
+      website:
+  slides:
+  videos:
+    - https://youtu.be/NbJy1ZPrVYE
+  description: |-
+    Many of us have products that have been here for a while and are written in older frameworks. Eventually we have to upgrade for various reasons but a full rewrite is a big risk for the company.In this talk we'll learn how to gradually migrate from angularjs to react without hurting the business bottom line. Share data and build hybrid features which are powered both by react and angularjs. Until the final day where we can delete our old code and have a brand new application.Maayan is the CTO of 500Tech - a leading frontend consultancy in Israel. He created and contributed to several open source projects such as Mimic, Gisto, xhook, hostile and more. Maayan is passionate about developing tools to improve the developer day to day workflow in an efficient and fun way.
+
+- title: (Don't) Blame ot on React Native
+  type: regular
+  level:
+  time: 2018-11-04
+  room:
+  authors:
+    - name: Ofir Dagan
+      twitter: ofirdagan2
+      github: ofirdagan
+      website:
+  slides:
+  videos:
+    - https://youtu.be/U3uI7jHV458
+  description: |-
+    It’s always fun to blame react native for everything that is wrong in our lives. However, what we keep finding, again and again, is that for most of the cases. Writing better performant react code can fix our performance issues. In the last couple of years our team built a huge production app in react native.In this talk I’ll go over some of our lessons learned in regards of react native performance and how to improve your app’s performance subsequently.Hi I'm Ofir, an R&D manager at WIX.com. In the last few years I've worked a lot with react and angular and developed wix's dashboard from scratch. Over the last two years I’ve been leading the Wix CRM Mobile team, writing wix’s mobile app in react native and now I'm leading the Wix Chat group. I'm also a mentor at WIX Academy (WIX's training program) and I love speaking about software in all of its forms. Besides programming, I'm an adrenaline enthusiastic. From my latest hobby sailing, to climbing, bungee through surfing, diving skiing and snowboarding. If it has adrenaline I've done it ;)
+ 

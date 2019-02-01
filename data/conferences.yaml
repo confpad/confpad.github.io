@@ -380,6 +380,18 @@
   description: |-
     Learn about the modern development ecosystem by attending talks and workshops.
 
+- id: 2018-11-04-reactnext-2018
+  name: ReactNext 2018
+  url: https://2018.react-next.com/
+  date:
+    from: 2018-11-04
+    to: 2018-11-04
+  location:
+    country: Israel
+    city: Tel Aviv
+  description: |-
+    We are thrilled to present the 2018 edition of ReactNext – a one-day community-driven event packed with advanced lectures by internationally renowned speakers, and networking opportunities with over 600 attendees from all around the world, that share a passion for React, held in the center of the vibrant city of Tel Aviv. ReactNext targets both beginner and experienced devs in two parallel tracks with sessions about React, React Native, Redux, MobX, and everything about the ecosystem
+
 - id: 2018-11-12-chrome-dev-summit-2018
   name: Chrome Dev Summit 2018
   url: https://developer.chrome.com/devsummit/
