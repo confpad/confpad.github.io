@@ -46,6 +46,18 @@
   description: |-
     ReactEurope is also a great occasion to socialize, meet new people and old friends, hack together, taste delicious food and have fun in the beautiful city of Paris.
 
+- id: 2016-10-27-react-conf-2016
+  name: React Conf 2016
+  url: https://reactiveconf.com/
+  date:
+    from: 2016-10-27
+    to: 2016-10-28
+  location:
+    country: Slovakia
+    city: Bratislava
+  description: |-
+    World-class mobile and web innovators get together for three days in one town.Join them from October 26th to 28th in Bratislava, Slovakia!
+
 - id: 2017-03-28-react-london-2017
   name: React London 2017
   url: https://react.london/
