@@ -34,6 +34,18 @@
   description: |-
     React Amsterdam is a celebration of good things coming together: React.JS that rocks and spring in Amsterdam that blossoms. Event will take place in the neighbourhood of abandoned shipbuilding factory in 10 minutes by ferry from Amsterdam Central station in the venue named Pllek (The Place in Dutch).
 
+- id: 2016-05-31-reacteurope-2016
+  name: ReactEurope 2016
+  url: https://2016.react-europe.org/
+  date:
+    from: 2016-05-31
+    to: 2016-06-01
+  location:
+    country: France
+    city: Paris
+  description: |-
+    ReactEurope is also a great occasion to socialize, meet new people and old friends, hack together, taste delicious food and have fun in the beautiful city of Paris.
+
 - id: 2018-01-25-jsconf-asia-2018
   name: JSConf.Asia 2018
   url: https://2018.jsconf.asia/
