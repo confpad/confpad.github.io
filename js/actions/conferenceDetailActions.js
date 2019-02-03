@@ -14,7 +14,8 @@ export function fetchDetail(conferenceId) {
 
     dispatch({ type: ACTION_CONFERENCE_DETAIL_IS_FETCHING });
 
-    let url = `/data/conferences/${conferenceId}.yaml`;
+    let year = conferenceId.substr(0, 4);
+    let url = `/data/conferences/${year}/${conferenceId}.yaml`;
 
     fetch(url)
       .then(response => {
