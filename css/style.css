@@ -2,6 +2,7 @@
 @import "./elements.css";
 @import "./utils.css";
 @import "./header.css";
+@import "./content.css";
 @import "./spinner.css";
 @import "./conference-list-item.css";
 @import "./conference-detail-item.css";
