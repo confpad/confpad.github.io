@@ -46,6 +46,18 @@
   description: |-
     ReactEurope is also a great occasion to socialize, meet new people and old friends, hack together, taste delicious food and have fun in the beautiful city of Paris.
 
+- id: 2017-03-28-react-london-2017
+  name: React London 2017
+  url: https://react.london/
+  date:
+    from: 2017-03-28
+    to: 2017-03-28
+  location:
+    country: United Kingdom
+    city: London
+  description: |-
+    React London 2017 is the 1st React conference in London.It will be a day packed with talks from the most talented people from our passionate community. They will explore the possibilities that the newest advances in React bring to the industry.React London 2017 is a single track full day conference including 6 talks from industry experts, 4 lightning talks and a panel discussion with engineers from the Facebook team.
+
 - id: 2018-01-25-jsconf-asia-2018
   name: JSConf.Asia 2018
   url: https://2018.jsconf.asia/

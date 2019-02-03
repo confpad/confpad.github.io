@@ -1,0 +1,197 @@
+- title: Javascript code formatting
+  type: regular
+  level:
+  time: 2017-03-28
+  room:
+  authors:
+    - name: Christopher Chedeau
+      twitter: Vjeux
+      github: vjeux
+      website:
+  slides:
+    - https://www.slideshare.net/ReactLondon2017/javascript-code-formatting-with-prettier-by-christopher-chedeau
+  videos:
+    - https://youtu.be/0Q4kUNx85_4
+  description: |-
+    JavaScript developers are spending soooo much time formatting their code and even more in back and forth in code review fixing small nits. It turns out that machines are really good at doing this kind of tasks. Christopher will walk us through the technical and people challenges of bringing a JavaScript code formatter to reality.
+
+- title: Logux, a new approach to client-server communication
+  type: regular
+  level:
+  time: 2017-03-28
+  room:
+  authors:
+    - name: Andrey Sitnik
+      twitter: andreysitnik
+      github: ai
+      website:
+  slides:
+    - https://www.slideshare.net/ReactLondon2017/logux-a-new-approach-to-clientserver-communication-by-andrey-sitnik
+  videos:
+    - https://youtu.be/3LecnX1hjyw
+  description: |-
+    Combining ideas from both Redux and CRDT, Logux is a new tool which replaces AJAX with real-time data in applications, synchronising action logs between the client and server while also providing an offline mode. This approach could significantly simplify application code and bring plug&play support for live updates and offline editing.
+
+- title: What's in a language?
+  type: regular
+  level:
+  time: 2017-03-28
+  room:
+  authors:
+    - name: Cheng Lou
+      twitter: _chenglou
+      github: chenglou
+      website:
+  slides:
+    - https://www.slideshare.net/ReactLondon2017/whats-in-a-language
+  videos:
+    - https://youtu.be/24S5u_4gx7w
+  description: |-
+    What's in a language? How can it help us express our intent better? Based on his last talk, Cheng will explore some concrete, daily patterns in our codebase that Reason elegantly solves through a few simple yet rich concepts.
+
+- title: Snapshot testing
+  type: lightning
+  level:
+  time: 2017-03-28
+  room:
+  authors:
+    - name: Anna Doubkova
+      twitter: lithinn
+      github: lithin
+      website:
+  slides:
+    - https://www.slideshare.net/ReactLondon2017/snapshot-testing-by-anna-doubkova
+  videos:
+    - https://youtu.be/sCbGfi40IWk
+  description: |-
+    Facebook introduced snapshot testing in Jest last year and it has already picked up a huge interest. Why is snapshot testing so popular? How and when should you use it? Can you use it even if you’re not using Jest? Anna will explain all this and more in only 10 minutes
+
+- title: Realtime Webpack - Pushing on-demand bundling to the limits
+  type: lightning
+  level:
+  time: 2017-03-28
+  room:
+  authors:
+    - name: Oliver Woodings
+      twitter: oliverwoodings
+      github: oliverwoodings
+      website:
+  slides:
+    - https://www.slideshare.net/ReactLondon2017/realtime-webpack-pushing-ondemand-bundling-to-the-limits-by-oliver-woodings
+  videos:
+    - https://youtu.be/mkUK2SZ8moY
+  description: |-
+    Bundling JavaScript nowadays is trivial. But what if you need to do it 10,000 times a day to thousands of users, with sourcemaps, served directly to the browser in under 2 seconds? Oliver will show us how they did this at Qubit.
+
+- title: Offline for the greater good
+  type: lightning
+  level:
+  time: 2017-03-28
+  room:
+  authors:
+    - name: Jani Eväkallio
+      twitter: jevakallio
+      github: jevakallio
+      website:
+  slides:
+    - https://www.slideshare.net/ReactLondon2017/offline-for-the-greater-good-by-jani-evkallio
+  videos:
+    - https://youtu.be/FbAPw8RUEmA
+  description: |-
+    This year, half of world’s population will be connected to the internet; most of them in the developing world, on mobile, over poor network. For them offline support is not a luxury: it is basic accessibility. Jani will walk us through how to architect React Native and progressive React web apps for the offline era.
+
+- title: Next.js in production
+  type: lightning
+  level:
+  time: 2017-03-28
+  room:
+  authors:
+    - name: Jasdeep Lalli
+      twitter: jazlalli
+      github: jazlalli
+      website:
+  slides:
+    - https://www.slideshare.net/ReactLondon2017/nextjs-in-production-by-jasdeep-lalli
+  videos:
+    - https://youtu.be/h6rETZH6Ym0
+  description: |-
+    ThisNext.js has generated a lot of hype in the short time that it’s been out (rightly so). It’s unveiling coincided with an initiative to rebuild Deliveroo's web application as a standalone app. Jasdeep will share his experiences using it so far, including some of the benefits & trade-offs.
+
+- title: The road to <💅> styled-components" CSS in component-based systems"
+  type: regular
+  level:
+  time: 2017-03-28
+  room:
+  authors:
+    - name: Max Stoiber
+      twitter: mxstbr
+      github: mxstbr
+      website:
+  slides:
+    - https://www.slideshare.net/ReactLondon2017/the-road-to-lt-styledcomponents-css-in-componentbased-systems-by-max-stoiber
+  videos:
+    - https://youtu.be/2j9rSur_mnk
+  description: |-
+    There's been a revolution; welcome the Component Age! Now what about styles? Max sat down with Glen Maddern (CSS modules) to think about how styles fit into our post-revolution world. They took the best of CSS and the web to create a fantastic new way to style component-based systems.
+
+- title: A tiny Fiber renderer
+  type: regular
+  level:
+  time: 2017-03-28
+  room:
+  authors:
+    - name: Dustan Kasten
+      twitter: iamdustan
+      github: iamdustan
+      website:
+  slides:
+    - https://www.slideshare.net/ReactLondon2017/a-tiny-fiber-renderer-by-dustan-kasten
+  videos:
+    - https://youtu.be/U9zFfIww3Go
+  description: |-
+    React is capable of rendering to more environments than the browser. React is really two separate pieces: core and renderers. ReactDOM, ReactNative, ReactVR are but a few renderers in existence. With the Fiber reconciler rewrite comes an official renderer API. Dustan will look at a number of renderers that already exist and implement a React renderer of his own!
+
+- title: Panel Discussion
+  type: regular
+  level:
+  time: 2017-03-28
+  room:
+  authors:
+    - name: Christopher Chedeau
+      twitter: Vjeux
+      github: vjeux
+      website:
+    - name: Dan Abramov
+      twitter: dan_abramov
+      github: gaearon
+      website:
+    - name: Lee Byron
+      twitter: leeb
+      github: leebyron
+      website:
+    - name: Ben Alpert
+      twitter: soprano
+      github: spicyj
+      website:
+  slides:
+  videos:
+    - https://youtu.be/TMun9g5o7OA
+  description: |-
+    Panel discussion with Ben Alpert, Dan Abramov, Lee Byron and Christopher Chedeau led by Robbie McCorkell
+
+- title: Weapons grade React
+  type: regular
+  level:
+  time: 2017-03-28
+  room:
+  authors:
+    - name: Ken Wheeler
+      twitter: ken_wheeler
+      github: kenwheeler
+      website:
+  slides:
+    - https://www.slideshare.net/ReactLondon2017/weapons-grade-react-by-ken-wheeler
+  videos:
+    - https://youtu.be/O4k80BRLsvg
+  description: |-
+    Ken explores the application of React and React Native to hardware projects, and the lessons learned while building a remotely controlled robotic crossbow.
