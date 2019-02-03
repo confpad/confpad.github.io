@@ -46,6 +46,18 @@
   description: |-
     ReactEurope is also a great occasion to socialize, meet new people and old friends, hack together, taste delicious food and have fun in the beautiful city of Paris.
 
+- id: 2017-03-13-react-conf-2017
+  name: React Conf 2017
+  url: http://conf2017.reactjs.org/
+  date:
+    from: 2017-03-13
+    to: 2017-03-14
+  location:
+    country: USA
+    city: Santa Clara, CA
+  description: |-
+    React Conf 2017 is the official Facebook React event. This year's event will be held in Santa Clara, California.
+
 - id: 2017-03-28-react-london-2017
   name: React London 2017
   url: https://react.london/
