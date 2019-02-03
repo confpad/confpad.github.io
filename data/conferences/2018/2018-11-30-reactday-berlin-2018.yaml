@@ -156,9 +156,9 @@
   videos:
     - https://youtu.be/M3AceCsW0oM
   description: |-
-    CSS is hard !I made a living out of it being hard but when React was introduced we had a whole new level of fighting over CSS. There are so many ways to approach it and so many tradeoffs one can do when choosing the better approach that a talk that will go over these options is more than necessary. Let's walk this road thogheter and I promise it will all be fine and you will leave with an ideia of type of styling is better for each project. Hint: There is no perfect way...Sara Vieira,Developer Advocate at @YLDio. GraphQL and Open Source enthusiast. Conference Speaker and Airport expert. I am also into drums and horror movies.
+    CSS is hard! I made a living out of it being hard but when React was introduced we had a whole new level of fighting over CSS. There are so many ways to approach it and so many tradeoffs one can do when choosing the better approach that a talk that will go over these options is more than necessary. Let's walk this road thogheter and I promise it will all be fine and you will leave with an ideia of type of styling is better for each project. Hint: There is no perfect way...Sara Vieira,Developer Advocate at @YLDio. GraphQL and Open Source enthusiast. Conference Speaker and Airport expert. I am also into drums and horror movies.
 
-- title: Lightning talks
+- title: Lightning talk
   type: regular
   level:
   time: 2018-11-30
@@ -174,7 +174,7 @@
   description: |-
     In order to achieve mainstream adoption, blockchain technology must rapidly accelerate its user-facing tools. At Lisk, we’re dedicated to advancing the evolution of UI/UX design to empower developers and entrepreneurs to unlock the technologies vast potential.Max Kordek,Max Kordek is the Co-Founder of Lisk and CEO of Lightcurve, blockchain product development studio currently on the exclusive retainer of the Lisk Foundation. Max also personally oversees the development of Lisk’s User Interfaces, with industry-leading products such as Lisk Hub and Lisk Mobile.
 
-- title: Lightning talks
+- title: Lightning talk
   type: regular
   level:
   time: 2018-11-30
@@ -190,7 +190,7 @@
   description: |-
     Jamie will highlight some of the common barriers we face as underrepresented people in the tech sector and how we - as a collective - can push for positive change that benefits everyone.Jamie Szymkowiak,Jamie is a disability rights and LGBT+ activist, writer and Talent Advisor at Signavio, a Berlin tech company.
 
-- title: Lightning talks
+- title: Lightning talk
   type: regular
   level:
   time: 2018-11-30
@@ -206,7 +206,7 @@
   description: |-
     In this talk Bård shares strategies and tactics for going milliseconds hunting. Pointers to launching a React App with global latency and scalability as a priority.Bård Farstad,Founder & CEO of Crystallize, a headless e-commerce service. Serial and parallel entrepreneur with strong software background. Founder and also running the only bicycle factory company in Norway Skiens Cykkelfabrik.
 
-- title: Lightning talks
+- title: Lightning talk
   type: regular
   level:
   time: 2018-11-30
@@ -222,7 +222,7 @@
   description: |-
     Changing market demands cause some native mobile developers to jump into developing React (Native) apps, but the fundamentally different mindset and workflow in the JS/React ecosystem can easily make them feel like on another planet. In this talk, Futurice share their learnings on how React developers can effectively help their mobile colleagues get acclimatised when working together in the world of React.Denis Washington,Denis Washington is an enthusiastic software developer who loves web technologies, both on the frontend and backend. Programming since his early teenage years, Denis developed an outstanding knowledge in a variety of technologies which he uses to deliver high-quality and valuable products.
 
-- title: Lightning talks
+- title: Lightning talk
   type: regular
   level:
   time: 2018-11-30
