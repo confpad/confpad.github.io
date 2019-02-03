@@ -1,0 +1,239 @@
+- title: The New Hotness" An Exploration of Reacts Exciting New Features"
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Ken Wheeler
+      twitter: ken_wheeler
+      github: kenwheeler
+      website:
+  slides:
+  videos:
+    - https://youtu.be/p8v9X2TNQKA
+  description: |-
+    Director of Open Source at Formidable and the author of libraries like Slick Carousel, McFly, react-music, webpack-dashboard, Spectacle.
+
+- title: Powering Code Reuse with Context and Render Props
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Forbes Lindsay
+      twitter: ForbesLindesay
+      github: ForbesLindesay
+      website:
+  slides:
+  videos:
+    - https://youtu.be/9QateTvcT1k
+  description: |-
+    React's context API has always been labelled as experimental, but from the advent of Redux it has been used in all the most exciting react libraries. It's about to become a stabilised feature so now is the perfect time to learn the new context API. Combining the context API and render props lets gives you unprecedented power to cleanly reuse code across components. It even plays well with TypeScript and Flow. This talk will explain how context and render props work and give you some ideas of how to use them to simplify your own code.Forbes Lindsay,Forbes is a software engineer at Threads, working on React and Node.js projects. In the past, he's worked on large scale React apps at Facebook, and now runs training workshops to pass on that experience to other people. In his spare time he maintains a number of open source projects, such as Pug, Promise and Cabbie.js.
+
+- title: Feature Driven Architecture
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Oleg Isonen
+      twitter: Oleg008
+      github: kof
+      website:
+  slides:
+  videos:
+    - https://youtu.be/BWAeYuWFHhs
+  description: |-
+    Large applications cannot be structured the same way as small applications. Many good decisions you make for a small application suddenly become bad once it grows in code and organization size. Let me walk you through a number of challenges and good decisions for scalable applications.Oleg Isonen,Oleg is an author of JSS and an architect with a focus on scalable web front-end applications. At React Day Berlin Oleg will share the insights on building complex applications with real-world examples.
+
+- title: Secrets to a Successful Design System
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Monica Lent
+      twitter: monicalent
+      github: mlent
+      website:
+  slides:
+  videos:
+    - https://youtu.be/88TOxfKzkHw
+  description: |-
+    Inconsistent UI is the enemy of developers and designers alike. And while design systems are a modern and scalable way to solve this challenge, implementing one is not as straightforward as it might seem: from getting buy-in from management to picking your tech stack, rolling it out, and releasing changes to multiple apps — there are a lot of things that can go wrong. In this talk, you'll learn how to pitch a design system to your boss, rarely discussed technical caveats and challenges, and how to set your design system up for success from the start.Monica Lent,Monica is leading the Web Team at SumUp and is based here in Berlin. Her team is building the web experience that helps hundreds of thousands of small businesses around the world get started accepting card payments and growing their businesses.
+
+- title: Tip Top Testing in JavaScript
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Jack Franklin
+      twitter: jack_Franklin
+      github: jackfranklin
+      website:
+  slides:
+  videos:
+    - https://youtu.be/cB5WZgMwdpE
+  description: |-
+    In this talk we'll dive into the approaches and strategies needed to create a great unit test environment for your JavaScript and React applications. We'll examine what makes the perfect test, what to avoid, and how to use more complex features like mocks and spies to enable you to write tests more easily. We'll also look at some of the common pitfalls and mistakes people make that can really begin to hurt you as your test suite grows.Jack Franklin,Jack is a Frontend Engineer at Thread in London working primarily with React. In his free time, he’s usually writing or recording videos for his blog, JavaScript Playground. He is also the author of “Beginning jQuery” (Apress, 2012) and an eloquent speaker on Elm, front-end, build tools and frameworks.
+
+- title: Navigating the Hype-Driven Frontend Development World Without Going Insane
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Kitze
+      twitter: thekitze
+      github: kitze
+      website:
+  slides:
+  videos:
+    - https://youtu.be/QZ6aC6G0ufg
+  description: |-
+    The obsession to always move on to the latest and greatest, and the fear of missing out while working with something that's older than a few months is currently dominating the dev world. Do you have enough time to learn the latest version of your favourite library or framework? Will this leave enough time if you need to learn something new? Should you stick with what you know? Should you forget about what you are using and start learning something new? What are other front-end developers using? Should you follow the crowd? This is a problem that everyone struggles with. So many decisions to make, but Kitze will help you find the answers.Kitze,Teaching React Javascript at React Academy. Cares about open source, made and maintains sizzy.co, custom-react-scripts, and mobx-router. He had the chance to work and experiment with a variety of languages and frameworks.
+
+- title: Writing Your Own React Renderer
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Raphael Amorim
+      twitter: raphamorims
+      github: raphamorim
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Hz_WTWb3sV4
+  description: |-
+    Talk about reconciler, life cycles, and custom-renderer. The idea is to introduce how to create a custom renderer and how the reconciler handles elements, components, and instances.Raphael Amorim,Software Developer Engineer at GoDaddy. Working on React-Ape and React-TV. Loves Japanese culture, 70s/80s songs and a lot of 8bit art.
+
+- title: Structure Your App's Story With Sagas and Selectors
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Rebecca Hill
+      twitter: rebekaka
+      github: beerecca
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Q1_RfF_qRMc
+  description: |-
+    As apps begin to scale, many developers find themselves asking the question - but where does all the hard stuff go? The complicated data manipulation, the validation, the process flow of our apps. In other words, the business logic. If React is designed for the view layer, and we’re using Redux or something similar for the state, then where does the business logic go? This talk looks at the different options and tries to answer that question.Rebecca Hill,Full stack JavaScript engineer at WeTransfer, building feedback software. Not-so-secretly helping JavaScript take over the world.
+
+- title: Optimizing the Critical Rendering Path in React
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Alex Moldovan
+      twitter: alexnmoldovan
+      github: alexnm
+      website:
+  slides:
+  videos:
+    - https://youtu.be/25fkjIIk2_o
+  description: |-
+    One of the crucial elements of performance is to ship relevant content to your users as soon as possible. But in modern web applications, figuring out what to ship and what to prioritize can be hard. Framework driven applications have the big disadvantage of being pretty heavy for the initial load. We will start from understanding how the browser works, then we will explain what the critical rendering path is and how we can optimize it. Expect a talk full of valuable resources and ideas that one can use to improve the performance of a modern web application, with a case study on a React powered application.Alex Moldovan,Coder, blogger and tech enthusiast in general, Alex is always eager to talk about web development, javascript and programming overall. He dedicates a lot of time to teaching others, through mentoring and coaching activities and organizing JSHeroes, the biggest JS conference in Romania.
+
+- title: The Lonely and Dark Road to Styling in React
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Sara Vieira
+      twitter: NikkitaFTW
+      github: alexnm
+      website:
+  slides:
+  videos:
+    - https://youtu.be/M3AceCsW0oM
+  description: |-
+    CSS is hard !I made a living out of it being hard but when React was introduced we had a whole new level of fighting over CSS. There are so many ways to approach it and so many tradeoffs one can do when choosing the better approach that a talk that will go over these options is more than necessary. Let's walk this road thogheter and I promise it will all be fine and you will leave with an ideia of type of styling is better for each project. Hint: There is no perfect way...Sara Vieira,Developer Advocate at @YLDio. GraphQL and Open Source enthusiast. Conference Speaker and Airport expert. I am also into drums and horror movies.
+
+- title: Lightning talks
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Max Kordek
+      twitter: MaxKordek
+      github: MaxKK
+      website:
+  slides:
+  videos:
+    - https://youtu.be/1oFZwomhMew
+  description: |-
+    In order to achieve mainstream adoption, blockchain technology must rapidly accelerate its user-facing tools. At Lisk, we’re dedicated to advancing the evolution of UI/UX design to empower developers and entrepreneurs to unlock the technologies vast potential.Max Kordek,Max Kordek is the Co-Founder of Lisk and CEO of Lightcurve, blockchain product development studio currently on the exclusive retainer of the Lisk Foundation. Max also personally oversees the development of Lisk’s User Interfaces, with industry-leading products such as Lisk Hub and Lisk Mobile.
+
+- title: Lightning talks
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Jamie Szymkowiak
+      twitter: jamieszymko
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/lbkhWTiIgQU
+  description: |-
+    Jamie will highlight some of the common barriers we face as underrepresented people in the tech sector and how we - as a collective - can push for positive change that benefits everyone.Jamie Szymkowiak,Jamie is a disability rights and LGBT+ activist, writer and Talent Advisor at Signavio, a Berlin tech company.
+
+- title: Lightning talks
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Bård Farstad
+      twitter: bardfarstad
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/GEsWmfIV0B0
+  description: |-
+    In this talk Bård shares strategies and tactics for going milliseconds hunting. Pointers to launching a React App with global latency and scalability as a priority.Bård Farstad,Founder & CEO of Crystallize, a headless e-commerce service. Serial and parallel entrepreneur with strong software background. Founder and also running the only bicycle factory company in Norway Skiens Cykkelfabrik.
+
+- title: Lightning talks
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Denis Washington
+      twitter: dwashingtn
+      github: denisw
+      website:
+  slides:
+  videos:
+    - https://youtu.be/I0qrrjNVsLg
+  description: |-
+    Changing market demands cause some native mobile developers to jump into developing React (Native) apps, but the fundamentally different mindset and workflow in the JS/React ecosystem can easily make them feel like on another planet. In this talk, Futurice share their learnings on how React developers can effectively help their mobile colleagues get acclimatised when working together in the world of React.Denis Washington,Denis Washington is an enthusiastic software developer who loves web technologies, both on the frontend and backend. Programming since his early teenage years, Denis developed an outstanding knowledge in a variety of technologies which he uses to deliver high-quality and valuable products.
+
+- title: Lightning talks
+  type: regular
+  level:
+  time: 2018-11-30
+  room:
+  authors:
+    - name: Denys Periel
+      twitter: DPeryel
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Xnwb9-3-NTE
+  description: |-
+    Denys Periel,Denys makes 3D photorealistic games which run in web browsers. He cares about performance, reusable and high-quality code. In his spare time Denys reads books, learns different programming languages, raises a child and fills up his Instagram with pictures of places he has visited with his family.
