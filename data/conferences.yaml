@@ -440,8 +440,8 @@
   description: |-
     Øredev is the Premier developer's conference in Europe, focused on the whole software development process. This year, we are going to explore advances in biohacking and transhumanism and their implications for humankind. Will they be to our benefit, further enhancing quality of life? How mindful should we be of the potential social and ethical pitfalls whilst we transform?
 
-- id: 2018-11-30-reactday-berlin-2018
-  name: ReactDay Berlin 2018
+- id: 2018-11-30-react-day-berlin-2018
+  name: React Day Berlin 2018
   url: https://reactday.berlin/
   date:
     from: 2018-11-30
