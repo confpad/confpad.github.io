@@ -6,7 +6,8 @@ const html = htm.bind(h);
 const GitHubLink = props => {
   let { conferenceId } = props;
 
-  let link = `https://github.com/confpad/confpad.github.io/blob/master/data/conferences/${conferenceId}.yaml`;
+  let year = conferenceId.substr(0, 4);
+  let link = `https://github.com/confpad/confpad.github.io/blob/master/data/conferences/${year}/${conferenceId}.yaml`;
 
   return html`
     <div class="c-notice c-notice--small c-notice--success">
