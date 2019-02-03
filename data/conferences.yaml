@@ -10,6 +10,30 @@
   description: |-
     This year’s conference features a mix of panels and talks set against the backdrop of beautiful Lake Las Vegas. In addition to a can’t-miss schedule, we’re organizing off-hour activities providing opportunities for relaxation, adventure, and getting to other React enthusiasts.
 
+- id: 2016-02-22-reactjs-conf-2016
+  name: React.js Conf 2016
+  url: https://conf2016.reactjs.org/
+  date:
+    from: 2016-02-22
+    to: 2015-02-23
+  location:
+    country: California
+    city: San Francisco
+  description: |-
+    Come to React.js Conf to shape the future of client-side applications!
+
+- id: 2016-04-16-react-amsterdam-2016
+  name: React Amsterdam 2016
+  url: https://react.amsterdam/2016/
+  date:
+    from: 2016-04-16
+    to: 2016-04-16
+  location:
+    country: Netherlands
+    city: Amsterdam
+  description: |-
+    React Amsterdam is a celebration of good things coming together: React.JS that rocks and spring in Amsterdam that blossoms. Event will take place in the neighbourhood of abandoned shipbuilding factory in 10 minutes by ferry from Amsterdam Central station in the venue named Pllek (The Place in Dutch).
+
 - id: 2018-01-25-jsconf-asia-2018
   name: JSConf.Asia 2018
   url: https://2018.jsconf.asia/
@@ -439,27 +463,3 @@
     city: London
   description: |-
     Experience the latest from Flutter, Google’s free and open source SDK for building high-quality native iOS and Android apps from a single codebase.  Flutter Live is a global celebration of Flutter.
-
-- id: 2016-04-16-react-amsterdam-2016
-  name: React Amsterdam 2016
-  url: https://react.amsterdam/2016/
-  date:
-    from: 2016-04-16
-    to: 2016-04-16
-  location:
-    country: Netherlands
-    city: Amsterdam
-  description: |-
-    React Amsterdam is a celebration of good things coming together: React.JS that rocks and spring in Amsterdam that blossoms. Event will take place in the neighbourhood of abandoned shipbuilding factory in 10 minutes by ferry from Amsterdam Central station in the venue named Pllek (The Place in Dutch).
-
-- id: 2016-02-22-reactjs-conf-2016
-  name: React.js Conf 2016
-  url: https://conf2016.reactjs.org/
-  date:
-    from: 2016-02-22
-    to: 2015-02-23
-  location:
-    country: California
-    city: San Francisco
-  description: |-
-    Come to React.js Conf to shape the future of client-side applications!
