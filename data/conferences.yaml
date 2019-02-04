@@ -58,6 +58,18 @@
   description: |-
     React London 2017 is the 1st React conference in London.It will be a day packed with talks from the most talented people from our passionate community. They will explore the possibilities that the newest advances in React bring to the industry.React London 2017 is a single track full day conference including 6 talks from industry experts, 4 lightning talks and a panel discussion with engineers from the Facebook team.
 
+- id: 2017-04-21-react-amsterdam-2017
+  name: React Amsterdam 2017
+  url: https://react.amsterdam/2017/
+  date:
+    from: 2017-04-21
+    to: 2017-04-21
+  location:
+    country: Netherland
+    city: Amsterdam
+  description: |-
+    React Amsterdam is a full day two-track conference on all things React, gathering Front End developers across the globe in the tech heart of Europe. React Amsterdam is a heir to the biggest React community in BeNeLux and we have our priorities straight: only the highest quality content with careful balance of practical and visionary talks. React Amsterdam 2017 will take place in the Kromhouthal - former shipbuilding factory at a waterfront of Amsterdam City center.
+
 - id: 2018-01-25-jsconf-asia-2018
   name: JSConf.Asia 2018
   url: https://2018.jsconf.asia/
