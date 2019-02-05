@@ -94,6 +94,18 @@
   description: |-
     React Amsterdam is a full day two-track conference on all things React, gathering Front End developers across the globe in the tech heart of Europe. React Amsterdam is a heir to the biggest React community in BeNeLux and we have our priorities straight: only the highest quality content with careful balance of practical and visionary talks. React Amsterdam 2017 will take place in the Kromhouthal - former shipbuilding factory at a waterfront of Amsterdam City center.
 
+- id: 2017-07-10-chain-react-2017
+  name: Chain React 2017
+  url: https://infinite.red/ChainReactConf/2017
+  date:
+    from: 2017-07-10
+    to: 2017-07-11
+  location:
+    country: USA
+    city: Portland, OR
+  description: |-
+    Join us at the beautiful Armory in downtown Portland this summer! Chain React: The React Native.Conference will consist of multiple talks on React Native given by mobile software engineers at Facebook, AirBnB, and others, on a variety of topics from beginner to expert level. We’re expecting a few hundred attendees and are working hard to put on a great conference.
+
 - id: 2018-01-25-jsconf-asia-2018
   name: JSConf.Asia 2018
   url: https://2018.jsconf.asia/
