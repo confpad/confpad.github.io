@@ -1,0 +1,524 @@
+- title: Keynote Part 1
+  type: regular
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Tom Occhino
+      twitter: tomocchino
+      github: tomocchino
+      website:
+  slides:
+  videos:
+    - https://youtu.be/7HSd1sk07uU
+  description: |-
+
+- title: 'Keynote Part 2: Incrementally Adopting React Native at Facebook and not just Keynote'
+  type: regular
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Jing Chen
+      twitter: jingc
+      github: jingc
+      website:
+  slides:
+  videos:
+    - https://youtu.be/cSUxHv-kH7w
+  description: |-
+
+- title: 'Keynote Part 3: React Performance End to End (React Fiber)'
+  type: regular
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Sebastian Markbage
+      twitter: sebmarkbage
+      github: sebmarkbage
+      website:
+  slides:
+  videos:
+    - https://youtu.be/bvFpe5j9-zQ
+  description: |-
+
+- title: A Cartoon Intro to Fiber
+  type: regular
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Lin Clark
+      twitter: linclark
+      github: linclark
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ZCuYPiUIONs
+  description: |-
+    React will have a new core algorithm soon with Fiber. This new algorithm improves responsiveness and perceived performance for complex pages. But to make that happen, the architecture had to be reconsidered from the ground up. In this talk, I'll break down the new concepts and explain what makes it seem faster.
+
+- title: Next.js "Universal React Made Easy and Simple"
+  type: regular
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Guillermo Rauch
+      twitter: rauchg
+      github: rauchg
+      website:
+  slides:
+  videos:
+    - https://youtu.be/evaMpdSiZKk
+  description: |-
+    I'd like to describe our journey building Next.js and what comes after :)
+
+- title: React + ES.next = ♥
+  type: regular
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Ben Ilegbodu
+      twitter: benmvp
+      github: benmvp
+      website:
+  slides:
+  videos:
+    - https://youtu.be/jh_Qzi-yHU0
+  description: |-
+    JavaScript is evolving quickly. The ES6 specification was released back in 2015 and has been implemented by modern browsers. New versions of ECMAScript will now be released on a yearly basis. We can leverage ES6 and functionality slated for future versions right now to write even clearer and more concise React code. Experience with React will help you get the most out of this session, but you don’t have to have a JavaScript black belt to leave feeling confident in using ES.next with React. Learn how to write cleaner code using the spread operator, destructuring, new async functions, and other features being introduced into ECMAScript. Oh, and don’t worry if you don’t understand all of those terms — you soon will after this session!
+
+- title: 'MobX vs Redux: Comparing the Opposing Paradigms'
+  type: regular
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Preethi Kasireddy
+      twitter: iam_preethi
+      github: peekay
+      website:
+  slides:
+  videos:
+    - https://youtu.be/76FRrbY18Bs
+  description: |-
+    Redux has become the defacto way to manage state in React— yet, there's a new kid on the block that is seeing promising growth and adoption: Mobx. The goal of the talk is to explore a thorough and balanced view on Mobx vs. Redux for state management. They both have distinct mental models for handling state (i.e. Functional vs. Object-oriented and Reactive, Mutable vs. Immutable, Plain objects vs. Observables, Single-store vs. Multi-store, Normalized state view vs. Nested state view, etc.). And naturally, the opposing mental models each have their benefits and tradeoffs — so how do you pick? While the choice is somewhat subjective, we'll discuss a few objective factors to consider. We'll also look at a few concrete examples for which scenarios it makes sense to choose Redux vs. Mobx vs. Something else vs. Nothing at all (i.e. React setState).
+
+- title: Type Systems Will Make You a Better JavaScript Developer
+  type: regular
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Jared Forsyth
+      twitter: jaredforsyth
+      github: jaredly
+      website:
+  slides:
+  videos:
+    - https://youtu.be/V1po0BT7kac
+  description: |-
+    Tools like Flow and TypeScript promise "types for your JavaScript" - but what does that get you, exactly? What's the experience like of adding types to a large JavaScript project? Is the overhead worth it for you and your team? In the end, embracing type systems will give you more confidence in your code, fewer production bugs, and a much friendlier codebase.
+
+- title: React Native in the "Brown Field"
+  type: regular
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Leland Richardson
+      twitter: intelligibabble
+      github: lelandrichardson
+      website:
+  slides:
+  videos:
+    - https://youtu.be/tWitQoPgs8w
+  description: |-
+    Integrating React Native with a large existing native codebase can prove to be very difficult. Use of React Native generally falls into two categories: "Green Field" and "Brown Field". "Green Field" apps are built from the ground up with 100% React Native, and "Brown Field" apps integrate React Native into an already existing codebase. Integrating React Native into Airbnb's main app has been a great learning experience, and I will share the various hurdles we've had to overcome in the process of building over 100 screens in React Native across dozens of engineers, shipping to millions of users.
+
+- title: Moving Beyond Animations to User Interactions at 60 FPS in React Native
+  type: regular
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Tal Kol
+      twitter: koltal
+      github: talkol
+      website:
+  slides:
+  videos:
+    - https://youtu.be/mjsv8NJnt5k
+  description: |-
+    The async nature of the React Native bridge incurs an inherent performance penalty, preventing JavaScript code from running at high framerates. Modern animation libraries, like Animated, address this by minimizing passes over the bridge. User interactions, where UI continuously reacts to the user's gestures, are a step further. How can we run those at 60 FPS?
+
+- title: Moving Fast with Nuclide and Flow
+  type: lightning
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Andres Suarez
+      twitter: zertosh
+      github: zertosh
+      website:
+  slides:
+  videos:
+    - https://youtu.be/WRyk5ZVklFs
+  description: |-
+    In my talk last year, "Nuclide hacks for React Native development" I briefly touched on how Flow can lead to writing better React Native apps. This year, the focus is entirely on using Nuclide's rich UI for Flow features to move fast with React.
+
+- title: AWS Lambda + AWS Gateway + React = AWEsome
+  type: lightning
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Sophia Shoemaker
+      twitter: wisecobbler
+      github: mrscobbler
+      website:
+  slides:
+  videos:
+    - https://youtu.be/GuItxBkpIAQ
+  description: |-
+    AWS Lambda is an event-driven, "serverless" service that makes it easier and cheaper than ever to get an application up and running. In this talk I'll dive into some of the details of what AWS Lambda is, how it works, how to integrate it with another AWS service, API Gateway and how you can "go serverless" with React applications.
+
+- title: React to Code
+  type: lightning
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Merrick Christensen
+      twitter: iammerrick
+      github: iammerrick
+      website:
+  slides:
+  videos:
+    - https://youtu.be/HqMMj-5PxW0
+  description: |-
+    In this talk we will explore React’s composable & flexible programming model in the domain of, well… programming. Here we will see how React can be used to codify your teams best practices, teach beginners JavaScript & help proficient programmers refactor more efficiently. You know what they say? “When all you have is hammer… React is good for everything.”
+
+- title: The Road to Styled Components
+  type: lightning
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Max Stoiber
+      twitter: mxstbr
+      github: mxstbr
+      website:
+  slides:
+  videos:
+    - https://youtu.be/jjN2yURa_uM
+  description: |-
+    What if we took the best of JavaScript and the best of CSS, and combined them together to create the ultimate styling solution for React? Glen Maddern (CSS Modules co-creator) and I sat down and starting thinking about this. Let's talk about what we thought about and why we arrived where we did – 💅 styled-components.
+
+- title: Building Applications for a Studio in the Cloud at Netflix
+  type: lightning
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Feather Knee
+      twitter: featherart
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/7VV1HvVjrlU
+  description: |-
+    How does Netflix select which new content to offer from a myriad of choices? The service is famously data-driven, but sometimes there is very little data to inform decisions. Data science meets art. Learn about a prediction tool that was recently redesigned, expanded and re-written in React.
+
+- title: You Don't Need a Fancy Framework to Use GraphQL with React
+  type: lightning
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Samer Buna
+      twitter: samerbuna
+      github: samerbuna
+      website:
+  slides:
+  videos:
+    - https://youtu.be/M4JqfZ-WaI0
+  description: |-
+    GraphQL is the future, and you can use it today in React applications with minimal changes. No fancy frameworks are needed. Start using GraphQL right away to get the power of composition and declarative data requirements and work with more efficient APIs.
+
+- title: Cross-Platform Data Visualization with React and React Native
+  type: lightning
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Peggy Rayzis
+      twitter: peggyrayzis
+      github: peggyrayzis
+      website:
+  slides:
+  videos:
+    - https://youtu.be/lF-ztmPVWmo
+  description: |-
+    Data is all around us! From health tracking to sports statistics, users expect to see the data they're consuming presented consistently on every platform. In this talk, you'll learn how to use Victory, a library available for React and React Native, to build interactive, composable charts with ease. You'll also see some cool real-world examples on both platforms showcasing the power of Victory to inspire you for your next data viz project.
+
+- title: Using React for Anything but Websites
+  type: lightning
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Ken Wheeler
+      twitter: ken_wheeler
+      github: kenwheeler
+      website:
+  slides:
+  videos:
+    - https://youtu.be/-VC7o6wZ_a8
+  description: |-
+    An exploration in past and current alternative uses for React, non-standard rendering targets, and the future of such shenanigans.
+
+- title: React Everything, Render Everywhere
+  type: lightning
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Dustan Kasten
+      twitter: iamdustan
+      github: iamdustan
+      website:
+  slides:
+  videos:
+    - https://youtu.be/4M1xQzAbesY
+  description: |-
+    The React components we know and love are a powerful and constrained abstraction for building user interface. The React team has managed to not only rewrite the entire reconciler with Fiber, but also create a simple and constrained API for implementing a React renderer! Let’s take a short exploration into what happens when we expand the definition of user interface so that React can render everywhere.
+
+- title: Create React Native App "5 Minutes to, Hello, World!"
+  type: lightning
+  level:
+  time: 2017-03-13
+  room:
+  authors:
+    - name: Adam Perry
+      twitter:
+      github: dikaiosune
+      website:
+  slides:
+  videos:
+    - https://youtu.be/9baaVjGdBqs
+  description: |-
+    A presentation of the create-react-native-app (CRNA) tool. CRNA follows in the well-trodden path of create-react-app, providing a cross-platform, boilerplate-free developer experience for new React Native projects. CRNA is the product of a collaboration between Exponent, Facebook, and open-source contributors.
+
+- title: Goodbye Flatland! An introduction to ReactVR and what it means for web developers
+  type: regular
+  level:
+  time: 2017-03-14
+  room:
+  authors:
+    - name: Michaela Lehr
+      twitter: FischaelaMeer
+      github: Fischaela
+      website:
+  slides:
+  videos:
+    - https://youtu.be/CtVo3z_o9Rw
+  description: |-
+    My talk will give you an overview of the WebVR ecosystem, beginning with a short introduction of the basic VR concepts, like head tracking sensors, the field of view and stereoscopic images. You will also see the current status of the ReactVR in action with code samples. Which leads to another important point of this talk: the struggles of creating VR applications today. There are a lot of unanswered questions, e.g. UX design challenges, input devices, motion sickness or browser support. This is why the talk ends with my advice on how to create responsible applications, that won't harm your users – neither physically nor psychologically.
+
+- title: Realtime React Apps with GraphQL
+  type: regular
+  level:
+  time: 2017-03-14
+  room:
+  authors:
+    - name: Robert Zhu
+      twitter: robzhu
+      github: robzhu
+      website:
+  slides:
+  videos:
+    - https://youtu.be/AYbVMNtO-ro
+  description: |-
+    React's declarative model has made it fun and easy to build engaging realtime interactions. But great realtime apps need great realtime APIs. Come learn how GraphQL can push data to your React apps in realtime with GraphQL Subscriptions. We'll take a look at the GraphQL Subscriptions Specification and how it enables an ecosystem of clients and servers.
+
+- title: Jest Snapshots and Beyond
+  type: regular
+  level:
+  time: 2017-03-14
+  room:
+  authors:
+    - name: Rogelio Guzman
+      twitter: rogeliog
+      github: rogeliog
+      website:
+  slides:
+  videos:
+    - https://youtu.be/HAuXJVI_bUs
+  description: |-
+    With Jest, you can capture snapshots of React trees or other serializable values to simplify UI testing and to analyze how state changes over time. In this talk we will do a deep dive into snapshot testing and talk about other uses for them. We are also going to chat about how some of its internal packages can be used to create your own tools that leverage Jest's infrastructure.
+
+- title: A Beginner's Guide to Code Splitting Your React App
+  type: regular
+  level:
+  time: 2017-03-14
+  room:
+  authors:
+    - name: Neehar Venugopal
+      twitter: neeharv
+      github: neeharv
+      website:
+  slides:
+  videos:
+    - https://youtu.be/bb6RCrDaxhw
+  description: |-
+    The most performant code is code that never runs. Modern web apps are bigger in size that ever before, and the idea of Shipping Less JavaScript™ feels like a pipe dream. Until now. Thanks to modern bundlers, ES6 module magic and the brand new import() proposal, JavaScript finally has an idiomatic way of delivering parts of your web app when it's needed. This talk is meant to show how you can start using import() today to load smaller, faster code with minimal effort.
+
+- title: Web-Like Development and Release Agility for React Native
+  type: regular
+  level:
+  time: 2017-03-14
+  room:
+  authors:
+    - name: Parashuram N
+      twitter: nparashuram
+      github: axemclion
+      website:
+  slides:
+  videos:
+    - https://youtu.be/iMLpUVZseEg
+  description: |-
+    React Native brought the web’s enviable development patterns like hot module replacement and Redux action replay to mobile, without needing to sacrifice native UI. In this talk, we will take the idea further to explore some more interesting developer workflows. Starting by looking at the internals of React Native debugging, we will take advantage of Node's built in Time Travel Debugging feature to jump back and forth between React Native call stacks. We will then leverage React Native's unique event model to mirror user gestures across multiple devices and use it to simultaneously test our app across various form factors. Once the app is written, we will set up an automated continuous deployment pipeline to quickly build, test and distribute our app, powered by Code Push and Visual Studio Mobile Center. In each of these cases, we will se
+
+- title: React-Storybook"Design, Develop, Document and Debug your React UI components"
+  type: regular
+  level:
+  time: 2017-03-14
+  room:
+  authors:
+    - name: Marie-Laure Thuret
+      twitter: mlthuret
+      github: mthuret
+      website:
+  slides:
+  videos:
+    - https://youtu.be/PF0Vi-iIyoo
+  description: |-
+    React-Storybook provides a complete isolated environment with hot reloading that let you design and develop iteratively your UI React components. On top of that, by building your components this way you will ensure almost for free the creation of a nice living documentation and you will have a perfect entry point when we'll became the time to experiment things or solve issues.
+
+- title: Extensible React
+  type: regular
+  level:
+  time: 2017-03-14
+  room:
+  authors:
+    - name: Cameron Westland
+      twitter: camwest
+      github: camwest
+      website:
+  slides:
+  videos:
+    - https://youtu.be/395ou6k6C6k
+  description: |-
+    Extensible React is a deep narrow slice through the world of extensibility and how to build pluggable web applications in React. This talk answers questions like: What is extensibility? Why would you want to build it? And what new problems do you encounter when trying to build an extensible front-end.
+
+- title: Building React Communities Outside of Your Circle
+  type: lightning
+  level:
+  time: 2017-03-14
+  room:
+  authors:
+    - name: Troy Connor
+      twitter: Troy0820
+      github: troy0820
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Y2xXUlkF-UM
+  description: |-
+    Last year I won the diversity scholarship and this year I’m going to talk about how we can grow this community outside of our peers. I’m going to talk about the importance of diversity within the tech culture and how doing that has brought React to be as awesome as it is. Also steps we can do to improve contributing, ideas of how we can collaborate, and how we can continue to develop a environment where React can be easier for people who are intimidated to learn it.
+
+- title: A Prettier Printer
+  type: lightning
+  level:
+  time: 2017-03-14
+  room:
+  authors:
+    - name: James Long
+      twitter: jlongster
+      github: jlongster
+      website:
+  slides:
+  videos:
+    - https://youtu.be/hkfBvpEfWdA
+  description: |-
+    All editors format code slightly differently and don't even help with more complex situations like deeply indented syntax, which forces you to manually break it up across lines. This becomes a point of strife within teams, and we waste so much time trying to enforce a consistent coding style. I will show how a new JavaScript formatter, Prettier, takes a different approach and solves this problem completely, freeing you from the burden of thinking about code structure.
+
+- title: How to React in the Slow Lane
+  type: lightning
+  level:
+  time: 2017-03-14
+  room:
+  authors:
+    - name:  Nicole Chung
+      twitter: redconservatory
+      github: nicolechung
+      website:
+  slides:
+  videos:
+    - https://youtu.be/pSr6sTRDdi4
+  description: |-
+    Delivering your React app offline, with a look and feel of a native app, is becoming increasingly feasible. Technical benefits include fast installs (since it's just a web page), push notifications, caching page content, delivering a faster feeling experience, and keeping the user logged even when the network drops a connection. By using JS plugins and libraries such such as offline.js and offline-plugin, and browser technologies such as Service Workers, IndexedDB, and AppCache, you can be sure your users will be able to use your web app even as their internet connection drops off.
+
+- title: The Great Convergence with React
+  type: lightning
+  level:
+  time: 2017-03-14
+  room:
+  authors:
+    - name:  Aditya Punjani
+      twitter: adityapunjani
+      github: adityapunjani
+      website:
+  slides:
+  videos:
+    - https://youtu.be/vsvyg0T40NU
+  description: |-
+    Web Apps and Native Apps are going through a convergence on mobile. Technologies such as Progressive Web Apps and React Native are blurring the lines between the web and native. At Flipkart, we are building platforms and products at scale, designed around this convergence by utilizing the best of both worlds. In this talk I'll go over the architectural design, decisions, and implementation details with React that power the platforms at Flipkart during this era of convergence.
+
+- title: Learn Once, Route Anywhere
+  type: lightning
+  level:
+  time: 2017-03-14
+  room:
+  authors:
+    - name:  Michael Jackson
+      twitter: mjackson
+      github: mjackson
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Mf0Fy8iHp8k
+  description: |-
+    React Router is a full-featured routing layer for React applications that run in the browser, on the server, on React Native, and anywhere else React runs. This talk will highlight the capabilities of the first truly universal JavaScript router, enabling developers to learn a single URL-based API for routing and then apply those same principles for adding new screens, flows, and transitions to any React application, regardless of the platform. Learn once, route anywhere.
+
+- title: Taming the Meta-Language
+  type: regular
+  level:
+  time: 2017-03-14
+  room:
+  authors:
+    - name:  Cheng Lou
+      twitter: _chenglou
+      github: chenglou
+      website:
+  slides:
+  videos:
+    - https://youtu.be/_0T5OSSzxms
+  description: |-
+    What is a piece of code? What is a library, a tool, a platform and a language? Based on my last talk on the spectrum of abstraction, this talk explores the daily concerns and the meta-concerns of writing code, and how our new effort, Reason, relates to them.
