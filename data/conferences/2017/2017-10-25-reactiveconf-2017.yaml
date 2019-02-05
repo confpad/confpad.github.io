@@ -1,0 +1,767 @@
+- title: Architecting the Reactive App with Flutter
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Gavin Doughtie
+      twitter: gavindoughtie
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/n_5JULTrstU
+  description: |-
+    Flutter, Google's open-source platform for developing high-performance mobile applications that run on multiple operating systems from the same codebase, sports a modern reactive architecture in addition to an attractive widget library. This talk covers how to adapt state management strategies like Rx and Redux for use with your Flutter application.
+
+- title: 'CSS in JS: The Good & The Bad Parts'
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Robin Frischmann
+      twitter: rofrischmann
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/95M-2YzyTno
+  description: |-
+    Almost 3 years ago, the first experiments concerning “CSS in JS” have emerged. In 2017 - at least since styled-components got released - writing styles in JavaScript is not at all experimental anymore. Many developers are still sceptical about it.This talk summarises both the good and the bad parts as well as the opportunities & future possibilities of CSS in JS. It will help to understand how everyone can benefit from writing styles in JavaScript. It will not give any advice on which implementation to choose.
+
+- title: AMA - David Nolen
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: David Nolen
+      twitter: swannodette
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/q5D4qWf_1uM
+  description: |-
+    David Nolen is a curious programmer, musician, and teacher living in Brooklyn. He currently writes Clojure, JavaScript and Ruby for Cognitect. He also helps run the affordable Kitchen Table Coders workshops from a Brooklyn studio. In his free time he contributes to several open source Clojure projects including core.match, core.logic and ClojureScript.
+
+- title: The React Productivity Revolution
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Tiago Forte
+      twitter: fortelabs
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/BOKxSFB2hOE
+  description: |-
+    Tiago believes that the goals of companies and their employees are fundamentally aligned around human-centered productivity, and this idea guides all his work. He’s the founder of Forte Labs and creator of the Productive by Design methodology, and he also edits online publication Praxis. But whatever he’s doing, Tiago always draws on his background in design and technology to help organizations apply design thinking to day-to-day productivity challenges.
+
+- title: Client and server need to talk
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Nikita Prokopov
+      twitter: nikitonsky
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/PQM1hHzcJiY
+  description: |-
+    Client-server synchronization is the next frontier Now that DOM/UI rendering is more or less solved on a frontend, and efficient servers are easy to write, we need a good understanding and solid model on how to pass data around in a reliable, efficient and easy-to-use way. What makes it interesting is that there’s no good answer to that question yet, so a lot of discussions, papers and libraries are happening right now. Another thing is that it seems that we’ll need to change the way we think about data, and the change will affect client, server, DB and maybe even our programming languages. Keywords: REST, GraphQL, Relay, Apollo, PouchDB, Meteor, Firebase, distributed systems, conflict resolution, operation transformations, CRDT
+
+- title: AMA - Gavin Doughtie
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Gavin Doughtie
+      twitter: gavindoughtie
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/F28ecHrGH3w
+  description: |-
+    Flutter, Google's open-source platform for developing high-performance mobile applications that run on multiple operating systems from the same codebase, sports a modern reactive architecture in addition to an attractive widget library. This talk covers how to adapt state management strategies like Rx and Redux for use with your Flutter application.
+
+- title: Panel Discussion - Styling in CSS
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Javi Velasco
+      twitter:
+      github:
+      website:
+    - name: Richard Feldman
+      twitter: rtfeldman
+      github:
+      website:
+    - name: Oleg Sloboskoi
+      twitter: oleg008
+      github: kof
+      website: https://github.com/kof
+    - name: Sarah Drasner
+      twitter: sarah_edo
+      github:
+      website: https://codepen.io/sdras/
+    - name: Robin Frischmann
+      twitter: rofrischmann
+      github:
+      website:
+    - name: Gerard Sans
+      twitter: gerardsans
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/NvhWRpf6irQ
+  description: |-
+
+- title: GraphQL Subscriptions - Scaling real-time in the real world
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Uri Goldshtein
+      twitter: urigoldshtein
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Wi7P39sF2nw
+  description: |-
+    At the end of May I've announced together with Lee Byron that GraphQL Subscriptions are now officially part of the GraphQL Spec.That is a big deal for all real time apps out there!But when adding real time capabilities into your app there is a lot to consider - both on the client and the server.In this talk I will explain the concept of GraphQL Subscriptions, why it's such a big deal for real time apps, but mostly talk about how to make it work in your existing app today, no matter how large or old it is...
+
+- title: Creative Hacking
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: John Wargo
+      twitter: johnwargo
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/DpahJibuH7M
+  description: |-
+    In this talk, we’ll cover how we can build an advanced compiler that turns the constraints of templates into a powerful advantage. By modeling web applications as a specialized bytecode that runs on top of an optimized VM, we can produce code that starts fast and stays fast out of the box.
+
+- title: Relay Modern or Apollo?
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Gerard Sans
+      twitter: gerardsans
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/HV3Bj9iE75M
+  description: |-
+    Gerard is very excited about the future of the web and JavaScript! As a computer science engineer and Google's developer expert who is humble and always smiling, he loves to share his knowledge by giving talks, trainings, and writing about cool tech. He also likes running AngularZone and GraphQL London where he mentors students and gives back to the community.
+
+- title: Jest as a Platform
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Rogelio Guzman
+      twitter: rogeliog
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/NtjyeojAOBs
+  description: |-
+    Rogelio puts it out simply: He loves coding! He’s a engineer at Docker and a core contributor to Jest, a new tool that is revolutionizing testing.
+
+- title: AMA - Tiago Forte
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Tiago Forte
+      twitter: fortelabs
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/t5XBxuJd32w
+  description: |-
+    Tiago believes that the goals of companies and their employees are fundamentally aligned around human-centered productivity, and this idea guides all his work. He’s the founder of Forte Labs and creator of the Productive by Design methodology, and he also edits online publication Praxis. But whatever he’s doing, Tiago always draws on his background in design and technology to help organizations apply design thinking to day-to-day productivity challenges.
+
+- title: Unique Value Proposition of CSSinJS and the Future
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Oleg Sloboskoi
+      twitter: oleg008
+      github: kof
+      website: https://github.com/kof
+  slides:
+  videos:
+    - https://youtu.be/i3TIrcnMIng
+  description: |-
+    Oleg had been working on web UIs for over a decade when he realized there are two major challenges in front-end engineering: understanding the state and styling its representation. While the first task has become much easier with unidirectional data flow, components styling is still painful. To change that, he started a project called JSS back in 2014 and didn't stop learning and improving it since then.
+
+- title: Let's Tree-shake it...
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Igor Minar
+      twitter: igorminar
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/75ObMlqrhFY
+  description: |-
+    Do you think people who enjoy gardening and spending time with their wives and kids must be terribly boring? Well, you haven’t met Igor! He’s a software engineer at Google and the leader of its Angular project. Angular was the main topic of his last year’s talk, and we’re looking forward to whatever he’s bringing to ReactiveConf 2017!
+
+- title: Build-time Optimizations in JavaScript Applications
+  type: regular
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Evan You
+      twitter: youyuxi
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/7iy8XQ7TSnc
+  description: |-
+    With the rise of modern JavaScript build toolchains such as Babel, webpack and PostCSS, compilation has become an indispensable step in building JavaScript applications. This compilation step, in addition to providing access to new language features, also provides the opportunity for performance optimizations. Minification is one such example, but there are many more possibilities. This talk will explore some existing ideas in the category of build-time optimizations, introduce related work in the Vue ecosystem, and discuss some ideas for future experimentation.
+
+- title: 'RON: Replicated Object Notation'
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Victor Grishchenko
+      twitter: gritzko
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/0Xx9kkTMi10
+  description: |-
+    Torn between the IT academia and industry, Victor is the author of dozens of books on development and the Swarm.js. He has worked on internet standards, designer eal-time collaborative editors, and even ran gdb on clusters. Currently, he does real-time sync at Realm.
+
+- title: Understanding webpack from inside out
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Sean Larkin , Tobias Koppers
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/bm7RlNEcQM0
+  description: |-
+
+- title: D3 and React, Together
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Shirley Xueyang Wu
+      twitter: sxywu
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/z9QbchNwfT8
+  description: |-
+    When we talk about D3 and React, the conversation often becomes: who should have control of the DOM? After all, React is a view layer and its whole purpose is managing updates to the DOM so we don't have to. D3, on the other hand, is a library for building data visualizations with web technologies - and sometimes, it too needs access to the DOM. So when should React have ownership, and when should D3? And stepping back, when should we even use D3 and React together? If all we want is a visualization, D3 is more than enough, so at what point do we need to add React to the mix?In this talk, I will give guidelines on when React should render to DOM, when D3 should instead, and the pros and cons of each approach. More importantly, I will cover the interactions and applications that will benefit the most from using D3 and React, together.
+
+- title: Lessons learned migrating complex software
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Jack Franklin
+      twitter: jack_franklin
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/712LBDux1qs
+  description: |-
+    I've just spent a year migrating an application to React and in this talk I'll share my experiences, good and bad, about how it's gone, both technically and non-technically, and cover all the potential pitfalls of a long running migration project.The application I look after at work is a large ticketing platform that was written using Angular 1 and has not been maintained. With the new release of Angular 2, we made the decision to migrate off Angular and onto React. In this talk I’ll discuss why we did this (without criticising Angular, it has served us well) and how we’re migrating in small chunks. A big rewrite was off the cards; this application is business critical and as such we can’t afford to not be able to fix existing bugs or quickly add features because we’re rewriting. Instead we’ve split the work down into many small pieces that we can tackle one at a time. I’ll go through some code examples and talk not only about the benefits but the negatives too, because it’s not all been plain sailing. We’ll see how React’s approach and characteristics make it very adaptable and we’ll look at how we updated tests as we went to ensure our migrations maintained feature parity.If you’ve got an existing application you’d like to migrate this talk should give you plenty of ideas about doing it in a non destructive way.
+
+- title: CSS as Bytecode
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Richard Feldman
+      twitter: rtfeldman
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/bt1TzVngOqY
+  description: |-
+    Today we have languages like ClojureScript, BuckleScript, and Elm, which treat JavaScript as bytecode; they compile to it, but do not emulate its design. They make it possible to build an entire modern web app without knowing JS.Picture that same approach applied to HTML and CSS, and you've got elm-style: a library that doesn't have goals like "let's make vertical centering in CSS easier" but rather "let's scratch-build a layout and style system where vertical centering is innately easy. Where accessibility is natural and not an afterthought. Where it's as easy as possible to go from the design in your head to working software, and where you can maintain it once it's in production."It's now possible to ship an entire responsive, performant, accessible, web app without knowing JavaScript, HTML, or CSS. Come find out how!
+
+- title: ReactXP - How we rebuilt (almost) all skype clients
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Peter Lisy
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/jFHuOhNAsw4
+  description: |-
+
+- title: ReactXP - How we rebuilt (almost) all skype clients
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Evan You
+      twitter: youyuxi
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/v2qlHXm1YnE
+  description: |-
+    Discovery stage
+
+- title: Styling Components for React UI Kits
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Javi Velasco
+      twitter: javivelasco
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/uFkyn9cFkO8
+  description: |-
+    React is a wonderful tool to write reusable UI components but it takes no decisions on how styles should be written. This leads to a huge amount of different approaches, most of them based on CSS in JS, that usually introduce some coupling with your code making crucial the decision of choosing one of them. Is it possible to skip writing the styles so that a component doesn't depend on them anymore? Can we build complex components in a way that allows them to be reused even for React Native? This talk will show how this is achievable with the upcoming React Toolbox Core.
+
+- title: Property-based Testing for Godly Tests
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Gabe Scholz
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/lfoRs9leE2A
+  description: |-
+    Randomized testing is a concept popularized by the Haskell library QuickCheck which uses function input type annotations to automatically generate many randomized sample inputs for a single test case. Here we talk about a JavaScript port of this idea that instead uses Flow type annotations.
+
+- title: AMA - Igor Minar
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Igor Minar
+      twitter: igorminar
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/pYn-zQrRi7k
+  description: |-
+
+- title: 'Reason: JavaScript-flavored OCaml'
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Jared Forsyth
+      twitter: jaredforsyth
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/lN78ystnVw4
+  description: |-
+    You may have heard a bit about Reason -- the new initiative out of Facebook to bring JavaScript-flavored OCaml goodness to web developers everywhere -- but what's the big picture?Reason has a lot of things going for it: fantastic JavaScript interop, a powerful, battle-tested type system with cross-file inference, macros, and plenty of hype. It was started by the folks at Facebook who invented and built React, and already powers a substantial portion of Messenger.com.We'll go over the basics of Reason, and answer these questions:What does it look like to write React UIs with Reason? When will Reason be ready for me to use at work? What does it look like to incrementally adopt Reason in a JavaScript codebase?What tradeoffs has Reason chosen, and how do they compare to other languages?
+
+- title: Using Logux in Production
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Andrey Sitnik
+      twitter: andreysitnik
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/DvHNOplQ-tY
+  description: |-
+    Logux is a new project which replaces AJAX by synchronizing Redux actions in real-time between client and server. It is based on the ideas of CRDT and brings plug&play support for live updates and offline editing. Andrey Sitnik, the creator of PostCSS and Autoprefixer, will explain how his team, Evil Martians, uses Logux with Amplifr, its difficulties, and the resulting productivity boost.
+
+- title: AMA - Richard Feldman
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Richard Feldman
+      twitter: rtfeldman
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/lTizFUgZ5yU
+  description: |-
+    Today we have languages like ClojureScript, BuckleScript, and Elm, which treat JavaScript as bytecode; they compile to it, but do not emulate its design. They make it possible to build an entire modern web app without knowing JS.Picture that same approach applied to HTML and CSS, and you've got elm-style: a library that doesn't have goals like "let's make vertical centering in CSS easier" but rather "let's scratch-build a layout and style system where vertical centering is innately easy. Where accessibility is natural and not an afterthought. Where it's as easy as possible to go from the design in your head to working software, and where you can maintain it once it's in production."
+
+- title: Secrets of the Glimmer VM
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Tom Dale
+      twitter: tomdale
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/nXCSloXZ-wc
+  description: |-
+    Some people will tell you that templates are a “less powerful” way to build UIs for the web. But what happens if we view Handlebars templates through the lens of a high-performance functional reactive programming language?
+
+- title: AMA - Jared Forsyth
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Jared Forsyth
+      twitter: jaredforsyth
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/8HuvjUFvWhU
+  description: |-
+    You may have heard a bit about Reason -- the new initiative out of Facebook to bring JavaScript-flavored OCaml goodness to web developers everywhere -- but what's the big picture?Reason has a lot of things going for it: fantastic JavaScript interop, a powerful, battle-tested type system with cross-file inference, macros, and plenty of hype. It was started by the folks at Facebook who invented and built React, and already powers a substantial portion of Messenger.com.We'll go over the basics of Reason, and answer these questions:What does it look like to write React UIs with Reason?When will Reason be ready for me to use at work?What does it look like to incrementally adopt Reason in a JavaScript codebase?What tradeoffs has Reason chosen, and how do they compare to other languages?
+
+- title: Animating Vue
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Sarah Drasner
+      twitter: sarah_edo
+      github:
+      website: https://codepen.io/sdras/
+  slides:
+  videos:
+    - https://youtu.be/y5LAAkwQK6c
+  description: |-
+    As superfluous as something like animation may initially seem, you can tell a lot about framework by the way that it handles the concept of time. Idiosyncrasies and race conditions in rendering reveal themselves, pauses in DOM and virtual DOM diffing can be exposed.This is one of the ways Vue shows itself to be uniquely capable and elegant as a framework. In her talk Sarah covered the use of the transition component and some of its offerings to create fluid effects in the browser. Then she discussed watchers and transitioning state and finished up by talking about lifecycle methods, asynchronous updates, and pushing our animations to the next level.
+
+- title: Reactive Programming with RxJS
+  type: regular
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Shmuela Jacobs
+      twitter: shmuelaj
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Rq_SmVVgwHs
+  description: |-
+    Reactive programming is perfect for some use cases in web development. For instance, Angular’s HTTP module transforms HTTP requests to RxJS Observables by default. If you enjoy using Lodash or Underscore, think of RxJS as their async version. What does this mean? What are Observables? How should you chain HTTP requests the RxJS way? This and more will be presented and show cased in on an Angular Application.
+
+- title: Lightning talk
+  type: lightning
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Matthias Rella
+      twitter: my_rho
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/6veWFNiub9c
+  description: |-
+    Main stage talk
+
+- title: Lightning talk
+  type: lightning
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Albert Nemec
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ogA0-5_n4G4
+  description: |-
+    Main stage talk
+
+- title: Lightning talk
+  type: lightning
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Darpan Kakadia
+      twitter: kakadiadarpan
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/bvfRTv3qJJY
+  description: |-
+    Main stage talk
+
+- title: Lightning talk
+  type: lightning
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Gregory Shehet
+      twitter: AGambit95
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/kOUSDEhRBlM
+  description: |-
+    Main stage talk
+
+- title: Lightning talk
+  type: lightning
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Honza Brecka
+      twitter: honzabrecka
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/mHI28OZo094
+  description: |-
+    Main stage talk
+
+- title: Lightning talk
+  type: lightning
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: John Wargo
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/iLw31vY7kLs
+  description: |-
+    Main stage talk
+
+- title: Lightning talk
+  type: lightning
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Kamlesh Chandnani
+      twitter: kamlesh_
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/urW99xVmy1I
+  description: |-
+    Main stage talk
+
+- title: Lightning talk
+  type: lightning
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Lenka Vondrackova
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Q7D4IbX0mm8
+  description: |-
+    Main stage talk
+
+- title: Lightning talk
+  type: lightning
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Pavel Aksonov
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/3gItyRXAN6o
+  description: |-
+    Main stage talk
+
+- title: Lightning talk
+  type: lightning
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Richard Feldman
+      twitter: rtfeldman
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/j9voE6S0z-M
+  description: |-
+    Main stage talk
+
+- title: The new GraphQL Codegen
+  type: lightning
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Uri Goldshtein
+      twitter: urigoldshtein
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/CN_bTBP9spM
+  description: |-
+    Main stage talk
+
+- title: Lightning talk
+  type: lightning
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Sean Grove
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/PnGK6-Vd7Zc
+  description: |-
+    Main stage talk
+
+- title: Lightning talk
+  type: lightning
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Thomas Sojka
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ae_3svi5Eg0
+  description: |-
+    Main stage talk
+
+- title: Lightning talk
+  type: lightning
+  level:
+  time: 2017-10-26
+  room:
+  authors:
+    - name: Andrey Sitnik
+      twitter: andreysitnik
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/z2phd2tnibc
+  description: |-
+    Main stage talk
+
+- title: Lightning talk
+  type: lightning
+  level:
+  time: 2017-10-25
+  room:
+  authors:
+    - name: Jerome Schneider, Sven Sauleau
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/DE7psNIqBL4
+  description: |-
+    Main stage talk

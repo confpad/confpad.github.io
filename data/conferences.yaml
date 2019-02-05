@@ -118,6 +118,18 @@
   description: |-
     Join us at the beautiful Armory in downtown Portland this summer! Chain React: The React Native.Conference will consist of multiple talks on React Native given by mobile software engineers at Facebook, AirBnB, and others, on a variety of topics from beginner to expert level. We’re expecting a few hundred attendees and are working hard to put on a great conference.
 
+- id: 2017-10-25-reactiveconf-2017
+  name: ReactiveConf 2017
+  url: https://reactiveconf.com/2017
+  date:
+    from: 2017-10-25
+    to: 2017-10-27
+  location:
+    country: Slovakia
+    city: Bratislava
+  description: |-
+    ReactiveConf2017 took us to a whole new dimension! Two conference days on two stages and one festival day made ReactiveConf 2017 the most exciting conference in this solar system and beyond. We had 24 main stage talks, 8 free workshops, inspirational talks and many more.
+
 - id: 2018-01-25-jsconf-asia-2018
   name: JSConf.Asia 2018
   url: https://2018.jsconf.asia/
