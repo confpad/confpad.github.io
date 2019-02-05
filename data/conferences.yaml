@@ -46,9 +46,9 @@
   description: |-
     ReactEurope is also a great occasion to socialize, meet new people and old friends, hack together, taste delicious food and have fun in the beautiful city of Paris.
 
-- id: 2016-10-27-react-conf-2016
-  name: React Conf 2016
-  url: https://reactiveconf.com/
+- id: 2016-10-27-reactiveconf-2016
+  name: ReactiveConf 2016
+  url: https://reactiveconf.com/2016
   date:
     from: 2016-10-27
     to: 2016-10-28
