@@ -1,0 +1,518 @@
+- title: Keynote
+  type: regular
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Andrew Clark
+      twitter: acdlite
+      github: acdlite
+      website:
+  slides:
+  videos:
+    - https://youtu.be/QW5TE4vrklU
+  description: |-
+
+- title: What I Learned Benchmarking React
+  type: regular
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Dominic Gannaway
+      twitter: trueadm
+      github: trueadm
+      website:
+  slides:
+  videos:
+    - https://youtu.be/djOc1EK07Tk
+  description: |-
+    Dominic will talk about what makes inferno’s so fast and how he and the team are bringing this experience to react.
+
+- title: What I Learned Benchmarking React
+  type: regular
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Christoph Pojer
+      twitter: cpojer
+      github: cpojer
+      website: http://cpojer.net/
+  slides:
+  videos:
+    - https://youtu.be/qAZ3_xCHe48
+  description: |-
+    Jest was adopted widely across 100s of companies recently and provides an immersive testing experience. We’ll take a deeper look at JavaScript Testing with Jest and what it takes to turn a tool into a product with a delightful experience.
+
+- title: La nouvelle vague
+  type: regular
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Sunil Pai
+      twitter: threepointone
+      github: threepointone
+      website:
+  slides:
+  videos:
+    - https://youtu.be/yjVhjmM1FPc
+  description: |-
+    The new wave of frameworks won’t be frameworks at all. In this talk, Sunil will explore how compilers and bundlers will replace certain runtime dependencies, without degrading the development experience that we all love and depend on. We’ll discover strategies of incorporating these ideas into any regular app, how we can leverage component models from react/vue/ember etc to enhance these ideas, and my own take on tooling in this framework-less world.
+
+- title: 'Worse is Better: The Upside of JavaScript Fatigue'
+  type: regular
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Kevin Lacker
+      twitter: lacker
+      github: lacker
+      website: http://lacker.io/
+  slides:
+  videos:
+    - https://youtu.be/4mbipBIzY_g
+  description: |-
+    Co-founder of Parse, now at Facebook. Manager of the Facebook Open Source team.
+
+- title: What WebAssembly means for React
+  type: regular
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Lin Clark
+      twitter: linclark
+      github: linclark
+      website: http://code-cartoons.com/
+  slides:
+  videos:
+    - https://youtu.be/3GHJ4cbxsVQ
+  description: |-
+    There’s a big push to improve React’s perceived performance. And WebAssembly is fast. Could WebAssembly be part of the solution? In this talk, code cartoonist Lin Clark will look at what WebAssembly could mean for React’s performance, and how the new Fiber architecture makes that even more of a possibility.
+
+- title: 'Practical Confidence: Using Types to Help Your Computer Help You'
+  type: regular
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Adam Perry
+      twitter:
+      github: dikaiosune
+      website: https://github.com/anp
+  slides:
+  videos:
+    - https://youtu.be/ppYj1FFeyXw
+  description: |-
+    Writing React Native devtools and services at Expo, Rust in mythical free time
+
+- title: Imperfection
+  type: regular
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Cheng Lou
+      twitter: _chenglou
+      github: chenglou
+      website:
+  slides:
+  videos:
+    - https://youtu.be/tCVXp6gFD8o
+  description: |-
+    React core member. Currently working on reason. Creator of React Motion.
+
+- title: Maximally Modular Apps with React Navigation
+  type: regular
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Eric Vicenti
+      twitter: EricVicenti
+      github: ericvicenti
+      website:
+  slides:
+  videos:
+    - https://youtu.be/1ZwXOqsdl4c
+  description: |-
+    If only React Native apps could be highly extensible- such that a single experience within an app could be published and installed into other apps. If your screens are built with sufficient isolation, they can be portable between apps, platforms, and navigation implementations. In this talk, we will discuss how this ultimate modularity can be achieved simply by utilizing reducers and single-directional data flow. Then we will use React Navigation to quickly build a new experience with these techniques, and see how portable it really is.
+
+- title: Maximally Modular Apps with React Navigation
+  type: regular
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Sasha Aickin
+      twitter: xander76
+      github: aickin
+      website:
+  slides:
+  videos:
+    - https://youtu.be/UhdGiVy3_Nk
+  description: |-
+    React’s server-side rendering speeds up page load times, but it’s far from the only performance boost we can get on the server. In this talk, I’ll discuss how exploiting streaming and parallel processing on the server and browser can get us faster time to first byte, faster time to first paint, and faster time to full interactivity.
+
+- title: ShoutemUI
+  type: lightning
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Shouted Team
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: return null
+  type: lightning
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Joshua Comeau
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Thousand ways to navigate in React Native
+  type: lightning
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Charles Mangwa
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: 'Fancy Footwork: Building a Composable CMS for Aldo'
+  type: lightning
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Brendan Moore
+      twitter:
+      github:
+      website:
+    - name: Sarah Mogin
+      twitter:
+      github:
+      website:
+    - name: Serge Rose
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Detox — Graybox End-to-End Tests and Automation Library for React Native
+  type: lightning
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Tal Kol
+      twitter: koltal
+      github: talkol
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Devtools for GraphQL
+  type: lightning
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: Danielle Man
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Serious graphics on React Native
+  type: lightning
+  level:
+  time: 2017-05-18
+  room:
+  authors:
+    - name: James Ide
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Next generation state management
+  type: regular
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Michel Weststrate
+      twitter: mweststrate
+      github: mweststrate
+      website:
+  slides:
+  videos:
+    - https://youtu.be/rwqwwn_46kA
+  description: |-
+    Last years there have been great developments in state management libraries. Both Redux and MobX sprung from the React community and provide stand-alone, generic state management solutions. Both have gained big in popularity, and both have their own strengths and weaknesses. What can we learn from both approaches? Can we get the best of both worlds? Can we add a little Boabab and Cerebral to the mix? Is it possible to create a transparent reactive, snapshotable state container. With support for JSON patches, replayable actions, serialization, complex object graphs. With Redux & MobX compatibility, strong typing and runtime type checks out of the box. Get a glimpse of what next-gen state management might look like with mobx-state-tree. Largely designed by the MobX community and enforcing many best practices that have evolved over the last year.
+
+- title: Composition
+  type: regular
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Nik Graf
+      twitter: nikgraf
+      github: nikgraf
+      website:
+    - name: Max Stoiber
+      twitter: mxstbr
+      github: mxstbr
+      website: https://mxstbr.com/oss
+  slides:
+  videos:
+    - https://youtu.be/qJgff2spvzM
+  description: |-
+    Cares a lot about consistent & easy to grasp UI. He created the React UI library Belle and carte blanche with Max, now works full-time on several React/Redux OS projects & more at Stripe.Max travels around the world, brews rad coffee, skis beautiful mountains and makes stuff on the web such as the popular react-boilerplate project, draft.js. He also contributes to react.js, create-react-app, webpack and more.
+
+- title: The making of Twitter Lite
+  type: regular
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Nicolas Gallagher
+      twitter: necolas
+      github: necolas
+      website: http://nicolasgallagher.com/
+  slides:
+  videos:
+    - https://youtu.be/cc3rdiXl5eY
+  description: |-
+    Twitter Lite is a complex PWA built with Node.js, React, Redux, Service Workers, and Webpack. This talk will cover how our team designs and builds one of the world’s most visited web apps. You’ll also hear about React Native for Web; how we approach network and render performance challenges; and how we use new web platform features.
+
+- title: The runtimes of React VR and use at Oculus
+  type: regular
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Mike Armstrong
+      twitter: m1k3
+      github: mikearmstrong001
+      website:
+  slides:
+  videos:
+    - https://youtu.be/B8sP5SDpOdc
+  description: |-
+    Authoring VR content is time consuming and technically challenging, I’ll be providing an overview of how we are using the core strengths, merits of React Native and building on it to drive and improve app development within Oculus. I’ll go into more detail about the runtimes of both the native Android version and WebVR versions and how we utilize the improved engineer workflow the technology gives us access to.
+
+- title: Functional && Reactive
+  type: regular
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Preethi Kasireddy
+      twitter: iam-preethi
+      github: iam-peekay
+      website:
+  slides:
+  videos:
+    - https://youtu.be/yYze0gCBtvY
+  description: |-
+    With the advent of libraries like React, Redux and Immutable.js, it’s clear that there’s a shift away from imperative and object-oriented in the front-end towards a more declarative and functional approach. Meanwhile, libraries like RxJS and Mobx are spreading the use of Reactive Programming to model UIs via discrete, asynchronous event streams. How can we combine the best of both functional and reactive paradigms to model and build predictable UIs that control themselves? In this talk, Preethi will explain what “Functional Reactive Programming” is, how close React / Redux / Mobx / RxJs and others come in realizing Functional Reactive Programming, and what’s still fundamentally missing from these tools to achieve a true implementation of FRP. Lastly, she’ll describe when and why FRP is suitable (or not suitable) for building predictable and scalable UIs.
+
+- title: Relay Modern
+  type: regular
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Lee Byron
+      twitter: leeb
+      github: leebyron
+      website: http://leebyron.com/
+  slides:
+  videos:
+    - https://youtu.be/OdsMz7h_Li0
+  description: |-
+    Making things at Facebook since 2008: React,GraphQL co-creator, Immutable.js, Mobile, JavaScript.
+
+- title: Animating the Virtual DOM
+  type: regular
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Sarah Drasner
+      twitter: sarah_edo
+      github: sdras
+      website: http://sarahdrasnerdesign.com/
+  slides:
+  videos:
+    - https://youtu.be/W5AdUcJDHo0
+  description: |-
+    We are biologically trained to notice motion: evolutionarily speaking, our survival depends on it. For this reason, animation when done well can guide your users. It can aid and reinforce spatial maps of our interfaces, and give us a sense that we understand interactions more deeply. For this reason, animation is incredibly powerful to convey meaning, but only when done well. But animating the virtual DOM comes with some intricacies that affect our implementations. In this talk, we’ll go over animating in React with a variety of methods, comparing and contrasting each. We’ll cover add-ons like ReactCSSTransitionGroup, using external libraries like GSAP, React-Motion, motion using RxJS, and transitioning state with D3. We’ll look inside some real systems, breaking down how we can create reusable components of animation principles for interchangeable yet cohesive patterns.
+
+- title: React as a Platform"A path towards a truly cross-platform UI"
+  type: regular
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Leland Richardson
+      twitter: intelligibabble
+      github: lelandrichardson
+      website: http://intelligiblebabble.com/
+  slides:
+  videos:
+    - https://youtu.be/hNwQPJy-XZY
+  description: |-
+    React provides an abstraction between the description of a UI and the details of how it’s rendered on a given platform. The problem is that div and span are a hidden dependency on react-dom, and similarly, React Native’s View is an explicit dependency on Native, making both not quite as “cross-platform” as we want them to be. Learn how we as a community can get around these issues, and what we can unlock by doing so.
+
+- title: A Novel Approach to Declarative Animations in React Native
+  type: regular
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Joel Arvidsson
+      twitter: trastknast
+      github: oblador
+      website:
+  slides:
+  videos:
+    - https://youtu.be/3SITFIGz4xo
+  description: |-
+    Animations can make your app more pleasing to use and help the user understand state changes. This talk will give best practices on when to use them and an introduction of how to implement them in React Native with a deep dive into a new strictly declarative approach similar to CSS animations and transitions.
+
+- title: Putting the fun in functional with Elm
+  type: regular
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Tereza Sokol
+      twitter: terezk_a
+      github: terezka
+      website:
+  slides:
+  videos:
+    - https://youtu.be/a0039_JRAQo
+  description: |-
+    With React, Redux, ImmutableJS and friends, frontend development strive towards the functional approach proving to yield increased readability and maintainability. However, working in JavaScript, we never truly commit to the paradigm, but what if we did? The Elm language goes fully functional and as suspected, it comes with an ocean of benefits!
+
+- title: Integrating React Native with Native Infrastructure
+  type: regular
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Mehdi Mulani
+      twitter:
+      github: mmmulani
+      website:
+  slides:
+  videos:
+    - https://youtu.be/QOAoLF6FV7A
+  description: |-
+    This talk will go over our approach of incremental React Native adoption within an already established native app. We will discuss the various problems that arise from using React Native in such a “hybrid” app model and in particular, discuss inter-app navigation and embedding React Native views into native shells and vice-versa.
+
+- title: Expo Snack
+  type: lightning
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Brent Vatne
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: How to create a React Native reusable component for existing Android apps without knowing a thing about npm or node_modules
+  type: lightning
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Petter Hesselberg
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Quantifying Best Practices
+  type: lightning
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Jackson Hamburger
+      twitter:
+      github:
+      website:
+    - name: Louis Antonelli
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Leveraging code-splitting in React apps
+  type: lightning
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Glenn Reyes
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Smarter code-splitting and preloading for React applications
+  type: lightning
+  level:
+  time: 2017-05-19
+  room:
+  authors:
+    - name: Brandon Dail
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+  description: |-

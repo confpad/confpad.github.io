@@ -94,6 +94,18 @@
   description: |-
     React Amsterdam is a full day two-track conference on all things React, gathering Front End developers across the globe in the tech heart of Europe. React Amsterdam is a heir to the biggest React community in BeNeLux and we have our priorities straight: only the highest quality content with careful balance of practical and visionary talks. React Amsterdam 2017 will take place in the Kromhouthal - former shipbuilding factory at a waterfront of Amsterdam City center.
 
+- id: 2017-05-18-react-europe-2017
+  name: ReactEurope 2017
+  url: https://2017.react-europe.org/
+  date:
+    from: 2017-05-18
+    to: 2017-05-19
+  location:
+    country: France
+    city: Paris
+  description: |-
+    ReactEurope is back on 18-19 May 2017 to bring you the best and most passionate people from the very core team to the coolest people from the community we love. The conference aims to give talks that inspire and explore new futuristic ideas dealing with all the techs we enjoy from the React ecosystem such as React.js, React Native, GraphQL, Relay, Universal apps, Webpack, inline CSS and more.ReactEurope is also a great occasion to socialize, meet new people and old friends, hack together, taste delicious food and have fun in the beautiful city of Paris.
+
 - id: 2017-07-10-chain-react-2017
   name: Chain React 2017
   url: https://infinite.red/ChainReactConf/2017
