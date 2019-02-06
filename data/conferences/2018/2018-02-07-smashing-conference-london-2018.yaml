@@ -1,0 +1,244 @@
+- title: In the loop
+  type: regular
+  level:
+  time: 2018-02-07
+  room:
+  authors:
+    - name: Jake Archibald
+      twitter: jaffathecake
+      github:
+      website:
+  slides:
+  videos:
+    - https://vimeo.com/254947206
+  description: |-
+    Have you ever had a bug where things were happening in the wrong order, or particular style changes were being ignored? Ever fixed that bug by wrapping a section of code in a setTimeout? Ever found that fix to be unreliable, and played around with the timeout number until it kinda almost always worked?This talk looks at the browser’s event loop, the thing that orchestrates the main thread of the browser, which includes JavaScript, events, and rendering. We’ll look at the difference between tasks, microtasks, requestAnimationFrame, and where events land Hopefully you’ll never have to use setTimeout hacks again!
+
+- title: Beyond the Basics of Image Optimization
+  type: regular
+  level:
+  time: 2018-02-07
+  room:
+  authors:
+    - name: Una Kravets
+      twitter: una
+      github:
+      website:
+    - name: Martin Splitt
+      twitter: g33konaut
+      github:
+      website:
+  slides:
+  videos:
+    - https://vimeo.com/254736788
+  description: |-
+    Images are by far the greatest bottleneck to performance on the web, and with the average web page size now about 2.5MB large—images taking up 65% of that—we need to tame the beast. Running images through a compression program like ImageOptim is a good first step, but what else can we do? In this engaging talk, Una will survey new image formats and dive deep into image rendering and performance optimization techniques, demonstrating practical approaches to making your web projects noticeably faster.
+
+- title: A Modern Front-End Workflow with DevTools
+  type: regular
+  level:
+  time: 2018-02-07
+  room:
+  authors:
+    - name: Umar Hansa
+      twitter: umaar
+      github:
+      website:
+  slides:
+  videos:
+    - https://vimeo.com/254733177
+  description: |-
+    You can expect to learn hidden DevTools secrets but also how to adopt a modern development and debugging workflow. This talk is important for any web developer or designer who wants to understand and debug the internals of a webpage quickly and with ease. It will also cover a few CSS tools, performance profiling and debugging techniques, all with the goal of mastering your authoring workflow to ensure your development workflow is highly optimised.
+
+- title: Into the Weeds of CSS Layout
+  type: regular
+  level:
+  time: 2018-02-07
+  room:
+  authors:
+    - name: Rachel Andrew
+      twitter: rachelandrew
+      github:
+      website:
+  slides:
+  videos:
+    - https://vimeo.com/254679499
+  description: |-
+    There are lots of reasons to get excited about new layout methods in CSS, but what impact does moving to Flexbox and Grid have on performance? And once you have decided to adopt new layout methods, are some techniques more performant than others?In this talk we’ll take a serious look at the algorithms your browser is using in order to lay things out using Flexbox and Grid. By understanding how these algorithms work, you’ll be in a better position to make good decisions around layout, and fully take advantage of the possible performance gains of new CSS layout.
+
+- title: A/B Testing, Ads and other 3rd Party Tags
+  type: regular
+  level:
+  time: 2018-02-07
+  room:
+  authors:
+    - name: Andy Davies
+      twitter: andydavies
+      github:
+      website:
+  slides:
+  videos:
+    - https://vimeo.com/254703766
+  description: |-
+    Increasingly we rely on third-party scripts to deliver business-critical features of our sites – analytics, adverts, multi-variant testing, comments, recommendations, retargeting, social sharing etc.These scripts often get added with the seemingly innocent “it’s just a snippet of JavaScript”, but they can have a dramatic impact on performance – from slowing the loading speed though to ‘janky’ interactions.In this talk Andy will explore how some popular types of 3rd parties affect performance, strategies for managing them and examples from sites that have tamed them.You’ll come away with a better understanding of third-party performance, and pointers on how to reduce their impact on your visitors’ experience.
+
+- title: Building Performance for the Long Term
+  type: regular
+  level:
+  time: 2018-02-07
+  room:
+  authors:
+    - name: Allison McKnight
+      twitter: aemcknig
+      github:
+      website:
+  slides:
+  videos:
+    - https://vimeo.com/254947097
+  description: |-
+    Performance matters to your users.  And the importance of performance doesn't dim over time - if anything, users expect better performance this year than they experienced last year.  Performance is important for the long-term.  While your company's aims and structure may change, its commitment to performance should not.This talk provides strategies that build performance culture from the long term.  From starting a performance culture at your company to educating and empowering teams to understand and own their products' performance, this talk presents tools and strategies that you can use to make performance last at your company.
+
+- title: Resource Loading - Past, Present & Future
+  type: regular
+  level:
+  time: 2018-02-07
+  room:
+  authors:
+    - name: Yoav Weiss
+      twitter: yoavweiss
+      github:
+      website:
+  slides:
+  videos:
+    - https://vimeo.com/254861484
+  description: |-
+    Loading resources on the Web has always been a performance hurdle. Suboptimal protocols and late discovery caused it to be the common performance bottleneck. In recent years advances in network protocols and performance APIs improved resource loading significantly, there’s still room to make it even faster.In this talk we will go over resource loading improvements browsers have made in recent years, discuss related best practices and describe various innovations that are being worked on to improve resource loading even further.
+
+- title: Performant Animations" Hitting 60fps"
+  type: regular
+  level:
+  time: 2018-02-07
+  room:
+  authors:
+    - name: Emily Hayman
+      twitter: eehayman
+      github:
+      website:
+  slides:
+  videos:
+    - https://vimeo.com/254906131
+  description: |-
+    Achieving a silky smooth user experience has become a requirement in today’s web. Developers often invest quite a bit of time to reduce first page loads by even a few milliseconds, but forget to consider the impact of the interactions that follow. We’ll start off with discussing how a browser actually goes about generating the interface a user ends up seeing from your code, and then dive into how you can leverage this information for the best possible performance.From there, we'll review the pros and cons of various animation types, as well as differing CSS properties. We will explore how existing tools like requestAnimationFrame and CSS hardware acceleration can improve performance, in addition to upcoming standards and APIs. Finally, we’ll take a quick look at the options available for testing animations.
+
+- title: How’s the UX on the Web, Really?
+  type: regular
+  level:
+  time: 2018-02-08
+  room:
+  authors:
+    - name: Ilya Grigorik
+      twitter: igrigorik
+      github:
+      website:
+  slides:
+    - https://docs.google.com/presentation/d/1xhFyYiaPaRD81cw83i88XnbTwvOC7_MllxkzGDd6Ed4/present
+  videos:
+    - https://vimeo.com/254834890
+  description: |-
+    Mystery speaker
+
+- title: How fast is it?
+  type: regular
+  level:
+  time: 2018-02-08
+  room:
+  authors:
+    - name: Patrick Meenan
+      twitter: patmeenan
+      github:
+      website:
+  slides:
+  videos:
+    - https://vimeo.com/254728119
+  description: |-
+    Patrick will go over the current state-of the art in understanding and investigating the performance of your website including a deep dive into some of the new interactive and rendering metrics coming to the web platform and how to get the most out of WebPageTest.
+
+- title: Improving Page Performance in Modern Web Apps
+  type: regular
+  level:
+  time: 2018-02-08
+  room:
+  authors:
+    - name: Katie Hempenius
+      twitter: katiehempenius
+      github:
+      website:
+  slides:
+  videos:
+    - https://vimeo.com/254858694
+  description: |-
+    The network, browser, and hardware can all constrain page performance in modern web applications. This talk looks at why these constraints exist, how they can be identified, and how to mitigate them in order to improve performance.
+
+- title: Web Fonts are ▢▢▢ Rocket Science
+  type: regular
+  level:
+  time: 2018-02-08
+  room:
+  authors:
+    - name: Zach Leatherman
+      twitter: zachleat
+      github:
+      website:
+  slides:
+  videos:
+    - https://vimeo.com/254727749
+  description: |-
+    Web fonts are difficult to get right. An often overlooked and disruptive piece of web performance, web fonts can slow down your site and leave your visitors confused and agitated. No one wants agitated visitors. In this talk we’ll discuss useful methods to render web fonts quickly and without disruption so that visitors can do what should be a simple task—read the text. After all, web fonts are not rocket science.
+
+- title: Making Platforms And Processes Promote Performance
+  type: regular
+  level:
+  time: 2018-02-08
+  room:
+  authors:
+    - name: Phil Hawksworth
+      twitter: philhawksworth
+      github:
+      website:
+  slides:
+  videos:
+    - https://vimeo.com/254678463
+  description: |-
+    No matter how good you are at crafting the most ingenious, high-performance code, you need to deliver it to your users reliably. You probably also need to evolve it over time. To test it. To get it signed off. It can be painful. But it needn’t be.This talk will look at ways to design a developer experience which then enables a good user experience.We’ll talk about the benefits in keeping your stack simple, in using the expertise of others, and we’ll examine some performance and security benefits of the JAMstack and microservices.
+
+- title: JavaScript engine internals for JavaScript developers
+  type: regular
+  level:
+  time: 2018-02-08
+  room:
+  authors:
+    - name: Mathias Bynens
+      twitter: mathias
+      github:
+      website:
+  slides:
+  videos:
+    - https://vimeo.com/254852822
+  description: |-
+    This presentation demonstrates how learning just a little bit about JavaScript engine internals can help you improve the run-time performance of your JavaScript code — not just in V8 specifically, but across all JavaScript engines!"
+
+- title: Taking the Vile out of the Priviledge
+  type: regular
+  level:
+  time: 2018-02-08
+  room:
+  authors:
+    - name: Christian Heilmann
+      twitter: codepo8
+      github:
+      website:
+  slides:
+  videos:
+    - https://vimeo.com/254811822
+  description: |-
+    Surprise speaker

@@ -154,6 +154,18 @@
   description: |-
     A conference on the lessons learned while implementing React and React Native.
 
+- id: 2018-02-07-smashing-conference-london-2018
+  name: Smashing Conference London 2018
+  url: https://smashingconf.com/
+  date:
+    from: 2018-02-07
+    to: 2018-02-08
+  location:
+    country: United Kingdom
+    city: London
+  description: |-
+    Performance matters. We’re thrilled to venture to London for our brand new conference fully dedicated to everything web performance. Dealing with ads, third-party scripts, A/B testing, HTTP/2, debugging, JAM stack, PWA, web fonts loading, memory/CPU perf, service workers. Plus lightning talks.
+
 - id: 2018-02-22-assertjs-2018
   name: Assert(js) 2018
   url: https://www.assertjs.com/
