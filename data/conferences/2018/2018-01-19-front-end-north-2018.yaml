@@ -1,0 +1,159 @@
+- title: The Night of the Living Style Guides
+  type: regular
+  level:
+  time: 2018-01-19
+  room:
+  authors:
+    - name: Sarah Semark
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Z6bbIR2o-iI
+  description: |-
+    The line between design and development is getting blurrier, and our approach to web design is becoming more modular. How do we keep track of it all?A designer, developer, and world-traveller. After running a business for eight years, she now works for Automattic designing and building WordPress themes.When she’s not busy making things, Sarah likes obsessing over typography, collecting impractical footwear, and exploring new places.We create reliable and high value digital web solutions that are delivered on time and on budget:
+
+- title: OfflineFirst Apps with PouchDB and CouchDB
+  type: regular
+  level:
+  time: 2018-01-19
+  room:
+  authors:
+    - name: Lorna Mitchell
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/9dQFJh0jEWo
+  description: |-
+    Building an OfflineFirst application means creating something that works fast and well, regardless of whether your device is connected, experiencing a network glitch, or offline completely.Lorna is based in Yorkshire, UK; she is a Developer Advocate with IBM Watson Data Platform, a published author and experienced conference speaker.We create reliable and high value digital web solutions that are delivered on time and on budget.
+
+- title: Designing form validation the right way
+  type: regular
+  level:
+  time: 2018-01-19
+  room:
+  authors:
+    - name: Damian Nicholson
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/LnqG8ttmhKY
+  description: |-
+    What is inline validation and why it’s necessary. Why it’s very hard to do right but using React alleviates some of those problems I’m the frontend lead at Conferize. We’re building a universal and social event solution to help event makers create the biggest impact. When I’m not doing that I’m either failing at pouring a rosetta in my coffee or out cycling.We create reliable and high value digital web solutions that are delivered on time and on budget.
+
+- title: Reacting to change
+  type: regular
+  level:
+  time: 2018-01-19
+  room:
+  authors:
+    - name: Ben Cooper
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/47zxMtg9oEw
+  description: |-
+    I’m going to talk about the ever changing landscape of JavaScript and attempt to provide some clarity on the shift we are seeing in what is the backbone of our projects, the programming paradigm.Currently working at Tombola, the UK’s biggest bingo site, I am a Senior JavaScript Developer with over 5 years experience working for some of the world’s biggest organisations, as well as managing and contributing towards a multitude of large front end architectures.We create reliable and high value digital web solutions that are delivered on time and on budget.Based in the UK with a global reach we've been running events for like-minded professionals in our industry since 2012!
+
+- title: Build Anything With React
+  type: regular
+  level:
+  time: 2018-01-19
+  room:
+  authors:
+    - name: Jani Evakallio
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/2ZfZYl70MEQ
+  description: |-
+    This talk explores how we can use the universal React programming model to build applications across different platforms.I’ve been writing JavaScript for 12 years. During that time I’ve seen technologies come and go, and I’ve never been as excited about any of them as I am about React.We create reliable and high value digital web solutions that are delivered on time and on budget.Based in the UK with a global reach we've been running events for like-minded professionals in our industry since 2012!
+
+- title: Agile working in a slow-moving world
+  type: regular
+  level:
+  time: 2018-01-19
+  room:
+  authors:
+    - name: Chris Marsh
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/LAqPpvBmta4
+  description: |-
+    Web development moves fast, and as a digital team we want to deliver the best work we can as quickly as possible. But universities, like other big organisations, are slow-moving: for every big decision there’s a committee or a steering group to deal with.I‘m a Senior Front-End Developer at the University of York. Before then I worked in agencies, and the difference is vast. I’m trying to change the culture of work in our marketing team to be more agency-like, so we can deliver better projects more quickly.We create reliable and high value digital web solutions that are delivered on time and on budget:
+
+- title: Owning Innovation
+  type: regular
+  level:
+  time: 2018-01-19
+  room:
+  authors:
+    - name: Tejay White
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/GQXPxaGTOco
+  description: |-
+    Digital innovation is a phrase that’s bandied around a lot, but what does it mean to innovate?
+
+- title: Selling Front-End
+  type: regular
+  level:
+  time: 2018-01-19
+  room:
+  authors:
+    - name: Kimb Jones
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/jeFzegYgERI
+  description: |-
+    It might seem easy but selling the concept of how important this ‘Front-end’ thing is to clients is an increasing challenge and shouting out buzzwords and acronyms isn’t helping anyone.Kimb is the founder of FrontEndNorth and this year will be doing a talk on how to sell Front-End to clients. Which, considering he’s also organising the event which should be fun!We create reliable and high value digital web solutions that are delivered on time and on budget Based in the UK with a global reach we've been running events for like-minded professionals in our industry since 2012!
+
+- title: Automating Critical CSS
+  type: regular
+  level:
+  time: 2018-01-19
+  room:
+  authors:
+    - name: Rich Higgins
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/uDVevWRZ2To
+  description: |-
+    How we approached automating critical CSS for modular, CMS driven websites at Co-op Digital.I cut my industry teeth in Leeds during the early noughties dotcom boom and finished my full-time agency career at design and advertising agency LOVE in Manchester.We create reliable and high value digital web solutions that are delivered on time and on budget.Based in the UK with a global reach we've been running events for like-minded professionals in our industry since 2012!
+
+- title: Marty McFly Has A Lot To Answer For
+  type: regular
+  level:
+  time: 2018-01-19
+  room:
+  authors:
+    - name: Craig Burgess
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/H0P0NMGvHrU
+  description: |-
+    In this talk about design and front end development on the modern web, one thing will be guaranteed: he’ll stop talking in third person about himself.Creative Director at Genius Division. Challenge-taker. Speaker. Designer. Marketer. Writing a book: Extreme Production. I do a lot of things.We create reliable and high value digital web solutions that are delivered on time and on budget.Based in the UK with a global reach we've been running events for like-minded professionals in our industry since 2012!

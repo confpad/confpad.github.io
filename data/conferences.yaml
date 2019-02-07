@@ -130,6 +130,18 @@
   description: |-
     ReactiveConf2017 took us to a whole new dimension! Two conference days on two stages and one festival day made ReactiveConf 2017 the most exciting conference in this solar system and beyond. We had 24 main stage talks, 8 free workshops, inspirational talks and many more.
 
+- id: 2018-01-19-front-end-north-2018
+  name: Front End North 2018
+  url: https://frontendnorth.com/
+  date:
+    from: 2018-01-19
+    to: 2018-01-19
+  location:
+    country: United Kingdom
+    city: Sheffield
+  description: |-
+    A one day conference in Sheffield for front end developers.
+
 - id: 2018-01-25-jsconf-asia-2018
   name: JSConf.Asia 2018
   url: https://2018.jsconf.asia/
