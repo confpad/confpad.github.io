@@ -25,6 +25,10 @@ glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conferen
     talks.forEach(talk => {
       expect(Object.keys(talk)).toEqual(ROOT_KEYS);
 
+      talk.slides && talk.slides.map(slidesItem => {
+        expect(slidesItem).toEqual(expect.stringContaining('http'));
+      });
+
       talk.authors && talk.authors.forEach(author => {
         expect(Object.keys(author)).toEqual(AUTHOR_KEYS);
       })
