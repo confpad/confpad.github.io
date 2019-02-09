@@ -322,6 +322,18 @@
   description: |-
     A one-day conference for the ▲ZEIT Community
 
+- id: 2018-05-07-beyond-tellerrand-duesseldorf-2018
+  name: Beyond Tellerrand Düsseldorf 2018
+  url: https://beyondtellerrand.com/events/duesseldorf-2018/
+  date:
+    from: 2018-05-07
+    to: 2018-05-09
+  location:
+    country: Germany
+    city: Düsseldorf
+  description: |-
+    beyond tellerrand is an affordable event about web design, development, creativity, design and much more.
+
 - id: 2018-05-11-pycon-2018
   name: PyCon 2018
   url: https://us.pycon.org/2018/
