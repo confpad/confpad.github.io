@@ -334,6 +334,18 @@
   description: |-
     After changing the way we think about state management in JavaScript applications, the way we write native mobile apps with React Native, how we interact with remote data with GraphQL or even how we manage CSS, the React community keeps innovating and its ecosystem growing.At this conference, you will learn how new projects such as ReasonML will bring web and mobile React Native apps to the next level and how projects such as React Native Web, React Primitive and Expo make it easy to write, deploy and share code on all platforms quickly. The conference aims to give talks that inspire and explore new futuristic ideas dealing with all the techs we enjoy from the React ecosystem such as React.js, React Native, GraphQL, Relay, Universal apps, ReasonML, Webpack, inline CSS and more.
 
+- id: 2018-05-24-you-gotta-love-frontend-conference-2018
+  name: You Gotta Love Frontend Conference 2018
+  url: http://yglf.com.ua/
+  date:
+    from: 2018-05-24
+    to: 2018-05-25
+  location:
+    country: Ukraine
+    city: Kiev
+  description: |-
+    YGLF is a community event built by developers for developers
+
 - id: 2018-06-26-smashing-conference-toronto-2018
   name: Smashing Conference Toronto 2018
   url: https://archive.smashingconf.com/toronto-2018/
