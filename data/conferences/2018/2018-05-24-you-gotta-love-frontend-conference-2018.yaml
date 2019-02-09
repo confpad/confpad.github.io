@@ -341,7 +341,6 @@
       website:
   slides:
   videos:
-    -
   description: |-
     We spend a lot of time debugging our code in a browser. But often we just use console.log. In this talk, I will share useful features of DevTools in Chrome and tips and tricks that will help you develop and debug more quickly, easily, and efficiently!
 
