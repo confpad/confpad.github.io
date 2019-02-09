@@ -229,7 +229,7 @@
       github: steveklabnik
       website:
   slides:
-    - steveklabnik/jscampbcn2018
+    - https://github.com/steveklabnik/jscampbcn2018
   videos:
     - https://youtu.be/EHzrk1j7z7Q
   description: |-
@@ -263,7 +263,7 @@
       github: gabra
       website:
   slides:
-    - gabra/talks/blob/master/2018-07-jscamp-barcelona/slides.pdf
+    - https://github.com/gabra/talks/blob/master/2018-07-jscamp-barcelona/slides.pdf
   videos:
     - https://youtu.be/4RlIPl8mySw
   description: |-
