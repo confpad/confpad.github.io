@@ -282,7 +282,6 @@
       website: jxf.me/
   slides:
   videos:
-    -
   description: |-
     Blockchains are a new kind of data structure with many interesting applications, and are perhaps most notable for their use in cryptocurrencies like Bitcoin. In this talk, we’ll explore what a blockchain is, where and how you might use them (and when you shouldn't, despite what the hype might tell you!), and show how we might build our own in JS.
 
