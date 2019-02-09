@@ -572,6 +572,18 @@
   description: |-
     We are thrilled to present the 2018 edition of ReactNext – a one-day community-driven event packed with advanced lectures by internationally renowned speakers, and networking opportunities with over 600 attendees from all around the world, that share a passion for React, held in the center of the vibrant city of Tel Aviv. ReactNext targets both beginner and experienced devs in two parallel tracks with sessions about React, React Native, Redux, MobX, and everything about the ecosystem
 
+- id: 2018-11-05-beyond-tellerrand-berlin-2018
+  name: Beyond Tellerrand Berlin 2018
+  url: https://beyondtellerrand.com/events/berlin-2018/
+  date:
+    from: 2018-11-05
+    to: 2018-11-08
+  location:
+    country: Germany
+    city: Berlin
+  description: |-
+    beyond tellerrand is an affordable event about web design, development, creativity, design and much more. Taking place in Düsseldorf, Berlin and Munich.
+
 - id: 2018-11-12-chrome-dev-summit-2018
   name: Chrome Dev Summit 2018
   url: https://developer.chrome.com/devsummit/
