@@ -25,8 +25,14 @@ glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conferen
     talks.forEach(talk => {
       expect(Object.keys(talk)).toEqual(ROOT_KEYS);
 
+      // Check if slides items not empty/contain 'http'
       talk.slides && talk.slides.map(slidesItem => {
         expect(slidesItem).toEqual(expect.stringContaining('http'));
+      });
+
+      // Check if videos items not empty/contain 'http'
+      talk.videos && talk.videos.map(videosItem => {
+        expect(videosItem).toEqual(expect.stringContaining('http'));
       });
 
       talk.authors && talk.authors.forEach(author => {
