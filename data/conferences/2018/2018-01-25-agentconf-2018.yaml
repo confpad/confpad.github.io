@@ -1,0 +1,228 @@
+- title: I want you to contribute to open source
+  type:
+  level:
+  time: 2018-01-25 09:00
+  room:
+  authors:
+    - name: Max Stoiber
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/PUPEptN5MtM
+  description: |-
+
+- title: Folding Space and Time
+  type:
+  level:
+  time: 2018-01-25 09:45
+  room:
+  authors:
+    - name: Guillermo Rauch
+      twitter:
+      github:
+      website:
+    - name: Leo Lamprecht
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/mdKb_hDDqfA
+  description: |-
+
+- title: Write Queries, Not Code
+  type:
+  level:
+  time: 2018-01-25 11:15
+  room:
+  authors:
+    - name: Peggy Rayzis
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Ak4cvV1ejOw
+  description: |-
+
+- title: The Complete Yarn Workflow
+  type:
+  level:
+  time: 2018-01-25 12:00
+  room:
+  authors:
+    - name: Kaylie Alexa Kwon
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/0JIeUdLaBTI
+  description: |-
+
+- title: Make backend devs jealous of your test suite
+  type:
+  level:
+  time: 2018-01-25 14:15
+  room:
+  authors:
+    - name: Carly Litchfield
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/URvabqUkVxg
+  description: |-
+
+- title: Make Linting Great Again
+  type:
+  level:
+  time: 2018-01-25 15:00
+  room:
+  authors:
+    - name: Andrey Okonetchnikov
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/-mhY7e-EsC4
+  description: |-
+
+- title: An agnostic components design system for React
+  type:
+  level:
+  time: 2018-01-25 16:15
+  room:
+  authors:
+    - name: Javi Velasco
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/QT07wWC3PdY
+  description: |-
+
+- title: Your brain doesn't have a fix flag
+  type:
+  level:
+  time: 2018-01-26 09:00
+  room:
+  authors:
+    - name: Sara Vieira
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/bovBQtB_PDo
+  description: |-
+
+- title: Extending Redux in the Server Side
+  type:
+  level:
+  time: 2018-01-26 09:45
+  room:
+  authors:
+    - name: Nacho Martin
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Zfu0teB90nE
+  description: |-
+
+- title: What’s inside of TurboFan?
+  type:
+  level:
+  time: 2018-01-26 11:00
+  room:
+  authors:
+    - name: Benedikt Meurer
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Eowsw8XXVCQ
+  description: |-
+
+- title: Go home (or skiing) early. The joy of transparent reactivity.
+  type:
+  level:
+  time: 2018-01-26 11:45
+  room:
+  authors:
+    - name: Michel Weststrate
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/9Lfs0GwWw1g
+  description: |-
+
+- title: void* is the new var
+  type:
+  level:
+  time: 2018-01-26 14:00
+  room:
+  authors:
+    - name: Emil Sjölander
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/j1csBgagylk
+  description: |-
+
+- title: React state management in a GraphQL era
+  type:
+  level:
+  time: 2018-01-26 14:45
+  room:
+  authors:
+    - name: Kitze
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/zDgHiRuIAZ4
+  description: |-
+
+- title: Lightning Fast React Apps
+  type:
+  level:
+  time: 2018-01-26 16:00
+  room:
+  authors:
+    - name: Sia Karamalegos
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/5WxdSZKqe5E
+  description: |-
+
+- title: Bot Of The United States
+  type:
+  level:
+  time: 2018-01-26 16:45
+  room:
+  authors:
+    - name: Asim Hussain
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/cK7YetVGCKQ
+  description: |-
