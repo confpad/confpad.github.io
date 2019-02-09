@@ -358,6 +358,18 @@
   description: |-
     YGLF is a community event built by developers for developers
 
+- id: 2018-06-01-amsterdam-jsnation-conference-2018
+  name: Amsterdam JSNation Conference 2018
+  url: https://amsterdamjs.com/2018/
+  date:
+    from: 2018-06-01
+    to: 2018-06-02
+  location:
+    country: Netherlands
+    city: Amsterdam
+  description: |-
+    Amsterdam JSNation is a 2-day event focusing exclusively on JavaScript development. At our conference, inspiring talks meet fresh ideas and good people - you’ll hear all you need to know about the latest trends in JS tech, see stellar speakers, meet new friends and colleagues, and connect with key people in the industry. Plus, all of that in one of Europe's top destinations.
+
 - id: 2018-06-26-smashing-conference-toronto-2018
   name: Smashing Conference Toronto 2018
   url: https://archive.smashingconf.com/toronto-2018/
