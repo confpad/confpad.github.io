@@ -442,6 +442,18 @@
   description: |-
     Come see the best experts worldwide share their insights on scalability, DevOps and distributed systems.
 
+- id: 2018-06-01-frontend-united-2018
+  name: Frontend United 2018
+  url: https://2018.frontendunited.org/
+  date:
+    from: 2018-06-01
+    to: 2018-06-02
+  location:
+    country: Netherlands
+    city: Utrecht
+  description: |-
+    Frontend United is a yearly European conference that moves from country to country. Its aim is to bring frontend developers, designers and Drupal themers from all kinds of backgrounds closer together and share knowledge, experiences and ideas face-to-face. We look towards frontend development and Drupal from the outside-in and reach out to specialists around the globe to share their passion. Frontend United looks to help grow the local community as well as build bridges across Europe for future collaborations and cross-border networking and working opportunities.
+
 - id: 2018-06-26-smashing-conference-toronto-2018
   name: Smashing Conference Toronto 2018
   url: https://archive.smashingconf.com/toronto-2018/
