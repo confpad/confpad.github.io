@@ -5,6 +5,8 @@ const jsyaml = require('js-yaml');
 
 const ROOT_KEYS = ['title', 'type', 'level', 'time', 'room', 'authors', 'slides', 'videos', 'description'];
 const AUTHOR_KEYS = ['name', 'twitter', 'github', 'website'];
+const TALK_TYPES = ['regular', 'lightning', 'workshop'];
+const TALK_LEVELS = ['beginner', 'intermediate', 'advanced'];
 const REGEX_URL = /^http[s]?:\/\//;
 const REGEX_URL_YOUTUBE = /^https:\/\/youtu\.be\/[a-zA-Z0-9_-]{11}$/;
 const REGEX_URL_VIMEO = /^https:\/\/vimeo\.com\/[0-9]{9}$/;
@@ -28,6 +30,12 @@ glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conferen
     talks.forEach(talk => {
       // Check if talk contains all fields in correct order
       expect(Object.keys(talk)).toEqual(ROOT_KEYS);
+
+      // Check if talk type is one of allowed ones - reversed actual-expected order, sort of anti-pattern
+      expect(TALK_TYPES).toContain(talk.type);
+
+      // Check if talk level is one of allowed ones - reversed actual-expected order, sort of anti-pattern
+      talk.level && expect(TALK_LEVELS).toContain(talk.level);
 
       // Check if authors entries contain all fields in correct order
       talk.authors && talk.authors.forEach(author => {
