@@ -23,10 +23,18 @@ glob.sync('{./data/conferences.yaml,./examples/conferences.yaml}').forEach(file 
 
   // Run tests
   conferences.forEach(conference => {
-    test(`Should contain all keys - ${conference.id}`, () => {
+    test(`Has correct format - ${conference.id}`, () => {
+      // Check if conference contains all fields in correct order
       expect(Object.keys(conference)).toEqual(ROOT_KEYS);
+
+      // Check if date entry contains all fields in correct order
       expect(Object.keys(conference.date)).toEqual(DATE_KEYS);
       conference.location && expect(Object.keys(conference.location)).toEqual(LOCATION_KEYS);
+
+      // Check if description doesn't contain newline
+      if (conference.description !== null) {
+        expect(conference.description).toEqual(expect.not.stringContaining('\n'));
+      }
     });
   });
 });

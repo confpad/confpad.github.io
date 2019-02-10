@@ -21,23 +21,30 @@ glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conferen
   }
 
   // Run tests
-  test(`Should contain all keys - ${file}`, () => {
+  test(`Has correct format - ${file}`, () => {
     talks.forEach(talk => {
+      // Check if talk contains all fields in correct order
       expect(Object.keys(talk)).toEqual(ROOT_KEYS);
 
-      // Check if slides items not empty/contain 'http'
+      // Check if authors entries contain all fields in correct order
+      talk.authors && talk.authors.forEach(author => {
+        expect(Object.keys(author)).toEqual(AUTHOR_KEYS);
+      });
+
+      // Check if slides items are not empty/contain 'http'
       talk.slides && talk.slides.map(slidesItem => {
         expect(slidesItem).toEqual(expect.stringContaining('http'));
       });
 
-      // Check if videos items not empty/contain 'http'
+      // Check if videos items are not empty/contain 'http'
       talk.videos && talk.videos.map(videosItem => {
         expect(videosItem).toEqual(expect.stringContaining('http'));
       });
 
-      talk.authors && talk.authors.forEach(author => {
-        expect(Object.keys(author)).toEqual(AUTHOR_KEYS);
-      })
+      // Check if description doesn't contain newline
+      if (talk.description !== null) {
+        expect(talk.description).toEqual(expect.not.stringContaining('\n'));
+      }
     });
   });
 });
