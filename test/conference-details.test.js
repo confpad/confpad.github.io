@@ -56,6 +56,11 @@ glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conferen
       if (talk.description !== null) {
         expect(talk.description).toEqual(expect.not.stringContaining('\n'));
       }
+
+      // Check if time is a valid date
+      expect(talk.time).toBeInstanceOf(Date);
+      expect(typeof talk.time.getFullYear()).toBe('number');
+
     });
   });
 });
