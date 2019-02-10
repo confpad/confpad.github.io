@@ -8,6 +8,7 @@ const COUNTRIES = require('./countries');
 const ROOT_KEYS = ['id', 'name', 'url', 'date', 'location', 'description'];
 const DATE_KEYS = ['from', 'to'];
 const LOCATION_KEYS = ['country', 'city'];
+const REGEX_URL = /^http[s]?:\/\//;
 
 glob.sync('{./data/conferences.yaml,./examples/conferences.yaml}').forEach(file => {
   let conferences;
@@ -42,7 +43,7 @@ glob.sync('{./data/conferences.yaml,./examples/conferences.yaml}').forEach(file 
       conference.location && expect(COUNTRIES).toContain(conference.location.country);
 
       // Check if URL starts with http(s)
-      conference.url && expect(conference.url).toEqual(expect.stringMatching(/^http[s]?:\/\//));
+      conference.url && expect(conference.url).toEqual(expect.stringMatching(REGEX_URL));
     });
   });
 });

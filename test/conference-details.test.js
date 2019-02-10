@@ -5,6 +5,9 @@ const jsyaml = require('js-yaml');
 
 const ROOT_KEYS = ['title', 'type', 'level', 'time', 'room', 'authors', 'slides', 'videos', 'description'];
 const AUTHOR_KEYS = ['name', 'twitter', 'github', 'website'];
+const REGEX_URL = /^http[s]?:\/\//;
+const REGEX_URL_YOUTUBE = /^https:\/\/youtu\.be\/[a-zA-Z0-9_-]{11}$/;
+const REGEX_URL_VIMEO = /^https:\/\/vimeo\.com\/[0-9]{9}$/;
 
 glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conference.yaml}').forEach(file => {
   let talks;
@@ -33,12 +36,20 @@ glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conferen
 
       // Check if slides URLs start with http(s)
       talk.slides && talk.slides.map(slidesItem => {
-        expect(slidesItem).toEqual(expect.stringMatching(/^http[s]?:\/\//));
+        expect(slidesItem).toEqual(expect.stringMatching(REGEX_URL));
       });
 
       // Check if video URLs start with http(s)
-      talk.videos && talk.videos.map(videosItem => {
-        expect(videosItem).toEqual(expect.stringMatching(/^http[s]?:\/\//));
+      talk.videos && talk.videos.map(url => {
+        expect(url).toEqual(expect.stringMatching(REGEX_URL));
+
+        if (url.includes('youtu')) {
+          expect(url).toEqual(expect.stringMatching(REGEX_URL_YOUTUBE));
+        }
+
+        if (url.includes('vimeo')) {
+          expect(url).toEqual(expect.stringMatching(REGEX_URL_VIMEO));
+        }
       });
 
       // Check if description doesn't contain newline
