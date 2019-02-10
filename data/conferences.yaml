@@ -130,6 +130,18 @@
   description: |-
     ReactiveConf2017 took us to a whole new dimension! Two conference days on two stages and one festival day made ReactiveConf 2017 the most exciting conference in this solar system and beyond. We had 24 main stage talks, 8 free workshops, inspirational talks and many more.
 
+- id: 2018-01-15-beyond-tellerand-munich-2018
+  name: Beyond Tellerand Munich 2018
+  url: https://beyondtellerrand.com/events/munich-2018/
+  date:
+    from: 2018-01-15
+    to: 2018-01-17
+  location:
+    country: Germany
+    city: Munich
+  description: |-
+    Hello and welcome to the archive of the first beyond tellerrand in Munich, which took palce from 15 to 17 January in 2018. You find all videos of the talks embedded in the speaker page of every speaker. Additionally you can use the links to either Vimeo or YouTube to watch all the videos.
+
 - id: 2018-01-19-front-end-north-2018
   name: Front End North 2018
   url: https://frontendnorth.com/

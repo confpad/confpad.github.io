@@ -1,0 +1,207 @@
+- title: A Tinker Story
+  type:
+  level:
+  time: 2018-01-16
+  room:
+  authors:
+    - name: dina Amin
+      twitter: dinaaamin
+      github:
+      website: https://dinaaamin.com/
+  slides:
+  videos:
+    - https://youtu.be/_DLJ_7c2ddo
+  description: |-
+    In this talk dina shares her tinker story, how it all started and why she continues to tinker. She shares what she’s learnt so far and the biggest mistakes she’s done. And hopefully show you a side of Egypt you’ve never seen before.
+
+- title: 'Data Sketches: A Year of Exotic Data Visualisations'
+  type:
+  level:
+  time: 2018-01-16
+  room:
+  authors:
+    - name: Nadieh Bremer
+      twitter: NadiehBremer
+      github:
+      website: http://visualcinnamon.com/
+  slides:
+  videos:
+    - https://youtu.be/xtQkB819k8w
+  description: |-
+    “data sketches” was a year-long collaboration between Nadieh Bremer and Shirley Wu, both freelancing data visualisation designers. Each month they chose a topic and visualised it in an overly elaborate & geeky manner. But besides sharing the end result, they also wrote extensively about the creation process. In this talk, Nadieh will share her most important lessons learned in the fundamental areas of data, sketching & coding the visual onto the screen. About how some months became favourites, what mistakes were made along the way, and how they were overcome. She’ll especially highlight that many visualizations had humble, ugly duckling beginnings, but that through many (embarrassing) iterations they were turned into unique and, hopefully, compelling results. And finally, she’ll touch upon the impact & benefit of collaborating heavily with someone (halfway across the globe) for a year.
+
+- title: From AI to robots, from apps to wearables – let’s design for everyone, OK?
+  type:
+  level:
+  time: 2018-01-16
+  room:
+  authors:
+    - name: Robin Christopherson
+      twitter: USA2DAY
+      github:
+      website: http://abilitynet.org.uk/
+  slides:
+  videos:
+    - https://youtu.be/ew9e7-1CB6s
+  description: |-
+
+- title: The Internet of Natural Things
+  type:
+  level:
+  time: 2018-01-16
+  room:
+  authors:
+    - name: Simon Collison
+      twitter: colly
+      github:
+      website: http://colly.com/
+  slides:
+  videos:
+    - https://youtu.be/pIlrZ2uDxHc
+  description: |-
+    Simon will discuss the ways digital technology can strengthen our connection to the world around us, and actually benefit our well-being. He’ll lift the lid on his research so far, share some experiential optimism, and outline ideas for ensuring the products we create have a positive influence on our lives.
+
+- title: 'Robotics in Our Everyday Lives: A Product Designer''s Perspective'
+  type:
+  level:
+  time: 2018-01-16
+  room:
+  authors:
+    - name: Carla Diana
+      twitter: carladiana_
+      github:
+      website: http://carladiana.com/
+  slides:
+  videos:
+    - https://youtu.be/bW_BFdpQ4f8
+  description: |-
+    Our everyday objects are about to get a boost from science fiction as robotics, artificial intelligence and camera vision become a part of home, work, medicine, sports and pretty much every other aspect of life. Things that were once silent and static can now sing, glow, buzz and be tracked online. Some are constantly listening for sounds, sights and touches to translate into meaningful inputs. Others have the ability to learn, refining their behaviours over time. They can be connected to one another as well as the Internet and will behave as robotic entities that accompany us through all aspects of everyday life. In this talk, product designer and design futurist Carla Diana will explore the emergence of smart objects in the home, highlighting designers’ opportunities to pioneer new territory in rich interaction, while emphasising the importance of creating products that are meaningful and responsible. She will share case studies from the front lines of design and creative technology, showcasing how art, science and business are merging to enable new product experiences.
+
+- title: New Adventures in Responsive Web Design
+  type:
+  level:
+  time: 2018-01-16
+  room:
+  authors:
+    - name: Vitaly Friedman
+      twitter: smashingmag
+      github:
+      website: https://smashingmagazine.com/
+  slides:
+  videos:
+    - https://youtu.be/FKIRJJo8OHI
+  description: |-
+
+- title: Sacrificing the golden calf of “coding”
+  type:
+  level:
+  time: 2018-01-16
+  room:
+  authors:
+    - name: Christian Heilmann
+      twitter: codepo8
+      github:
+      website: https://christianheilmann.com/
+  slides:
+    - https://www.slideshare.net/cheilmann/sacrificing-the-golden-calf-of-coding-86404119
+  videos:
+    - https://youtu.be/eSprP87n3tg
+  description: |-
+    “Everybody must learn how to code” is a demand you hear a lot. Technical advancements have made computers and online systems a given and automation is threatening a lot of jobs and our traditional ways of working. Good news for us, right? Maybe, but even we as developers, designers and makers of software products are not immune to automation – if anything, we should embrace it more. In this talk Chris Heilmann will question our approach to “coding” and hopefully make you less worried if you think you aren’t “technical enough”.
+
+- title: Interactive Email
+  type:
+  level:
+  time: 2018-01-16
+  room:
+  authors:
+    - name: Mark Robbins
+      twitter: M_J_Robbins
+      github:
+      website: https://gorebel.com/
+  slides:
+    - https://codepen.io/M_J_Robbins/pen/PQOwmW
+  videos:
+    - https://youtu.be/l7i7YDPcAcM
+  description: |-
+    Emails are something that web developers tend to dislike building. With 15,000 potential rendering on average for a single email they can be incredibly complicated and unpredictable, so coding for the lowest common denominator is common.place. However what happens what you build for the email clients with the most support rather than the least?   In this talk we'll explore what advanced techniques can be used and which email clients they work in. Covering simple image galleries to advances functional shopping carts and 3D gaming, all useable directly in the inbox.
+
+- title: Why Fast Matters
+  type:
+  level:
+  time: 2018-01-16
+  room:
+  authors:
+    - name: Harry Roberts
+      twitter: csswizardry
+      github:
+      website: http://csswizardry.com/
+  slides:
+    - https://speakerdeck.com/csswizardry/why-fast-matters
+  videos:
+    - https://youtu.be/cO45Vxj9aTw
+  description: |-
+    We’re all – I hope! – well aware that performance is important; it’s great for business and it’s great for our users. But things are still not fast enough. With more and more emerging markets coming online, and more and more apps moving to the web platform, we’re reaching an intersection where connections are getting slower and websites are getting heavier. In this talk, we’ll learn just what these emerging markets mean to us, and how we can begin to move in the right direction.
+
+- title: Why Beauty Matters
+  type:
+  level:
+  time: 2018-01-16
+  room:
+  authors:
+    - name: Stefan Sagmeister
+      twitter: SagmeisterWalsh
+      github:
+      website: http://sagmeisterwalsh.com/
+  slides:
+  videos:
+  description: |-
+
+
+- title: 'SVG Filters: The Crash Course'
+  type:
+  level:
+  time: 2018-01-16
+  room:
+  authors:
+    - name: Sara Soueidan
+      twitter: SaraSoueidan
+      github:
+      website: https://sarasoueidan.com/
+  slides:
+  videos:
+    - https://youtu.be/XtwGwOemE6w
+  description: |-
+    When it comes to graphical effects on the Web, CSS has already come a long way in the last few years, with the introduction of CSS filters and blend modes a few years back. However, when compared to effects available in graphics editors such as Photoshop and the likes, CSS is still behind, by far. But SVG, on the other hand, is not that far behind. SVG comes with a set of filter primitives that enable you to recreate Photoshop-grade effects in the browser, using a few lines of code. While the syntax and attributes of these filters may seem intimidating and not very friendly at first, once you get a grasp of how they work, you’ll have a very powerful tool in your arsenal, that allows you to push the boundaries of what is possible on the Web. In this talk, Sara is going to give you a crash course on SVG filters — why they are awesome, how they work, and examples of powerful effects you can create with them, in an friendly, easy-to-follow approach. Brace yourself, and get ready to set your imagination free and expand your creativity for what’s possible on the Web today.
+
+- title: Radically Accessible Internet Applications 💯
+  type:
+  level:
+  time: 2018-01-16
+  room:
+  authors:
+    - name: Marcy Sutton
+      twitter: marcysutton
+      github:
+      website: https://marcysutton.com/
+  slides:
+  videos:
+    - https://youtu.be/WTQAI9TzBx0
+  description: |-
+
+
+- title: 'Sho Ha Hito Nari: Brushes, strokes and a reflection of self'
+  type:
+  level:
+  time: 2018-01-16
+  room:
+  authors:
+    - name: Aoi Yamaguchi
+      twitter: aoi_gm
+      github:
+      website: http://aoiyamaguchi.com/
+  slides:
+  videos:
+    - https://youtu.be/F_5J25UVQI0
+  description: |-
+    In Japanese culture, the art of calligraphy is not only the expertly painted characters; it is the spiritual journey of the calligrapher to infuse herself in the work and see herself reflected back. Using her works to illustrate this concept, Aoi Yamaguchi will explore this duality between the visual representation of her art and the constant search for self through the brush strokes.
