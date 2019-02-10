@@ -1,7 +1,7 @@
 - title: 'Node.js: Where are we now, where are we going?'
   type: regular
   level:
-  time: 2017-03-01 09:30
+  time: 2018-03-01 09:30:00
   room:
   authors:
     - name: Anna Henningsen
@@ -17,7 +17,7 @@
 - title: Beyond React 16
   type: regular
   level:
-  time: 2017-03-01 10:00
+  time: 2018-03-01 10:00:00
   room:
   authors:
     - name: Dan Abramov
@@ -33,7 +33,7 @@
 - title: Speech Recognition as a Progressive Enhancement
   type: regular
   level:
-  time: 2017-03-01 11:10
+  time: 2018-03-01 11:10:00
   room:
   authors:
     - name: Michael Henretty
@@ -49,7 +49,7 @@
 - title: Simplifying Complex UIs with Finite Automata & Statecharts
   type: regular
   level:
-  time: 2017-03-01 11:10
+  time: 2018-03-01 11:10:00
   room:
   authors:
     - name: David Khourshid
@@ -65,7 +65,7 @@
 - title: “Works for Me”
   type: regular
   level:
-  time: 2017-03-01 11:50
+  time: 2018-03-01 11:50:00
   room:
   authors:
     - name: Bryan Hughes
@@ -81,7 +81,7 @@
 - title: 'End to End Testing: The Game Has Changed'
   type: regular
   level:
-  time: 2017-03-01 11:50
+  time: 2018-03-01 11:50:00
   room:
   authors:
     - name: Will Klein
@@ -97,7 +97,7 @@
 - title: 'Sharing is Caring: build a peer-to-peer network with WebRTC'
   type: regular
   level:
-  time: 2017-03-01 13:30
+  time: 2018-03-01 13:30:00
   room:
   authors:
     - name: Nicole Chung
@@ -113,7 +113,7 @@
 - title: 'Augmented Reality: Past, Present, Future'
   type: regular
   level:
-  time: 2017-03-01 13:30
+  time: 2018-03-01 13:30:00
   room:
   authors:
     - name: Raisa Cuevas
@@ -129,7 +129,7 @@
 - title: Humanizing Your Documentation
   type: regular
   level:
-  time: 2017-03-01 14:10
+  time: 2018-03-01 14:10:00
   room:
   authors:
     - name: Carolyn Stransky
@@ -145,7 +145,7 @@
 - title: 'Paint Splatter: The making of an interactive artwork'
   type: regular
   level:
-  time: 2017-03-01 14:10
+  time: 2018-03-01 14:10:00
   room:
   authors:
     - name: Halldór Eldjárn & Þórður Hans Baldursson
@@ -161,7 +161,7 @@
 - title: Creating generative art with Javascript
   type: regular
   level:
-  time: 2017-03-01 14:50
+  time: 2018-03-01 14:50:00
   room:
   authors:
     - name: Kate Compton
@@ -177,7 +177,7 @@
 - title: XSS, CSRF, CSP, JWT, WTF? IDK
   type: regular
   level:
-  time: 2017-03-01 14:50
+  time: 2018-03-01 14:50:00
   room:
   authors:
     - name: Dominik Kundel
@@ -193,7 +193,7 @@
 - title: Give Apps Online Superpowers by Optimizing them for Offline
   type: regular
   level:
-  time: 2017-03-01 15:50
+  time: 2018-03-01 15:50:00
   room:
   authors:
     - name: Dan Gebhardt
@@ -209,7 +209,7 @@
 - title: Directional Content in React
   type: regular
   level:
-  time: 2017-03-01 16:30
+  time: 2018-03-01 16:30:00
   room:
   authors:
     - name: Maja Wichrowska
@@ -225,7 +225,7 @@
 - title: How to style in React and not lose friends
   type: regular
   level:
-  time: 2018-03-02 10:00
+  time: 2018-03-02 10:00:00
   room:
   authors:
     - name: Sarrah Vesselov
@@ -241,7 +241,7 @@
 - title: Wait, you can do that with JavaScript…!?
   type: regular
   level:
-  time: 2018-03-02 10:00
+  time: 2018-03-02 10:00:00
   room:
   authors:
     - name: Opher Vishnia
@@ -257,7 +257,7 @@
 - title: GitHub Pull Requests for Everyone
   type: regular
   level:
-  time: 2018-03-02 10:40
+  time: 2018-03-02 10:40:00
   room:
   authors:
     - name: Catherine Meade
@@ -273,7 +273,7 @@
 - title: 'Building with Blockchains: Better Distributed Applications'
   type: regular
   level:
-  time: 2018-03-02 10:40
+  time: 2018-03-02 10:40:00
   room:
   authors:
     - name: John Feminella
@@ -288,7 +288,7 @@
 - title: Houdini - What lies ahead
   type: regular
   level:
-  time: 2018-03-02 11:20
+  time: 2018-03-02 11:20:00
   room:
   authors:
     - name: Arun Michael Dsouza
@@ -304,7 +304,7 @@
 - title: Scaling NodeJS beyond the ordinary
   type: regular
   level:
-  time: 2018-03-02 11:20
+  time: 2018-03-02 11:20:00
   room:
   authors:
     - name: Abhinav Rastogi
@@ -320,7 +320,7 @@
 - title: 'Today: Making a browser fast, the story of Firefox Quantum.'
   type: regular
   level:
-  time: 2018-03-02 13:00
+  time: 2018-03-02 13:00:00
   room:
   authors:
     - name: Jean-Yves Perrier
@@ -336,7 +336,7 @@
 - title: 'Code, Play & Rock ''n'' Roll: A WebAudio Experiment'
   type: regular
   level:
-  time: 2018-03-02 13:00
+  time: 2018-03-02 13:00:00
   room:
   authors:
     - name: Armagan Amcalar
@@ -352,7 +352,7 @@
 - title: Building a raytracing engine with JS
   type: regular
   level:
-  time: 2018-03-02 13:40
+  time: 2018-03-02 13:40:00
   room:
   authors:
     - name: Madlaina Kalunder
@@ -368,7 +368,7 @@
 - title: 'Empathy as a Service: Supporting Mental Health in Tech'
   type: regular
   level:
-  time: 2018-03-02 13:40
+  time: 2018-03-02 13:40:00
   room:
   authors:
     - name: Nara Kasbergen
@@ -384,7 +384,7 @@
 - title: Daedalus – Though the Maze of Code
   type: regular
   level:
-  time: 2018-03-02 14:50
+  time: 2018-03-02 14:50:00
   room:
   authors:
     - name: Martin Kleppe
@@ -400,7 +400,7 @@
 - title: 'Webpack 4: The State of the Art'
   type: regular
   level:
-  time: 2018-03-02 15:20
+  time: 2018-03-02 15:20:00
   room:
   authors:
     - name: Sean Thomas Larkin
@@ -416,7 +416,7 @@
 - title: Live and Machine Learn
   type: regular
   level:
-  time: 2018-03-02 15:50
+  time: 2018-03-02 15:50:00
   room:
   authors:
     - name: Sarah Drasner

@@ -1,7 +1,7 @@
 - title: Design in the Era of the Algorithm
   type: regular
   level:
-  time: 2018-08-30 10:00
+  time: 2018-08-30 10:00:00
   room: FL 1 Folium
   authors:
     - name: Josh Clark
@@ -17,7 +17,7 @@
 - title: New Adventures In Front-End, Season 2
   type: regular
   level:
-  time: 2018-08-30 11:00
+  time: 2018-08-30 11:00:00
   room: FL 1 Folium
   authors:
     - name: Vitaly Friedman
@@ -33,7 +33,7 @@
 - title: Designing the Future, with Voice
   type: regular
   level:
-  time: 2018-08-30 11:00
+  time: 2018-08-30 11:00:00
   room: FL 2 Papiersaal
   authors:
     - name: Karen Kaushansky
@@ -49,7 +49,7 @@
 - title: Closing the gap between design and code
   type: regular
   level:
-  time: 2018-08-30 13:00
+  time: 2018-08-30 13:00:00
   room: FL 1 Folium
   authors:
     - name: Konrad Dzwinel
@@ -65,7 +65,7 @@
 - title: Unlocking the Power of CSS Grid Layout
   type: regular
   level:
-  time: 2018-08-30 13:00
+  time: 2018-08-30 13:00:00
   room: FL 2 Papiersaal
   authors:
     - name: Rachel Andrew
@@ -81,7 +81,7 @@
 - title: Serverless, backend thing that gives superpowers to frontend developers
   type: regular
   level:
-  time: 2018-08-30 14:00
+  time: 2018-08-30 14:00:00
   room: FL 1 Folium
   authors:
     - name: Slobodan Stojanovic
@@ -97,7 +97,7 @@
 - title: Design without interface - the future of experience design
   type: regular
   level:
-  time: 2018-08-30 14:00
+  time: 2018-08-30 14:00:00
   room: FL 2 Papiersaal
   authors:
     - name: Raffaela Rein
@@ -113,7 +113,7 @@
 - title: Surrounded by self-styled UX experts. The challenges of UX professionals in large enterprises
   type: regular
   level:
-  time: 2018-08-30 15:30
+  time: 2018-08-30 15:30:00
   room: FL 1 Folium
   authors:
     - name: Anna Jozanis
@@ -129,7 +129,7 @@
 - title: Embrace Reactive Programming in React and Vue with RxJS
   type: regular
   level:
-  time: 2018-08-30 15:30
+  time: 2018-08-30 15:30:00
   room: FL 2 Papiersaal
   authors:
     - name: Fahad Heylaal
@@ -145,7 +145,7 @@
 - title: Building Offline-first Progressive Web Apps
   type: regular
   level:
-  time: 2018-08-30 16:30
+  time: 2018-08-30 16:30:00
   room: FL 1 Folium
   authors:
     - name: Jake Archibald
@@ -161,7 +161,7 @@
 - title: Conquer Variable Web Typography
   type: regular
   level:
-  time: 2018-08-30 16:30
+  time: 2018-08-30 16:30:00
   room: FL 2 Papiersaal
   authors:
     - name: Oliver Schöndorfer
@@ -177,7 +177,7 @@
 - title: Lightning talks (Folium)
   type: lightning
   level:
-  time: 2018-08-30 17:30
+  time: 2018-08-30 17:30:00
   room: FL 1 Folium
   authors:
     - name: Lukas Müller
@@ -205,7 +205,7 @@
 - title: Lightning talks (Papiersaal)
   type: lightning
   level:
-  time: 2018-08-30 17:30
+  time: 2018-08-30 17:30:00
   room: FL 2 Papiersaal
   authors:
     - name: Fredi Bach
@@ -233,7 +233,7 @@
 - title: The three stages of leadership
   type: regular
   level:
-  time: 2018-08-31 09:00
+  time: 2018-08-31 09:00:00
   room: FL 1 Folium
   authors:
     - name: Jane Austin
@@ -248,7 +248,7 @@
 - title: The Geek’s Guide to Leading Teams
   type: regular
   level:
-  time: 2018-08-31 09:00
+  time: 2018-08-31 09:00:00
   room: FL 2 Papiersaal
   authors:
     - name: Patrick Kua
@@ -264,7 +264,7 @@
 - title: Muddling Through The Middle Bits, what comes after Junior and before Senior
   type: regular
   level:
-  time: 2018-08-31 10:00
+  time: 2018-08-31 10:00:00
   room: FL 1 Folium
   authors:
     - name: Anne Callahan
@@ -280,7 +280,7 @@
 - title: Impostor Syndrome and Individual Competence
   type: regular
   level:
-  time: 2018-08-31 10:00
+  time: 2018-08-31 10:00:00
   room: FL 2 Papiersaal
   authors:
     - name: Jessica Rose
@@ -296,7 +296,7 @@
 - title: It Takes a Village to Raise a Bot
   type: regular
   level:
-  time: 2018-08-31 11:00
+  time: 2018-08-31 11:00:00
   room: FL 1 Folium
   authors:
     - name: Desiree Garcia
@@ -312,7 +312,7 @@
 - title: The New Mobile Reality
   type: regular
   level:
-  time: 2018-08-31 11:00
+  time: 2018-08-31 11:00:00
   room: FL 2 Papiersaal
   authors:
     - name: Alex Russel
@@ -328,7 +328,7 @@
 - title: Hey! You got your code in my art!
   type: regular
   level:
-  time: 2018-08-31 13:00
+  time: 2018-08-31 13:00:00
   room: FL 1 Folium
   authors:
     - name: Monica Dinculescu
@@ -344,7 +344,7 @@
 - title: Community based design
   type: regular
   level:
-  time: 2018-08-31 13:00
+  time: 2018-08-31 13:00:00
   room: FL 2 Papiersaal
   authors:
     - name: Emanuela Damiani
@@ -360,7 +360,7 @@
 - title: Great Design, Despite Agile, How to Get the Best Out of Your Design Team in Agile Projects
   type: regular
   level:
-  time: 2018-08-31 14:00
+  time: 2018-08-31 14:00:00
   room: FL 1 Folium
   authors:
     - name: Aras Bilgen
@@ -376,7 +376,7 @@
 - title: Humanizing your documentation
   type: regular
   level:
-  time: 2018-08-31 14:00
+  time: 2018-08-31 14:00:00
   room: FL 2 Papiersaal
   authors:
     - name: Carolyn Stransky
@@ -392,7 +392,7 @@
 - title: Better, Fearless Feedback for Software Teams
   type: regular
   level:
-  time: 2018-08-31 15:30
+  time: 2018-08-31 15:30:00
   room: FL 1 Folium
   authors:
     - name: Erika Languirand
@@ -408,7 +408,7 @@
 - title: Designing Teamwork
   type: regular
   level:
-  time: 2018-08-31 15:30
+  time: 2018-08-31 15:30:00
   room: FL 2 Papiersaal
   authors:
     - name: Alison Coward
@@ -423,7 +423,7 @@
 - title: How to Be Good
   type: regular
   level:
-  time: 2018-08-31 16:30
+  time: 2018-08-31 16:30:00
   room: FL 1 Folium
   authors:
     - name: Dan Mall

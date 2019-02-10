@@ -1,7 +1,7 @@
 - title: KEYNOTE. EVEN MORE CSS SECRETS
   type:
   level:
-  time: 2018-05-24 11:30
+  time: 2018-05-24 11:30:00
   room:
   authors:
     - name: Lea Verou
@@ -17,7 +17,7 @@
 - title: JOURNEY THROUGH VR AND AR WITH REACT
   type:
   level:
-  time: 2018-05-24 12:30
+  time: 2018-05-24 12:30:00
   room:
   authors:
     - name: Tomasz Łakomy
@@ -33,7 +33,7 @@
 - title: GRAPHQL CLIENTS
   type:
   level:
-  time: 2018-05-24 13:40
+  time: 2018-05-24 13:40:00
   room:
   authors:
     - name: Mikhail Novikov
@@ -49,7 +49,7 @@
 - title: 'EAST MEETS WEST: WEB TYPOGRAPHY AND MODERN LAYOUTS'
   type:
   level:
-  time: 2018-05-24 14:20
+  time: 2018-05-24 14:20:00
   room:
   authors:
     - name: Chen Hui Jing
@@ -65,7 +65,7 @@
 - title: 'JAVASCRIPT: THE FAIRLY ODD PARTS'
   type:
   level:
-  time: 2018-05-24 16:30
+  time: 2018-05-24 16:30:00
   room:
   authors:
     - name: Benedikt Meurer
@@ -81,7 +81,7 @@
 - title: CSS TRICKS YOU GOTTA LOVE
   type:
   level:
-  time: 2018-05-24 16:40
+  time: 2018-05-24 16:40:00
   room:
   authors:
     - name: Oleksandr Pavlyshch
@@ -97,7 +97,7 @@
 - title: 100% KOTLIN FRONTEND
   type:
   level:
-  time: 2018-05-24 16:50
+  time: 2018-05-24 16:50:00
   room:
   authors:
     - name: Leonid Khachaturov
@@ -113,7 +113,7 @@
 - title: 'REACT NATIVE: NEW AGE HACK OR STONE AGE TOOL?'
   type:
   level:
-  time: 2018-05-24 17:00
+  time: 2018-05-24 17:00:00
   room:
   authors:
     - name: Gregory Shehet
@@ -129,7 +129,7 @@
 - title: USING NEW WEB APIS FOR YOUR OWN PLEASURE
   type:
   level:
-  time: 2018-05-24 17:10
+  time: 2018-05-24 17:10:00
   room:
   authors:
     - name: Michaela Lehr
@@ -145,7 +145,7 @@
 - title: WEBASSEMBLY AS CROSS-PLATFORM ARCHITECTURE
   type:
   level:
-  time: 2018-05-24 17:20
+  time: 2018-05-24 17:20:00
   room:
   authors:
     - name: Benedek Gagyi
@@ -161,7 +161,7 @@
 - title: 'MINING CRYPTO IN BROWSER: GPU, WEBASSEMBLY, JAVASCRIPT AND ALL THE GOOD THINGS TO TRY'
   type:
   level:
-  time: 2018-05-24 18:30
+  time: 2018-05-24 18:30:00
   room:
   authors:
     - name: Denis Radin
@@ -177,7 +177,7 @@
 - title: CASE STUDY - REACT FINLAND
   type:
   level:
-  time: 2018-05-24 19:10
+  time: 2018-05-24 19:10:00
   room:
   authors:
     - name: Juho Vepsäläinen
@@ -193,7 +193,7 @@
 - title: THE BUMPY ROAD TO UNIVERSAL JAVASCRIPT
   type:
   level:
-  time: 2018-05-25 11:20
+  time: 2018-05-25 11:20:00
   room:
   authors:
     - name: Johannes Ewald
@@ -209,7 +209,7 @@
 - title: WRITING VIRTUAL AND AUGMENTED REALITY APPS WITH WEB TECHNOLOGY
   type:
   level:
-  time: 2018-05-25 12:00
+  time: 2018-05-25 12:00:00
   room:
   authors:
     - name: Michaela Lehr
@@ -225,7 +225,7 @@
 - title: INTERVIEW SESSION WITH LEA VEROU
   type:
   level:
-  time: 2018-05-25 12:40
+  time: 2018-05-25 12:40:00
   room:
   authors:
     - name: Bruce Lawson
@@ -240,7 +240,7 @@
 - title: BUILD YOUR OWN WEBPACK (LIVE CODING AN ULTRA-SIMPLIFIED EXAMPLE OF A MODERN MODULE BUNDLER IN JAVASCRIPT)
   type:
   level:
-  time: 2018-05-25 13:20
+  time: 2018-05-25 13:20:00
   room:
   authors:
     - name: Ronen Amiel
@@ -256,7 +256,7 @@
 - title: 'BRAVE NEW WORLD: MOVING ON TO ES201X'
   type:
   level:
-  time: 2018-05-25 14:00
+  time: 2018-05-25 14:00:00
   room:
   authors:
     - name: Benedikt Meurer
@@ -272,7 +272,7 @@
 - title: INTERVIEW SESSION WITH VITALY FRIEDMAN
   type:
   level:
-  time: 2018-05-25 14:40
+  time: 2018-05-25 14:40:00
   room:
   authors:
     - name: Bruce Lawson
@@ -287,7 +287,7 @@
 - title: WRITING BOTS FOR GITHUB
   type:
   level:
-  time: 2018-05-25 16:20
+  time: 2018-05-25 16:20:00
   room:
   authors:
     - name: Denys Dovhan
@@ -303,7 +303,7 @@
 - title: 'PARCEL — BUNDLER: NEW KID ON THE BLOCK (ZERO CONFIG COMPARISON WITH WEBPACK 4)'
   type:
   level:
-  time: 2018-05-25 16:30
+  time: 2018-05-25 16:30:00
   room:
   authors:
     - name: Abhishek Gupta
@@ -319,7 +319,7 @@
 - title: DEVTOOLS TIPS AND TRICKS
   type:
   level:
-  time: 2018-05-25 16:40
+  time: 2018-05-25 16:40:00
   room:
   authors:
     - name: Sergei Puzankov
@@ -334,7 +334,7 @@
 - title: YOU GOTTA LOVE RX
   type:
   level:
-  time: 2018-05-25 16:50
+  time: 2018-05-25 16:50:00
   room:
   authors:
     - name: Helen Zhukova
@@ -350,7 +350,7 @@
 - title: 'A COMMON DESIGN LANGUAGE: LET DESIGNERS & DEVELOPERS TALK TO EACH OTHER'
   type:
   level:
-  time: 2018-05-25 17:00
+  time: 2018-05-25 17:00:00
   room:
   authors:
     - name: Andrey Okonetchnikov
@@ -366,7 +366,7 @@
 - title: INTERVIEW SESSION WITH HUI JING
   type:
   level:
-  time: 2018-05-25 17:40
+  time: 2018-05-25 17:40:00
   room:
   authors:
     - name: Bruce Lawson
@@ -381,7 +381,7 @@
 - title: KEYNOTE. NEW ADVENTURES IN FRONT-END, SEASON 2
   type:
   level:
-  time: 2018-05-25 18:20
+  time: 2018-05-25 18:20:00
   room:
   authors:
     - name: Vitaly Friedman

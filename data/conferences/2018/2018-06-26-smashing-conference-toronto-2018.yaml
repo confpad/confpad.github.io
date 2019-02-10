@@ -1,7 +1,7 @@
 - title: The First Minutes of Design
   type: regular
   level:
-  time: 2018-06-26 09:50
+  time: 2018-06-26 09:50:00
   room:
   authors:
     - name: Dan Mall
@@ -16,7 +16,7 @@
 - title: CSS (Variable) Secrets
   type: regular
   level:
-  time: 2018-06-26 10:40
+  time: 2018-06-26 10:40:00
   room:
   authors:
     - name: Lea Verou
@@ -32,7 +32,7 @@
 - title: Building an SVG Animation from Start to Finish
   type: regular
   level:
-  time: 2018-06-26 12:00
+  time: 2018-06-26 12:00:00
   room:
   authors:
     - name: Sarah Drasner
@@ -48,7 +48,7 @@
 - title: Performance Audit (Live)
   type: regular
   level:
-  time: 2018-06-26 12:50
+  time: 2018-06-26 12:50:00
   room:
   authors:
     - name: Tim Kadlec
@@ -64,7 +64,7 @@
 - title: Applying Psychology And 13 Years Of UX To Get The Details Right And Leapfrog The Competition
   type: regular
   level:
-  time: 2018-06-26 15:10
+  time: 2018-06-26 15:10:00
   room:
   authors:
     - name: Joe Leech
@@ -80,7 +80,7 @@
 - title: on You can sketch. (You might just not know it yet.)
   type: regular
   level:
-  time: 2018-06-26 16:00
+  time: 2018-06-26 16:00:00
   room:
   authors:
     - name: Eva-Lotta Lamm
@@ -96,7 +96,7 @@
 - title: Designing Across Cultures
   type: regular
   level:
-  time: 2018-06-26 17:20
+  time: 2018-06-26 17:20:00
   room:
   authors:
     - name: Yiying Lu
@@ -112,7 +112,7 @@
 - title: Things That Don't Have A Thing To Do With Graphic Design
   type: regular
   level:
-  time: 2018-06-26 18:10
+  time: 2018-06-26 18:10:00
   room:
   authors:
     - name: Aaron Draplin
@@ -127,7 +127,7 @@
 - title: Third-Party Performance Auditing
   type: regular
   level:
-  time: 2018-06-27 09:40
+  time: 2018-06-27 09:40:00
   room:
   authors:
     - name: Harry Roberts
@@ -144,7 +144,7 @@
 - title: From Icon Fonts To SVG; Workflow, Tools, Techniques And Everything In Between
   type: regular
   level:
-  time: 2018-06-27 10:30
+  time: 2018-06-27 10:30:00
   room:
   authors:
     - name: Sara Soueidan
@@ -159,7 +159,7 @@
 - title: Accessibility Audit (Live)
   type: regular
   level:
-  time: 2018-06-27 11:50
+  time: 2018-06-27 11:50:00
   room:
   authors:
     - name: Marcy Sutton
@@ -175,7 +175,7 @@
 - title: Beyond Fonts, Elevating Lettering to Art
   type: regular
   level:
-  time: 2018-06-27 12:40
+  time: 2018-06-27 12:40:00
   room:
   authors:
     - name: Gemma O’Brien
@@ -190,7 +190,7 @@
 - title: Creating An Effective & Beautiful Data Visualization From Scratch
   type: regular
   level:
-  time: 2018-06-27 15:00
+  time: 2018-06-27 15:00:00
   room:
   authors:
     - name: Nadieh Bremer
@@ -206,7 +206,7 @@
 - title: Pattern Library First, An Approach For Managing CSS
   type: regular
   level:
-  time: 2018-06-27 15:50
+  time: 2018-06-27 15:50:00
   room:
   authors:
     - name: Rachel Andrew
@@ -222,7 +222,7 @@
 - title: JavaScript Graphics and Animation (live)
   type: regular
   level:
-  time: 2018-06-27 17:10
+  time: 2018-06-27 17:10:00
   room:
   authors:
     - name: Seb Lee-Delisle

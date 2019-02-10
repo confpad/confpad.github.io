@@ -1,7 +1,7 @@
 - title: When Fast is Faster Than Fastest
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Daniel Clifford
@@ -16,7 +16,7 @@
 - title: Your Algorithm isn't neutral...
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Ivana McConnell
@@ -31,7 +31,7 @@
 - title: Server-Side Swift from Scratch
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Brandon Williams
@@ -46,7 +46,7 @@
 - title: 'When Old meets New: Codebases'
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Ursula Sarracini
@@ -61,7 +61,7 @@
 - title: 'Let''s save the internet: How to make browsers…'
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Ola Gasidlo
@@ -76,7 +76,7 @@
 - title: 'Bringing GraphQL to the Enterprise: When IBM met Apollo'
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Ryan Mackey
@@ -91,7 +91,7 @@
 - title: Build bridges, not walls – Design for users across cultures
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Jenny Shen
@@ -106,7 +106,7 @@
 - title: PHP in 2018
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Rasmus Lerdorf
@@ -122,7 +122,7 @@
 - title: Designing Great Progressive Web Apps
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Nicole Saidy
@@ -137,7 +137,7 @@
 - title: Thinking PRPL
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Houssein Djirdeh
@@ -152,7 +152,7 @@
 - title: Fast. Simple. Accessible.
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Estelle Weyl
@@ -167,7 +167,7 @@
 - title: 'Live and let die: Untangling the web of objects'
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Michael Lippautz
@@ -182,7 +182,7 @@
 - title: The strategy guide to CSS Custom Properties
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Mike Riethmuller
@@ -197,7 +197,7 @@
 - title: 'Psychological safety: How to become a team that learns'
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Georg Sorst
@@ -212,7 +212,7 @@
 - title: Remote device sign-in – Authenticating without a keyboard
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Tiffany Conroy
@@ -227,7 +227,7 @@
 - title: Mathematics of Animation
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Varun Vachhar
@@ -242,7 +242,7 @@
 - title: Styled Components
   type: regular
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
     - name: Max Stoiber
@@ -257,7 +257,7 @@
 - title: Lightning talks
   type: lightning
   level:
-  time:
+  time: 2018-03-03
   room:
   authors:
   slides:

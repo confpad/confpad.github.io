@@ -16,7 +16,7 @@
 - title: Make linting great again!
   type: regular
   level:
-  time: 2018-04-25 16:45
+  time: 2018-04-25 16:45:00
   room:
   authors:
     - name: Andrey Ockonetchnikov
@@ -32,7 +32,7 @@
 - title: Declarative state and side effects
   type: regular
   level:
-  time: 2018-04-25 10:00
+  time: 2018-04-25 10:00:00
   room:
   authors:
     - name: Christian Alfoni
@@ -48,7 +48,7 @@
 - title: Reactive State Machines and Statecharts
   type: regular
   level:
-  time: 2018-04-26 12:30
+  time: 2018-04-26 12:30:00
   room:
   authors:
     - name: David Khourshid
@@ -64,7 +64,7 @@
 - title: There's always a better way to handle localization
   type: regular
   level:
-  time: 2018-04-25 11:20
+  time: 2018-04-25 11:20:00
   room:
   authors:
     - name: Eemeli Aro
@@ -80,7 +80,7 @@
 - title: Why I YAML
   type: regular
   level:
-  time: 2018-04-25 17:15
+  time: 2018-04-25 17:15:00
   room:
   authors:
     - name: Eemeli Aro
@@ -95,7 +95,7 @@
 - title: React Native Ignite
   type: regular
   level:
-  time: 2018-04-26 15:45
+  time: 2018-04-26 15:45:00
   room:
   authors:
     - name: Gant Laborde
@@ -111,7 +111,7 @@
 - title: The New Best Practices
   type: regular
   level:
-  time: 2018-04-25 09:15
+  time: 2018-04-25 09:15:00
   room:
   authors:
     - name: Jani Eväkallio
@@ -127,7 +127,7 @@
 - title: Static Websites - The Final Frontier
   type: regular
   level:
-  time: 2018-04-26 09:45
+  time: 2018-04-26 09:45:00
   room:
   authors:
     - name: Juho Vepsäläinen
@@ -144,7 +144,7 @@
 - title: Styled Components, SSR, and Theming
   type: regular
   level:
-  time: 2018-04-25 12:30
+  time: 2018-04-25 12:30:00
   room:
   authors:
     - name: Kasia Jastrzębska
@@ -160,7 +160,7 @@
 - title: How React changed everything
   type: regular
   level:
-  time: 2018-04-26 09:15
+  time: 2018-04-26 09:15:00
   room:
   authors:
     - name: Ken Wheeler
@@ -176,7 +176,7 @@
 - title: World Class experience with React Native
   type: regular
   level:
-  time: 2018-04-26 14:45
+  time: 2018-04-26 14:45:00
   room:
   authors:
     - name: Michał Chudziak
@@ -207,7 +207,7 @@
 - title: Get started with Reason
   type: regular
   level:
-  time: 2018-04-26 10:15
+  time: 2018-04-26 10:15:00
   room:
   authors:
     - name: Nik Graf
@@ -223,7 +223,7 @@
 - title: Making Unreasonable States Impossible
   type: regular
   level:
-  time: 2018-04-26 11:00
+  time: 2018-04-26 11:00:00
   room:
   authors:
     - name: Patrick Stapfer
@@ -239,7 +239,7 @@
 - title: Get Rich Quick With React Context
   type: regular
   level:
-  time: 2018-04-25 11:10
+  time: 2018-04-25 11:10:00
   room:
   authors:
     - name: Patrick Hund
@@ -255,7 +255,7 @@
 - title: Detox A year in. Building it, Testing with it
   type: regular
   level:
-  time: 2018-04-25 15:45
+  time: 2018-04-25 15:45:00
   room:
   authors:
     - name: Rotem Mizrachi-Meidan
@@ -271,7 +271,7 @@
 - title: State Management in React Apps with Apollo Client
   type: regular
   level:
-  time: 2018-04-25 14:45
+  time: 2018-04-25 14:45:00
   room:
   authors:
     - name: Sara Vieira
@@ -287,7 +287,7 @@
 - title: ReactVR
   type: regular
   level:
-  time: 2018-04-26 13:30
+  time: 2018-04-26 13:30:00
   room:
   authors:
     - name: Shay Keinan
@@ -303,7 +303,7 @@
 - title: Universal React Apps Using Next.js
   type: regular
   level:
-  time: 2018-04-25 13:30
+  time: 2018-04-25 13:30:00
   room:
   authors:
     - name: Sia Karamalegos
@@ -319,7 +319,7 @@
 - title: Understanding the differences is accepting
   type: regular
   level:
-  time: 2018-04-25 17:00
+  time: 2018-04-25 17:00:00
   room:
   authors:
     - name: Sven Sauleau
@@ -335,7 +335,7 @@
 - title: React Finland App - Lessons learned
   type: regular
   level:
-  time: 2018-04-26 15:15
+  time: 2018-04-26 15:15:00
   room:
   authors:
     - name: Toni Ristola
@@ -351,7 +351,7 @@
 - title: How to use React, webpack and other buzzwords if there is no need
   type: regular
   level:
-  time: 2018-04-26 16:45
+  time: 2018-04-26 16:45:00
   room:
   authors:
     - name: Varya Stepanova

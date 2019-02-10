@@ -1,7 +1,7 @@
 - title: Til Launch Do Us Part
   type: regular
   level:
-  time: 2018-10-23 09:50
+  time: 2018-10-23 09:50:00
   room:
   authors:
     - name: Dan Mall
@@ -17,7 +17,7 @@
 - title: Building Inclusive Experiences with CSS and SVG
   type: regular
   level:
-  time: 2018-10-23 10:40
+  time: 2018-10-23 10:40:00
   room:
   authors:
     - name: Sara Soueidan
@@ -33,7 +33,7 @@
 - title: The Long Tail of Performance
   type: regular
   level:
-  time: 2018-10-23 12:00
+  time: 2018-10-23 12:00:00
   room:
   authors:
     - name: Tim Kadlec
@@ -49,7 +49,7 @@
 - title: New Adventures in Front-End
   type: regular
   level:
-  time: 2018-10-23 12:50
+  time: 2018-10-23 12:50:00
   room:
   authors:
     - name: Vitaly Friedman
@@ -65,7 +65,7 @@
 - title: Designing Progressive Web Apps
   type: regular
   level:
-  time: 2018-10-23 15:10
+  time: 2018-10-23 15:10:00
   room:
   authors:
     - name: Jason Grigsby
@@ -81,7 +81,7 @@
 - title: The Shape of Thoughts
   type: regular
   level:
-  time: 2018-10-23 16:00
+  time: 2018-10-23 16:00:00
   room:
   authors:
     - name: Chiara Aliotta
@@ -97,7 +97,7 @@
 - title: Why We Brand, Why We Buy
   type: regular
   level:
-  time: 2018-10-23 17:20
+  time: 2018-10-23 17:20:00
   room:
   authors:
     - name: Debbie Millman
@@ -112,7 +112,7 @@
 - title: And so the Mystery Begins…
   type: regular
   level:
-  time: 2018-10-24 09:40
+  time: 2018-10-24 09:40:00
   room:
   authors:
     - name: John Maeda
@@ -127,7 +127,7 @@
 - title: Serverless Functions and Vue.js
   type: regular
   level:
-  time: 2018-10-24 10:30
+  time: 2018-10-24 10:30:00
   room:
   authors:
     - name: Sarah Drasner
@@ -143,7 +143,7 @@
 - title: Designing for Augmented Reality
   type: regular
   level:
-  time: 2018-10-24 11:50
+  time: 2018-10-24 11:50:00
   room:
   authors:
     - name: Michael Flarup
@@ -159,7 +159,7 @@
 - title: Bet you Didn't Think Your Browser Could do That
   type: regular
   level:
-  time: 2018-10-24 12:40
+  time: 2018-10-24 12:40:00
   room:
   authors:
     - name: Monica Dinculescu
@@ -175,7 +175,7 @@
 - title: Encouraging Clicks - How to Encourage Action Without Alienating People
   type: regular
   level:
-  time: 2018-10-24 15:00
+  time: 2018-10-24 15:00:00
   room:
   authors:
     - name: Paul Boag
@@ -191,7 +191,7 @@
 - title: Design in the Era of the Algorithm
   type: regular
   level:
-  time: 2018-10-24 15:50
+  time: 2018-10-24 15:50:00
   room:
   authors:
     - name: Josh Clark

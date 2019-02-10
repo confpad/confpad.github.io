@@ -1,7 +1,7 @@
 - title: CSS Blend Modes, Because...
   type: regular
   level:
-  time: 2018-01-25 09:30
+  time: 2018-01-25 09:30:00
   room:
   authors:
     - name: Una Kravets
@@ -17,7 +17,7 @@
 - title: Performing Dynamic Analysis of JS Apps
   type: regular
   level:
-  time: 2018-01-25 10:40
+  time: 2018-01-25 10:40:00
   room:
   authors:
     - name: Inian Parameshwaran
@@ -33,7 +33,7 @@
 - title: Write Perfect Code with Standard and ESLint
   type: regular
   level:
-  time: 2018-01-25 11:10
+  time: 2018-01-25 11:10:00
   room:
   authors:
     - name: Feross Aboukhadijeh
@@ -49,7 +49,7 @@
 - title: 'Be a No-Mouse Ninja: How People with Visual Impairment use Websites'
   type: regular
   level:
-  time: 2018-01-25 11:30
+  time: 2018-01-25 11:30:00
   room:
   authors:
     - name: Giang Nguyen
@@ -69,7 +69,7 @@
 - title: 'data sketch|es: a year of exotic data visualizations'
   type: regular
   level:
-  time: 2018-01-25 13:00
+  time: 2018-01-25 13:00:00
   room:
   authors:
     - name: Shirley Wu
@@ -89,7 +89,7 @@
 - title: 'Micro Frontend: a microservice architecture from your frontend web apps'
   type: regular
   level:
-  time: 2018-01-25 13:30
+  time: 2018-01-25 13:30:00
   room:
   authors:
     - name: Wilson Mendes
@@ -105,7 +105,7 @@
 - title: Serverless Apps with Node.JS in OpenWhisk and Adobe I/O Runtime
   type: regular
   level:
-  time: 2018-01-25 14:00
+  time: 2018-01-25 14:00:00
   room:
   authors:
     - name: Shazron Abdullah
@@ -121,7 +121,7 @@
 - title: Honey, I Shrunk the Scripts! — the secret life of JS on microcontrollers
   type: regular
   level:
-  time: 2018-01-25 14:15
+  time: 2018-01-25 14:15:00
   room:
   authors:
     - name: István Szmozsánszky "Flaki"
@@ -137,7 +137,7 @@
 - title: Evolving DBS Frontend
   type: regular
   level:
-  time: 2018-01-25 15:30
+  time: 2018-01-25 15:30:00
   room:
   authors:
     - name: Tony Sebastian
@@ -153,7 +153,7 @@
 - title: 'When East meets West: web typography and how it can inspire modern layouts'
   type: regular
   level:
-  time: 2018-01-25 15:45
+  time: 2018-01-25 15:45:00
   room:
   authors:
     - name: Chen Hui Jing
@@ -169,7 +169,7 @@
 - title: My Node.js process is on fire
   type: regular
   level:
-  time: 2018-01-25 16:15
+  time: 2018-01-25 16:15:00
   room:
   authors:
     - name: Matteo Collina
@@ -185,7 +185,7 @@
 - title: Enabling New Web Experiences
   type: regular
   level:
-  time: 2018-01-25 16:30
+  time: 2018-01-25 16:30:00
   room:
   authors:
     - name: David Bryant
@@ -201,7 +201,7 @@
 - title: WebVR with A-Frame - Getting started
   type: workshop
   level:
-  time: 2018-01-25 09:00
+  time: 2018-01-25 09:00:00
   room:
   authors:
     - name: Martin Splitt
@@ -217,7 +217,7 @@
 - title: Enliven UX with React/Redux
   type: regular
   level:
-  time: 2018-01-25 09:00
+  time: 2018-01-25 09:00:00
   room:
   authors:
     - name: Gurudath Reddy
@@ -233,7 +233,7 @@
 - title: CSS Grid is the new black
   type: workshop
   level:
-  time: 2018-01-25 09:00
+  time: 2018-01-25 09:00:00
   room:
   authors:
     - name: Chen Hui Jing
@@ -249,7 +249,7 @@
 - title: Ethereum and Javascript - what's the big deal?
   type: regular
   level:
-  time: 2018-01-25 13:30
+  time: 2018-01-25 13:30:00
   room:
   authors:
     - name: Dave Appleton
@@ -269,7 +269,7 @@
 - title: 'Coding Blindly: Intro to Web A11Y'
   type: regular
   level:
-  time: 2018-01-25 13:30
+  time: 2018-01-25 13:30:00
   room:
   authors:
     - name: Giang Nguyen
@@ -285,7 +285,7 @@
 - title: Creative Data Visualizations with SVG and D3.js
   type: workshop
   level:
-  time: 2018-01-25 13:30
+  time: 2018-01-25 13:30:00
   room:
   authors:
     - name: Shirley Wu
@@ -305,7 +305,7 @@
 - title: PUSHing web app performance with HTTP/2
   type: workshop
   level:
-  time: 2018-01-25 13:30
+  time: 2018-01-25 13:30:00
   room:
   authors:
     - name: Inian Parameshwaran
@@ -325,7 +325,7 @@
 - title: Virtual Reality in your browser
   type: regular
   level:
-  time: 2018-01-25 09:00
+  time: 2018-01-25 09:00:00
   room:
   authors:
     - name: Martin Splitt
@@ -341,7 +341,7 @@
 - title: In the loop
   type: regular
   level:
-  time: 2018-01-25 09:30
+  time: 2018-01-25 09:30:00
   room:
   authors:
     - name: Jake Archibald
@@ -357,7 +357,7 @@
 - title: How To Do Augmented Reality On The Web — The AR.js Open-Source Project
   type: regular
   level:
-  time: 2018-01-25 11:10
+  time: 2018-01-25 11:10:00
   room:
   authors:
     - name: Jerome Etienne
@@ -373,7 +373,7 @@
 - title: Jolly JS Journeys
   type: regular
   level:
-  time: 2018-01-25 13:20
+  time: 2018-01-25 13:20:00
   room:
   authors:
     - name: Tim Holman
@@ -389,7 +389,7 @@
 - title: Smells in React apps
   type: regular
   level:
-  time: 2018-01-25 13:45
+  time: 2018-01-25 13:45:00
   room:
   authors:
     - name: Thai Pangsakulyanont
@@ -405,7 +405,7 @@
 - title: Accessibility and You
   type: regular
   level:
-  time: 2018-01-25 14:15
+  time: 2018-01-25 14:15:00
   room:
   authors:
     - name: Sareh Heidari
@@ -421,7 +421,7 @@
 - title: Automating User Journey Testing Is A Piece Of Cake
   type: lightning
   level:
-  time: 2018-01-25 14:45
+  time: 2018-01-25 14:45:00
   room:
   authors:
     - name: Shi Ling Tai
@@ -436,7 +436,7 @@
 - title: Boarding The Choo Train
   type: lightning
   level:
-  time: 2018-01-25 14:45
+  time: 2018-01-25 14:45:00
   room:
   authors:
     - name: Yoshua Wuyts
@@ -451,7 +451,7 @@
 - title: For The Love Of Web Assembly
   type: lightning
   level:
-  time: 2018-01-25 14:45
+  time: 2018-01-25 14:45:00
   room:
   authors:
     - name: Phoomparin Mano
@@ -466,7 +466,7 @@
 - title: CSS Pranks
   type: lightning
   level:
-  time: 2018-01-25 14:45
+  time: 2018-01-25 14:45:00
   room:
   authors:
     - name: Tim Holman
@@ -481,7 +481,7 @@
 - title: JavaScript Pranks
   type: lightning
   level:
-  time: 2018-01-25 14:45
+  time: 2018-01-25 14:45:00
   room:
   authors:
     - name: Feross Aboukhadijeh
@@ -496,7 +496,7 @@
 - title: Using SVG Circles For Charting
   type: lightning
   level:
-  time: 2018-01-25 14:45
+  time: 2018-01-25 14:45:00
   room:
   authors:
     - name: Chris Lienert
@@ -511,7 +511,7 @@
 - title: What writing about frontend dev taught me about communicating with the world
   type: regular
   level:
-  time: 2018-01-25 15:45
+  time: 2018-01-25 15:45:00
   room:
   authors:
     - name: Zell Liew
@@ -527,7 +527,7 @@
 - title: Storytelling with Performance Observers
   type: regular
   level:
-  time: 2018-01-25 16:00
+  time: 2018-01-25 16:00:00
   room:
   authors:
     - name: Irina Shestak
@@ -543,7 +543,7 @@
 - title: If you're going out of San Francisco, be sure to wear Web Standards in your hair
   type: regular
   level:
-  time: 2018-01-25 16:30
+  time: 2018-01-25 16:30:00
   room:
   authors:
     - name: Bruce Lawson

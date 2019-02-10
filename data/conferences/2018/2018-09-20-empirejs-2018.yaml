@@ -1,7 +1,7 @@
 - title: THE UNTOLD BENEFITS OF ETHICAL DESIGN
   type: regular
   level:
-  time: 2018-09-20 09:30
+  time: 2018-09-20 09:30:00
   room:
   authors:
     - name: Holger Bartel
@@ -17,7 +17,7 @@
 - title: JavaScript Diversity
   type: regular
   level:
-  time: 2018-09-20 10:00
+  time: 2018-09-20 10:00:00
   room:
   authors:
     - name: Jessica Jordan
@@ -33,7 +33,7 @@
 - title: 12 Factor Frontend Apps through Dockerization
   type: regular
   level:
-  time: 2018-09-20 10:30
+  time: 2018-09-20 10:30:00
   room:
   authors:
     - name: Ryan Waskiewicz
@@ -49,7 +49,7 @@
 - title: 404 Fire Alarm Not Found
   type: regular
   level:
-  time: 2018-09-20 11:15
+  time: 2018-09-20 11:15:00
   room:
   authors:
     - name: Joe Kent
@@ -65,7 +65,7 @@
 - title: What Tamagotchis Can Teach You About ES6 Generators
   type: regular
   level:
-  time: 2018-09-20 11:45
+  time: 2018-09-20 11:45:00
   room:
   authors:
     - name: Jenn Creighton
@@ -81,7 +81,7 @@
 - title: TensorFlow.js + Node
   type: regular
   level:
-  time: 2018-09-20 12:15
+  time: 2018-09-20 12:15:00
   room:
   authors:
     - name: Nick Kreeger
@@ -101,7 +101,7 @@
 - title: Internationalisation is a Piece of Cake
   type: regular
   level:
-  time: 2018-09-20 14:15
+  time: 2018-09-20 14:15:00
   room:
   authors:
     - name: Eli Schütze Ramírez
@@ -117,7 +117,7 @@
 - title: Be the Ally You Think You Are
   type: regular
   level:
-  time: 2018-09-20 14:45
+  time: 2018-09-20 14:45:00
   room:
   authors:
     - name: Sarah Groff Hennigh-Palermo
@@ -133,7 +133,7 @@
 - title: How Does JavaScript Math?
   type: regular
   level:
-  time: 2018-09-20 15:15
+  time: 2018-09-20 15:15:00
   room:
   authors:
     - name: Meara Charnetzki
@@ -149,7 +149,7 @@
 - title: Why You Had a Bad Time With Microservices
   type: regular
   level:
-  time: 2018-09-20 16:00
+  time: 2018-09-20 16:00:00
   room:
   authors:
     - name: Ethan Garofolo
@@ -165,7 +165,7 @@
 - title: Love Thy Keyboard
   type: regular
   level:
-  time: 2018-09-20 16:30
+  time: 2018-09-20 16:30:00
   room:
   authors:
     - name: Sarbbottam Bandyopadhyay
@@ -181,7 +181,7 @@
 - title: Do You Read Me? — Better Communication for Stronger Teams
   type: regular
   level:
-  time: 2018-09-20 17:00
+  time: 2018-09-20 17:00:00
   room:
   authors:
     - name: Lena Reinhard
@@ -197,7 +197,7 @@
 - title: An Oral History of Modern Web Development
   type: regular
   level:
-  time: 2018-09-21 09:30
+  time: 2018-09-21 09:30:00
   room:
   authors:
     - name: Kelly Sutton
@@ -213,7 +213,7 @@
 - title: WordPress is JavaScript
   type: regular
   level:
-  time: 2018-09-21 10:00
+  time: 2018-09-21 10:00:00
   room:
   authors:
     - name: K. Adam White
@@ -229,7 +229,7 @@
 - title: Try, Raise, Exception
   type: regular
   level:
-  time: 2018-09-21 10:30
+  time: 2018-09-21 10:30:00
   room:
   authors:
     - name: Aaron Petcoff
@@ -245,7 +245,7 @@
 - title: WebAssembly for Performant Interactivity
   type: regular
   level:
-  time: 2018-09-21 11:15
+  time: 2018-09-21 11:15:00
   room:
   authors:
     - name: Mani Nilchiani
@@ -261,7 +261,7 @@
 - title: Slides About Slides
   type: regular
   level:
-  time: 2018-09-21 11:45
+  time: 2018-09-21 11:45:00
   room:
   authors:
     - name: Sam Richard
@@ -277,7 +277,7 @@
 - title: CRDT and other new ideas for client-server communication
   type: regular
   level:
-  time: 2018-09-21 12:15
+  time: 2018-09-21 12:15:00
   room:
   authors:
     - name: Andrey Sitnik
@@ -293,7 +293,7 @@
 - title: The Wide World of Serverless
   type: regular
   level:
-  time: 2018-09-21 14:15
+  time: 2018-09-21 14:15:00
   room:
   authors:
     - name: Kassandra Perch
@@ -309,7 +309,7 @@
 - title: The Pharos Of PWA, Deconstructing a Lighthouse Audit
   type: regular
   level:
-  time: 2018-09-21 14:45
+  time: 2018-09-21 14:45:00
   room:
   authors:
     - name: Nitya Narasimhan
@@ -325,7 +325,7 @@
 - title: Diasporas, Data, D3.js, Oh My!
   type: regular
   level:
-  time: 2018-09-21 15:15
+  time: 2018-09-21 15:15:00
   room:
   authors:
     - name: Nishat Anjum
@@ -341,7 +341,7 @@
 - title: Living with Legacy JavaScript, Event Proxies, App Seams, and Chunking Rewrites
   type: regular
   level:
-  time: 2018-09-21 16:00
+  time: 2018-09-21 16:00:00
   room:
   authors:
     - name: Tracy Lum
@@ -357,7 +357,7 @@
 - title: Make Your Own ORM - A Guide to When and How
   type: regular
   level:
-  time: 2018-09-21 16:30
+  time: 2018-09-21 16:30:00
   room:
   authors:
     - name: Mari Miyachi
@@ -377,7 +377,7 @@
 - title: Recreating Retro Art with JS!
   type: regular
   level:
-  time: 2018-09-21 17:00
+  time: 2018-09-21 17:00:00
   room:
   authors:
     - name: Sher Minn Chong

@@ -1,7 +1,7 @@
 - title: A Tale of Two Asyncs
   type: regular
   level:
-  time: 2018-07-19 09:40
+  time: 2018-07-19 09:40:00
   room:
   authors:
     - name: Ashley Williams
@@ -18,7 +18,7 @@
 - title: 'Building a Platform: Webpack and the Future'
   type: regular
   level:
-  time: 2018-07-19 10:20
+  time: 2018-07-19 10:20:00
   room: ESTOCOLMO - 1st floor
   authors:
     - name: Sean Larkin
@@ -35,7 +35,7 @@
 - title: Rise above the Framework
   type: regular
   level:
-  time: 2018-07-19 11:20
+  time: 2018-07-19 11:20:00
   room:
   authors:
     - name: Mike Hartington
@@ -52,7 +52,7 @@
 - title: A Tale of Types, Classes, and Maps
   type: regular
   level:
-  time: 2018-07-19 12:00
+  time: 2018-07-19 12:00:00
   room:
   authors:
     - name: Benedikt Meurer
@@ -69,7 +69,7 @@
 - title: Keep Betting On JavaScript
   type: regular
   level:
-  time: 2018-07-19 14:40
+  time: 2018-07-19 14:40:00
   room:
   authors:
     - name: Kyle Simpson
@@ -86,7 +86,7 @@
 - title: Understanding client side routing with Vue.js
   type: regular
   level:
-  time: 2018-07-19 15:20
+  time: 2018-07-19 15:20:00
   room:
   authors:
     - name: Hassan Djirdeh
@@ -103,7 +103,7 @@
 - title: WebXR
   type: regular
   level:
-  time: 2018-07-19 16:20
+  time: 2018-07-19 16:20:00
   room:
   authors:
     - name: Michaela Lehr
@@ -120,7 +120,7 @@
 - title: Building Real-World Desktop Apps with Electron
   type: regular
   level:
-  time: 2018-07-19 17:00
+  time: 2018-07-19 17:00:00
   room:
   authors:
     - name: Anuj Nair
@@ -137,7 +137,7 @@
 - title: The Bumpy Road to Universal JavaScript
   type: regular
   level:
-  time: 2018-07-20 09:40
+  time: 2018-07-20 09:40:00
   room:
   authors:
     - name: Johannes Ewald
@@ -154,7 +154,7 @@
 - title: Semantic, Searchable Webapps with Angular
   type: regular
   level:
-  time: 2018-07-20 10:20
+  time: 2018-07-20 10:20:00
   room:
   authors:
     - name: MARTIN SPLITT
@@ -170,7 +170,7 @@
 - title: Break Up With Your Frontend Monolith
   type: regular
   level:
-  time: 2018-07-20 11:00
+  time: 2018-07-20 11:00:00
   room:
   authors:
     - name: Elisabeth Engel
@@ -187,7 +187,7 @@
 - title: Rethinking Enterprise Architectures with Node.js
   type: regular
   level:
-  time: 2018-07-20 12:00
+  time: 2018-07-20 12:00:00
   room:
   authors:
     - name: Kamil Mysliwiec
@@ -204,7 +204,7 @@
 - title: Machine Learning in the browser
   type: regular
   level:
-  time: 2018-07-20 12:40
+  time: 2018-07-20 12:40:00
   room:
   authors:
     - name: LIAN LI
@@ -221,7 +221,7 @@
 - title: The past, present, and future of the Web
   type: regular
   level:
-  time: 2018-07-20 14:40
+  time: 2018-07-20 14:40:00
   room:
   authors:
     - name: Steve Klabnik
@@ -238,7 +238,7 @@
 - title: Service Workers + WebAssembly
   type: regular
   level:
-  time: 2018-07-20 15:20
+  time: 2018-07-20 15:20:00
   room:
   authors:
     - name: Kenneth Christiansen
@@ -255,7 +255,7 @@
 - title: How does npm design
   type: regular
   level:
-  time: 2018-07-20 16:20
+  time: 2018-07-20 16:20:00
   room:
   authors:
     - name: Jerry Gabra
@@ -272,7 +272,7 @@
 - title: How to Create 'Vuetiful' Data-Driven User Interfaces
   type: regular
   level:
-  time: 2018-07-20 16:40
+  time: 2018-07-20 16:40:00
   room:
   authors:
     - name: Evan Schultz

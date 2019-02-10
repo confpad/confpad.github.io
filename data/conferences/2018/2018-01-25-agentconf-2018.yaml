@@ -1,7 +1,7 @@
 - title: I want you to contribute to open source
   type:
   level:
-  time: 2018-01-25 09:00
+  time: 2018-01-25 09:00:00
   room:
   authors:
     - name: Max Stoiber
@@ -16,7 +16,7 @@
 - title: Folding Space and Time
   type:
   level:
-  time: 2018-01-25 09:45
+  time: 2018-01-25 09:45:00
   room:
   authors:
     - name: Guillermo Rauch
@@ -35,7 +35,7 @@
 - title: Write Queries, Not Code
   type:
   level:
-  time: 2018-01-25 11:15
+  time: 2018-01-25 11:15:00
   room:
   authors:
     - name: Peggy Rayzis
@@ -50,7 +50,7 @@
 - title: The Complete Yarn Workflow
   type:
   level:
-  time: 2018-01-25 12:00
+  time: 2018-01-25 12:00:00
   room:
   authors:
     - name: Kaylie Alexa Kwon
@@ -65,7 +65,7 @@
 - title: Make backend devs jealous of your test suite
   type:
   level:
-  time: 2018-01-25 14:15
+  time: 2018-01-25 14:15:00
   room:
   authors:
     - name: Carly Litchfield
@@ -80,7 +80,7 @@
 - title: Make Linting Great Again
   type:
   level:
-  time: 2018-01-25 15:00
+  time: 2018-01-25 15:00:00
   room:
   authors:
     - name: Andrey Okonetchnikov
@@ -95,7 +95,7 @@
 - title: An agnostic components design system for React
   type:
   level:
-  time: 2018-01-25 16:15
+  time: 2018-01-25 16:15:00
   room:
   authors:
     - name: Javi Velasco
@@ -110,7 +110,7 @@
 - title: Your brain doesn't have a fix flag
   type:
   level:
-  time: 2018-01-26 09:00
+  time: 2018-01-26 09:00:00
   room:
   authors:
     - name: Sara Vieira
@@ -125,7 +125,7 @@
 - title: Extending Redux in the Server Side
   type:
   level:
-  time: 2018-01-26 09:45
+  time: 2018-01-26 09:45:00
   room:
   authors:
     - name: Nacho Martin
@@ -140,7 +140,7 @@
 - title: What’s inside of TurboFan?
   type:
   level:
-  time: 2018-01-26 11:00
+  time: 2018-01-26 11:00:00
   room:
   authors:
     - name: Benedikt Meurer
@@ -155,7 +155,7 @@
 - title: Go home (or skiing) early. The joy of transparent reactivity.
   type:
   level:
-  time: 2018-01-26 11:45
+  time: 2018-01-26 11:45:00
   room:
   authors:
     - name: Michel Weststrate
@@ -170,7 +170,7 @@
 - title: void* is the new var
   type:
   level:
-  time: 2018-01-26 14:00
+  time: 2018-01-26 14:00:00
   room:
   authors:
     - name: Emil Sjölander
@@ -185,7 +185,7 @@
 - title: React state management in a GraphQL era
   type:
   level:
-  time: 2018-01-26 14:45
+  time: 2018-01-26 14:45:00
   room:
   authors:
     - name: Kitze
@@ -200,7 +200,7 @@
 - title: Lightning Fast React Apps
   type:
   level:
-  time: 2018-01-26 16:00
+  time: 2018-01-26 16:00:00
   room:
   authors:
     - name: Sia Karamalegos
@@ -215,7 +215,7 @@
 - title: Bot Of The United States
   type:
   level:
-  time: 2018-01-26 16:45
+  time: 2018-01-26 16:45:00
   room:
   authors:
     - name: Asim Hussain

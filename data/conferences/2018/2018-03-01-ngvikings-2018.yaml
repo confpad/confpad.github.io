@@ -2,7 +2,7 @@
 - title: 'Keynote: Five years of Angular'
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Matias Niemelä
@@ -17,7 +17,7 @@
 - title: Build progressive web apps with Angular
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Simona Cotin
@@ -32,7 +32,7 @@
 - title: 6 APPS ONE CODE WITH Ionic
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Sani Yusuf
@@ -47,7 +47,7 @@
 - title: Angular + CMS = ❤️
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Filip Bech-Larsen
@@ -62,7 +62,7 @@
 - title: Scalable Angular Architecture
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Bartosz Pietrucha
@@ -77,7 +77,7 @@
 - title: Multiplayer game with Angular and Firebase
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Michael Haberman
@@ -92,7 +92,7 @@
 - title: ng install
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Stepan Suvorov
@@ -107,7 +107,7 @@
 - title: A Token Walks Into a SPA...
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Ado Kukic
@@ -122,7 +122,7 @@
 - title: Use React tools for better Angular apps
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Martin Hochel
@@ -137,7 +137,7 @@
 - title: 'Custom Schematics: An Angular Application by the push of a Button...'
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Manfred Steyer
@@ -152,7 +152,7 @@
 - title: Make Web Components Great Again with StencilJS
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Julien Renaux
@@ -167,7 +167,7 @@
 - title: Understanding the realtime web with websockets
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Srushtika Neelakantam
@@ -182,7 +182,7 @@
 - title: Angular, What's Coming Next
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Wassim Chegham
@@ -197,7 +197,7 @@
 - title: Angular Elements
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Pascal Precht
@@ -212,7 +212,7 @@
 - title: Deploy Angular and Node to the Cloud
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: John Papa
@@ -227,7 +227,7 @@
 - title: How to hack an Angular app?
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Asim Hussain
@@ -242,7 +242,7 @@
 - title: An Angular Front For Your API
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Tara Z. Manicsic
@@ -257,7 +257,7 @@
 - title: Be lazy, but with strategy
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Martin Sonnenholzer
@@ -272,7 +272,7 @@
 - title: Angular performance pitfalls and how to avoid them
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Kristiyan Kostadinov
@@ -287,7 +287,7 @@
 - title: Advanced DI
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Ward Bell
@@ -302,7 +302,7 @@
 - title: Fast, Cross-Platform Desktop Apps with Electron
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Felix Rieseberg
@@ -317,7 +317,7 @@
 - title: Hey Google, is there any presentation about ChatBots at ngVikings?
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Wassim Chegham
@@ -332,7 +332,7 @@
 - title: Q&A with all speakers
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name:
@@ -347,7 +347,7 @@
 - title: Getting started with WebVR
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Martin Splitt
@@ -362,7 +362,7 @@
 - title: Enhanching performance by leveraging the power of Observables
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Sander Elias
@@ -377,7 +377,7 @@
 - title: dummy to app
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: David Muellerchen
@@ -392,7 +392,7 @@
 - title: Web Maps - Putting the M in Angular web apps!
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Katerina Skroumpelou
@@ -407,7 +407,7 @@
 - title: Changing the world of travel with Angular and measuring...
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Oskari Okko Ojala
@@ -426,7 +426,7 @@
 - title: Let's plant our Angular Tree
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Juan Herrera
@@ -441,7 +441,7 @@
 - title: Designing Component API
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Vitalii Bobrov
@@ -456,7 +456,7 @@
 - title: Create & Publish Angular Libs like a PRO
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Juri Strumpflohner
@@ -471,7 +471,7 @@
 - title: Visualising Enterprise Data with Angular & d3
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Sean Landsman
@@ -486,7 +486,7 @@
 - title: Testing Angular apps
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Carl Vuorinen
@@ -501,7 +501,7 @@
 - title: Innovating is not about technology, but psychology
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Alyssa Nicoll
@@ -516,7 +516,7 @@
 - title: Progressive Web Apps with Angular and Firebase
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Erik Haddad
@@ -531,7 +531,7 @@
 - title: Offline Angular app in action
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Majid Hajian
@@ -546,7 +546,7 @@
 - title: Can't Touch This! What not to do to the DOM
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Max NgWizard
@@ -561,7 +561,7 @@
 - title: Rendering Performance from the Ground Up
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Martin Splitt
@@ -576,7 +576,7 @@
 - title: Real-Time stream processing with Reactive-Extensions
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Michael Hladky
@@ -591,7 +591,7 @@
 - title: Abstractions in Angular
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Akseli Virtanen
@@ -606,7 +606,7 @@
 - title: Reactive Brain Waves
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Uri Shaked
@@ -621,7 +621,7 @@
 - title: How WebAssembly is changing the Web and what it means for Angular
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: Boyan Mihaylov
@@ -636,7 +636,7 @@
 - title: Supercharging the Angular CLI with Nx
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name: James Henry
@@ -651,7 +651,7 @@
 - title: ngVikings 2018 - Highlights
   type: regular
   level:
-  time:
+  time: 2018-03-01
   room:
   authors:
     - name:

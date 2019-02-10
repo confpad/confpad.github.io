@@ -1,7 +1,7 @@
 - title: How Being A Graphic Designer Helped Me Through Stuff
   type: regular
   level:
-  time: 2018-04-17 09:50
+  time: 2018-04-17 09:50:00
   room:
   authors:
     - name: Aaron Draplin
@@ -16,7 +16,7 @@
 - title: Unlocking the Power of CSS Grid Layout
   type: regular
   level:
-  time: 2018-04-17 10:40
+  time: 2018-04-17 10:40:00
   room:
   authors:
     - name: Rachel Andrew
@@ -33,7 +33,7 @@
 - title: Redesigning Slack
   type: regular
   level:
-  time: 2018-04-17 12:00
+  time: 2018-04-17 12:00:00
   room:
   authors:
     - name: Mina Markham
@@ -48,7 +48,7 @@
 - title: Designing Powerful User Experiences With Psychology
   type: regular
   level:
-  time: 2018-04-17 12:50
+  time: 2018-04-17 12:50:00
   room:
   authors:
     - name: Joe Leech
@@ -65,7 +65,7 @@
 - title: Name That Script!
   type: regular
   level:
-  time: 2018-04-17 15:10
+  time: 2018-04-17 15:10:00
   room:
   authors:
     - name: Trent Walton
@@ -82,7 +82,7 @@
 - title: Fast By Default, Modern Loading Best Practices
   type: regular
   level:
-  time: 2018-04-17 16:00
+  time: 2018-04-17 16:00:00
   room:
   authors:
     - name: Addy Osmani
@@ -97,7 +97,7 @@
 - title: Cross Cultural Design in the Age of Globalization
   type: regular
   level:
-  time: 2018-04-17 17:20
+  time: 2018-04-17 17:20:00
   room:
   authors:
     - name: Yiying Lu
@@ -113,7 +113,7 @@
 - title: The Ugly Truth of Design Systems
   type: regular
   level:
-  time: 2018-04-18 10:05
+  time: 2018-04-18 10:05:00
   room:
   authors:
     - name: Mark Boulton
@@ -129,7 +129,7 @@
 - title: Beyond Media Queries
   type: regular
   level:
-  time: 2018-04-18 10:55
+  time: 2018-04-18 10:55:00
   room:
   authors:
     - name: Michael Riethmuller
@@ -146,7 +146,7 @@
 - title: Approaching Pixels And Projections
   type: regular
   level:
-  time: 2018-04-18 12:10
+  time: 2018-04-18 12:10:00
   room:
   authors:
     - name: Kate Dawkins
@@ -161,7 +161,7 @@
 - title: Our Everyday Relationships with Digital Interfaces
   type: regular
   level:
-  time: 2018-04-18 13:00
+  time: 2018-04-18 13:00:00
   room:
   authors:
     - name: Claudio Guglieri
@@ -176,7 +176,7 @@
 - title: Vertical Writing On The Web
   type: regular
   level:
-  time: 2018-04-18 15:20
+  time: 2018-04-18 15:20:00
   room:
   authors:
     - name: Huijing Chen
@@ -193,7 +193,7 @@
 - title: Design in the Era of the Algorithm
   type: regular
   level:
-  time: 2018-04-18 16:10
+  time: 2018-04-18 16:10:00
   room:
   authors:
     - name: Josh Clark

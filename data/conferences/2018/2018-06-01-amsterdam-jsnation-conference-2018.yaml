@@ -1,7 +1,7 @@
 - title: 'Keynote: The Power of the Paradigm'
   type:
   level:
-  time: 2018-06-01 09:30
+  time: 2018-06-01 09:30:00
   room: Priests Hall
   authors:
     - name: Douglas Crockford
@@ -16,7 +16,7 @@
 - title: Bringing Mobile Web back to Life
   type:
   level:
-  time: 2018-06-01 10:00
+  time: 2018-06-01 10:00:00
   room: Priests Hall
   authors:
     - name: Imad Elyafi
@@ -32,7 +32,7 @@
 - title: Vue JS Best Practices
   type:
   level:
-  time: 2018-06-01 10:30
+  time: 2018-06-01 10:30:00
   room: Priests Hall
   authors:
     - name: Fatih Acet
@@ -48,7 +48,7 @@
 - title: console.log(brain)
   type:
   level:
-  time: 2018-06-01 11:30
+  time: 2018-06-01 11:30:00
   room: Priests Hall
   authors:
     - name: Armagan Amcalar
@@ -64,7 +64,7 @@
 - title: TypeScript Ruined My Life (In a Good Way)
   type:
   level:
-  time: 2018-06-01 12:00
+  time: 2018-06-01 12:00:00
   room: Priests Hall
   authors:
     - name: Andy Mockler
@@ -80,7 +80,7 @@
 - title: How to sort your socks using Javascript
   type:
   level:
-  time: 2018-06-01 12:30
+  time: 2018-06-01 12:30:00
   room: Priests Hall
   authors:
     - name: Claudia Hernández
@@ -96,7 +96,7 @@
 - title: Look ma! No hands!
   type:
   level:
-  time: 2018-06-01 14:40
+  time: 2018-06-01 14:40:00
   room: Priests Hall
   authors:
     - name: Diego González
@@ -112,7 +112,7 @@
 - title: Callback heaven
   type:
   level:
-  time: 2018-06-01 15:10
+  time: 2018-06-01 15:10:00
   room: Priests Hall
   authors:
     - name: Andre Staltz
@@ -128,7 +128,7 @@
 - title: How to scale an SPA?
   type:
   level:
-  time: 2018-06-01 15:40
+  time: 2018-06-01 15:40:00
   room: Priests Hall
   authors:
     - name: Asim Hussain
@@ -144,7 +144,7 @@
 - title: Persistence Cycle - A Successful Structure for Isomorphic Apps
   type:
   level:
-  time: 2018-06-01 16:10
+  time: 2018-06-01 16:10:00
   room: Priests Hall
   authors:
     - name: Oliver Spindler
@@ -160,7 +160,7 @@
 - title: The dark ages of IoT
   type:
   level:
-  time: 2018-06-01 16:40
+  time: 2018-06-01 16:40:00
   room: Priests Hall
   authors:
     - name: Sebastian Golasch
@@ -176,7 +176,7 @@
 - title: Tales from the QA crypt
   type:
   level:
-  time: 2018-06-01 17:10
+  time: 2018-06-01 17:10:00
   room: Priests Hall
   authors:
     - name: Jennifer Voss
@@ -192,7 +192,7 @@
 - title: Fun with Bluetooth
   type:
   level:
-  time: 2018-06-01 17:40
+  time: 2018-06-01 17:40:00
   room: Priests Hall
   authors:
     - name: Niels Leenheer
@@ -208,7 +208,7 @@
 - title: Embrace Reactive Programming in React and Vue with RxJS
   type:
   level:
-  time: 2018-06-01 10:00
+  time: 2018-06-01 10:00:00
   room: Monks Hall
   authors:
     - name: Fahad Ibnay Heylaal
@@ -224,7 +224,7 @@
 - title: Webpack + WebAssembly the future
   type:
   level:
-  time: 2018-06-01 10:30
+  time: 2018-06-01 10:30:00
   room: Monks Hall
   authors:
     - name: Sendil Kumar
@@ -240,7 +240,7 @@
 - title: Accelerating Ethereum Development with Node.js and Docker
   type:
   level:
-  time: 2018-06-01 11:30
+  time: 2018-06-01 11:30:00
   room: Monks Hall
   authors:
     - name: Johannes Bertens
@@ -256,7 +256,7 @@
 - title: 'Dart: the return'
   type:
   level:
-  time: 2018-06-01 12:00
+  time: 2018-06-01 12:00:00
   room: Monks Hall
   authors:
     - name: Evgeny Kot
@@ -272,7 +272,7 @@
 - title: Legalize JavaScript for the Enterprise Now!
   type:
   level:
-  time: 2018-06-01 12:30
+  time: 2018-06-01 12:30:00
   room: Monks Hall
   authors:
     - name: Paulo Lopes
@@ -287,7 +287,7 @@
 - title: 'ECMAScript Modules: Past, Present, and Future'
   type:
   level:
-  time: 2018-06-01 14:40
+  time: 2018-06-01 14:40:00
   room: Monks Hall
   authors:
     - name: Georg Neis
@@ -303,7 +303,7 @@
 - title: 'Optimized Angular apps: smaller, faster, better'
   type:
   level:
-  time: 2018-06-01 15:10
+  time: 2018-06-01 15:10:00
   room: Monks Hall
   authors:
     - name: Maxim Salnikov
@@ -319,7 +319,7 @@
 - title: Building functional Front-ends with ClojureScript
   type:
   level:
-  time: 2018-06-01 15:40
+  time: 2018-06-01 15:40:00
   room: Monks Hall
   authors:
     - name: Isa Silveira
@@ -335,7 +335,7 @@
 - title: In the Ocean of Angular Web Applications
   type:
   level:
-  time: 2018-06-01 16:40
+  time: 2018-06-01 16:40:00
   room: Monks Hall
   authors:
     - name: Yaprak Ayazoglu
@@ -351,7 +351,7 @@
 - title: Mock to start
   type:
   level:
-  time: 2018-06-01 17:10
+  time: 2018-06-01 17:10:00
   room: Monks Hall
   authors:
     - name: Murat Çorlu
@@ -367,7 +367,7 @@
 - title: 'Optimizing assets for graphics heavy Web Applicatoins: tips and tricks from the game dev background'
   type:
   level:
-  time: 2018-06-01 17:40
+  time: 2018-06-01 17:40:00
   room: Monks Hall
   authors:
     - name: Varya Dubinina

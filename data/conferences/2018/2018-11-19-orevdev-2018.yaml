@@ -1,7 +1,7 @@
 - title: Hacking the World with Digital Biology
   type: regular
   level:
-  time: 2018-11-19 09:00
+  time: 2018-11-19 09:00:00
   room: Epigenetic Gardens
   authors:
     - name: Elsa Sotiriadis
@@ -17,7 +17,7 @@
 - title: Building Mixed Reality Apps
   type: regular
   level:
-  time: 2018-11-19 10:30
+  time: 2018-11-19 10:30:00
   room: Bionic Square
   authors:
     - name: Andras Velvart
@@ -32,7 +32,7 @@
 - title: '12-Factor, Cloud Native Enterprise Java Applications'
   type: regular
   level:
-  time: 2018-11-19 10:30
+  time: 2018-11-19 10:30:00
   room: CRISPR Corner
   authors:
     - name: Sebastian Daschner
@@ -48,7 +48,7 @@
 - title: Building Evolutionary Architectures
   type: regular
   level:
-  time: 2018-11-19 10:30
+  time: 2018-11-19 10:30:00
   room: Cryogenic Chamber
   authors:
     - name: Patrick Kua
@@ -64,7 +64,7 @@
 - title: What's New in CSS?
   type: regular
   level:
-  time: 2018-11-19 10:30
+  time: 2018-11-19 10:30:00
   room: Epigenetic Gardens
   authors:
     - name: Rachel Andrew
@@ -80,7 +80,7 @@
 - title: Building Performant Backends with Elixir
   type: regular
   level:
-  time: 2018-11-19 10:30
+  time: 2018-11-19 10:30:00
   room: Neosense Beach
   authors:
     - name: Ari Lerner
@@ -96,7 +96,7 @@
 - title: 'ASP.NET Core in Production: Lessons Learned'
   type: regular
   level:
-  time: 2018-11-19 10:30
+  time: 2018-11-19 10:30:00
   room: Nootropic Market
   authors:
     - name: Iris Classon
@@ -112,7 +112,7 @@
 - title: Stop Building Useless Software
   type: regular
   level:
-  time: 2018-11-19 10:30
+  time: 2018-11-19 10:30:00
   room: Senescence Forest
   authors:
     - name: Diane Zajac
@@ -128,7 +128,7 @@
 - title: GDPR Compliance for Your Datastore
   type: regular
   level:
-  time: 2018-11-19 11:30
+  time: 2018-11-19 11:30:00
   room: Bionic Square
   authors:
     - name: Philipp Krenn
@@ -143,7 +143,7 @@
 - title: Having Your Cake and Eating It Too — GraphQL in Reason
   type: regular
   level:
-  time: 2018-11-19 11:30
+  time: 2018-11-19 11:30:00
   room: CRISPR Corner
   authors:
     - name: Sean Grove
@@ -159,7 +159,7 @@
 - title: The New Paradigm For Leading Teams in the Digital Age
   type: regular
   level:
-  time: 2018-11-19 11:30
+  time: 2018-11-19 11:30:00
   room: Cryogenic Chamber
   authors:
     - name: Max Larcombe
@@ -179,7 +179,7 @@
 - title: Dissecting the stdlib
   type: regular
   level:
-  time: 2018-11-19 11:30
+  time: 2018-11-19 11:30:00
   room: Epigenetic Gardens
   authors:
     - name: Huyen Dao
@@ -195,7 +195,7 @@
 - title: Reality is Becoming Virtual
   type: regular
   level:
-  time: 2018-11-19 11:30
+  time: 2018-11-19 11:30:00
   room: Neosense Beach
   authors:
     - name: Roshan Khan
@@ -210,7 +210,7 @@
 - title: Functional Patterns for the Object Oriented
   type: regular
   level:
-  time: 2018-11-19 11:30
+  time: 2018-11-19 11:30:00
   room: Nootropic Market
   authors:
     - name: Øystein Kolsrud
@@ -226,7 +226,7 @@
 - title: Designing Distributed Systems with TLA+
   type: regular
   level:
-  time: 2018-11-19 11:30
+  time: 2018-11-19 11:30:00
   room: Senescence Forest
   authors:
     - name: Hillel Wayne
@@ -242,7 +242,7 @@
 - title: 'TDD on Android: Why and how?'
   type: regular
   level:
-  time: 2018-11-19 12:50
+  time: 2018-11-19 12:50:00
   room: Bionic Square
   authors:
     - name: Danny Preussler
@@ -257,7 +257,7 @@
 - title: Practice Safe Networking
   type: regular
   level:
-  time: 2018-11-19 12:50
+  time: 2018-11-19 12:50:00
   room: CRISPR Corner
   authors:
     - name: Zoë Rose
@@ -273,7 +273,7 @@
 - title: Crafting Faster in the Dark
   type: regular
   level:
-  time: 2018-11-19 12:50
+  time: 2018-11-19 12:50:00
   room: Cryogenic Chamber
   authors:
     - name: Richard Feldman
@@ -289,7 +289,7 @@
 - title: 'Behind the Scenes at Gapminder: A Story about Data and Visualizations'
   type: regular
   level:
-  time: 2018-11-19 12:50
+  time: 2018-11-19 12:50:00
   room: Epigenetic Gardens
   authors:
     - name: Jasper Heeffer
@@ -305,7 +305,7 @@
 - title: The Future of QA in the Age of AI
   type: regular
   level:
-  time: 2018-11-19 12:50
+  time: 2018-11-19 12:50:00
   room: Neosense Beach
   authors:
     - name: Nivia Henry
@@ -320,7 +320,7 @@
 - title: 'Blazor, a New .NET Single Page Application Framework'
   type: regular
   level:
-  time: 2018-11-19 12:50
+  time: 2018-11-19 12:50:00
   room: Nootropic Market
   authors:
     - name: Steve Sanderson
@@ -336,7 +336,7 @@
 - title: How to Be a High Performing Distributed Agile Team
   type: regular
   level:
-  time: 2018-11-19 12:50
+  time: 2018-11-19 12:50:00
   room: Senescence Forest
   authors:
     - name: Lisette Sutherland
@@ -352,7 +352,7 @@
 - title: Java with a Clojure Mindset
   type: regular
   level:
-  time: 2018-11-19 13:50
+  time: 2018-11-19 13:50:00
   room: Bionic Square
   authors:
     - name: Dan Lebrero
@@ -367,7 +367,7 @@
 - title: 'Functional Programming in the Cloud: Simpler Application Development with Datomic Cloud'
   type: regular
   level:
-  time: 2018-11-19 13:50
+  time: 2018-11-19 13:50:00
   room: CRISPR Corner
   authors:
     - name: David Nolen
@@ -383,7 +383,7 @@
 - title: Science based Design Decision Making for Virtual Reality
   type: regular
   level:
-  time: 2018-11-19 13:50
+  time: 2018-11-19 13:50:00
   room: Cryogenic Chamber
   authors:
     - name: Az Balabanian
@@ -399,7 +399,7 @@
 - title: 'Hackers Gonna Hack: Identifying and Fixing Vulnerabilities Proactively'
   type: regular
   level:
-  time: 2018-11-19 13:50
+  time: 2018-11-19 13:50:00
   room: Epigenetic Gardens
   authors:
     - name: Peter Yaworski
@@ -415,7 +415,7 @@
 - title: Building cross-platform mobile apps with Flutter.io
   type: regular
   level:
-  time: 2018-11-19 13:50
+  time: 2018-11-19 13:50:00
   room: Neosense Beach
   authors:
     - name: Ari Lerner
@@ -430,7 +430,7 @@
 - title: Client Library Design Stories
   type: regular
   level:
-  time: 2018-11-19 13:50
+  time: 2018-11-19 13:50:00
   room: Nootropic Market
   authors:
     - name: Jon Skeet
@@ -446,7 +446,7 @@
 - title: Lean vs Agile vs Design Thinking
   type: regular
   level:
-  time: 2018-11-19 13:50
+  time: 2018-11-19 13:50:00
   room: Senescence Forest
   authors:
     - name: Jeff Gothelf
@@ -462,7 +462,7 @@
 - title: Designing Intuitive Tools
   type: regular
   level:
-  time: 2018-11-19 15:10
+  time: 2018-11-19 15:10:00
   room: Bionic Square
   authors:
     - name: Tyler Wolf
@@ -477,7 +477,7 @@
 - title: Tuckman was Wrong — Dynamic Teaming
   type: regular
   level:
-  time: 2018-11-19 15:10
+  time: 2018-11-19 15:10:00
   room: CRISPR Corner
   authors:
     - name: Doc Norton
@@ -493,7 +493,7 @@
 - title: 10 Surprises for a JVM Engineer in Real Life Java Development
   type: regular
   level:
-  time: 2018-11-19 15:10
+  time: 2018-11-19 15:10:00
   room: Cryogenic Chamber
   authors:
     - name: Bengt Rutisson
@@ -509,7 +509,7 @@
 - title: Oops! OOP's not what I thought
   type: regular
   level:
-  time: 2018-11-19 15:10
+  time: 2018-11-19 15:10:00
   room: Epigenetic Gardens
   authors:
     - name: Anjana Vakil
@@ -525,7 +525,7 @@
 - title: Nailing down bugs in distributed systems
   type: regular
   level:
-  time: 2018-11-19 15:10
+  time: 2018-11-19 15:10:00
   room: Neosense Beach
   authors:
     - name: Kamil Szymański
@@ -540,7 +540,7 @@
 - title: 'C# 8 and Beyond'
   type: regular
   level:
-  time: 2018-11-19 15:10
+  time: 2018-11-19 15:10:00
   room: Nootropic Market
   authors:
     - name: Filip Ekberg
@@ -556,7 +556,7 @@
 - title: A New Model for Software Development
   type: regular
   level:
-  time: 2018-11-19 15:10
+  time: 2018-11-19 15:10:00
   room: Senescence Forest
   authors:
     - name: Jason Gorman
@@ -571,7 +571,7 @@
 - title: 'Future of VR Cinematography: Photogrammetry, Volumetric Videos, Mocap Animations'
   type: regular
   level:
-  time: 2018-11-19 16:10
+  time: 2018-11-19 16:10:00
   room: Bionic Square
   authors:
     - name: Az Balabanian
@@ -586,7 +586,7 @@
 - title: 'Istio on Kubernetes: Chaos, Canaries, Dark Launches'
   type: regular
   level:
-  time: 2018-11-19 16:10
+  time: 2018-11-19 16:10:00
   room: CRISPR Corner
   authors:
     - name: Burr Sutter
@@ -602,7 +602,7 @@
 - title: 'Compiler Errors in rustc: A UX Perspective'
   type: regular
   level:
-  time: 2018-11-19 16:10
+  time: 2018-11-19 16:10:00
   room: Cryogenic Chamber
   authors:
     - name: Steve Klabnik
@@ -618,7 +618,7 @@
 - title: Hyped About Hyperapp
   type: regular
   level:
-  time: 2018-11-19 16:10
+  time: 2018-11-19 16:10:00
   room: Epigenetic Gardens
   authors:
     - name: Gleb Bahmutov
@@ -634,7 +634,7 @@
 - title: Safe Interaction with Java through Eta's FFI
   type: regular
   level:
-  time: 2018-11-19 16:10
+  time: 2018-11-19 16:10:00
   room: Neosense Beach
   authors:
     - name: Rahul Muttineni
@@ -649,7 +649,7 @@
 - title: Mapping Well-Designed Domain Models with EF Core 2.1
   type: regular
   level:
-  time: 2018-11-19 16:10
+  time: 2018-11-19 16:10:00
   room: Nootropic Market
   authors:
     - name: Julie Lerman
@@ -665,7 +665,7 @@
 - title: Turn Up the Good
   type: regular
   level:
-  time: 2018-11-19 16:10
+  time: 2018-11-19 16:10:00
   room: Senescence Forest
   authors:
     - name: Woody Zuill
@@ -681,7 +681,7 @@
 - title: Diving into Functional Programming — Beyond the Basics
   type: regular
   level:
-  time: 2018-11-19 17:10
+  time: 2018-11-19 17:10:00
   room: Bionic Square
   authors:
     - name: Ashic Mahtab
@@ -696,7 +696,7 @@
 - title: Intro to Web Graphics with HTML5 Canvas
   type: regular
   level:
-  time: 2018-11-19 17:10
+  time: 2018-11-19 17:10:00
   room: CRISPR Corner
   authors:
     - name: Kai Chang
@@ -712,7 +712,7 @@
 - title: 'The Good, The Bad and The Ugly - An Event Sourcing Retrospective'
   type: regular
   level:
-  time: 2018-11-19 17:10
+  time: 2018-11-19 17:10:00
   room: Cryogenic Chamber
   authors:
     - name: Dennis Doomen
@@ -728,7 +728,7 @@
 - title: History of the Occult and Technology -Downloading Paganism
   type: regular
   level:
-  time: 2018-11-19 17:10
+  time: 2018-11-19 17:10:00
   room: Epigenetic Gardens
   authors:
     - name: Chris Dancy
@@ -744,7 +744,7 @@
 - title: Brain-Computer Interfaces — Science Fiction or Reality?
   type: regular
   level:
-  time: 2018-11-19 17:10
+  time: 2018-11-19 17:10:00
   room: Neosense Beach
   authors:
     - name: Piotr Wittchen
@@ -759,7 +759,7 @@
 - title: 'Writing Allocation Free Code in C#'
   type: regular
   level:
-  time: 2018-11-19 17:10
+  time: 2018-11-19 17:10:00
   room: Nootropic Market
   authors:
     - name: Matthew Ellis
@@ -775,7 +775,7 @@
 - title: Getting Them To Get It
   type: regular
   level:
-  time: 2018-11-19 17:10
+  time: 2018-11-19 17:10:00
   room: Senescence Forest
   authors:
     - name: Judy Rees
@@ -791,7 +791,7 @@
 - title: Hacking a Cat — Going Beyond Traditional Attack Vectors
   type: regular
   level:
-  time: 2018-11-19 18:20
+  time: 2018-11-19 18:20:00
   room: Epigenetic Gardens
   authors:
     - name: Niall Merrigan
@@ -807,7 +807,7 @@
 - title: Designing Compassionate Systems
   type: regular
   level:
-  time: 2018-11-20 09:00
+  time: 2018-11-20 09:00:00
   room: Epigenetic Gardens
   authors:
     - name: Chris Dancy
@@ -823,7 +823,7 @@
 - title: Multifaceted Visualization
   type: regular
   level:
-  time: 2018-11-20 10:30
+  time: 2018-11-20 10:30:00
   room: Bionic Square
   authors:
     - name: Kai Chang
@@ -838,7 +838,7 @@
 - title: 'Serverless or Serverfull with Kubernetes: Microservices & Functions'
   type: regular
   level:
-  time: 2018-11-20 10:30
+  time: 2018-11-20 10:30:00
   room: CRISPR Corner
   authors:
     - name: Burr Sutter
@@ -853,7 +853,7 @@
 - title: Next generation message driven systems with Akka
   type: regular
   level:
-  time: 2018-11-20 10:30
+  time: 2018-11-20 10:30:00
   room: Cryogenic Chamber
   authors:
     - name: Johan Andrén
@@ -869,7 +869,7 @@
 - title: The Psychology of Social Engineering
   type: regular
   level:
-  time: 2018-11-20 10:30
+  time: 2018-11-20 10:30:00
   room: Epigenetic Gardens
   authors:
     - name: Niall Merrigan
@@ -884,7 +884,7 @@
 - title: 'Deep Oracles: Multiplying the Value of Automated Tests'
   type: regular
   level:
-  time: 2018-11-20 10:30
+  time: 2018-11-20 10:30:00
   room: Neosense Beach
   authors:
     - name: Emanuil Slavov
@@ -899,7 +899,7 @@
 - title: Managing the Conversation Flow within a Bot
   type: regular
   level:
-  time: 2018-11-20 10:30
+  time: 2018-11-20 10:30:00
   room: Nootropic Market
   authors:
     - name: Rabeb Othmani
@@ -915,7 +915,7 @@
 - title: Managing Distributed Teams
   type: regular
   level:
-  time: 2018-11-20 10:30
+  time: 2018-11-20 10:30:00
   room: Senescence Forest
   authors:
     - name: Lisette Sutherland
@@ -931,7 +931,7 @@
 - title: Testing in DevOps for Engineers
   type: regular
   level:
-  time: 2018-11-20 11:30
+  time: 2018-11-20 11:30:00
   room: Bionic Square
   authors:
     - name: Katrina Clokie
@@ -946,7 +946,7 @@
 - title: 'Headers for Hackers: Wrangling HTTP Like a Pro'
   type: regular
   level:
-  time: 2018-11-20 11:30
+  time: 2018-11-20 11:30:00
   room: CRISPR Corner
   authors:
     - name: Andrew Betts
@@ -961,7 +961,7 @@
 - title: 'Beyond Conway''s Law: Meet the Social Side of Your Code'
   type: regular
   level:
-  time: 2018-11-20 11:30
+  time: 2018-11-20 11:30:00
   room: Cryogenic Chamber
   authors:
     - name: Adam Tornhill
@@ -976,7 +976,7 @@
 - title: Your 2019 CSS Layout Toolkit
   type: regular
   level:
-  time: 2018-11-20 11:30
+  time: 2018-11-20 11:30:00
   room: Epigenetic Gardens
   authors:
     - name: Rachel Andrew
@@ -991,7 +991,7 @@
 - title: In-depth path morphing w/ Shape Shifter
   type: regular
   level:
-  time: 2018-11-20 11:30
+  time: 2018-11-20 11:30:00
   room: Neosense Beach
   authors:
     - name: Alex Lockwood
@@ -1006,7 +1006,7 @@
 - title: Security in ASP.NET Core 2.1
   type: regular
   level:
-  time: 2018-11-20 11:30
+  time: 2018-11-20 11:30:00
   room: Nootropic Market
   authors:
     - name: Barry Dorrans
@@ -1022,7 +1022,7 @@
 - title: Overcoming the Difficulties of Remote Meetings
   type: regular
   level:
-  time: 2018-11-20 11:30
+  time: 2018-11-20 11:30:00
   room: Senescence Forest
   authors:
     - name: Judy Rees
@@ -1038,7 +1038,7 @@
 - title: Navigating to the Navigation Architecture Component
   type: regular
   level:
-  time: 2018-11-20 12:50
+  time: 2018-11-20 12:50:00
   room: Bionic Square
   authors:
     - name: Huyen Dao
@@ -1053,7 +1053,7 @@
 - title: 'TimescaleDB: Re-engineering PostgreSQL as a time-series database'
   type: regular
   level:
-  time: 2018-11-20 12:50
+  time: 2018-11-20 12:50:00
   room: CRISPR Corner
   authors:
     - name: Erik Nordström
@@ -1069,7 +1069,7 @@
 - title: Staging Systems are Overrated - Docker-Based System Testing
   type: regular
   level:
-  time: 2018-11-20 12:50
+  time: 2018-11-20 12:50:00
   room: Cryogenic Chamber
   authors:
     - name: Peter Neubauer
@@ -1085,7 +1085,7 @@
 - title: Well Tested Software
   type: regular
   level:
-  time: 2018-11-20 12:50
+  time: 2018-11-20 12:50:00
   room: Epigenetic Gardens
   authors:
     - name: Gleb Bahmutov
@@ -1100,7 +1100,7 @@
 - title: From Overnight to Always-On
   type: regular
   level:
-  time: 2018-11-20 12:50
+  time: 2018-11-20 12:50:00
   room: Neosense Beach
   authors:
     - name: Enno Runne
@@ -1115,7 +1115,7 @@
 - title: 'Sociotechnical Architecture: Aligning Teams and Software for Continuous Delivery'
   type: regular
   level:
-  time: 2018-11-20 12:50
+  time: 2018-11-20 12:50:00
   room: Nootropic Market
   authors:
     - name: Nick Tune
@@ -1131,7 +1131,7 @@
 - title: Escape Velocity - Better Metrics for Software Teams
   type: regular
   level:
-  time: 2018-11-20 12:50
+  time: 2018-11-20 12:50:00
   room: Senescence Forest
   authors:
     - name: Doc Norton
@@ -1147,7 +1147,7 @@
 - title: How We Support Informed Decisions at IKEA IT
   type: regular
   level:
-  time: 2018-11-20 13:50
+  time: 2018-11-20 13:50:00
   room: Bionic Square
   authors:
     - name: Christian Runnevik
@@ -1162,7 +1162,7 @@
 - title: 'Vue and Vuex: Structure your app with centralized state management'
   type: regular
   level:
-  time: 2018-11-20 13:50
+  time: 2018-11-20 13:50:00
   room: CRISPR Corner
   authors:
     - name: Christoffer Noring
@@ -1178,7 +1178,7 @@
 - title: Idiomatic Interop with Kotlin
   type: regular
   level:
-  time: 2018-11-20 13:50
+  time: 2018-11-20 13:50:00
   room: Cryogenic Chamber
   authors:
     - name: Kevin Most
@@ -1194,7 +1194,7 @@
 - title: Attacking "Modern" Web Technologies
   type: regular
   level:
-  time: 2018-11-20 13:50
+  time: 2018-11-20 13:50:00
   room: Epigenetic Gardens
   authors:
     - name: Frans Rosén
@@ -1209,7 +1209,7 @@
 - title: Escape from Flatland! How to design captivating 3D experiences
   type: regular
   level:
-  time: 2018-11-20 13:50
+  time: 2018-11-20 13:50:00
   room: Neosense Beach
   authors:
     - name: Andras Velvart
@@ -1224,7 +1224,7 @@
 - title: Working with Dates and Times (It's Possible!)
   type: regular
   level:
-  time: 2018-11-20 13:50
+  time: 2018-11-20 13:50:00
   room: Nootropic Market
   authors:
     - name: Jon Skeet
@@ -1240,7 +1240,7 @@
 - title: Development X Design - From Chaos to Cosmos
   type: regular
   level:
-  time: 2018-11-20 13:50
+  time: 2018-11-20 13:50:00
   room: Senescence Forest
   authors:
     - name: Juha Rouvinen
@@ -1256,7 +1256,7 @@
 - title: 'Understanding Blockchain : A Developers View of How Blockchain Works'
   type: regular
   level:
-  time: 2018-11-20 15:10
+  time: 2018-11-20 15:10:00
   room: Bionic Square
   authors:
     - name: Stephen Haunts
@@ -1271,7 +1271,7 @@
 - title: Sniffing Out the Strange — A Look at Anomaly Detection
   type: regular
   level:
-  time: 2018-11-20 15:10
+  time: 2018-11-20 15:10:00
   room: CRISPR Corner
   authors:
     - name: Ashic Mahtab
@@ -1287,7 +1287,7 @@
 - title: Design Tools and Design Handoffs — Closing the Gap Between Design and Development
   type: regular
   level:
-  time: 2018-11-20 15:10
+  time: 2018-11-20 15:10:00
   room: Cryogenic Chamber
   authors:
     - name: Taylor Ling
@@ -1303,7 +1303,7 @@
 - title: APIs on the Scale of Decades
   type: regular
   level:
-  time: 2018-11-20 15:10
+  time: 2018-11-20 15:10:00
   room: Epigenetic Gardens
   authors:
     - name: Gary Fleming
@@ -1318,7 +1318,7 @@
 - title: Machine Learning on mobile with MLKit
   type: regular
   level:
-  time: 2018-11-20 15:10
+  time: 2018-11-20 15:10:00
   room: Neosense Beach
   authors:
     - name: Erik Hellman
@@ -1333,7 +1333,7 @@
 - title: The Code Behind The Vulnerability
   type: regular
   level:
-  time: 2018-11-20 15:10
+  time: 2018-11-20 15:10:00
   room: Nootropic Market
   authors:
     - name: Barry Dorrans
@@ -1349,7 +1349,7 @@
 - title: Leading Lasting Learning
   type: regular
   level:
-  time: 2018-11-20 15:10
+  time: 2018-11-20 15:10:00
   room: Senescence Forest
   authors:
     - name: Karl Scotland
@@ -1365,7 +1365,7 @@
 - title: 'Discussion Panel: Security'
   type: regular
   level:
-  time: 2018-11-20 16:10
+  time: 2018-11-20 16:10:00
   room: Bionic Square
   authors:
     - name: Øredev Øredevsson
@@ -1380,7 +1380,7 @@
 - title: DevTools and Headless Chrome - The Automation Power-Couple
   type: regular
   level:
-  time: 2018-11-20 16:10
+  time: 2018-11-20 16:10:00
   room: CRISPR Corner
   authors:
     - name: Yonatan Mevorach
@@ -1396,7 +1396,7 @@
 - title: Communicating in Types
   type: regular
   level:
-  time: 2018-11-20 16:10
+  time: 2018-11-20 16:10:00
   room: Cryogenic Chamber
   authors:
     - name: Kris Jenkins
@@ -1412,7 +1412,7 @@
 - title: Finding your service boundaries - a practical guide
   type: regular
   level:
-  time: 2018-11-20 16:10
+  time: 2018-11-20 16:10:00
   room: Epigenetic Gardens
   authors:
     - name: Adam Ralph
@@ -1427,7 +1427,7 @@
 - title: Functional Reactive Programming on Android with Eta
   type: regular
   level:
-  time: 2018-11-20 16:10
+  time: 2018-11-20 16:10:00
   room: Neosense Beach
   authors:
     - name: Jyothsna Patnam
@@ -1442,7 +1442,7 @@
 - title: Serverless Data APIs with Azure Functions and Cosmos DB
   type: regular
   level:
-  time: 2018-11-20 16:10
+  time: 2018-11-20 16:10:00
   room: Nootropic Market
   authors:
     - name: Julie Lerman
@@ -1458,7 +1458,7 @@
 - title: 'Ghost in the Machine: The Unexpected Results of Not Understanding Your Users'
   type: regular
   level:
-  time: 2018-11-20 16:10
+  time: 2018-11-20 16:10:00
   room: Senescence Forest
   authors:
     - name: Nivia Henry
@@ -1474,7 +1474,7 @@
 - title: Natural Born Cyborgs
   type: regular
   level:
-  time: 2018-11-20 17:10
+  time: 2018-11-20 17:10:00
   room: Bionic Square
   authors:
     - name: Liviu Babitz
@@ -1489,7 +1489,7 @@
 - title: Programming with Math
   type: regular
   level:
-  time: 2018-11-20 17:10
+  time: 2018-11-20 17:10:00
   room: CRISPR Corner
   authors:
     - name: Bartosz Milewski
@@ -1505,7 +1505,7 @@
 - title: 'VR gaming as a fitness biohack, re-visited (now with metrics!)'
   type: regular
   level:
-  time: 2018-11-20 17:10
+  time: 2018-11-20 17:10:00
   room: Cryogenic Chamber
   authors:
     - name: Ray Kawalec
@@ -1520,7 +1520,7 @@
 - title: Making A11y Easy
   type: regular
   level:
-  time: 2018-11-20 17:10
+  time: 2018-11-20 17:10:00
   room: Epigenetic Gardens
   authors:
     - name: Ire Aderinokun
@@ -1535,7 +1535,7 @@
 - title: Building a Smart IoT App
   type: regular
   level:
-  time: 2018-11-20 17:10
+  time: 2018-11-20 17:10:00
   room: Neosense Beach
   authors:
     - name: Hans Boef
@@ -1550,7 +1550,7 @@
 - title: 'The Material is dead, long live the Material 2 — is the Material Design worn out?'
   type: regular
   level:
-  time: 2018-11-20 17:10
+  time: 2018-11-20 17:10:00
   room: Nootropic Market
   authors:
     - name: Anna Kamieniak
@@ -1566,7 +1566,7 @@
 - title: How The West Was Lost - A Heartwarming Tale of Software Developers Who Were Just Following Orders
   type: regular
   level:
-  time: 2018-11-20 17:10
+  time: 2018-11-20 17:10:00
   room: Senescence Forest
   authors:
     - name: Jason Gorman
@@ -1581,7 +1581,7 @@
 - title: 'On Bioethics: The Ethics of Manipulating (the Future of) Humanity'
   type: regular
   level:
-  time: 2018-11-20 18:20
+  time: 2018-11-20 18:20:00
   room: Epigenetic Gardens
   authors:
     - name: Alex Pearlman
@@ -1597,7 +1597,7 @@
 - title: 'Earthbeat: The Art of Creating your own Senses'
   type: regular
   level:
-  time: 2018-11-20 20:00
+  time: 2018-11-20 20:00:00
   room: Epigenetic Gardens
   authors:
     - name: Moon Ribas
@@ -1613,7 +1613,7 @@
 - title: 'Sense & Respond: Continuously learning our way to better outcomes'
   type: regular
   level:
-  time: 2018-11-21 09:00
+  time: 2018-11-21 09:00:00
   room: Epigenetic Gardens
   authors:
     - name: Jeff Gothelf
@@ -1629,7 +1629,7 @@
 - title: Monitoring vs Testing
   type: regular
   level:
-  time: 2018-11-21 10:30
+  time: 2018-11-21 10:30:00
   room: Bionic Square
   authors:
     - name: Mark Hrynczak
@@ -1644,7 +1644,7 @@
 - title: 'WebAssembly: A Deep Dive'
   type: regular
   level:
-  time: 2018-11-21 10:30
+  time: 2018-11-21 10:30:00
   room: CRISPR Corner
   authors:
     - name: Steve Klabnik
@@ -1659,7 +1659,7 @@
 - title: 'Chrono-Cyborgology -Learning to hack your sense of time with technology, Pt. 1'
   type: regular
   level:
-  time: 2018-11-21 10:30
+  time: 2018-11-21 10:30:00
   room: Cryogenic Chamber
   authors:
     - name: Chris Dancy
@@ -1674,7 +1674,7 @@
 - title: Building Streaming Microservices with Apache Kafka
   type: regular
   level:
-  time: 2018-11-21 10:30
+  time: 2018-11-21 10:30:00
   room: Epigenetic Gardens
   authors:
     - name: Benjamin Stopford
@@ -1689,7 +1689,7 @@
 - title: Domain Modeling with Haskell Data Structures
   type: regular
   level:
-  time: 2018-11-21 10:30
+  time: 2018-11-21 10:30:00
   room: Neosense Beach
   authors:
     - name: Oskar Wickström
@@ -1704,7 +1704,7 @@
 - title: 'Sign here, please!'
   type: regular
   level:
-  time: 2018-11-21 10:30
+  time: 2018-11-21 10:30:00
   room: Nootropic Market
   authors:
     - name: Ana Baotić
@@ -1719,7 +1719,7 @@
 - title: 7 Principles of Productive Software Developers
   type: regular
   level:
-  time: 2018-11-21 10:30
+  time: 2018-11-21 10:30:00
   room: Senescence Forest
   authors:
     - name: Sebastian Daschner
@@ -1734,7 +1734,7 @@
 - title: Mobile Augmented Reality with ARCore
   type: regular
   level:
-  time: 2018-11-21 11:30
+  time: 2018-11-21 11:30:00
   room: Bionic Square
   authors:
     - name: Erik Hellman
@@ -1749,7 +1749,7 @@
 - title: 'Rust in the Browser for Javascripters: New Frontiers, New Possibilities'
   type: regular
   level:
-  time: 2018-11-21 11:30
+  time: 2018-11-21 11:30:00
   room: CRISPR Corner
   authors:
     - name: Sean Grove
@@ -1764,7 +1764,7 @@
 - title: 'Chrono-Cyborgology -Learning to hack your sense of time with technology, Pt. 2'
   type: regular
   level:
-  time: 2018-11-21 11:30
+  time: 2018-11-21 11:30:00
   room: Cryogenic Chamber
   authors:
     - name: Chris Dancy
@@ -1779,7 +1779,7 @@
 - title: Spring Boot 2 Web Applications
   type: regular
   level:
-  time: 2018-11-21 11:30
+  time: 2018-11-21 11:30:00
   room: Epigenetic Gardens
   authors:
     - name: Stéphane Nicoll
@@ -1794,7 +1794,7 @@
 - title: Patterns for Building Zero-Support Distributed Systems in Erlang
   type: regular
   level:
-  time: 2018-11-21 11:30
+  time: 2018-11-21 11:30:00
   room: Neosense Beach
   authors:
     - name: Robert Ashton
@@ -1809,7 +1809,7 @@
 - title: Azure Kubernetes Services
   type: regular
   level:
-  time: 2018-11-21 11:30
+  time: 2018-11-21 11:30:00
   room: Nootropic Market
   authors:
     - name: Gustav Kaleta
@@ -1824,7 +1824,7 @@
 - title: 'On the Road with Imogen Heap: The Diaries of a Music and Tech Adventurist'
   type: regular
   level:
-  time: 2018-11-21 11:30
+  time: 2018-11-21 11:30:00
   room: Senescence Forest
   authors:
     - name: Imogen Heap
@@ -1839,7 +1839,7 @@
 - title: 'Discussion Panel: Transhumanism'
   type: regular
   level:
-  time: 2018-11-21 12:50
+  time: 2018-11-21 12:50:00
   room: Bionic Square
   authors:
     - name: Øredev Øredevsson
@@ -1854,7 +1854,7 @@
 - title: Moving beyond Virtual DOM and State Management
   type: regular
   level:
-  time: 2018-11-21 12:50
+  time: 2018-11-21 12:50:00
   room: CRISPR Corner
   authors:
     - name: Sindre Osen Aarsaether
@@ -1869,7 +1869,7 @@
 - title: Domain-driven Design with Kotlin
   type: regular
   level:
-  time: 2018-11-21 12:50
+  time: 2018-11-21 12:50:00
   room: Cryogenic Chamber
   authors:
     - name: Simon Harrer
@@ -1884,7 +1884,7 @@
 - title: Designing Events-First Microservices
   type: regular
   level:
-  time: 2018-11-21 12:50
+  time: 2018-11-21 12:50:00
   room: Epigenetic Gardens
   authors:
     - name: Jonas Bonér
@@ -1899,7 +1899,7 @@
 - title: 'When You Are Your Money: Testing in the Evolving World of Payment Services'
   type: regular
   level:
-  time: 2018-11-21 12:50
+  time: 2018-11-21 12:50:00
   room: Neosense Beach
   authors:
     - name: Katrina Clokie
@@ -1914,7 +1914,7 @@
 - title: What Developers Want
   type: regular
   level:
-  time: 2018-11-21 12:50
+  time: 2018-11-21 12:50:00
   room: Nootropic Market
   authors:
     - name: Rabeb Othmani
@@ -1929,7 +1929,7 @@
 - title: Make Equal Organizations
   type: regular
   level:
-  time: 2018-11-21 13:50
+  time: 2018-11-21 13:50:00
   room: Bionic Square
   authors:
     - name: Kim Hof
@@ -1944,7 +1944,7 @@
 - title: Future of Templating on the Web
   type: regular
   level:
-  time: 2018-11-21 13:50
+  time: 2018-11-21 13:50:00
   room: CRISPR Corner
   authors:
     - name: Filip Bech-Larsen
@@ -1959,7 +1959,7 @@
 - title: Decomposing Java Applications
   type: regular
   level:
-  time: 2018-11-21 13:50
+  time: 2018-11-21 13:50:00
   room: Cryogenic Chamber
   authors:
     - name: Milen Dyankov
@@ -1974,7 +1974,7 @@
 - title: Any Update? Lessons Learned From Running a Bug Bounty Program for Over 5 Years
   type: regular
   level:
-  time: 2018-11-21 13:50
+  time: 2018-11-21 13:50:00
   room: Epigenetic Gardens
   authors:
     - name: Peter Yaworski
@@ -1989,7 +1989,7 @@
 - title: Augmented Reality — The State of Play
   type: regular
   level:
-  time: 2018-11-21 13:50
+  time: 2018-11-21 13:50:00
   room: Neosense Beach
   authors:
     - name: Rafał Legiędź
@@ -2004,7 +2004,7 @@
 - title: Failure is not an Option
   type: regular
   level:
-  time: 2018-11-21 13:50
+  time: 2018-11-21 13:50:00
   room: Senescence Forest
   authors:
     - name: Karl Scotland
@@ -2019,7 +2019,7 @@
 - title: 'Houdini: Breaking Out from the CSS Straightjacket'
   type: regular
   level:
-  time: 2018-11-21 15:10
+  time: 2018-11-21 15:10:00
   room: Bionic Square
   authors:
     - name: Pontus Lundin
@@ -2034,7 +2034,7 @@
 - title: Creative Analogies For The Underpinnings of Deep Learning
   type: regular
   level:
-  time: 2018-11-21 15:10
+  time: 2018-11-21 15:10:00
   room: CRISPR Corner
   authors:
     - name: Robert Luciani
@@ -2049,7 +2049,7 @@
 - title: Introduction to the Unison Language
   type: regular
   level:
-  time: 2018-11-21 15:10
+  time: 2018-11-21 15:10:00
   room: Cryogenic Chamber
   authors:
     - name: Rúnar Bjarnason
@@ -2064,7 +2064,7 @@
 - title: Achieving 7 Seconds
   type: regular
   level:
-  time: 2018-11-21 15:10
+  time: 2018-11-21 15:10:00
   room: Epigenetic Gardens
   authors:
     - name: Zoë Rose
@@ -2079,7 +2079,7 @@
 - title: Talking about Software Testing — Conversations between a Developer and a Tester
   type: regular
   level:
-  time: 2018-11-21 15:10
+  time: 2018-11-21 15:10:00
   room: Neosense Beach
   authors:
     - name: Peter Kedemo
@@ -2094,7 +2094,7 @@
 - title: Web Payment APIs
   type: regular
   level:
-  time: 2018-11-21 15:10
+  time: 2018-11-21 15:10:00
   room: Nootropic Market
   authors:
     - name: AMahdy Abdelaziz
@@ -2109,7 +2109,7 @@
 - title: Building Intelligent Agents Using Deep Reinforcement Learning
   type: regular
   level:
-  time: 2018-11-21 16:10
+  time: 2018-11-21 16:10:00
   room: Bionic Square
   authors:
     - name: Ali Kheyrollahi
@@ -2124,7 +2124,7 @@
 - title: Making software security a part of your development culture
   type: regular
   level:
-  time: 2018-11-21 16:10
+  time: 2018-11-21 16:10:00
   room: CRISPR Corner
   authors:
     - name: Fredrik Larsson
@@ -2139,7 +2139,7 @@
 - title: Unbundling the JavaScript module bundler
   type: regular
   level:
-  time: 2018-11-21 16:10
+  time: 2018-11-21 16:10:00
   room: Cryogenic Chamber
   authors:
     - name: Luciano Mammino
@@ -2154,7 +2154,7 @@
 - title: 'Thread Safety with Phaser, StampedLock and VarHandle'
   type: regular
   level:
-  time: 2018-11-21 16:10
+  time: 2018-11-21 16:10:00
   room: Epigenetic Gardens
   authors:
     - name: Heinz Kabutz
@@ -2169,7 +2169,7 @@
 - title: Book of Wishes for 2019
   type: regular
   level:
-  time: 2018-11-21 16:10
+  time: 2018-11-21 16:10:00
   room: Neosense Beach
   authors:
     - name: Øredev Øredevsson
@@ -2184,7 +2184,7 @@
 - title: Vector workflows
   type: regular
   level:
-  time: 2018-11-21 16:10
+  time: 2018-11-21 16:10:00
   room: Nootropic Market
   authors:
     - name: Alex Lockwood
@@ -2199,7 +2199,7 @@
 - title: 'PWA: Is a new cross-platform development era coming?'
   type: regular
   level:
-  time: 2018-11-21 16:10
+  time: 2018-11-21 16:10:00
   room: Senescence Forest
   authors:
     - name: Maxim Salnikov
@@ -2214,7 +2214,7 @@
 - title: Upgraded Huma^ns In the Age of Biological Machines
   type: regular
   level:
-  time: 2018-11-21 17:20
+  time: 2018-11-21 17:20:00
   room: Epigenetic Gardens
   authors:
     - name: Teemu Arina
@@ -2230,7 +2230,7 @@
 - title: Let's Make a Web App Progressive in a Workday
   type: workshop
   level:
-  time: 2018-11-22 09:00
+  time: 2018-11-22 09:00:00
   room: Bionic Square
   authors:
     - name: Maxim Salnikov
@@ -2245,7 +2245,7 @@
 - title: Introduction to Elm
   type: workshop
   level:
-  time: 2018-11-22 09:00
+  time: 2018-11-22 09:00:00
   room: CRISPR Corner
   authors:
     - name: Richard Feldman
@@ -2260,7 +2260,7 @@
 - title: Hacking Web Applications
   type: workshop
   level:
-  time: 2018-11-22 09:00
+  time: 2018-11-22 09:00:00
   room: Cryogenic Chamber
   authors:
     - name: Linus Kvarnhammar
@@ -2275,7 +2275,7 @@
 - title: Third-Generation Software Testing
   type: workshop
   level:
-  time: 2018-11-22 09:00
+  time: 2018-11-22 09:00:00
   room: Epigenetic Gardens
   authors:
     - name: Jason Gorman
@@ -2290,7 +2290,7 @@
 - title: Hands-on on Design Tools and Design Handoff
   type: workshop
   level:
-  time: 2018-11-22 09:00
+  time: 2018-11-22 09:00:00
   room: Neosense Beach
   authors:
     - name: Taylor Ling
@@ -2305,7 +2305,7 @@
 - title: Java performance and efficiency - practical guide
   type: workshop
   level:
-  time: 2018-11-22 09:00
+  time: 2018-11-22 09:00:00
   room: Nootropic Market
   authors:
     - name: Heinz Kabutz
@@ -2320,7 +2320,7 @@
 - title: Work Together Anywhere Workshop
   type: workshop
   level:
-  time: 2018-11-22 09:00
+  time: 2018-11-22 09:00:00
   room: Senescence Forest
   authors:
     - name: Lisette Sutherland

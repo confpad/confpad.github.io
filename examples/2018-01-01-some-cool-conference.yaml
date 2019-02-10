@@ -1,7 +1,7 @@
 - title: How to XYZ # Title value is the only mandatory one, other values are optional
   type: regular # [regular, lightning, workshop]
   level: beginner # [beginner, intermediate, advanced]
-  time: 2018-09-03 09:30 # or just 2018-09-03 is ok
+  time: 2018-09-03 09:30:00 # or just 2018-09-03 is ok
   room: # Room number or room name
   authors:
     - name: John Doe
