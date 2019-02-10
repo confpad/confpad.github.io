@@ -382,6 +382,18 @@
   description: |-
     YGLF is a community event built by developers for developers
 
+- id: 2018-05-31-dotai-2018
+  name: dotAI 2018
+  url: https://www.dotai.io/
+  date:
+    from: 2018-05-31
+    to: 2018-05-31
+  location:
+    country: France
+    city: Paris
+  description: |-
+    With world-class experts on stage, we will explore the current state-of-the-art, the latest machine learning frameworks and everything there is to know about building intelligent applications in 2018.
+
 - id: 2018-06-01-amsterdam-jsnation-conference-2018
   name: Amsterdam JSNation Conference 2018
   url: https://amsterdamjs.com/2018/
