@@ -394,6 +394,18 @@
   description: |-
     Amsterdam JSNation is a 2-day event focusing exclusively on JavaScript development. At our conference, inspiring talks meet fresh ideas and good people - you’ll hear all you need to know about the latest trends in JS tech, see stellar speakers, meet new friends and colleagues, and connect with key people in the industry. Plus, all of that in one of Europe's top destinations.
 
+- id: 2018-06-01-cssconf-eu-2018
+  name: CSSconf EU 2018
+  url: https://2018.cssconf.eu/
+  date:
+    from: 2018-06-01
+    to: 2018-06-01
+  location:
+    country: Germany
+    city: Berlin
+  description: |-
+    Dedicated to everyone who loves and writes CSS: On June 1st 2018, CSSconf EU will gather the international CSS community in Berlin, Germany. This is your chance to meet top-notch engineers & web designers, world-class speakers, and CSS-loving people at this one-day, one-track conference.
+
 - id: 2018-06-26-smashing-conference-toronto-2018
   name: Smashing Conference Toronto 2018
   url: https://archive.smashingconf.com/toronto-2018/
