@@ -19,8 +19,7 @@ glob.sync('{./data/conferences.yaml,./examples/conferences.yaml}').forEach(file 
   // Convert YAML to JS object
   try {
     conferences = jsyaml.safeLoad(yamlString);
-  }
-  catch (error) {
+  } catch (error) {
     console.error(`${file}: ${error.message}`);
   }
 
@@ -44,6 +43,13 @@ glob.sync('{./data/conferences.yaml,./examples/conferences.yaml}').forEach(file 
 
       // Check if URL starts with http(s)
       conference.url && expect(conference.url).toEqual(expect.stringMatching(REGEX_URL));
+
+      // Check if dates are valid date
+      [conference.date.from, conference.date.to].forEach(date => {
+        expect(conference.date.from).toBeInstanceOf(Date);
+        expect(typeof conference.date.from.getFullYear()).toBe('number');
+      });
+
     });
   });
 });
