@@ -142,6 +142,18 @@
   description: |-
     Hello and welcome to the archive of the first beyond tellerrand in Munich, which took palce from 15 to 17 January in 2018. You find all videos of the talks embedded in the speaker page of every speaker. Additionally you can use the links to either Vimeo or YouTube to watch all the videos.
 
+- id: 2018-01-19-reactfoo-pune-2018
+  name: ReactFoo Pune 2018
+  url: https://reactfoo.in/2018-pune/
+  date:
+    from: 2018-01-19
+    to: 2018-01-20
+  location:
+    country: India
+    city: Pune
+  description: |-
+    A conference on the lessons learned while implementing React and React Native.
+
 - id: 2018-01-19-front-end-north-2018
   name: Front End North 2018
   url: https://frontendnorth.com/
@@ -177,18 +189,6 @@
     city: Dornbirn
   description: |-
     Experts and industry leaders come together to showcase their work in ReactJS, React Native and more.
-
-- id: 2018-01-19-reactfoo-pune-2018
-  name: ReactFoo Pune 2018
-  url: https://reactfoo.in/2018-pune/
-  date:
-    from: 2018-01-19
-    to: 2018-01-20
-  location:
-    country: India
-    city: Pune
-  description: |-
-    A conference on the lessons learned while implementing React and React Native.
 
 - id: 2018-02-07-smashing-conference-london-2018
   name: Smashing Conference London 2018
