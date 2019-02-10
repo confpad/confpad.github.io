@@ -1,4 +1,5 @@
 - title: A Tale of Two Asyncs
+  lang: en
   type: regular
   level:
   time: 2018-07-19 09:40:00
@@ -16,6 +17,7 @@
     Webpack 4 is closely drawing near to its final release! But what does that mean to you? Join me as not only I help break down everything we’ve accomplished this year, but also look forward to what we have in store for you in the future. Join me as we’ll talk about what it means to represent the #0CJS (Zero Config JS) movement, what it means to put developers first, and how we aim to embody the term Legato: to perform in a smooth, flowing, manner without gaps.
 
 - title: 'Building a Platform: Webpack and the Future'
+  lang: en
   type: regular
   level:
   time: 2018-07-19 10:20:00
@@ -33,6 +35,7 @@
     Building a Platform: Webpack and the Future by Sean Larkin
 
 - title: Rise above the Framework
+  lang: en
   type: regular
   level:
   time: 2018-07-19 11:20:00
@@ -50,6 +53,7 @@
     Rise above the framework by Mike Hartington
 
 - title: A Tale of Types, Classes, and Maps
+  lang: en
   type: regular
   level:
   time: 2018-07-19 12:00:00
@@ -67,6 +71,7 @@
     A Tale of Types, Classes, and Maps by Benedikt Meurer
 
 - title: Keep Betting On JavaScript
+  lang: en
   type: regular
   level:
   time: 2018-07-19 14:40:00
@@ -84,6 +89,7 @@
     Keep Betting on JavaScript by Kyle Simpson
 
 - title: Understanding client side routing with Vue.js
+  lang: en
   type: regular
   level:
   time: 2018-07-19 15:20:00
@@ -101,6 +107,7 @@
     Understanding client side routing with Vue.js by Hassan Djirdeh
 
 - title: WebXR
+  lang: en
   type: regular
   level:
   time: 2018-07-19 16:20:00
@@ -118,6 +125,7 @@
     WebXR by Michaela Lehr
 
 - title: Building Real-World Desktop Apps with Electron
+  lang: en
   type: regular
   level:
   time: 2018-07-19 17:00:00
@@ -135,6 +143,7 @@
     Building Real-World Desktop Apps with Electron by Anuj Nair
 
 - title: The Bumpy Road to Universal JavaScript
+  lang: en
   type: regular
   level:
   time: 2018-07-20 09:40:00
@@ -152,6 +161,7 @@
     The Bumpy Road to Universal JavaScript by Johannes Ewald
 
 - title: Semantic, Searchable Webapps with Angular
+  lang: en
   type: regular
   level:
   time: 2018-07-20 10:20:00
@@ -168,6 +178,7 @@
     Semantic, Searchable Webapps with Angular by Martin Splitt
 
 - title: Break Up With Your Frontend Monolith
+  lang: en
   type: regular
   level:
   time: 2018-07-20 11:00:00
@@ -185,6 +196,7 @@
     Break Up With Your Frontend Monolith by Elisabeth Engel
 
 - title: Rethinking Enterprise Architectures with Node.js
+  lang: en
   type: regular
   level:
   time: 2018-07-20 12:00:00
@@ -202,6 +214,7 @@
     Rethinking Enterprise Architectures with Node.js by Kamil Mysliwiec
 
 - title: Machine Learning in the browser
+  lang: en
   type: regular
   level:
   time: 2018-07-20 12:40:00
@@ -219,6 +232,7 @@
     Machine Learning in the browser by Lian Li
 
 - title: The past, present, and future of the Web
+  lang: en
   type: regular
   level:
   time: 2018-07-20 14:40:00
@@ -236,6 +250,7 @@
     The past, present, and future of the Web by Steve Klabnik
 
 - title: Service Workers + WebAssembly
+  lang: en
   type: regular
   level:
   time: 2018-07-20 15:20:00
@@ -253,6 +268,7 @@
     Experience implementing a WebP decoder by Kenneth Christiansen
 
 - title: How does npm design
+  lang: en
   type: regular
   level:
   time: 2018-07-20 16:20:00
@@ -270,6 +286,7 @@
     How does npm design by Jerry Gabra
 
 - title: How to Create 'Vuetiful' Data-Driven User Interfaces
+  lang: en
   type: regular
   level:
   time: 2018-07-20 16:40:00

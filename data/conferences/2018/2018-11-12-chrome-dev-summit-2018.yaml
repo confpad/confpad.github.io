@@ -1,4 +1,5 @@
 - title: Day 1 Keynote
+  lang: en
   type: regular
   level:
   time: 2018-11-12
@@ -19,6 +20,7 @@
     A round-up of the web platform's latest advancements and the evolving landscape. The keynote also covers the Chrome team's continued investment towards moving the platform forward and supporting the community.
 
 - title: 'Get Down to Business: Why the Web Matters'
+  lang: en
   type: regular
   level:
   time: 2018-11-12
@@ -47,6 +49,7 @@
     'Music? Coffee? Ideas? By focusing on speed and taking advantage of the Web’s expanding capabilities, three global businesses found meaningful engagement with new and existing users everywhere. Hear directly from Spotify, Starbucks and Pinterest about the unique methods they’ve used to build and continually improve their PWAs and as a result, achieved growth and business success. '
 
 - title: State of the Union for Speed Tooling
+  lang: en
   type: regular
   level:
   time: 2018-11-12
@@ -67,6 +70,7 @@
     Measuring, optimizing, and monitoring user experience on the Web has never been easier. Learn about the latest changes in performance tooling, and how to meaningfully incorporate lab and field data into your development workflow. Paul and Elizabeth share the latest developments in Lighthouse, DevTools profiling tools, PageSpeed Insights, Chrome UX Report, and key performance metrics.
 
 - title: 'Speed Essentials: Key Techniques for Fast Websites'
+  lang: en
   type: regular
   level:
   time: 2018-11-12
@@ -88,6 +92,7 @@
 
 - title: 'Building Faster, More Resilient Apps with Service Worker: A Caching Strategy
     Deep Dive'
+  lang: en
   type: regular
   level:
   time: 2018-11-12
@@ -108,6 +113,7 @@
     Because most users access the Web on the go, it's critical that we deliver experiences that load quickly and run smoothly, regardless of network conditions. And with service worker now supported in all modern browsers, we can leverage it as a core part of our application architecture and performance strategy.  But not all service worker implementations are created equal, and they can offer vastly different performance benefits. Every prefetch and cache decision comes with speed vs. freshness and bandwidth vs. storage trade offs. Join us to discover how to evaluate and build different service worker flows for your app, giving the best experience for your users.
 
 - title: 'Smooth Moves: Rendering at the Speed of Right ®'
+  lang: en
   type: regular
   level:
   time: 2018-11-12
@@ -128,6 +134,7 @@
     Follow us as we refactor a microinteraction to unblock threads, unblock users, and crank it up to 60fps. Once the site’s resources have been delivered quickly, how do we ensure that we keep that high bar for performance? We need to understand rendering and interaction within the page.
 
 - title: Complex JS-heavy Web Apps, Avoiding the Slow
+  lang: en
   type: regular
   level:
   time: 2018-11-12
@@ -148,6 +155,7 @@
     If you can do it without JavaScript, that's usually the fastest path. But what about when JavaScript is the only way? In this session we take a JavaScript-heavy PWA and make it load in less than 5 seconds on 2G, using Web Assembly, workers, and web components.
 
 - title: 'Building Modern Web Media Experiences: Picture-in-Picture and AV1'
+  lang: en
   type: regular
   level:
   time: 2018-11-12
@@ -168,6 +176,7 @@
     Learn about how the latest media-related capabilities on the web platform can be used to build efficient and delightful web media experiences. This talk covers both APIs (such as Picture-in-Picture) and codecs (AV1), reviewing some of the nuances of how they can be successfully implemented, along with examples and demos.
 
 - title: Modern Websites for E-commerce in the Real World
+  lang: en
   type: regular
   level:
   time: 2018-11-12
@@ -188,6 +197,7 @@
     While the Web has provided increased capabilities, success for real-world ecommerce requires taking a measured approach. In this session, you'll hear how some ecommerce companies are tackling challenges like organizational complexity, legacy code, measurement, prioritization, and more to provide better experiences to their web users and prepare for future needs and demand. You'll also learn how AMP and PWA have played a role in shaping these modern consumer journeys.
 
 - title: Progressive Content Management Systems
+  lang: en
   type: regular
   level:
   time: 2018-11-12
@@ -208,6 +218,7 @@
     Content Management Systems (CMS) are software platforms designed to simplify the creation and management of websites and their content. Nowadays, about 50% of websites are powered by some sort of CMS platform. In this talk, we discuss our experience moving a complex CMS (i.e. WordPress) forward along the Progressive Web Road by integrating modern capabilities (e.g. Service Worker API) and progressive technologies (e.g. AMP) into its platform and ecosystem, and how the lessons learned can be applied to other CMSes.
 
 - title: Making Modern Web Content Discoverable for Search
+  lang: en
   type: regular
   level:
   time: 2018-11-12
@@ -228,6 +239,7 @@
     Many modern JavaScript frameworks render their HTML content on the client-side assuming that every environment that is accessing their pages is as modern as they are. However, many search engines – including Google Search – do not behave exactly the same as a user’s browser.  In this session, you will learn some facts about Google Search, its rendering pipeline and the various tools which can help you diagnose the gap between what your users see versus what Google Search sees. You have built a fast & engaging website – let’s make sure it’s discoverable too.
 
 - title: Day 2 Keynote
+  lang: en
   type: regular
   level:
   time: 2018-11-13
@@ -248,6 +260,7 @@
     Join us for a look at web frameworks and the web platform and how they can be stronger together–creating great user experiences at scale! Speaking of user experience: We’ve talked about things like jank and 60 frames per seconds for years, but some of these things remain hard to reliably achieve on the web. With a new set of web standards this is changing, and we’re super excited to introduce them to you!
 
 - title: Feature Policy & the Well-Lit Path for Web Development
+  lang: en
   type: regular
   level:
   time: 2018-11-13
@@ -264,6 +277,7 @@
     Feature Policy is a new primitive which allows developers to selectively enable, disable, and modify the behavior of certain APIs and features in the browser. It's like CSP, but for features & APIs! Teams can use new tools like Feature Policy and the Reporting API to catch errors before they grow out of control, ensure site performance stays high, keep code quality healthy, and help avoid the web's biggest footguns.
 
 - title: 'virtual-scroller: Let there be less (DOM)'
+  lang: en
   type: regular
   level:
   time: 2018-11-13
@@ -280,6 +294,7 @@
     Rendering performance is mainly a function of how much you render - too much DOM will slow your site to a crawl. Native platforms actually have the same problem, but they stay fast by promoting virtual scrolling: rendering just enough content to fill the screen and continuously updating as the user scrolls. On today’s Web, virtualization breaks basic features like links and find-in-page, but hope is in sight. We’ll take an early peek at an effort to add a first-class virtual scroller to HTML, building on an exciting new platform concept called Layered APIs.
 
 - title: 'A Quest to Guarantee Responsiveness: Scheduling On and Off the Main Thread'
+  lang: en
   type: regular
   level:
   time: 2018-11-13
@@ -300,6 +315,7 @@
     To achieve a truly responsive experience, developers have to execute their code in 10ms chunks. That’s nearly impossible. In this talk, we'll explore two high-level strategies: Main thread scheduling, and moving work into backgrounds threads. We’ll dive into our latest performance research on multi-threading Javascript, demystify when to utilize web workers, and dive into what it really takes to guarantee responsiveness. Finally, we'll introduce a few exciting new proposals that we'd love your feedback on.
 
 - title: Architecting Web Apps - Lights, Camera, Action!
+  lang: en
   type: regular
   level:
   time: 2018-11-13
@@ -320,6 +336,7 @@
     Architecting web apps continues to be challenging, whether it's accounting for performance, the latest and greatest platform APIs, or simply trying to figure out what part of the app should do what!  In this talk, we explore how you can architect apps for maximum flexibility, and to that end we're going to reintroduce something that's 45-years old which might, in the end, pave the way for the future of web apps.
 
 - title: From Low Friction to Zero Friction with Web Packaging and Portals
+  lang: en
   type: regular
   level:
   time: 2018-11-13
@@ -348,6 +365,7 @@
     In this talk, we’ll look at emerging technologies to build better web experiences. Web packaging enables a next level of content portability that can be used to speed up content delivery or improve modes of content consumption, such as offline. Furthermore, by combining web packaging with a new primitive called Portals, we’ll show how we can take the web’s low friction trait a notch further with zero-friction user experiences.
 
 - title: State of Houdini
+  lang: en
   type: regular
   level:
   time: 2018-11-13
@@ -364,6 +382,7 @@
     Houdini continues to expand the power and capabilities of CSS. Houdini exposes the parts of the CSS engine that make possible APIs like CSS Grid, Scroll Snap Points, conic gradients, et al. Extend CSS’ capabilities yourself without questionable hacks and better performance.  In this talk, we look at the overall structure of the Houdini effort and take a closer look at CSS Paint, Animation Worklets and Custom Layout API. We can get a taste of what the future holds: An ecosystem of modules that bring powerful effects from the shelf to your app.
 
 - title: Building Engaging Immersive Experiences
+  lang: en
   type: regular
   level:
   time: 2018-11-13
@@ -384,6 +403,7 @@
     The Web is emerging as an ideal platform for immersive reality experiences, particularly in augmented reality. In this talk, we will cover the progress in the WebXR Device API, show how partners are building compelling augmented reality experiences on the web today, and point you in the right direction to explore this space yourself.
 
 - title: Using WebAssembly and Threads
+  lang: en
   type: regular
   level:
   time: 2018-11-13
@@ -404,6 +424,7 @@
     WebAssembly enables new experiences that we’ve never been able to get on the Web before and now WebAssembly threads takes that even further. This talk shows some examples of what WebAssembly enables, highlighting a few real-world examples and demos.  You'll also learn about the tools and debugging capabilities available to help you  take advantage of WebAssembly and threads in your web applications today.
 
 - title: 'The Virtue of Laziness: Leveraging Incrementality for Faster Web UI'
+  lang: en
   type: regular
   level:
   time: 2018-11-13
@@ -420,6 +441,7 @@
     If the first rule of performance is "do less," the second is surely "be lazy." Using LitElement-based web components, we’ll explore the use of bleeding-edge techniques and browser APIs to spread work out so that your UI is faster to load, render and respond to user input. Topics we’ll cover include route-based dynamic module loading, async rendering, chunked rendering, IntersectionObserver, display-locking, and scheduling long-running tasks.
 
 - title: 'Chrome OS: Ready for Web Development'
+  lang: en
   type: regular
   level:
   time: 2018-11-13

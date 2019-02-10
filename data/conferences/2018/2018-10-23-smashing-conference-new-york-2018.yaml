@@ -1,4 +1,5 @@
 - title: Til Launch Do Us Part
+  lang: en
   type: regular
   level:
   time: 2018-10-23 09:50:00
@@ -15,6 +16,7 @@
     From one designer to a front-end developer: I’m so grateful for you. You take my pretty pictures and turn them into real-live websites and applications; you convert ideas and sketches into real things that people can use. And even despite that superpower, you rarely get the respect you deserve. It’s time for that to change. No longer will I throw my comps over the proverbial wall for you to blindly build. I’ll change my process for you. Let’s sketch together more to be more efficient and effective as a team. Let’s decide in the browser more. I’ll learn to write JSON for you. Let’s share stories about new, more modern ways of shipping products at higher quality in record time. This is gonna be great!
 
 - title: Building Inclusive Experiences with CSS and SVG
+  lang: en
   type: regular
   level:
   time: 2018-10-23 10:40:00
@@ -31,6 +33,7 @@
     Just like their range of skills, the front-end developer’s responsibilities may vary across teams, but one things remains the same: a front-end developer can either make or break a user’s experience. We build the interface that users interact with, and how we do it has a direct impact on how the user feels when they do, and most importantly, whether or not they can use it properly. CSS is one of the most powerful UI tools in our arsenal. In this talk, Sara will show a wide range of possibilities that CSS offers to improve the overall user experience of your UI. She’ll talk about theming and optimizing your UI for foreign and uncontrollable environments. We’ll cover how we can use css variables in combination with the HSL color format to create performant live themes that are also maintainable and dev- and designer-friendly. We’ll talk about some very simple things you can (and should) do in your CSS, markup, and using SVG, to optimize your product for Windows High Contrast Mode (WHCM) and other foreign environments, and what we can learn from the latter about making our UIs generally more inclusive. We’ll be talking about a few fairly new CSS media queries as we go, and how we can make our interface respond to system user queries. You’ll learn how to take advantage of the full power of CSS Variables to offer your users a way to customize your product’s interface to their needs. All this within the context of accessibility and UX best practices.
 
 - title: The Long Tail of Performance
+  lang: en
   type: regular
   level:
   time: 2018-10-23 12:00:00
@@ -47,6 +50,7 @@
     It’s time to accept that system and network failures are inevitable and to start designing our systems to withstand them. Accomplishing this isn’t easy but we’ve learnt a few tricks along the way which we would love to share! I’ll explain the principles behind our approach as well as detailing some of the solutions we have put in place: covering areas of automation, instrumentation and continuous testing in production. Come and learn 19 ways BuzzFeed designs their front-end to be resilient to failure!
 
 - title: New Adventures in Front-End
+  lang: en
   type: regular
   level:
   time: 2018-10-23 12:50:00
@@ -63,6 +67,7 @@
     “The beast is alive! How do you feel about ASCII-alike CSS Grid layout with polyfluid sizing and ch unit? Do you feel itchy when it comes to building responsive HTML email layouts? What about the brave new world of dynamic static site generators and JAM stack? Have you ever tried to work around nested CSS Custom Properties, untamed 3rd-party scripts, shady service workers, multi-dimensional variable fonts and painfully outdated pattern libraries? Well, let’s bring it on! Beware: you will not be able to unlearn what you’ll learn in the session! Ah, one more thing, take the techniques with a grain of salt — we do not take responsibility for sleepless nights and nightmares caused by the content of this session.”
 
 - title: Designing Progressive Web Apps
+  lang: en
   type: regular
   level:
   time: 2018-10-23 15:10:00
@@ -79,6 +84,7 @@
     If you have a website — particularly one that generates revenue for your organization — you need a Progressive Web App. So where do you begin? How do you decide which features of a Progressive Web App make sense for your users? What tools can make the process easier (or harder)? In this practical session, Jason will guide you through the key design decisions you’ll need to make about your Progressive Web App and how those decisions impact the scope of your project. He’ll also teach you how to avoid common pitfalls and help you take full advantage of Progressive Web App technology.
 
 - title: The Shape of Thoughts
+  lang: en
   type: regular
   level:
   time: 2018-10-23 16:00:00
@@ -95,6 +101,7 @@
     When the heart meets the mind. Beautiful ideas often end up compromised by a low budget, unrealistic deadlines, or technical issues. We designers pound against a wall of people telling us our solution is unrealistic and unachievable, so we eventually give in only to see the same solution appear months later from elsewhere, and we berate ourselves for our lack of persistence. Yes, great design should solve a problem. It should be tested, practical, affordable, and relevant to the people we are designing for. But there is another side of the design as well. In this session, we’ll explore practical techniques and strategies to involve clients in the design process and make them fall in love with your ideas as well. Not through deceiving tricks or shady practices: through idea-driven and client-focused process that integrates client feedback into the design workflow.
 
 - title: Why We Brand, Why We Buy
+  lang: en
   type: regular
   level:
   time: 2018-10-23 17:20:00
@@ -110,6 +117,7 @@
     Why We Brand, Why We Buy is an entertaining sociological, scientific and anthropological overview of why humans buy and brand things. This is what the presentation will cover: Why did MySpace become so popular and why are we riveted and/or addicted to our technological devices? Why do some brands stand out from others? Is there some “magic” that makes us ogle over the latest product from Apple or crave a Starbucks or a pair of Nike sneakers? Why We Brand, Why We Buy takes a deep dive into the influence branding has on our everyday lives, from branding ourselves and the world around us, to the role branding plays in the products we buy and the way we live. The talk explores the following: *What are the waves of modern branding over the last 100 years? Debbie will explore each one, focusing on the brands that defined each period and how culture was inspired or impacted *How human evolution and population trends are linked with branding *How psychology and behavioral rituals are linked with branding *How technology has changed the way we interact with each other and with brands, and what we are really addicted to *What it takes for modern brands to stand out in a crowded marketplace *How branding connects with our most hard-wired, basic instincts The talk concludes with an over-arching hypothesis of why, as a species, we continue to make and mark things, in every aspect of our lives.
 
 - title: And so the Mystery Begins…
+  lang: en
   type: regular
   level:
   time: 2018-10-24 09:40:00
@@ -125,6 +133,7 @@
     Have you figured out yet who was the Mystery Speaker this year? ;-)
 
 - title: Serverless Functions and Vue.js
+  lang: en
   type: regular
   level:
   time: 2018-10-24 10:30:00
@@ -141,6 +150,7 @@
     Despite the name, Serverless does not mean you’re not using a server, rather, the promise of Serverless is to no longer have to babysit a server. Scaling is done for you, you’re billed only for what you use. In this session, we’ll cover some key use cases for these functions within a Vue.js application: we’ll accept payments with stripe, we’ll gather geolocation data from Google Maps, and more! We’ll make it all work with Vue and Nuxt seamlessly, simplifying how to leverage this paradigm to be a workhorse for your application.
 
 - title: Designing for Augmented Reality
+  lang: en
   type: regular
   level:
   time: 2018-10-24 11:50:00
@@ -157,6 +167,7 @@
     We thought we could port our existing game to an AR experience. We couldn’t. Here’s what happened and everything we learned. In this talk I’ll take the audience through the journey we went on creating our first AR-only experience. Our game Conduct AR! I’ll talk about how many of the assumptions we had going in turned out to be wrong and how we worked to change them in a race to launch alongside ARkit. You’ll learn *What makes AR Special (hint: it’s not what people think) *What the biggest challenges are for AR apps and games *What you need to consider when doing UI in AR *What AR enables us to do right now, and what it doesn’t (but might in the future) It’ll be an explosive, entertaining and visual journey into one of the most exciting frontiers in technology today.
 
 - title: Bet you Didn't Think Your Browser Could do That
+  lang: en
   type: regular
   level:
   time: 2018-10-24 12:40:00
@@ -173,6 +184,7 @@
     Building a modern web app is pretty complicated! You need to make pretty things! That are fast! But also useful! Ideally offline! And can accommodate many users! One way you can simplify this mountain of requirements is to think of your app as a static site, and build it like one. With things like Service Workers, serverless architectures and Firebase authentication, a lot of the features that used to need a server can live entirely on the client side, leaving you with one less thing you need to worry about. Let’s do some myth busting and see that static sites can do more than you expect!
 
 - title: Encouraging Clicks - How to Encourage Action Without Alienating People
+  lang: en
   type: regular
   level:
   time: 2018-10-24 15:00:00
@@ -189,6 +201,7 @@
     Every website seeks to encourage visitors to do something, whether it is placing an order, make a donation or signup to a mailing list. But how do you do that without alienating users? After all, we now live in a world where one disgruntled customer can destroy a brand. Paul Boag explains how we don’t need to resort to dark patterns to encourage users to take action.
 
 - title: Design in the Era of the Algorithm
+  lang: en
   type: regular
   level:
   time: 2018-10-24 15:50:00

@@ -1,4 +1,5 @@
 - title: Sketching in the Browser
+  lang: en
   type: regular
   level:
   time: 2018-04-11
@@ -15,6 +16,7 @@
     Keeping developers and designers in sync is an ongoing challenge for our industry, with both disciplines working in completely different mediums. Lately, we have seen the emergence of tools like react-sketchapp and html-sketchapp that allow us to generate Sketch libraries from our application code. In this talk, we will run through a real-world example of this technique, have a closer look at how.it all works, and show you how you can start experimenting with this yourself. Most importantly, we will talk about what this means for the future of design.
 
 - title: XSS, CSRF, CSP, JWT, WTF? IDK ¯\_(ツ)_/¯
+  lang: en
   type: regular
   level:
   time: 2018-04-11
@@ -31,6 +33,7 @@
     Robert DROP TABLE Students-- The little Bobby Tables is embodying the classical fear of SQL injections when building web applications.However, SQL injections are just one aspect of security we need to worry about when building web applications. With the recent popularity of Angular, React and other Single Page Application frameworks we got more logic executing on the front-end, create new problems, and make you forget about others.
 
 - title: Fontastic web performance
+  lang: en
   type: regular
   level:
   time: 2018-04-11
@@ -47,6 +50,7 @@
     Web fonts are awesome. They make your sans-serifs slabby, your headers special and your website look gorgeous. But fonts are a resource, and downloading resources always comes as a cost — if you don’t load web fonts efficiently, what you get instead are phantom underlines, blank pages, and user rage. Let’s talk about ways to avoid this, and what new platform features are here to help us deliver pretty (but also!) fast experiences to everyone.
 
 - title: A Guide to Instant Loading Angular Apps
+  lang: en
   type: regular
   level:
   time: 2018-04-11
@@ -63,6 +67,7 @@
     Minimizing first time to render is one of the bigger challenges in Angular. This talks covers several tips and tricks you can do to get those bundle sizes small and loading times to a minimum!
 
 - title: What the v...DOM?
+  lang: en
   type: regular
   level:
   time: 2018-04-11
@@ -79,6 +84,7 @@
     Everybody talks about the vDOM but who really knows how it works? How virtual is it in reality? And why does it work so well? This talk looks at Preact ( and others ) and brings some light into the topic.
 
 - title: The exciting future of React
+  lang: en
   type: regular
   level:
   time: 2018-04-11
@@ -95,6 +101,7 @@
     Aside from the fact that the core of React was completely rewritten, version 16 also comes with some powerful new features. We`ll see interesting and practical use-cases for error boundaries, portals, and fragments. Additionally, we`re gonna explore some experimental features like react-call-return and we`re going to see what does the future hold for React.
 
 - title: Teleport your application
+  lang: en
   type: regular
   level:
   time: 2018-04-11
@@ -111,6 +118,7 @@
     The talk will present Teleport, a new platform allowing developers to collaborate and to generate and maintain all their front-end codebase for React and React-Native.
 
 - title: Reasons to give React Native a(nother) try
+  lang: en
   type: regular
   level:
   time: 2018-04-11
@@ -127,6 +135,7 @@
     When a highly hyped new tool is released, many users end up disappointed that it doesn’t handle their use case easily or that it isn’t as polished as they expected. Others don’t bother because the documentation isn’t good enough and there aren’t enough learning resources. If the project survives, then over time developers will chip away at these problems, but it’s often hard to convince people to shake their initial impression. React Native is no different from other tools in this regard, so I want to present a few reasons why you might want to give React Native a(nother) try now, nearly three years since its initial release.
 
 - title: Advanced Redux - Design Patterns and Practices
+  lang: en
   type: regular
   level:
   time: 2018-04-11
@@ -143,6 +152,7 @@
     Redux is as a modern popular state management library in frontend today. But if you dig a little deeper, you will find out the Redux build on top of patterns and concepts that was introduced 20 years ago. During this session, we talk about design patterns from the world of micro services and messaging systems and see how to use those ideas in the context of modern single page app. You will never use Redux the same way again.
 
 - title: Meta Vue Framework
+  lang: en
   type: regular
   level:
   time: 2018-04-11
@@ -159,6 +169,7 @@
     An overview of Nuxt.js, the Meta Vue Framework that let you create blazing fast Vue.js application quickly.
 
 - title: Vue.js and Serverless
+  lang: en
   type: regular
   level:
   time: 2018-04-11
@@ -175,6 +186,7 @@
     Learn how to use Serverless functions to easily run small segments of code in the cloud with Azure.We'll learn how to integrate it with Vue and Nuxt to crop and store images on the fly, update geolocation data, and more - all without needing to maintain or scale a server.
 
 - title: A red LEGO brick is always red components on the web
+  lang: en
   type: regular
   level:
 
@@ -192,6 +204,7 @@
     This talk will explore the changes that have occurred in the front end space in the past few years and how we’ve aligned on the concepts of components being the key building block for frontend applications.We’ll discuss how thinking of a web application as a tree of components, rather than discrete pages, leads to a more testable, maintainable and reliable codebase. We’ll look at how we can build predictable components, encapsulating perfectly the triumvirate of HTML, CSS and JS that can be combined to build reusable components.Using React as our component library of choice, we’ll look at patterns that lead you down the path of reusability almost by default and how to walk the fine line between reusability and death by configuration.Then we’ll explore the final piece of the puzzle,CSS. CSS goes against everything the componentised world stands for but its global, cascading nature can be tamed. I’ll show different approaches to combining your CSS with your components in order to fully encapsulate a component into a lovely, reusable lego brick.
 
 - title: The Dream of Styleguide Driven Development
+  lang: en
   type: regular
   level:
   time: 2018-04-12
@@ -208,6 +221,7 @@
     You have heard of all types of driven development but react emerged a new type, styleguide driven development became a reality with components. This type of development focuses on Developer/Designer collaboration and on assertive components. With the use of React, CSS-in-JS, Flow and Snapshot testing we were able to almost remove style regressions. In this talk you get a glimpse of you can start styleguide driven development and how you can sell this dream to your project managers.
 
 - title: Getting the best out of web-based 2D graphics
+  lang: en
   type: regular
   level:
   time: 2018-04-12
@@ -222,6 +236,7 @@
   description: |-
 
 - title: Recursion, Iteration, and JavaScript A Love Story
+  lang: en
   type: regular
   level:
   time: 2018-04-12
@@ -238,6 +253,7 @@
     Recursion and iteration are two alternative paradigms for solving problems by breaking them down into smaller chunks; this talk is a deep dive into how these paradigms work, and how JS supports them both. There’s a fundamental tradeoff between the two: the stateful repetition of iteration is often more performant as it’s closer to the way our machines “think”, whereas many programmers find the self-referential abstraction of recursion easier to read & write. In JS prior to ES6, neither paradigm was especially easy to work with: iterative loops were laborious to read and write (not human-efficient), and recursion was limited by the fact that subsequent recursive calls to a function require additional frames added to the stack, potentially leading to stack overflow (not machine-efficient). Eventually, however, all three - recursion, iteration, and JS - were finally brought closer together. In this talk we’ll dive into the nature of the two paradigms, examine what an Iterable and a tail-recursive function are, and learn how Tail Call Optimization unites the two paradigms, allowing us to write code recursively and run it iteratively.
 
 - title: V8 internals for JS developers
+  lang: en
   type: regular
   level:
   time: 2018-04-12
@@ -254,6 +270,7 @@
     This presentation demonstrates how learning just a little bit about JavaScript engine internals can help you improve the run-time performance of your JavaScript code — not just in V8 specifically, but across all JavaScript engines!
 
 - title: How to make your LEDs better listeners
+  lang: en
   type: regular
   level:
   time: 2018-04-12
@@ -270,6 +287,7 @@
     Wooed by the possibility to put LEDs on ALL THE THINGS and control them with an app, I bought my first (and second and third...) arduino this year and haven’t looked back. But, as a IoT newbie, I defaulted to what I knew as a frontend developer. I applied the libraries I was familiar with from my daily work to solve my IoT problems with lackluster results. Things kind of worked, but the connections were flaky and it crashed a lot. It felt like there had to be something out there that was a better fit for communicating from the web to hardware. In my pursuit for a minimalist solution that could handle poor network connections and had implementations in C++ and JavaScript, I found the MQTT protocol.MQTT is a lightweight messaging architecture for sending data between hardware and other devices where a small code footprint and performance in poor network conditions are crucial. In this talk, we’ll look what exactly what MQTT is, how I use it in my own art/wearable project, and why you should check it out for your next hardware project.
 
 - title: Making The Terminal Great Again
+  lang: en
   type: regular
   level:
   time: 2018-04-12
@@ -286,6 +304,7 @@
     Whether it’s npm, webpack or yeoman generators, developers spend a great deal of their time on the CLI to run, debug and interact with programs. You already know React, and use it to render to the browser or to mobile apps. Now you can harness this knowledge of React and Node.js to build your next shiny terminal UI application.This is your chance to learn the great world of Node.js CLI applications and dive into hands-on coding of a fancy React console app. You will also discover some powerful and fun CLI tools and libraries that make up the ecosystem and can help you with your day to day developer activity.
 
 - title: Full-Config-Jacket
+  lang: en
   type: regular
   level:
   time: 2018-04-12
@@ -302,6 +321,7 @@
     Being a developer shouldn`t be hard. You should create a file and start developing. But if you`d want to develop like a hipster, it would mean tooling, a lot of tooling. The talk will focus on how maintainers should reduce the entry requirements to build modern applications with as little configuration as possible.
 
 - title: CodeSandbox
+  lang: en
   type: regular
   level:
   time: 2018-04-12
@@ -318,6 +338,7 @@
     CodeSandbox is an online editor built for web applications. During the talk I`ll explain how it works, and how we got where we are now.
 
 - title: Serving for the win - Deployments and hosting for the rest of us
+  lang: en
   type: regular
   level:
   time: 2018-04-12
@@ -335,6 +356,7 @@
 
 
 - title: Virtual reality for every developer!
+  lang: en
   type: regular
   level:
   time: 2018-04-12
@@ -351,6 +373,7 @@
     Since 2016 the VR technology has been a rising trend again, and many types of headsets are out in the market. Proprietary tools for creating VR apps have their requirements for ecosystems, controllers, installations etc. And the simplest of applications needs a lot of complex/boilerplate code to be written for setup. A-Frame is an open source web framework which enables creating VR experiences with simple HTML and little JS without much efforts. You learn how to use it to create fantastic VR applications which can even be multi-user/real-time and also get inspired from some usecases.
 
 - title: Package Quest, the journey of a package from the npm registry to your computer.
+  lang: en
   type: regular
   level:
   time: 2018-04-12

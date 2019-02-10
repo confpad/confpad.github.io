@@ -1,4 +1,5 @@
 - title: The First Minutes of Design
+  lang: en
   type: regular
   level:
   time: 2018-06-26 09:50:00
@@ -14,6 +15,7 @@
     How do you start from nothing but requirements into something tangible? In this session, Dan Mall will explore and expose the nuances of one of the most difficult parts of design, the beginning. Follow along as he shares tips, tricks, and principles he’s learned over his career for overcoming the tyranny of the blank page.
 
 - title: CSS (Variable) Secrets
+  lang: en
   type: regular
   level:
   time: 2018-06-26 10:40:00
@@ -30,6 +32,7 @@
     You may have heard about CSS Variables (aka CSS Custom Properties), but think it’s not something you can use yet. Plus, you already have your preprocessor pipeline in place, why should you care? This talk will show how CSS Variables are much more powerful than static preprocessor variables and can be used today without compromising progressive enhancement. You will also learn several creative tips and tricks to take full advantage of them. As is customary with Lea’s CSS talks, expect a swath of live demos to demonstrate the material.
 
 - title: Building an SVG Animation from Start to Finish
+  lang: en
   type: regular
   level:
   time: 2018-06-26 12:00:00
@@ -46,6 +49,7 @@
     In this talk, Sarah will start with only an Illustrator document and by the end, make it move! It's not clear what exactly will move and how- this is something she and the audience will discover together. The talk will be completely unique- the plan will not be set in stone. She'll live-code (warts and all) and you'll see her process as she'll animate an SVG in the time allotted. She'll optimize, work with styles, and create an animation with javascript, and even ask for audience participation at times to decide what happens next. Come watch for a one-time show!
 
 - title: Performance Audit (Live)
+  lang: en
   type: regular
   level:
   time: 2018-06-26 12:50:00
@@ -62,6 +66,7 @@
     Tim will be looking into a workflow for finding and dealing with performance bottlenecks and explore common performance problems appearing in websites and apps. We’ll dive deep into different tools, patterns and common strategies for faster and resilient experiences on both stable and fragile connections.
 
 - title: Applying Psychology And 13 Years Of UX To Get The Details Right And Leapfrog The Competition
+  lang: en
   type: regular
   level:
   time: 2018-06-26 15:10:00
@@ -78,6 +83,7 @@
     Mr Joe will take you on journey, showing how to take an average website and make it exceptional. Joe will talk through a framework for looking at the interactions you design everyday and making them as good as they can be. Then we’ll look at how to take your site to the next level 💥, redesigning the experience live based on psychology and UX theory
 
 - title: on You can sketch. (You might just not know it yet.)
+  lang: en
   type: regular
   level:
   time: 2018-06-26 16:00:00
@@ -94,6 +100,7 @@
     Sketching is a great tool for designers (well, actually for anyone who needs to think about complex problems and communicate with others) to have in their skill set. It’s fast, efficient and everybody can do it. Everybody? Yes, everybody… even you. In this hands-on session, Eva-Lotta will show you some basic techniques to start sketching your ideas. You'll get some hands-on practice on how to sketch simple pictures to inject into your everyday notes and work. She’ll show examples of how easy-to-do sketches can help make your thoughts clearer, your notes more structured and your communication more engaging. You are invited to sketch along, learn-by-doing right in the session and walk away with a neat little visual vocabulary that you can use straight away in meetings, workshops or your secret notebook. If you think you are rubbish at sketching and want to get a fun kick-start to getting into using pen and paper (again), this session will be just right for you.
 
 - title: Designing Across Cultures
+  lang: en
   type: regular
   level:
   time: 2018-06-26 17:20:00
@@ -110,6 +117,7 @@
     In this talk, Yiying Lu will share her 10 years of cross-cultural design practice for global brands such as Disney, Twitter, Wasabi Warriors and so on. She will tell the visual stories of the Twitter Fail Whale and the official Dumpling Emoji. She will also share her creative process on how she overcomes design challenges when working on bilingual creative projects such as the Shanghai Disney Recruitment Campaign, Australian-Chinese real estate brand Home789, and localize global brand 500 Startups for the Korean and Indian market, and so on. Join Yiying on a journey of exploring cross-cultural creativity through colorful logos, whimsical illustrations, symbolic typography designs with occasional puns & jokes.
 
 - title: Things That Don't Have A Thing To Do With Graphic Design
+  lang: en
   type: regular
   level:
   time: 2018-06-26 18:10:00
@@ -125,6 +133,7 @@
     As a graphic designer, I'm lucky to make things for all kinds of things. But more and more, I'm realizing the profound impact it has on the things in the rest of my life. Things in my backyard. Things that holds things. Things on the open road. Things in my bank account. Things for my nephew. Things for people I'll never meet. And things on one of the saddest days of my life. That's a lot of things. Plus, we'll update you on all the things we've been up to, aside from all these things. Tons of new things to talk about!
 
 - title: Third-Party Performance Auditing
+  lang: en
   type: regular
   level:
   time: 2018-06-27 09:40:00
@@ -142,6 +151,7 @@
 
 
 - title: From Icon Fonts To SVG; Workflow, Tools, Techniques And Everything In Between
+  lang: en
   type: regular
   level:
   time: 2018-06-27 10:30:00
@@ -157,6 +167,7 @@
     Many teams still find themselves struggling to make the switch from icon fonts to SVG. SVG icon systems seem more complex and require a different workflow. But even though some techniques do, there are many options available for creating and embedding SVG icons systems that I'm sure everyone — regardless of their workflow — will find one that works for them. For example, did you know there are 3 different ways to create and embed SVG sprites? In this talk based on some of the content from my very popular SVG Coffee Cup worksho, I'm going to cover all available SVG spriting techniques and embedding techniques, creating SVG icon systems using all 3 different techniques. You'll learn the pros and cons of each one, so you can make a better informed decision when choosing your way to SVG icon adoption.
 
 - title: Accessibility Audit (Live)
+  lang: en
   type: regular
   level:
   time: 2018-06-27 11:50:00
@@ -173,6 +184,7 @@
     In this “this-is-how-I-work” session, Marcy Sutton will conduct an accessibility audit on the fly. You’ll get a feel for how to detect and resolve accessibility issues and a strategic roadmap on things to keep in mind when improving accessibility. Marcy will also cover the tooling and the usual suspects and a few techniques to keep in mind for websites and single-page-applications.
 
 - title: Beyond Fonts, Elevating Lettering to Art
+  lang: en
   type: regular
   level:
   time: 2018-06-27 12:40:00
@@ -188,6 +200,7 @@
     Join Australian artist Gemma O’Brien for a step-by-step look at her process of creating lettering for large-scale murals. From collecting inspiration, sketching by hand, colouring on the iPad Pro, to painting the final piece, Gemma will share insights and tips on how she takes her designs off the page and into a physical space. With live demos in analogue and digital, this session is perfect for designers who want to escape the screen and try their hand at calligraphy, lettering, and painting.
 
 - title: Creating An Effective & Beautiful Data Visualization From Scratch
+  lang: en
   type: regular
   level:
   time: 2018-06-27 15:00:00
@@ -204,6 +217,7 @@
     The amount of data that is being gathered in the world is only growing. And since humans are visual beings we need to see the data to understand patterns, trends and outliers. It's no wonder then that we're only seeing a rise in the number of data visualizations used on the web these days. Thankfully for Nadieh, making data visual is one of the things she likes doing the most. And during this talk Nadieh will show you how to create a unique, effective (& even beautiful) chart using d3.js, which has become the main "tool" for doing (interactive) data visualization online. Starting from an empty white browser window she'll code & take you through all the nuts and bolts that go into creating a chart with d3, and how, with a little bit of out-of-the-box thinking you can use SVG in the weirdest ways to get what you had envisioned.
 
 - title: Pattern Library First, An Approach For Managing CSS
+  lang: en
   type: regular
   level:
   time: 2018-06-27 15:50:00
@@ -220,6 +234,7 @@
     Organising CSS in a project can be tricky, especially if you want to create fallbacks for newer CSS such as Grid Layout, fallbacks which can rely on your CSS being in a particular order to take advantage of the cascade. The solution is to develop a pattern library first, to create structured components which can then be compiled into a stylesheet before deployment. And, by making the Pattern Library your build environment — it remains the source of truth, never becoming separate from the CSS deployed on the site. In this talk, Rachel will be looking at some interesting Grid Layout tricks, in the context of a real-life pattern library built using Fractal. She’ll show you how I structure components, in order to create robust fallbacks for older browsers while fully taking advantage of things that would be impossible without Grid
 
 - title: JavaScript Graphics and Animation (live)
+  lang: en
   type: regular
   level:
   time: 2018-06-27 17:10:00

@@ -1,4 +1,5 @@
 - title: The Redux Journey
+  lang: en
   type: regular
   level:
   time: 2018-05-31
@@ -15,6 +16,7 @@
     A year ago, Dan introduced Redux as an experiment in making the Flux architecture support hot reloading and time travel. Since then, Redux eclipsed the classic Flux in popularity, found converts in React, Angular, and Meteor communities, and spawned a rich ecosystem of libraries and tools. In this talk, Dan reflects on the past, present, and future of Redux.
 
 - title: Native Navigation for Every Platform
+  lang: en
   type: regular
   level:
   time: 2018-05-31
@@ -31,6 +33,7 @@
     Navigation on native mobile apps can be very tricky. Unlike the browser, mobile apps have no built-in navigation system, and the navigation state is often deeply nested. Animations and gestures are critical for mobile apps, and are tricky to get right. To help the community address these concerns, I will introduce and demo our new navigation system for React Native, and show what innovations we can bring back to the web.
 
 - title: A cartoon guide to performance in React
+  lang: en
   type: regular
   level:
   time: 2018-05-31
@@ -47,6 +50,7 @@
     Everyone talks about how performant React is... but why? What makes people talk about how speedy React is? In this talk, you'll learn *why* people talk about React being fast, and what you can do to make it faster.
 
 - title: React Native <3 60FPS -- Improving React Native animations>
+  lang: en
   type: regular
   level:
   time: 2018-05-31
@@ -63,6 +67,7 @@
     Animations are one of the most important elements of modern, well-crafted mobile apps. Animation effects possible to achieve using native SDKs exceed by far the capabilities of mobile browsers, hence based on the quality of animations it is easy to tell the difference between truly native apps and ones that run in a webview. React Native provides several APIs for handling animations (layout animations, native navigator, Animated.js library). Some of them lets you directly leverage native SDK capabilities, others require round-trips over native-to-JS bridge. We will dive a little into implementation details of each of those methods to explain their limitations. I will also discuss native-animated-driver (the project I've been recently working on), and give some tips on how to make your React-Native app stay at 60FPS.
 
 - title: Being Successful at Open Source
+  lang: en
   type: regular
   level:
   time: 2018-05-31
@@ -79,6 +84,7 @@
     I've been directly involved in the open source process of many Facebook projects such as React, React Native, css-layout, mention-bot and Jest in the past 3 years. We've tried a lot of different things in order to grow a community around those projects and I want to take this opportunity to share what worked for us and can likely be applied to other projects.
 
 - title: GraphQL at Facebook
+  lang: en
   type: regular
   level:
   time: 2018-05-31
@@ -95,6 +101,7 @@
     Facebook has been using GraphQL in production for almost four years; today, it serves over 300 billion queries a day and its schema has nearly 10,000 types. In building this API, we’ve developed a set of best practices for designing an understandable and scalable GraphQL schema. Based on real examples in Facebook’s production GraphQL API, we'll discuss common GraphQL patterns, how they differ from other best practices, and their implications on server and client design.
 
 - title: A Deepdive Into Flow
+  lang: en
   type: regular
   level:
   time: 2018-05-31
@@ -111,6 +118,7 @@
     Many have heard about Flow and some are using it a lot already, but what is it that makes Flow so powerful? I'll dive deeper into Flow, how it works, and why we're using it at Facebook to improve the quality of our code at scale.
 
 - title: Debugging flux applications in production
+  lang: en
   type: regular
   level:
   time: 2018-05-31
@@ -127,6 +135,7 @@
     We have brilliant tools and highly efficient practices for developing and debugging flux applications. But it’s not that easy when it comes to deal with troubles in production, especially with bug reports like “nothing works”. The predictable states could help a lot, but user actions along with API calls are not that predictable.This talk will dive into how to firmly debug client-side state for web and native flux applications, how to reproduce the exact state despite of diverse factors, track the original cause and get fixes out to users. You’ll push development to the next level and improve user experience.
 
 - title: On the Spectrum of Abstraction
+  lang: en
   type: regular
   level:
   time: 2018-05-31
@@ -143,6 +152,7 @@
     JavaScript and the React community have evolved over the years through all the ups and downs. This talk goes over the tools we've come to recognize, from Angular, Ember and Grunt, all the way go Gulp, Webpack, React and beyond, and captures all these in a unifying mental framework for reasoning in terms of abstraction levels, in an attempt to make sense of what is and might be happening.
 
 - title: React Redux Analytics
+  lang: en
   type: regular
   level:
   time: 2018-05-31
@@ -159,6 +169,7 @@
     The Lean Startup advocates an iterative approach to finding the right product and market, with a constant cycle of building, measuring and learning. Lean Analytics is a new approach which dives deeper into the measurement component of this process. With Lean Analytics we can measure the state of the application and make informed decisions about the product and its vision based on end user interactions. Redux allows us to maintain our application state in a single store, and provides a single location for state changes. By hooking analytics into this event loop we can infer a lot about end user behaviour. Our Redux Segment middleware allows you to draw deep and rich analytics from your Redux application with minimal configuration. In this talk, we will walk through the process of adding analytics to your existing Redux application and share our implementation which works with segment.io.
 
 - title: Leveraging React and Redux to Make Your App Write Tests For You
+  lang: en
   type: lightning
   level:
   time: 2018-05-31
@@ -174,6 +185,7 @@
   description: |-
 
 - title: Redux and Web Workers on the Frontend
+  lang: en
   type: lightning
   level:
   time: 2018-05-31
@@ -193,6 +205,7 @@
   description: |-
 
 - title: Going from 0 to full-time software engineer in 6 months
+  lang: en
   type: lightning
   level:
   time: 2018-05-31
@@ -209,6 +222,7 @@
     How I did it and how you can do it too (at any age)
 
 - title: CSS in JS without Compromise
+  lang: en
   type: lightning
   level:
   time: 2018-05-31
@@ -224,6 +238,7 @@
   description: |-
 
 - title: Solving a tooling problem for react-native
+  lang: en
   type: lightning
   level:
   time: 2018-05-31
@@ -239,6 +254,7 @@
   description: |-
 
 - title: Evolving the Visual Programming Environment with React
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -255,6 +271,7 @@
     Tools shape our thinking. The "React Way" of thinking has already found many applications beyond building user interfaces. Particularly, React's functional, component-based design makes it an ideal candidate for building a better Visual Programming Environment. We'll examine how to overcome challenges such as lack of standardized APIs and limits of composition, and show how we can drastically improve the way humans create digital artifacts today.
 
 - title: React Native Retrospective
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -271,6 +288,7 @@
     Remember when React Native beta access was shared illicitly via flash drives behind closed doors? Since its first release in January 2015, React Native has experienced incredible growth and adoption. We'll discuss the evolution of React Native over the last year, looking at the maturation of the library as well as the ever-increasing community around it. From the release of Android support to the focus on better build systems and asset management, to the influx of interest from "traditional" mobile developers, there's a lot to take in. Understanding how we reached the present will help us see where we're going next. What problems remain to be solved? How will React Native continue to evolve and grow?
 
 - title: The Evolution of React UI Development
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -291,6 +309,7 @@
     Hot reloading makes for a great Developer Experience, but we can do even better. Using interactive style guides that show our components in a variety of different states we can test their look and feel in diverse situations.Collaborate with designers and marketers on testing them and pushing them to their limits. UI fuzz testing can help us discover combinations of props we haven't even thought of so we catch potential UI issues early on.In the future, we might be able to detect styling and layout issues. Integrating these checks into our Continuous Integration system means we could catch potential problems with our components before any user can see them.
 
 - title: Recomposing your React application
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -307,6 +326,7 @@
     Recompose is a functional utility library for React components. It provides a suite of higher-order components that encapsulate common React patterns. In this talk, I’ll describe the history and rationale of the library, and discuss strategies for building React apps for scalability and reuse.
 
 - title: JavaScript, React Native and Performance
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -323,6 +343,7 @@
     With React Native, some of your applications core functionalities, that would previously be written in native code, are now implemented in JavaScript. And that's great! Now you can use things like Hot Module Reloading and ship updates to your app whenever you want. But what about performance and User Experience? Is JavaScript fast enough to replace native code? I'm going to talk about some of the challenges we are working on at the React Native Performance team.
 
 - title: Falcor "One Model Everywhere"
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -339,6 +360,7 @@
     Imagine how easy building your web application would be if all of your data was available in-memory on the client. Falcor lets you to code that way.Falcor is the open-source, JS data access framework that powers Netflix. Falcor lets you represent all of your cloud data sources as one virtual JSON model on the server. On the client, Falcor makes it appear as if the entire JSON model is available locally and allows you to access data the same way you would from an in-memory JSON object. Falcor retrieves the model data you request from the cloud on-demand, transparently handling all the network communication and keeping the server and client in sync.
 
 - title: Building li.st for Android with Exponent and React Native
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -355,6 +377,7 @@
     li.st for Android is likely one of the largest pure React Native codebases around at this time. The only native modules that we use are generic and included in Exponent because they would apply to many other apps (social login, image picker, push notifications) -- otherwise it's JavaScript all the way down. The functionality that li.st provides covers a wide range of common patterns that you'll find in most apps, which is one of the reasons why we wanted to build it in the first place: to test the limits of Exponent and React Native with in real world scenarios. Living on the edge with both React Native and Exponent, you'd be right to guess that we ran into our fair share of problems. You're going to encounter most of these problems if you are building a big React Native app (possibly some for React DOM apps) in the next year and I'm here to let you know that you're not alone and arm you with some knowledge you'll want when building a large app.
 
 - title: GraphQL Future
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -375,6 +398,7 @@
     GraphQL was open sourced last year at ReactEurope. Since then, great progress has been made in the open-source ecosystem. Within Facebook, we've experimented with several ways to extend GraphQL beyond a simple request/response model to solve some common problems that product developers face. In this talk, we'll provide a brief review of the open-source work from the past year and then describe several of our internal experiments that will determine the future of GraphQL.
 
 - title: Building native mobile apps with GraphQL
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -391,6 +415,7 @@
     GraphQL was conceived almost four years ago to serve the needs of Facebook's iOS developers. Outside of Facebook however, non-JavaScript GraphQL clients haven't received as much attention. In this talk, I will explore the use of GraphQL to build native mobile apps. I will discuss some of the design decisions faced when developing a native GraphQL client, and illustrate these with examples from a Swift client. Among other things, I will show how to exploit code generation and the strongly typed nature of GraphQL to present a typed interface to query results.
 
 - title: Tools shape our thinking.
+  lang: en
   type: lightning
   level:
   time: 2018-06-01
@@ -407,6 +432,7 @@
     The "React Way" of thinking has already found many applications beyond building user interfaces. Particularly, React's functional, component-based design makes it an ideal candidate for building a better Visual Programming Environment. We'll examine how to overcome challenges such as lack of standardized APIs and limits of composition, and show how we can drastically improve the way humans create digital artifacts today.
 
 - title: Shallow Rendering All The Way Down
+  lang: en
   type: lightning
   level:
   time: 2018-06-01
@@ -422,6 +448,7 @@
   description: |-
 
 - title: 'Subdivide: User Defined UI by Phil Holden'
+  lang: en
   type: lightning
   level:
   time: 2018-06-01
@@ -437,6 +464,7 @@
   description: |-
 
 - title: 'Subdivide: Understanding Your Component Ecosystem'
+  lang: en
   type: lightning
   level:
   time: 2018-06-01
@@ -452,6 +480,7 @@
   description: |-
 
 - title: 'Subdivide: Cross-platform charting with React & React Native'
+  lang: en
   type: lightning
   level:
   time: 2018-06-01

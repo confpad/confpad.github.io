@@ -1,4 +1,5 @@
 - title: Javascript code formatting
+  lang: en
   type: regular
   level:
   time: 2017-03-28
@@ -16,6 +17,7 @@
     JavaScript developers are spending soooo much time formatting their code and even more in back and forth in code review fixing small nits. It turns out that machines are really good at doing this kind of tasks. Christopher will walk us through the technical and people challenges of bringing a JavaScript code formatter to reality.
 
 - title: Logux, a new approach to client-server communication
+  lang: en
   type: regular
   level:
   time: 2017-03-28
@@ -33,6 +35,7 @@
     Combining ideas from both Redux and CRDT, Logux is a new tool which replaces AJAX with real-time data in applications, synchronising action logs between the client and server while also providing an offline mode. This approach could significantly simplify application code and bring plug&play support for live updates and offline editing.
 
 - title: What's in a language?
+  lang: en
   type: regular
   level:
   time: 2017-03-28
@@ -50,6 +53,7 @@
     What's in a language? How can it help us express our intent better? Based on his last talk, Cheng will explore some concrete, daily patterns in our codebase that Reason elegantly solves through a few simple yet rich concepts.
 
 - title: Snapshot testing
+  lang: en
   type: lightning
   level:
   time: 2017-03-28
@@ -67,6 +71,7 @@
     Facebook introduced snapshot testing in Jest last year and it has already picked up a huge interest. Why is snapshot testing so popular? How and when should you use it? Can you use it even if you’re not using Jest? Anna will explain all this and more in only 10 minutes
 
 - title: Realtime Webpack - Pushing on-demand bundling to the limits
+  lang: en
   type: lightning
   level:
   time: 2017-03-28
@@ -84,6 +89,7 @@
     Bundling JavaScript nowadays is trivial. But what if you need to do it 10,000 times a day to thousands of users, with sourcemaps, served directly to the browser in under 2 seconds? Oliver will show us how they did this at Qubit.
 
 - title: Offline for the greater good
+  lang: en
   type: lightning
   level:
   time: 2017-03-28
@@ -101,6 +107,7 @@
     This year, half of world’s population will be connected to the internet; most of them in the developing world, on mobile, over poor network. For them offline support is not a luxury: it is basic accessibility. Jani will walk us through how to architect React Native and progressive React web apps for the offline era.
 
 - title: Next.js in production
+  lang: en
   type: lightning
   level:
   time: 2017-03-28
@@ -118,6 +125,7 @@
     ThisNext.js has generated a lot of hype in the short time that it’s been out (rightly so). It’s unveiling coincided with an initiative to rebuild Deliveroo's web application as a standalone app. Jasdeep will share his experiences using it so far, including some of the benefits & trade-offs.
 
 - title: The road to <💅> styled-components" CSS in component-based systems"
+  lang: en
   type: regular
   level:
   time: 2017-03-28
@@ -135,6 +143,7 @@
     There's been a revolution; welcome the Component Age! Now what about styles? Max sat down with Glen Maddern (CSS modules) to think about how styles fit into our post-revolution world. They took the best of CSS and the web to create a fantastic new way to style component-based systems.
 
 - title: A tiny Fiber renderer
+  lang: en
   type: regular
   level:
   time: 2017-03-28
@@ -152,6 +161,7 @@
     React is capable of rendering to more environments than the browser. React is really two separate pieces: core and renderers. ReactDOM, ReactNative, ReactVR are but a few renderers in existence. With the Fiber reconciler rewrite comes an official renderer API. Dustan will look at a number of renderers that already exist and implement a React renderer of his own!
 
 - title: Panel Discussion
+  lang: en
   type: regular
   level:
   time: 2017-03-28
@@ -180,6 +190,7 @@
     Panel discussion with Ben Alpert, Dan Abramov, Lee Byron and Christopher Chedeau led by Robbie McCorkell
 
 - title: Weapons grade React
+  lang: en
   type: regular
   level:
   time: 2017-03-28

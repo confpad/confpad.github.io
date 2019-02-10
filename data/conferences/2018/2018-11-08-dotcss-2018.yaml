@@ -1,4 +1,5 @@
 - title: Breaking the norm with creative CSS
+  lang: en
   type: regular
   level:
   time: 2018-11-08
@@ -16,6 +17,7 @@
     Feeling uninspired and tired of constantly building the same layouts? Let’s leverage the CSS superpowers you might have heard about before, but haven’t already used. Let’s explore new CSS features that give us a great set of tools and enable to do amazing things on the web! The future of web graphics and CSS as a design language is bright, and finally it will make us less dependent on the image editors. We’re entering the new era with in-browser designing. Don’t stay behind and get your creative juices flowing!
 
 - title: Make your website accessible for everyone
+  lang: en
   type: regular
   level:
   time: 2018-11-08
@@ -33,6 +35,7 @@
     Hugues shares five simple tips that can make or break a web experience for a lot of users: color contrast, resizable text, semantic HTML, focus states and keyboard interactions.
 
 - title: What CSS taught me
+  lang: en
   type: regular
   level:
   time: 2018-11-08
@@ -49,6 +52,7 @@
     Reflecting on 20 years building websites, Dan shares what CSS taught him. Often, it had little to do with CSS itself, but everything to do with making mistakes, teaching while you're still learning, and that everything we create on the web will eventually disappear. And that's ok.
 
 - title: Variable Fonts and the Future of Web Design
+  lang: en
   type: regular
   level:
   time: 2018-11-08
@@ -66,6 +70,7 @@
     The web is entering a new era of design opportunities with the introduction of CSS Grid, Photoshop like effects such as filters and blend modes and importantly the increasing support for Variable Fonts. Variable fonts can offer practical and creative opportunities for web design. We can combine them with pre-existing technologies to improve our font performance, design, accessibility and usability of our websites. We can also begin to explore new and exciting creative opportunities for story telling, design and expression in ways standard fonts could never provide us. This is just the beginning of our journey to discover what we can do with variable fonts.
 
 - title: Don't write HTML the way George Lucas wrote Star Wars
+  lang: en
   type: regular
   level:
   time: 2018-11-08
@@ -83,6 +88,7 @@
     Fabien focuses on one of the links between CSS and Accessibility. In the short term, whatever you want to do with CSS, your HTML should always be written in the exact order you want it to be read.
 
 - title: 'i18n: A Brief Primer of Web Internationalization'
+  lang: en
   type: regular
   level:
   time: 2018-11-08
@@ -100,6 +106,7 @@
     Elika ('fantasai') does a rapid review of internationalization and localization, the Web platform features that facilitate it, and how to use them.
 
 - title: CSS at the Intersection
+  lang: en
   type: regular
   level:
   time: 2018-11-08
@@ -117,6 +124,7 @@
     CSS exists at an intersection between mental models. How do we know? Because we keep hearing the same endless debate: "Is CSS broken or awesome?" Instead, we should work on building tools for collaboration - enabling teams to communicate by creating interfaces to accommodate different mental models.
 
 - title: Not your usual CSS counters
+  lang: en
   type: regular
   level:
   time: 2018-11-08
@@ -134,6 +142,7 @@
     Not a lot of people use CSS counters, especially for something which is not an ordered list, but as Roman explains, this unique set of properties can be very powerful if you'll know where to look.
 
 - title: Line breaking
+  lang: en
   type: regular
   level:
   time: 2018-11-08
@@ -151,6 +160,7 @@
     Florian goes over a set of confusingly named properties and values from the css-text-3 specification that control what happens to white spaces when laying out text, and how line breaking works. He explains the logic of the system, different ways the properties can be used to achieve various results, and looks into some of the complication caused by incomplete implementations.
 
 - title: Read color hex codes
+  lang: en
   type: regular
   level:
   time: 2018-11-08
@@ -168,6 +178,7 @@
     How does a colorblind designer work with color? Not with his eyes! Instead David relies on reading color hex codes. He shares his process into understanding those six-digit codes and related insights into human vision, computer history, and digital color.
 
 - title: 'SVG Filters: A Mini Crash Course'
+  lang: en
   type: regular
   level:
   time: 2018-11-08

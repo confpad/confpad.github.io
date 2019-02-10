@@ -1,4 +1,5 @@
 - title: I want you to contribute to open source
+  lang: en
   type: regular
   level:
   time: 2018-01-25 09:00:00
@@ -14,6 +15,7 @@
   description: |-
 
 - title: Folding Space and Time
+  lang: en
   type: regular
   level:
   time: 2018-01-25 09:45:00
@@ -33,6 +35,7 @@
   description: |-
 
 - title: Write Queries, Not Code
+  lang: en
   type: regular
   level:
   time: 2018-01-25 11:15:00
@@ -48,6 +51,7 @@
   description: |-
 
 - title: The Complete Yarn Workflow
+  lang: en
   type: regular
   level:
   time: 2018-01-25 12:00:00
@@ -63,6 +67,7 @@
   description: |-
 
 - title: Make backend devs jealous of your test suite
+  lang: en
   type: regular
   level:
   time: 2018-01-25 14:15:00
@@ -78,6 +83,7 @@
   description: |-
 
 - title: Make Linting Great Again
+  lang: en
   type: regular
   level:
   time: 2018-01-25 15:00:00
@@ -93,6 +99,7 @@
   description: |-
 
 - title: An agnostic components design system for React
+  lang: en
   type: regular
   level:
   time: 2018-01-25 16:15:00
@@ -108,6 +115,7 @@
   description: |-
 
 - title: Your brain doesn't have a fix flag
+  lang: en
   type: regular
   level:
   time: 2018-01-26 09:00:00
@@ -123,6 +131,7 @@
   description: |-
 
 - title: Extending Redux in the Server Side
+  lang: en
   type: regular
   level:
   time: 2018-01-26 09:45:00
@@ -138,6 +147,7 @@
   description: |-
 
 - title: What’s inside of TurboFan?
+  lang: en
   type: regular
   level:
   time: 2018-01-26 11:00:00
@@ -153,6 +163,7 @@
   description: |-
 
 - title: Go home (or skiing) early. The joy of transparent reactivity.
+  lang: en
   type: regular
   level:
   time: 2018-01-26 11:45:00
@@ -168,6 +179,7 @@
   description: |-
 
 - title: void* is the new var
+  lang: en
   type: regular
   level:
   time: 2018-01-26 14:00:00
@@ -183,6 +195,7 @@
   description: |-
 
 - title: React state management in a GraphQL era
+  lang: en
   type: regular
   level:
   time: 2018-01-26 14:45:00
@@ -198,6 +211,7 @@
   description: |-
 
 - title: Lightning Fast React Apps
+  lang: en
   type: regular
   level:
   time: 2018-01-26 16:00:00
@@ -213,6 +227,7 @@
   description: |-
 
 - title: Bot Of The United States
+  lang: en
   type: regular
   level:
   time: 2018-01-26 16:45:00

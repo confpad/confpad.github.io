@@ -1,4 +1,5 @@
 - title: Reinvent the social web
+  lang: en
   type: regular
   level:
   time: 2018-09-03
@@ -14,6 +15,7 @@
   description: |-
 
 - title: Open Gateway - Decentralized IoT
+  lang: en
   type: regular
   level:
   time: 2018-09-03
@@ -29,6 +31,7 @@
   description: |-
 
 - title: Build and deploy a Blockchain web-app with Hyperledger Fabric and Hyperledger Composer
+  lang: en
   type: regular
   level:
   time: 2018-09-03
@@ -45,6 +48,7 @@
   description: |-
 
 - title: 'A Game of Theories: Why languages do what they do '
+  lang: en
   type: regular
   level:
   time: 2018-09-03
@@ -60,6 +64,7 @@
   description: |-
 
 - title: The Future of ChatBots in the Travel Industry
+  lang: en
   type: regular
   level:
   time: 2018-09-03
@@ -75,6 +80,7 @@
   description: |-
 
 - title: Avoiding Digital Bias
+  lang: en
   type: regular
   level:
   time: 2018-09-03
@@ -90,6 +96,7 @@
   description: |-
 
 - title: Everything I always wanted to know about crypto, but never thought I'd understand
+  lang: en
   type: regular
   level:
   time: 2018-09-03
@@ -105,6 +112,7 @@
   description: |-
 
 - title: 'Onion adventures: how to use onion services and the Tor network in your web endeavors'
+  lang: en
   type: regular
   level:
   time: 2018-09-03
@@ -120,6 +128,7 @@
   description: |-
 
 - title: 'Observability for Emerging Infra: What Got You Here Won''t Get You There'
+  lang: en
   type: regular
   level:
   time: 2018-09-04
@@ -135,6 +144,7 @@
   description: |-
 
 - title: Do you need a Service Mesh?
+  lang: en
   type: regular
   level:
   time: 2018-09-04
@@ -150,6 +160,7 @@
   description: |-
 
 - title: HTTP and JSON for your gRPC Services
+  lang: en
   type: regular
   level:
   time: 2018-09-04
@@ -165,6 +176,7 @@
   description: |-
 
 - title: Software Engineering - A philosophical activity
+  lang: en
   type: regular
   level:
   time: 2018-09-04
@@ -180,6 +192,7 @@
   description: |-
 
 - title: Take a (Client) Hint!
+  lang: en
   type: regular
   level:
   time: 2018-09-04
@@ -195,6 +208,7 @@
   description: |-
 
 - title: Lost in transaction? Strategies to deal with (in-)consistency in distributed systems
+  lang: en
   type: regular
   level:
   time: 2018-09-04
@@ -210,6 +224,7 @@
   description: |-
 
 - title: Lightning talks - backend
+  lang: en
   type: lightning
   level:
   time: 2018-09-04
@@ -221,6 +236,7 @@
   description: |-
 
 - title: Cats, The Musical! Algorithmic Song Meow-ification
+  lang: en
   type: regular
   level:
   time: 2018-09-04
@@ -236,6 +252,7 @@
   description: |-
 
 - title: Building peer-to-peer apps with the Beaker Browser
+  lang: en
   type: regular
   level:
   time: 2018-09-06
@@ -251,6 +268,7 @@
   description: |-
 
 - title: To push, or not to push?! - The future of HTTP/2 server push
+  lang: en
   type: regular
   level:
   time: 2018-09-06
@@ -266,6 +284,7 @@
   description: |-
 
 - title: The Future of Front-End Performance
+  lang: en
   type: regular
   level:
   time: 2018-09-06
@@ -281,6 +300,7 @@
   description: |-
 
 - title: Native JavaScript modules- import {Browsers, NodeJs}; export {production};
+  lang: en
   type: regular
   level:
   time: 2018-09-06
@@ -296,6 +316,7 @@
   description: |-
 
 - title: Unity + HTML5 = Isomorphic Game Engine?
+  lang: en
   type: regular
   level:
   time: 2018-09-06
@@ -311,6 +332,7 @@
   description: |-
 
 - title: State of the Art Web User Interfaces with State Machines
+  lang: en
   type: regular
   level:
   time: 2018-09-06
@@ -326,6 +348,7 @@
   description: |-
 
 - title: A Front-end dev's hobbyist approach into Machine Learning
+  lang: en
   type: regular
   level:
   time: 2018-09-06
@@ -341,6 +364,7 @@
   description: |-
 
 - title: Building a Modern Memex
+  lang: en
   type: regular
   level:
   time: 2018-09-06
@@ -356,6 +380,7 @@
   description: |-
 
 - title: Accessibility vs latest Web APIs. Can’t we just get along?
+  lang: en
   type: regular
   level:
   time: 2018-09-07
@@ -371,6 +396,7 @@
   description: |-
 
 - title: The Web Authentication API - Imagine a World Without Passwords
+  lang: en
   type: regular
   level:
   time: 2018-09-07
@@ -386,6 +412,7 @@
   description: |-
 
 - title: 'Killing the checkout or: How I learned to stop worrying and love Payment Request'
+  lang: en
   type: regular
   level:
   time: 2018-09-07
@@ -401,6 +428,7 @@
   description: |-
 
 - title: A Real World PWA
+  lang: en
   type: regular
   level:
   time: 2018-09-07
@@ -416,6 +444,7 @@
   description: |-
 
 - title: Purifying Typescript
+  lang: en
   type: regular
   level:
   time: 2018-09-07
@@ -431,6 +460,7 @@
   description: |-
 
 - title: 'Dynamic CSS: Layouts & Beyond'
+  lang: en
   type: regular
   level:
   time: 2018-09-07
@@ -446,6 +476,7 @@
   description: |-
 
 - title: WebXR, if X = how?
+  lang: en
   type: regular
   level:
   time: 2018-09-07
@@ -465,6 +496,7 @@
   description: |-
 
 - title: Lightning talks - frontend
+  lang: en
   type: lightning
   level:
   time: 2018-09-07

@@ -1,4 +1,5 @@
 - title: "Announcing Flutter 1.0"
+  lang: en
   type: regular
   level:
   time: 2018-12-04
@@ -19,6 +20,7 @@
     Tim Sneath from the Flutter team explains the goals behind Flutter, how it was developed, and what it's capable of today. He also defines the four pillars of Flutter (beautiful, fast, productive, open) and how they are upheld by the SDK. 
 
 - title: "Flutter Design"
+  lang: en
   type: regular
   level:
   time: 2018-12-04
@@ -39,6 +41,7 @@
     Will Larche discusses Flutter's architecture, designed for building beautiful, custom UI. Learn more from Will about Flutter's expressive and flexible design as well as the evolution of Material Components for Flutter.
 
 - title: "Flutter Development"
+  lang: en
   type: regular
   level:
   time: 2018-12-04
@@ -63,6 +66,7 @@
     Hear from the Flutter team about what makes Flutter powerful, productive, and connected. Watch as they demonstrate Flutter's creative power and customizability in a live-coding session.
 
 - title: "One More Thing"
+  lang: en
   type: regular
   level:
   time: 2018-12-04

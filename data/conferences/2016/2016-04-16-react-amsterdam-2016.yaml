@@ -1,4 +1,5 @@
 - title: React Native Architecture Overview
+  lang: en
   type: regular
   level:
   time: 2016-04-16
@@ -16,6 +17,7 @@
     Software Engineer at Facebook who works on React Native performance. He will talk about React Native architecture and best practices to get all the benefits of using the platform.
 
 - title: Migrating Safely to React
+  lang: en
   type: regular
   level:
   time: 2016-04-16
@@ -33,6 +35,7 @@
     You love React. You want to rewrite your whole app in React right now. But you have millions of paying users, and maintaining a stable app is absolutely critical. How do you migrate now and optimise for future change?
 
 - title: Building Reactive GraphQL Apps With Apollo
+  lang: en
   type: regular
   level:
   time: 2016-04-16
@@ -50,6 +53,7 @@
     Martijn Walraven, Meteor, Amsterdam on Building Reactive GraphQL Apps With Apollo.In this talk, I’ll introduce our efforts to design a reactive system to automatically re-run GraphQL queries when the underlying data changes. You will see how to make the collaborative parts of your app update in real time with little extra code, how to integrate with a SQL database or REST API, and how this works in concert with GraphQL’s best features to simplify your app’s data management while being predictable and maintainable.
 
 - title: Mastering Server-rendered Apps
+  lang: en
   type: regular
   level:
   time: 2016-04-16
@@ -67,6 +71,7 @@
     Sven Anders Robbestad, Inmeta Consulting AS, Oslo on Mastering Server-rendered Apps,Creating a fully server-rendered app is perhaps the most intimidating challenge a React dev faces. This talk will show you how to wrap your mind around the React, Express, shared routing and data flow Redux and come out the other end with a fully realised server-rendered app.
 
 - title: Testing React Applications
+  lang: en
   type: regular
   level:
   time: 2016-04-16
@@ -84,6 +89,7 @@
     Jack Franklin, Pusher, London on Testing React Applications,We'll discuss the best tooling and approaches for building ReactJS applications in the NodeJS environment and in the browser using React TestUtils and other third party libraries that make it easy to test your components. We'll see how to build components in a way that makes them more maintainable, testable and easier to work with.
 
 - title: React For Game Development
+  lang: en
   type: regular
   level:
   time: 2016-04-16
@@ -101,6 +107,7 @@
     Johannes Stein, freelancer, Berlin on React For Game Development.Using React for game development may not seem like an obvious choice at first. With React itself being compared to the Doom 3 game engine at F8 2014, we may not find ourselves in such a bad spot. We will take a look at how games are usually structured. Then we will examine different concepts in game development such as the entity-component pattern, object pools, and how we can implement them in React. At the end, we'll put it all together into a React-powered game.
 
 - title: Javascript Style Sheets
+  lang: en
   type: regular
   level:
   time: 2016-04-16
@@ -118,6 +125,7 @@
     Oleg Slobodskoi, Chatgrape, Berlin on Javascript Style Sheets About the good parts of writing styles in javascript using JSS. Comparison to other existing CSS solutions and points about negative aspects got so far.
 
 - title: Introducing and Implementing React at Coolblue
+  lang: en
   type: regular
   level:
   time: 2016-04-16
@@ -135,6 +143,7 @@
     Paul van Dam, Coolblue, Rotterdam on Introducing and Implementing React at Coolblue,At Coolblue we want to keep our employees as happy as possible. That means handing them tools that are fast and easy to work with. Last year we started building new tooling using React. How did we come to this decision and how does it suit a fast growing, dynamic organisation? In this talk I will take you on a trip through the research and decision making that was part of coming to our current development stack.
 
 - title: Building Loveable UIs
+  lang: en
   type: regular
   level:
   time: 2016-04-16
@@ -152,6 +161,7 @@
     Henrique Alves, DADI+, London on Building Loveable UIs,Sharing my experience building loveable UIs. Talking about presentational components and pattern types for build scalable web apps in React.
 
 - title: State Management is Easy
+  lang: en
   type: regular
   level:
   time: 2016-04-16
@@ -169,6 +179,7 @@
     Michel Weststrate, Mendix, Rotterdam on State Management is Easy State is the heart of each application and there is no quicker way to create buggy, unmanageable applications then by producing inconsistent state. Hence many state management solutions try to restrict the ways in which you can modify state, for example by making state immutable. But this introduces new problems; data needs to be normalised, referential integrity can no longer be guaranteed and it becomes next to impossible to use powerful concepts like prototypes.At Mendix these restrictions where unacceptable and so MobX was born. MobX makes state management simple again by addressing the root issue: it makes it impossible to produce an inconsistent state. This makes state management simple and scalable again.
 
 - title: The React Native Playground
+  lang: en
   type: regular
   level:
   time: 2016-04-16
@@ -186,6 +197,7 @@
     Joshua Sierles, freelancer, Sevilla on The React Native Playground.The React Native Playground breaks down barriers to mobile development by making it easy to write React Native apps right in the browser, and test them across platforms and devices.
 
 - title: Solving a Tooling Problem For React Native
+  lang: en
   type: regular
   level:
   time: 2016-04-16

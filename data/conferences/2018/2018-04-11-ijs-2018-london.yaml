@@ -1,4 +1,5 @@
 - title: Why the fuss about serverless
+  lang: en
   type: regular
   level:
   time: 2018-04-11 09:00:00
@@ -16,6 +17,7 @@
     We live in a competitive world. That competition forces change. It has always forced change. Change is normal. The question is not whether our organisations will change, that’s a given, but can we see this change before it hits us, do we know where we’re heading or are we simply floating aimlessly being carried by a river? It certainly feels that way sometimes. To answer the question we need to understand our landscape, the economic forces at play, the context we operate within and our situational awareness of this. Can we navigate the waters, can we see a storm coming or are we being battered by rocks because we refuse to look?During this talk we will examine the level of situational awareness within business, why it matters and whether we can anticipate and exploit change before it hits us. We look into the changes that are occurring with the development of serverless, why now, what’s important to it, how it will change the way we do business and how this interacts with the API economy. There’s a lot of fuss about serverless and in this session will try to paint a clearer picture or at the very least a map of where it is going.
 
 - title: You don’t know MobX State Tree
+  lang: en
   type: regular
   level:
   time: 2018-04-11 10:00:00
@@ -33,6 +35,7 @@
     Mobx State Tree is a simple and powerful solution to manage your application state, based on MobX. You probably heard about it and maybe you tested it out with an “hello world” project, but... are you using it in production ? Do you know how it scales and how to test it? DAZN is a sports streaming company with millions of users around the world, and we just finished to rewrite entirely the Front End.At the core of our front end architecture we have MobX and MobX State Tree, and I’d like to share with you why we made this decision and how it made our lives easier.Reactive Architecture, Model Composition, Mutability and Immutability are just a small subset of all the features that I’m going to walk you through. Join me to find out why MobX State Tree could be your next best friend!
 
 - title: Angular architecture patterns starring NGRX
+  lang: en
   type: regular
   level:
   time: 2018-04-11 10:00:00
@@ -49,6 +52,7 @@
     It’s easy to just build an app with no real architecture in mind. For the most part, Angular as a framework ensures that you don’t drive off the road. However, as your application grows it becomes more and more apparent that you need to organise your code in a better way. The application state grows and suddenly it’s everywhere and you realise you don’t know anything about anything. This is where NGRX comes in to bring order to the chaos. NGRX ensure that your data flows in one direction and that you always know who did what to your state. Are you curious on what NGRX is and how to get started with its paradigms, libraries and tools? Then this session is for you.
 
 - title: 'Better Paranoid than Offline: OWASP Top Ten 2017'
+  lang: en
   type: regular
   level:
   time: 2018-04-11 10:00:00
@@ -65,6 +69,7 @@
     The Open Web Application Security Project (OWASP) is most famously known for its list of the top ten security risks for websites. After a long wait, the 2017 edition of the list has been released. There have been many changes to the previous editions, including new and refined threats against web applications and APIs alike. We’ll have a look at all entries on that list, what’s new, what has changed, and what security risks a modern web application will face. This applies to both regular web applications and APIs.
 
 - title: 'Asynchronicity: concurrency.'
+  lang: en
   type: regular
   level:
   time: 2018-04-11 11:15:00
@@ -81,6 +86,7 @@
     When starting to dabble with Javascript, the biggest challenge for most developers is understanding how to deal with asynchronous development. During this talk, we will cover some of the different ways to handle async programming like callbacks, promises, reactive streams and events. As we cover those, we will also plunge into some of the mechanics of the NodeJs engine, namely the event loop. Developers attending this talk will have a better understanding of asynchronous programming and will have a few new tools to their belt to tackle those issues as they come.
 
 - title: Redux and Redux-saga to manage states in a large React app
+  lang: en
   type: regular
   level:
   time: 2018-04-11 11:15:00
@@ -102,6 +108,7 @@
     Redux has created an enormous paradigm shift in web application development. This made redux a standard and best practice to handle data changes in an application.  In this session we will talk about- when and how we should use Redux in a react app. Then we will get familiar with redux core concepts with a real-world application (not in a todo app). Finally, we will discover accidentally that Redux is not very good at asynchronous side effects. This will make prince Redux cry. Then he made a short relationship with Redux-thunk that didn’t last very long. Finally, he will meet his soulmate Redux-Saga. Through a romantic adventure, we will explore redux-saga’s maintainable and testable approach to managing side effects, asynchronous calls (like an AJAX request). Most importantly we will unveil whether Redux and Saga’s relationship creates any side effects or handles them with care.  
 
 - title: 6 APPS ONE CODE WITH Ionic
+  lang: en
   type: regular
   level:
   time: 2018-04-11 11:15:00
@@ -117,6 +124,7 @@
     You and your team have this great Idea and you have your users using different devices and operating systems to access the same application. Some users are on the Web, some on Mobile some of their Desktop and you also have to worry about what operating system they are on and also have to consider how your application is presented on each device & operating system. What if there was a way to code your app without worrying too much about operating systems/devices/screen sizes and just focusing on getting your idea across to your users regardless. Join me on a journey where I show you how to use Angular, Ionic & the PWA standard to build apps for IOS, Android, Windows, Web, Mac & PC with the same code all using just HTML5.
 
 - title: Generating whole Angular Applications with the Angular CLI's and Schematics
+  lang: en
   type: regular
   level:
   time: 2018-04-11 12:15:00
@@ -133,6 +141,7 @@
     For scaffolding files, the Angular CLI leverages the code generator schematics. To customize its behavior, everyone can tweak the used templates and even create new ones. In this session, you will learn how Schematics work and how we can write npm-Packages that provide code generators. You will also see how to modify existing source files, e. g. in order to register a generated component with an existing module. At the end you know everything to automate repetitive coding tasks.
 
 - title: Micro Frontends
+  lang: en
   type: regular
   level:
   time: 2018-04-11 12:15:00
@@ -152,6 +161,7 @@
     Microservices have been a topic for years now. Traditional micro services architectures often choose the UI as it’s platform for integrating the services, which often results in small, decoupled backend services, but a tightly coupled, hard to maintain, monolithic frontend application.Micro frontends are the obvious solution to that problem: we take the learnings from the backend to the frontend. We will discuss different micro-frontend approaches, their up- and their downsides.
 
 - title: 'VueX: Vue.js applications at scale'
+  lang: en
   type: regular
   level:
   time: 2018-04-11 12:15:00
@@ -168,6 +178,7 @@
     VueX is bringing 2 important concepts to the Vue.js world, first of all provides an opinionated architecture to follow heavily based on Elm, Redux and/or Flux, secondly VueX guarantees a quick and easy way to manage the states in our Vue.js applications. During this talk, we are going to understand how to embrace this library for our projects
 
 - title: JavaScript's new 'old school' programming - Let's TypeScript !
+  lang: en
   type: regular
   level:
   time: 2018-04-11 12:15:00
@@ -184,6 +195,7 @@
     JavaScript has enjoyed it’s hipster level fan following for an exceptionally long time now. Over the years, this fanbase has only grown adding more and more functionality to JS with different frameworks. However, every now and then a little birdie tells us how a few of them tried this trending language called TypeScript and how they instantly fell in love with it. This talk will begin with understanding why and how TypeScript came into existence and later go through some basics of writing code in TypeScript. It will also answer a lot of questions about the various mechanics of the working of TypeScript. 
 
 - title: How to protect your API Infrastructure against cyber-attacks with Artificial Intelligence.
+  lang: en
   type: regular
   level:
   time: 2018-04-11 14:30:00
@@ -200,6 +212,7 @@
     With the massive usage of APIs, and the exposure of private and confidential data, companieshave become targets of sophisticated cyber-attacks including brute force login attacks, data theft,account takeover, and API DoS/DDoS attacks which require Artificial Intelligence for reliable detection.This presentation from Elastic Beam and Axway will explore how the integration of an ArtificialIntelligence engine with a strong API platform automatically detects and blocks new cyberattacks onAPIs.
 
 - title: Hitchhikers Guide to Growing Your Tech Skills.
+  lang: en
   type: regular
   level:
   time: 2018-04-11 15:00:00
@@ -217,6 +230,7 @@
     There are so many JavaScript libraries and frameworks available with new ones showing up almost daily, that WTF.js stopped being funny years ago. And that's just JavaScript. Myriad languages, tools, paradigms and patterns that developers swear by tempt and tease us. Even if you have already made the tough choices as to which ones to focus on, how can you incorporate the effort mastering them while still performing the work that your day job requires? How do you stay relevant and productive and continue to elevate your career? Don’t panic! It is possible. Still going strong after three decades of coding, Julie Lerman will share tips and tricks that she uses to continuously evolve her tech skills and keep on top of her game as a coder and a coach as well as one of the top authors on Pluralsight.
 
 - title: Make Node.js API's great with TypeScript
+  lang: en
   type: regular
   level:
   time: 2018-04-11 15:45:00
@@ -233,6 +247,7 @@
     NodeJs is getting more and more popular this days. It has gone through long and painful history of mistakes and learning. Being a great “window” for front-end developers to the “World of back-end” it has improved the overall tech knowledge of those engineers by giving them opportunity to write actual end to end products themselves using familiar approaches. But it is still JavaScript, and that makes most of back-end engineers nauseous, when they see it. With this article series akka suggestions, I would like to make NodeJS APIs look a bit better. As a superset of JavaScript, TypeScript brings proper inheritance principles as well as strong typings which can help as a lot.
 
 - title: An in-depth look at debugging RxJS code
+  lang: en
   type: regular
   level:
   time: 2018-04-11 15:45:00
@@ -249,6 +264,7 @@
     For Philips Hue we use RxJS to control millions of lightbulbs around the world. RxJS offered the right abstractions to allow us to focus on what our code needed to do, therefore less plumbing was needed on how to achieve this. This has reduced the amount of code being developed resulting in less bugs in our cloud infrastructure versus using traditional async methods like promises or callbacks.But using RxJS also has major pitfalls. The learning curve is steep and debugging is difficult. In this talk we will dive into the reasons why debugging RxJS code is complex and show many different options to tackle this problem.
 
 - title: Introduction to stdlib-js
+  lang: en
   type: regular
   level:
   time: 2018-04-11 15:45:00
@@ -264,6 +280,7 @@
     The core JavaScript language is lacking much of the functionality that other programming languages provide as part of their standard libraries. In this talk, Philipp Burckhardt will introduce stdlib, a collaborative effort that comes with >1500 functions built to address this gap. The functions range from basic utilities to complex statistical models to machine learning and numeric analysis. Usage of stdlib offers several benefits over currently available options from the npm ecosystem: high quality, rigorous, and robust implementations, consistent interfaces, an enterprise-friendly open-source license, extensive documentation, and complete unit-tests. More importantly, stdlib brings much needed functionality for scientific computing and machine learning to JavaScript and Node.js. Modern JavaScript engines bring unmatched performance benefits compared to traditional numeric computing languages such as Python and R, and Node.js Addons and WebAssembly allow building high-performance interfaces to native C/C+ code, thus creating a suitable platform for numeric computation.
 
 - title: Hop on the serverless adventure with NodeJS
+  lang: en
   type: regular
   level:
   time: 2018-04-11 15:45:00
@@ -281,6 +298,7 @@
     Serverless is the new black - I can deploy my application to the cloud without ever worrying about infrastructure. We all remember the days when we had to spend hours and hours configuring and ebugging web servers when all we wanted was to just code and test our app. Those days are long gone and it’s time for us to unlearn how to provision and manage infrastructure while focusing on building and scaling applications.
 
 - title: I Don't Care About Security (And Neither Should You)
+  lang: en
   type: regular
   level:
   time: 2018-04-11 15:45:00
@@ -297,6 +315,7 @@
     Remember when setting up an auth system was easy? Me neither. From the signup form, the login form, password reset form, and all the validation in between it can easily take weeks if not months to get something basic up and running. Then you have to deal with all the security considerations. No thanks. During this presentation, the attendees will be introduced to OpenID and OAuth.\_ They will learn how to leverage these technologies to create secure applications, but most importantly, they will learn why and how to delegate authorization and authentication so they can focus on their real work and forget about all that security stuff.
 
 - title: Sharing Code Between Web and Native Mobile Apps with Angular
+  lang: en
   type: regular
   level:
   time: 2018-04-11 17:15:00
@@ -313,6 +332,7 @@
     NativeScript has opened up a whole new world to Angular developers: the ability to share code directly between your web and native iOS/Android applications. Which is awesome! But, just because you can share code across multiple platforms, doesn’t mean that you necessarily should. In this talk we’ll first take a look at what NativeScript makes possible from a code sharing perspective. We’ll build a few Angular components and use them both in the browser and on mobile devices. Then we’ll take a step back and look at the same code from a pragmatic, maintenance-oriented perspective. Come for practical tips & tricks on sharing code across multiple development environments.
 
 - title: Streams, Streams, Streams
+  lang: en
   type: regular
   level:
   time: 2018-04-11 17:15:00
@@ -328,6 +348,7 @@
     In this session, I want to demystify the reactive streams providing all the knowledge necessary to embrace any library and not only Rx.JS as the most famous reactive library. Understanding the concepts behind the library will allow us to switch from a library to another one without any problem giving us the freedom to engage any reactive project
 
 - title: Service Workers & Cows — a love story
+  lang: en
   type: regular
   level:
   time: 2018-04-11 17:15:00
@@ -345,6 +366,7 @@
     (In deep-theatre-guy voice) In a world, where Internet speeds can reach up to 6 megabits per second and cows reign supreme, one developer stands alone to discover the simplest way to cache EVERYTHING! Join her on this epic journey fraught with lag and peril where she'll battle config files and caching external assets, all the while dealing with the conflict of freshness vs cache-first styles looming ominously over her every move!Will her love for cows be forever destroyed by slow network? Or will she embrace the challenge and overcome the lag with service worker power?! Find out, during “Service Workers & Cows — a love story”.
 
 - title: PouchDB – The perfect Offline-First Database for your Browser
+  lang: en
   type: regular
   level:
   time: 2018-04-11 18:15:00
@@ -361,6 +383,7 @@
     PouchDB is an open source JavaScript database, that runs in the browser. It comes with a pretty simple api, is lightweight and supports querying the data in both a MongoDB-way and using map reduce. It’s most outstanding feature might be that supports the CouchDB replication protocol, which allows you setup multi-master-replications between PouchDB in the browser and CouchDB on your servers. This session will give you an introduction into PouchDB, CouchDB and the constraints of architectures that you can build on these technologies.
 
 - title: 'Brain: The ultimate hack'
+  lang: en
   type: regular
   level:
   time: 2018-04-11 18:15:00
@@ -378,6 +401,7 @@
     What is the ultimate hack of our lives? What is the one thing that we strive to learn the most about? What is the thing that will truly unlock our potential? This talk is a demonstration of an open-source Brain-Computer Interface that is completely developed with JavaScript, from the ground up, using neural networks and signal processing. Armagan hits the stage with a wireless EEG headset, shows how to read signals from the brain in JavaScript using native C++ Node.js modules over USB, and the implementation in Electron. We go into the detail of how this is possible with current JavaScript technologies, Node.js, Electron and Vue. A little bit of signal processing, a little bit of neural networks, and a demo of code and action follows. The beginners will be in awe when they see what they can do with JavaScript, the advanced users will learn a new field of application. The goal is to underline that JavaScript is not only for websites but is actually the coolest thing ever.
 
 - title: Boost Your Mobile Apps’ Emotional Intelligence with Machine Learning and NativeScript
+  lang: en
   type: regular
   level:
   time: 2018-04-11 18:15:00
@@ -395,6 +419,7 @@
     Do you ever wake up in a cold sweat, thinking that your mobile apps are both boring and stupid? When this happens, you start to question yourself, asking why your apps aren’t more empathetic, why they don’t respond better to your users’ needs. Even if you have built a performant app with a great UI, you can improve it by leveraging new methods of adding machine learning to your apps to create a really useful and enticing mobile app experience. In this talk, you’ll learn some basics of machine learning and how to integrate it into your mobile app, first with some clever APIs, and then with custom trained models using TensorFlow. Come learn how to send your apps back to school and level up their innate ‘intelligence’!
 
 - title: Be the best You - One developers journey to fight the Imposter Syndrome
+  lang: en
   type: regular
   level:
   time: 2018-04-11 09:00:00
@@ -412,6 +437,7 @@
     Our job is hard. We build things that does everything from makepeoples lives simpler, to changing the world and also let’s face to make someone else rich. Regardless of which, there are a lot of things we need to care about to hammer out the best possible solution:Architecture, patterns, 3rd party vendors, frameworks, tools, libraries. Did someone say users?Sometimes we lay awake at night wondering if we can save another CPU cycle or wether we tested everything. Then, if we are “lucky enough” to work on the frontend, we have to say goodbye to one framework a week, by 6 months everything we know is almost guaranteed to be obsolete.We spend our career in a hamster wheel of continuous learning and retraining while someone throws tasks or bugs at us. It’s easy to feel stressed out, even though we might love our craft. In all that chaos we need to find our inner voice, what we feel passionate about, what makes us bring our A-game.There are different ways to become awesome, different ways to keep your sanity. Let’s explore what those are and hopefully you will feel inspired enough to look forward to that morning commute.
 
 - title: Learning Machine Learning
+  lang: en
   type: regular
   level:
   time: 2018-04-11 10:00:00
@@ -429,6 +455,7 @@
     From chatbots to your home thermostat, it seems like machine learning algorithms are everywhere nowadays. How about understanding how this works now? In this talk, you will learn about the basics of machine learning through various basic examples, without the need for a PhD or deep knowledge of assembly. At the end of this talk, you will know what the Naive Bayes classifiers, sentiment analysis and basic genetic algorithms are and how they work. You will also see how to create your own implementations in Javascript.
 
 - title: Managing asynchrony of the web with TypeScript
+  lang: en
   type: regular
   level:
   time: 2018-04-11 10:00:00
@@ -444,6 +471,7 @@
     The web is asynchronous by design, and it has to be. But, there is a slight problem that asynchronous programming has a slight tendency to make people’s heads explode. And people really don’t like when their heads explode. To get out of the pickle, we need to handle the asynchrony somehow. This talk will explore the reasons for the design of the web, and will try to offer some solutions, from the worst possible to the current state of the art.
 
 - title: Production Hardened Services
+  lang: en
   type: regular
   level:
   time: 2018-04-11 10:00:00
@@ -460,6 +488,7 @@
     By now I bet your company has hundreds, maybe thousands of services, heck you might even consider some of them micro is stature! And while many organizations have plowed headlong down this particular architectural path, your spidey sense might be tingling…how do we keep this ecosystem healthy? In this talk, I will go beyond the buzzwords into the nitty gritty of actually succeeding with a service based architecture. We will cover the principles and practices that will make sure your systems are stable and resilient while allowing you to get a decent night’s sleep!
 
 - title: A New DevOps Model for Achieving Market Agility
+  lang: en
   type: regular
   level:
   time: 2018-04-11 10:00:00
@@ -476,6 +505,7 @@
     Achieving organisational agility has become one of the most needed, hence desired, goal of most enterprises operating in the digital landscape. There has been a significant growth in the take up of agile approaches specifically in the software industry and beyond. Among these are XP, Scrum, Kanban, Lean, SAFe, LESS and more. DevOps has been one of the latest agile approaches, focusing mainly on collaboration between development and operations through developing technical capabilities for continuous deployment & service delivery. A recent research, carried out by the speaker, suggests sixkey themes to a DevOps approach. These are as follows: Cultural change; Continuous integration, delivery & deployment; Tooling & cloud automation; Accepting DevOps as part of the business strategy; Problems solved together; Everyone benefits from DevOps. Based on these themes, the purpose of this talk is to explain why DevOps is seen as a cultural change rather than a pure technological change. This allows me to propose a new DevOps model building on the existing principles of promoting collaboration and transparency between teams through a set of technological practices, such as common tooling andautomation, continuous integration and deployment to support end-to- end fast delivery of value. The new framework named ‘CALMSLI DevOps Model’, based on the already existing CALMS model (by Edwards and Humble), will be explained with the aim of offering a strategic framework underpinned by seven dimensions; cultural, automation, lean, measurement, sharing, and learning – by small or larger organisations for achieving agility through DevOps.
 
 - title: Unleash the Power of Angular Reactive Forms
+  lang: en
   type: regular
   level:
   time: 2018-04-11 11:30:00
@@ -491,6 +521,7 @@
     The Reactive Forms module is powerful. During this session we will live code a complex form from scratch, going through all the main features: validation, reactive state tracking, dynamic
 
 - title: GraphQL - where did all my endpoints go?
+  lang: en
   type: regular
   level:
   time: 2018-04-11 11:30:00
@@ -506,6 +537,7 @@
     GraphQL is new and exciting query language from Facebook. It’s a new way to query data from multiple resources that puts the consumer of the API in charge. Using it you will have happier Developers, less memory consumption and less orchestration. Come learn how this will revolutionise API development as you know it.
 
 - title: Building a Front end Pipeline
+  lang: en
   type: regular
   level:
   time: 2018-04-11 11:30:00
@@ -522,6 +554,7 @@
     Back in the day, it used to be so simple. Our projects had a main.js file that contained a few hundred lines and every so often the corporate communication department would ship out some new CSS files. But now things are not quite so easy. With more and more single page apps containing thousands or hundreds of thousands of lines of JavaScript, we’re going to need a bigger boat. In this talk I will explore various options you can deploy on your projects to tame the mass of code that lives on the front end of our applications. From NPM to Gulp to Webpack, this talk will help you establish a front end pipeline.
 
 - title: Node.js Add-ons for High Performance Numeric Computing
+  lang: en
   type: regular
   level:
   time: 2018-04-11 12:30:00
@@ -538,6 +571,7 @@
     Node.js add-ons allow native code written in C and C++ to be run from the Node.js JavaScript runtime. In this talk, Athan will discuss how to utilize native add-ons for high performance numeric computing and machine learning in server-side applications. He will first provide an overview of add-ons and their associated toolchain. Next, he will provide a step-by-step example which involves compiling basic linear algebra subroutines (BLAS), a suite of libraries which are part of the core foundation of most modern numeric computing environments, as native add-ons. While Node.js add-ons are oriented toward C and C++, he will show how to extend compilation support to Fortran libraries in order to maximize computational performance. Throughout this talk, Athan will offer lessons learned, tips and tricks, and other insights gained while writing add-ons to help you maximize Node.js for your server-side applications and to demonstrate why Node.js is an excellent environment for high performance numeric computing and machine learning.
 
 - title: 'Stencil: The Time for Vanilla Web Components has arrived'
+  lang: en
   type: regular
   level:
   time: 2018-04-11 12:30:00
@@ -554,6 +588,7 @@
     Web development changed dramatically during the last years. With the enormous amount of JavaScript libraries and the new HTML5 standard, it is much easier to create web apps today. When building a web app, you will probably want to reuse some of the web components you built. But how can you do that with the current state of HTML? One of the new and emerging web standards is Web Components. The Web Components standard enables you to create reusable web components that include HTML, CSS and JavaScript. On the other hand, crafting raw components can be cumbersome. This is where Stencil comes into place. In this session you will become familiar with Stencil, a compiler that generates standard-compliant Web Components.
 
 - title: Angular with Maps? It’s Maptastic!
+  lang: en
   type: regular
   level:
   time: 2018-04-11 12:30:00
@@ -571,6 +606,7 @@
     More and more web applications using Angular today need a kind of map, either to just display their location, or visualize their data. These data can be from points/locations of services/places/etc, or a user input, to more complex visuals like heatmaps or paths. These visualizations can easily be achieved with the Google Maps JS API. However, the integration with Angular and the use of its tools is not always straightforward. In this presentation I will show examples of how to integrate Google Maps easily into your Angular application without the use of any external libraries. Part of the presentation will also show some techniques for visualising spatial data on these maps.
 
 - title: Looking At The API Life Cycle Through The Lens Of A Municipal Transit System
+  lang: en
   type: regular
   level:
   time: 2018-04-11 14:45:00
@@ -586,6 +622,7 @@
     As we move beyond a world of using just a handful of internal and external APIs, to a reality where we operate thousands of microservices, and depend on hundreds of 3rd party APIs, modern API infrastructure begins to look as complex as a municipal transit system. Realizing that API operations is anything but a linear life cycle, let’s begin to consider that all APIs are in transit, evolving from design to deprecation, while still also existing to move our value bits and bytes from one place to another. I would like to share with you a look at how API operations can be mapped using an API Transit map, and explored, managed, and understood through the lens of a modern, Internet enabled "transit system".
 
 - title: 'Functional Programming: What? Why? ... and How?'
+  lang: en
   type: regular
   level:
   time: 2018-04-11 16:00:00
@@ -602,6 +639,7 @@
     Functional programming might seem to be a lonely kid that trying to get attention or one of the million buzzwords that front end community has. However, when I started exploring functional programming, it shifted my mindset completely. Now i believe functional programming is the best way to to make your code extensive, testable and perform better. The goal of this talk is to provide a beginners guide to write functional programming. A set of popular tools, techniques and frameworks with real world example will be presented.
 
 - title: 'Routing into the Sunset: Advanced Routing with Angular'
+  lang: en
   type: regular
   level:
   time: 2018-04-11 16:00:00
@@ -617,6 +655,7 @@
     A router is the linchpin of nearly every modern single page application. Angular comes with a new solution for this. It is offering some very interesting advanced concepts such as Child-Routes, Auxiliary Routes, Guards, Resolver and Events as well as Lazy Loading. Using an example, you will discover in this session what lies behind it all and how you can benefit from this innovative router implementation in your projects.
 
 - title: Build Your Own Redux!
+  lang: en
   type: regular
   level:
   time: 2018-04-11 16:00:00
@@ -632,6 +671,7 @@
     Redux is a popular state management library that rules the modern frontend those days. Through this session, we will reveal the magic behind this tiny yet powerful library by coding it from scratch! If you want to understand what’s going on inside your store, let me show you the way.
 
 - title: Automatic Progressive Web Apps using Angular Service Worker
+  lang: en
   type: regular
   level:
   time: 2018-04-11 17:00:00
@@ -648,6 +688,7 @@
     Progressive Web Apps are the next big thing for the web. They combine the advantages of two platforms: searchability and shareability of the web with capabilities and performance of native mobile. As a result, web developers can use their favourite tools to build installable, re-engageable, connectivity independent apps, that can bring native-like performance and user experience.  The Angular Service Worker makes it easy to get started building PWA. It’s developed to automate main routines and provide us with some nice tools to control the progressive app behaviour. During this practical session, we'll have a look at NGSW’s main components, and how they take our web app to the next level. With just some simple updates we’ll get installable, offline-capable, mobile-network-friendly Angular app re-engaging users by push-notifications.
 
 - title: Reduxing your React
+  lang: en
   type: regular
   level:
   time: 2018-04-11 17:00:00
@@ -664,6 +705,7 @@
     React makes it painless to create interactive UIs. Redux provides a state container for JavaScript applications that will help your applications behave consistently. Redux is useful for React applications, but React is not a requirement! In this talk, we will learn the basics of React and Redux, so that you can start using it to simplify your applications.
 
 - title: Building Reusable JavaScript Web Components
+  lang: en
   type: regular
   level:
   time: 2018-04-11 09:00:00
@@ -679,6 +721,7 @@
     Web development changed dramatically during the last years. Today, more than ever, when you are building your front-end you will probably want to reuse components across your application. But HTML elements are very limited, so what can we do? In this full day workshop, we will deep dive into ways you can componentize your front-end. We will start by presenting the new HTML5 Web Components standard. Later on, we will explore delve into Stencil compiler, which can help you to build web components faster and with ease. At the end of the day we will see how to work with different data flow patterns to make components interaction.
 
 - title: The JavaScript & Node.js Data Science Survival Kit
+  lang: en
   type: regular
   level:
   time: 2018-04-11 09:00:00
@@ -698,6 +741,7 @@
     The field of data science can appear intractable and overwhelming, often leaving newcomers at a loss for knowing where to begin. However, once you learn basic principles and workflows, you will see many opportunities where these techniques can help you in your projects. You can better understand your users, embed a recommendation engine into your application, or easily ship dashboards including statistical summaries and stunning visualizations. The rise of Node.js and Electron are powering a new era where JavaScript continues to expand beyond the browser and becomes a critical component of server and desktop applications. With JavaScript being everywhere, one of the emerging next frontiers for JavaScript world domination is data science. In this workshop, Athan Reines and Philipp Burckhardt will demonstrate how to utilize the JavaScript open-source library stdlib for various data science tasks. Through a series of brief exercises, attendees will get a hands-on introduction, ranging from machine learning to exploratory data analysis and visualization. After completing this workshop, attendees will have a solid understanding of what kind of problems they can approach by which techniques. The speakers will close by outlining future steps for data science in JavaScript and identify opportunities for community development of next-generation tools.
 
 - title: Progressive Web Apps using the Angular Service Worker
+  lang: en
   type: regular
   level:
   time: 2018-04-11 09:00:00
@@ -713,6 +757,7 @@
     The term Progressive Web App (PWA) refers to a group of technologies, such as service workers and push notifications, that can bring native-like performance and user experience to web apps. PWAs are interesting because in some ways they represent a coming of age for the web. The Angular Service Worker makes it easy to build snappy web apps that load instantly on any device, even without an internet connection. Take advantage of the searchability, shareability, and no-install-required-ability of the web without compromise. During this 100 % hands-on session we’ll have a look on recent tools and guides from the Angular team to help us build Progressive Web Apps. We’ll have a look at Angular CLI and plugins/libraries for App Shell, Service Worker, and Application Manifest supporting us in fast and easy creation of installable, offline-capable, mobile-network-friendly apps.  Course overview: Introduction to PWA and Workshop Setup; introduction to Angular Service Worker; create an installable mobile web app with Angular CLI; make the App Installable with Web App Manifest; App Shell Architecture; add an app shell component to the App; deep dive into Service Workers; add basic offline capabilities with Service Worker; adding Splash Screen; sending Push Notifications; questions and answers.
 
 - title: 'Angular: Architectures and Building-Blocks for modern Applications'
+  lang: en
   type: regular
   level:
   time: 2018-04-11 09:00:00
@@ -728,6 +773,7 @@
     Angular, Google’s popular application framework for modern web-based solutions, brings component orientation, static type checking, and a breath-taking performance. By leveraging the single-page application architecture as well as modern web standards, it makes the creation of ambitious and enterprise-scale applications very easy. This workshop shows the possibilities of Angular and introduces it with an example application. It shows all its building blocks and discusses architectural decisions one has to deal with when building maintainable enterprise applications.
 
 - title: Real world Angular & Redux with NGRX
+  lang: en
   type: regular
   level:
   time: 2018-04-11 09:00:00

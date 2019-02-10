@@ -1,4 +1,5 @@
 - title: The Dark Art of Bundlers
+  lang: en
   type: regular
   level:
   time: 2017-07-10
@@ -16,6 +17,7 @@
     The Dark Art of Bundlers by Mike Grabowski of Callstack.io
 
 - title: Experimenting with a Paypal Checkout SDK using React Native
+  lang: en
   type: regular
   level:
   time: 2017-07-10
@@ -32,6 +34,7 @@
     This talk is a technical deep-dive of how we use react-native as a means to deliver Checkout experience in our open sourced Paypal SDK. It will also layout how react-native has given us the power to steer without merchants having to reintegrate and republish with every incremental SDK release.Talk DescriptionWhy ?Pay with Paypal’ is an option many of us use while shopping online . While Paypal has a solid web experience, we are still experimenting a good solve for the mobile ecosystem. Since we aim for stellar experiences we will need to iterate and learn quickly by A/B testing. But at the same time we need to be mindful of not having to force our merchants to continuously upgrade Paypal SDKs and publish updates on the app store. After some research/ investigation into options, we decided to build our SDK using react-native.How ?The SDK will be a native shell which will place a react-native root view into the Merchants View Controller that is initializing the Paypal SDK. This root view acts as a seed to initialize Paypal experiences. Whenever the react root view is initialized, we will pull down a checkout react-native bundle from the cloud which will host the payment experience within. When the SDK detects that a Paypal payment is initiated, the react-native layer is informed and it hosts the appropriate experience to complete the Payment (either opens a SFVC with the right mobile optimized web experience or natively put up a Paypal Pay sheet modal). Once the Payment is complete we close out the react-native hosted experience and the native shell places the merchant app in the right state, post payment. By this, we could sandbox and control the Paypal payment experience we host within the react-native layer, without interfering with the merchant app’s workflow. And the Paypal SDK integration will be a one-time easy process for the merchants !NotesStatus of the Mobile Paypal Checkout SDKThis is an ongoing R & D project and we have our initial open sourced SDKs here. The plan is to iterate on experiences independent of our merchants on-boarding process to integrate into the SDKs. We are actively working with merchants to onboard them onto this.
 
 - title: React Native + ES.next = ♥︎
+  lang: en
   type: regular
   level:
   time: 2017-07-10
@@ -49,6 +52,7 @@
     This talk  Discover how to leverage the new JavaScript language features and apply them to our React Native project.JavaScript is evolving quickly. The ES6 specification was released back in 2015 and has been implemented by modern browsers. New versions of ECMAScript will now be released on a yearly basis. We can leverage ES6 and functionality slated for future versions right now to write even clearer and more concise React code.Experience with React will help you get the most out of this session, but you don’t have to have a JavaScript black belt to leave feeling confident in using ES.next with React. Learn how to write cleaner code using the new spread operator, classes, modules, destructuring, and other tasty syntactic sugar features being introduced into ECMAScript. Oh, and don’t worry if you don’t understand all of those terms — you soon will after this session!The goal of this talk is to walk React / React Native developers who aren’t familiar with new ECMAScript through some of its cool new features (including proposed new ones). But it’s more than just learning ES6+. It’s about how we can apply it (as well as future versions of ECMAScript) with React to write clearer and more succinct code. We’ll start off with React’s previous official tutorial that is 100% ES5 and slowly transform it using various ES6 and proposed future ECMAScript features that are transpiled via Babel. I developed a Github repo that is a step-by-step example of how to leverage ES6+/ES2015+ in React by rewriting (an adapted version of) the official React tutorial.ECMAScript 2015 is JavaScript. React added support for native ES6 classes over a year ago (with v0.13), but there is still lots of developers still writing in ES5. Many coding examples and StackOverflow answers are given in ES6 so it’s important for us in the React community to level up. Outline.
 
 - title: Javascript Futurism
+  lang: en
   type: regular
   level:
   time: 2017-07-10
@@ -66,6 +70,7 @@
     Abstract: Working consistently across multiple platforms with different file types in React Native can be challenging. In this talk, I will discuss and implement working with and opening a multitude of different file types consistently on both iOS and Android.
 
 - title: Accepting Mobile Payments with React Native
+  lang: en
   type: regular
   level:
   time: 2017-07-10
@@ -83,6 +88,7 @@
     In this talk, we’ll dive into the mobile payments landscape and explore the various ways that we can accept payments in our React Native applications. We’ll then focus in on mobile wallets and see how we can leverage them to eliminate the payment form and reduce friction in our checkouts. Finally, we’ll learn how we can do all this while sharing our payment code across platforms.
 
 - title: Gestures here. Gestures there. Gestures everywhere!
+  lang: en
   type: regular
   level:
   time: 2017-07-10
@@ -103,6 +109,7 @@
     This talk digs into building rich touch interactions with React Native. There’s a deeper level than Touchable* components and PanResponders. Kyle and Thomas will uncover it, and show off its full potential!Touchable* components and PanResponder add the magic of touch to your React Native app. They are great for building basic interactions, but to build more complex ones, we need a deeper understanding of how gestures work in React Native. This talk peels back the layers of React Native’s gesture system, from higher level abstractions like Touchable*, to PanResponder, and finally to the thing powering it all: the Responder system. We’ll go through some of the more simple gestures, then showcase the full potential with custom ones, including bubbling and capture from multiple components. And with our demo app, the audience will be able to interact along with us. When attendees leave our session, they’ll feel empowered, not intimidated, by the many configuration options in (Pan)Responder. Equipped with a deeper understanding of gestures in React Native, they’ll be able to build immersive, rich touch interactions for their apps.Kyle Poole and Thomas Bruketta will co-present this talk. This dynamic duo has been crafting React Native applications at Instrument (here in Portland) over the last year for global clients. Both developers are contributors to the React Native open source community and Kyle Poole has created a collection of React Native primitives called Constelation that are a part of our team’s daily workflow .
 
 - title: Rewriting a Large Hybrid App with React Native
+  lang: en
   type: regular
   level:
   time: 2017-07-10
@@ -120,6 +127,7 @@
     In this talk we’ll share Gudog’s experience on rewriting our large Ionic / Cordova hybrid mobile app with React Native (using Ignite, redux, redux-saga & normalizr). Talk Description Gudog is a p2p marketplace that connect dog owners and dog sitters in Europe. Our product is nearly as complex as other p2p marketplaces such as Airbnb in terms of features and numbers of screens.Our first mobile app was built in 2015 with Ionic (Angular.js based framework for building hybrid Cordova / Phonegap apps). This year we decided to rewrite it from scratch using React Native. We’ll share the reasons why we made some decisions regarding our new app and how we have layout our new architecture.As newcomers to RN as we were, one of the problems we face was the lack of RN / Redux examples for complex apps, i.e. more than 5 or 10 screens. We hope that by sharing our experience we can help others overcome this. Notes I still have to detail a little bit more the outline of the talk. Any feedback from you guys on what could be interesting for the audience would be appreciated! PS: keep rockin’ Ignite v2! Additional Information If selected to speak and you have already purchased tickets, you will be reimbursed for your ticket via the ticket medium. If you are not selected to speak, you will be provided with a special code, which can be used to acquire your tickets at the early bird price. Please do not identify your gender/race/creed etc in this anonymous process. Identifying your technical experience and public speaking prowess is fine.
 
 - title: Why we Need an App Browser
+  lang: en
   type: regular
   level:
   time: 2017-07-10
@@ -136,6 +144,7 @@
     In this talk I will explore how using React Native with Robotics makes prototyping a breeze and enables mobile control of almost anything.
 
 - title: Breaking Down React Native Bridging
+  lang: en
   type: regular
   level:
   time: 2017-07-10
@@ -153,6 +162,7 @@
     Crossing the bridge between native and JavaScript code can seem daunting, but it doesn’t have to be! This talk will simplify the process of bridging native modules & components by breaking down common patterns found in bridging implementations for iOS & Android.Whether you’re integrating a brownfield native application, an existing native component, or a third-party SDK into your React Native project, you will eventually have to cross the bridge between native code and JavaScript. This process can definitely be intimidating, especially if you’re coming from a JavaScript background. In my talk, I will demystify the bridging process by exposing common patterns and best practices for bridging native components and modules. To simplify bridging concepts, I will show you how to use react-native-create-bridge, a CLI that auto-generates native module & component templates in Obj-C, Swift, and Java. You’ll also learn how to communicate between native modules and JS code by properly utilizing eventDispatcher (iOS) and DeviceEventEmitter (Android). By the end of this talk, you’ll leave feeling confident enough in the fundamental concepts of bridging to build a native component or module and use it in your React Native app.
 
 - title: From RPC to GraphQL"APIs from Past to Present"
+  lang: en
   type: regular
   level:
   time: 2017-07-10
@@ -169,6 +179,7 @@
     The Evolution of API Design by Eric Baer of Formidable Labs
 
 - title: From Zero to DevOps
+  lang: en
   type: regular
   level:
   time: 2017-07-10
@@ -185,6 +196,7 @@
     React Native brought the web’s enviable development patterns to mobile, without needing to sacrifice native UI. Code Push for React Native brings web like release agility to mobile apps by enabling developers to update apps instantly. This talk will cover the next iteration of Code Push and how it fits into a complete suite of DevOps services built for called Mobile Center, built for React Native. We will look at the end to end workflow - from a single commit on github triggering continuous builds and tests, to the final, signed app distributed to testers, clients or end users. From monitoring services like JavaScript enabled crashes to understanding user behavior with analytics, we will look at ways to get better mobile apps to your users. We will look at the internals of Mobile Center to use with your existing toolchain, other services that are planned as a part of the suite, and integration with popular community tools and services.
 
 - title: React as a Platform"A path towards a truly cross-platform UI"
+  lang: en
   type: regular
   level:
   time: 2017-07-10
@@ -201,6 +213,7 @@
     React provides an abstraction between the description of a UI and the details of how it's rendered on a given platform. The problem is that `div` and `span` are a hidden dependency on `react-dom`, and similarly, React Native's `View` is an explicit dependency on Native, making both not quite as "cross-platform" as we want them to be. Learn how we as a community can get around these issues, and what we can unlock by doing so.
 
 - title: Building Serverless Backends with AWS Lambda for React Native Apps
+  lang: en
   type: regular
   level:
   time: 2017-07-11
@@ -217,6 +230,7 @@
     This talk will explore a Serverless Architecture and how it can can aid any React Native developer in building scalable backends for their applications. Our provider of choice will be Amazon’s AWS ecosystem and AWS Lambda, DynamoDB, Cognito and API Gateway will be among the resources covered.This talk will explore using the Amazon AWS ecosystem of technologies from React Native Apps. We’ll explore the characteristics of a Serverless Architecture and how it can can aid any React Native developer in building scalable backends for their applications. Our focus will shift to building a Lambda to provide the responses to data needed from an example React Native application.The orchestration of this will be done via the Serverless Framework written to ease the burdens of managing the lifecycle of a serverless architecture. The example we will talk through will focus on delivering a AWS Lambda, but we will discuss how using a framework such as this for abstraction and orchestration can allow for deploying Alexa Skills, mobile and IoT services serverless architectures.Finally we’ll have a look at interacting with AWS Lambda, DynamoDB, S3 and SNS using Amazon’s AWS SDK for React Native (currently in Developer Preview) https://github.com/awslabs/aws-sdk-re... Attendees will walk away from the talk with knowledge of how a React Native application can interact with a few basic services written and deployed on AWS Lambda via the Serverless Framework. The data for the services will be retrieving from DynamoDB tables which will be also be orchestrated via the framework. We will also talk briefly about authentication in React Native with AWS Cognito and how it can be setup as an auth solution for storing and accessing user data in Cognito attributes as well as data stored in DynamoDB and S3. Notes The focus will be on delivering the data via an AWS Lambda written in Node.js using the Serverless framework for automation and accessing from React Native. Additional service interaction as mentioned above will be added for demo purposes. AWS Lambda’s are containerized functions run to perform compute and then destroyed. They are used to deliver the data for a users’ request directly from the AWS Lambda or via AWS API Gateway.
 
 - title: When to Go Native Over Javascript
+  lang: en
   type: regular
   level:
   time: 2017-07-11
@@ -233,6 +247,7 @@
     React Native is great for writing cross platform apps. Certain use-cases, however, still require native code. Together we will look at how to evaluate when native code is the better choice. I’ll cover strategies for dealing with performance issues and how to handle background tasks like geolocation. Talk Description The promise of writing an app in Javascript for iOS and having it “just work” out of the box on Android is a tempting one. That along with hot reloading and the ability to push over the air updates to published apps make React Native a tempting proposition, especially for web developers who are unfamiliar with native development and want to leverage their knowledge of React. However certain use-cases still require native code. Together we will take a look at some of these exceptions and how to evaluate when native code is the better choice out of necessity or performance concerns. This talk will be from the perspective of an experienced iOS developer who has been working with React Native and has shipped several cross platform apps with native components. Things I will talk about: Overview of how React Native works Overview of iOS/Android application states and how that effects your apps design App use-cases that require native code Example app with native code that uses geolocation in the background (code available on github) How to use native tools to profile your app (with example app, available on github) Strategies for dealing with performance issues Cooking demo where I port a Javascript component to Native and show differences in performance (code available on github)
 
 - title: Building Stellar User Experiences with React Native
+  lang: en
   type: regular
   level:
   time: 2017-07-11
@@ -250,6 +265,7 @@
     As React Native developers we take so much pride in how fast it takes us to build something functional on mobile. However, the development speed is only half of the story. In this talk Alex, a former React Native team member, will share his insight about building amazing user experiences, and how attention to little design details can fundamentally change the quality of your app.
 
 - title: From Idea to App Store"A Guide to Shipping React Native Apps"
+  lang: en
   type: regular
   level:
   time: 2017-07-11
@@ -267,6 +283,7 @@
     Talk Abstract We’ll walk through everything involved in taking an app from initial concept all the way to submitting an iOS and Android app to the App Stores. Talk Description There is a lot to consider when developing a new React Native application, and even more to think about in order to ship it. This talk will focus on distilling all of those requirements into actionable, easy to follow steps that you can use to deliver your next app. We’ll do this by examining an app crafted specifically for this talk, which you can use throughout the conference! Notes First and foremost, here’s what will make this talk great: I want to create an app specifically for Chain React Conf that allows users to take photos of anything and everything going on. To make this even better, I would like to partner with a designer at Infinite Red to provide 1-3 photo frames to choose when taking a photo that has the conference branding. The current plan is to have the app leverage Firebase via Firestack to allow for real-time updates. Due to how the app would be used, this talk is best suited for early in the conference lineup to get people using it. If we really want to take things up a notch, we can create a page for the conference web site that shows all of the photos in real time without much additional effort.
 
 - title: React Native Sand Paper
+  lang: en
   type: regular
   level:
   time: 2017-07-11
@@ -283,6 +300,7 @@
     An analysis of the roughest areas of developing apps with React Native from my point of view. I deal with developers building greenfield apps every day. I see everything from total beginners working on a side project to agencies, large companies, and startups building apps for their clients and their own businesses. React Native has come so far, but we have much more work to do. As a community we really need to step up our game if we want our bet in React Native to pay off in the long-run.
 
 - title: React Native on the Apple TV Platform
+  lang: en
   type: regular
   level:
   time: 2017-07-11
@@ -299,6 +317,7 @@
     React Native on the Apple TV Platform by Doug Lowder of Salesforce
 
 - title: Realtime Event Processing, Streaming and Subscription for React Native Using Cloud Services
+  lang: en
   type: regular
   level:
   time: 2017-07-11
@@ -315,6 +334,7 @@
     Realtime Event Processing, Streaming and Subscription for React Native Using Cloud Services by Richard Threlkeld of Amazon AWS.
 
 - title: React Native Panel With Various Speakers
+  lang: en
   type: regular
   level:
   time: 2017-07-11

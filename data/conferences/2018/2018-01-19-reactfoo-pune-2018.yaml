@@ -1,4 +1,5 @@
 - title: Why we built a 35kB React Native alternative?
+  lang: en
   type: regular
   level: beginner
   time: 2018-01-20
@@ -16,6 +17,7 @@
     Crisp talk on comparative advantages of React and React Native; success and failure stories with React.
 
 - title: React the Reasonable Way
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20
@@ -31,6 +33,7 @@
     Whether you’re new to React, or experienced with it, writing complex applications using ReasonReact / ReasonML leads to maintainable, eminently readable code. This talk will gently introduce you to the language and framework, and hopefully inspire you to start your next React app using Reason!
 
 - title: Fullstack React Native
+  lang: en
   type: regular
   level: beginner
   time: 2018-01-20
@@ -48,6 +51,7 @@
     If you are a React Native developer, you build native mobile applications using JavaScript and React. However, you are dependent on a backend which you will definitely need to handle tasks such as push-notifications, authentication, chats etc. Given that you know JavaScript, you can easily learn to write a backend server and achieve all the aforementioned tasks. Also, you can deploy them very easily using Docker and Kubernetes. This talk is about setting up a custom API, deploying it and integrating it with a React Native application. We will go over writing a simple nodeJS server with functionalities like push notifications, web sockets etc and integrate it with a React Native Application. Finally, we will talk about an efficient way to deploy this server.
 
 - title: Why React is not suitable for building rich-text editors?
+  lang: en
   type: regular
   level: beginner
   time: 2018-01-20
@@ -64,6 +68,7 @@
     In this talk, we will be discussing about why React might not be a good idea to build rich text editors. We will also look in Substance.io (a JS library for building web based editors). The takeaway from the talk is to learn about “What goes into”, and the “How to” for build web-based content editors.
 
 - title: PWA with React
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20
@@ -81,6 +86,7 @@
     Progressive Web Apps (PWAs) are spreading across the web faster than anyone could have predicted. Combining the best of both the web and apps, PWAs load quickly (even on flaky networks), can re-engage with users by sending push notifications, have an icon on the home screen, and load as top-level, full screen experiences. In this talk, I’ll explain how to build one with React from installation to caching strategy, implementing push notifications, handling updates along with useful resources. I’ll also explain how to get the best of Lighthouse in the process.
 
 - title: How React shaped Haptik’s frontend story
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20
@@ -98,6 +104,7 @@
     At Haptik, we use React extensively. In fact, 5 out of our 5 heavy lifting customer facing Apps are written in React. But this was not the case always, we had to try a whole lot different technologies to fail and then move to React 2.5 years back only to succeed. React has, in fact, made our frontend journey very simple. This talk will revolve around how React has helped a startup to build and ship great bug-free and good looking products. How React eased our process to get started, our learnings to build extensible products and things we did wrong (and learned from). We wish to give back to the same React community who has helped us grow extensively in our journey.
 
 - title: Setting up React project for your team
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20
@@ -113,6 +120,7 @@
     React being a library and not a framework offers us with a lot of choice to create our of own ecosystem. This gives us a lot of power to pick and choose the best libraries that suits our need. But for most of us, it is also a lot of hardwork to create the ecosystem from scratch. In fact, with increasing number of options to choose from for router, state management, type safety, etc., sometimes it gets more and more confusing for us. This workshop is to get you started to create your React project with best practices and most used industry recommended libraries.
 
 - title: Re-writing redux application with GraphQL & Apollo
+  lang: en
   type: regular
   level: advanced
   time: 2018-01-20
@@ -128,6 +136,7 @@
     Redux is a very good state management library for building large applications. But we noticed that we were writing lot of custom logic for complex functionality like caching, pagination, live editing, real-time updates from server. We implemented abstractions to reduce verbosity of redux code. But, new developers were finding it hard to understand these abstractions. We explored GraphQL and Apollo and found that it could solve lot of our problems. We were able to leverage functionality of GraphQL and Apollo to implement features like caching and real-time updates and get rid lot of custom logic. After moving network state to Apollo, very small amount of application state is remaining in redux. We leveraged local state management feature of apollo 2 and removed redux dependency completely from app.
 
 - title: Redux Deep Dive
+  lang: en
   type: regular
   level: advanced
   time: 2018-01-20
@@ -145,6 +154,7 @@
     Extract the most out of your Redux Store. 20 to 30 min.
 
 - title: Staying Sane While Styling Components
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20
@@ -160,6 +170,7 @@
     When I’m wearing a front developer’s hat, I worry about three things. How do I code the visual design attributes, so that it will be consistent and re-usable across projects (if possible across teams)? How to code different layouts — both component and page level layouts — which can be replicated. How to code the different states and variants of a component? How to make article look different when the device is offline? How to make the a primary button different from secondary? Again, these different variants should be accessible through props of the component. I’ll walk you through how we code design in React. These tips are agnostic to styling frameworks, inline styles, CSS-in-JS, or SCSS.
 
 - title: Preact is Dope
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20
@@ -176,6 +187,7 @@
     Some of you might have heard about preact and may have even played around with it. Let’s dig a little deeper and explore the factors that make preact awesome. We will look at the advantages of preact over react, how easy it is to get up and running a project using preact-cli.
 
 - title: The history of CSS and it's future in React
+  lang: en
   type: regular
   level: beginner
   time: 2018-01-20
@@ -192,6 +204,7 @@
     Our community has a way of talking about practices/solutions as competitors but all new solutions are inspired from the work done by people before them. CSS-in-JS is one such approach which gets binary reactions, you either love it or hate it. Let’s take a journey through the 20 year rich life of CSS and look at how practices for building interfaces have built upon each other and how does CSS-in-JS come along the way.
 
 - title: A Reasonable way to React
+  lang: en
   type: regular
   level: beginner
   time: 2018-01-20
@@ -207,6 +220,7 @@
     There’s a lot of hype (and a lot of puns) about Reason - but why is that, and what does it have to do with our beloved React? Is this something for hipster types only, or will we all be using it in a year’s time? All great questions! Join me in surfing the hype wave for the answers and more!
 
 - title: Advanced React Component Patterns
+  lang: en
   type: regular
   level: advanced
   time: 2018-01-20
@@ -224,6 +238,7 @@
     React on it’s own has a very small API surface. Most of the magic happens in user-land. It feels like every month, someone from the community finds an innovative way of writing components. This is the best part about React, the creative community. Our team obsessed over code quality and maintainability but we didn’t always know the right way as we’re all learning together. I’m going to be honest, this stresses me out. I have a constant fear of missing out on the cleanest/prettiest/smartest way of writing React components. So, I sat and learnt all of them, so that you don’t have to.
 
 - title: Learn React the right way
+  lang: en
   type: regular
   level: beginner
   time: 2018-01-20
@@ -239,6 +254,7 @@
     It’s easy to get lost without proper guidance and path to follow. On the surface, React may look like just a view library, but there is big ecosystem that revolves around it. This workshop starts with understanding the basic internals of React before exploring how to “think in React”, best practices and solutions to real problems that you will experience while building an application.
 
 - title: Designing with React
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20
@@ -254,6 +270,7 @@
     Most of us work with designers and other developers on a daily basis. It isn’t always easy to maintain quality and consistency across teams or even features. Collaboration isn’t always easy with spec handovers, component states, achieving pixel perfection, etc. Design systems have become really popular in the design world in the past couple of years and for good reason. React’s methodology of thinking in components along with recent tools like react-sketchapp make it feasible for designers and developers to work on a single system.
 
 - title: Styleguide Driven Development
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20
@@ -270,6 +287,7 @@
     All of us have heard about different kinds of driven development. With React, emerged a new one - styleguide driven development(SDD). A lot of people don’t get it, some would like to adopt it, and there are very few who work this way. Why? You know about it’s importance and technical implementation details. But where to start from? From this talk you’ll get to know how awesome React development can be with the SDD and how to start with it.
 
 - title: React shared libraries and module systems
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20
@@ -287,6 +305,7 @@
     So my day job is to design and architect projects at my workplace and soon I realized that there were many common UI elements required across projects and I always end up copy-pasting those elements to newer as well as existing projects over and over again. This was tearing me down me and I know everyone has gone through this phase in one or the other way. So, I decided to extract the common elements which were used across the projects and compose an npm package out of it, and I have figured out all the steps and measures that can help you to do it in a proper way.
 
 - title: Building Performant Instant Github Repo Search With React Native
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20
@@ -302,6 +321,7 @@
     Together let’s look what goes inside building a real world React Native application by dissecting a Instant Github search application (https://github.com/BilalBudhani/react-native-github-algolia-search) I built to get a deeper understanding of the framework & UI implementation.
 
 - title: Let's Sync the Async- A Primer on Redux Sagas
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20
@@ -319,6 +339,7 @@
     Have you ever come across a situation where you want to pause function execution for some time, for example, when you’re waiting for an API response and based on it you want to perform different some action? Or you’re waiting for your database sync to finish? If it sounds relatable, you probably handled such cases using Promises/Redux-thunk, etc. but this talk will provide a cleaner solution for dealing with such async tasks, using Redux Sagas. Redux Sagas take advantage of an ES6 feature called Generators to make such asynchronous flows easy to read, write and test. This talk will focus on exploring Generator functions, and see how can we take advantage of it to deal with async operations and make our lives simpler.
 
 - title: Building custom renderers with React
+  lang: en
   type: regular
   level: advanced
   time: 2018-01-20
@@ -337,6 +358,7 @@
     React has enabled us to write complex UIs with a great declarative API. Under the hood, React’s reconciler optimizes by diffing the old and new tree, usually known as virtual DOM diffing. The latest version of React uses a Fiber architecture to implement the reconciler. The reconciler backs custom renderers like React DOM and React Native to target various platforms. In this talk we’ll implement a custom renderer with react-reconciler. We’ll also take a brief look at various custom renderers in the wild to have an idea of what can be acheived.
 
 - title: Idiot-proof coding with Typescript and React
+  lang: en
   type: regular
   level: beginner
   time: 2018-01-20
@@ -352,6 +374,7 @@
     Typescript has been gaining a lot of traction in the last couple of years as seen from the Stackoverflow Developer survey 2017, Angular 2 embracing Typescript and integrating it closely with the ecosystem etc. This talk is about 1. Typescript and why use it. 2. Who are using typescript and what does the JS community have to say about it. 3. React-Redux-webpack stack with Typescript 4. Linting with TSLINT and integration with VSCode 5. Auto completion, refactoring and navigation with typescript. 6. Breif introduction to typescript in server side (NodeJs) for full stack development. 7. Typescript best practices
 
 - title: Rethinking with React 16
+  lang: en
   type: regular
   level: beginner
   time: 2018-01-20
@@ -368,6 +391,7 @@
     React v16.0 comes with some major changes and an update to the react core algorithm. With React v16.0 Facebook has completely revised the internals of React while keeping the public API essentially the same. I would be discussing about what’s new in React 16 which would include a brief explantion of the new algorithm along with focus on few of the new features like Error Boundaries, Portals, Fragments and SSR with React 16. The key takeaways for the audience would be a detailed understanding of how these new React 16 features can help us deliever a better web application and how can we rethink our existing application in React 16 and achieve better web performance with little to no change at all.
 
 - title: An Angular developer moving to React
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20
@@ -385,6 +409,7 @@
     I worked as an Angular developer for 3 years from version 1.x to 4. Then I had to shift to React in my new company. This is a story about what I had to learn and (more importantly) unlearn while switching gear from Angular to React.
 
 - title: Deep Dive into React Portals
+  lang: en
   type: regular
   level: beginner
   time: 2018-01-20
@@ -402,6 +427,7 @@
     React Portal is a new feature of React 16. Although it’s quite a handy way to show Modals and toast message, there are concerns around if it’s really a good practice to use portals and jump your code out of the Component heirarchy. We will explore how using React Portals will actually make you a better programmer.
 
 - title: Beyond Redux and MobX - A Functional approach to building React Apps
+  lang: en
   type: regular
   level: advanced
   time: 2018-01-20
@@ -417,6 +443,7 @@
     This talk presents a functional approach to state management using Andrew Clark’s Recompose toolset.
 
 - title: Maximize value of your Components by "Stencil"ing them!
+  lang: en
   type: regular
   level: beginner
   time: 2018-01-20
@@ -433,6 +460,7 @@
     We live in a JS world where Angular, React and Vue camps ferociously pitch their framework’s superiority.. But at the core, they all are component based frameworks. Currently - components written for one cannot be used within other framework and hence effort spent on creating the component for one framework will need to be repeated for other frameworks again. Web-components is the solution for this problem but the in it’s default state web components are too verbose. StencilJS uses typescript and also uses familiar constructs from React, Angular and Vue world like props(), Component decorators etc and makes its far easy to write cross-framework components. Thus, you maximize the value of your components by making them compatible in all the popular MVC frameworks!
 
 - title: Load, Plug and Play Video Streaming and React
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20
@@ -449,6 +477,7 @@
     Single Page Apps were quite a revolution with the introduction of frameworks like Ember, Backbone and Angular JS. Flash also is outdated having already outlived its lifetime.HTML5 video has become the de-facto standard for streaming on the web. And modern browser API’s facilitate development of efficient video streaming solution that offer content rights protection and host of integrations. JS Frameworks have come a long way with frameworks like React, Vue which allow for “universal” rendering and “virtual DOM” abstraction. Developing a product should offer developers the joy of development while also ensuring that the user experience is the best. This talk offers insight into leveraging technology for providing improved user experience and also improved coding satisfaction.
 
 - title: Migrating from PHP legacy code to React & Best Practices in React
+  lang: en
   type: regular
   level: beginner
   time: 2018-01-20
@@ -466,6 +495,7 @@
     The talk would focus on how BookMyShow benefitted moving to React. It not only helped us moving from the legacy php code but also drastically increased conversions in 4 weeks.This would also focus on what challenges we faced while moving for php to react. What made us build a PWA even when we had apps. Moreover the success stories after we moved to React.
 
 - title: Moving your React-Native App to Production
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20
@@ -481,6 +511,7 @@
     Alrighty! So, you have learnt React-Native and built an App and you are looking to launch it to market. What are the key things to do before production? How do you decipher Crashlytics logs? What analytics should I build into my App? What are the common Code-push know-hows and practices.
 
 - title: Dark Art of Webpack Bundle Tuning
+  lang: en
   type: regular
   level: intermediate
   time: 2018-01-20

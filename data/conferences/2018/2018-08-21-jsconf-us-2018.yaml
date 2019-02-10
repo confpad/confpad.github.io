@@ -1,4 +1,5 @@
 - title: 'LEARNING THROUGH ART: AN INTRODUCTION TO VR'
+  lang: en
   type: regular
   level:
   time: 2018-08-21 09:30:00
@@ -15,6 +16,7 @@
     Virtual reality can be daunting — its unclear what you can do with it and its hard to know where to even start. I’ll introduce you to fundamental VR concepts by re-creating an interactive installation art piece by Yayoi Kusama in A-Frame, a VR web framework. So you can try it out at home, I’ll also walk you through the ecosystem of VR libraries and affordable hardware that’s currently out there.
 
 - title: 'HOT GARBAGE: CLEAN CODE IS DEAD'
+  lang: en
   type: regular
   level:
   time: 2018-08-21 09:30:00
@@ -31,6 +33,7 @@
     The Code is rising up to enslave us. An army of linter-plugins have given it a voice and it's angry. Clean code isn't the goal, its the enemy. Great code isn't clean, it's hot garbage—hot-swappable and easy to throw out. Code is a means to an end. When we stop fetishizing code and start fighting it, we've found the right enemy and we can get back to to the good work of serving customers.
 
 - title: 'CIVICHACKING.JS: HELPING YOUR COMMUNITY USING JAVASCRIPT'
+  lang: en
   type: regular
   level:
   time: 2018-08-21 10:15:00
@@ -47,6 +50,7 @@
     Budgets, Housing, and Hurricanes. What do all of these things have in common? Civic Hacking. These were local problems that were tackled by a village of coding warriors. In this talk, I will talk about how I used JavaScript in specific projects that came out of Austin, giving citizens exposure to city budgeting with Award-winning Budget Party, and Houston, tackling Section 8, and then I will finish out the talk with current event-driven civic hacking that led to the Hurricane app creating effort covered by Forbes.
 
 - title: BROWSER EXTENSIONS
+  lang: en
   type: regular
   level:
   time: 2018-08-21 10:15:00
@@ -63,6 +67,7 @@
     Browser extensions are made of the same standard technologies as web pages - and they're becoming standardized themselves! Let's take a look at the current state of extension interoperability and where we're headed.
 
 - title: 'I SEE: OVERCOMING CHALLENGES IN SOFTWARE DEVELOPMENT'
+  lang: en
   type: regular
   level:
   time: 2018-08-21 11:00:00
@@ -79,6 +84,7 @@
     As a visually impaired front end developer, our profession can bring its own set of challenges; however, there are many tools and techniques that engineers can use to overcome various obstacles. I hope that by sharing some of my experiences, my talk will inspire other visually challenged people to pursue a career in front end development as well as help those currently working in the software development field.
 
 - title: HACKING WITH MY ANXIETY
+  lang: en
   type: regular
   level:
   time: 2018-08-21 11:00:00
@@ -95,6 +101,7 @@
     Like all mental illnesses, dealing with anxiety is hard because it permeates everything in my life. One specific way anxiety complicates things is by making it difficult to keep in touch with people. So I created a JavaScript app to help me. In this talk, I'll discuss how my brain works and why it gets in the way of communicating with people I care about. Then, I'll walk you through how I created this app and remixed common design patterns to cater to my anxiety specifically.
 
 - title: THE MOST ANNOYING WEBSITE (AKA "THE POWER OF THE WEB PLATFORM")
+  lang: en
   type: regular
   level:
   time: 2018-08-21 12:45:00
@@ -111,6 +118,7 @@
     It's 2018. The web platform offers dozens of powerful, native-like APIs. What if we used this newfound power for evil? What kind of terrible UX could we create if our goal was to build the worst web page in the world? This talk will be an adventure deep into little-known parts of the web platform. We'll explore archaic Netscape Navigator APIs and powerful standards-based APIs and use them to build a website with powers you'd never believe possible on the Web today.
 
 - title: NO TIME FOR TYPES
+  lang: en
   type: regular
   level:
   time: 2018-08-21 12:45:00
@@ -127,6 +135,7 @@
     We already know the advantages of typed programming languages — from code completion to refactoring to compile-time errors. But saving time in the future doesn’t create a free-flowing subprime time loan we can borrow from to rework our code right now. In this talk, we’ll discuss the various stages of avoidance we go through to justify the position that “types aren’t for us”. We’ll break these down to show the true, non-hyped advantages types bring to any project and will demonstrate gradually adopting typed JavaScript as part of a normal workflow. We’ll discover that having a single champion of typed JavaScript on your project can ease adoption. Finally, we’ll explore workflows that let us find and categorize potential problems when we want to instead of having perpetually squiggly red lines shouting at us from our editor.
 
 - title: PACKAGE REPUTATION TRACKING
+  lang: en
   type: regular
   level:
   time: 2018-08-21 13:30:00
@@ -142,6 +151,7 @@
     The Javascript ecosystem and npm in particular have taken code re-use and open source software to new levels. It is easier than ever before to look up a library that addresses a problem you're facing, and incorporate it into your solution. The question is - just how much do you know about this code that you're integrating into your product? Do you trust the unknown author of this convenience library? Are you confident that they use a strong password for their npm account, and that it won't be compromised by a malicious actor in the future? Do you download and inspect the package’s tarball, or can you trust that it matches the code hosted on GitHub? Why did the install script change on that statistics package that has been untouched for three years? Our team is working on tools to help developers answer these questions. In an ideal world, a member of your team would review every line of code from each of your dependencies to make sure it is safe. Performing that review for each (package, version) tuple of every one of your dependencies would be a massive undertaking, and not feasible for most teams. It is also likely that popular packages like React receive much more attention and need not be treated within the same scrutiny as less widely-used packages. We started tackling these problems by building processes into our CI/CD pipeline that gather signals on each of our dependencies - how often they’re downloaded, updated, forked, and so on - and looking for suspect code changes. This has already helped us steer our developers away from unmaintained libraries and introducing duplicated functionality. We are now working to take these ideas further as an open source project that streamlines the process of monitoring of your organization’s dependencies, maintaining white and blacklists, and reviewing changes between dependency versions - and to bring that functionality to the community.
 
 - title: I LIKE MY TESTS, LIKE I LIKE MY FRIENDS, RELIABLE AND FLAKE-FREE
+  lang: en
   type: regular
   level:
   time: 2018-08-21 13:30:00
@@ -158,6 +168,7 @@
     We all want to consistently ship quality software. One of the best ways to do that is by end-to-end (E2E) testing our code as it simulates the real actions of our beloved users. Let’s be frank though, E2E testing is notoriously time-consuming, expensive, slow, and often flaky. Unfortunately, these issues lead to developers doing very little to no E2E testing, and taking solace in a plethora of unit-tests. We can do better. We should do better. We will do better. In this session, we’ll dive deep into using a modern testing tool, Cypress, that enables us to easily and beautifully write flake-free, reliable, deterministic E2E tests for our shiny web applications. Like a good friend, E2E tests should be there to give us confidence in the software we release down the wire.
 
 - title: NPM AND THE FUTURE OF JAVASCRIPT
+  lang: en
   type: regular
   level:
   time: 2018-08-21 14:15:00
@@ -174,6 +185,7 @@
     npm has 12 million users, and they download 5 billion packages a week. We also ran a direct survey of 16,000 JavaScript devs this year. That gives us more data about what JavaScript users are doing and where the community is going than anybody else. Let us tell you about yourselves, without bias, without trying to sell you on something. This talk is about what tools you use, what the community believes best practices really are, what frameworks are on the rise and which are on the wane, and where the major pain points are for devs right now. Let us help you plan your technical choices in 2019.
 
 - title: TESTING BIG IN JAVASCRIPT
+  lang: en
   type: regular
   level:
   time: 2018-08-21 14:15:00
@@ -190,6 +202,7 @@
     Fact: Full acceptance test suites that run in the browser are slow, flakey, awkward to write, and hard to maintain. This is the lore that has been handed down to JavaScript developers for generations. But what if that fact was fiction? What if your UI tests were fast, robust and a breeze to maintain? Introducing BigTest. The framework that believes you don't need to make compromises in order to make tests that faithfully replicate your production environment. We’ll explore how BigTest upends the boring and often painful subject of UI testing and makes it fast, robust, and a pleasure to work with.
 
 - title: JOURNEY INTO IMAGINATION 💫
+  lang: en
   type: regular
   level:
   time: 2018-08-21 15:00:00
@@ -206,6 +219,7 @@
     🎶 Imagination, imagination. A dream, can be, a dream come true. With just that spark, in me and you! 🎶 Nothing will beat the feeling I had as a child at EPCOT’s Imagination Pavilion. Before the internet, this was my first taste of technology, and it was hands on. Figment (the official mascot) made me feel like I COULD do ANYTHING, and everyone should feel this way about everything they create. “There’s really no secret about our approach. We keep moving forward-- opening new doors and doing new things-- because we’re curious. And curiosity keeps leading us down new paths. We’re always exploring and experimenting.. we call it Imagineering- the blending of creative imagination and technical knowledge.” - Walt Disney Let’s take a journey through our own imaginations to see what we can make with our ideas and skills while considering the Disney Imagineer process instills on its engineering practices to get the most impact. There’s no reason why anything we create needs to be dry, sometimes you just need a spark of ✨ magic ✨.
 
 - title: WHAT'S IN YOUR JS?
+  lang: en
   type: regular
   level:
   time: 2018-08-21 15:00:00
@@ -222,6 +236,7 @@
     Development is definitely an interactive exercise. Improving our craft with each subsequent release is our Picasso to the world (or company intranet). With systems becoming ever more complex, the fog of development can set in; no one person can have a clear view of the entire end-to-end system. One area that NodeJS ecosystem would improve on is dependency management. The package.json grows longer and wider, a sanity check to see if there are duplicates. When compared to Java, a class collision is not going to occur; usually up to the JS-C which to load in the Abstract Syntax Tree (AST) first. Which packages duplicating dependencies e.g “for packages has JQuery”, how can you tell what is what.
 
 - title: JAVASCRIPT CONCURRENCY AND THE DOM
+  lang: en
   type: regular
   level:
   time: 2018-08-21 16:15:00
@@ -242,6 +257,7 @@
     Web Applications are increasingly complicated. The browser main thread has unintentionally become a war zone for application logic, framework, and platform level operations required to raster code into visual representations. As we, the web development industry, have pushed more and more complexity into every frame of end-user experience, the traditional single-threaded model has not held up. Watch this talk to liberate your JavaScript from the browser’s main UI thread while retaining access to the DOM and frameworks you already know.
 
 - title: ES6 IN PRACTICE
+  lang: en
   type: regular
   level:
   time: 2018-08-21 16:15:00
@@ -258,6 +274,7 @@
     It’s been 3 years since the ES6 spec was finalized, and modern browsers are up to speed, but it's surprising how few teams have delved beyond syntactic sugar. How much of the first - and last - major update to the language in 20 years has turned out to be useful in practice, and how much is just hype? Tim Doherty will walk through his journey learning and championing enterprise adoption of ES6 at his previous job, and his observations along the way. Join Tim for an informative and entertaining case study of ES6 in practice.
 
 - title: 'A QUEST TO BE A (WEB)MASTER: HOW DO YOU GO FROM SIMPLE CODE TO BUILDING GREAT WEB EXPERIENCE?'
+  lang: en
   type: regular
   level:
   time: 2018-08-21 17:00:00
@@ -274,6 +291,7 @@
     "I just wanted to wiggle a button with jQuery, I don't know anything about magical quartz!" a disciple said to the master in despair. No matter how they try to draw pixels, the master seems to riddle them with esoteric knowledge of gleaming stones... If you are confused, overwhelmed, or feel drawing in the current state of web development despite having honed your JavaScript skills, this talk is for you. We are surrounded by many frameworks and tutorials on how to build web applications, but we rarely get to hear about the mechanics of the environment where our code runs. In this talk, we are going to look at how a browser receives your code, read your code, and execute your code so you can create fast loading and smooth rendering web experience. Even though we are going to look what happens inside of a web browser, prior knowledge of hardware and low-level programming are not necessary. Everything will be guided with illustrations and stories. After all, building a web app is about how to communicate to draw pictures on screen :)
 
 - title: WE'RE THE SAME YOU AND ME - A NEW WAY ☯ TO ALIGN PROGRAMMING PARADIGMS ACROSS CLIENT & SERVER(LESS)
+  lang: en
   type: regular
   level:
   time: 2018-08-21 17:00:00
@@ -290,6 +308,7 @@
     Despite JavaScript now being used to program literally everywhere (or is it figuratively?), we still make a distinction between Front-End and Back-End programming along with our constant search for the ✌ Full-Stack ✌ Programmer. If we're literally writing in the same language (I know it's right this time), then it doesn't have to be this way. Let's go Full Reactive to build completely Event-driven Systems as called for by the Reactive Manifesto and move towards a new Way of programming that doesn't care in what execution environment our code is running, allowing us to write virtually the same code for everywhere. Along the way we will discover that by designing software this way it is easier to stave off Technical Debt and describe the system to product stakeholders using a Grammar that makes it clearer for us to build the right software. Using a tiny library called tao.js (☯.js) that provides a richer 3-Dimensional Event-like descriptor [as Term Action Orient(ation)] to align how all events within any system are described & fired, I will demonstrate how we can have everything we want with some amazing additional benefits: Build with an Architecture that is designed to Evolve Build your entire system to be composable and decoupled from day 0 Use the best tool for the job, not be locked into any particular framework or database Build Reactive Applications that have common semantics across all execution stacks (clients, servers & serverless) so code lives anywhere and everywhere Get Aspect-Oriented Programming (AOP) (aka cross-cutting) System-wide for free Collaboratively & rapidly describe the software you're going to build with Product members of your team... and Translate those descriptions directly into code
 
 - title: PLEASE DON'T MOCK ME
+  lang: en
   type: regular
   level:
   time: 2018-08-21 17:45:00
@@ -306,6 +325,7 @@
     Very few developers know how to use mocks effectively when writing tests, and I spent a decade figuring out why. Let's take a journey, starting with the most egregious ways people abuse mocks. Slowly, we'll work our way to all the seemingly-good-but-actually-harmful mocking advice that's popular today. Our last stop will be a demonstration of how mocks can be used to arrive at highly modular, usable code designs, using our own library testdouble.js. Attendees will leave this talk with precise and useful language for discussing mocking and some ideas for how to write better tests.
 
 - title: UNLOCK THE POWER OF FEATURE BASED JS DEVELOPMENT
+  lang: en
   type: regular
   level:
   time: 2018-08-21 17:45:00
@@ -322,6 +342,7 @@
     Developing software iteratively a feature at a time can be challenging. Come learn about a new JS library which opens new doors into this exciting world. The first version of this targets React, React Native, and Expo development eliminating 90% of the boilerplate needed to get up and running. The idea could be expanded to support any JS project or even non-JS environments. Unlock the potential and simplify your teams development process.
 
 - title: literally everything is pixel art
+  lang: en
   type: regular
   level:
   time: 2018-08-23 09:30:00
@@ -338,6 +359,7 @@
     only one person has ever asked the question "are pixels better than javascript?" fortunately, no one needs to ever answer because it turns out they go together like peanuts and bread. by recognizing pixels in pixel art as objects with properties like color and position, and also capitalizing on the trend of graphics editors implementing javascript-powered plugin extensions, javascript is even more a medium for art than ever before.
 
 - title: 'THE LOADER IS A LIE: HOW TO ELEGANTLY LOAD A MILLION OR MORE DATA POINTS'
+  lang: en
   type: regular
   level:
   time: 2018-08-23 09:30:00
@@ -358,6 +380,7 @@
     Whether you love them or hate them, the use of a spinning loader (i.e. loading spinner) is common practice when performing asynchronous calls. They give the illusion to the end user that work is being performed; however, in reality they're just transparent liars. This talk will cover how we elegantly load and visualize a stream of a million or more data points using reactive programming. We'll explain why and how we did it, we'll dive deep into some code, but most importantly, we'll do it without lying to your face.
 
 - title: 'COMPILERS: THE NEXT FRONTIER IN WEB PERFORMANCE'
+  lang: en
   type: regular
   level:
   time: 2018-08-23 10:15:00
@@ -374,6 +397,7 @@
     Web Developers have been reliant on compilers for the better part of a decade. But what actually is a compiler? Why are they important? How do compilers fit in with the emergence of WebAssembly? This talk will look at how this fundamental building block will unlock the next evolution of web performance.
 
 - title: 'WE LIVE IN MEMORY: MAKING Λ AND GRAPHQL RESPOND IN 70MS'
+  lang: en
   type: regular
   level:
   time: 2018-08-23 10:15:00
@@ -390,6 +414,7 @@
     A deep dive into the lowest levels of a Lambda GraphQL API serving nearly a billion request a month. Explore how a graph database built on Redis makes it all possible.
 
 - title: DATA-DRIVEN CSS WITH GRID & CUSTOM PROPERTIES
+  lang: en
   type: regular
   level:
   time: 2018-08-23 11:00:00
@@ -406,6 +431,7 @@
     CSS has come a long way since the browser wars of the 90s – even since last year. With wide and growing support for CSS grid and custom properties, we have the power to inject our styles with raw data, and manipulate layouts on-the-fly. Make your JS job easier by passing data off to your CSS friends! We'll cover a range of experiments, from practical to absurd. What happens when we turn CSS to 11?
 
 - title: THE JOY OF MENTORING BY TAKING THE PRESSURE OFF OF IT
+  lang: en
   type: regular
   level:
   time: 2018-08-23 11:00:00
@@ -422,6 +448,7 @@
     “A candle loses nothing by lighting another candle.” Mentoring is key towards fostering a more diverse, inclusive, tech community. We will debunk myths regarding mentorship. Learn frameworks for getting started and effective techniques. Explore common challenges and how to adapt to them. And redefine what mentoring can be. Together, we’re stronger. Learn how to making mentoring an enjoyable, insightful, and rewarding experience for everyone involved.
 
 - title: SMARTPHONE SYMPHONY
+  lang: en
   type: regular
   level:
   time: 2018-08-23 12:45:00
@@ -438,6 +465,7 @@
     If Beethoven was alive today, he’d probably use JavaScript. Using the web, sockets and the devices in the audience's pockets, we'll interactively explore the challenges of creating a real-time and audience-driven musical performance which will be played on both the venue speakers and on the hundreds of devices in the audience’s pockets.
 
 - title: UNIVERSAL REACT APPLICATIONS WITH REDUX
+  lang: en
   type: regular
   level:
   time: 2018-08-23 12:45:00
@@ -454,6 +482,7 @@
     Implementing business logic in Redux provides a simple way to share application code across React web and React Native mobile applications. I'll give an experience report and describe some patterns for composing Redux applications.
 
 - title: 'RXJS: A BETTER WAY TO WRITE FRONTEND APPLICATIONS'
+  lang: en
   type: regular
   level:
   time: 2018-08-23 13:30:00
@@ -470,6 +499,7 @@
     Everything that happens in a frontend application is asynchronous; events happen – a user types something, a server responds with data – and our programs react. The traditional approach to this problem is to deal with asynchronous “parts” of your application in callbacks or promises, while working with static data structures and behaving as if the rest of the program were synchronous. After years of writing frontend apps, I still find this confusing and cumbersome. What if there were a better way? This is the premise of RxJS, a functional reactive programming library. We treat data itself as asynchronous – as streams which represent a snapshot a given value over time. Functional reactive programming is a conceptual shift -- but it can vastly simplify frontend programming. I'll show you some tools I've written to make the FRP learning curve simpler. You can use it regardless of what javascript MVC you rely on. I can even show you how I use React with RxJS instead of Redux! If you're willing to try something new, I guarantee your mind will be blown!
 
 - title: PATTERN MATCHING IN JS
+  lang: en
   type: regular
   level:
   time: 2018-08-23 13:30:00
@@ -486,6 +516,7 @@
     The experienced Javascript developer has learned they should never use switch statements. They have tricky semantics and force a very imperative style, good riddance! Yet, this type of construct has a very important place in other languages, both Object Oriented and Functional, and it is beloved by programmers of those languages. This talk introduces the early stage TC-39 proposal for pattern matching, the new incarnation of switch statements for JS. It will cover the proposed semantics of this language feature, as well as its potential applications to front-end applications (through React/JSX) and back-end applications (through Node/Express). By the end, developers will be able to test out this experimental feature at home, and will be able to provide feedback to directly improve the proposal.
 
 - title: HOW TO BE AN A11Y - CREATING ACCESSIBLE REACT APPS
+  lang: en
   type: regular
   level:
   time: 2018-08-23 14:15:00
@@ -502,6 +533,7 @@
     React is amazing for creating web apps -- but do we know if the React apps we create are usable by everyone? ‘a11y’ stands for ‘accessibility’ - the design and creation of websites that can be used by everyone -- including persons with disabilities. Contrary to popular conceptions, accessibility is not so much a "feature" in software development, as it is a necessity. React provides good support for accessible design. In this talk we will learn how to build React components to that support assistive technology (like screen readers) and also learn how to write unit tests to check our components for accessibility of features -- thus ensuring that our apps are usable by everyone equally.
 
 - title: REACT ALREADY DID THAT - DEVELOPER ERGONOMICS IN 2018
+  lang: en
   type: regular
   level:
   time: 2018-08-23 14:15:00
@@ -518,6 +550,7 @@
     Why not just use React and be happy? Tools such as TypeScript, Flow, Prettier, etc. show us that developer experience while using a tool is very important, so what would a library look like with developer ergonomics and experience as its core tenet? What kind of performance metrics would need to be sacrificed to provide an all-around better developer experience? What would build tooling look like? I’ll answer these questions and more as we explore the fantastic world of developer ergonomics!
 
 - title: ADVENTURES IN ETHICAL COMPUTING
+  lang: en
   type: regular
   level:
   time: 2018-08-23 15:00:00
@@ -534,6 +567,7 @@
     Machine learning algorithms can infer gender when translating from gender neutral languages to english due to bias in training data. Hardware designed to control airbag release have resulted in the deaths of Short-stature drivers and children passengers due to bias. An engineer from Volkswagen was recently sentenced to a 40 month prison term for their part in producing software that cheated at emissions tests for diesel automobiles. You are responsible for the software and hardware you help to create. Ethically responsible, and potentially legally responsible. Through an examination of academic literature and case studies this talk will discuss the types of bias that can enter into the systems that we manufacture, and suggest ways that we can avoid bias to create better user experiences (and avoid jail time).
 
 - title: DEMOCRATIZING AUGMENTED REALITY
+  lang: en
   type: regular
   level:
   time: 2018-08-23 15:00:00
@@ -550,6 +584,7 @@
     JavaScript is powerful because of it's reach and versatility - everyone has access to a browser and with modern APIs the browser can do more than ever before. As JS developers, we can influence the adoption of new bleeding edge technologies by improving access for the masses. In this talk I'll share a new library - qrar.js - that strives to democratize augmented reality. By combining QR Codes with existing AR techniques, it makes it easy for developers to integrate AR onto any web application while improving the user experience. Augmented Reality is the next frontier of technology, let's spread it with JavaScript!
 
 - title: THE BUTTERFLY.JS EFFECT
+  lang: en
   type: regular
   level:
   time: 2018-08-23 16:15:00
@@ -570,6 +605,7 @@
     This talk will serve three purposes. First, it will tell the story of the creation of the JavaScript community in Colombia and its journey to becoming one of the largest Spanish-speaking JS communities in the world. It will highlight and explore the impact this community has had in the region, and how it set the stage for other communities to build upon. Finally, it will provide insight into the challenges of building a community in a developing nation where the tech ecosystem is not established, providing a summary of lessons learned which other communities in developing nations can use as a blueprint in their regions. We aim to discuss starting meetups in cities or small towns, the impact of the JavaScript community on individuals including organizers, speakers, and attendees, creative sponsorship ideas, cost structures, financing challenges, diversity, inclusion and the use of international networks to support local initiatives.
 
 - title: EXPLORING WEBUSB AND ITS EXCITING POTENTIAL
+  lang: en
   type: regular
   level:
   time: 2018-08-23 16:15:00
@@ -586,6 +622,7 @@
     The browser’s capabilities have snuck up on us over the years, and it’s turned into a full blown operating system! "But wait," I hear you protest, "it’s not like the browser can talk to stuff I have plugged in to my USB ports!". Ah! But it can! The new WebUSB spec has arrived, and is already supported in at least one browser today. The previous hacks of connecting browsers to robots and other hardware will soon be a thing of the past. WebUSB as a first class API citizen opens up some great opportunities to create new and delightful experiences with robotics. I’ll introduce you to the WebUSB API, its history, and compare it to previous "hacks" to demonstrate why this is such a big deal for you, as a web developer. There will be real hardware shown on stage ready to inspire you to think outside of the box of what browsers are really meant to be used for.
 
 - title: BUILDING A JAVASCRIPT VIDEO SYNTHESIZER FOR LIVE PERFORMANCE
+  lang: en
   type: regular
   level:
   time: 2018-08-23 17:00:00
@@ -602,6 +639,7 @@
     This talk is all about the weird world of hardware music visualizers (from 1977 with the Atari Video Music up to the newer modular video synthesizers of today) and recreating them in the browser! Thanks to Javascript and several newer web APIs it's possible to build a video synth to play live in a music performance. With the evil powers of "eval" it can also be coded live and with the WebAudio, WebMIDI and Gamepad APIs we can do beat detection and MIDI clock detection. Then we can get physical and manipulate our visualizer with a MIDI controller or an Xbox gamepad.
 
 - title: 'A TALE OF TWO BUNDLES: A LESSON IN MENTORSHIP'
+  lang: en
   type: regular
   level:
   time: 2018-08-23 17:00:00
@@ -618,6 +656,7 @@
     I will be speaking about my journey of breaking into tech as a queer Latinx woman, with a non-traditional background. My path into tech was very challenging: there were many times I was very frustrated and disillusioned with the tech industry. A large part of why I believe I was able to successfully break through the elite gatekeeping that is technical interviewing was because of my wonderful mentors in the package manager space. Mentorship has had an exponentially positive effect on my career, technical abilities, and feeling of self worth.
 
 - title: DISCOVERING THE TRUE IDENTITY OF @HORSE_JS USING MACHINE LEARNING
+  lang: en
   type: regular
   level:
   time: 2018-08-23 17:45:00

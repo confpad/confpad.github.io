@@ -1,4 +1,5 @@
 - title: Keynote
+  lang: en
   type: regular
   level:
   time: 2018-04-28
@@ -27,6 +28,7 @@
     In this keynote, of our third conference in San Francisco, we are talking about what we have accomplished so far and what the future of cloud computing holds. We also announced Next.js 6 and MDX.
 
 - title: Burnout and Balance
+  lang: en
   type: regular
   level:
   time: 2018-04-28
@@ -43,6 +45,7 @@
     Burnout can keep you from doing good work in your professional or personal lives, while robbing you of your energy. In this talk we'll look at what often leads technologists to suffer from burnout, as well as how to tell if you may be suffering from burnout. We'll also walk through how to begin to recover from occupational burnout and start getting your life back.
 
 - title: React Suspense
+  lang: en
   type: regular
   level:
   time: 2018-04-28
@@ -59,6 +62,7 @@
     Async rendering in React gives us a powerful new set of primitives for addressing longstanding problems in UI development. I'll discuss React's vision for how async rendering can improve data fetching, code delivery, prefetching, view transitions, and more.
 
 - title: Authentication and Authorization in Next.js
+  lang: en
   type: regular
   level:
   time: 2018-04-28
@@ -74,6 +78,7 @@
   description: |-
 
 - title: Using JavaScript to Teach Machines Basic Shit Things
+  lang: en
   type: regular
   level:
   time: 2018-04-28
@@ -89,6 +94,7 @@
   description: |-
 
 - title: Optimizing Your Code with Babel
+  lang: en
   type: regular
   level:
   time: 2018-04-28
@@ -109,6 +115,7 @@
     Deforest is a functional library, much like Lodash and Ramda, but implemented in the "compiler". We're gonna talk about our motivation for the library, how we fell in love with babel while building Deforest, and why you should love babel too!
 
 - title: Migrating Slope Ninja to ZEIT for Fun & Profit
+  lang: en
   type: regular
   level:
   time: 2018-04-28
@@ -125,6 +132,7 @@
     Julia Qiu discusses how she migrated Slope Ninja from Heroku to Zeit. She outlines the differences between the two platforms from the perspective of building, deploying and running a full-stack application.
 
 - title: Datasette and Datasette Publish
+  lang: en
   type: regular
   level:
   time: 2018-04-28
@@ -141,6 +149,7 @@
     Zeit Now makes deploying application logic easy, but leaves mutable persistent data stores to other vendors. This makes it an excellent fit for publishing static datasets. Datasette allows any data that can be represented as a SQLite database to be deployed to the cloud as a browseable interface and JSON API. It makes publishing data as easy as publishing static HTML, and opens up powerful opportunities for rapid prototyping against real-world data. Datasette Publish goes a step further, using the Zeit API to allow users to upload CSVs and create their own Datasette deployments without leaving their web browsers. Simon will talk about how he built Datasette and Datasette Publish and make the case for building software that deploys other software using the unique capabilities of Zeit’s API 2.0."
 
 - title: Building a High Performance, Dynamic CDN with Next.js
+  lang: en
   type: regular
   level:
   time: 2018-04-28
@@ -157,6 +166,7 @@
     In this talk, we will delve into tuning an out-of-the-box Next.js application to serve thousands of requests on a single instance. Then how we achieved CDN-like performance while supporting dynamic content for Help Users Vote.
 
 - title: From React to Ember, A Modern Comparison
+  lang: en
   type: regular
   level:
   time: 2018-04-28
@@ -173,6 +183,7 @@
     Who uses Ember in 2018? Well, a lot of people! The Ember landscape is the most exciting it’s been since the framework was released six years ago. I’ll talk about learning Ember after coming from a React background and explain how the two frameworks compare in the modern day. Then, we'll go on a journey to the bleeding edge of what’s new and upcoming in the Ember world.
 
 - title: Fast & Furious Learning
+  lang: en
   type: regular
   level:
   time: 2018-04-28
@@ -189,6 +200,7 @@
     After creating thousands of web development tutorials, Scott shares his secrets on Modern learning in our quickly changing industry
 
 - title: In Pursuit of Open Source
+  lang: en
   type: regular
   level:
   time: 2018-04-28
@@ -204,6 +216,7 @@
   description: |-
 
 - title: Rewriting eaze.com with Next.js
+  lang: en
   type: regular
   level:
   time: 2018-04-28
@@ -219,6 +232,7 @@
   description: |-
 
 - title: Tools 4 Tools 4 Tools
+  lang: en
   type: regular
   level:
   time: 2018-04-28

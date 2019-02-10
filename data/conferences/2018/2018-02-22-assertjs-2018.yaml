@@ -1,4 +1,5 @@
 - title: Building a testing- and quality-driven culture at IBM
+  lang: en
   type: regular
   level:
   time: 2018-02-22
@@ -15,6 +16,7 @@
     How can we create a performance-, quality-, and test-driven culture when the company has years of bad habits to break? Is it even possible? In this talk, learn how IBM has been steering its massive engineering team away from deep-seated resistance to writing tests — or collecting code quality metrics of any kind — through a combination of automation, human psychology, socialization, and education.
 
 - title: Establishing testing patterns with software design principles
+  lang: en
   type: regular
   level:
   time: 2018-02-22
@@ -31,6 +33,7 @@
     Lack of clarity about testing React applications leads engineers to write low-quality tests that don’t catch bugs, break unnecessarily, and are hard to write; therefore, we need established patterns to write tests for single page applications, just as there are established patterns to write single page applications.
 
 - title: BDD with cucumber.js
+  lang: en
   type: regular
   level:
   time: 2018-02-22
@@ -47,6 +50,7 @@
     Hundreds of teams are benefitting from BDD (Behavior Driven Development). This brief talk will familiarize you with what BDD is and isn’t so you can decide if it’s right for your team.
 
 - title: I see your point, but…
+  lang: en
   type: regular
   level:
   time: 2018-02-22
@@ -68,6 +72,7 @@
     These two speakers work together making awesome testing tools, yet they often disagree on how to produce high quality software. In this presentation they will respectfully argue about: test-driven development vs end to end tests / stubs and mocks / cross-browser testing / code and data coverage / picking the right test framework / snapshot testing / legacy browser environment support / crash reporting and performance monitoring / earning living by writing OSS testing tools.
 
 - title: Testing against time in JavaScript applications
+  lang: en
   type: regular
   level:
   time: 2018-02-22
@@ -84,6 +89,7 @@
     As our apps become more complex, we might stumble into testing errors stemming from asynchronous and time-dependent behaviour. This talk will characterize several roadblocks in testing which are affected by time. With an example Ember.js application, we will explore how Ember's rich testing API, newest JavaScript features and community libraries, will help us writing legible and reliable tests and how we can make those tests turn green even as time passes by.
 
 - title: Detox A year in. Building it, Testing with it
+  lang: en
   type: regular
   level:
   time: 2018-02-22
@@ -100,6 +106,7 @@
     A year in, developing and using Detox in production taught us a lot. From designing its API, to consuming it, testing real user scenarios to advanced mocking, we learned what makes sense when E2E testing an app and what doesn’t. In this talk, we’ll discuss how Detox works and what makes it deterministic, cover some advanced use cases and methodologies, go over new features and tease the ones that are upcoming.
 
 - title: Testing React Applications
+  lang: en
   type: regular
   level:
   time: 2018-02-22
@@ -116,6 +123,7 @@
     React continues to grow in popularity, especially with the release of React 16. Developers who love using React may be at a loss of how to test their React applications. In this talk we will explore how to use Enzyme and JSDOM to test your modern React applications. We will dive into Enzyme testing and explore how to test both the DOM and virtual DOM by using Enzyme's core methods: shallow, render and mount.
 
 - title: Please don’t mock me
+  lang: en
   type: regular
   level:
   time: 2018-02-22
@@ -132,6 +140,7 @@
     Confusion over test doubles starts with what to even call them. You might know them as stubs, proxies, mocks, or spies (but I call them test doubles, because a book you've probably never read declared it to be the most general term). I've spent a decade fascinated by the disconnect between why test double libraries were invented and how they are actually used by teams. What I've learned: their purpose fills a little-known but valuable niche, whereas their appeal addresses a mainstream but self-destructive impulse. If you don't leave this talk with a clearer distinction between tests that ensure safe changes versus tests that promote simple designs, I'll give you your 45 minutes back. Once that groundwork is laid, you'll better understand the characteristics that matter most in a test double library and the nuanced rules that should govern their use. I've found this clarity invaluable for producing valuable tests and maintainable code, and I think you will too.
 
 - title: Testing Angular Components Fundamentals
+  lang: en
   type: regular
   level:
   time: 2018-02-22
@@ -148,6 +157,7 @@
     In the Angular world, the most common concept that you stumble upon is components. Since components are everywhere, it is critical that you understand how to test them. In this talk, you will learn the fundamentals of how to test Angular components. By the end of the talk, you will have the confidence to start writing tests for your components.
 
 - title: Write tests. Not too many. Mostly integration.
+  lang: en
   type: regular
   level:
   time: 2018-02-22
@@ -164,6 +174,7 @@
     Automated tests are an important part of raising your confidence when releasing software. They can speed you up or slow you down depending on how you write them and which form of testing you focus your test writing on. In this talk, we’ll cover the value of automated testing and where your efforts should be focused to strike the best balance of confidence and effort.
 
 - title: Working Well, The Future of JavaScript Testing
+  lang: en
   type: regular
   level:
   time: 2018-02-22

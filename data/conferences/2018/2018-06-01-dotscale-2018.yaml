@@ -1,4 +1,5 @@
 - title: At scale, everything is hard
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -16,6 +17,7 @@
     Paul reviews the journey of the development of InfluxDB from version 0.9 in 2015 to the 2.0 version that they are working on in 2018. He talks about building their own storage engine, moving from a monolithic database to a services based containerized data platform and scaling out the development team.
 
 - title: Kubernetes 101
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -33,6 +35,7 @@
     Must we really orchestrate our containers, or could they perhaps just do some improv jazz? The container landscape has converged on Kubernetes. Bridget talks about how, what, why, and other such excellent questions. You’ll come away with ideas for learning and sharing about k8s.
 
 - title: Just-Right Consistency
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -50,6 +53,7 @@
     In a distributed data store, the CAP theorem forces a choice between strong consistency (CP) and availability and responsiveness (AP). To address this issue, we take an application-driven approach, Just-Right Consistency (JRC). JRC derives a consistency model that is sufficient to maintain the application invariants, otherwise remaining as available as possible. JRC leverages application invariant-maintaining patterns. Two, ordered updates and atomic grouping, are compatible with concurrent and asynchronous updates, orthogonally to CAP. In contrast, checking a data precondition on partitioned state is CAP-sensitive. However, if two updates do not negate each other's precondition, they may legally execute concurrently. Updates must synchronise only if one negates the precondition of the other. The JRC approach is supported by the CRDT data model that ensures that concurrent updates converge; by Antidote, a cloud-scale CRDT data store that guarantees transactional causal consistency; and by the CISE static analyser that verifies whether application invariants are guaranteed. This research is supported in part by FP7 SyncFree, H2020 LightKone, and by ANR project RainbowFS.
 
 - title: Demonstrating your Architecture
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -67,6 +71,7 @@
     How do you demonstrate your software is ready? However you define "demonstrate" or "ready", sharing how applications fits requirements is important not only internally at your organization, but possibly valuable to community peers worldwide. Julio addresses five non-functional requirements: Security, Reliability, Performance, Cost Optimization and Operational Excellence. Let's explore how to measure and share decisions to satisfy them to the expected level using the best of cloud innovations and tools.
 
 - title: Distributions and package management in the containers era
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -84,6 +89,7 @@
     Lucas looks at what can be learned from successes and failures in the world of distributions, and maybe transferred to language package managers. Topics discussed include Quality Assurance tools, collaboration with derivative distributions and upstream projets, and using distributions tools to deploy your own software.
 
 - title: Git as a continuous manager
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -101,6 +107,7 @@
     Continuous deployment could be a nightmare, even when using the right tools. There's many of them available: CI servers, Provisionner, Containers… If you have to deal with feature-flipping too, it starts to be Hell. What if we try to get back to the basics and use only one tool, Git, for every of our tasks: from versioning to deploying? Matthias shows which solutions exists to automate deployment and feature-flipping, and compares them to the advanced workflow of Git as an ordonnancer for deployment and feature-flipping.
 
 - title: 'Nano-node: Intelligent Hard Drives in Large Storage Infrastructures'
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -118,6 +125,7 @@
     Put CPU next to hard drives or SSDs for a new approach to large scale out infrastructures, improving overall efficiency while reducing failure domains. Enrico describes how to overcome the limitations imposed by fat serves and how to scale storage and compute for next generation workloads. The concept of offloading some CPU tasks to the storage infrastructure is not entirely new but now, thanks to the power of modern CPUs, their efficiency, and smaller SoC (system on chip) designs, it is possible to do more and bring the CPU closer to data instead the opposite. By doing so, each device can perform some computational tasks that were, in the past, carried out on the CPU. Data is not moved anymore, saving bandwidth, improving overall parallelism, and enhancing overall system efficiency. With an adequate amount of RAM and connectivity, they can perform a lot of simple tasks. Those operations, executed by storage devices, make it possible to keep data local, minimizing latency, while improving overall parallelization and system efficiency. At the same time, the failure domain is smaller, and this improves the scalability of the entire infrastructure.
 
 - title: Serverless, Revealed!
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -134,6 +142,7 @@
     Serverless is being heralded as the next big thing in computing - but as you'll discover in this lightning talk, there's nothing new under the sun. The architectural underpinnings, technological constraints, and incumbent providers are all familiar. Practically speaking, Serverless still requires you to understand your software, your workload, and your use-case; in other words, there is no magic.
 
 - title: Observability tips with HAProxy
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -151,6 +160,7 @@
     Willy covers multiple aspects of observability using the HAProxy load balancer. He also tries to suggest the smallest set of very relevant metrics to watch in order to detect when something starts to go wrong, and immediately spot what, where and help figure why.
 
 - title: Three heretical opinions about the future of time-series data
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -168,6 +178,7 @@
     TimescaleDB offers three seemingly heretical insights about data: (1) all data is time-series; (2) what you've heard about it is wrong; and (3) SQL should and does remain the lingua franca for databases. These insights enable new possibilities for architecting database systems, and Mike briefly discusses how TimescaleDB, an open-source time-series database purpose-built on top of PostgreSQL, realizes these needs. TimescaleDB offers three seemingly heretical insights about data and the future of data storage: 1- All data is time-series data. 2- What you've heard about modeling and storing time-series data is wrong. 3- Time-series data has an inherently relational structure; use SQL. Time-series data is quickly becoming a major workload across practically every industry. Acting on time-series data enables us to understand the past, have more control over the present, and predict the future. Putting it to use is a critical business opportunity. Mike discusses why these insights matter and how they enable new possibilities for architecting database systems. He also reviews how TimescaleDB, an open-source time-series database purpose-built on top of PostgreSQL, enables the flexibility, power, and performance needed to realize time-series data storage and analytics.
 
 - title: The Data of Infrastructures
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -184,6 +195,7 @@
     Our infrastructures generate a lot of metadata. However, true insight comes from the derivative data -- the data that we derive from the metadata. Jeremy gives you tips and strategies for collecting good metadata and how to use that to generate unique and actionable insights about your infrastructure.
 
 - title: Data Cartography
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -201,6 +213,7 @@
     Technology has gone through many iterations - Mainframes, to Client-Service Models, and now Isomorphic Applications. The world of Data Management has evolved too, from Databases, to Warehouses, Sharehouses, and Data Lakes, consequently Data Catalogues. Each of these iterations have given us learnings, and paved the way for better solutions! The constantly changing data landscape has helped us look at new ways of solving problems, but at the same time, has also introduced new challenges. Preeti addresses the problem of picking the right Data Store, and elaborates on a four step Design Paradigm to help you pick the right one!
 
 - title: Designing Scalable and Extendable Data Pipeline for Call of Duty Games
+  lang: en
   type: regular
   level:
   time: 2018-06-01
@@ -218,6 +231,7 @@
     The Call of Duty game franchise generates a massive amount of data telemetry. Activision has been developing its data pipeline for a while, and they learned how to scale it not only in terms of traffic, but also in terms of supporting more games and more use-cases. Yaroslav dives into their unified message envelope and why it's so important to have a proper Kafka topic naming convention.
 
 - title: Istio, we have a problem! Understanding and fixing bugs with a service-mesh
+  lang: en
   type: regular
   level:
   time: 2018-06-01

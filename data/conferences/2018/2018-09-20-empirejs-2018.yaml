@@ -1,4 +1,5 @@
 - title: THE UNTOLD BENEFITS OF ETHICAL DESIGN
+  lang: en
   type: regular
   level:
   time: 2018-09-20 09:30:00
@@ -15,6 +16,7 @@
     Ethics need to be at the core of everything we build. We have to consider our impact and rethink how to build digital products. This way we will not only build more responsible products, but gain additional benefits in the areas of performance, security, privacy and user happiness. This talk will show how to truly care about users & improve the user experience at the same time. Most importantly, this talk will be technical inspiration, question the status quo and help us build for a better web.
 
 - title: JavaScript Diversity
+  lang: en
   type: regular
   level:
   time: 2018-09-20 10:00:00
@@ -31,6 +33,7 @@
     The JavaScript ecosystem describes the diverse sum of communities, tools, frameworks and libraries which take part in modern web development. In this talk, we want to take a look at the current state of the different JavaScript sub ecosystems surrounding common JavaScript libraries and frameworks and how they developed over time. We’ll see how “convergent” and “divergent” evolution of these tools have shaped the JavaScript community and are affecting the way in which we build software for the web today. Finally, we’ll see how a rich and diverse JavaScript ecosystem not only benefits the performance of the applications we are building and provides us with the best tools for our job, but also how it enhances our productivity and happiness as developers by consistent knowledge transfer.
 
 - title: 12 Factor Frontend Apps through Dockerization
+  lang: en
   type: regular
   level:
   time: 2018-09-20 10:30:00
@@ -47,6 +50,7 @@
     How we write frontend JavaScript applications has changed dramatically in the last 10 years. In that time, the concept of the ‘12 Factor App’ for building web applications has been introduced as a methodology for building portable and scalable applications. This talk will explore some of the 12 factors, and how to use containerization in order to adhere to the tenets of configuration storage, singular codebases, and repeatable builds across all deployment environments.
 
 - title: 404 Fire Alarm Not Found
+  lang: en
   type: regular
   level:
   time: 2018-09-20 11:15:00
@@ -63,6 +67,7 @@
     When are you actually supposed to pull the emergency brake on the NYC subway? In this talk, we'll break down why many interfaces for modern-day emergency systems are poorly designed and how simple changes to the user experience can make them much more useful in an emergency. Engineers, keep your note taking app handy! You'll learn some simple Do's & Don'ts for building interfaces that you'll be able to take home and apply to the products you're working on.
 
 - title: What Tamagotchis Can Teach You About ES6 Generators
+  lang: en
   type: regular
   level:
   time: 2018-09-20 11:45:00
@@ -79,6 +84,7 @@
     What do Tamagotchis — everyone’s favorite digital pets from the 90s — and ES6 generators — pausible functions for async tasks — have in common? Both are really fun to play with. As a recent side project, I built a web-version of a Tamagotchi. But I struggled with one key element, how to handle a series of animations. What do you do when animations need to know that other animations are complete? What do you do when you’ve queued animations but a user event needs to be handle instead? This talk explores where I went wrong (hint, promises) and what worked (hint, generators). You’ll leave this talk with a solid grasp of how to combine promises, generators, and coroutines for async work — whether it’s for a Tamagotchi or your day-to-day work.
 
 - title: TensorFlow.js + Node
+  lang: en
   type: regular
   level:
   time: 2018-09-20 12:15:00
@@ -99,6 +105,7 @@
     TensorFlow.js is a library for training and deploying ML models in the browser and through Node.js. i'd like to present about the current state of TensorFlow in Node and highlight some examples with demos and other use cases. We have a variety of demos that run in the browser and also purely under Node.js. Our library shipped in April of this year and we are actively driving ML into the JS and Node communities. We think this would be a great venue to showcase ML.
 
 - title: Internationalisation is a Piece of Cake
+  lang: en
   type: regular
   level:
   time: 2018-09-20 14:15:00
@@ -115,6 +122,7 @@
     Although more than half of the world’s websites are in English, only about 25% of web users are English speakers. With half of the world’s population connected and more coming online every minute, internationalisation is as relevant as ever! Let’s explore how i18n gets made on the web and what we should keep in mind or avoid when making the web more accessible to the world.
 
 - title: Be the Ally You Think You Are
+  lang: en
   type: regular
   level:
   time: 2018-09-20 14:45:00
@@ -131,6 +139,7 @@
     You care about getting more underrepresented folks into your company and community. You volunteer at events. You support CoCs. You reach out to people you know and encourage them to apply at your company, where you are nice to them every day. You support the no-asshole rule. You’re doing great, right? Maybe not. Let’s talk about why some “ally best practices” may not be as effective as you want them to be, and explore, with anecdotes & research, actionable suggestions for being better allies to your underrepresented colleagues.
 
 - title: How Does JavaScript Math?
+  lang: en
   type: regular
   level:
   time: 2018-09-20 15:15:00
@@ -147,6 +156,7 @@
     If you've spent much time writing (or debugging) JavaScript, you've probably come across some quirky behavior, especially in the strange and wonderful ways Javascript handles math. To unravel the mystery of JavaScript addition, we will go on an empirically-structured adventure through the JavaScript web console, Mathmagic Land, and the ECMAScript Language Specification. With some help from Donald Duck, you will emerge with new perspective on the methods behind the JavaScript madness, and the inspiration and tools to explore new mysteries in JavaScript yourself!
 
 - title: Why You Had a Bad Time With Microservices
+  lang: en
   type: regular
   level:
   time: 2018-09-20 16:00:00
@@ -163,6 +173,7 @@
     We've all been there— working on a project that has grown large and difficult to work on. You're afraid to make any changes in one part of the system for fear that it will break at least 6 unrelated other parts. It takes you months to bring new team members up to speed on your project. You have deadlines coming up, but your system is so difficult to work on that you just have to accept that working nights and weekends is now the new normal. And then you read about microservices, the idea that you take parts of your big app and put them on a different server and speak to them over HTTP. And then it's all rainbows and unicorns again, right? Right? This talk starts by taking a critical look at the microservices trend, asking and answering important questions like. Does the term "microservice" actually mean anything? Does breaking an app apart make it simpler to work on? What actually is a service? Is the size of a code base what makes it a service or not? Do I need Kafka or RabbitMQ to have a service-based architecture? It then proceeds with a path that actually *can* remove the coupling in your system, exploring architectural ideas like event sourcing and command query responsibility separation (CQRS). This talk is born out of real-world experience, and you'll leave with tools you can put into action today regardless of the size of your team.
 
 - title: Love Thy Keyboard
+  lang: en
   type: regular
   level:
   time: 2018-09-20 16:30:00
@@ -179,6 +190,7 @@
     Keyboard accessibility is extremely critical, as many assistive devices emulate the keyboard. Using semantic HTML one can achieve accessible UI with less code than non-semantic markup. Along with Semantic HTML, by managing and guiding focus, developing an accessible UI is not difficult, rather easy. Semantic HTML plays an important role in Accessibility as well as SEO. Though we are aware of it, it's often overlooked. This presentation will share the trade-offs of using semantic vs non-semantic markup with an everyday example and how to manage and guide focus. It's a brief presentation emphasizing the various aspect of keyboard accessibility. Last but not the least a brief introduction to WAI-ARIA.
 
 - title: Do You Read Me? — Better Communication for Stronger Teams
+  lang: en
   type: regular
   level:
   time: 2018-09-20 17:00:00
@@ -195,6 +207,7 @@
     Have you ever had troubles understanding a comment in a code review? Made a joke, and it fell flat with half of your teammates? Tried to write a document, and run into issues with wording it clearly? Struggled to get a clear response from a teammate who’s three floors down, or on the other side of the planet? Run into a fundamental misunderstanding? Communication is the foundation of how we all work together. Every day, we go through pull requests, pairing sessions, meetings, calls, chats, emails, and conversations by the water cooler, in person or online. We navigate various communication channels and modes, and try to communicate well with people with different roles, experience levels, cultural and professional backgrounds, and time zones. The way we communicate has enormous impact on each of us individually, for teams and organisations. But communicating well is incredibly hard—for all of us. The great news is that communication is something all of us can always get better at, so let’s learn together, and from each other. Based on learnings from work with different engineering teams, this talk aims to inspire you to be more deliberate in how you communicate, and find better ways to hear others, and be heard. Leave this talk knowing the golden rules of emoji use, why every team should have communication guidelines, and what steps you can take to communicate more inclusively, empathically, and effectively with your teammates—and about the great effects it can have on you and your team.
 
 - title: An Oral History of Modern Web Development
+  lang: en
   type: regular
   level:
   time: 2018-09-21 09:30:00
@@ -211,6 +224,7 @@
     "And you may find yourself, living in a shotgun shack... And you may ask yourself, well how did I get here?" Many of the technologies we use today in modern web development seem perplexing to outsiders. Webpack, Parcel, Grunt, Gulp, Babel, Uglifier... It's hard to keep track of what's in and what's out. How did we get here? Although we may all feel like "Things were better in the days where we were just writing HTML with sprinklings of JavaScript," there's a reason why we put up with some of the complexity in modern web development. Although we have many tools and things are constantly changing, these tools exist for a reason and serve a valuable purpose. This talk provides an oral history of modern web development and its inciting incidents, like the introduce of XMLHttpRequest or the concatenation of JavaScript files into a single bundle. Listeners of this talk should come away with an understanding of why we have some of the tools we do in modern web development, and where we might be headed.
 
 - title: WordPress is JavaScript
+  lang: en
   type: regular
   level:
   time: 2018-09-21 10:00:00
@@ -227,6 +241,7 @@
     How do you tell the world's largest open source community that they have to change? Three years ago WordPress co-founder Matt Mullenweg exhorted WordPress developers to "learn JavaScript deeply". This announcement kicked off a massive project to re-imagine the editor of the most widespread CMS in the world as an accessible, modern single-page JavaScript application; and in the midst of this change, the WordPress community has confronted deep fear, uncertainty and doubt as over half a million PHP developers began to question whether their skills were now irrelevant. This talk is the story of how we've managed the stress and change of rewriting and recreating a fifteen year old piece of software with new languages, tools and frameworks, without leaving our community behind in the process.
 
 - title: Try, Raise, Exception
+  lang: en
   type: regular
   level:
   time: 2018-09-21 10:30:00
@@ -243,6 +258,7 @@
     Unions may appear out of place in the modern offices of most tech companies, but technology, society, and labor are tightly bound. Together, we’ll explore the history of the American labor movement (the good and the bad) and consider what that history might teach us about technology, our work, and how we impact the world.
 
 - title: WebAssembly for Performant Interactivity
+  lang: en
   type: regular
   level:
   time: 2018-09-21 11:15:00
@@ -259,6 +275,7 @@
     Following Diffy.js, an open-source browser-based motion detection library I released last year, I'm now working on porting the code to Rust and targeting WebAssembly to create high performance motion detection functionality using the browser's `getUserMedia` API. I will discuss the technical challenges, limitation, opportunities and nuances as well as artistic practice using code, interaction design and appropriating the browser as an expressive medium/platform.
 
 - title: Slides About Slides
+  lang: en
   type: regular
   level:
   time: 2018-09-21 11:45:00
@@ -275,6 +292,7 @@
     Accessibility! Progressive Web Apps! Cutting-Edge JS and CSS! Progressive Enhancement! What do these all have in common? A SLIDE DECK! Let’s layer them like a cake and learn to build a presentation framework, all while seeing how we can make our every-day work better for all! This talk will use a custom JavaScript presentation framework, the one used to build the slides the attendees are seeing, as a case study and analogy for modern JavaScript apps. We’ll look at some of the challenges facing modern web development and see some practical examples and solutions for solving them. In this talk, we’ll cover Accessibility and semantic, richly marked up HTML, especially with keyboards and screen readers in mind Progressive enhancement, including a modern take on the “cutting the mustard” technique Performance and UX improvements with Intersection Observers, Prefetching, and Preloading Dealing with state, even if you’re starting from HTML and not a JSON object Making it all work offline with Service Workers How they all build on and inform each other You’ll also learn a bit about the thought process used to come up with the solutions presented, which you can take back and apply to your projects today!
 
 - title: CRDT and other new ideas for client-server communication
+  lang: en
   type: regular
   level:
   time: 2018-09-21 12:15:00
@@ -291,6 +309,7 @@
     Many application stops to work with a slow or unstable connection. Loaders block our UX on every small step. Most of the application doesn’t have offline support and live updates. We are not ready for next billion users with slow Internet. But also we are not ready for the unstable Internet in metro or low-signal LTE. Andrey Sitnik, the creator of PostCSS and Autoprefixer, will speak about new ideas in client-server communications. How the mix of ideas behind CRDT, distributed computing, and Elm/Redux could change the UX in most of applications.
 
 - title: The Wide World of Serverless
+  lang: en
   type: regular
   level:
   time: 2018-09-21 14:15:00
@@ -307,6 +326,7 @@
     Wait, wait, wait. We *just* spent 10 years convincing folks that JS belongs on servers, and now you're saying "get rid of servers"? Not exactly! Serverless definitely still has servers, but it's a new style of cloud architecture that allows you to deploy your Node.JS code faster and with much less infrastructure and overhead! In this talk, we'll go over what serverless is (and is not), why/when you would want to use this new architecture, and we'll build a small sample application on stage!
 
 - title: The Pharos Of PWA, Deconstructing a Lighthouse Audit
+  lang: en
   type: regular
   level:
   time: 2018-09-21 14:45:00
@@ -323,6 +343,7 @@
     Legend has it that the lighthouse at Pharos helped ships avoid rocks that would wreck them, instead guiding them safely to port. Today, Project Lighthouse serves that purpose for modern progressive web apps by not only shedding a light on potential rocks that wreck app performance -- but also providing audit guidance that allows developers to navigate their way towards the safe harbor of PWA compliance. We've all heard of Lighthouse audit scores. Chances are we've run the audit report, then blindly followed the guidance to get ourselves to that perfect 100. But have you ever wondered how it works? And why the issues revealed by the audit are important? And what the guidance provided actually achieves? Come join me as we set sail into the Project Lighthouse documentation. We'll learn how to run a Lighthouse audit on a selected website, and use some of the guidance to changes that improve our audit scores. The bulk of the talk will then drill down into the features that Lighthouse evaluates for Performance, PWA compliance, Accessibility, SEO & more. At the end of the talk, we'll walk away with a better sense of the metrics, goals & best practices involved in crafting modern performant & progressive web apps.
 
 - title: Diasporas, Data, D3.js, Oh My!
+  lang: en
   type: regular
   level:
   time: 2018-09-21 15:15:00
@@ -339,6 +360,7 @@
     Data visualization can be a powerful tool for education and empathy. In this talk, I’ll go over how using D3.js to track Bengali immigration post independence helped not only resolve cultural identity but also revealed how immigration data for an emerging country is maintained and the negative effects that it can have on women and children.
 
 - title: Living with Legacy JavaScript, Event Proxies, App Seams, and Chunking Rewrites
+  lang: en
   type: regular
   level:
   time: 2018-09-21 16:00:00
@@ -355,6 +377,7 @@
     When your monolithic codebase has existed for more than two years and its front-end library composition is an amalgam of Backbone, jQuery, React, and Redux, the desire to toss it all and start from scratch can be tempting. And although that is sometimes the right call, there are many ways to refactor your app and migrate chunks of it over to a unified framework while continuously shipping new features. At the Flatiron School, we have faced the problem of a Frankenstein’s monster-esque front-end firsthand. The bulk of our front-end app for Learn.co was redesigned in 2015 and resides in Backbone/Marionette, but a few months later, we decided that all future features would be written in React. For years, the overlap between domains has been small enough that new features could be spun up in React, and the systems could coexist in relative harmony and isolation. However, as both our business and our engineering team have grown, new requirements with ambitious deadlines as well as features like the Learn in-browser IDE have compelled us to rewrite much of the core app’s functionality and reconcile the differences between the libraries and frameworks. Throughout our feature development process, we look for seams where we can rewrite legacy code in React and assess that cost, but when the deadlines take precedence, we build bridges of communication between our systems to buy us time to pay down the technical debt. In this talk, I’ll outline how we look for seams in our app for rewrites. I’ll also walk through concrete examples of new feature requirements and how we built proxies to facilitate communication between Backbone Radio and Redux. Finally, I’ll discuss an example of when a rewrite of one app proved more problematic than anticipated.
 
 - title: Make Your Own ORM - A Guide to When and How
+  lang: en
   type: regular
   level:
   time: 2018-09-21 16:30:00
@@ -375,6 +398,7 @@
     During our work on Medicare implementing the largest change in the program's history, I've seen how requirements can shift drastically as features evolve. While this can be painful for an engineering team, architecture decisions like choosing an ORM can be used as a tool, rather than a crutch. We'll explain the reasons our team decided to write our own ORM and how this choice allowed us to support adaptation to feedback, ultimately better serving end-users. This talk will describe real-life examples of how an ORM choice can empower engineers to better adapt to shifting requirements and recommendations for writing your own mini ORM.
 
 - title: Recreating Retro Art with JS!
+  lang: en
   type: regular
   level:
   time: 2018-09-21 17:00:00

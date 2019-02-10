@@ -1,4 +1,5 @@
 ﻿- title: Design Systems for React Developers type
+  lang: en
   type: workshop
   level:
   time: 2018-04-24
@@ -14,6 +15,7 @@
     Development of digital products is a complex process that involves multiple  and roles managers, designers, engineers, QA, and customers. This increases the communication overhead, slows down the process, and oftentimes results and less than ideal user experience.Design systems offer a systematic approach to the process of product creation. This approach establishes an organization-wide design language that can be backed into a UI library and the styleguide and becomes the single source of truth for the entire organization. Component libraries and living styleguides encourage reuse, promote consistency, improve team productivity, help to identify common patterns and solve similar problems only once.
 
 - title: Make linting great again!
+  lang: en
   type: regular
   level:
   time: 2018-04-25 16:45:00
@@ -30,6 +32,7 @@
     No other topic in software development probably has so much controversy as linting.With a wrong workflow linting can be really a pain and will slow you and your team down. With a proper setup, though, it can save you hours of manual work reformatting the code and reducing the code-review overhead.This talk is a quick introduction into how 🚫💩 lint-staged — a node.js library I created and maintain — can improve developer experience in historically pita field — linting.Coupled with tools that analyze and improve the code like ESLint, Stylelint, Prettier and Jest, you will witness how much difference can a small tool like this make.
 
 - title: Declarative state and side effects
+  lang: en
   type: regular
   level:
   time: 2018-04-25 10:00:00
@@ -46,6 +49,7 @@
     Writing declarative code for our UIs is so common that we do not even think about it. But when it comes to writing logic for managing state and side effects it requires a lot of discipline to get the same benefits. We are going to talk about how we can get help writing our business logic in a declarative manner and see what benefits it gives us.
 
 - title: Reactive State Machines and Statecharts
+  lang: en
   type: regular
   level:
   time: 2018-04-26 12:30:00
@@ -62,6 +66,7 @@
     Managing the many user interface states of an application easily becomes complicated. We will discover how some historical and important computer science concepts – state machines and statecharts – and a functional + reactive approach can make it much easier to understand, visualize, implement, and automatically create tests for complex user interfaces and flows.
 
 - title: There's always a better way to handle localization
+  lang: en
   type: regular
   level:
   time: 2018-04-25 11:20:00
@@ -78,6 +83,7 @@
     From the very first prototype to a global site with content in multiple languages, the textual content of your app or project will be a series of compromises, some of which you wont even notice making. Localization is a ridiculously difficult problem in the general case, but in the specific you can get away with really simple solutions, especially if you understand the compromises youre making.
 
 - title: Why I YAML
+  lang: en
   type: regular
   level:
   time: 2018-04-25 17:15:00
@@ -93,6 +99,7 @@
     I'm writing my own YAML library, because none of the existing ones allowed me to manage comments within YAML files. Apparently this is not a thing one should do. The YAML spec is larger than the XML and XML Namespaces specs combined. No one in their right mind would want to write a parser for it.But, well, here we are. Let me explain where "here" is, the route I took, and why any of this matters.
 
 - title: React Native Ignite
+  lang: en
   type: regular
   level:
   time: 2018-04-26 15:45:00
@@ -109,6 +116,7 @@
     Life can be simple again. Haven’t we built the same house, or given the same haircut over and over? 80% of mobile app development is the same old song. So why is mobile so difficult/expensive? It’s not with React Native.Let,s look at how simple it is to get started in React Native using Ignite CLI. Using Ignite, you can jump in with a popular combination of technologies, OR brew your own. Ignite is the freedom to learn and automate your mobile app.
 
 - title: The New Best Practices
+  lang: en
   type: regular
   level:
   time: 2018-04-25 09:15:00
@@ -125,6 +133,7 @@
     When React was first introduced, it was ridiculed for going against established web development best practices as we knew them. Five years later, React is the gold standard for how we create user interfaces.Along the way, we’ve discovered a new set of tools, design patterns and programming techniques. In this talk, we’ll explore how we can apply the React philosophy to software engineering problems far beyond the React ecosystem.
 
 - title: Static Websites - The Final Frontier
+  lang: en
   type: regular
   level:
   time: 2018-04-26 09:45:00
@@ -142,6 +151,7 @@
 
 
 - title: Styled Components, SSR, and Theming
+  lang: en
   type: regular
   level:
   time: 2018-04-25 12:30:00
@@ -158,6 +168,7 @@
     All you need to know to become hero of CSS-in-JS with styled-components. We will go through the new API, performance improvements, server side rendering with Next.js and the theming manager available with v2 of styled-components.
 
 - title: How React changed everything
+  lang: en
   type: regular
   level:
   time: 2018-04-26 09:15:00
@@ -174,6 +185,7 @@
     This talk will examine how React changed the front end landscape as we know it. We will start by recounting the pre-React landscape, including prior art. Next, we will venture into the introduction of React, and its reception and growth.But most importantly, we will take a look at the core idea of React, and why it transcends language or rendering target and posit on what that means going forward, including what React might look like years from now.
 
 - title: World Class experience with React Native
+  lang: en
   type: regular
   level:
   time: 2018-04-26 14:45:00
@@ -190,6 +202,7 @@
     A case study of the app I am currently working on with my team. I will show you how we managed to set up a friendly environment with the best DX, spot bugs in early stage and deliver continuous builds to QA (just by merging the PR’s). I will also cover dropping classic state management thanks to apollo-link-state and overcoming react-native and metro-bundler limitations. You cant miss this one!
 
 - title: Immer Immutability made easy
+  lang: en
   type: regular
   level:
   time: 2018-04-25
@@ -205,6 +218,7 @@
     Immer is a tiny package that allows you to work with immutable data structures with unprecedented ease. It doesnt require learning new data structures or update APIs, but instead creates a temporarily shadow tree which can be modified using the standard JavaScript APIs. The shadow tree will be used to generate your next immutable state tree. Join this talk to see how to write your reducers in a much more readable way, with half the code and without requiring additional large libraries.
 
 - title: Get started with Reason
+  lang: en
   type: regular
   level:
   time: 2018-04-26 10:15:00
@@ -221,6 +235,7 @@
     We will kick off with the basics and then quickly go into how to leverage features like variant types and pattern matching to make impossible states impossible. After you gained some knowledge about the basics the course will dig even further into ReasonReact.
 
 - title: Making Unreasonable States Impossible
+  lang: en
   type: regular
   level:
   time: 2018-04-26 11:00:00
@@ -237,6 +252,7 @@
     Based on nikgraf introduction to Reason (Get started with Reason)tis talk goes deeper into the world of variant types and pattern matching and puts them into a practical context. You will learn how these tools help you design solid APIs, which are impossible to misuse by consumers.Additionally you will get more insights into practical ReasonReact code.
 
 - title: Get Rich Quick With React Context
+  lang: en
   type: regular
   level:
   time: 2018-04-25 11:10:00
@@ -253,6 +269,7 @@
     With React 16.3, the context API has been completely revamped. This talk will demonstrate a good use case for context Putting ad placements on your web page to get rich quick! You will learn how easy it is to use context now and how to migrate your old context code to the new API.
 
 - title: Detox A year in. Building it, Testing with it
+  lang: en
   type: regular
   level:
   time: 2018-04-25 15:45:00
@@ -269,6 +286,7 @@
     A year in, developing and using Detox in production taught us a lot. From designing its API to consuming it, testing real user scenarios to advanced mocking, we learned what makes sense when E2E testing an app and what doesn’t.In this talk, we’ll discuss how Detox works and what makes it deterministic, cover some advanced use cases and methodologies, go over new features and tease the ones that are upcoming.
 
 - title: State Management in React Apps with Apollo Client
+  lang: en
   type: regular
   level:
   time: 2018-04-25 14:45:00
@@ -285,6 +303,7 @@
     Apollo has given us freedom and happiness when it comes to managing our data coming from the server but we still had to write code and sometimes a lot of it to manage our local state? Well, what if we managed it with queries too? Sounds too awesome right? Lets learn how to do this with apollo-link-state.
 
 - title: ReactVR
+  lang: en
   type: regular
   level:
   time: 2018-04-26 13:30:00
@@ -301,6 +320,7 @@
     WebVR enables web developers to create frictionless, immersive experiences. We’ll explore the core concepts behind VR, see different demonstrations, learn how to get started with React VR and how to add new features from the Three.js library.
 
 - title: Universal React Apps Using Next.js
+  lang: en
   type: regular
   level:
   time: 2018-04-25 13:30:00
@@ -317,6 +337,7 @@
     Every user’s hardware is different, and processing speed can hinder user experience on client-side rendered React applications. Server-side rendering and code-splitting can drastically improve user experience by minimizing the work that the client has to do.It’s easy to get lost in the lingo, so come learn what it all means and how to easily build universal React apps using the Next.js framework. We’ll walk through the concepts and use code examples to cement your understanding. You’ll get the most out of this session if you’re comfortable with React and ES6 syntax.
 
 - title: Understanding the differences is accepting
+  lang: en
   type: regular
   level:
   time: 2018-04-25 17:00:00
@@ -333,6 +354,7 @@
     I want to show you that the unexpected JavaScript things you encountered are understandable by humans and formally specified.
 
 - title: React Finland App - Lessons learned
+  lang: en
   type: regular
   level:
   time: 2018-04-26 15:15:00
@@ -349,6 +371,7 @@
     The first app that we could publish to App Store and play store, and what we learned on the way.
 
 - title: How to use React, webpack and other buzzwords if there is no need
+  lang: en
   type: regular
   level:
   time: 2018-04-26 16:45:00

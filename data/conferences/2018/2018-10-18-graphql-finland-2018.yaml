@@ -1,4 +1,5 @@
 - title: Adopting GraphQL in Large Codebases
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -15,6 +16,7 @@
     With the vibrant and growing GraphQL ecosystem and community, it's simpler than ever to start using GraphQL in your project. However, adopting GraphQL incrementally (and carefully!) in huge codebases powering large distributed systems is not quite as straightforward. We'll dive into how Airbnb is tackling this challenge, what we've learned so far, and how we plan to continue evolving our GraphQL infrastructure in the future.
 
 - title: Emerging uses of GraphQL for rapid application development
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -31,6 +33,7 @@
     GraphQL makes dealing with application data a breeze, especially with open source libraries such as Apollo. However, many schemas simply mirror their RESTful counterparts, limiting their overall usefulness. In this talk I will cover emerging patterns that enable rapid GraphQL-powered application development.
 
 - title: Going offline first with GraphQL
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -47,6 +50,7 @@
     We live in a world that is online 24/7. Even so, we are reasonably lenient on the web when we're not connected to the internet. However, for mobile apps, not working in flakey connectivity zones is borderline unacceptable. Users expect your app to work offline (though they don't phrase it like that). They really don't care that a network request has failed or is taking a long time. And thankfully, we developers can make it happen.
 
 - title: Life is hard and so is learning GraphQL
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -63,6 +67,7 @@
     Learning a new technology can be daunting. For many of us, the way we try to make sense of a new technology is through their documentation and the examples we see online. The problem with GraphQL is that - because there’s no “vanilla” GraphQL - there’s no central hub for all of the information and tooling necessary to learn. While documentation is meant to serve as a tool for teaching, it’s underutilized and scattered throughout our community.
 
 - title: Building efficient, waterfall-free GraphQL applications
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -79,6 +84,7 @@
     GraphQL makes it easy to query your back end efficiently. However, when building large applications, this is not always enough on its own. For these larger projects, it’s easy to run into situations where requests still wait on each other, to the detriment of user experience. In this talk, we’ll explore how these problems arise, and look at strategies for mitigating these problems.
 
 - title: Building tools for GraphQL
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -95,6 +101,7 @@
     Adopting GraphQL can be fairly demanding and it takes some time to find the right tooling. What can we do to improve DX and supercharge our GraphQL development? Let's deep-dive into GraphQL tooling that help us building GraphQL at scale.
 
 - title: (Un)expected use of GraphQL
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -110,6 +117,7 @@
   description: |-
 
 - title: End-to-end type-safety with GraphQL
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -126,6 +134,7 @@
     GraphQL is becoming the new standard for API development and shows rapid adoption both on the client and server. This talk dives deep into one of the most powerful features of GraphQL - its type-system. See how GraphQL can be used to enable end-to-end type-safety across any language, making your application architecture more resilient and easier to evolve.
 
 - title: Real-time GraphQL with Event Sourcing
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -142,6 +151,7 @@
     GraphQL makes real-time easy with its Subscriptions support, but how easy is it to build a backend that puts real-time data first? With event sourcing, its easier than you think! The ability to easily subscribe to data changes and have blazing-fast reads on our data sets at Gatsby enables our team to build a sophisticated cloud-native offering that is flexible for even the most demanding product requirements. Join Andrew as he gives a thirty-thousand foot overview of event sourcing and how naturally it fits with GraphQL and subscriptions.
 
 - title: Hidden gems of GraphQL query
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -158,6 +168,7 @@
     We all love GraphQL query syntax because it’s simple and easy to learn. At the same time, it has a few useful features that are typically overlooked. If you think that you already know everything about GraphQL queries this talk is for you. Warning this talk will contain spoilers from GraphQL Specification.
 
 - title: Reason and GraphQL
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -175,6 +186,7 @@
     Using Reasons type inference we can create GraphQL servers with 100% type coverage. Regardless if we compile to Node.js or native binaries using Reason we can do this with ease.Besides that Reason shines even more so on the client. Send one quick introspection request and you get full autocompletion on your schema right in the browser.
 
 - title: graphql-php
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -190,6 +202,7 @@
   description: |-
 
 - title: Writing a realtime GraphQL backend as a compiler in Haskell
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -206,6 +219,7 @@
     At Hasura, we’ve been building a high-performance GraphQL backend that can handle a large number of subscription connections. We took a few interesting approaches to tackle this problem, and in this talk I’ll go over the key architectural decisions, programming constructs and of course the unforeseen implementation pitfalls we ran into. I’ll also cover tools from the Haskell ecosystem that made this possible. These are some of the topics I’ll touch upon
 
 - title: Where art thou, my error?
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -221,6 +235,7 @@
   description: |-
 
 - title: Database-first GraphQL Development
+  lang: en
   type: regular
   level:
   time: 2018-10-19
@@ -237,6 +252,7 @@
     Learn how a database-centric approach to GraphQL API development can give your engineers more time to focus on the important parts of your application. Topics covered include authorization, adhering to GraphQL best practices, embracing the power of PostgreSQL, and avoiding common pitfalls.
 
 - title: Mysterious closing keynote
+  lang: en
   type: regular
   level:
   time: 2018-10-19

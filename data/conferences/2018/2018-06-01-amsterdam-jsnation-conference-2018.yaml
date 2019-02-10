@@ -1,4 +1,5 @@
 - title: 'Keynote: The Power of the Paradigm'
+  lang: en
   type: regular
   level:
   time: 2018-06-01 09:30:00
@@ -14,6 +15,7 @@
   description: |-
 
 - title: Bringing Mobile Web back to Life
+  lang: en
   type: regular
   level:
   time: 2018-06-01 10:00:00
@@ -30,6 +32,7 @@
     We rebuilt the whole Pinterest mobile web experience for authenticated users. It looks and feels just like our native apps while maintaining the fast load times expected of mobile web. We used cutting edge technologies which led to a 40% increase in each of our core engagement metrics and up to 30% in time spent. But it was not all sunshine and rainbows ! In this talk I will share challenges, technologies and best practices that we used for the new Mobile Website.
 
 - title: Vue JS Best Practices
+  lang: en
   type: regular
   level:
   time: 2018-06-01 10:30:00
@@ -46,6 +49,7 @@
     At GitLab we use Vue JS in production more than a year. I refactored old parts of GitLab with Vue and created many new features using the framework. We are really impressed how Vue is simple yet powerful. First 10 mins of the talk are an introduction for new comers, then deep dive into the best techniques, like state management, reactivity, tooling and also the experiences about new feature development and migrating a legacy featue to Vue.
 
 - title: console.log(brain)
+  lang: en
   type: regular
   level:
   time: 2018-06-01 11:30:00
@@ -62,6 +66,7 @@
     What if you could log your brain to the developer console, typing with your brain signals? This talk is a demonstration of an open-source Brain-Computer Interface that is completely developed with JavaScript, from the ground up, using neural networks and signal processing. Armagan hits the stage with a wireless EEG headset, shows how to read signals from the brain in JavaScript using native C++ Node.js modules over USB, and the implementation in Electron, Node.js and Vue.js.
 
 - title: TypeScript Ruined My Life (In a Good Way)
+  lang: en
   type: regular
   level:
   time: 2018-06-01 12:00:00
@@ -78,6 +83,7 @@
     Some tools are so useful that once you've used them in one project, it is hard to work on other projects without them. React was certainly that way for me when I first started, and now TypeScript has become the same way. This talk will cover why typed JavaScript, especially in large codebases, is worth the added effort. I will discuss my personal experiences - the good, the bad, and the ugly - and talk about why I can't seem to start a project without `npm install typescript`.
 
 - title: How to sort your socks using Javascript
+  lang: en
   type: regular
   level:
   time: 2018-06-01 12:30:00
@@ -94,6 +100,7 @@
     No matter your experience in JS, you have probably came across the Array#sort method at some point. Do you remember the first time you tried sorting numbers? You were probably astonished that the sort method does not sort things out quite as we might expect. Believe it or not, there is actually much more going on than meets the eye! Let’s get our computer science hat on and explore some useful sorting algorithms currently implemented by JS engines used by Node such as Chrome's V8 and Microsoft's Chakra. As a developer, learning how these algorithms work, why and when to use them will help you create more performant and consistent applications!
 
 - title: Look ma! No hands!
+  lang: en
   type: regular
   level:
   time: 2018-06-01 14:40:00
@@ -110,6 +117,7 @@
     The main points of the presentation will be focused on tips and best practices regarding WebXR UX. I will have a several VR devices ready to show how an experience can be adapted to run independently of the hardware that's available to the user. Main point is to teach developers how can they make their content truly accessible with as little as possible.
 
 - title: Callback heaven
+  lang: en
   type: regular
   level:
   time: 2018-06-01 15:10:00
@@ -126,6 +134,7 @@
     Programming with callbacks has been every JavaScript programmer's struggle since always. "Callback hell" is the reason why we have created Promises, Observables, reactive programming libraries, and other smart tools to help us avoid using callbacks directly. In this talk, we'll go beyond reactive programming and take a fresh look at callbacks. We will discover an incredible pattern among simple callbacks, that allows us to do everything that Observables or Promises or Iterables can do, and through familiar functional APIs. That pattern is fondly named "Callbags".
 
 - title: How to scale an SPA?
+  lang: en
   type: regular
   level:
   time: 2018-06-01 15:40:00
@@ -142,6 +151,7 @@
     I'm going to tell you a secret. If you are building an SPA, you can take advantage of optimisations that give you epic scalability, with super low latencies at a fraction of the cost. To understand the secret, I'll need to teach you a few things such as the actors involved in transferring data from your server to the browser; and about the ancient technology called 'serverless' which you might be surprised to learn is something you've already been using for years. By the end, you'll know the secret of how to architect an SPA for scale without breaking the bank.
 
 - title: Persistence Cycle - A Successful Structure for Isomorphic Apps
+  lang: en
   type: regular
   level:
   time: 2018-06-01 16:10:00
@@ -158,6 +168,7 @@
     Isomorphic (also known as Universal) JavaScript apps have been described as the "Holy Grail" of web development. Developers don't have to write redundant code on the server and the client. Users get the best experience, with both fast initial load and even faster subsequent page views. Googlebot is happy, too, not having to execute client side JS to crawl your site. And with React, Vue and Angular all supporting server side rendering on Node.js, this is more achievable than ever. In this talk, I'll talk about a simple structure for sharing state between server and browser that we at BCGDV Berlin have successfully used in four products we launched in the last 18 months.
 
 - title: The dark ages of IoT
+  lang: en
   type: regular
   level:
   time: 2018-06-01 16:40:00
@@ -174,6 +185,7 @@
     Advertisements suggest that we are at the zenith of mankind's scientific knowledge and technological power, but when it comes to IoT and the so-called 'Smart Home', we are clearly not. In fact, we are in the middle of the dark age. I'll explain the challenges that we're facing today (from an implementors perspective), what's 'wrong' with our current products & show you how a smart 'Smart Home' experience could look like in the near future.
 
 - title: Tales from the QA crypt
+  lang: en
   type: regular
   level:
   time: 2018-06-01 17:10:00
@@ -190,6 +202,7 @@
     An anthology of QA horror stories from the past, and how to avoid such situations with TDD. When tests are built in from the beginning and not tacked on after features are built, fewer defects are created and development moves faster. JavaScript has all the tools required to cover your automated testing needs, and writing tests in the same language as your app is a no brainer. We'll cover the tools available today and the logistics of merging your QA and dev teams.
 
 - title: Fun with Bluetooth
+  lang: en
   type: regular
   level:
   time: 2018-06-01 17:40:00
@@ -206,6 +219,7 @@
     Time for JavaScript to get physical. With WebBluetooth the browser can actually take control of all kinds of physical devices in the real world like lightbulbs, robots and even drones. And nowadays you can even run JavaScript straight on microcontrollers and even little Bluetooth beacons. This talk will teach you the basics that you need to get started and give a peek at some more advanced topics like building your own Bluetooth devices using just JavaScript
 
 - title: Embrace Reactive Programming in React and Vue with RxJS
+  lang: en
   type: regular
   level:
   time: 2018-06-01 10:00:00
@@ -222,6 +236,7 @@
     Combine the power of RxJS with your preferred components library (React or Vue).
 
 - title: Webpack + WebAssembly the future
+  lang: en
   type: regular
   level:
   time: 2018-06-01 10:30:00
@@ -238,6 +253,7 @@
     Webassembly is the future of web development. It makes your application smaller and faster. How easy is it to kickstart WebAssembly with Webpack? What webpack4 offers us to make webassembly even more easier.
 
 - title: Accelerating Ethereum Development with Node.js and Docker
+  lang: en
   type: regular
   level:
   time: 2018-06-01 11:30:00
@@ -254,6 +270,7 @@
     At oneUp.company we build a lot of MVPs based on Ethereum smart contracts and Vue. To accelerate this process, we have been using Node.js and Docker to automate the manual steps. The boilerplate code for this is now made available on Github, making the creation of Ethereum dApps smoother for everyone. During this presentation we present this boilerplate code and give pointers on how to best use Node.js and Docker for Ethereum smart contracts.
 
 - title: 'Dart: the return'
+  lang: en
   type: regular
   level:
   time: 2018-06-01 12:00:00
@@ -270,6 +287,7 @@
     Do you remember anything about the Dart programming language? Time have changed, and the second coming is near. I'll show you what happened with “JavaScript killer”, and why do you need to try it right now.
 
 - title: Legalize JavaScript for the Enterprise Now!
+  lang: en
   type: regular
   level:
   time: 2018-06-01 12:30:00
@@ -285,6 +303,7 @@
     Do you suffer from Java fatigue at your organization? Are you blocked to introduce JavaScript in your project just because traditionally you only deploy on the JVM? In this talk I will show you how you can fight this! Let’s run JavaScript using all your favorite npm modules legally on the JVM!
 
 - title: 'ECMAScript Modules: Past, Present, and Future'
+  lang: en
   type: regular
   level:
   time: 2018-06-01 14:40:00
@@ -301,6 +320,7 @@
     Since last year, all major browsers support ECMAScript modules, and Node.js is looking to support them as well. Join me for a tour! I will tell you about the history behind the feature, compare it to other JS module systems, explain the new syntax forms and their meaning, discuss some of the pitfalls, and give an overview of proposed extensions.
 
 - title: 'Optimized Angular apps: smaller, faster, better'
+  lang: en
   type: regular
   level:
   time: 2018-06-01 15:10:00
@@ -317,6 +337,7 @@
     Angular apps are getting more performant with each new version of the framework - thanks to the huge number of internal optimizations. But the main responsibility for the eventual app performance is on us, developers. Let's go through the main points on how we could help the framework to build and the browser to perform our app better.
 
 - title: Building functional Front-ends with ClojureScript
+  lang: en
   type: regular
   level:
   time: 2018-06-01 15:40:00
@@ -333,6 +354,7 @@
     Clojure came along into our lives in 2007 as one of the most concise and powerful Lisps, and since them it's been widely adopted by members of the community. Recently, Clojure got a new friend called ClojureScript, which allows us to use Clojure to build robust and reliable front ends. Ever wanted to use a rich data structure set, macros and take advantage of the great performance optimizations present on the JVM? You got it! In this talk I'll go through the super powers ClojureScript can add to the view layer and the benefits of functional programming.
 
 - title: In the Ocean of Angular Web Applications
+  lang: en
   type: regular
   level:
   time: 2018-06-01 16:40:00
@@ -349,6 +371,7 @@
     An online retail website is just the tip of the iceberg hiding a mountain of complexity. Let me walk you through the depths of microservices powering a plethora of Angular applications at bol.com, the biggest webshop in the Netherlands and Belgium - BOL.COM
 
 - title: Mock to start
+  lang: en
   type: regular
   level:
   time: 2018-06-01 17:10:00
@@ -365,6 +388,7 @@
     When you are developing an application that uses remote REST API endpoints, it will be hard to implement a new feature that has not an API implementation yet. Also always you need to have a running API server to continue development. Then, you probably will have some troubles to test some very exceptional issues because it's hard to reproduce that kind of issues. All of these problems can be managed with a very simple client-side mocking approach. At this talk, we will talk about that approach and and how it is easy implementing a client-side mocking solution with connect-api-mocker library.
 
 - title: 'Optimizing assets for graphics heavy Web Applicatoins: tips and tricks from the game dev background'
+  lang: en
   type: regular
   level:
   time: 2018-06-01 17:40:00
