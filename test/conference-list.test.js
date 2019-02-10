@@ -40,6 +40,8 @@ glob.sync('{./data/conferences.yaml,./examples/conferences.yaml}').forEach(file 
 
       // Check if country is valid - reversed actual-expected order, sort of anti-pattern
       conference.location && expect(COUNTRIES).toContain(conference.location.country);
+      conference.location && expect(typeof conference.location.country).toBe('string');
+      conference.location && expect(typeof conference.location.city).toBe('string');
 
       // Check if URL starts with http(s)
       conference.url && expect(conference.url).toEqual(expect.stringMatching(REGEX_URL));
