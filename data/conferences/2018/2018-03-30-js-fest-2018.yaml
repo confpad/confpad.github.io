@@ -1,0 +1,499 @@
+- title: The Power of the Paradigm
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-30 10:00:00
+  room:
+  authors:
+    - name: Douglas Crockford
+      twitter:
+      github: douglascrockford
+      website: http://www.crockford.com/
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-douglas-crockford-the-power-of-the-paradigm
+  videos:
+    - https://youtu.be/X3ExqafLgwk
+  description: |-
+    Progress in our profession happens slowly as we clumsily shift from one paradigm to another. This talk looks at the next important advance in programming, and why we are trying to prevent its adoption.
+
+- title: WebAssembly vs JavaScript
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-30 11:05:00
+  room:
+  authors:
+    - name: Alexandr Skachkov
+      twitter: alSkachkov
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-webassembly-vs-javascript
+  videos:
+    - https://youtu.be/1Ba1l0cieMY
+  description: |-
+    WebAssembly is new, but fast growing technology, that is supported by major browsers. From talk you will know, what is WebAssembly, why it is necessary and what is difference from JavaScript. Also in speech will be covered where to use WebAssembly, but where is better to use JavaScript.
+
+- title: Features in creating React/Redux Cordova IOS/Android Mobile Apps
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-30 11:05:00
+  room:
+  authors:
+    - name: Lilia Karpenko
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-ios-android-mobile-apps-react-redux-cordova
+  videos:
+    - https://youtu.be/MSowIpYiEGw
+  description: |-
+    During the talk, we'll talk about the features of creating an off-standard mobile application using Cordova / PhoneGap + React / Redux. We will go through the main problems that I and my team encountered during the development of the application, the features of the environment and the solutions to which we have come. Consider the most popular plugins for Cordova that allow you to read user information, work with User access and interactions, store data and create Internet calls using WebRTC. There will be a lot of interesting and instructive.
+
+- title: Microservice Architecture with Reusable Components
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-30 12:10:00
+  room:
+  authors:
+    - name: Nikita Galkin
+      twitter: galk_in
+      github:
+      website: http://galk.in/
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018
+  videos:
+    - https://youtu.be/2NoDBZogRFI
+  description: |-
+    DRY (Don’t repeat yourself) is the most frequently violated principle in microservices. For avoiding this issue you can use reusable components, private npm packages for example. Best practices what will help you to achieve this are ECB (entity, control, boundary) pattern, 12 factor manifest, code generation. In our project we use technical stack based on Node.js, Docker, RabbitMQ, but ideas from this talk can be used for any microservice's technical stack
+
+- title: 'Distributed Data: Conflict-free Data Structures in JS'
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-30 12:10:00
+  room:
+  authors:
+    - name: Max Klymyshyn
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-crdt-js
+  videos:
+    - https://youtu.be/aIvD5-MU-Ho
+  description: |-
+    Why managing distributed data is hard and how to employ modern approaches to keep consistent data across browser and mobile clients using JS.
+
+- title: Running JS engine on a microcontroller (UK)
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-30 14:05:00
+  room:
+  authors:
+    - name: Volodymyr Shymanskyy
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-js
+  videos:
+    - https://youtu.be/3GQ2XlYa0NA
+  description: |-
+    JavaScript is everywhere! Just recently I was trying to run the same JS code in Browser, Node.js, and React Native, and now a new challenge occurred - Embedded systems… Keep calm, JS can handle this! During this demo I’ll be talking about JS engines that can work in such limited environments, show some production usage examples, and how fun it is to develop embedded software using JS. [Spoiler] If all goes well, we’ll hack a regular Bluetooth key tag to play the Mario ringtone :)
+
+- title: Mutation Testing in JavaScript
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-30 14:05:00
+  room:
+  authors:
+    - name: Andrey Kucherenko
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-javascript
+  videos:
+    - https://youtu.be/tLgWMPn_CR0
+  description: |-
+    Mutation testing is one of the tools for increase a quality of unit tests and a quality of a project. There is you can find how mutation testing works and tools used for mutation testing for projects written in JavaScript and TypeScript.
+
+- title: W.T.F. is GraphQL? (UK)
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-30 14:05:00
+  room:
+  authors:
+    - name: Ivan Goncharov
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-wtf-is-graphql
+  videos:
+    - https://youtu.be/0iOe78F-2S0
+  description: |-
+    Recently, there is a lot of hype around GraphQL and you are probably wondering if it is a good fit for your project. In my talk, I want to demystify GraphQL by explaining what problems does it solve and how it works internally. I will show how to write requests and send them to the server and how they are executed under the hood. I will also talk about problems of GraphQL and how ready it is for production.
+
+- title: 'React-Native: Introduction'
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-30 15:10:00
+  room:
+  authors:
+    - name: Ilya Ivanov
+      twitter:
+      github: ilyaivanov
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-reactnative-92639379
+  videos:
+    - https://youtu.be/2riePh2ohCc
+  description: |-
+    Creating native mobile applications with JavaScript? How is this even possible? This talk will show how React-Native works and his internal structure. Why React-Native was created and what pros and cons are inherently present in his architecture. But first we will look at the difference between Hybrid Applications, Progressive Web Application and how fundamentally React-Native is different from them.
+
+- title: How to make mobile web app better with Browser APIs
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-30 15:10:00
+  room:
+  authors:
+    - name: Timofey Lavrenyuk
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-api
+  videos:
+    - https://youtu.be/ImZMlHb1Oq0
+  description: |-
+    Want to make your app better? Browser APIs can definitely help you. We will explore what this web development concept is and how to use some of the most common APIs. This report is based on my own PWA project.
+
+- title: The Better Parts
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-30 16:35:00
+  room:
+  authors:
+    - name: Douglas Crockford
+      twitter:
+      github: douglascrockford
+      website: http://www.crockford.com/
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-douglas-crockford-the-better-parts
+  videos:
+    - https://youtu.be/XFTOG895C7c
+  description: |-
+    This talk is about using programming languages more effectively, and using that experience to create and select better programming languages. There are bad practices in software development that are so old and well established that it is difficult to recognize the problems they cause. There will be a review of the new good parts in ES6. JSON will also be mentioned.
+
+- title: Pixel shaders based UI components + let`s write your first pixel shader
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-30 16:35:00
+  room:
+  authors:
+    - name: Denis Radin
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/HAM6dB22dm4
+  description: |-
+    5 years ago shaders became the technology behind all amazing VFX we see in computer games. Now they are ready to rock the Web. In this talk we ll dive into shaders history and theory then move to a real world usage for Web UI development with a little workshop writing your first ever pixel shader.
+
+- title: How Microsoft To-Do Uses React
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-30 17:40:00
+  room:
+  authors:
+    - name: Alexey Migutsky
+      twitter: mr_mig_by
+      github:
+      website: http://mtdv.io
+  slides:
+    - http://slides.com/mr-mig/todo-react-2018#/
+  videos:
+    - https://youtu.be/6WeRZk7hsoE
+  description: |-
+    In this talk, we will learn some practical aspects and considerations of how to build a changeable and maintainable, yet performant web app using React + Redux + Reselect. The main focus will be on "Independently Connected Components" approach, but we will mention some other ideas: mimicking relational databases, DDD, Event Sourcing, State Machines.
+
+- title: 'FaCSSt: CSS & Performance'
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-30
+  room:
+  authors:
+    - name: Harry Roberts
+      twitter: csswizardry
+      github:
+      website: https://csswizardry.com/
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-harry-roberts-facsst-css-performance
+  videos:
+    - https://youtu.be/OsYgrfx_MqQ
+  description: |-
+
+- title: $ecret
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-30
+  room:
+  authors:
+    - name: Alexey Migutsky
+      twitter: mr_mig_by
+      github:
+      website: http://mtdv.io
+  slides:
+    - http://slides.com/mr-mig/jsfest-secret#/
+  videos:
+    - https://youtu.be/H3ARoh7uih4
+  description: |-
+
+- title: Why Fast Matters
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-31 10:00:00
+  room:
+  authors:
+    - name: Harry Roberts
+      twitter: csswizardry
+      github:
+      website: https://csswizardry.com/
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-harry-roberts-why-fast-matters
+  videos:
+    - https://youtu.be/Oc_2EkIxCpY
+  description: |-
+    We’re all—I hope!—well aware that performance is important; it’s great for business and it’s great for our users. But things are still not fast enough. With more and more emerging markets coming online, and more and more apps moving to the web platform, we’re reaching an intersection where connections are getting slower and websites are getting heavier. In this talk, we’ll learn just what these emerging markets mean to us, and how we can begin to move in the right direction.
+
+- title: Warm up your engine! or I know what you did last summer to V8 (UK)
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-31 11:05:00
+  room:
+  authors:
+    - name: Sergiy Babich
+      twitter:
+      github:
+      website:
+  slides:
+    - https://babichss.github.io/v8/index.html#/3/12
+  videos:
+    - https://youtu.be/SikWzFg-Zm0
+  description: |-
+    Brief overview of things, good and bad, which happened to V8, NodeJS Javascript engine, in recent versions, where it got improvements or new performance issues. We also will see how V8 work under the hood and how this knowledge will help us to write most efficient code.
+
+- title: How to Write a Compass Plugin
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-31 11:05:00
+  room:
+  authors:
+    - name: Anna Herlihy
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-anna-herlihy-how-to-write-a-compass-plugin
+  videos:
+    - https://youtu.be/ViNwvolWaeo
+  description: |-
+    Compass is a MongoDB user interface tool written for Electron using NodeJS and React. So what happens if a user has a feature request we can’t support? We let them do it themselves! This talk is about how we implemented a plugin architecture for Compass so that users can write their own features. I will demo Compass, describe the plugin architecture, and then live-code an example plugin. Attendees who are interested in writing their own plugin architecture will learn about how we solved the specific problems with supporting external plugins in an Electron app. I will also explore the security implications of having third-party plugins and the unique challenges involved with supporting open-source plugins in a closed-source project. Writing a Compass plugin is a lot of fun, as well as a great way to get to know React, Node, MongoDB. Attendees will leave the talk with an understanding of how the Compass plugin architecture works and how to start writing their own plugin.
+
+- title: SSE vs WebSockets vs Long Polling
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-31 13:00:00
+  room:
+  authors:
+    - name: Martin Chaov
+      twitter:
+      github: mchaov
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-martin-chaov-sse-vs-websockets-vs-long-polling
+  videos:
+    - https://youtu.be/n9mRjkQg3VE
+  description: |-
+    If you have a huge amount of data to deliver quickly you might have tried using web sockets to do so. However, sockets are hard to maintain and scale, not to mention multiplex. In this presentation I do comparison of the three methods of delivering data to the front-end. Server-Sent Events gives you the ability to deliver your content with less overhead on the infrastructural side. In this talk I will cover SSE, Long-Polling, and Web-Sockets with their pros and cons, including technical demo. We will touch a bit on connectionless push and available optimizations for the mobile network.
+
+- title: GraphQL - usable API or just another hype?
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-31 13:00:00
+  room:
+  authors:
+    - name: Vladimir Zaets
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-graphql-apis
+  videos:
+    - https://youtu.be/4SJRvhom_dc
+  description: |-
+    1) What is GraphQL? (Purpose, implementation, syntax etc) 2) GraphQL vs REST API: pros and cons 3) Patterns/usecases/problems and solutions with GraphQL APIs
+
+- title: Useful tools and utils for JS development
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-31 13:00:00
+  room:
+  authors:
+    - name: Alexey Volkov
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-js-92627937
+  videos:
+    - https://youtu.be/Idq7NSDhQEM
+  description: |-
+    Review of modern tools and utilities, which are designed to make life easier for JS developer. Most of them have already become the de facto standard in the industry.
+
+- title: E2E-testing front-end with Hermione
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-31 14:05:00
+  room:
+  authors:
+    - name: Sergei Puzankovs
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-e2e-c-hermione
+  videos:
+    - https://youtu.be/ckH0Y7srkdU
+  description: |-
+    We all know that tests are necessary. What are the benefits of e2e-tests if the project does not have auto-tests at all? How to quickly start writing tests on your project and improve the stability of the system? Where to implement tests in the CI process? I will answer all these questions in my presentation, and we will consider how to test events and various UI elements in the browser.
+
+- title: Just Vue it
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-31 14:05:00
+  room:
+  authors:
+    - name: Oleksii Babakhanov
+      twitter:
+      github:
+      website:
+  slides:
+    - https://babakhanov.github.io/just-vue-it/#/
+  videos:
+  description: |-
+    Detailed overview the marvelous front-end framework called Vue.js with all advantages and disadvantages.
+
+- title: Building interactive command line applications
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-31 14:05:00
+  room:
+  authors:
+    - name: Mathias Buus Madsen
+      twitter:
+      github: mafintosh
+      website:
+  slides:
+    - https://mafintosh.github.io/jsfest-ua-2018/#0
+  videos:
+    - https://youtu.be/p6xdsBmPWGw
+  description: |-
+    Building complex applications that run in the terminal can be tricky. They usually have a ton of state and if you want to update the terminal output you have to understand things like ANSI codes or frameworks like ncurses. What if, instead, we used a simple approach, similar to writing React web apps, where you always render your entire application but then use a framework that can figure only to update the small diff that actually changed. That's exactly what the diffy framework does! I this talk I'll talk about fun command line apps and do live coding to show how easy they are to write.
+
+- title: ES X
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-31 15:30:00
+  room:
+  authors:
+    - name: Vitalii Ratyshnyi
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-2018-es-x-92755377
+  videos:
+    - https://youtu.be/TcN-jO7s6As
+  description: |-
+    What awaits us next? This question arises from time to time in various areas of life, talking about the web, we are talking about what will be the next big thing: WebAssembly or technology X, but at the moment JavaScript takes the lion's share in the market and does not intend to retreat. What's near future of JS? Come and find out!
+
+- title: NodeJS Microservices + CQRS + Event Sourcing - Why do I do this?
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-31 15:30:00
+  room:
+  authors:
+    - name: Roman Sachenko
+      twitter:
+      github:
+      website:
+  slides:
+    - https://slides.com/roman_sachenko/nodejs_cqrs_event_sourcing/#/
+  videos:
+    - https://youtu.be/257lVP7R5XM
+  description: |-
+    Why do I do this? I kept asking myself this question while working on the next project and building microservices-based architecture with CQRS and Event Sourcing. What does this system do and why is it so complicated? I'll tell you about mistakes, which I’ve made, issues, which I've faced with, and solutions, which shouldn’t be applied. I’ll share my own experience and tell about those things, I wish I’d known before I started working on the project.
+
+- title: A glimpse into the future of React
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-31 16:35:00
+  room:
+  authors:
+    - name: Roman Iakobchuk
+      twitter:
+      github: romabelka
+      website:
+  slides:
+    - https://www.slideshare.net/JSFestUA/js-fest-react
+  videos:
+    - https://youtu.be/gKmfTKQpWSM
+  description: |-
+    One of the most common questions one comes by nowadays is, when is React going to die? I’ll admit that fortune telling is not my strong side, but we can make assumptions based on the past. Technologies in the Front-end world don’t have a very long life cycle, changes are always occuring and things are constantly on the go. In this talk, I’ll give a brief history of the library - where it started out, what’s been done and how it became so popular. We’ll discuss its modern infrastructure and how it spreaded to different platforms such as: RN, React VR and loads more. All of those, live in totally different ecosystems with different problems, approaches and practices. Hopefully, by the end of the talk we’ll be able to forecast the future of React, how we can interpolate it into other industries and let our minds fly!
+
+- title: 'Game "Heroes of Might and Magic" in browser: long, difficult and incredibly interesting'
+  lang: ru
+  type: regular
+  level:
+  time: 2018-03-31 16:35:00
+  room:
+  authors:
+    - name: Alexander Korotaev
+      twitter:
+      github:
+      website:
+  slides:
+    - http://lekzd.ru/presentations/jsFest_heroes/
+  videos:
+    - https://youtu.be/YIq3QLVvcds
+  description: |-
+    This is a story of self-making as a programmer through the development of a "dream game". This talk will open the window to the world of those who are enthused by what they do and will show the right way to the big games' development in browser. Personal experience of war with performance and searching for the right way, solving pressing problems and incredible discoveries in the JS world. In this talk you can find useful game developer cases: techniques for efficient data storing, drawing UI on Canvas, and ways to approach parsing binary files.
