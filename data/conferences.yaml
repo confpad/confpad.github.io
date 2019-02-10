@@ -632,6 +632,18 @@
   description: |-
     beyond tellerrand is an affordable event about web design, development, creativity, design and much more. Taking place in Düsseldorf, Berlin and Munich.
 
+- id: 2018-11-08-dotcss-2018
+  name: dotCSS 2018
+  url: https://www.dotcss.io/
+  date:
+    from: 2018-11-08
+    to: 2018-11-08
+  location:
+    country: France
+    city: Paris
+  description: |-
+    Come see the best developers worldwide speak on the most beautiful stages Paris has to offer.
+
 - id: 2018-11-12-chrome-dev-summit-2018
   name: Chrome Dev Summit 2018
   url: https://developer.chrome.com/devsummit/
