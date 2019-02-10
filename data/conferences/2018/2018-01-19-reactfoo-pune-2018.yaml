@@ -349,14 +349,7 @@
   slides:
   videos:
   description: |-
-    Typescript has been gaining a lot of traction in the last couple of years as seen from the Stackoverflow Developer survey 2017, Angular 2 embracing Typescript and integrating it closely with the ecosystem etc. This talk is about
-    1. Typescript and why use it.
-    2. Who are using typescript and what does the JS community have to say about it.
-    3. React-Redux-webpack stack with Typescript
-    4. Linting with TSLINT and integration with VSCode
-    5. Auto completion, refactoring and navigation with typescript.
-    6. Breif introduction to typescript in server side (NodeJs) for full stack development.
-    7. Typescript best practices
+    Typescript has been gaining a lot of traction in the last couple of years as seen from the Stackoverflow Developer survey 2017, Angular 2 embracing Typescript and integrating it closely with the ecosystem etc. This talk is about 1. Typescript and why use it. 2. Who are using typescript and what does the JS community have to say about it. 3. React-Redux-webpack stack with Typescript 4. Linting with TSLINT and integration with VSCode 5. Auto completion, refactoring and navigation with typescript. 6. Breif introduction to typescript in server side (NodeJs) for full stack development. 7. Typescript best practices
 
 - title: Rethinking with React 16
   type: regular

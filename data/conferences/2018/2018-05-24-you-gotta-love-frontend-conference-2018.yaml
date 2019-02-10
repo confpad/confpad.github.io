@@ -12,9 +12,7 @@
   videos:
     - https://youtu.be/YsX4uFgyvpk
   description: |-
-    CSS Secrets was a series of talks that were loved by audiences all around the globe and led to Lea’s bestselling book “CSS Secrets”.
-    The premise is simple: Ten surprising yet practical things you didn’t know you could do in CSS, live-coded in Lea’s trademark interactive presentation style. This third installment of the series will include new juicy secrets related to CSS Variables, grid layout, variable fonts, blending modes, SVG, and many other things.
-    Prepare to be inspired again as Lea debuts ten all-new feats of advanced CSS wizardry, which will help you understand CSS at a much deeper level.
+    CSS Secrets was a series of talks that were loved by audiences all around the globe and led to Lea’s bestselling book “CSS Secrets”. The premise is simple: Ten surprising yet practical things you didn’t know you could do in CSS, live-coded in Lea’s trademark interactive presentation style. This third installment of the series will include new juicy secrets related to CSS Variables, grid layout, variable fonts, blending modes, SVG, and many other things. Prepare to be inspired again as Lea debuts ten all-new feats of advanced CSS wizardry, which will help you understand CSS at a much deeper level.
 
 - title: JOURNEY THROUGH VR AND AR WITH REACT
   type:
@@ -46,8 +44,7 @@
   videos:
     - https://youtu.be/QvYEal9C8tI
   description: |-
-    Single-page apps should be fast, and for that they usually need to cache their data on client side. Previously, we had to build those clients manually. With GraphQL, we can build clients that do lots of that manual work automatically and work with any GraphQL API.
-    This talk will explore why GraphQL makes it easy to build such clients. It'll start from describing how you would usually build a cache on client-side and how it's built in popular GraphQL clients. Talk will explore on what more can be done to build even more powerful tools and what a future GraphQL client would look like.
+    Single-page apps should be fast, and for that they usually need to cache their data on client side. Previously, we had to build those clients manually. With GraphQL, we can build clients that do lots of that manual work automatically and work with any GraphQL API. This talk will explore why GraphQL makes it easy to build such clients. It'll start from describing how you would usually build a cache on client-side and how it's built in popular GraphQL clients. Talk will explore on what more can be done to build even more powerful tools and what a future GraphQL client would look like.
 
 - title: 'EAST MEETS WEST: WEB TYPOGRAPHY AND MODERN LAYOUTS'
   type:
@@ -127,9 +124,7 @@
   videos:
     - https://youtu.be/H9t17Ug8Q_4
   description: |-
-    React Native is currently a very popular library for writing native applications. It’s super easy to get started with it if you already know React — you can think that you’ve become a mobile developer in less than 15 minutes!
-    However, while React Native may make it easy for front-end developers to get started with mobile development, it’s severely lacking in comparison to more established and comprehensive languages like Swift or Kotlin. Compared to Swift or Kotlin, React Native seems like it’s from the Stone Ages!
-    So the question is, should you use React Native in production ? In my talk, I will tell you about the pros and cons of React Native.
+    React Native is currently a very popular library for writing native applications. It’s super easy to get started with it if you already know React — you can think that you’ve become a mobile developer in less than 15 minutes! However, while React Native may make it easy for front-end developers to get started with mobile development, it’s severely lacking in comparison to more established and comprehensive languages like Swift or Kotlin. Compared to Swift or Kotlin, React Native seems like it’s from the Stone Ages! So the question is, should you use React Native in production ? In my talk, I will tell you about the pros and cons of React Native.
 
 - title: USING NEW WEB APIS FOR YOUR OWN PLEASURE
   type:
@@ -145,9 +140,7 @@
   videos:
     - https://youtu.be/vlv1-aXM97Y
   description: |-
-    When I first heard about the Web Bluetooth API I was so curious, that I could not wait to try it out. So I asked myself: Which Bluetooth device should I buy? Especially if I do not want to through it away after I was finished experimenting with the API.
-    So obviously a Bluetooth enabled vibrator was a perfect fit. And it came with a serious use case, too: The slogan of the vibrator was "Let him control you", which I found very limiting, so I used the Web Bluetooth API to connect it to the browser, and the Web Audio API, to establish my own slogan: "Let a video control you".
-    In my lightning talk, you will learn how to use the Web Bluetooth API to connect a Bluetooth enabled device to the browser. Also, you will see what is possible with the Web Audio API, especially when it comes to analyzing spoken words.
+    When I first heard about the Web Bluetooth API I was so curious, that I could not wait to try it out. So I asked myself: Which Bluetooth device should I buy? Especially if I do not want to through it away after I was finished experimenting with the API. So obviously a Bluetooth enabled vibrator was a perfect fit. And it came with a serious use case, too: The slogan of the vibrator was "Let him control you", which I found very limiting, so I used the Web Bluetooth API to connect it to the browser, and the Web Audio API, to establish my own slogan: "Let a video control you". In my lightning talk, you will learn how to use the Web Bluetooth API to connect a Bluetooth enabled device to the browser. Also, you will see what is possible with the Web Audio API, especially when it comes to analyzing spoken words.
 
 - title: WEBASSEMBLY AS CROSS-PLATFORM ARCHITECTURE
   type:
@@ -211,8 +204,7 @@
   videos:
     - https://youtu.be/mUdbfkOcKIA
   description: |-
-    Since the mid 90s, developers have struggled to build web applications that can be executed both on the client and the server. And still today, even with Node.js and virtual DOM libraries like React, this can be quite challenging.
-    In this talk, we'll look at common obstacles and problems that developers face when building this type of web application, including typical performance and security issues. You'll leave the presentation knowing how to build a fast and secure web application that can be rendered on the client and the server.
+    Since the mid 90s, developers have struggled to build web applications that can be executed both on the client and the server. And still today, even with Node.js and virtual DOM libraries like React, this can be quite challenging. In this talk, we'll look at common obstacles and problems that developers face when building this type of web application, including typical performance and security issues. You'll leave the presentation knowing how to build a fast and secure web application that can be rendered on the client and the server.
 
 - title: WRITING VIRTUAL AND AUGMENTED REALITY APPS WITH WEB TECHNOLOGY
   type:
@@ -228,10 +220,7 @@
   videos:
     - https://youtu.be/g8D4X-M3ZwM
   description: |-
-    Writing 3D applications for the browser is possible since some years due to the WebGL API. But since Virtual Reality and Augmented Reality are getting more popular, web developers and designers now have a serious reason to get to know the 3D web, its APIs and design patterns.
-    In this talk you will learn how to create 3D applications in the browser, using the WebGL and the WebVR API, and popular libraries, like A-Frame and ReactVR. You will also see what is necessary to create a Virtual Reality app that runs on common VR devices, and how to create Augmented Reality applications for Android and iOS phones.
-    Since 3D user interfaces and interactions in the browser are relatively new for designers and users, there are no established UX design patterns yet, but you will get to know best-practices and see some tips for improving the usability of your 3d application.
-    The talk ends with my advice on how to create responsible applications, that won’t harm your users – neither physically nor psychologically.
+    Writing 3D applications for the browser is possible since some years due to the WebGL API. But since Virtual Reality and Augmented Reality are getting more popular, web developers and designers now have a serious reason to get to know the 3D web, its APIs and design patterns. In this talk you will learn how to create 3D applications in the browser, using the WebGL and the WebVR API, and popular libraries, like A-Frame and ReactVR. You will also see what is necessary to create a Virtual Reality app that runs on common VR devices, and how to create Augmented Reality applications for Android and iOS phones. Since 3D user interfaces and interactions in the browser are relatively new for designers and users, there are no established UX design patterns yet, but you will get to know best-practices and see some tips for improving the usability of your 3d application. The talk ends with my advice on how to create responsible applications, that won’t harm your users – neither physically nor psychologically.
 
 - title: INTERVIEW SESSION WITH LEA VEROU
   type:
@@ -278,8 +267,7 @@
   videos:
     - https://youtu.be/BuWSbTEkzSU
   description: |-
-    With ES2015 the JavaScript specification changed to a yearly release schedule. Since then we already got another three updates, namely ES2016, ES2017 and most recently ES2018. This puts a lot of pressure on JavaScript VMs to not only keep up with implementing all these new proposals, but continuously think about ways to optimize them, so that developers can not only rely on them being available, but also having reasonable performance.
-    In this talk, I’ll give an update on the state of the ES201X features and their performance in V8, the JavaScript engine that powers both Node.js and Chrome.
+    With ES2015 the JavaScript specification changed to a yearly release schedule. Since then we already got another three updates, namely ES2016, ES2017 and most recently ES2018. This puts a lot of pressure on JavaScript VMs to not only keep up with implementing all these new proposals, but continuously think about ways to optimize them, so that developers can not only rely on them being available, but also having reasonable performance. In this talk, I’ll give an update on the state of the ES201X features and their performance in V8, the JavaScript engine that powers both Node.js and Chrome.
 
 - title: INTERVIEW SESSION WITH VITALY FRIEDMAN
   type:
@@ -310,8 +298,7 @@
   videos:
     - https://youtu.be/AGY0tgyL9Yo
   description: |-
-    My talk is going to be about Probot — GitHub's framework for creating bots. A bot built with Probot is a NodeJS application that handles GitHub's events. Probot allows us to automate and improve GitHub workflow, extend it with tools that we love as far as we wish.
-    In my talk, I will show what Probot can do right now and how you can create your own bot.
+    My talk is going to be about Probot — GitHub's framework for creating bots. A bot built with Probot is a NodeJS application that handles GitHub's events. Probot allows us to automate and improve GitHub workflow, extend it with tools that we love as far as we wish. In my talk, I will show what Probot can do right now and how you can create your own bot.
 
 - title: 'PARCEL — BUNDLER: NEW KID ON THE BLOCK (ZERO CONFIG COMPARISON WITH WEBPACK 4)'
   type:
@@ -374,12 +361,7 @@
   videos:
     - https://youtu.be/sV4chQq-H7o
   description: |-
-    "Should designers code?" or "Should coders design?" — these 2 eternal questions are being asked for years with no particular answer given.
-      How to let developers know what typography style or button variance they should be using on this particular screen?
-      How to ensure that the whole UI is consistent?
-      How to let designers know that some screen design doesn't fit the requirements and needs to be updated?
-    In order to answer those questions designers and developers have to speak the same language. But what language should it be. UI components and pattern libraries can provide this intermediate abstraction and be a common language for both designers and developers.
-    During this talk, I'll guide you through some frustrations I've experienced as a designer and as a developer when working on different projects. I'll show how the common UI patterns library can solve some of these problems and improve the overall productivity of the team.
+    "Should designers code?" or "Should coders design?" — these 2 eternal questions are being asked for years with no particular answer given. How to let developers know what typography style or button variance they should be using on this particular screen? How to ensure that the whole UI is consistent? How to let designers know that some screen design doesn't fit the requirements and needs to be updated? In order to answer those questions designers and developers have to speak the same language. But what language should it be. UI components and pattern libraries can provide this intermediate abstraction and be a common language for both designers and developers. During this talk, I'll guide you through some frustrations I've experienced as a designer and as a developer when working on different projects. I'll show how the common UI patterns library can solve some of these problems and improve the overall productivity of the team.
 
 - title: INTERVIEW SESSION WITH HUI JING
   type:
@@ -410,5 +392,4 @@
   videos:
     - https://youtu.be/VUfouKBwGoY
   description: |-
-    The beast is alive! How do you feel about ASCII-alike CSS Grid layout with polyfluid sizing and ch unit? Do you feel itchy when it comes to building responsive HTML email layouts? What about the brave new world of dynamic static site generators and JAM stack? Have you ever tried to work around nested CSS Custom Properties, untamed 3rd-party scripts, shady service workers, multi-dimensional variable fonts and painfully outdated pattern libraries? Well, let’s bring it on!
-    If you attended or watched the first season, you better tighten up your seatbelts: it's an entirely different session, with a slightly different cast and a dash of dirty little front-end tricks. Beware: you will not be able to unlearn what you’ll learn in the session! Ah, one more thing, take the techniques with a grain of salt — we do not take responsibility for sleepless nights and nightmares caused by the content of this session.
+    The beast is alive! How do you feel about ASCII-alike CSS Grid layout with polyfluid sizing and ch unit? Do you feel itchy when it comes to building responsive HTML email layouts? What about the brave new world of dynamic static site generators and JAM stack? Have you ever tried to work around nested CSS Custom Properties, untamed 3rd-party scripts, shady service workers, multi-dimensional variable fonts and painfully outdated pattern libraries? Well, let’s bring it on! If you attended or watched the first season, you better tighten up your seatbelts: it's an entirely different session, with a slightly different cast and a dash of dirty little front-end tricks. Beware: you will not be able to unlearn what you’ll learn in the session! Ah, one more thing, take the techniques with a grain of salt — we do not take responsibility for sleepless nights and nightmares caused by the content of this session.

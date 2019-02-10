@@ -272,15 +272,7 @@
   videos:
     - https://youtu.be/g3UgJB2AWas
   description: |-
-    Accessibility! Progressive Web Apps! Cutting-Edge JS and CSS! Progressive Enhancement! What do these all have in common? A SLIDE DECK! Let’s layer them like a cake and learn to build a presentation framework, all while seeing how we can make our every-day work better for all!
-    This talk will use a custom JavaScript presentation framework, the one used to build the slides the attendees are seeing, as a case study and analogy for modern JavaScript apps. We’ll look at some of the challenges facing modern web development and see some practical examples and solutions for solving them. In this talk, we’ll cover
-      Accessibility and semantic, richly marked up HTML, especially with keyboards and screen readers in mind
-      Progressive enhancement, including a modern take on the “cutting the mustard” technique
-      Performance and UX improvements with Intersection Observers, Prefetching, and Preloading
-      Dealing with state, even if you’re starting from HTML and not a JSON object
-      Making it all work offline with Service Workers
-      How they all build on and inform each other
-    You’ll also learn a bit about the thought process used to come up with the solutions presented, which you can take back and apply to your projects today!
+    Accessibility! Progressive Web Apps! Cutting-Edge JS and CSS! Progressive Enhancement! What do these all have in common? A SLIDE DECK! Let’s layer them like a cake and learn to build a presentation framework, all while seeing how we can make our every-day work better for all! This talk will use a custom JavaScript presentation framework, the one used to build the slides the attendees are seeing, as a case study and analogy for modern JavaScript apps. We’ll look at some of the challenges facing modern web development and see some practical examples and solutions for solving them. In this talk, we’ll cover Accessibility and semantic, richly marked up HTML, especially with keyboards and screen readers in mind Progressive enhancement, including a modern take on the “cutting the mustard” technique Performance and UX improvements with Intersection Observers, Prefetching, and Preloading Dealing with state, even if you’re starting from HTML and not a JSON object Making it all work offline with Service Workers How they all build on and inform each other You’ll also learn a bit about the thought process used to come up with the solutions presented, which you can take back and apply to your projects today!
 
 - title: CRDT and other new ideas for client-server communication
   type: regular
