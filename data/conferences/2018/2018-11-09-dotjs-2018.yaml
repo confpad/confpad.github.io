@@ -1,0 +1,322 @@
+- title: Robot Rock
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Devon Lindsey
+      twitter: devonbl
+      github: devonbl
+      website:
+  slides:
+  videos:
+    - https://youtu.be/UvgY7WlTd_c
+  description: |-
+    Discover how Devon makes robots dance together to the beat of music using only JavaScript!
+
+- title: Top-level Awaiting for Godot
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Myles Borins
+      twitter: mylesborins
+      github: MylesBorins
+      website:
+  slides:
+    - https://kni.sh/dotjs-2018/
+  videos:
+    - https://youtu.be/EERzGWgkU2o
+  description: |-
+    It goes without saying that one of the largest challenges in JavaScipt is handling asynchronicity. Along come Async / Await, a language feature made popular by C#. Developers can now use the keyword await to write code in a synchronous fashion without blocking the main thread. The only catch is that the await keyword needs to be used in an async function. What if that were not the case? What if await could be used anywhere inside a JavaScript module? Myles follows the adventure of implementing the Top-Level await feature in the JavaScript language. From deep dives into module loading to a high level overview of socializing standards changes, he covers the process of what it takes to change the JavaScript language.
+
+- title: Building a JavaScript runtime
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Kurt Mackey
+      twitter: mrkurt
+      github: mrkurt
+      website:
+  slides:
+    - https://speakerdeck.com/mrkurt/we-built-a-runtime
+  videos:
+    - https://youtu.be/r-1hXDvOoHA
+  description: |-
+    Kurt explores why a developer would want build an open source JavaScript runtime, how to go about it, and the interesting problems you can solve once you get the basics right. Devs who are never going to build a runtime will learn a bit about how they work, which will hopefully help them build better JS apps!
+
+- title: Give me your content, punk!
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Jeremias Menichelli
+      twitter: jeremenichelli
+      github:
+      website:
+  slides:
+    - https://slides.com/jeremenichelli/gimme-your-content-punk
+  videos:
+    - https://youtu.be/TFWTVwgdNPA
+  description: |-
+    Web fonts are great, they help us bring interesting designs and experiences to our web identities. However, your users want the content and that should be our priority. Jeremias tells us a short story about proper custom font delivery for the web.
+
+- title: Debugging, a step away from the console
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Adam Weeks
+      twitter: AdamWeeks
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/AdamWeeks11/debugging-a-step-away-from-the-console
+  videos:
+    - https://youtu.be/Ymam3-i4ChE
+  description: |-
+    As JavaScript developers, our first steps in understanding what is happening with our codebase rely on one command: "console.log". Adam takes your debugging skills up a notch by understanding debuggers and stack traces.
+
+- title: WOAH! Is that OffscreenCanvas?
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Sam Wray
+      twitter: _2xaa
+      github:
+      website:
+  slides:
+    - https://slides.com/twoxaa/woah-is-that-offscreencanvas
+  videos:
+    - https://youtu.be/6FhGZ50XRz4
+  description: |-
+    Sam gives us a small explanation and demo of the new OffscreenCanvas, including the stuff that doesn't work and some potential use-cases.
+
+- title: Command Query Responsibility Segregation
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Olivier Loverde
+      twitter: loverdeolivier
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/oliviermoule123/command-query-responsibility-segregation-cqrs
+  videos:
+    - https://youtu.be/7IOFPqdUArQ
+  description: |-
+    Olivier gives us some insights about CQRS: what is it? How does it work? What are its pros & cons?
+
+- title: Revisiting Node modules
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Maël Nison
+      twitter: arcanis
+      github: arcanis
+      website:
+  slides:
+    - https://speakerdeck.com/arcanis/dotjs-revisiting-node-modules
+  videos:
+    - https://youtu.be/4lUzKhq3C-M
+  description: |-
+    Yarn recently unveiled a new exciting work based on an alternative installation strategy: Plug'n'Play. By using it, one can avoid entirely the node_modules hell. Maël discusses why we should do that, and how.
+
+- title: The State of JavaScript 2018
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Sacha Greif
+      twitter: sachagreif
+      github: SachaG
+      website:
+  slides:
+    - https://speakerdeck.com/sachag/the-state-of-javascript-2018
+  videos:
+    - https://youtu.be/ShHsshcTOJo
+  description: |-
+    Sacha takes a look back at the origins of the State of JavaScript survey, how it's changed over the years, and this year's results.
+
+- title: HTTP/2 For Me & You
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Tara Z. Manicsic
+      twitter: tzmanics
+      github: tzmanics
+      website:
+  slides:
+    - https://github.com/tzmanics/talk-slides/blob/master/2018_dot-js.pdf
+  videos:
+    - https://youtu.be/Srb-dmnVbYY
+  description: |-
+    With many new technologies, although we’re excited about the new possibilities, we don’t get around to actually using them in real applications for many months or years. We’ve now seen this with HTTP/2 which was released in 2015 but is still working its way into our software today, over three years later. Tara looks into how far we’ve come in the past three years with HTTP/2 and what is actually at our disposal as developers.
+
+- title: Promises & Composition
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Kashyap Kondamudi
+      twitter: kgrz
+      github:
+      website:
+  slides:
+    - https://www.dropbox.com/s/fh05zwmeuzzb6v8/dotjs%2018%20promises%20composition.pdf?dl=0
+  videos:
+    - https://youtu.be/_MKshJLrNIU
+  description: |-
+    Promise composition can help achieve a lot of modularity in asynchronous code, which leads to better maintainability of it. Kashyap goes through a pattern explaining how programmers can build larger abstractions starting with very small ones.
+
+- title: Boilerplates Are The New Copy-Paste
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Roy Derks
+      twitter: gethackteam
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/RoyDerks1/boilerplates-are-the-new-copypaste-123660247
+  videos:
+    - https://youtu.be/ZGxoT37eees
+  description: |-
+    Boilerplates are often used to kickstart the development process of a JavaScript application. However, this leads to a lot of copied code that isn't needed for most projects, while developers aren't exactly knowing what they are doing.
+
+- title: A Quick Recap on WebAssembly
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Tejas Kumar
+      twitter: TejasKumar_
+      github:
+      website:
+  slides:
+    - https://speakerdeck.com/tejasq/lets-talk-about-webassembly
+  videos:
+    - https://youtu.be/IPEzwWt4adY
+  description: |-
+    Tejas outlines the emerging technology that is WebAssembly: a compile target for the web and explores the question "will WebAssembly kill JavaScript?" featuring a demo of asm.js, a precursor to WebAssembly from the Microsoft Edge team.
+
+- title: WebUSB for Digital Artists
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Tim Pietrusky
+      twitter: timpietrusky
+      github:
+      website:
+  slides:
+    - https://timpietrusky.github.io/dotJS2018-WebUSB-for-Digital-Artists/
+  videos:
+    - https://youtu.be/V3nMF1JKuN0
+  description: |-
+    USB gives us the power to use hardware regardless of the OS. The webbrowser gives us the power to use software regardless of the OS. And what happens if you combine both into one? Especially if you are interested in digital art? This is the answer!
+
+- title: Choosing Your JavaScript Framework
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: John Papa
+      twitter: john_papa
+      github: johnpapa
+      website:
+  slides:
+    - https://slides.com/johnpapa/choosing-your-framework-dotjs2018
+  videos:
+    - https://youtu.be/dHptnyroFNA
+  description: |-
+    Don't blink - a new JavaScript framework just came out. The world of web development is moving fast, and you have to make decisions today on which tools to use. John examines the current state of JavaScript's most popular frameworks: React, Vue and Angular.
+
+- title: Asynchronous hamburgers
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Joost Lubach
+      twitter: joostlubach
+      github:
+      website:
+  slides:
+    - http://slow-burgers.joostlubach.com/
+  videos:
+    - https://youtu.be/_o1kv13E2LA
+  description: |-
+    While teaching, Joost finds that his beginning JS students have a hard time grasping the concept of asynchronous programming. So he tells a story about Étienne who orders a hamburger from Slow Burgers, where prep times may be as crazy as 500ms. Through an animated cartoon environment, Joost shows various sync and async concepts.
+
+- title: JavaScript on the Desktop, Fast and Slow
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Felix Rieseberg
+      twitter: felixrieseberg
+      github: felixrieseberg
+      website:
+  slides:
+    - https://slides.com/felixrieseberg/js-desktop-fast-and-slow
+  videos:
+    - https://youtu.be/VHJxBr0WKGg
+  description: |-
+    We need to talk about JavaScript performance on the desktop. Why does it seem like so many Electron apps consume more resources than their native counterparts? Felix explores the architectural tricks separating slow and fast Electron apps.
+
+- title: Learning to Love Type Systems
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Lauren Tan
+      twitter: sugarpirate_
+      github: poteto
+      website:
+  slides:
+    - https://speakerdeck.com/poteto/dotjs-2018-learning-to-love-type-systems
+  videos:
+    - https://youtu.be/cj07Fwzamy0
+  description: |-
+    Sometimes, undefined is not a function. As mortal programmers, we ship bugs to production everyday. Bugs slow us down, frustrate our users, and cause us to have crises of confidence. Don't go alone–type systems in technologies such as TypeScript, Flow, and GraphQL can improve your confidence and help you ship less bugs. Lauren dives into the practical benefits you'll get from embracing types. You'll walk away with a better understanding of why type systems help you write better programs, and some functional programming tips you can use today.
+
+- title: 'TypeScript: Static types for JavaScript'
+  type:
+  level:
+  time: 2018-11-09
+  room:
+  authors:
+    - name: Anders Hejlsberg
+      twitter: ahejlsberg
+      github: ahejlsberg
+      website:
+  slides:
+    - https://onedrive.live.com/view.aspx?resid=22B201251A3280DF!156769&ithint=file%2cpptx&app=PowerPoint&authkey=!AJ8_m2OuUH1Dvm8
+  videos:
+    - https://youtu.be/ET4kT88JRXs
+  description: |-
+    How do you define and implement a static type system for a dynamic language like JavaScript, and why would you even care to? Anders explores how TypeScript came to be, how it differs from classic type systems, and how it can be beneficial even if you don't like types.
+
