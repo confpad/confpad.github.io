@@ -40,6 +40,13 @@ glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conferen
       // Check if authors entries contain all fields in correct order
       talk.authors && talk.authors.forEach(author => {
         expect(Object.keys(author)).toEqual(AUTHOR_KEYS);
+
+        expect(typeof author.name).toBe('string');
+        author.twitter && expect(author.twitter).toEqual(expect.not.stringContaining('@'));
+        author.twitter && expect(author.twitter).toEqual(expect.not.stringContaining('http'));
+        author.github && expect(author.github).toEqual(expect.not.stringContaining('@'));
+        author.github && expect(author.github).toEqual(expect.not.stringContaining('http'));
+        author.website && expect(author.website).toEqual(expect.stringMatching(REGEX_URL));
       });
 
       // Check if slides URLs start with http(s)
