@@ -31,14 +31,14 @@ glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conferen
         expect(Object.keys(author)).toEqual(AUTHOR_KEYS);
       });
 
-      // Check if slides items are not empty/contain 'http'
+      // Check if slides URLs start with http(s)
       talk.slides && talk.slides.map(slidesItem => {
-        expect(slidesItem).toEqual(expect.stringContaining('http'));
+        expect(slidesItem).toEqual(expect.stringMatching(/^http[s]?:\/\//));
       });
 
-      // Check if videos items are not empty/contain 'http'
+      // Check if video URLs start with http(s)
       talk.videos && talk.videos.map(videosItem => {
-        expect(videosItem).toEqual(expect.stringContaining('http'));
+        expect(videosItem).toEqual(expect.stringMatching(/^http[s]?:\/\//));
       });
 
       // Check if description doesn't contain newline

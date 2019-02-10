@@ -40,6 +40,9 @@ glob.sync('{./data/conferences.yaml,./examples/conferences.yaml}').forEach(file 
 
       // Check if country is valid - reversed actual-expected order, sort of anti-pattern
       conference.location && expect(COUNTRIES).toContain(conference.location.country);
+
+      // Check if URL starts with http(s)
+      conference.url && expect(conference.url).toEqual(expect.stringMatching(/^http[s]?:\/\//));
     });
   });
 });
