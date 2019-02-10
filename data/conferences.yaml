@@ -454,6 +454,18 @@
   description: |-
     Frontend United is a yearly European conference that moves from country to country. Its aim is to bring frontend developers, designers and Drupal themers from all kinds of backgrounds closer together and share knowledge, experiences and ideas face-to-face. We look towards frontend development and Drupal from the outside-in and reach out to specialists around the globe to share their passion. Frontend United looks to help grow the local community as well as build bridges across Europe for future collaborations and cross-border networking and working opportunities.
 
+- id: 2018-06-02-jsconf-eu-2018
+  name: JSConf EU 2018
+  url: https://2018.jsconf.eu/
+  date:
+    from: 2018-06-02
+    to: 2018-06-03
+  location:
+    country: Germany
+    city: Berlin
+  description: |-
+    JSConf EU is the labour-of-love conference for the JavaScript community in Europe
+
 - id: 2018-06-26-smashing-conference-toronto-2018
   name: Smashing Conference Toronto 2018
   url: https://archive.smashingconf.com/toronto-2018/

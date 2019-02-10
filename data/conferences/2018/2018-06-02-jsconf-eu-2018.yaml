@@ -1,0 +1,740 @@
+- title: Deep Learning in JS
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Ashi Krishnan
+      twitter: rakshesha
+      github: queerviolet
+      website: http://ashi.io
+  slides:
+  videos:
+    - https://youtu.be/SV-cgdobtTA
+  description: |-
+    It’s clear by now that the robots are coming for us. Breakthroughs in AI fill our streams and news feeds, themselves the products of AI, the echoing algorithmic screams of a new kind of mind being born. Using deeplearn.js, we’ll find out how deep learning systems learn and examine how they think. The fundamental building blocks of AI have never been more accessible. Let’s explore the architecture of these new minds, which are growing to mediate our every interaction
+
+- title: 10 Things I Regret About Node.js
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Ryan Dahl
+      twitter: ry
+      github:
+      website: http://tinyclouds.org
+  slides:
+  videos:
+    - https://youtu.be/M3BM9TB-8yA
+  description: |-
+
+- title: Aggressive Web Apps
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Phil Nash
+      twitter: philnash
+      github: philnash
+      website: http://philna.sh
+  slides:
+  videos:
+    - https://youtu.be/uo-UOvq3-0Y
+  description: |-
+    Push notifications on the web can be a force for good, but is that how they are coming across? We'll take a look at how push notifications permissions are being implemented and how we can do it better. We'll then look at the notifications themselves, find out what the best kind of notifications are and how not to wind up with your app's, or the entire web's, notifications blocked forever.
+
+- title: Nested Loops opening
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: JAN MONSCHKE
+      twitter: thedeftone
+      github:
+      website:
+    - name: KAHLIL LECHELT
+      twitter: kahliltweets
+      github:
+      website:
+    - name: BORIS LECHELT
+      twitter: bonotes
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/e6wrCr7bzSg
+  description: |-
+
+- title: 'Live:js opening'
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Martin Schuhfuss
+      twitter: usefulthink
+      github:
+      website:
+    - name: Ruth John
+      twitter: Rumyra
+      github:
+      website:
+    - name: Sam Wray
+      twitter: _2xAA
+      github:
+      website:
+    - name: Matt Mckegg
+      twitter: MattMckegg
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/dPWRaN2PXZw
+  description: |-
+    Opening JSConf EU 2018 with a pure JavaScript (animations, sound, projection, music) performance.
+
+- title: Exploring Augmented Reality on the Web
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Jordan Santell
+      twitter: jsantell
+      github: jsantell
+      website: http://jsantell.com
+  slides:
+  videos:
+    - https://youtu.be/bqmT0_w6_qc
+  description: |-
+    Augmented reality is enabling all new experiences, interaction patterns, and technology. As the web begins to adopt AR capabilities, this new medium is now available to web developers. If you know JavaScript, you can develop AR experiences that are enhancements to an existing app, fun bite-size demos, or explore completely uncharted territory. We’ll explore what’s possible right now with the process of making an AR experience on the web, including practical use-cases of “augmenting” current web applications, as well as handling progressive enhancement of AR on unsupported platforms. This exploration will take us to where we seem to be heading in terms of AR as a medium on the web platform.
+
+- title: TC39 Panel
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: TC39
+      twitter: TC39
+      github: TC39
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Hj5q8uyqGYc
+  description: |-
+    Join us for the second annual TC39 panel at JSConf EU! TC39 is the standards committee that designs the JavaScript language (Or as it is sometimes called ECMAScript). The panel will feature a range of committee members and is your chance to ask questions about the past, present and future of JavaScript!
+
+- title: Look mum, no hands! — Brain controlled JavaScript
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Charlie Gerard
+      twitter: devdevcharlie
+      github: charliegerard
+      website: http://charliegerard.github.io/
+  slides:
+  videos:
+    - https://youtu.be/7KhFO-qCVyg
+  description: |-
+    A typical interaction with a device or interface involves touching it. Either you’re pressing buttons on a controller, swiping on a touchscreen or clicking on your laptop’s trackpad. But what if you could control things without the use of your hands? What if you could use… your thoughts? I have been tinkering with a brain sensor and developed an open source JavaScript framework for it to allow me (or anyone else) to control interfaces or robots using facial expressions and mental commands.
+
+- title: 'Unintended Consequences: How to Reduce Exclusionary Practices (…)'
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Kim Crayton
+      twitter: KimCrayton1
+      github: kmcrayton7
+      website: http://hashtagcauseascene.com/about/
+  slides:
+  videos:
+    - https://youtu.be/t8F12gZJ4AQ
+  description: |-
+    “You cannot manage what you cannot measure.” Building a successful business requires more than just understanding customer discovery, go-to-market strategies, legal issues, and raising capital. Successful businesses are built on foundations that enable leaders to turn information into knowledge in order to scale, evolve, and recover.
+
+- title: 'JavaScript Engines: The Good Parts™'
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Mathias Bynens
+      twitter: mathias
+      github: mathiasbynens
+      website:
+    - name: Benedikt Meurer
+      twitter: bmeurer
+      github: bmeurer
+      website: http://benediktmeurer.de
+  slides:
+  videos:
+    - https://youtu.be/5nmpokoRaZI
+  description: |-
+    JavaScript has definitely been among the most influential technologies for almost a decade now. A lot of this is due to the sophisticated JavaScript VMs in modern browsers, Node.js and Electron. In this talk we’re going to explore important ingredients of these modern JavaScript VMs, specifically how ChakraCore, the engine that powers Microsoft Edge, and V8, the engine that powers Google Chrome, compare to each other for certain key features.
+
+- title: To push, or not to push?! - The future of HTTP/2 server push
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Patrick Hamann
+      twitter: patrickhamann
+      github: phamann
+      website:
+  slides:
+  videos:
+    - https://youtu.be/cznVISavm-k
+  description: |-
+    HTTP/2 server push gives us the ability to proactively send assets to a browser without waiting for them to be requested. Sounds great, right?! However, is this new mechanism really the silver bullet we all thought it was? Is it time to abandon our build systems and stop bundling our assets entirely? Or are lack of server support and browser inconsistencies holding us back? Lastly, what are new specifications such as cache digests and the 103 status code doing to improve the situation? Using new research and real-world examples, this talk will take a deep dive into HTTP/2 server push, exploring the current and future best practices for loading assets in the browser. Giving us the knowledge to make better decisions when loading our web pages and ultimately leading to faster, more resilient user experiences.
+
+- title: 'From You Can''t to You Can: The Welcoming Nature of Javascript'
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Tejas Kumar
+      twitter: tejaskumar_
+      github: tejasq
+      website: http://tej.as/
+  slides:
+  videos:
+    - https://youtu.be/ONlLvZWXv1Y
+  description: |-
+    This talk explores the ease-of-adoption that makes Javascript a truly unique language that is hospitable to developers across all levels of experience: beginners, intermediates, and experts through the eyes of a chronically ill engineer who never thought he’d amount to much.
+
+- title: Computer, build me an app
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Rich Harris
+      twitter: rich_harris
+      github: rich-harris
+      website: http://twitter.com/rich_harris
+  slides:
+  videos:
+    - https://youtu.be/qqt6YxAZoOc
+  description: |-
+    Frameworks exist because writing maintainable apps in vanilla JavaScript is hard. But frameworks aren’t free: downloading and parsing those extra bytes slows things up, just when your users are deciding whether to stick around. Instead of choosing between bulky frameworks and maintainability nightmares, what if we could tell the computer ‘here are the blueprints, now you write the code’? In this talk we’ll discover a new breed of tools, such as Svelte, that let you do exactly that.
+
+- title: 'Baby’s First Rust+WebAssembly module: Say hi to JSConf EU!'
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Lin Clark
+      twitter: linclark
+      github: linclark
+      website: http://code-cartoons.com/
+  slides:
+  videos:
+    - https://youtu.be/1meg-Dl_Urw
+  description: |-
+
+- title: TCP - A story about hope, (pkg) loss && the missing link
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Ola Gasidlo
+      twitter: misprintedtype
+      github: zoepage
+      website: http://webcompat.com
+  slides:
+  videos:
+    - https://youtu.be/aOPgTWVtX78
+  description: |-
+    Have you ever wondered, who is delivering those packages everyone on the network is talking about and what they are? Why does the internet even get chopped in little packages and send all across the globe? Don’t they get lost? And do those which get lost ever find their way home? As performance gets more and more important these days, lets step back from all of the optimization of the code and take a close look at what lies underneath. This talk will cover everything you need to know about the link layer wrapped nicely with a golden bow.
+
+- title: Journey of JS community from 2 to 2k members
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name:  Neha Sharma
+      twitter: hellonehha
+      github:
+      website: http://www.jslovers.com
+  slides:
+  videos:
+    - https://youtu.be/n8dv_3Pojo4
+  description: |-
+    Creating and running a non-profit community is not easy task and especially when a female is the organizer and doing it in country of social restrictions. I will be sharing my journey of creating JSLovers and how it became the top non-profit community in Delhi/NCR with challenges, learnings and tips.
+
+- title: Existential Engineering or How Ethics Precedes Error Handling
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Patricia Realini
+      twitter: patriciarealini
+      github: patriciarealini
+      website: http://patriciarealini.com
+  slides:
+  videos:
+    - https://youtu.be/GxKLgs8Vgsc
+  description: |-
+    If Javascript has taught me anything it is that when something goes wrong, only computers can use the excuse that they are “just following orders”. Though our code is interpreted literally by our machines, our intentions and unconscious biases are not. By looking at the various schools of ethics available to us, existing code of ethics for engineers, and the most pressing ethical dilemmas plaguing our industry today, we can make the world wide web a better place for everyone.
+
+- title: Hand-crafting WebAssembly
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Emil Bay
+      twitter: emilbayes
+      github: emilbayes
+      website: http://bayes.dk
+  slides:
+  videos:
+    - https://youtu.be/CfdmzVos1Fs
+  description: |-
+    There has been many talks about what WebAssembly (WASM) is, it’s relation to compilers and how bright our collective future is with WASM in our toolbox. However most talks treat WebAssembly as a semi-opaque box, and mostly as something you can compile higher level languages into. This is a pity! WebAssembly is a fun language to learn, and allows one to write code often less than a magnitude slower than C! In this talk I will show how to write WAT (WebAssembly Text-format), how to reason about algorithms when all you have is one large slab of memory, how to convert high level constructs such as loops into elementary instructions and how to have fun at the same time! We will convert a number of progressively harder algorithms, each revealing a challenging aspect of working with no abstractions. Even if you will not write WASM at work, learning at the lowest level of computer tears away the enchantment that abstractions cause, and reveals the magical machine that is the computer.
+
+- title: Further Adventures of the Event Loop
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Erin Zimmer
+      twitter: ErinJZimmer
+      github: ejzimmer
+      website:
+  slides:
+  videos:
+    - https://youtu.be/u1kqx6AenYw
+  description: |-
+    Most JavaScript developers are probably familiar with the event loop. It’s how JavaScript handles I/O events without blocking, even though it’s single-threaded. Event callbacks are added to the task queue. The browser then takes a callback from the queue and runs it from start to finish. Then it decides to either repaint or run another callback. Simple, right? But what about web workers? And promises? And what happens when your JavaScript isn’t running in a browser? In this talk, we’ll look at how multi-threaded event loops work, how promises differ from other callbacks, and what goes on in the Node event loop.
+
+- title: Empathy-Driven Development
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Marcy Sutton
+      twitter: marcysutton
+      github: marcysutton
+      website: http://marcysutton.com
+  slides:
+  videos:
+    - https://youtu.be/l95VFLj3e2w
+  description: |-
+    Accessibility is often forgotten by JavaScript developers, even in 2018; as a result, people with disabilities get left behind. Fortunately, there are techniques and tools that can help kickstart the process. In this talk, you’ll learn hands-on skills for developing inclusively with JavaScript and hard-coding accessibility into your workflow.
+
+- title: 'Metro: Scaling JavaScript Build Systems'
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Miguel Jiménez Esún
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/99QyAz3Wfqc
+  description: |-
+    React Native ships its own development server and bundler, which is both externally and internally used at Facebook. Making this process scalable and reliable is a hard process when you have a large codebase. We will be presenting and explaining its architecture, as well as the ideas behind it in order to make it fast; and we will roughly introduce the different output formats it is able to provide for maximum performance both on development and on iOS and Android production environments.
+
+- title: The Etymology of Programming
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Brittany Storoz
+      twitter: brittanystoroz
+      github: brittanystoroz
+      website:
+  slides:
+  videos:
+    - https://youtu.be/2KTK2qD4-gs
+  description: |-
+    Developers are constantly throwing around jargon and buzz words when describing applications and talking through code. To a new engineer, it can seem like we’re speaking an entirely different language. One might assume we’ve tried come up with semantic metaphors for what we’re doing, but how often do we actually stop to think about where these terms came from? This talk will dig deep into the origins of our lingo and how we’ve built a vocabulary full of quirky terms and mysterious phrases.
+
+- title: Metaphors We Compute By
+  type: regular
+  level:
+  time: 2018-06-02
+  room:
+  authors:
+    - name: Alvaro Videla
+      twitter: old_sound
+      github: videlalvaro
+      website: http://github.com/videlalvaro
+  slides:
+  videos:
+    - https://youtu.be/JrjbX-KX6wQ
+  description: |-
+    We think in words, we talk with words, we understand the world thanks to words. Metaphors take words to the next level explaining concepts that were escaping our understanding before. In 1980 George Lakoff revolutionised the linguistic and philosophic worlds when he studied how metaphors affect our thinking, how they influence our actions and even shape who we are. What happens with the metaphors that we use in the software Industry? In this talk we are going to review the importance that metaphors have in our code quality, in the algorithms we choose, and the products we ship. As a practical example, we are going to see why Microservices and Containers have been so successful in the past couple of years. We’ll try to understand why they have redefined how we package and ship products in our industry today.
+
+- title: 'Please wait... loading: a tale of two loaders'
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Myles Borins
+      twitter: MylesBorins
+      github: MylesBorins
+      website: http://mylesborins.com
+  slides:
+  videos:
+    - https://youtu.be/35ZMoH8T-gc
+  description: |-
+    Modules were first standardized in ECMAScript 6 in 2015. As of December 2017 you can now use ESModules (ESM) in 3 out of 4 of the major browsers. Node.js has traditionally shipped an implementation of Common.js (CJS), you use it in your Node.js code today via require(). There are vast differences between the two module systems that make it quite difficult to utilize Common.js code in an ESModule and vice versa. Implementing modules correctly in Node.js will have a significant impact on the future of JavaScript, the wrong decisions could fause fractures in the ecosystem. This talk will dive into some of the more nefarious edge cases and the ways the Node.js project has navigated them. The talk will also look into joint efforts with the Web platform as we attempt to make a singular pattern that can work on both the client and server.
+
+- title: Visualising Enterprise Data with D3
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Sean Landsman
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/BJR5SF4cI_Y
+  description: |-
+    They say that Data is King, and this is true, but when faced with increasingly large amounts of data, it’s difficult if not impossible to make sense of what you’re looking at. This beginner to intermediate talk will discuss the benefits of adding visualations to your application and provide a thorough introduction to getting started with D3, easing the way to adding your powerful visualisations to your own applications.
+
+- title: 'Asynchrony: Under the Hood'
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Shelley Vohr
+      twitter: codebytere
+      github: codebytere
+      website: http://codebyte.re
+  slides:
+  videos:
+    - https://youtu.be/SrNQS8J67zc
+  description: |-
+    This talk will explore the conceptual underpinnings of asynchronous programming options, and the drawbacks and advantages to each. JS has supported callbacks since 2009, and as years have gone by it’s added support for promises, generators, and now async/await. On a surface level, each of these techniques seeks to answer a question of how to access data not immediately available, but a deeper look into how each works on a granular level will show their implementation differences and how these differences affect usage. We’ll also take a look at how intermediate values, and errors are affected by each method. I’ll walk through a series of scenarios so you can better visualize performance differences, and how each method propagates data through the stack and the event loop. Finally, I’ll talk about where the future of async may be headed. Armed with new knowledge from this deep dive, the potentially treacherous road to fully understanding async will hopefully become a smoother ride!
+
+- title: 'Time travel debugging: A step-by-step guide'
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Jason Laster
+      twitter: jasonlaster11
+      github: jasonLaster/
+      website:
+  slides:
+  videos:
+    - https://youtu.be/rDq1AN1kSn4
+  description: |-
+    Debugging is all about stepping. With time travel debugging, you can step back as easily as forward. Want to know how a bug was introduced? No problem, pause and rewind to the exact time when your app broke. Roads? Where we’re going, we don’t need roads!
+
+- title: 'Haute Codeture: Clothing as a Canvas'
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Stephanie Nemeth
+      twitter: stephaniecodes
+      github: traumverloren
+      website: http://stephanie.lol
+  slides:
+  videos:
+    - https://youtu.be/LT3OD6V6mtA
+  description: |-
+    What if, instead going for practicality, we used IoT to create fleeting moments of interaction and beauty? What would happen if others could interact with my clothing via a web app? I’ll share my story of how I got started with hardware and how it’s evolved into using fashion to create interactive, artistic experiences with strangers.
+
+- title: 'Native BigInts in JavaScript: A Case Study in TC39'
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Daniel Ehrenberg
+      twitter: littledan
+      github: littledan
+      website:
+  slides:
+  videos:
+    - https://youtu.be/RiU5OzMZ7z8
+  description: |-
+    Quick, what do you get when you increment Math.pow(2, 53)? If you said Math.pow(2, 53), you may be a JavaScript programmer. From the beginning, JavaScript has supported 64-bit binary floats as its sole numeric type. In this talk, I’ll explain how, through TC39, JavaScript developers are working together with JS engine implementers and spec wonks like me to create BigInt: a native, unlimited-size integer type. Through collaboration, any layer of software can be changed, even the language itself.
+
+- title: Securing your site like it's 1999
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Katie Fenn
+      twitter: katie_fenn
+      github: katiefenn
+      website: http://www.katiefenn.co.uk
+  slides:
+  videos:
+    - https://youtu.be/Tpzqu4EGFjc
+  description: |-
+    Life in the early days of the web was hard. One day your HTML is disintegrating, the next you are fighting someone named “~Ninjad00d~“ who has found a way to take over your forum system. Lessons in security in these days were hard learned. These are the true stories from the early days of the web and how forums, chat rooms and online games were turned upside down for fun and profit. If you stick around after laughing at the misfortune of online pioneers, there will also be lessons about finding your way in a world that wants to exploit your every mistake.
+
+- title: 'Tales From the Trenches: Fingerprints on the Web'
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Igor Trindade Oliveira
+      twitter: Igortolivei
+      github: igortoliveira
+      website:
+  slides:
+  videos:
+    - https://youtu.be/hZg0Ks_IHjQ
+  description: |-
+    Few years ago users realized that cookies allow websites to collect data about their actions without clear indications that such collection is happening, many have chosen to reject cookies in order to protect their privacy. However, methods of fingerprinting a web browser, created by advertising companies to state sponsored attackers, have become an increasingly common practice. This presentation covers past and present attacks to the Tor Browser privacy defenses, from Canvas2D attack to Browser specificities. In the end, we present how Tor Browser prevents the attacks.
+
+- title: About Coding Kids and Screaming Carrots
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Georgios Kaleadis
+      twitter: deluxee
+      github: georgiee/
+      website: http://www.2vc.org/
+  slides:
+  videos:
+    - https://youtu.be/t0m5rrKKMOA
+  description: |-
+    Kids will rule the world with coding as their superpower. My talk will show how you can playfully teach coding to kids with robots, games and colorful programming tools. I will talk about the hot debate that every kid should learn programming and why it matters for their future. By the end of the day, you will have seen human robots, happy kids and screaming carrots.
+
+- title: Quirks and surprises of webdev in China
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Hannes Schluchtmann
+      twitter: escapedcat
+      github: escapedcat
+      website: http://hannesschluchtmann.com
+  slides:
+  videos:
+    - https://youtu.be/tLUwq9NQExA
+  description: |-
+    Ever thought about how the world would be without google, facebook, twitter and an open web? Let me tell you my story about webdev in China.
+
+- title: Improving Low-Connectivity Experiences on the Web
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Valerie Woolard Srinivasan
+      twitter: valeriecodes
+      github: valeriecodes
+      website: http:// valerie.codes
+  slides:
+  videos:
+    - https://youtu.be/G96ie93tn5Q
+  description: |-
+    Logging Off: Improving Low-Connectivity Experiences on the Web Most people listening to this talk probably don’t have to worry too much about the quality of their internet connections. But when designing content for the web, we have to keep in mind people who are increasingly accessing the web on mobile devices or from places with less network infrastructure. This talk will outline how to design for low-connectivity users and why it’s important.
+
+- title: 'Kablooie: A History of Errors & a Future of Solutions'
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Sarah Groff Hennigh Palermo
+      twitter: superSGP
+      github: sarahgp
+      website: http://sarahghp.com/
+  slides:
+  videos:
+    - https://youtu.be/tteIQBPPxqc
+  description: |-
+    Errors and debugging are the bane of a programmer’s life — and the source of many jokes, Twitter rants, and midnight breakdowns. But how often do we consider error themselves: not as obstacles but as entities? This talk will cover a short history of errors in computer science and how errors work in Javascript itself, before looking at different approaches to reducing errors — maybe even by embracing them.
+
+- title: Breaking Changes
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: James Coglan
+      twitter: jcoglan
+      github: blog.jcoglan.com/
+      website:
+  slides:
+  videos:
+    - https://youtu.be/StN9QKnhhHc
+  description: |-
+    Semantic Versioning or SemVer has become a de-facto standard in the last few years, with several language ecosystems now relying on it to manage software upgrades. However, it is frequently misunderstood as a technical tool for making cold hard guarantees about code, rather than as a human tool for signaling intent and setting expectations. Never is this more apparent than when we consider what a “breaking change” means. It’s highly contextual: it depends on which language you’re using, what your public interface is, what guarantees you’ve explicitly or implicitly made to users, how much software sits downstream of you, and so on. In this talk I’ll explore several ways you can accidentally break other people’s JavaScript apps, how to avoid them, and what to do when you can’t.
+
+- title: Build Advanced Search Experiences with a Custom Query Language
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Adrien Trauth
+      twitter: nioufe
+      github: nioufe
+      website:
+  slides:
+  videos:
+    - https://youtu.be/P2yB_iEJXyI
+  description: |-
+    How many checkboxes can you add before your customer just gives up? When working with large, flexible data structures, click-based interfaces quickly become cumbersome; worse, text-based search is often too imprecise. In this talk, I’ll explain how to create a custom query language that allows for complex searches in just a few keystrokes, and how to integrate it seamlessly into a web interface.
+
+- title: 'When Chomsky Met JavaScript: Exploring the Linguistics(...)'
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Alaina Kafkes
+      twitter: alainakafkes
+      github: alainakafkes
+      website: http://alainakafk.es
+  slides:
+  videos:
+    - https://youtu.be/ZbMj_ab29Js
+  description: |-
+    Alaina Kafkes: When Chomsky Met JavaScript: Exploring the Linguistics Behind Regular Expressions Regular expressions are one of the most mind-boggling programming techniques, but much of their mystery can be elucidated by tracking down how they made it into JavaScript in the first place. In this talk, I’ll tell the story of the regular expression, from its humble linguistic origins to its awe-inspiring power in modern programming languages like JavaScript. Once I reveal to the audience the linguistic theory behind regular expressions, they’ll feel empowered to start writing some of their own.
+
+- title: Hey you, do you even design ?
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Florence Okoye
+      twitter: FINOkoye
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Bmm4-2SJ8qQ
+  description: |-
+    How do we move beyond designing and building ever more myopic services that barely improve on our competitors and still find it a continual struggle to provide real value to users? For all our conversations about empathy driven and user centred design, what’s missing in the way we build the web for the very persons we’re meant to be empathising with and why? What can we do about it? It’s time to bring a bit of critical theory into our solution architecture and look at ways our concern for ethics, sustainability, access and social impact can intersect with our code. Combining insights from design thinking and intersectional analysis, this talk will look both at how misconstrued design fails and endangers users at all levels and what it should really mean to design for the modern web.
+
+- title: Photorealistic Real Time Computer Graphics with Javascript
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Ivan Moreno
+      twitter: ivanmoreno_xyz
+      github: boyaquito/
+      website: http://www.plus360degrees.com/
+  slides:
+  videos:
+    - https://youtu.be/YHVKME6vYjY
+  description: |-
+    Photorealism has been the holy grail of computer graphics for many years. With the introduction of WebGL and hardware accelerated API’s on the browser, Web designers and developers were given a powerful tool to enlarge their creative scope and communication options. In this talk Ivan will demo and explain the concepts behind his creations, the tools he uses; from basic 3D modeling and texturization tips, to how to assemble a complete application, wether a small game, a product configurator, a cinematic experience, an augmented reality ad, or a virtual reality tour, your imagination will be the limit.
+
+- title: A Node.js Security Roadmap
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Mike Samuel
+      twitter: mvsamuel
+      github: mikesamuel
+      website:
+  slides:
+  videos:
+    - https://youtu.be/1Gun2lRb5Gw
+  description: |-
+    Node.js is getting increased scrutiny from attackers and security researchers. We put several kinds of vulnerabilities into context for Node.js users and discuss some ways to systematically address them while preserving the dynamism that makes node fun.
+
+- title: Formalizing user rights on the Web
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Paul Frazee
+      twitter: pfrazee
+      github: pfrazee
+      website: http://pfrazee.hashbase.io
+  slides:
+  videos:
+    - https://youtu.be/x-ffpAkviM0
+  description: |-
+    How should we think about harassment, bullying, bots, and misinformation on the Web? Have we failed as an industry to protect users, and do we need to aggressively police our spaces? If so, how do we respond to concerns about censorship by big business? In this talk, I’ll propose a formal framework for user rights on the Web. I’ll explore the idea that the rights of users on the Web are not all legal, instead most are founded in the architecture of the Web itself, and by modifying the Web’s architecture, we can build the political foundation for democratic representation, community moderation, and social responsibility in an online society.
+
+- title: 'Imagine This: A Web Without Servers'
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Tara Vancil
+      twitter: taravancil
+      github: taravancil
+      website: http://taravancil.com
+  slides:
+  videos:
+    - https://youtu.be/rJ_WvfF3FN8
+  description: |-
+    The Web was envisioned as an open platform for publishing and sharing information, but that vision has been lost: most people will never publish independently on the Web. What went wrong? We’ll see how a core facet of the Web platform—setting up and running a server—locks the vast majority of users out of participating in the Web. Finally, we’ll take a look at the peer-to-peer Web, an experiment to re-imagine Web publishing, this time without servers. Feeling skeptical? I’ll build and deploy a website on-stage using only my browser and text editor.
+
+- title: 'From Rabbi to Coder: How To Prepare for the Technical Interview'
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Ben Greenberg
+      twitter: RabbiGreenberg
+      github: benhayehudi
+      website: http://www.bengreenberg.org/
+  slides:
+  videos:
+    - https://youtu.be/tTZ3pWoDkjc
+  description: |-
+    After ten years serving as a rabbi throughout the United States including as the campus rabbi of Harvard University, I transitioned to being a developer. How does a rabbi prepare for the technical interview? What are the skills needed to succeed? This presentation is for anyone who has entered software development from non-traditional backgrounds (i.e. music, literature, education, sports, journalism and more). Come to be inspired and to grow in your confidence and skillset.
+
+- title: Using a modern web to recreate 1980s horribly slow & loud loading screens
+  type: regular
+  level:
+  time: 2018-06-03
+  room:
+  authors:
+    - name: Remy Sharp
+      twitter: rem
+      github: remy
+      website: http://remysharp.com
+  slides:
+  videos:
+    - https://youtu.be/o3MNdxQFUe8
+  description: |-
+    Content warning: High frequency visual flickering and noise. These days people chase the dream of high performance, fast loading slick web sites. But in the 1980s computers were ugly, slow and loud: let’s make that instead 👴👵💪 The first generation of home computers launched a movement of developers and hackers across the world. But to start your app, you had to load a tape (a really old usb-type-thing), press play, and patiently wait for the screech of the program to load (akin to listening to a fax machine). Why invest time in building fast website, when we can have fun building slow old retro machines using JavaScript. The end result is a mix of Web Audio, canvas API, cameras, audio jacks, binary, typed arrays, blobs, history of computing and a lot of questionable JavaScript.
