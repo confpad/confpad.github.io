@@ -57,14 +57,6 @@ const getAuthorGithub = username => {
   return getAuthorLink(title, link, text);
 };
 
-const getAuthorGooglePlus = username => {
-  let title = 'Google+';
-  let link = `https://plus.google.com/+${username}`;
-  let text = username;
-
-  return getAuthorLink(title, link, text);
-};
-
 const getVideo = video => html`
   <div class="u-clip">
     📹
@@ -96,7 +88,6 @@ const ConferenceDetailItem = props => html`
           ${author.name && getAuthorName(author.name)}
           ${author.twitter && getAuthorTwitter(author.twitter)}
           ${author.github && getAuthorGithub(author.github)}
-          ${author.googleplus && getAuthorGooglePlus(author.googleplus)}
         </div>
       `)}
       ${props.slides && props.slides.map(slides => getSlides(slides))}
