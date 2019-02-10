@@ -1,5 +1,5 @@
 - title: All AI Roads Lead to Distribution
-  type:
+  type: regular
   level:
   time: 2018-05-31
   room:
@@ -16,7 +16,7 @@
     "Methods that scale with computation are the future of AI", Richard Sutton, father of reinforcement learning. Large labelled training datasets were only one of the key pillars of the deep learning revolution, the widespread availability of GPU compute was the other. The next phase of deep learning is the widespread availability of distributed GPU compute. As data volumes increase, GPU clusters will be needed for the new distributed methods that already produce produce the state-of-the-art results for ImageNet and Cifar-10, such as neural architecture search. Auto-ml is also predicated on the availability of GPU clusters. Deep Learning systems at hyper-scale AI companies attack the toughest problems with distributed deep learning. Distributed Deep Learning enables both AI researchers and practioners to be more productive and the training of models that would be intractable on a single GPU server. Jim introduces the latest developments in distributed Deep Learning and how distribution can both massively reduce training time and enable parallel experimentation for both AutoML and hyperparameter optimization. We will introduce different distributed deep learning paradigms, including model-level parallelism and data-level parallelism, and show how data parallelism can be used for distributed training. We will also introduce the open-source Hops platfrom that supports GPUs as a resource, a more scalable HDFS filesystems and a secure multi-tenant environment. We will show how to program a machine learning pipeline, end-to-end with only Python code on Hops.
 
 - title: Processing 100+ million images per month with deep learning
-  type:
+  type: regular
   level:
   time: 2018-05-31
   room:
@@ -33,7 +33,7 @@
     Eliot explains how to use deep learning models in near real-time with a large amount of data, taking as an example Linkfluence who is processing more than 100 million images per month. He details the general architecture, pitfalls to avoid as well as some tips and tricks.
 
 - title: Machine Learning on Source Code
-  type:
+  type: regular
   level:
   time: 2018-05-31
   room:
@@ -50,7 +50,7 @@
     Machine Learning on Source Code (#MLonCode) is a new cool domain of Machine Learning which takes source code as an input data. Vadim tells the story about capturing the code naturalness, one of the core concepts in MLonCode, through identifier (class, function, variable name) embeddings. Embedding millions of identifiers is challenging... watch how this problem was solved.
 
 - title: 'Logistics and data: towards a decision support tool'
-  type:
+  type: regular
   level:
   time: 2018-05-31
   room:
@@ -67,7 +67,7 @@
     In logistics services, the only way to grow is to reduce costs, as this is a cost centre for many managers. On average, in France and in all business sectors, logistics costs represent between 8 and 10% of sales. Data science and associated tools can help reduce these costs while improving customer satisfaction. This means faster delivery, lower costs and fewer errors. Take, for example, a situation of over-stocking of maintenance parts in all warehouses: this implies high capital costs (space, obsolescence, etc.) and it is normal for companies to seek to optimise their inventory levels while guaranteeing a sufficiently high service rate. Once the best model is found for predicting the consumption of maintenance parts, the importance of business rules is critical for parts that cannot be modeled. Charlotte also discusses the choice of an optimal model by the inventory manager, which parameters are analyzed? Finally, successful integration of the model into the value chain is based on business ownership. Keep in mind that a model intelligence requires human intelligence to be adapted to a specific context.
 
 - title: Software 2.0, a Babel fish for deep learning?
-  type:
+  type: regular
   level:
   time: 2018-05-31
   room:
@@ -84,7 +84,7 @@
     A machine learning instance is composed of: an execution machine, a mathematical model, its knowledge (the weights of the matrices). As a conclusion, he's introducing his Babel Fish: a tool whose goal is to translate mathematical equations (described in Unicode) into computation graph at runtime. For more technical information: go to the Gorgonia repository.
 
 - title: Traps to avoid when working with AI
-  type:
+  type: regular
   level:
   time: 2018-05-31
   room:
@@ -101,7 +101,7 @@
     During a fictional match between a human and an AI algorithm, Virginie reviews 3 traps to avoid when working with Artificial Intelligence and how to tackle them: the accuracy paradox (when you have imbalanced classes), the choice of the evaluation function in behavioral tasks, and spotting overfitting in behavioral tasks More about those traps: the accuracy paradox: when you have imbalanced classes, the algorithm can be stuck, classifying everything in the major class. Some ways to tackle the problem are presented: gather more data, resample your data, change the metric, add penalty, change the algorithm or make data augmentation. the choice of the evaluation function: many metrics exist for a classification or a regression task, but in behavioral tasks it may be difficult to find the right one. One solution consists in defining the function as if you were speaking to a child. the overfitting spotting: in behavioral tasks, as you have no dataset and no validation error, it may be difficult to spot when you have overfitting or not. One way to avoid it is either to add randomness in the simulations or to test the models on real robots as soon as possible.
 
 - title: Deep Learning in the Wild
-  type:
+  type: regular
   level:
   time: 2018-05-31
   room:
@@ -118,7 +118,7 @@
     Like many developers and engineers in the field, Isabel started her journey in computer vision in academia. For some years she was working on image processing for biomedical images in the pre-Deep-Learning-era using handcrafted features. About three years ago she was offered a position at a start-up to apply deep learning on real-life projects. Isabel thought it should be quite similar considering that she was working in applied research before… well she was wrong. Discover 3 main lessons she learnt. The three main lessons Isabel learnt: Collect all relevant technical details. Because of our excitement and the hype it’s easy to get ahead of yourself but it’s absolutely necessary to know all technical details in order to find the right model. Choosing architectures is quite different since many of the measures for models do not apply in such cases. Many customers are not interested in mean Average Precision and also GPU inference might not be applicable in cases such as running models on smartphones. Another problem is that research benchmark datasets like COCO or Imagenet tend to be quite far from real life datasets. Other differences can be also observed in input data or bounding box sizes for object detection. In the end, performance plots can look vastly different compared to plots found in research papers. Testing on a fresh batch of a large size is crucial for finding out if the chosen model works in production / deployment. Academic standards such as splitting the set to 75% of the data for training and 25% for testing might be sufficient for model validation but is generally insufficient for forecasting how good the model will perform in the wild.
 
 - title: Knowledge Graphs & Deep Learning at YouTube
-  type:
+  type: regular
   level:
   time: 2018-05-31
   room:
@@ -135,7 +135,7 @@
     Aurelien explains how you can combine Knowledge Graphs and Deep Learning to dramatically improve Search & Discovery systems. By using a combination of signals (audiovisual content, title & description and context), it is possible to find the main topics of a video. These topics can then be used to improve recommendations, search, structured browsing, ads, and much more.
 
 - title: 'Crowdsourcing Artificial Intelligence for Science: YOU can do a lot!'
-  type:
+  type: regular
   level:
   time: 2018-05-31
   room:
@@ -152,7 +152,7 @@
     Much of Artificial Intelligence Research is done by a handful of elite researchers. At the same time, hundreds of thousands of really talented developers and engineers stand behind a mental block that they need a lot of advanced skills to be able to contribute to AI Research, or even to use AI in their own work. Sharada attempts to help clarify the myth, and convince everyone that they indeed have a lot to contribute to AI Research by telling the story of how people from all over the world came together to teach a simulated skeleton how to walk using reinforcement learning.
 
 - title: Using structure to select features in high dimension
-  type:
+  type: regular
   level:
   time: 2018-05-31
   room:
@@ -169,7 +169,7 @@
     AI seems impossible to dissociate from Big Data, usually intended to mean hundreds of thousands of training samples if not more. But what if what's large about your data is the number of features? This setup poses different statistical and computational challenges, and traditional feature selection methods fall short. The field of structured sparsity offers solutions in the case where a structure (e.g. group, tree, or graph) can be given over the features: the selected features should respect this structure. Structured sparsity methods aim at making good predictions using a small number of features (sparsity) consistent with the given structure; for instance, these features will belong to a small number of predefined groups, or be connected on a predefined graph. This talk is motivated by applications to genetics, in which it is usual to have orders of magnitude more features than samples, and prior knowledge is available as structure over the features, but it is not the only setting in which this applies.
 
 - title: Model Serving for Deep Learning
-  type:
+  type: regular
   level:
   time: 2018-05-31
   room:
@@ -186,7 +186,7 @@
     Deep Learning has been delivering state of the art results across a growing number of problems and domains. Correspondingly, Deep Learning models are being deployed across a growing number of applications and use cases. Hagay shows us what deploying deep neural networks to production mean, design considerations and challenges for model serving, and how the open source project Model Serving for Apache MXNet is designed to address these challenges.
 
 - title: Building Trust through Explainable AI
-  type:
+  type: regular
   level:
   time: 2018-05-31
   room:

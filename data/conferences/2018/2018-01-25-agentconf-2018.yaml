@@ -1,5 +1,5 @@
 - title: I want you to contribute to open source
-  type:
+  type: regular
   level:
   time: 2018-01-25 09:00:00
   room:
@@ -14,7 +14,7 @@
   description: |-
 
 - title: Folding Space and Time
-  type:
+  type: regular
   level:
   time: 2018-01-25 09:45:00
   room:
@@ -33,7 +33,7 @@
   description: |-
 
 - title: Write Queries, Not Code
-  type:
+  type: regular
   level:
   time: 2018-01-25 11:15:00
   room:
@@ -48,7 +48,7 @@
   description: |-
 
 - title: The Complete Yarn Workflow
-  type:
+  type: regular
   level:
   time: 2018-01-25 12:00:00
   room:
@@ -63,7 +63,7 @@
   description: |-
 
 - title: Make backend devs jealous of your test suite
-  type:
+  type: regular
   level:
   time: 2018-01-25 14:15:00
   room:
@@ -78,7 +78,7 @@
   description: |-
 
 - title: Make Linting Great Again
-  type:
+  type: regular
   level:
   time: 2018-01-25 15:00:00
   room:
@@ -93,7 +93,7 @@
   description: |-
 
 - title: An agnostic components design system for React
-  type:
+  type: regular
   level:
   time: 2018-01-25 16:15:00
   room:
@@ -108,7 +108,7 @@
   description: |-
 
 - title: Your brain doesn't have a fix flag
-  type:
+  type: regular
   level:
   time: 2018-01-26 09:00:00
   room:
@@ -123,7 +123,7 @@
   description: |-
 
 - title: Extending Redux in the Server Side
-  type:
+  type: regular
   level:
   time: 2018-01-26 09:45:00
   room:
@@ -138,7 +138,7 @@
   description: |-
 
 - title: What’s inside of TurboFan?
-  type:
+  type: regular
   level:
   time: 2018-01-26 11:00:00
   room:
@@ -153,7 +153,7 @@
   description: |-
 
 - title: Go home (or skiing) early. The joy of transparent reactivity.
-  type:
+  type: regular
   level:
   time: 2018-01-26 11:45:00
   room:
@@ -168,7 +168,7 @@
   description: |-
 
 - title: void* is the new var
-  type:
+  type: regular
   level:
   time: 2018-01-26 14:00:00
   room:
@@ -183,7 +183,7 @@
   description: |-
 
 - title: React state management in a GraphQL era
-  type:
+  type: regular
   level:
   time: 2018-01-26 14:45:00
   room:
@@ -198,7 +198,7 @@
   description: |-
 
 - title: Lightning Fast React Apps
-  type:
+  type: regular
   level:
   time: 2018-01-26 16:00:00
   room:
@@ -213,7 +213,7 @@
   description: |-
 
 - title: Bot Of The United States
-  type:
+  type: regular
   level:
   time: 2018-01-26 16:45:00
   room:

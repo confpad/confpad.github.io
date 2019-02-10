@@ -1,5 +1,5 @@
 - title: KEYNOTE. EVEN MORE CSS SECRETS
-  type:
+  type: regular
   level:
   time: 2018-05-24 11:30:00
   room:
@@ -15,7 +15,7 @@
     CSS Secrets was a series of talks that were loved by audiences all around the globe and led to Lea’s bestselling book “CSS Secrets”. The premise is simple: Ten surprising yet practical things you didn’t know you could do in CSS, live-coded in Lea’s trademark interactive presentation style. This third installment of the series will include new juicy secrets related to CSS Variables, grid layout, variable fonts, blending modes, SVG, and many other things. Prepare to be inspired again as Lea debuts ten all-new feats of advanced CSS wizardry, which will help you understand CSS at a much deeper level.
 
 - title: JOURNEY THROUGH VR AND AR WITH REACT
-  type:
+  type: regular
   level:
   time: 2018-05-24 12:30:00
   room:
@@ -31,7 +31,7 @@
     It's time to leave the 2D world of a browser window and venture into the world of enhanced reality JavaScript applications. During the talk, we'll see how to make great VR and AR experiences using just your browser and a bit of React, with live demos included, so we'll get to see them in action!
 
 - title: GRAPHQL CLIENTS
-  type:
+  type: regular
   level:
   time: 2018-05-24 13:40:00
   room:
@@ -47,7 +47,7 @@
     Single-page apps should be fast, and for that they usually need to cache their data on client side. Previously, we had to build those clients manually. With GraphQL, we can build clients that do lots of that manual work automatically and work with any GraphQL API. This talk will explore why GraphQL makes it easy to build such clients. It'll start from describing how you would usually build a cache on client-side and how it's built in popular GraphQL clients. Talk will explore on what more can be done to build even more powerful tools and what a future GraphQL client would look like.
 
 - title: 'EAST MEETS WEST: WEB TYPOGRAPHY AND MODERN LAYOUTS'
-  type:
+  type: regular
   level:
   time: 2018-05-24 14:20:00
   room:
@@ -63,7 +63,7 @@
     This talk traces the parallel history of western and eastern typography from handwriting to the internet age, setting the context for how the web is a brand new medium for typesetting. CSS allows us to implement advanced typographic features and multi-directional layouts, that not only benefits internationalization, but opens up a myriad of options for creative and interesting layouts in general as well.
 
 - title: 'JAVASCRIPT: THE FAIRLY ODD PARTS'
-  type:
+  type: regular
   level:
   time: 2018-05-24 16:30:00
   room:
@@ -79,7 +79,7 @@
     JavaScript is the new language of choice for many applications, and it’s certainly a great language for many tasks. But it also has some strange quirks. This lightning talk focuses on some of JavaScript’s weird parts, that you usually don’t run into… unless you try to implement a JavaScript VM that correctly follows the language specification.
 
 - title: CSS TRICKS YOU GOTTA LOVE
-  type:
+  type: regular
   level:
   time: 2018-05-24 16:40:00
   room:
@@ -95,7 +95,7 @@
     When you need to make a complex and beautiful UI, then you have to find new approaches. In practice, it turns out that complex things are very simple but sometimes not immediately obvious. I would like to share working methods from my practice. And you will understand how everything can be simple!
 
 - title: 100% KOTLIN FRONTEND
-  type:
+  type: regular
   level:
   time: 2018-05-24 16:50:00
   room:
@@ -111,7 +111,7 @@
     Kotlin is much more than a hot new language for Android apps or your server's backend, it is also a fun and efficient way to develop the frontend part of your web-based app. I will demonstrate how to develop a React app (with styled-components, of course!) without ever leaving Kotlin.
 
 - title: 'REACT NATIVE: NEW AGE HACK OR STONE AGE TOOL?'
-  type:
+  type: regular
   level:
   time: 2018-05-24 17:00:00
   room:
@@ -127,7 +127,7 @@
     React Native is currently a very popular library for writing native applications. It’s super easy to get started with it if you already know React — you can think that you’ve become a mobile developer in less than 15 minutes! However, while React Native may make it easy for front-end developers to get started with mobile development, it’s severely lacking in comparison to more established and comprehensive languages like Swift or Kotlin. Compared to Swift or Kotlin, React Native seems like it’s from the Stone Ages! So the question is, should you use React Native in production ? In my talk, I will tell you about the pros and cons of React Native.
 
 - title: USING NEW WEB APIS FOR YOUR OWN PLEASURE
-  type:
+  type: regular
   level:
   time: 2018-05-24 17:10:00
   room:
@@ -143,7 +143,7 @@
     When I first heard about the Web Bluetooth API I was so curious, that I could not wait to try it out. So I asked myself: Which Bluetooth device should I buy? Especially if I do not want to through it away after I was finished experimenting with the API. So obviously a Bluetooth enabled vibrator was a perfect fit. And it came with a serious use case, too: The slogan of the vibrator was "Let him control you", which I found very limiting, so I used the Web Bluetooth API to connect it to the browser, and the Web Audio API, to establish my own slogan: "Let a video control you". In my lightning talk, you will learn how to use the Web Bluetooth API to connect a Bluetooth enabled device to the browser. Also, you will see what is possible with the Web Audio API, especially when it comes to analyzing spoken words.
 
 - title: WEBASSEMBLY AS CROSS-PLATFORM ARCHITECTURE
-  type:
+  type: regular
   level:
   time: 2018-05-24 17:20:00
   room:
@@ -159,7 +159,7 @@
     With the rise of web-to-native cross-platform solutions like React Native and Electron, we got to witness not only their potential, but also their shortcomings. Thanks to WebAssembly we now have an alternative that uses a different approach, but promises the same results. In my talk, I’ll share the lessons the join.me team learned over the last few years while creating and maintaining a cross-platform (web included!) C++ codebase, with special attention to management and team-dynamic aspects. You’ll also see how WebAssembly changes the game and, through a bit of live-coding, how easy it is to get started with it.
 
 - title: 'MINING CRYPTO IN BROWSER: GPU, WEBASSEMBLY, JAVASCRIPT AND ALL THE GOOD THINGS TO TRY'
-  type:
+  type: regular
   level:
   time: 2018-05-24 18:30:00
   room:
@@ -175,7 +175,7 @@
     A year ago an unnamed investor asked me for a consultancy on topic: "If this is possible to mine crypto in browser using GPU?". The talk shares some insights/outcome found during the research and gives an idea of what to expect when mining cryptocurrencies using a pool of browser-based miners.
 
 - title: CASE STUDY - REACT FINLAND
-  type:
+  type: regular
   level:
   time: 2018-05-24 19:10:00
   room:
@@ -191,7 +191,7 @@
     Organizing a conference means you require a certain amount of technical infrastructure. We developed a custom website and application for React Finland. In this talk, you'll learn how we did it and how to achieve a modern frontend architecture using technologies such as Webpack, React, and GraphQL. You will also gain insight on the non-technical aspects including marketing and sales and see how they align with technology.
 
 - title: THE BUMPY ROAD TO UNIVERSAL JAVASCRIPT
-  type:
+  type: regular
   level:
   time: 2018-05-25 11:20:00
   room:
@@ -207,7 +207,7 @@
     Since the mid 90s, developers have struggled to build web applications that can be executed both on the client and the server. And still today, even with Node.js and virtual DOM libraries like React, this can be quite challenging. In this talk, we'll look at common obstacles and problems that developers face when building this type of web application, including typical performance and security issues. You'll leave the presentation knowing how to build a fast and secure web application that can be rendered on the client and the server.
 
 - title: WRITING VIRTUAL AND AUGMENTED REALITY APPS WITH WEB TECHNOLOGY
-  type:
+  type: regular
   level:
   time: 2018-05-25 12:00:00
   room:
@@ -223,7 +223,7 @@
     Writing 3D applications for the browser is possible since some years due to the WebGL API. But since Virtual Reality and Augmented Reality are getting more popular, web developers and designers now have a serious reason to get to know the 3D web, its APIs and design patterns. In this talk you will learn how to create 3D applications in the browser, using the WebGL and the WebVR API, and popular libraries, like A-Frame and ReactVR. You will also see what is necessary to create a Virtual Reality app that runs on common VR devices, and how to create Augmented Reality applications for Android and iOS phones. Since 3D user interfaces and interactions in the browser are relatively new for designers and users, there are no established UX design patterns yet, but you will get to know best-practices and see some tips for improving the usability of your 3d application. The talk ends with my advice on how to create responsible applications, that won’t harm your users – neither physically nor psychologically.
 
 - title: INTERVIEW SESSION WITH LEA VEROU
-  type:
+  type: regular
   level:
   time: 2018-05-25 12:40:00
   room:
@@ -238,7 +238,7 @@
   description: |-
 
 - title: BUILD YOUR OWN WEBPACK (LIVE CODING AN ULTRA-SIMPLIFIED EXAMPLE OF A MODERN MODULE BUNDLER IN JAVASCRIPT)
-  type:
+  type: regular
   level:
   time: 2018-05-25 13:20:00
   room:
@@ -254,7 +254,7 @@
     Most of us don't have to think too much about module bundlers in our day jobs. However, module bundlers are all around us, and if you’re a web developer you are probably using module bundlers on a daily basis. Having a good understanding of how popular tools like Webpack or Browserify work can be extremely helpful. In this talk, I will help you understand how most module bundlers work and show you that they’re not as scary as you might think.
 
 - title: 'BRAVE NEW WORLD: MOVING ON TO ES201X'
-  type:
+  type: regular
   level:
   time: 2018-05-25 14:00:00
   room:
@@ -270,7 +270,7 @@
     With ES2015 the JavaScript specification changed to a yearly release schedule. Since then we already got another three updates, namely ES2016, ES2017 and most recently ES2018. This puts a lot of pressure on JavaScript VMs to not only keep up with implementing all these new proposals, but continuously think about ways to optimize them, so that developers can not only rely on them being available, but also having reasonable performance. In this talk, I’ll give an update on the state of the ES201X features and their performance in V8, the JavaScript engine that powers both Node.js and Chrome.
 
 - title: INTERVIEW SESSION WITH VITALY FRIEDMAN
-  type:
+  type: regular
   level:
   time: 2018-05-25 14:40:00
   room:
@@ -285,7 +285,7 @@
   description: |-
 
 - title: WRITING BOTS FOR GITHUB
-  type:
+  type: regular
   level:
   time: 2018-05-25 16:20:00
   room:
@@ -301,7 +301,7 @@
     My talk is going to be about Probot — GitHub's framework for creating bots. A bot built with Probot is a NodeJS application that handles GitHub's events. Probot allows us to automate and improve GitHub workflow, extend it with tools that we love as far as we wish. In my talk, I will show what Probot can do right now and how you can create your own bot.
 
 - title: 'PARCEL — BUNDLER: NEW KID ON THE BLOCK (ZERO CONFIG COMPARISON WITH WEBPACK 4)'
-  type:
+  type: regular
   level:
   time: 2018-05-25 16:30:00
   room:
@@ -317,7 +317,7 @@
     Parcel is a new web application bundler which doesn’t require a config file whereas in webpack 3, even for a very basic project, we need to configure a `webpack.config` file. So webpack team recently released a new version of webpack (webpack 4) which implements zero config. I might help in deciding whether one should head over to Webpack 4 or look towards Parcel and what advantages both have.
 
 - title: DEVTOOLS TIPS AND TRICKS
-  type:
+  type: regular
   level:
   time: 2018-05-25 16:40:00
   room:
@@ -332,7 +332,7 @@
     We spend a lot of time debugging our code in a browser. But often we just use console.log. In this talk, I will share useful features of DevTools in Chrome and tips and tricks that will help you develop and debug more quickly, easily, and efficiently!
 
 - title: YOU GOTTA LOVE RX
-  type:
+  type: regular
   level:
   time: 2018-05-25 16:50:00
   room:
@@ -348,7 +348,7 @@
     Video streaming is a breeze with RxJS, but even if you have nothing to do with the video you do streaming every day. In my lightning talk, I will show you that even something as trivial as handling DOM events could be a fascinating task if you add Observables to it.
 
 - title: 'A COMMON DESIGN LANGUAGE: LET DESIGNERS & DEVELOPERS TALK TO EACH OTHER'
-  type:
+  type: regular
   level:
   time: 2018-05-25 17:00:00
   room:
@@ -364,7 +364,7 @@
     "Should designers code?" or "Should coders design?" — these 2 eternal questions are being asked for years with no particular answer given. How to let developers know what typography style or button variance they should be using on this particular screen? How to ensure that the whole UI is consistent? How to let designers know that some screen design doesn't fit the requirements and needs to be updated? In order to answer those questions designers and developers have to speak the same language. But what language should it be. UI components and pattern libraries can provide this intermediate abstraction and be a common language for both designers and developers. During this talk, I'll guide you through some frustrations I've experienced as a designer and as a developer when working on different projects. I'll show how the common UI patterns library can solve some of these problems and improve the overall productivity of the team.
 
 - title: INTERVIEW SESSION WITH HUI JING
-  type:
+  type: regular
   level:
   time: 2018-05-25 17:40:00
   room:
@@ -379,7 +379,7 @@
   description: |-
 
 - title: KEYNOTE. NEW ADVENTURES IN FRONT-END, SEASON 2
-  type:
+  type: regular
   level:
   time: 2018-05-25 18:20:00
   room:

@@ -1,5 +1,5 @@
 - title: The Accidental (Design) Leader
-  type:
+  type: regular
   level:
   time: 2018-11-05
   room:
@@ -16,7 +16,7 @@
     Andy first came to prominence in our industry as a designer and web standards enthusiast. He was driven by a desire to improve and professionalise the industry, which is how he came to start the UKs first user experience consultancy, Clearleft. He never set out to be a design leader, but now find himself leading a team of thirty people, almost by accident. In a quest to understand what makes a great leader, and help his friends in newly minted leadership positions, Andy started the Leading Design conference and Slack community in 2016. Over the past couple of years, Andy has interviewed dozens of prominent leaders and listened in on hundreds of Slack conversations about the art and craft of leadership. In this session, Andy recounts his journey into leadership, shares his successes and failures, and the important lessons he’s learned on the way. The result is a talk packed full of design leadership heuristics suitable for anybody who is a leader, wants to be a leader, or has a leader.
 
 - title: Box Alignment
-  type:
+  type: regular
   level:
   time: 2018-11-05
   room:
@@ -33,7 +33,7 @@
     The web is fundamentally boxes. Every element in the document tree is a box. A lot of frustration with CSS often arises from trying to wrangle all the content on the page into their proper locations. CSS has gradually expanded over the years, granting us an increasing degree of control over the alignment, positioning and layout of these boxes. CSS is ultimately a holistic technology, in that, even though you can use properties in isolation, the full power of CSS shines through when used in combination. This talk will not only dive into how box alignment works, but also cover its interactions with other key parts of CSS layout, like display and writing-mode, as well as show how this module will continue to evolve, making layout even easier moving forward.
 
 - title: The New Design Material
-  type:
+  type: regular
   level:
   time: 2018-11-05
   room:
@@ -50,7 +50,7 @@
     Just as mobile defined the last decade of digital products, machine learning is set to define the next. Learn to use machine-generated content, insight, and interaction as design material in your everyday work. Refit familiar design and UX process to work with the grain of the algorithm, to help the machines solve real problems without creating new ones. This lively and inspiring talk explores the technologies and practical techniques that you can use today — like right now — not only to make existing products better but to imagine surprising new services. The challenges and opportunities of machine learning are plenty; learn to handle this powerful new design material with care and respect.
 
 - title: Extreme Typography on the Web
-  type:
+  type: regular
   level:
   time: 2018-11-05
   room:
@@ -66,7 +66,7 @@
     Now is the perfect time to push typography to new extremes in weight, width, and size. Growing support for variable fonts and color fonts are broadening the range of things we can do with type, while CSS grid and viewport units are giving web designers unprecedented control over how text integrates into a layout. This presentation examines what happens to typefaces at these extremes, when the rules of letter-drawing begin to break down. I will show some historical examples of extreme designs, but will focus on exemplary contemporary designs with extra bold, extra condensed, and extra wide variants. I will also discuss the design process of my typeface Fit, designed expressly to fill as much space as possible, as well as some of the experimental variable and color fonts I have made as part of my Font of the Month Club.
 
 - title: Conquer Variable Web Typography
-  type:
+  type: regular
   level:
   time: 2018-11-05
   room:
@@ -83,7 +83,7 @@
     Variable fonts will shape the future of web typography. They can bring great variety and new opportunities at a low file size. But with many possibilities you can also choose wrong. This practical talk guides you through the first steps with variable web typography, accompanied by several use cases and examples. What are variable fonts, what can you do with them, when do they make sense, and what should you be aware of? Be good to type and be ready for the next technology shift in your browser.
 
 - title: Build Bridges, Not Walls – Design for Users Across Cultures
-  type:
+  type: regular
   level:
   time: 2018-11-05
   room:
@@ -99,7 +99,7 @@
     As Internet access expands to the far corners of the world, product makers have the chance to see their work used by millions of people worldwide. To create products for international users, we must be aware of the full range of human diversity with respect to language, culture and other forms of human difference. If the product doesn’t adapt to users’ differences, there’s a big danger where we think our work is great, but users in other countries finds it terrible, or worse, unusable. Join this talk to hear how Jenny designed for users in Europe, North- and South America, Asia, and Southeast Asia.
 
 - title: Prismatic
-  type:
+  type: regular
   level:
   time: 2018-11-05
   room:
@@ -115,7 +115,7 @@
     Do not all charms fly At the mere touch of cold philosophy? excerpt from Lamia John Keats, 1819 Since the days of the first natural philosophers, science seems to revel in shining harsh unforgiving light on the wonders we filled our world with. No gnomes lurk in the mines, the rainbow unravelled, love and happiness a mere presence of the right chemicals... The fantastic realm of mythology and strange tales replaced with the dusty tedium we remember from science and math classes. Although professionally firmly rooted in hard science, in Prismatic Frederik will use creative coding to explore this universe of apparent boredom. At first sight, dull rigid math, opaque domains of abstract knowledge, and tables of data are poor raw material. Throughout he will try to show that when handled with an appropriate lack of protocol, they reveal a hidden beauty. A world of a different kind of wonder, far removed from the 19th century rational universe of steam and electricity, much closer in awe to the romantics’ spirit-filled realm.
 
 - title: I, Human
-  type:
+  type: regular
   level:
   time: 2018-11-05
   room:
@@ -132,7 +132,7 @@
     Asimov’s Three Laws of Robotics gave us a set of principles for governing the behaviour of Artificial Intelligence (AI). Asimov also said: “The Three Laws are the only way in which rational human beings can deal with robots - or anything else. But when I say that, I always remember (sadly) that human beings are not always rational!” In “I, Human”, Léonie uses the Three Laws of Robotics to explore what it means to be a human with a disability, in a world of AI and smart technologies.
 
 - title: The Abridged History Of Having Fun \/\/ith Keyboards
-  type:
+  type: regular
   level:
   time: 2018-11-05
   room:
@@ -148,7 +148,7 @@
     Join Marcin on a tour of 150 years of people treating QWERTY keyboards not as data entry devices or literary partners, but as… instruments of creative expression. We’ll solve a typewriter mystery, learn basics of artyping, chat with Eliza and her (its?) friends, figure out the difference between ANSI, ASCII, and PETSCII art, meet the extended family of the Emoji Sheriff – and see what can we learn about ourselves and our relationship with machines in the process.
 
 - title: Warmup - Bifrost
-  type:
+  type: regular
   level:
   time: 2018-11-05
   room:
@@ -164,7 +164,7 @@
     MPS Bifröst is the modern cloud-native way to do Enterprise SSO. Come by and let us convince you that these things can actually be fun (and also to see and laugh at some of the interface designs we created along the way :D) This was a talk from the Warm-Up Side Event a day before beyond tellerrand in Berlin.
 
 - title: Warmup - From Print to Screen
-  type:
+  type: regular
   level:
   time: 2018-11-05
   room:
@@ -180,7 +180,7 @@
     Originating in print newspapers, infographics have become an essential part of how we share and soak up news information online. Designer Johannes Ippen shows the leap from print to screen, presents some trends and possibilities and why infographics are as important for the future of UI design as for cooking. This was a talk from the Warm-Up Side Event a day before beyond tellerrand in Berlin.
 
 - title: Warmup - Lockpicking
-  type:
+  type: regular
   level:
   time: 2018-11-05
   room:
