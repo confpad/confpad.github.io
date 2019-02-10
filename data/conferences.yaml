@@ -5,7 +5,7 @@
     from: 2015-01-28
     to: 2015-01-29
   location:
-    country: USA
+    country: United States
     city: Menlo Park, CA
   description: |-
     This year’s conference features a mix of panels and talks set against the backdrop of beautiful Lake Las Vegas. In addition to a can’t-miss schedule, we’re organizing off-hour activities providing opportunities for relaxation, adventure, and getting to other React enthusiasts.
@@ -17,8 +17,8 @@
     from: 2016-02-22
     to: 2015-02-23
   location:
-    country: California
-    city: San Francisco
+    country: United States
+    city: San Francisco, CA
   description: |-
     Come to React.js Conf to shape the future of client-side applications!
 
@@ -65,7 +65,7 @@
     from: 2017-03-13
     to: 2017-03-14
   location:
-    country: USA
+    country: United States
     city: Santa Clara, CA
   description: |-
     React Conf 2017 is the official Facebook React event. This year's event will be held in Santa Clara, California.
@@ -89,7 +89,7 @@
     from: 2017-04-21
     to: 2017-04-21
   location:
-    country: Netherland
+    country: Netherlands
     city: Amsterdam
   description: |-
     React Amsterdam is a full day two-track conference on all things React, gathering Front End developers across the globe in the tech heart of Europe. React Amsterdam is a heir to the biggest React community in BeNeLux and we have our priorities straight: only the highest quality content with careful balance of practical and visionary talks. React Amsterdam 2017 will take place in the Kromhouthal - former shipbuilding factory at a waterfront of Amsterdam City center.
@@ -113,7 +113,7 @@
     from: 2017-07-10
     to: 2017-07-11
   location:
-    country: USA
+    country: United States
     city: Portland, OR
   description: |-
     Join us at the beautiful Armory in downtown Portland this summer! Chain React: The React Native.Conference will consist of multiple talks on React Native given by mobile software engineers at Facebook, AirBnB, and others, on a variety of topics from beginner to expert level. We’re expecting a few hundred attendees and are working hard to put on a great conference.
@@ -221,7 +221,7 @@
     from: 2018-02-22
     to: 2018-02-22
   location:
-    country: USA
+    country: United States
     city: San Antonio, TX
   description: |-
     Assert(js) Testing Conference is a one-day, single-track conference with a laser focus on testing for JavaScript developers - both UI and Node.js.
@@ -305,7 +305,7 @@
     from: 2018-04-11
     to: 2018-04-13
   location:
-    country: UK
+    country: United Kingdom
     city: London
   description: |-
     JavaScript is everywhere. At the International JavaScript Conference you will meet internationally known JavaScript experts who share their knowledge in vanilla JavaScript as well as the most important JS frameworks.
@@ -317,7 +317,7 @@
     from: 2018-04-17
     to: 2018-04-18
   location:
-    country: USA
+    country: United States
     city: San Francisco, CA
   description: |-
     Learn how others failed, so that you won’thave to make the same mistakes. You willalso discover techniques, strategies andtooling to get to better results, faster.
@@ -341,7 +341,7 @@
     from: 2018-04-28
     to: 2018-04-28
   location:
-    country: USA
+    country: United States
     city: San Francisco, CA
   description: |-
     A one-day conference for the ▲ZEIT Community
@@ -365,7 +365,7 @@
     from: 2018-05-11
     to: 2018-05-13
   location:
-    country: USA
+    country: United States
     city: Cleveland, OH
   description: |-
     The PyCon 2018 conference, which will take place in Cleveland, is the largest annual gathering for the community using and developing the open-source Python programming language.
@@ -461,7 +461,7 @@
     from: 2018-07-11
     to: 2018-07-13
   location:
-    country: USA
+    country: United States
     city: Portland, OR
   description: |-
     Chain React was started in 2017 by the team at Infinite Red, who wanted nothing more than to learn from other React Native enthusiasts, eat great food, and nerd out about Redux vs MobX.
@@ -485,7 +485,7 @@
     from: 2018-08-16
     to: 2018-08-17
   location:
-    country: USA
+    country: United States
     city: Salt Lake City, UT
   description: |-
     React Rally is a two day single track conference for developers of all backgrounds using Facebook's React.js, React Native, and related tools. Speakers will cover topics such as React Native, Flux, ES6, isomorphic universal JavaScript, and so much more. Whether you're a seasoned developer who has been using React since before it was cool, or a newcomer to the scene, React Rally has something for everyone!
@@ -555,7 +555,7 @@
     from: 2018-09-20
     to: 2018-09-21
   location:
-    country: USA
+    country: United States
     city: New York, NY
   description: |-
     Every year the Empire team ramps up, we try to highlight one of the things that makes New York City an amazing place to live, work, visit, and git push origin master in. This year we return to showcase the little language you know and love at the Kaye Playhouse at Hunter College this September 20 and 21. We're so excited that we're able to feature New York at its finest, and we're really looking forward to pushing Empire, JS, and Node.js towards another incredible year.
@@ -603,7 +603,7 @@
     from: 2018-10-23
     to: 2018-10-24
   location:
-    country: USA
+    country: United States
     city: New York, NY
   description: |-
     Learn how others failed, so that you won’thave to make the same mistakes. You willalso discover techniques, strategies andtooling to get to better results, faster.
@@ -615,7 +615,7 @@
     from: 2018-10-24
     to: 2018-10-26
   location:
-    country: USA
+    country: United States
     city: Henderson, NV
   description: |-
     React Conf 2018 is the official Facebook React event. This year's event will be held in Henderson, Nevada.
@@ -687,7 +687,7 @@
     from: 2018-11-12
     to: 2018-11-13
   location:
-    country: USA
+    country: United States
     city: San Francisco, CA
   description: |-
     Connect with Chrome engineers and other leading developers for an exploration of building beautiful and performant experiences.
@@ -723,7 +723,7 @@
     from: 2018-12-04
     to: 2018-12-04
   location:
-    country: UK
+    country: United Kingdom
     city: London
   description: |-
     Experience the latest from Flutter, Google’s free and open source SDK for building high-quality native iOS and Android apps from a single codebase.  Flutter Live is a global celebration of Flutter.
