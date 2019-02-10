@@ -3,6 +3,8 @@ const fs = require('fs');
 const glob = require('glob');
 const jsyaml = require('js-yaml');
 
+const COUNTRIES = require('./countries');
+
 const ROOT_KEYS = ['id', 'name', 'url', 'date', 'location', 'description'];
 const DATE_KEYS = ['from', 'to'];
 const LOCATION_KEYS = ['country', 'city'];
@@ -35,6 +37,9 @@ glob.sync('{./data/conferences.yaml,./examples/conferences.yaml}').forEach(file 
       if (conference.description !== null) {
         expect(conference.description).toEqual(expect.not.stringContaining('\n'));
       }
+
+      // Check if country is valid - reversed actual-expected order, sort of anti-pattern
+      conference.location && expect(COUNTRIES).toContain(conference.location.country);
     });
   });
 });
