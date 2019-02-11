@@ -704,6 +704,18 @@
   description: |-
     We are thrilled to present the 2018 edition of ReactNext – a one-day community-driven event packed with advanced lectures by internationally renowned speakers, and networking opportunities with over 600 attendees from all around the world, that share a passion for React, held in the center of the vibrant city of Tel Aviv. ReactNext targets both beginner and experienced devs in two parallel tracks with sessions about React, React Native, Redux, MobX, and everything about the ecosystem
 
+- id: 2018-11-04-nodeconf-eu-2018
+  name: NodeConf EU 2018
+  url: https://www.nodeconf.eu/
+  date:
+    from: 2018-11-04
+    to: 2018-11-07
+  location:
+    country: Ireland
+    city: Kilkenny
+  description: |-
+    NodeConf EU is first and foremost about community. A community that is kind to its members, a community that values diversity. It's a gathering of minds in an informal setting. It offers attendees an opportunity to meet with their friends, peers and speakers in a relaxed, welcoming, friendly and most importantly respectful environment.
+
 - id: 2018-11-05-beyond-tellerrand-berlin-2018
   name: Beyond Tellerrand Berlin 2018
   url: https://beyondtellerrand.com/events/berlin-2018/

@@ -1,0 +1,376 @@
+- title: HOLDING ON TO YOUR PERFORMANCE PROMISES
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-05 09:00:00
+  room:
+  authors:
+    - name: Maya Lekova
+      twitter: MayaLekova
+      github:
+      website:
+    - name: Benedikt Meurer
+      twitter: bmeurer
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/DFP5DKDQfOc
+  description: |-
+    The ES2015 revision of JavaScript introduced Promises as primitives for asynchronous operations and generators as primitives for concurrent programming. read less On top of that ES2017/18 added async functions and generators. This talk briefly explores these primitives, and dives into the performance peculiarities of Promises-based programming paradigms. We’ll especially look into how these operations perform in V8, the JavaScript engine that powers both Node.js and Chrome.
+
+- title: 'GOING FAASTER: FUNCTION AS A SERVICE AT NETFLIX'
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-05 09:30:00
+  room:
+  authors:
+    - name: Yunong Xiao
+      twitter: yunongx
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/9a_7_FIIOJw
+  description: |-
+    The FaaS revolution is taking the world by storm. It just so happens that JavaScript has become the lingua franca of the FaaS revolution. read less Customers love the no-ops and ergonomics of this new paradigm. They enable a revolution in developer velocity, allowing engineers to deploy code to production much faster than before. At Netflix, these features are a perfect fit for the Netflix API Platform, which provides engineers the ability to write and deploy tier-1 services using JS without having to manage infrastructure or operations. However, there are trade-offs to consider. Most FaaS offerings today are great for latency insensitive tasks, but not for fully fledged services that need to be isolated, low latency, reliable, and elastically scalable. Learn about the architecture and internals of Netflix’s JS FaaS platform, which lets engineers deploy JS functions as isolated, reliable, and low latency production services.
+
+- title: LET'S BUILD A DOPPELGANGER GAME!
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-05 10:00:00
+  room:
+  authors:
+    - name: Simona Cotin
+      twitter: simona_cotin
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/zxjTQg2YS8s
+  description: |-
+    You’ve always thought you looked like Marty McFly but your friends say you look like Yoda, take the 80s doppleganger challenge and find out for sure! read less In this talk, I’ll show how to use a little bit of machine learning and serverless tech to build an application that can match faces to their dopplegangers. All written with Angular and Node!
+
+- title: PREDICTING THE INTERNET OF THINGS WITH TENSORFLOW.JS
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-05 11:00:00
+  room:
+  authors:
+    - name: Taron Foxworth
+      twitter: anaptfox
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/PJS0baf5chk
+  description: |-
+    Taron Foxworth wants to translate technology for people to learn, love, and be inspired. Taron is the Lead Technical Evangelist at Losant and an adjunct professor at Xavier University. Taron was born in New Orleans, Louisiana, then relocated to Cincinnati, Ohio. Taron is currently interested in all things food and whiskey, IoT, Blockchain, Node.js, buzz words, and other really random things. I wondered, can I use JavaScript to predict if a machine will fail? With Tensorflow.js, some sensors, and a little elbow grease, this is totally possible. read less As the price of Internet-connected chips drops, it is now possible to connect anything – literally anything – to the Internet. But we're generating so much data off of these devices that we need some help making sense of it all. Enter machine learning. This talk is an introduction to machine learning – what it is (and is not!), how it is beneficial, and how you as a JS developer can start learning. We'll cover the basics of building a model and using Convolutional Neural Networks (CNN), and use these skills to predict machine failure. JavaScript developers can use their skills to program the web, build cloud-based applications, develop games and robotics – and now, with Tensorflow.js, you can add machine learning to your repertoire.
+
+- title: GRAPHQL - ACCELERATED
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-05 11:30:00
+  room:
+  authors:
+    - name: Matteo Collina
+      twitter: matteocollina
+      github:
+      website:
+    - name: Mathias Buus
+      twitter: mafintosh
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/-V86BB9wrG8
+  description: |-
+    GraphQL is a query language that is rapidly gaining wide adoption across the community. It combines type validation with a query and filtering syntax that makes it easy to get up-and-running with a powerful web API in almost no time. read less Features like running parallel queries or update-all become much easier, because they are first class citizens of GraphQL. Add to that a vibrant community that keeps creating excellent tooling and documentation, it’s clear why GraphQL has become so popular with developers Every abstraction has a cost, and GraphQL is no exception. The added complexity and a new schema format to parse and execute mean new performance bottlenecks. In addition to performance issues, the wrong use of GraphQL can lead to architectural bottlenecks. Instead of viewing this as a problem we took this as a challenge. In this talk we’ll cover what GraphQL is, why it’s great and how we made it run a lot faster on Node.js, in fact *much* faster, using different performance techniques that we have learned in the last few years.
+
+- title: BUILD THE API YOU WANT TO SEE IN THE WORLD
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-05 12:00:00
+  room:
+  authors:
+    - name: Michelle Garrett
+      twitter: msmichellegar
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/123RliEPfDQ
+  description: |-
+    Three years ago I learned to code. Now I'm a Software Engineer at Condé Nast International in London, writing JS with React and Node. I also organise Node Girls London, which hosts free JavaScript workshops for gender minorities in tech. Have you ever used a third party API, and hated it? You don't have to live with it! I'll be sharing my experience transforming ugly JSON into the GraphQL API of my dreams. read less I'll speak about how GraphQL helped me get the data I wanted, and share some strategies for designing schema you'll love. By the end of this talk, you'll understand how GraphQL can improve the quality of your data, and life.
+
+- title: NODE ES MODULES - SOMETHING ALMOST, BUT NOT QUITE ENTIRELY UNLIKE COMMONJS
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-05 12:30:00
+  room:
+  authors:
+    - name: Gil Tayar
+      twitter: giltayar
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/44kvI2W0Mww
+  description: |-
+    CommonJS, along with the npm registry, has become the de-facto standard in Frontend and NodeJS development today. But Native ES Modules are coming to NodeJS and the browser. read less On the surface, they look incredibly similar to CommonJS modules, but the differences are important. In this talk I will describe these differences, the consequences of these differences, and how to start preparing for the new world of Native ES Modules. Why is this talk important? Because Native ES Modules _are_ coming. And everybody will be talking about them in 2019. And we need to be prepared, for it _is_ going to be a difficult transition, because the differences are subtle and they bite.
+
+- title: THE STATE OF NODE.JS CORE
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-06 09:00:00
+  room:
+  authors:
+    - name: James Snell
+      twitter: jasnell
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/7mXgpCcRkcg
+  description: |-
+    James M Snell is a core contributor to Node.js and a member of the Node.js Technical Steering Committee. He is also an Open Source Architect for nearForm. What's the current state of Node.js core? What's new? What's coming? How is the project doing? This talk will dive deep into the project and highlight everything that is happening.
+
+- title: THE SERVERLESS REVOLUTION
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-06 09:30:00
+  room:
+  authors:
+    - name: Kassandra Perch
+      twitter: nodebotanist
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/yQpA7rVp8VQ
+  description: |-
+    Kas is a Developer Relations Engineer for IOpipe by day, and a nodebotanist by night. She lives in Austin TX with her amazing partner and two cats. Okay, wait. Didn't we just spend the better part of a decade convincing everyone that JS belonged on servers?! So what's this serverless nonsense and why does it matter to Node.JS? read less The answer involves a dash of microservices, a pinch of scale, and a whole lot of abstraction. Follow along as we take a quick but deep dive into the new arena of serverless architectures! Learn the why and how of serverless as we build a small app on stage.
+
+- title: HEALTHY AND FIT WOMBATS FOR THE GREATER GOOD!
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-06 10:00:00
+  room:
+  authors:
+    - name:  Szabolcs Szabolcsi-Toth
+      twitter: _Nec
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/V2V6gStgzvo
+  description: |-
+    Senior JS/frontend developer at IBM Cloud Video. Mostly working with a large scale JS codebase or node microservices, focusing on vanilla js, hacking IoT. Organizer of JSConf and CSSConf Budapest. Almost every Node.js developer saw the joke of the huge node_modules folder tearing hole in the space-time continuum, but how many thought of what could be done to prevent this? read less By fine-tuning our npm publishing workflow, we can save time, bandwidth and money for others, so let’s learn more about it! I’ll shed some light on how the npm module authoring works, and show some best practices on how we do npm authoring at our company.
+
+- title: START YOUR NODE.JS CONTRIBUTION BY WRITING UNIT TESTS QUICKLY WITH VSCODE
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-06 11:00:00
+  room:
+  authors:
+    - name: Trivikram Kamat
+      twitter: trivikram
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/i476XyRVpmw
+  description: |-
+    Did you always want to contribute to Node.js core, but didn't know where to start? Learn how you can use VSCode launch configs to write unit tests quickly - helping improve test coverage of Node.js core and understanding the module you're writing tests for.
+
+- title: 'NODE.JS MODULE: I CHOOSE YOU!'
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-06 11:30:00
+  room:
+  authors:
+    - name: Bethany Griggs
+      twitter: BethGriggs_
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/6pHuj6Hs9Gw
+  description: |-
+    With over 600K Node.js modules available on npm, and potentially more than one available to suit your given task - you really can be “spoilt” for choice. read less I will discuss considerations you should take into account before you select a Node.js module. From security to stability, I will show you the potential impact that your choice of module has on your project.
+
+- title: 'SEEING YOUR PLACE IN A NEW WAY: UTILIZING YARN PACKAGE MANAGEMENT IN A REACT SPA MAP VIEWER'
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-06 12:00:00
+  room:
+  authors:
+    - name: Melissa Auclare
+      twitter: kiyomizumia
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/1dt3yI-wvPQ
+  description: |-
+    I discuss how Yarn has streamlined the build process for Stroly's Map Viewer technology, and how this has helped us build several features into our map framework, Illustmap. read less This will include a discussion of optimizations made to the build process and tiling for hand drawn maps which can display the position of the user in real time.
+
+- title: 'ORINOCO: THE NEW V8 GARBAGE COLLECTOR'
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-06 12:30:00
+  room:
+  authors:
+    - name: Peter Marshall
+      twitter: hooraybuffer
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Scxz6jVS4Ls
+  description: |-
+    About three years ago we started to work on a new garbage collector for V8, codename Orinoco. Orinoco is a high-performance, low-latency, mostly parallel and concurrent garbage collector. read less Instead of developing Orinoco behind a flag, we changed the old V8 garbage collection codebase on the fly and landed its features incrementally to allow developers and users benefit immediately. This talk will explain the main Orinoco features, its implementation challenges, and which classes of applications and programming patterns will benefit the most from the new garbage collection architecture.
+
+- title: EFFECTIVE DOCUMENTATION FOR OPEN SOURCE PROJECTS
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-07 09:00:00
+  room:
+  authors:
+    - name: Bryan Hughes
+      twitter: nebrius
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/MxGYZ-hr3f0
+  description: |-
+    Documentation is critical in creating a successful open source project, yet it can be hard to know where to start. How do you organize your docs? read less What sections do you need? How much detail should you add? What baseline knowledge can you assume your audience has? This talk will walk you through how and why to document a typical JavaScript module in npm for the browser or Node.js.
+
+- title: DIAGNOSTIC TOOLING - BE READY WHEN THINGS GO WRONG IN PRODUCTION
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-07 09:30:00
+  room:
+  authors:
+    - name: Michael Dawson
+      twitter: mhdawson1
+      github:
+      website:
+    - name: Mike Kaufman
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/yerVaSzrZTo
+  description: |-
+    Co-talk with Michael Dawson and Mike Kaufman: Diagnostic tooling is a key component for any successful runtime like Node.js and its importance will only increase as production deployments continue to increase rapidly. read less The Node.js community has been working hard on this front over the past years and 2018 is a year even increased focus. Come learn about the key areas identified at the first Diagnostic summit earlier this year, the current efforts that are underway, and progress so far. From initial data capture with Node-report to improved profiling there is a lot to catch up on.
+
+- title: 'COMMONS HOST: BUILDING A CDN WITH NODE.JS FOR THE REST OF THE WORLD'
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-07 10:00:00
+  room:
+  authors:
+    - name: Sebastiaan Deckers
+      twitter: sebdeckers
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/gEhiyhzbaU8
+  description: |-
+    I will present Commons Host, a static site hosting & CDN service. It is a 100% FOSS product built with new Node.js tools at every layer: core API, edge servers, CLI tooling, frontend bundling, etc. I was fortunate to contribute to the HTTP/2 implementation in Node.js as part of this effort. read less Some of the HTTP/2 specific features include:  - Coalesced Connections: Solving the performance cost of 3rd party content in the browser.  - Server Push: Using Manifests and Cache Digests to improve resource loading in the browser.  - Shared Sessions: Proxy content efficiently using interleaved HTTP/2 streams over a shared session. Replaces the legacy HTTP/1 connection pool. The story I have to share covers both global and Asia-specific infrastructure shifts, and how I am using Node.js to build for this new environment. Server hardware moving from Intel to ARM. Leapfrogging Asian cities having wide coverage for Gbps FTTH sooner than the West. Deploying Node.js services in widely diverging socio-economic environments.
+
+- title: 'NODE.JS: THE ROAD TO WORKERS'
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-07 11:00:00
+  room:
+  authors:
+    - name: Anna Henningsen
+      twitter: addaleax
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/-ssCzHoUI7M
+  description: |-
+    Over the last 2 years, Anna has been one of the most active contributors to Node.js core. Currently pursuing a Master’s degree in mathematics in Germany, she is fueled by a passion for Node and its community. Workers, and threading support in general, have been one of the most frequently requested features for Node.js over the last years. read less Finally, the finishing line is in sight and we’re pretty excited to have experimental support available! This talk will tell you everything around the API, features, use cases & alternatives, our roadmap, and the technical and social challenges that we had to overcome to make it happen!
+
+- title: ISTIO FOR NODE DEVELOPERS
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-07 11:30:00
+  room:
+  authors:
+    - name: Luke Holmquist
+      twitter: sienaluke
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/aSgxCVli1Qw
+  description: |-
+    Microservices are a well know pattern now, and a popular choice for enterprise applications, especially using Node. But microservice application development can seem daunting. read less How is one supposed to both write an application and also deal with those devOps-y concerns, such as fault tolerance, service-service communication, performance monitoring, tracing and more. Say hello to the Istio Service Mesh. Istio makes it easy to deal with these concerns. In this talk we will look at Istio from a developers perspective. How do we start using Istio without going down the devOps rabbit hole? How can we add things, like fault-tolerance, to our current applications, without changing our current code? And what exactly is a Mesh?
+
+- title: DASHBOARDING OUR WAY TO THE FUTURE
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-07 12:00:00
+  room:
+  authors:
+    - name: Emma Humphries
+      twitter: triagegirl
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/wV4D8IwW6w0
+  description: |-
+    As Mozilla's Bugmaster, Emma needs to build dashboards and host them without having to stand up her own servers or VMs. read less She's found that node and a small kit of tools for prototyping and deployment enable her to be responsive to Mozilla's engineering, release, and program management's need for data on bugs. In this talk Emma covers the problem she needed to solve and how Node and its ecosystem kept her from a development nightmare.
+
+- title: ENTERPRISES, NODE.JS AND OPEN SOURCE, THE GOOD, THE BAD AND THE UGLY.
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-07 12:30:00
+  room:
+  authors:
+    - name: Paul Savage
+      twitter:
+      github:
+      website:
+    - name: Ahmad Nassri
+      twitter:
+      github:
+      website:
+    - name: Gordon Suttie
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/0yMJ6cNrK2Q
+  description: |-
+    Paul, Gordon and Ahmad will discuss 3 different perspectives on node success, including some of the problems and the challenges 
