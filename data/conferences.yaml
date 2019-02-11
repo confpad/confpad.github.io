@@ -478,6 +478,18 @@
   description: |-
     JSConf EU is the labour-of-love conference for the JavaScript community in Europe
 
+- id: 2018-06-02-mobile-fest-2018
+  name: Mobile Fest 2018
+  url: http://mobilefest.com.ua/indexe.html
+  date:
+    from: 2018-06-02
+    to: 2018-06-02
+  location:
+    country: Ukraine
+    city: Kiev
+  description: |-
+    Mobile Development – one of the most interesting areas in IT. Mobile Fest will gather practitioners in iOS and Android development, experts in mobile architecture and engineers interested in cross-platform development. Mobile Fest is a conference, which does not simply tell about trends, but creates them.
+
 - id: 2018-06-26-smashing-conference-toronto-2018
   name: Smashing Conference Toronto 2018
   url: https://archive.smashingconf.com/toronto-2018/

@@ -1,0 +1,287 @@
+- title: Make your project great again
+  lang: ru
+  type: regular
+  level:
+  time: 2018-06-02 10:00:00
+  room:
+  authors:
+    - name: Oleksii Lyzenko
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018-make-your-project-great-agains
+  videos:
+    - https://youtu.be/uZqYPuWyCDE
+  description: |-
+    Would you like to increase both user and developer satisfaction by just tweaking your Xcode project? Let’s see how it’s possible to dramatically reduce your application start time as well as improve Xcode responsiveness with a (not so) little effort.
+
+- title: WTF with Android Background Restrictions
+  lang: en
+  type: regular
+  level:
+  time: 2018-06-02 10:00:00
+  room:
+  authors:
+    - name: Yonatan Levin
+      twitter: parahall
+      github: parahall
+      website:
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018-yonatan-levin-wtf-with-android-background-restrictions
+  videos:
+    - https://youtu.be/QqVDvCG3Kck
+  description: |-
+    With recent Android releases the wild west of endless running threads is over. No more smoking barrels of "last 5% battery". You are required to act and seriously consider how you became the excellent citizen of Android device and play side by side with a marshall law of background tasks. Or die trying. It's a talk we will explore how memory affect a background process, what solutions we have today and how new WorkManager can save our lives and galaxy :)
+
+- title: Crushing bugs with Redux architecture for iOS
+  lang: ru
+  type: regular
+  level:
+  time: 2018-06-02 11:00:00
+  room:
+  authors:
+    - name: Alexey Demedetskiy
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018-redux-ios
+  videos:
+    - https://youtu.be/xl9PGgdvmxQ
+  description: |-
+    Unidirectional architecture allowing more ways to inspect and debug an iOS application. During the talk, I will tell about our experience of using Redux architecture with Swift for iOS projects. Also, I will show the demo of outstanding debug and inspection features.
+
+- title: What Mom Never Told You About Multi-threading
+  lang: en
+  type: regular
+  level:
+  time: 2018-06-02 11:00:00
+  room:
+  authors:
+    - name: Fernando Cejas
+      twitter: fernando_cejas
+      github: android10
+      website:
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018-fernando-cejas-what-mom-never-told-you-about-multithreading
+  videos:
+    - https://youtu.be/d_MC1nkIsg8
+  description: |-
+    When we were little kids, surely there were many taboo topics our moms never mentioned. There is actually a big chance one of those is multi-threading. That is why in this talk we are going to walk together through the different alternatives we have nowadays in order to handle, manage and master multi-threading on mobile platforms. Our focus will be mainly Android but all the content and techniques exposed here can be also used within other platforms for software engineering threading problem solving. Jump in!
+
+- title: How React-Native shapes the way we think about native apps
+  lang: ru
+  type: regular
+  level:
+  time: 2018-06-02 12:00:00
+  room:
+  authors:
+    - name: Ilya Ivanov
+      twitter:
+      github: ilyaivanov
+      website:
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018-reactnative
+  videos:
+    - https://youtu.be/dz6FS0fBEgc
+  description: |-
+    How it is possible to write true native mobile applications using JavaScript? We are going to see why React-Native is fundamentally different from hybrid and native applications, while still producing a native app. Working with React-Native for more than two years, I will show not only general concepts, but how this technology works in depth.
+
+- title: 'A comparative approach to MVC, MVVM and VIPER: taking the best ideas without fighting against the platform'
+  lang: en
+  type: regular
+  level:
+  time: 2018-06-02 12:00:00
+  room:
+  authors:
+    - name: Matteo Manferdini
+      twitter:
+      github: mattoem
+      website: http://matteomanferdini.com/
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018-matteo-manferdini-a-comparative-approach-to-mvc-mvvm-and-viper-taking-the-best-ideas-without-fighting-against-the-platform
+  videos:
+    - https://youtu.be/x6uVXeHsLiU
+  description: |-
+    In the world of iOS development, it is common to hear the names of different design patterns thrown around. Each pattern is sold as a solution to the limitations of other ones, only to introduce new, various problems. Some of these get to the extreme of rejecting the foundations on which iOS apps are built. In this talk, we will explore the different ideas behind these patterns, their drawbacks, and how we can harmonize them
+
+- title: 'Error handling architecture: clean, rapid, reactive approach'
+  lang: ru
+  type: regular
+  level:
+  time: 2018-06-02 14:00:00
+  room:
+  authors:
+    - name: Artem Getman
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018-100387983
+  videos:
+    - https://youtu.be/u2dqfGnGv0s
+  description: |-
+    Architecturally correct approach to handling errors is often an issue. What are the ways to shorten the code, make it easily tested and comprehended? There are lots of approaches that we have used to and use every day, however, the progress never stops and we all continue creating new solutions. We have made an attempt to simplify the process of handling errors and make it more flexible for the project`s further growth.
+
+- title: Smooth transitions to Android - how and why to do this?
+  lang: ru
+  type: regular
+  level:
+  time: 2018-06-02 14:00:00
+  room:
+  authors:
+    - name: Artem Shevchenko
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/ArtemShevchenko4/android-transition-android-100123912
+  videos:
+    - https://youtu.be/-VGb03f8xgQ
+  description: |-
+    How to make a nice smooth transition between the two screens, how to make it with the asynchronous world of Android is all in my report. And a general overview of technologies and tools, plus a more detailed analysis of particular cases. There will be bonuses and examples on Kotlin.
+
+- title: Why is the transition from Apache Cordova to React Native inevitable?
+  lang: ru
+  type: regular
+  level:
+  time: 2018-06-02 14:00:00
+  room:
+  authors:
+    - name: Volodymyr Bondarenko
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018-apache-cordova-react-native
+  videos:
+    - https://youtu.be/EjrihzLJAXc
+  description: |-
+    Over the past 5 years, Apache Cordova has been a reliable tool for creating cross-platform business applications. It allows to reduce development costs and development time, and removes the necessity for separate specialists for iOS and Android platforms in the staff. This approach had a number of weaknesses, the list of which grew with the number of projects implemented. With the advent of React Native technology, a cross-platform alternative to Apache Cordova appeared. Our team tested React Native for six months. Thereafter, we moved all subsequent projects to React Native. This report will discuss the reasons for this decision and the difficulties of working with each of the technologies
+
+- title: UX in the mobile applications development
+  lang: ru
+  type: regular
+  level:
+  time: 2018-06-02 15:00:00
+  room:
+  authors:
+    - name: Alesya Podlesnaya
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018-ux
+  videos:
+    - https://youtu.be/o4H5Hu1wwMM
+  description: |-
+    Today user experience and UI-design has come forward in every single digital product. Development of mobile applications massively increases the demands on the interface. The market has a huge number of applications with similar features and only the ideal combination of UX and UI design can lead to success with the creation of a really great product. The presentation shows how not to lose concentration on Human-Centered Design among the process, how to develop cross-platform applications familiar to the native ones, how to follow UX and UI design principles to create the excellent user experience. We should always keep in mind that most mobile applications are popular thanks to good references and take steps to constant improvement of UX in mobile products with which we are working.
+
+- title: Flutter - what is it?
+  lang: ru
+  type: regular
+  level:
+  time: 2018-06-02 15:00:00
+  room:
+  authors:
+    - name: Alexandr Sergienko
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018-flutter
+  videos:
+    - https://youtu.be/TO7dA7bU5VI
+  description: |-
+    There are plenty of articles on the Internet about Flutter and a lot of them appeared recently. If you are still not in the known about Flutter you may spend some time and to see what this tool may give you. I would like to show you some snippets of code and describe possibilities and disadvantages of Flutter.
+
+- title: TensorFlow for Mobile Poets
+  lang: en
+  type: regular
+  level:
+  time: 2018-06-02 15:00:00
+  room:
+  authors:
+    - name: Enrique López Mañas
+      twitter: eenriquelopez
+      github: kikoso
+      website:
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018-enrique-lpez-maas-tensorflow-for-mobile-poets
+  videos:
+    - https://youtu.be/PenMdRqeH0c
+  description: |-
+    There is a lot of Hype with ML and AI lately, and TensorFlow is the framework of choice from Google. But as a Mobile Developer you might have asked yourself, how can I benefit from it? In this talk, you will learn your first steps into the fascinating ML world for mobile.During this talk I will show how to set up TensorFlow for Android, and how to perform some initial operations with it: - Classifying example - Detection example - Analyzing example I will also show a model to develop a Mobile App with a Model and integration TensorFlow (from Zero to App), showcase demos in Android, iOS and Raspberry and showing as well some Real Use Cases.
+
+- title: Let’s make your DATA sexy
+  lang: en
+  type: regular
+  level:
+  time: 2018-06-02 16:20:00
+  room:
+  authors:
+    - name: Łukasz Mróz
+      twitter: thesunshinejr
+      github: sunshinejr
+      website:
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018-ukasz-mrz-lets-make-your-data-sexy/MobileFest2018/mobile-fest-2018-ukasz-mrz-lets-make-your-data-sexy
+  videos:
+    - https://youtu.be/ir6Pg2GLFT4
+  description: |-
+    Quite often when architecting an app or implementing a feature, we don’t really think about the Data itself. Sure, we will handle few network requests or database queries but these things just contain some data, we don’t specifically think about the main character. In this talk I will try to show you why Data itself is important and a few tips and tricks on how to manage it.
+
+- title: Insert Koin
+  lang: ru
+  type: regular
+  level:
+  time: 2018-06-02 16:20:00
+  room:
+  authors:
+    - name: Kirill Rozov
+      twitter: kirill_rozov
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018-insert-koin
+  videos:
+    - https://youtu.be/HrTz5jToQkk
+  description: |-
+    Koin is the next step to becoming a project only with Kotlin code. What inside Koin? Only DSL & Kotlin magic. Let’s find out does Dependency Injection + Kotlin + Easy of Use == Koin?
+
+- title: Working with sharp tools — continuous integration and deployment as a way to reduce friction
+  lang: en
+  type: regular
+  level:
+  time: 2018-06-02 17:20:00
+  room:
+  authors:
+    - name: Håvard Hvassing
+      twitter: hhvassing
+      github: hvassing
+      website:
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018-hvard-hvassing-working-with-sharp-tools-continuous-integration-and-deployment-as-a-way-to-reduce-friction
+  videos:
+    - https://youtu.be/fx3sS3lJzOI
+  description: |-
+    I talked about continuous integration and deployment of the working tool for a sales force in 22 different countries. A talk about how we outgrew detailed specifications and rigid structures, and replaced them with transparency and a better common understanding of what we are trying to do accomplish, and the tools we are using. Most importantly, what we have learned a lot about reducing friction
+
+- title: Pain reliever
+  lang: ru
+  type: regular
+  level:
+  time: 2018-06-02 17:20:00
+  room:
+  authors:
+    - name: Oleksandr Korin
+      twitter:
+      github: trimmurrti
+      website:
+  slides:
+    - https://www.slideshare.net/MobileFest2018/mobile-fest-2018
+  videos:
+    - https://youtu.be/Ed8ZOnwHeQE
+  description: |-
+    Our code is our pain. No matter how great it is, no matter how well written it is, we feel ashamed of what we've done after one year passes by. In several years our shame transforms into the pain for the priceless time of our life we've spent senselessly. We'll discuss the pain relievers, which are provided to us by Swift and my sick imagination.
