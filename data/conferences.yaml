@@ -334,6 +334,18 @@
   description: |-
     Learn how others failed, so that you won’thave to make the same mistakes. You willalso discover techniques, strategies andtooling to get to better results, faster.
 
+- id: 2018-04-17-qa-fest-2018
+  name: QA Fest 2018
+  url: http://qafest.com/indexe.html
+  date:
+    from: 2018-04-17
+    to: 2018-04-18
+  location:
+    country: Ukraine
+    city: Kiev
+  description: |-
+    Software testing conference #1 in Ukraine
+
 - id: 2018-04-25-react-finland-2018
   name: React Finland 2018
   url: https://react-finland.fi
