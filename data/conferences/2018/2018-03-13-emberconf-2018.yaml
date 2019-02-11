@@ -1,0 +1,481 @@
+- title: LET'S TEST THAT ADDON!
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-12 13:30:00
+  room:
+  authors:
+    - name: Samanta De Barros
+      twitter: sami_dbc
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/31kVznd-zys
+  description: |-
+
+
+- title: 'PIXEL BY PIXEL: VISUAL REGRESSION TESTING IN EMBER'
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-12 14:10:00
+  room:
+  authors:
+    - name: Mike Fotinakis
+      twitter: mikefotinakis
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/jlwS7Zq1Des
+  description: |-
+
+
+- title: FAIL AT MAINTAINING YOUR FIRST OSS PROJECT IN 3 EASY STEPS!
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-14 14:50:00
+  room:
+  authors:
+    - name: Lee Baillie
+      twitter: _lbaillie
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/C5f0W1Ec4bg
+  description: |-
+
+
+- title: PAIR PROGRAMMING AS A MECHANISM FOR GROWTH
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-14 15:30:00
+  room:
+  authors:
+    - name: Dianne Eramo
+      twitter: DianneEramo
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/sMV8kJPb3Bg
+  description: |-
+
+
+- title: 'THE CHIRPOLITH: SUCCESSFULLY MIGRATING A MESSY APP TO EMBER'
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-14 16:10:00
+  room:
+  authors:
+    - name: Alex Rothenberg
+      twitter: alexrothenberg
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/szj7tLLaCZ4
+  description: |-
+
+
+- title: Opening Keynote
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-13 09:30:00
+  room:
+  authors:
+    - name: Yehuda Katz
+      twitter: wycats
+      github:
+      website:
+    - name: TOM DALE
+      twitter: tomdale
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/NhtpXs0ZtUc
+  description: |-
+    Join Tom and Yehuda for a review of Ember in 2017 and a look forward to the future.
+
+- title: 'Ambitious for All: Accessibility in Ember'
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-13 10:45:00
+  room:
+  authors:
+    - name: Melanie Sumner
+      twitter: melaniersumner
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/6ydNf7e5P00
+  description: |-
+    Ember is "the framework for building ambitious applications." But what happens when that ambition leaves some users behind? For many in the enterprise environment, accessibility is a legal requirement. For anyone building a new app elsewhere, the user data speaks for itself: nearly 10% of all users have some sort of a disability. So how can we make this easier? What already exists? Not only will we discuss how Ember supports this, we'll look at some imaging techniques being used in scientific research that may help us look at this challenge from a different angle.
+
+- title: Everything they didn’t tell you about the Ember Community
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-13 11:30:00
+  room:
+  authors:
+    - name: Jessica Jordan
+      twitter: jjordan_dev
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/h3YtViXranw
+  description: |-
+    The Ember community describes a worldwide subculture consisting of developers, contributors, bloggers, event organizers, podcasters and many others involved in activities around the framework. But which factors drive this complex community in its efforts? After a retrospective of open-source activity in the ecosystem, we’ll see which core resources and addons are particularly popular and which topics are particularly interesting to the community. Summing up these findings, we’ll finally try to answer how diversity and growth of this community can be furthered even more in the future.
+
+- title: The Next Generation of Testing
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-13 13:30:00
+  room:
+  authors:
+    - name: Tobias Bieniek
+      twitter: TobiasBieniek
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/8D-O4cSteRk
+  description: |-
+    The "Grand Testing Unification" is finally here! In this talk you learn how to use the new QUnit testing APIs and we discuss why they were changed and what steps you need to take to migrate your existing tests to the new APIs. Finally we will look at the Ember ecosystem and introduce addons that can make your tests better than ever before.
+
+- title: Say More
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-13 14:15:00
+  room:
+  authors:
+    - name: Jamie White
+      twitter: jgwhite
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/iAyRVPSOpy8
+  description: |-
+    Acceptance tests are a wonderful way to describe how our apps behave at a high level, but what if they could say more? What if they could also say that our apps are intuitive, accessible, localised, and fast? What if they could say all this without any extra code? In this talk we’ll imagine a set of hooks which allow us to build new layers of meaning into the test helpers we know and love. Then we’ll set about actually building them.
+
+- title: Who Moved My Cheese? Ember's New Filesystem
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-13 15:00:00
+  room:
+  authors:
+    - name: Matthew Beale
+      twitter: mixonic
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/M-ya4qmX4Nw
+  description: |-
+    Ember's new filesystem layout, commonly called Module Unification, has arrived. Applications and addons alike have started to adopt the new convention. Why should you be looking at Module Unification? With the new layout we're bringing code bundling, improved namespacing for components, and a better integration path for addons to the framework.
+
+- title: Mastering the Art of Forms
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-13 16:00:00
+  room:
+  authors:
+    - name: Danielle Adams
+      twitter: adamzdanielle
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/bepcUhMMc5c
+  description: |-
+    "Building forms in @emberjs is terrifying because I'm stuck with decisions I always later regret." —me in another lifetime HTML forms can represent a time before JavaScript was an integral part of application development. Creating forms isn’t always the most exciting part of development and, at times, it may seem daunting. Fear not! I’d like to talk through some pain points of building an important piece of user interface: we will discuss what to do, what not to do, and which Ember addons have come to the rescue.
+
+- title: 'How To Build A Bonfire: On Training and Hiring New Devs'
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-13 16:45:00
+  room:
+  authors:
+    - name: Taylor Jones
+      twitter: hiimtaylorjones
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/yHPjv61e4MY
+  description: |-
+    Many companies that integrate Ember into their stacks often have a hard time finding quality developers in an ever-changing job market. Because of this, we often resort to training new developers in-house on the ways of Ember and Glimmer. Yet, what is the most effective way for us to hire, teach, and train developers in this aspect? I want to offer some practical advice, stories, and lessons learned from my experience with this over the past few years.
+
+- title: Living Animation
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-13 17:30:00
+  room:
+  authors:
+    - name: Edward Faulkner
+      twitter: eaf4
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/4JofVQ3nGrw
+  description: |-
+    Most animation on the web is canned, non-interactive, and inflexible. It doesn’t dynamically adjust itself to changing conditions and user interactions. It’s expensive to create and maintain because the programmer or designer is trying to micromanage the motion. It needs to be hand-tuned for each new feature, device, or media query breakpoint. There is an alternative: we can think more like game designers. We can build robust, dynamic systems that animate gracefully, with clear separation between app logic and app motion.
+
+- title: The Future of Data in Ember
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-14 09:45:00
+  room:
+  authors:
+    - name: Dan Gebhardt
+      twitter: dgeb
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/3_vanHCDTho
+  description: |-
+    This talk will provide an overview of the latest developments in the realm of managing data in Ember applications. The focus will be the past, present, and future of Ember Data, which is becoming faster, lighter-weight, and more modular. The JSON:API specification, which provides the conventions that underpin Ember Data, is evolving through “operations” and other extensions. And new interfaces are being explored in Ember Data to allow interop with Orbit.js, which will unlock capabilities such as offline operation, store forking / merging, and more. This talk will also touch upon some popular data management solutions in the wider JavaScript ecosystem, both to show how they can be used in Ember applications and to compare and contrast them with Ember’s conventional data stack.
+
+- title: Smartphone Symphony
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-14 10:45:00
+  room:
+  authors:
+    - name: Gavin Joyce
+      twitter: gavinjoyce
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/lEMG7ZayU48
+  description: |-
+    If Beethoven was alive today, he’d probably use Ember. Using Ember, socket.io, the web audio API, and devices in the audience's pockets, we'll interactively explore the challenges of creating a real-time and audience-driven musical performance, different parts of which are played across a symphony of all phones in the audience.
+
+- title: 'Reuse, Recycle: One Team’s Journey from Projects to Products'
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-14 11:30:00
+  room:
+  authors:
+    - name: Sarah Bostwick
+      twitter: FajitaFresca
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/HJO0hmCct4Q
+  description: |-
+    When building app after app at what point do you stop mining your past projects to quickly prototype and commit to maintaining a configurable product? This is a story of building a successful digital agency in a sea of tech startups by figuring out how to transition from one-off Ember SPAs to maintaining reusable products.
+
+- title: Deep Dive on Ember Events
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-14 13:30:00
+  room:
+  authors:
+    - name: Marie Chatfield
+      twitter: mariechatfield
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/G9hXjjHFJVs
+  description: |-
+    Advance your Ember events knowledge from entry-level to expert in 30 minutes! Start with the basics of DOM events, learn the lifecycle of event listeners in Ember, then peek under the hood to understand how Ember handles clicks in your application. What are the different ways of listening for events in Ember? How do they interact? What are the performance implications of each approach? What kind of bugs can you introduce if you don't understand them? You'll be able to implement event listeners with confidence and debug with clarity once you have a complete mental model of Ember events!
+
+- title: Building a Memex in Ember
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-14 14:15:00
+  room:
+  authors:
+    - name: Andrew Louis
+      twitter: hyfen
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/OzcV-4hErBA
+  description: |-
+    In 1945, the Memex was proposed as the ultimate personal library. In addition to storing information, users could navigate, organize, link, and share data with others. Tragically, zero of these devices were ever produced, but 72 years later, I’ve build my own Memex in Ember. I’ve created dozens of importers for different services, organized the 10M+ data points into a graph schema, and built a frontend with Ember. Almost all aspects of my personal history is available through this app. I’ll go over the history of the Memex, how I used Ember to build my own, and demo what I can do with it.
+
+- title: Prying Open the Black Box
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-14 15:00:00
+  room:
+  authors:
+    - name: Godfrey Chan
+      twitter: chancancode
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/MAAouySLtqA
+  description: |-
+    When your code doesn't work the way you expect, it could be a frustrating exercise to figure out what exactly went wrong. In this session, we will walk through the process of debugging an Ember app. Along the way, we will learn about some of the tools and techniques that could help shed light on the behavior of our code. Finally, we will also take a brief tour into the Ember codebase to look for clues. Upon completing this orientation, you will be well-equipped to pry open the mysterious black box the next time your app misbehaves!
+
+- title: INTRODUCTIONS AND PREAMBLE
+  lang: en
+  type: lightning
+  level:
+  time: 2018-03-14 16:00:00
+  room:
+  authors:
+    - name: Leah Silber
+      twitter: wifelette
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+    Lightning talks are pretty great, but less so when you can tell how little prep time the speaker had. So we wanted the good parts, without the bad. Enter: MiniTalks! They're like Lightning talks, short and sweet, but our speakers have more notice so they can put more work and polish into their talks.
+
+- title: CONTRIBUTOR RALLY
+  lang: en
+  type: lightning
+  level:
+  time: 2018-03-14 16:05:00
+  room:
+  authors:
+    - name: Sean Massa
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/CcSKlsc_AhQ
+  description: |-
+    Lightning talks are pretty great, but less so when you can tell how little prep time the speaker had. So we wanted the good parts, without the bad. Enter: MiniTalks! They're like Lightning talks, short and sweet, but our speakers have more notice so they can put more work and polish into their talks.
+
+- title: TOYOTA'S SHARED COMPONENT LIBRARY
+  lang: en
+  type: lightning
+  level:
+  time: 2018-03-14 16:10:00
+  room:
+  authors:
+    - name: Tony Ward
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/4fI72aZl_N8
+  description: |-
+    Lightning talks are pretty great, but less so when you can tell how little prep time the speaker had. So we wanted the good parts, without the bad. Enter: MiniTalks! They're like Lightning talks, short and sweet, but our speakers have more notice so they can put more work and polish into their talks.
+
+- title: LIGHTING THOUGHTS ON LIGHTING DEPLOY
+  lang: en
+  type: lightning
+  level:
+  time: 2018-03-14 16:15:00
+  room:
+  authors:
+    - name: Christina Kung
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/575NwSFx9aA
+  description: |-
+    Lightning talks are pretty great, but less so when you can tell how little prep time the speaker had. So we wanted the good parts, without the bad. Enter: MiniTalks! They're like Lightning talks, short and sweet, but our speakers have more notice so they can put more work and polish into their talks.
+
+- title: EMBER-CLI ADDONS
+  lang: en
+  type: lightning
+  level:
+  time: 2018-03-14 16:20:00
+  room:
+  authors:
+    - name: Sam Selikoff
+      twitter: samselikoff
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/PVzutIELrf4
+  description: |-
+    Lightning talks are pretty great, but less so when you can tell how little prep time the speaker had. So we wanted the good parts, without the bad. Enter: MiniTalks! They're like Lightning talks, short and sweet, but our speakers have more notice so they can put more work and polish into their talks.
+
+- title: LET ME EMBER THIS FOR YOU
+  lang: en
+  type: lightning
+  level:
+  time: 2018-03-14 16:25:00
+  room:
+  authors:
+    - name: Serena Fritsch
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/wVMPigAWKl8
+  description: |-
+    Lightning talks are pretty great, but less so when you can tell how little prep time the speaker had. So we wanted the good parts, without the bad. Enter: MiniTalks! They're like Lightning talks, short and sweet, but our speakers have more notice so they can put more work and polish into their talks.
+
+- title: Creating fluid app-like experiences with Ember
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-14 16:45:00
+  room:
+  authors:
+    - name: Nick Schot
+      twitter: nickschot
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/d4Lq4DBUMOs
+  description: |-
+    Mobile apps have UI patterns and features not often found in (mobile) web applications. We will take an in-depth look at ways to enhance user interaction for responsive Ember applications without having to develop a completely separate application. Topics include application organization, templating concerns, interaction patterns, relevant addons and a display of newly built Ember addons to fill in for missing interaction features.
+
+- title: Closing Keynote
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-14 17:30:00
+  room:
+  authors:
+    - name: Saron Yitbarek
+      twitter: saronyitbarek
+      github:
+      website:
+    - name: Vaidehi Joshi
+      twitter: vaidehijoshi
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/wkfc0Mvg4QY
+  description: |-
