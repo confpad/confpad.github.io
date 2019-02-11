@@ -1,0 +1,750 @@
+- title: Advanced State Management using ngrx v5
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-07 09:30:00
+  room: Hall A
+  authors:
+    - name: GERARD SANS
+      twitter: gerardsans
+      github: gsans
+      website:
+  slides:
+  videos:
+    - https://youtu.be/J3p2eO-ziBQ
+  description: |-
+    State Management is key to build modern Web Apps
+
+- title: What I have to do at OdessaJS Conference
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-07 09:30:00
+  room: Hall B
+  authors:
+    - name: ARTEM ZAKHARCHENKO
+      twitter: blackrabbit99
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Nz8IE3tHfrc
+  description: |-
+
+
+- title: The New Media and What It Takes to Create a News Website in 2018
+  lang: ua
+  type: regular
+  level:
+  time: 2018-07-07 10:10:00
+  room: Hall A
+  authors:
+    - name: Roman Rodomansky
+      twitter: itspoma
+      github:
+      website:
+    - name: Andrew Yasinishyn
+      twitter: yasinishyn
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/to8a341K1bw
+  description: |-
+    What will you do if biggest media will ask you about new website? Seems like trivial, right? Ugh, why WordPress is not a right fit here? We'll tell you a story with problems and solutions that we raised during all phases from project first steps.
+
+- title: Copy paste detector for 150+ languages on JavaScript
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-07 10:10:00
+  room: Hall B
+  authors:
+    - name: Andrey Kucherenko
+      twitter: a_kucherenko
+      github: kucherenko
+      website:
+  slides:
+  videos:
+    - https://youtu.be/3wNEY6x5bIs
+  description: |-
+    During the talk I will describe how to solve task of copy/paste detection with javascript. I will start with task, areas of apply of the task, tools and algorithms for solving copy.paste detection task.
+
+- title: Serverless - the way microservices should be
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-07 10:50:00
+  room: Hall A
+  authors:
+    - name: Ivan Jovanovic
+      twitter: ivanjov96
+      github: ivanjov
+      website: https://ivanjov.com/
+  slides:
+  videos:
+    - https://youtu.be/aGbAUo7HC_0
+  description: |-
+    Serverless, the buzzword that we’re hearing probably every day. What’s that exactly? Serverless is the way microservices should be. It will save you money, time, and you will be able to easily build, test and deploy your applications. Serverless is here to stay, let’s learn how to use it!
+
+- title: 'Mutilation and suffering: How I decided to create a project using only Web Components without any framework'
+  lang: ua
+  type: regular
+  level:
+  time: 2018-07-07 10:50:00
+  room: Hall B
+  authors:
+    - name: Sergiy Babich
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/SFZJeO0_k8I
+  description: |-
+    One pet project. One idea. One specification. That's what lead me to create app using only native web components and no framework or library. I want to share you my practical knowledge how it is even possible to create such app in such circumstances and why it is important to even do this.
+
+- title: 'Algorithms in Front End: from V8 to VDOM'
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-07 11:35:00
+  room: Hall A
+  authors:
+    - name: Yuriy Sherstyuk
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/sFZX00-1t9E
+  description: |-
+    Significance and importance of algorithms can not be overestimated. Even harder to learn how to apply it in the modern Front End, given how many optimizations are done for us by the engines and frameworks. The purpose of this report is to help you understand how this works at a lower level, for example V8, React and not only. Also, what we can do to make more use of the algorithm work, and spend less time and resources.
+
+- title: 'Estimates: is there a silver bullet?'
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-07 11:35:00
+  room: Hall B
+  authors:
+    - name: Ksenia Redunova
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/FQzFFmGMID8
+  description: |-
+    Our work is not only about writing the perfect code. But also about the delivering the product within the planned timeframe. In my tech corner I’ll cover the topics: How to estimate the uncertainty? How to include risks? What to use: hours or story points? I’ll tell you about the different ways of estimation. Let’s discuss the good and bad cases from our experience and try to find the silver bullet. If it exists.
+
+- title: Get started with Reason and ReasonReact
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-07 12:25:00
+  room: Hall A
+  authors:
+    - name: Nik Graf
+      twitter: nikgraf
+      github: nikgraf
+      website:
+  slides:
+  videos:
+  description: |-
+    We will kick off with the basics and then quickly go into how to leverage features like variant types and pattern matching to make impossible states impossible. After you gained some knowledge about the basics the course will dig even further into ReasonReact.
+
+- title: Architecture evolution of Microsoft To-Do web app
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-07 12:25:00
+  room: Hall B
+  authors:
+    - name: Alex Migutsky
+      twitter: mr_mig_by
+      github: mr-mig
+      website:
+  slides:
+    - https://slides.com/mr-mig/to-do-web-arch
+  videos:
+    - https://youtu.be/BcyGEIhBZSE
+  description: |-
+
+
+- title: Unleash your web skills on native
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-07 13:05:00
+  room: Hall A
+  authors:
+    - name: Rowdy Rabouw
+      twitter: rowdyrabouw
+      github: rowdyrabouw
+      website:
+  slides:
+  videos:
+    - https://youtu.be/UVnlSuw1jac
+  description: |-
+    Did you know you can use your knowledge of HTML, CSS and JavaScript to build truly native apps for iOS and Android with NativeScript? I’ll explain what NativeScript is, how it compares to other frameworks and demo how easy and fun it is to get started and how to make use of native capabilities. Do you want to build your own personal assistant like Siri? I'll show you how!
+
+- title: 'Bot Building: channels, platforms, NLU'
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-07 13:05:00
+  room: Hall B
+  authors:
+    - name: Valentine Mezentsev
+      twitter: Mnilko
+      github: Mnilko
+      website:
+    - name: Gleb Dobzhanskyi
+      twitter: glebone
+      github: glebone
+      website:
+    - name: Vitalii Hurin
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/VIlbw9gvyWs
+  description: |-
+    The battle will be based on a tic-tac-toe game through the interaction of 2 bots (Amazon Alexa Skill and Actions on Google), which will be connected to the smart Amazon Echo and Google Home speakers.
+
+- title: Redux-cornell
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-07 14:45:00
+  room: Hall A
+  authors:
+    - name: Eyal Eizenberg
+      twitter: EyalEizenberg
+      github: eyaleizenberg
+      website: https://medium.com/@eyaleizenberg
+  slides:
+  videos:
+  description: |-
+    Redux is awesome and is used in countless projects. However, using Redux does mean that there is a lot of boilerplate. Enter Redux Cornell. Named after the legendary singer Chris Cornell, Redux Cornell aims to remove most of the boilerplate which comes with using Redux, yet allows you to completely customize it. The library brings the concept of 'convention over configuration' into the JS world to help reduce boiler plate. Redux Cornell now powers Wix's 2nd most visited page with over 3M unique views per month so you can say that it's 'Battle Tested'!
+
+- title: Excuse me, I have to assemble Frontend
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-07 14:45:00
+  room: Hall B
+  authors:
+    - name: Andrew Mykhaliuk
+      twitter: AndreyCtkn
+      github: AndreyUtka
+      website:
+  slides:
+  videos:
+    - https://youtu.be/lqzzn4Z3krY
+  description: |-
+    Every time when you start your project, developer thinks about how build his project. Why we need to pay attention about it? How it's going with a build tools around frontend frameworks. We'll talk about webpack growth, how we can use build with less dependencies to be more flexible to switch between technologies, and we will go to the next level how we can use build tools as a framework.
+
+- title: Houdini - css which is JavaScript
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-07 15:25:00
+  room: Hall A
+  authors:
+    - name: Nikita Dubko
+      twitter: dark_mefody
+      github: MeFoDy
+      website:
+  slides:
+    - https://mefody.github.io/talks/houdini-css/
+  videos:
+    - https://youtu.be/MPaD8N9BrFA
+  description: |-
+    CSS Houdini - is a set of specifications which will change web-development in the nearest future. With their advent a regular pagemaker will have to learn JavaScript. But then instead of awaiting conditional "super-mega-grids" realization appearance you'll be able to plug in polifill for CSS. You can do it right now! Or not?
+
+- title: OK Google. What's next?
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-07 15:25:00
+  room: Hall B
+  authors:
+    - name: Philip Shurpik
+      twitter: philipshurpik
+      github: philipshurpik
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ABYnHK8h7VQ
+  description: |-
+    In a certain moment you are 25-26 years old and work as a Senior JavaScript for already 2-3 years:) At this very moment you understand that you don't know what to do next o_O Let's talk about conscience extension, self-education and transit to a new sphere (AI/DataScience).
+
+- title: JavaScript without javascript
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-07 16:15:00
+  room: Hall A
+  authors:
+    - name: Patrick Kettner
+      twitter: patrickkettner
+      github: patrickkettner
+      website: https://patrickkettner.com
+  slides:
+  videos:
+    - https://youtu.be/QJM538gMc7M
+  description: |-
+
+
+- title: Unleash the power of the higher-order components
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-07 16:55:00
+  room: Hall A
+  authors:
+    - name: David Kopal
+      twitter: coding_lawyer
+      github: codinglawyer
+      website: https://codinglawyer.net/
+  slides:
+  videos:
+    - https://youtu.be/P-3Oxb0nA5A
+  description: |-
+    Maintainable component structure is a crucial prerequisite for a stable React application. You can achieve this by writing your code in a functional way using the higher-order components (HoCs). I want to show you how to define smart HoCs and use them to enhance your presentational components. You'll also learn how to compose several HoCs to get more complex logic. Sticking to this pattern, you'll end up with reusable components that are readable and easy to test since each component is responsible only for a single task.
+
+- title: Real-world application of computer vision and machine
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-07 16:55:00
+  room: Hall B
+  authors:
+    - name: Arkadiy Pilguk
+      twitter:
+      github: apilguk
+      website:
+  slides:
+  videos:
+    - https://youtu.be/tBkHbUbB5sg
+  description: |-
+    An Introduction to Computer Vision and Augmented Reality in modern web browsers and how to accelerate it with WebGL. We will build on this foundation and discuss how to improve results utilizing machine learning models, measure their performance and use these metrics to improve the accuracy of the solution. Finally we will explore how to apply these techniques to a practical business problem.
+
+- title: Advanced React-Native
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-07 17:45:00
+  room: Hall A
+  authors:
+    - name: Ilya Ivanov
+      twitter:
+      github: ilyaivanov
+      website:
+  slides:
+  videos:
+    - https://youtu.be/r3RXPLZ473A
+  description: |-
+    How is it possible to write native applications in JavaScript? In this talk we will meet React-Native and dive a bit into advanced concepts. How React-Native is different from classical hybrid mobile development in JavaScript. We will look how React-Native works and write great mobile applications using animations and navigations.
+
+- title: Cloud Native Observability
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-07 17:45:00
+  room: Hall B
+  authors:
+    - name: Oleg Chorny
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/0VNcynPLgfo
+  description: |-
+    Let's discuss how Observability enables you to write software that can be managed by software.
+
+- title: The ABC of Coded Style Guides
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-07 18:25:00
+  room: Hall A
+  authors:
+    - name: Henning Muszynski
+      twitter: henningmus
+      github: henningmu
+      website: http://henningmu.com/
+  slides:
+  videos:
+    - https://youtu.be/gTjTTnCIG1o
+  description: |-
+    Teams today are facing similar problems: How do we encourage the reuse of existing components? How do we raise awareness for them? How do we keep them stable while keeping maintenance efforts low? How do we ensure a coherent branding without exploiting our designers? If you are worried by these questions fear no longer. I aim to show you a way out of this self-made jungle into a brighter world of coded style guides. We will explore together how we can tear down walls between design and development and how everyone can benefit from introducing living component directories into their project.
+
+- title: Automating GitHub workflow with probot
+  lang: ua
+  type: regular
+  level:
+  time: 2018-07-07 18:25:00
+  room: Hall B
+  authors:
+    - name: Denys Dovhan
+      twitter: denysdovhan
+      github: denysdovhan
+      website: https://denysdovhan.com/
+  slides:
+    - https://denysdovhan.com/slides-automating-github-workflow/
+  videos:
+    - https://youtu.be/b6S-TTFhSI0
+  description: |-
+    Most of developers are passionated in Open Source, some of them have their own OS projects, some of them have commercial projects hosted on GitHub. Automating projects workflow can simplify daily work and make typical tasks automated.
+
+- title: WebRTC talk for OdessaJS
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-08
+  room: Hall A 09:30:00
+  authors:
+    - name: Gabriel Mičko
+      twitter: gabriel_micko
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/10g_krBzymQ
+  description: |-
+    WebRTC is a free, open project that provides browsers and mobile applications with Real-Time Communications capabilities via simple APIs. Mission behind is to enable rich, high-quality RTC applications to be developed for the browser. You are able to do this all without the need of installing any third party software or plugin. The talk is designed for those who want to get started with the technology or who are just curious about the bright features of the web.
+
+- title: WebAssembly powered Machine Learning
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-08
+  room: Hall B 09:30:00
+  authors:
+    - name: Mihail Zachepilo
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/59dozr-XC-A
+  description: |-
+    Stop talking about WebAssembly specification, let's solve a problems using it! How to WebAssembly work and how we can use it to enhance Machine Learning in browser experience.
+
+- title: How to create a VR application with React
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-08 10:20:00
+  room: Hall A
+  authors:
+    - name: Viktor Turskyi
+      twitter: koorchik
+      github: koorchik
+      website:
+  slides:
+  videos:
+  description: |-
+    I will talk about virtual reality (VR). At what state the technology now, why and how to use it. JavaScript is very popular today it is possible todo almost any time of application with it. And it seems that even VR applications can be build easily with JavaScript and React today. The technology is very yang but it will be great to every JS dev to know about new possibilities.
+
+- title: Evolution of Web Performance
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-08
+  room: Hall B
+  authors:
+    - name: Denis Artyuhovich
+      twitter:
+      github: zaqqaz
+      website: https://denis.by/
+  slides:
+  videos:
+    - https://youtu.be/gNw1g_yib4Q
+  description: |-
+    For web developers, especially for web games developers, performance is a key point. We try to make user interaction as smooth as possible to achieve better user experience. During the speech, we'll look at how the web changed, what actually happens with our application in the browser and how to deal with it.
+
+- title: Introduction to Micro Frontends
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-08 11:00:00
+  room: Hall A
+  authors:
+    - name: Ivan Jovanovic
+      twitter: ivanjov96
+      github: ivanjov
+      website: https://ivanjov.com/
+  slides:
+    - https://speakerdeck.com/ivanjov/introduction-to-micro-frontends-fluent-conf-2018
+  videos:
+    - https://youtu.be/hNqruwzdT4Q
+  description: |-
+
+
+- title: W.T.F. is GraphQL
+  lang: ua
+  type: regular
+  level:
+  time: 2018-07-08 11:00:00
+  room: Hall B
+  authors:
+    - name: Ivan Goncharov
+      twitter: E1Goncharov
+      github: IvanGoncharov
+      website: https://medium.com/@IvanGoncharov
+  slides:
+  videos:
+    - https://youtu.be/XkTPAY2gsNo
+  description: |-
+    Recently, there is a lot of hype around GraphQL and you are probably wondering if it is a good fit for your project. In my talk, I want to demystify GraphQL by explaining what problems does it solve and how it works internally. I will show how to write requests and send them to the server and how they are executed under the hood. I will also talk about problems of GraphQL and how ready it is for production
+
+- title: From monolith web app to micro-frontends – How we extended microservices architecture to frontend
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-08 11:55:00
+  room: Hall A
+  authors:
+    - name: Rustam Aliyev
+      twitter: rstml
+      github: rstml
+      website:
+    - name: Ivan Martynov
+      twitter:
+      github: j-martyn
+      website:
+  slides:
+  videos:
+    - https://youtu.be/kNMOucPMYmE
+  description: |-
+    Single-Page Application (SPA) is the main-stream modern frontend development approach. However, we quickly hit limitations of monolith SPA in the growing company with multiple product teams, different technologies and release cycles. In this talk we share how these limitations have been overcome by extending microservice architecture to React frontend using Lerna mono-repository and discuss alternative approaches such as WebComponents.
+
+- title: Chrome Dev Tools. New & Tips
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-08 11:55:00
+  room: Hall B
+  authors:
+    - name: Savitskyi Roman
+      twitter: sssrsav1
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/9rrjV5T5md4
+  description: |-
+    I'll tell you about my tricks with chrome devTools, and also show the new features that were added to the latest versions. An overview speech tips that will speed up your work
+
+- title: Creating magic with houdini
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-08 12:35:00
+  room: Hall A
+  authors:
+    - name: Patrick Kettner
+      twitter: patrickkettner
+      github: patrickkettner
+      website: https://patrickkettner.com
+  slides:
+  videos:
+    - https://youtu.be/WG14sHR3fH4
+  description: |-
+    Since the dawn of (internet) time, web developers have been at the mercy of browsers when it comes to features. But what if the black magic they use to create new HTML and CSS properties were given to you? Thats exactly what the Houdini working group is working to provide web developers today! In a futuristic, code heavy session I will show how in the not too distant future, you will be able to create your own custom browser features using low lever APIs never before available to developers.
+
+- title: 'Flow typing: your path from experiments to final implementation in an enterprise project'
+  lang: ua
+  type: regular
+  level:
+  time: 2018-07-08 12:35:00
+  room: Hall B
+  authors:
+    - name: Leonid Baida
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/aEcTnCchHFY
+  description: |-
+    Static typing remains a popular topic for discussions somewhat akin to a battle field. JS development world split up into its proponents and opponents. Don't forget that type-code writing is managed by principles and approached different from those required by vanilla JS. It's a different philosophy, so to say. Type JS is very different from non-type one. This becomes a common problem in static type learning and its efficient application. Let's clarify which like JS type code should be. And let's do it step-by-step, getting inspired by strick type programming languages. Let's find out how to apply it so that it proved useful but did not turn into our greatest disappointment. (Flow type will be taken as a basis here, but the majority of these examples will be actual for TypeScript as well).
+
+- title: How to scale an SPA to 1M views for $1?
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-08 13:15:00
+  room: Hall A
+  authors:
+    - name: Asim Hussain
+      twitter: jawache
+      github: jawache
+      website: https://codecraft.tv
+  slides:
+  videos:
+    - https://youtu.be/z2WkmCeXdOo
+  description: |-
+    There is a wrong way and a right way to deploy, scale and architect an SPA. If you do it the wrong way you DON'T get the advantages of an SPA, you might as well have built a server-side Express app. If you do it the right way, you can take advantage of optimisations that give you epic scalability, with super low latencies at a fraction of the cost. In this talk, I'll teach you the right way to host your SPA (hint: don't use node). I'll unlock the doors to the hidden free caching layer on the internet. I'll prove why serverless & SPAs complement each other so perfectly and I'll show you how easy it is to build the rest of your application using a serverless stack.
+
+- title: 'Development standards: a step-by-step guide to implement it without pain'
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-08 14:45:00
+  room: Hall A
+  authors:
+    - name: Aleksandra Shinkevich
+      twitter:
+      github: neesoglasnaja
+      website: http://ash-web.by
+  slides:
+    - https://neesoglasnaja.github.io/OdessaJS2018/
+  videos:
+    - https://youtu.be/Bf2ZUsBdCn4
+  description: |-
+    There is always a room for discussion about what to use: tabs or spaces, quotes or double quotes, and so on. There are so many personal preferences in writing code that most likely you'll end up discussing not the logic or implementation itself, but how to use braces, spaces, and semicolons. But do we really need to talk about such things every time we start the project, do code reviews or a new developer joins the team? How to make your code base consistent and clear no matter how big your team or the project are? The whole bunch of tools is here to rescue you! I'm going to talk about all those tools and how to implement them into your code base to help you to improve the development process and code quality.
+
+- title: The existential crisis in a blockchain era
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-08 14:45:00
+  room: Hall B
+  authors:
+    - name: Alex Troush
+      twitter: troush69
+      github: Troush
+      website:
+  slides:
+  videos:
+    - https://youtu.be/cJPpyFfTFXI
+  description: |-
+    My talk will address problems that have any individuals through their lifetime. Did you find your self in a place where everything changing so fast and you cannot catch up? Asking yourself what to do with your life next? Regret something in past that can totally change the life you live now? I will share a knowledge on how to sustain your mind in a new era of hype trains on the example of new hype technology – blockchain. You will understand how the blockchain works and how it changes the industry around you, but mostly this talk is targeted to share the instruments and ideas around sustaining a healthy mind during the era of changes.
+
+- title: Passing strings using (in)finite-state-machine and prepack
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-08 15:25:00
+  room: Hall A
+  authors:
+    - name: Valerii Sorokobatko
+      twitter: tuchk4
+      github: tuchk4
+      website: https://medium.com/@tuchk4
+  slides:
+  videos:
+    - https://youtu.be/0LCVzgQu4Xs
+  description: |-
+    I became interested in parsers when I started to use CSS in JS libraries. I am in love with performance and if something works slow - I always try to find the ways to improve it. One of the CSS in JS problem - parsing CSS strings in runtime. Especially if solution should support syntax validation, interpolation for dynamic CSS rules and be super fast and small. Of course we can use postCSS or similar lib to parse CSS to AST, validate it, process it and build final CSS but this approach is not the best for runtime environment (browser). Last year I spent a lot of time for research an development the way to build parser for such cases (and not only for CSS). At OdessaJS I would like to speak about: Basic Parser theory How to build parser using Finite-state machine How to develop parser with super readable code (even juniors could easily contribute it and add new syntax rules without additional knowledges) My fist successful experience using Prepack by Facebook - pre-evaluate parser and compress it to 800 bytes.
+
+- title: 'WebAssembly vs JavaScript: What is faster?'
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-08 15:25:00
+  room: Hall B
+  authors:
+    - name: Oleksandr Skachkov
+      twitter: alSkachkov
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/yhyGVx4qqLM
+  description: |-
+    As WebAssmebly is increasing its popularity and more, and more languages start to support WebAssmebly as the build target, development team start asking question when do we need to use WebAssmebly and where it is better to rely on javascript.As open source contributor to WebKit JavaScript Engine, I would like overview differences between WebAssmebly and JavaScript, that engineers should to known when choose between WebAssembly and JavaScript, and overview in which cases is WebAssembly is faster and vice verse
+
+- title: React Refactoring Patterns
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-08 16:10:00
+  room: Hall A
+  authors:
+    - name: Radoslav Stankov
+      twitter: rstankov
+      github: rstankov
+      website: http://blog.rstankov.com/
+  slides:
+  videos:
+    - https://youtu.be/bb9Qbybcr64
+  description: |-
+    Most of the work developer does is refactoring and restructuring existing code. While working with React at Product Hunt, I noticed common patterns our team use to deal with changing project requirements. If you have problems dealing with external dependences, reusability and rapidly project iterations - this is the talk for you. Often we start with one top-level redux-connected component and then splitting into several smaller HOCs. One other pattern we use at Product Hunt is to wrap external component to reduce their surface area in the application. This also helps with dealing with dependencies updates
+
+- title: RxJS in React, RxJS in Angular and why we all should be friends
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-08 16:10:00
+  room: Hall B
+  authors:
+    - name: Valentyn Barmashyn
+      twitter:
+      github: Va1
+      website:
+  slides:
+    - https://drive.google.com/file/d/1czdxULKRVMGjDauj_DudHOtYc7wWlDYI/view
+  videos:
+    - https://youtu.be/Ix9r6iFCk3w
+  description: |-
+    React and Angular stacks became so similar In 2017-18 as they've never been before. Conceptual distinctions between them are blurring out. There only remained difference in their implementation. Let's talk about the modern work with data and events, role of flows (particularly Rx), functional programming and many more from two points of view: practical and philosophical. We'll also dwell on the work with a code. Thus no-one will have any doubts about the fact that all of us are doing quite the same while a particular stack matters less and less.
+
+- title: You’re probably making an API client
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-08
+  room: Hall A 16:50:00
+  authors:
+    - name: Haroen Viaene
+      twitter: haroenv
+      github: haroenv
+      website: https://haroen.me/
+  slides:
+    - https://haroen.me/presentations/en/api-clients-odessa/keynote.pdf
+    - https://www.icloud.com/keynote/0jJnIgl4GtJS3e-y62h1c-Pyg#API_client_Odessa
+  videos:
+    - https://youtu.be/Tj1LcjzdVBM
+  description: |-
+    When you are interacting with another piece of software, be it a REST API or a third party, what you’re actually making is your own abstraction around it. Once you realise that, you can use the tricks used in real API clients for your advantage and make reusable, good code.
+
+- title: Mining crypto in browser_ GPU, WebAssembly and all the good things to try
+  lang: ru
+  type: regular
+  level:
+  time: 2018-07-08 17:30:00
+  room: Hall A
+  authors:
+    - name: Denis Radin
+      twitter: PixelsCommander
+      github: PixelsCommander
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ubvMN_IC8wc
+  description: |-
+
+- title: What happens when you don't write the code. What advises would I like to take 10 years ago
+  lang: en
+  type: regular
+  level:
+  time: 2018-07-08 18:10:00
+  room: Hall A
+  authors:
+    - name: Artem Zakharchenko
+      twitter: blackrabbit99
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/jwRSMbaArj4
+  description: |-
+    This report is about changes in industry perception with increase in ages and experience accumulation.

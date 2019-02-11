@@ -502,6 +502,18 @@
   description: |-
     Learn how others failed, so that you won’thave to make the same mistakes. You willalso discover techniques, strategies andtooling to get to better results, faster.
 
+- id: 2018-07-07-odessajs-2018
+  name: OdessaJS 2018
+  url: http://odessajs.org/2018/
+  date:
+    from: 2018-07-07
+    to: 2018-07-08
+  location:
+    country: Ukraine
+    city: Odessa
+  description: |-
+    OdessaJS conference - one of the biggest JavaScript conferences, held by the Black Sea in Ukraine.
+
 - id: 2018-07-11-chain-react-2018
   name: Chain React 2018
   url: https://infinite.red/ChainReactConf/2018
