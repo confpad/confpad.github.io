@@ -31,6 +31,9 @@ glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conferen
       // Check if talk contains all fields in correct order
       expect(Object.keys(talk)).toEqual(ROOT_KEYS);
 
+      // Check if conference filename is in lowercase
+      expect(file).toEqual(file.toLowerCase());
+
       // Check if talk lang is valid
       expect(typeof talk.lang).toBe('string');
       expect(talk.lang).toHaveLength(2);

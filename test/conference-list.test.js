@@ -29,6 +29,9 @@ glob.sync('{./data/conferences.yaml,./examples/conferences.yaml}').forEach(file 
       // Check if conference contains all fields in correct order
       expect(Object.keys(conference)).toEqual(ROOT_KEYS);
 
+      // Check if conference ID is in lowercase
+      expect(conference.id).toEqual(conference.id.toLowerCase());
+
       // Check if date entry contains all fields in correct order
       expect(Object.keys(conference.date)).toEqual(DATE_KEYS);
       conference.location && expect(Object.keys(conference.location)).toEqual(LOCATION_KEYS);
