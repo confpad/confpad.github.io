@@ -50,7 +50,7 @@ const getAuthorTwitter = username => {
 };
 
 const getAuthorGithub = username => {
-  let title = 'Github';
+  let title = 'GitHub';
   let link = `https://github.com/${username}`;
   let text = username;
 
