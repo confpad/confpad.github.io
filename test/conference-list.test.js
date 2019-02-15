@@ -25,34 +25,40 @@ glob.sync('{./data/conferences.yaml,./examples/conferences.yaml}').forEach(file 
 
   // Run tests
   conferences.forEach(conference => {
-    test(`Has correct format - ${conference.id}`, () => {
-      // Check if conference contains all fields in correct order
-      expect(Object.keys(conference)).toEqual(ROOT_KEYS);
+    describe(`Conference info - ${conference.id}`, () => {
 
-      // Check if conference ID is in lowercase
-      expect(conference.id).toEqual(conference.id.toLowerCase());
+      it('contains all fields in correct order', () => {
+        expect(Object.keys(conference)).toEqual(ROOT_KEYS);
+      });
 
-      // Check if date entry contains all fields in correct order
-      expect(Object.keys(conference.date)).toEqual(DATE_KEYS);
-      conference.location && expect(Object.keys(conference.location)).toEqual(LOCATION_KEYS);
+      it('contains lowercase ID', () => {
+        expect(conference.id).toEqual(conference.id.toLowerCase());
+      });
 
-      // Check if description doesn't contain newline
-      if (conference.description !== null) {
-        expect(conference.description).toEqual(expect.not.stringContaining('\n'));
-      }
+      it('contains date entry with all fields in correct order', () => {
+        expect(Object.keys(conference.date)).toEqual(DATE_KEYS);
+        conference.location && expect(Object.keys(conference.location)).toEqual(LOCATION_KEYS);
+      });
 
-      // Check if country is valid - reversed actual-expected order, sort of anti-pattern
-      conference.location && expect(COUNTRIES).toContain(conference.location.country);
-      conference.location && expect(typeof conference.location.country).toBe('string');
-      conference.location && expect(typeof conference.location.city).toBe('string');
+      it('contains description on one line only if any', () => {
+        expect(conference.description.includes('\n')).toEqual(false);
+      });
 
-      // Check if URL starts with http(s)
-      conference.url && expect(conference.url).toEqual(expect.stringMatching(REGEX_URL));
+      it('contains valid country and city', () => {
+        conference.location && expect(COUNTRIES).toContain(conference.location.country);
+        conference.location && expect(typeof conference.location.country).toBe('string');
+        conference.location && expect(typeof conference.location.city).toBe('string');
+      });
 
-      // Check if dates are valid date
-      [conference.date.from, conference.date.to].forEach(date => {
-        expect(conference.date.from).toBeInstanceOf(Date);
-        expect(typeof conference.date.from.getFullYear()).toBe('number');
+      it('contains URL starting with http(s) if any', () => {
+        conference.url && expect(conference.url.match(REGEX_URL)).not.toBeNull();
+      });
+
+      it('contains valid date from/to', () => {
+        [conference.date.from, conference.date.to].forEach(date => {
+          expect(date).toBeInstanceOf(Date);
+          expect(typeof date.getFullYear()).toBe('number');
+        });
       });
 
     });

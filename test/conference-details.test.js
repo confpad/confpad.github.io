@@ -26,62 +26,83 @@ glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conferen
   }
 
   // Run tests
-  test(`Has correct format - ${file}`, () => {
-    talks.forEach(talk => {
-      // Check if talk contains all fields in correct order
-      expect(Object.keys(talk)).toEqual(ROOT_KEYS);
+  talks.forEach(talk => {
+    describe(`Conference details - ${file} - "${talk.title}"`, () => {
 
-      // Check if conference filename is in lowercase
-      expect(file).toEqual(file.toLowerCase());
-
-      // Check if talk lang is valid
-      expect(typeof talk.lang).toBe('string');
-      expect(talk.lang).toHaveLength(2);
-
-      // Check if talk type is one of allowed ones - reversed actual-expected order, sort of anti-pattern
-      expect(TALK_TYPES).toContain(talk.type);
-
-      // Check if talk level is one of allowed ones - reversed actual-expected order, sort of anti-pattern
-      talk.level && expect(TALK_LEVELS).toContain(talk.level);
-
-      // Check if authors entries contain all fields in correct order
-      talk.authors && talk.authors.forEach(author => {
-        expect(Object.keys(author)).toEqual(AUTHOR_KEYS);
-
-        expect(typeof author.name).toBe('string');
-        author.twitter && expect(author.twitter).toEqual(expect.not.stringContaining('@'));
-        author.twitter && expect(author.twitter).toEqual(expect.not.stringContaining('http'));
-        author.github && expect(author.github).toEqual(expect.not.stringContaining('@'));
-        author.github && expect(author.github).toEqual(expect.not.stringContaining('http'));
-        author.website && expect(author.website).toEqual(expect.stringMatching(REGEX_URL));
+      it('has filename in lowercase', () => {
+        expect(file).toEqual(file.toLowerCase());
       });
 
-      // Check if slides URLs start with http(s)
-      talk.slides && talk.slides.map(slidesItem => {
-        expect(slidesItem).toEqual(expect.stringMatching(REGEX_URL));
+      it('contains all fields in correct order', () => {
+        expect(Object.keys(talk)).toEqual(ROOT_KEYS);
       });
 
-      // Check if video URLs start with http(s)
-      talk.videos && talk.videos.map(url => {
-        expect(url).toEqual(expect.stringMatching(REGEX_URL));
-
-        if (url.includes('youtu')) {
-          expect(url).toEqual(expect.stringMatching(REGEX_URL_YOUTUBE));
-        }
-
-        if (url.includes('vimeo')) {
-          expect(url).toEqual(expect.stringMatching(REGEX_URL_VIMEO));
-        }
+      it('contains valid lang', () => {
+        expect(typeof talk.lang).toBe('string');
+        expect(talk.lang).toHaveLength(2);
       });
 
-      // Check if description doesn't contain newline
-      if (talk.description !== null) {
-        expect(talk.description).toEqual(expect.not.stringContaining('\n'));
-      }
+      it('contains valid type', () => {
+        expect(TALK_TYPES).toContain(talk.type);
+      });
 
-      // Check if time is a valid date
-      expect(talk.time).toBeInstanceOf(Date);
-      expect(typeof talk.time.getFullYear()).toBe('number');
+      it('contains valid level if any', () => {
+        talk.level && expect(TALK_LEVELS).toContain(talk.level);
+      });
+
+      it('contains valid time', () => {
+        expect(talk.time).toBeInstanceOf(Date);
+        expect(typeof talk.time.getFullYear()).toBe('number');
+      });
+
+      it('contains all authors fields in correct order if any', () => {
+        talk.authors && talk.authors.forEach(author => {
+          expect(Object.keys(author)).toEqual(AUTHOR_KEYS);
+        });
+      });
+
+      it('has valid authors entries if any', () => {
+        talk.authors && talk.authors.forEach(author => {
+          expect(typeof author.name).toBe('string');
+          author.twitter && expect(author.twitter.includes('@')).toEqual(false);
+          author.twitter && expect(author.twitter.includes('http')).toEqual(false);
+          author.github && expect(author.github.includes('@')).toEqual(false);
+          author.github && expect(author.github.includes('http')).toEqual(false);
+          author.website && expect(author.website.match(REGEX_URL)).not.toBeNull();
+        });
+      });
+
+      it('contains slides URLs starting with http(s) if any', () => {
+        talk.slides && talk.slides.map(url => {
+          expect(url.match(REGEX_URL)).not.toBeNull();
+        });
+      });
+
+      it('contains video URLs starting with http(s) if any', () => {
+        talk.videos && talk.videos.map(url => {
+          expect(url.match(REGEX_URL)).not.toBeNull();
+        });
+      });
+
+      it(`contains YouTube video URLs in format: ${REGEX_URL_YOUTUBE}`, () => {
+        talk.videos && talk.videos.map(url => {
+          if (url.includes('youtu')) {
+            expect(url.match(REGEX_URL_YOUTUBE)).not.toBeNull();
+          }
+        });
+      });
+
+      it(`contains Vimeo video URLs in format: ${REGEX_URL_VIMEO}`, () => {
+        talk.videos && talk.videos.map(url => {
+          if (url.includes('vimeo')) {
+            expect(url.match(REGEX_URL_VIMEO)).not.toBeNull();
+          }
+        });
+      });
+
+      it('contains description on one line only if any', () => {
+        talk.description && expect(talk.description.includes('\n')).toEqual(false);
+      });
 
     });
   });
