@@ -7,8 +7,8 @@ test: image-test
 	  -v `pwd`/examples:/app/examples \
 	  confpad-test
 
-.PHONY: test-neflify
-test-neflify:
+.PHONY: test-netlify
+test-netlify:
 	npm install -g jest
 	npm install glob
 	npm install js-yaml
