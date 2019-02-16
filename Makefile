@@ -7,6 +7,13 @@ test: image-test
 	  -v `pwd`/examples:/app/examples \
 	  confpad-test
 
+.PHONY: test-neflify
+test-neflify:
+	yarn global add jest
+	yarn add glob
+	yarn add js-yaml
+	jest test
+
 .PHONY: tools-simple-list
 tools-simple-list: image-tools
 	docker run -t --rm \
