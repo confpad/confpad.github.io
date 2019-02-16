@@ -27,7 +27,7 @@ const getTitle = (id, name, isDetail) => {
 
   return html`
     <h2 class="${CLASS_LINE_MV} f4 fw6">
-      <a href="#/${id}" class="link underline-hover">${name}</a>
+      <a href="/${id}" class="link underline-hover">${name}</a>
     </h2>
   `
 };

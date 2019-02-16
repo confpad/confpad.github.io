@@ -3,7 +3,7 @@ const { createStore, applyMiddleware } = window.Redux;
 const { Provider } = window.preactRedux;
 const thunk = window.ReduxThunk.default;
 const Router = window.preactRouter;
-const createHashHistory = window.History.createHashHistory;
+const createHistory = window.History.createBrowserHistory;
 
 import reducers from '../reducers/reducers.js';
 import ConferenceDetail from '../containers/ConferenceDetail.js';
@@ -18,7 +18,7 @@ let store = createStore(
 const App = () => {
   return (
     h(Provider, { store: store },
-      h(Router, { history: createHashHistory() },
+      h(Router, { history: createHistory() },
         [
           h(ConferenceList, { path: '/' }),
           h(ConferenceDetail, { path: '/:conferenceId' }),
