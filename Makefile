@@ -9,9 +9,9 @@ test: image-test
 
 .PHONY: test-neflify
 test-neflify:
-	yarn global add jest
-	yarn add glob
-	yarn add js-yaml
+	npm install -g jest
+	npm install glob
+	npm install js-yaml
 	jest test
 
 .PHONY: tools-simple-list
