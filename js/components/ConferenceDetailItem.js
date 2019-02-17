@@ -84,11 +84,11 @@ const ConferenceDetailItem = props => html`
     ${getTitle(props.title, props.type)}
     <div class="conference-detail-item__data conference-list-item o-block-list o-block-list--tight">
       ${props.authors && props.authors.map(author => html`
-        <div class="c-pipe-list">
+        <ul class="c-pipe-list">
           ${author.name && getAuthorName(author.name)}
           ${author.twitter && getAuthorTwitter(author.twitter)}
           ${author.github && getAuthorGithub(author.github)}
-        </div>
+        </ul>
       `)}
       ${props.slides && props.slides.map(slides => getSlides(slides))}
       ${props.videos && props.videos.map(video => getVideo(video))}
