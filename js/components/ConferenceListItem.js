@@ -59,16 +59,19 @@ const getDescription = description => html`
   </div>
 `;
 
-const ConferenceListItem = props => html`
-  <li class="conference-list-item o-block-list o-block-list--tight">
-    ${getTitle(props.id, props.name, props.isDetail)}
-    <div class="o-inline-list">
-      ${props.date && getDate(props.date.from, props.date.to)}
-      ${props.location && getLocation(props.location)}
-      ${props.url && getLink(props.url)}
-    </div>
-    ${getDescription(props.description)}
-  </li>
-`;
+const ConferenceListItem = props => {
+  let elTag = props.isDetail ? 'div' : 'li';
+
+  return html`
+    <${elTag} class="conference-list-item o-block-list o-block-list--tight">
+      ${getTitle(props.id, props.name, props.isDetail)}
+      <div class="o-inline-list">
+        ${props.date && getDate(props.date.from, props.date.to)}
+        ${props.location && getLocation(props.location)}
+        ${props.url && getLink(props.url)}
+      </div>
+      ${getDescription(props.description)}
+    </${elTag}>`
+};
 
 export default ConferenceListItem;
