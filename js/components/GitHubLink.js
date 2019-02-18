@@ -10,8 +10,8 @@ const GitHubLink = props => {
   let link = `https://github.com/confpad/confpad.github.io/blob/master/data/conferences/${year}/${conferenceId}.yaml`;
 
   return html`
-    <div class="c-notice c-notice--small c-notice--success">
-      <span>This page was generated from <a href="${link}" target="_blank">this YAML</a> file. Found a typo, want to add some data? Just edit it on GitHub.</span>
+    <div class="br2 pa3 dark-green bg-washed-green">
+      <span>This page was generated from <a href="${link}" target="_blank" class="link underline dark-green">this YAML</a> file. Found a typo, want to add some data? Just edit it on GitHub.</span>
     </div>
   `;
 };

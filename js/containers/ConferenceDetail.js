@@ -52,7 +52,7 @@ class ConferenceDetail extends Component {
         `}
         
         ${conferenceDetails.data && html`
-          <ul class="o-block-list o-block-list--loose">
+          <ul class="list ma0 pa0">
             ${conferenceDetails.data.map(data => html`
               <${ConferenceDetailItem} ...${data} />
             `)}

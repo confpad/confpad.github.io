@@ -36,31 +36,30 @@
   <meta name="msapplication-config" content="/img/icon/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">
 
-  <!-- heureka.cz/ui and custom styles -->
-  <link rel="stylesheet" href="https://heureka.cz/ui/css/essentials.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600">
+  <!-- Tachyons and custom styles -->
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
   <link rel="stylesheet" href="/css/style.css">
 </head>
-<body class="scope-essentials">
+<body>
 
-<div class="o-wrapper o-wrapper--line">
+<div class="mw8 ph3 center sans-serif dark-gray">
 
-  <header class="header u-quarter-spacing">
-    <div class="header__stripe o-inline-list">
-      <a href="/" class="header__link">
-        <h1 class="header__title e-heading u-beta o-inline-list o-inline-list--tight">
+  <header class="pv3 mb3 bb b--moon-gray">
+    <div class="flex justify-between items-center">
+      <a href="/" class="link">
+        <h1 class="ma0 f3 fw6 mid-gray">
           ConfPad
         </h1>
       </a>
-      <div class="o-inline-list">
-        <a href="https://twitter.com/confpadio" target="_blank">
-          <img src="/img/twitter.svg" alt="Twitter logo" class="header__icon">
+      <div class="flex flex-row">
+        <a href="https://twitter.com/confpadio" target="_blank" class="link pa2">
+          <img src="/img/twitter.svg" alt="Twitter logo" class="h2">
         </a>
-        <a href="https://www.facebook.com/confpad.io" target="_blank">
-          <img src="/img/facebook.svg" alt="Facebook logo" class="header__icon">
+        <a href="https://www.facebook.com/confpad.io" target="_blank" class="link pa2">
+          <img src="/img/facebook.svg" alt="Facebook logo" class="h2">
         </a>
-        <a href="https://github.com/confpad/confpad.github.io" target="_blank">
-          <img src="/img/github.svg" alt="GitHub logo" class="header__icon">
+        <a href="https://github.com/confpad/confpad.github.io" target="_blank" class="link pa2">
+          <img src="/img/github.svg" alt="GitHub logo" class="h2">
         </a>
       </div>
     </div>
@@ -71,14 +70,14 @@
 
   <div class="content"></div>
 
-  <div class="c-notice c-notice--warning c-notice--medium js-no-js-warning" >
+  <div class="js-no-js-warning" >
     Enable JS to see… anything :)
   </div>
 
-  <footer class="footer">
+  <footer class="pv3 mt3 bt b--moon-gray">
     Attending a conference right now? Add it!
     All you need is a browser and GitHub account:
-    <a href="https://github.com/confpad/confpad.github.io" target="_blank" class="e-link">add a conference!</a> 🤘🏻
+    <a href="https://github.com/confpad/confpad.github.io" target="_blank" class="link underline-hover">add a conference!</a> 🤘🏻
   </footer>
 
 </div>

@@ -11,22 +11,20 @@ const ErrorMessage = props => {
   let url = `https://github.com/confpad/confpad.github.io/issues/new?title=${title}&body=${body}`;
 
   return html`
-    <div class="c-notice c-notice--error" role="alert">
-      <div class="c-notice__content">
-        <h5 class="e-heading u-epsilon">Error!</h5>
-        <div>
-          <div>
-            Something nasty happened, please report it as a
-            <a href="${url}" target="_blank" class="e-link">GitHub issue</a>.
-          </div>
-          ${message && html`
-            <div class="u-quarter-spacing">
-              <strong>Details:</strong>
-              <p>${message}</p>
-            </div>
-          `}
-        </div>
+    <div class="br2 mv3 pa3 dark-red bg-washed-red" role="alert">
+      <h3 class="ma0 f4 fw6">Error!</h3>
+      
+      <div class="mv3">
+        Something nasty happened, please report it as a
+        <a href="${url}" target="_blank" class="link underline dark-red">GitHub issue</a>.
       </div>
+      
+      ${message && html`
+        <div class="mv3">
+          <strong>Details:</strong>
+          ${message}
+        </div>
+      `}
     </div>
   `;
 };

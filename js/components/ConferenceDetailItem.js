@@ -3,6 +3,11 @@ const htm = window.htm;
 
 const html = htm.bind(h);
 
+const CLASS_LINE_MV = 'mv1';
+const CLASS_LINE_INFO_MR = 'mr2';
+const CLASS_LINE_INFO_MV = 'mv0 mv1-ns mv0-l';
+const CLASS_LINE_INFO_DISPLAY = 'db dib-l';
+
 const getTypeEmoji = type => {
   switch (type) {
     case 'regular':
@@ -21,23 +26,23 @@ const getTypeEmoji = type => {
 };
 
 const getTitle = (title, type) => html`
-  <h3 class="u-epsilon u-bold">
+  <h3 class="${CLASS_LINE_MV}">
     ${getTypeEmoji(type)}
     ${title}
   </h3>
 `;
 
 const getAuthorName = name => html`
-  <li class="c-pipe-list__item">
+  <li class="${CLASS_LINE_INFO_DISPLAY} ${CLASS_LINE_INFO_MV} ${CLASS_LINE_INFO_MR}">
     👤
     ${name}
   </li>
 `;
 
 const getAuthorLink = (title, link, text) => html`
-  <li class="c-pipe-list__item">
+  <li class="${CLASS_LINE_INFO_DISPLAY} ${CLASS_LINE_INFO_MV} ${CLASS_LINE_INFO_MR}">
     ${title}:
-    <a href="${link}" target="_blank" class="e-link">${text}</a>
+    <a href="${link}" target="_blank" class="link underline-hover">${text}</a>
   </li>
 `;
 
@@ -57,34 +62,34 @@ const getAuthorGithub = username => {
   return getAuthorLink(title, link, text);
 };
 
-const getVideo = video => html`
-  <div class="u-clip">
-    📹
-    Video:
-    <a href="${video}" target="_blank" class="e-link">${video}</a>
+const getSlides = slides => html`
+  <div class="${CLASS_LINE_MV} truncate">
+    📝
+    Slides:
+    <a href="${slides}" target="_blank" class="link underline-hover">${slides}</a>
   </div>
 `;
 
-const getSlides = slides => html`
-  <div class="u-clip">
-    📝
-    Slides:
-    <a href="${slides}" target="_blank" class="e-link">${slides}</a>
+const getVideo = video => html`
+  <div class="${CLASS_LINE_MV} truncate">
+    📹
+    Video:
+    <a href="${video}" target="_blank" class="link underline-hover">${video}</a>
   </div>
 `;
 
 const getDescription = descriptioin => html`
-  <div class="conference-detail-item__description">
+  <div class="${CLASS_LINE_MV} gray">
     ${descriptioin}
   </div>
 `;
 
 const ConferenceDetailItem = props => html`
-  <li class="conference-detail-item o-block-list o-block-list--tight">
+  <li class="mv4">
     ${getTitle(props.title, props.type)}
-    <div class="conference-detail-item__data conference-list-item o-block-list o-block-list--tight">
+    <div class="bl ml2 pl2 bw1 b--light-gray">
       ${props.authors && props.authors.map(author => html`
-        <ul class="c-pipe-list">
+        <ul class="list ma0 pa0 truncate">
           ${author.name && getAuthorName(author.name)}
           ${author.twitter && getAuthorTwitter(author.twitter)}
           ${author.github && getAuthorGithub(author.github)}

@@ -5,7 +5,7 @@ const html = htm.bind(h);
 
 const LoadingSpinner = () => {
   return html`
-    <div class="u-align-center">
+    <div class="tc mv5">
       <div>Loading data…</div>
       <div class="spinner"></div>
     </div>
