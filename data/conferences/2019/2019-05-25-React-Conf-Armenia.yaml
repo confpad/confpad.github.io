@@ -1,0 +1,11 @@
+- id: 2019-05-25-react-conf-am-2019
+  name: React Conf Armenia 2015
+  url: https://reactconf.am/
+  date:
+    from: 2019-05-25
+    to: 2019-05-25
+  location:
+    country: Armenia
+    city: Yerevan
+  description: |-
+    A full-day two-track conference all about React
