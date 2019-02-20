@@ -859,3 +859,15 @@
     city: Atlanta, GA
   description: |-
     Inspirational talks about Angular, Rxjs, NodeJS, AB Testing, Mobile, Tensorflow, and other modern cutting-edge technologies.
+
+- id: 2019-06-21-reactloop-2019
+  name: React Loop
+  url: https://reactloop.com/
+  date:
+    from: 2019-06-21
+    to: 2019-06-21
+  location:
+    country: United States
+    city: Chicago, IL
+  description: |-
+    React Loop is a single day ReactJS conference bringing together a diverse and inclusive group of React enthusiasts from all backgrounds and levels of experience. Speakers will cover topics such as React, React Native, and the related tools in the ever-growing React ecosystem.
