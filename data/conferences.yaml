@@ -859,3 +859,15 @@
     city: Atlanta, GA
   description: |-
     Inspirational talks about Angular, Rxjs, NodeJS, AB Testing, Mobile, Tensorflow, and other modern cutting-edge technologies.
+    
+- id: 2019-05-25-reactconfam-2019
+  name: React Conf Armenia 2019
+  url: https://reactconf.am
+  date:
+    from: 2019-05-25
+    to: 2019-05-25
+  location:
+    country: Armenia
+    city: Yerevan
+  description: |-
+    A full-day two-track React conf all about React
