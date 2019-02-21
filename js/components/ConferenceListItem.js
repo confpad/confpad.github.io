@@ -56,7 +56,7 @@ const getLink = url => html`
 `;
 
 const getDescription = description => html`
-  <div class="mv1 ${CLASS_LINE_MV}">
+  <div class="mv1 ${CLASS_LINE_MV} gray">
     ${description}
   </div>
 `;
