@@ -3,8 +3,6 @@
   type: regular
   level:
   time: 2019-05-25 10:00:00
-  slides: 
-  videos: 
   room:
   authors:
     - name: JS CONF ARMENIA
@@ -12,6 +10,8 @@
       facebook: reactconf.am
       github: JSConfArmenia
       website: https://reactconf.am
+  slides: 
+  videos: 
   description: |-
     Join the first regional React conf, speak on React and related technologies, while having fun and vice versa!
     
@@ -20,14 +20,16 @@
   type: regular
   level:
   time: 2019-05-25 10:00:00
-  slides: 
-  videos: 
   room:
-   authors:
+  authors:
     - name: JS CONF ARMENIA
       twitter: ReactConfAM
       facebook: reactconf.am
       github: JSConfArmenia
       website: https://reactconf.am
+  slides: 
+  videos: 
   description: |-
     Join the biggest regional tech conf, attend amazing talks, workshops, network and have fun!
+    
+  
