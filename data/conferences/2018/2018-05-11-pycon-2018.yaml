@@ -1031,7 +1031,6 @@
   description: |-
     A function is a small chunk of code that does useful work. Your job when writing a function is to do it in a way that it easy to read. Based on over 15 years of code reviews here are some tips and guidelines I give again and again.
 
-
 - title: How to Write Deployment-friendly Applications
   lang: en
   type: regular
@@ -1170,7 +1169,6 @@
     - https://youtu.be/klaGx9Q_SOA
   description: |-
     The end of life for Python 2 is 2020. Python 3 is the future and you'll need to consider both your upgrade plan and what steps you'll take after upgrading to start leveraging Python 3 features. During this talk we'll briefly discuss how to start the process of upgrading your code to Python 3. We'll then dive into some of the most useful Python 3 features that you'll be able to start embracing once you drop Python 2 support. A number of the most powerful Python 3 features are syntactic features that are Python 3 only. You won't get any experience using these features until you fully upgrade. These features are an incentive to drop Python 2 support in existing 2 and 3 compatible code. You can consider this talk as a teaser of Python 3 features that you may have never used. After this talk I hope you'll be inspired to fully upgrade your code to Python 3.
-
 
 - title: 'Python 3: ten years later'
   lang: en

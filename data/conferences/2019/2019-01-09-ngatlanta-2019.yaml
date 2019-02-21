@@ -320,13 +320,3 @@
     - https://youtu.be/Z4NQeBm6itY
   description: |-
     In this talk, I will give a quick introduction to online experimentation and A/B testing. To keep the talk self-contained, I will first give an overview of stats fundamentals needed to understand A/B testing. I will go over some of the pitfalls that are common when running experiments. You will also see how we built a scalable A/B testing framework at Netflix.
-
-
-
-
-
-
-
-
-
-
