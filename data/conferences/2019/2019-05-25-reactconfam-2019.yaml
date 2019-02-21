@@ -3,11 +3,13 @@
   type: regular
   level:
   time: 
+  slides: 
+  videos: 
   room:
   authors:
     - name: JS CONF ARMENIA
       twitter: ReactConfAM
-      acebook: reactconf.am
+      facebook: reactconf.am
       github: JSConfArmenia
       website: https://reactconf.am
   description: |-
@@ -16,6 +18,11 @@
 - title: REQUEST AN INVITE
   lang: en
   type: regular
+  level:
+  time: 
+  slides: 
+  videos: 
+  room:
    authors:
     - name: JS CONF ARMENIA
       twitter: ReactConfAM
