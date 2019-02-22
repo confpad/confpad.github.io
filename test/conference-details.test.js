@@ -3,6 +3,8 @@ const fs = require('fs');
 const glob = require('glob');
 const jsyaml = require('js-yaml');
 
+const LANGS = require('./iso-639-1');
+
 const ROOT_KEYS = ['title', 'lang', 'type', 'level', 'time', 'room', 'authors', 'slides', 'videos', 'description'];
 const AUTHOR_KEYS = ['name', 'twitter', 'github', 'website'];
 const TALK_TYPES = ['regular', 'lightning', 'workshop'];
@@ -40,6 +42,7 @@ glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conferen
       it('contains valid lang', () => {
         expect(typeof talk.lang).toBe('string');
         expect(talk.lang).toHaveLength(2);
+        expect(LANGS).toContain(talk.lang);
       });
 
       it('contains valid type', () => {

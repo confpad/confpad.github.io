@@ -32,7 +32,7 @@
   description: |-
 
 - title: The New Media and What It Takes to Create a News Website in 2018
-  lang: ua
+  lang: uk
   type: regular
   level:
   time: 2018-07-07 10:10:00
@@ -87,7 +87,7 @@
     Serverless, the buzzword that we’re hearing probably every day. What’s that exactly? Serverless is the way microservices should be. It will save you money, time, and you will be able to easily build, test and deploy your applications. Serverless is here to stay, let’s learn how to use it!
 
 - title: 'Mutilation and suffering: How I decided to create a project using only Web Components without any framework'
-  lang: ua
+  lang: uk
   type: regular
   level:
   time: 2018-07-07 10:50:00
@@ -382,7 +382,7 @@
     Teams today are facing similar problems: How do we encourage the reuse of existing components? How do we raise awareness for them? How do we keep them stable while keeping maintenance efforts low? How do we ensure a coherent branding without exploiting our designers? If you are worried by these questions fear no longer. I aim to show you a way out of this self-made jungle into a brighter world of coded style guides. We will explore together how we can tear down walls between design and development and how everyone can benefit from introducing living component directories into their project.
 
 - title: Automating GitHub workflow with probot
-  lang: ua
+  lang: uk
   type: regular
   level:
   time: 2018-07-07 18:25:00
@@ -484,7 +484,7 @@
   description: |-
 
 - title: W.T.F. is GraphQL
-  lang: ua
+  lang: uk
   type: regular
   level:
   time: 2018-07-08 11:00:00
@@ -556,7 +556,7 @@
     Since the dawn of (internet) time, web developers have been at the mercy of browsers when it comes to features. But what if the black magic they use to create new HTML and CSS properties were given to you? Thats exactly what the Houdini working group is working to provide web developers today! In a futuristic, code heavy session I will show how in the not too distant future, you will be able to create your own custom browser features using low lever APIs never before available to developers.
 
 - title: 'Flow typing: your path from experiments to final implementation in an enterprise project'
-  lang: ua
+  lang: uk
   type: regular
   level:
   time: 2018-07-08 12:35:00
