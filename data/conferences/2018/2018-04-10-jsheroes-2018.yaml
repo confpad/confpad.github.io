@@ -354,7 +354,6 @@
   description: |-
     You’ve chosen your frameworks and libraries. You’ve learned how to write code which satisfies the buzzword and performance gods. Now you need to serve it to a global audience, and make things easy to preview, to test, to sign-off, and to evolve.This talk looks at some case studies of projects making common mistakes, and some which benefit from a better approach.We’ll explore tools and techniques which ease the path to production. Things anyone can do to boost confidence in every release. And ways to optimise our hosting for performance, hassle free localisation and genuine A/B testing.
 
-
 - title: Virtual reality for every developer!
   lang: en
   type: regular

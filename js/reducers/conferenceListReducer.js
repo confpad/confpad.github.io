@@ -10,6 +10,8 @@ const INITIAL_STATE = {
   error: null,
 };
 
+const TODAY = new Date();
+
 const sortByDateFrom = (a, b) => {
   if (a.date.from < b.date.from) {
     return 1;
@@ -18,6 +20,8 @@ const sortByDateFrom = (a, b) => {
   }
   return 0;
 };
+
+const olderThanToday = date => date.date.from < TODAY;
 
 const reducer = (state = INITIAL_STATE, action) => {
   switch (action.type) {
@@ -31,7 +35,7 @@ const reducer = (state = INITIAL_STATE, action) => {
       return {
         ...state,
         isFetching: false,
-        data: action.payload.sort(sortByDateFrom),
+        data: action.payload.sort(sortByDateFrom).filter(olderThanToday),
         error: null,
       };
     case ACTION_CONFERENCE_LIST_ERROR:
