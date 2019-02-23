@@ -5,7 +5,8 @@ const jsyaml = require('js-yaml');
 
 const COUNTRIES = require('./countries');
 
-const ROOT_KEYS = ['id', 'name', 'url', 'date', 'location', 'description'];
+const ROOT_KEYS = ['id', 'name', 'url', 'status', 'date', 'location', 'description'];
+const STATUS_VALUES = ['complete', 'incomplete'];
 const DATE_KEYS = ['from', 'to'];
 const LOCATION_KEYS = ['country', 'city'];
 const REGEX_URL = /^http[s]?:\/\//;
@@ -33,6 +34,10 @@ glob.sync('{./data/conferences.yaml,./examples/conferences.yaml}').forEach(file 
 
       it('contains lowercase ID', () => {
         expect(conference.id).toEqual(conference.id.toLowerCase());
+      });
+
+      it('contains valid status', () => {
+        expect(STATUS_VALUES).toContain(conference.status);
       });
 
       it('contains date entry with all fields in correct order', () => {

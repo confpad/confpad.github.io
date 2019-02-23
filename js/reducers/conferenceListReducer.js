@@ -21,7 +21,9 @@ const sortByDateFrom = (a, b) => {
   return 0;
 };
 
-const olderThanToday = date => date.date.from < TODAY;
+const isOlderThanToday = conf => conf.date.from < TODAY;
+
+const isComplete = conf => conf.status === 'complete';
 
 const reducer = (state = INITIAL_STATE, action) => {
   switch (action.type) {
@@ -35,7 +37,10 @@ const reducer = (state = INITIAL_STATE, action) => {
       return {
         ...state,
         isFetching: false,
-        data: action.payload.sort(sortByDateFrom).filter(olderThanToday),
+        data: action.payload
+          .sort(sortByDateFrom)
+          .filter(isOlderThanToday)
+          .filter(isComplete),
         error: null,
       };
     case ACTION_CONFERENCE_LIST_ERROR:

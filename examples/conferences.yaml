@@ -1,6 +1,7 @@
 - id: 2018-01-01-awesome-conference # It must match yaml file in conferences directory
   name: Awesome Conference
   url: https://www.awesome-conf.com/
+  status: complete # [complete, incomplete] - might be marked as complete after videos are added
   date:
     from: 2018-01-01
     to: 2018-01-05
