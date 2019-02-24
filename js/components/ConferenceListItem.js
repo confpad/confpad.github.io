@@ -17,7 +17,7 @@ const getTitle = (id, name, isDetail) => {
           </li>
           <li class="dib mr2">
             <h2 class="ma0 f4 fw6">
-              ${name}
+              <span itemProp="name">${name}</span>
             </h2>
           </li>
         </ul>
@@ -36,11 +36,13 @@ const getTitle = (id, name, isDetail) => {
 
 const getDate = (from, to) => {
   let fromDate = from && from.toISOString().split('T')[0];
+  let toDate = to && to.toISOString().split('T')[0];
 
   return html`
     <div class="${CLASS_LINE_INFO_DISPLAY} ${CLASS_LINE_MV} ${CLASS_LINE_INFO_MR}">
       📅
       <span itemprop="startDate" content="${fromDate}">${fromDate}</span>
+      <span itemprop="endDate" content="${toDate}"></span>
     </div>
   `;
 };
