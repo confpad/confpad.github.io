@@ -1,17 +1,17 @@
-- title: How to XYZ # Title value is the only mandatory one, other values are optional
-  lang: en # ISO 639-1 language code in lowercase
-  type: regular # [regular, lightning, workshop]
+- title: How to XYZ # Mandatory
+  lang: en # Mandatory, ISO 639-1 language code in lowercase
+  type: regular # Mandatory, [regular, lightning, workshop]
   level: beginner # [beginner, intermediate, advanced]
-  time: 2018-09-03 09:30:00 # or just 2018-09-03 is ok
+  time: 2018-09-03 09:30:00 # Mandatory, 2018-09-03 or 2018-09-03 09:30:00
   room: # Room number or room name
   authors:
     - name: John Doe
       twitter: johndoe
       github: johndoe
-      website: https://www.johndoe.io/
+      website: https://www.johndoe.io/ # Must include http:// or https://
   slides: # Array of slides
     - https://www.slideshare.net/lemiorhan/ethics-in-software-development
   videos: # Array of videos
-    - https://youtu.be/Vhh_GeBPOhs
+    - https://youtu.be/Vhh_GeBPOhs # Format: https://youtu.be/XYZ, https://vimeo.com/123 or an arbitrary URL for other services
   description: |- # One line only
     This talk will explain how XYZ can…
