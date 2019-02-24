@@ -21,12 +21,3 @@
 * Run `make test`
 * Tests verify all config files have all required properties. Have a look at examples directory.
 * Dependencies: Docker
-
-## TODO
-
-* Inline videos
-* Add microdata
-* Show date and location for individual talks
-* Add filters for dates and locations to conference detail
-* Add CI
-* Make it PWA
