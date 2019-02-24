@@ -1,9 +1,5 @@
 .PHONY: build-netlify
 build-netlify: test-netlify tools-generate-sitemap-netlify
-	npm install -g jest
-	npm install glob
-	npm install js-yaml
-	jest test
 
 .PHONY: test
 test: build-test-image
