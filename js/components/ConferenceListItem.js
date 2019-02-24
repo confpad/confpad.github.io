@@ -49,7 +49,7 @@ const getLocation = location => html`
 const getLink = url => html`
   <div class="${CLASS_LINE_INFO_DISPLAY} ${CLASS_LINE_MV} ${CLASS_LINE_INFO_MR}">
     🔗
-    <a href="${url}" target="_blank">
+    <a href="${url}" target="_blank" rel="noopener">
       ${url}
     </a>
   </div>

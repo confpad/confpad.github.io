@@ -42,7 +42,7 @@ const getAuthorName = name => html`
 const getAuthorLink = (title, link, text) => html`
   <li class="${CLASS_LINE_INFO_DISPLAY} ${CLASS_LINE_INFO_MV} ${CLASS_LINE_INFO_MR}">
     ${title}:
-    <a href="${link}" target="_blank" class="link underline-hover">${text}</a>
+    <a href="${link}" target="_blank" rel="noopener" class="link underline-hover">${text}</a>
   </li>
 `;
 
@@ -66,7 +66,7 @@ const getSlides = slides => html`
   <div class="${CLASS_LINE_MV} truncate">
     📝
     Slides:
-    <a href="${slides}" target="_blank" class="link underline-hover">${slides}</a>
+    <a href="${slides}" target="_blank" rel="noopener" class="link underline-hover">${slides}</a>
   </div>
 `;
 
@@ -74,7 +74,7 @@ const getVideo = video => html`
   <div class="${CLASS_LINE_MV} truncate">
     📹
     Video:
-    <a href="${video}" target="_blank" class="link underline-hover">${video}</a>
+    <a href="${video}" target="_blank" rel="noopener" class="link underline-hover">${video}</a>
   </div>
 `;
 

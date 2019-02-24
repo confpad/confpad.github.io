@@ -16,7 +16,7 @@ const ErrorMessage = props => {
       
       <div class="mv3">
         Something nasty happened, please report it as a
-        <a href="${url}" target="_blank" class="link underline dark-red">GitHub issue</a>.
+        <a href="${url}" target="_blank" rel="noopener" class="link underline dark-red">GitHub issue</a>.
       </div>
       
       ${message && html`

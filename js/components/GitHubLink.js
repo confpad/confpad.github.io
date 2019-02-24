@@ -11,7 +11,7 @@ const GitHubLink = props => {
 
   return html`
     <div class="br2 pa3 dark-green bg-washed-green">
-      <span>This page was generated from <a href="${link}" target="_blank" class="link underline dark-green">this YAML</a> file. Found a typo, want to add some data? Just edit it on GitHub.</span>
+      <span>This page was generated from <a href="${link}" target="_blank" rel="noopener" class="link underline dark-green">this YAML</a> file. Found a typo, want to add some data? Just edit it on GitHub.</span>
     </div>
   `;
 };
