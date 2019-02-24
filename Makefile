@@ -1,5 +1,12 @@
+.PHONY: build-netlify
+build-netlify: test-netlify tools-generate-sitemap-netlify
+	npm install -g jest
+	npm install glob
+	npm install js-yaml
+	jest test
+
 .PHONY: test
-test: image-test
+test: build-test-image
 	docker run -t --rm \
 	  -v `pwd`/jest.config.js:/app/jest.config.js \
 	  -v `pwd`/test:/app/test \
@@ -15,17 +22,31 @@ test-netlify:
 	jest test
 
 .PHONY: tools-simple-list
-tools-simple-list: image-tools
+tools-simple-list: build-tools-image
 	docker run -t --rm \
 	  -v `pwd`/tools:/app/tools \
 	  -v `pwd`/data:/app/data \
 	  confpad-tools \
 	  node ./tools/simple-list.js $$FILE
 
-.PHONY: image-test
-image-test:
+.PHONY: tools-generate-sitemap
+tools-generate-sitemap: build-tools-image
+	> sitemap.txt
+	docker run -t --rm \
+	  -v `pwd`/tools:/app/tools \
+	  -v `pwd`/data:/app/data \
+	  -v `pwd`/sitemap.txt:/app/sitemap.txt \
+	  confpad-tools \
+	  node ./tools/generate-sitemap.js
+
+.PHONY: tools-generate-sitemap-netlify
+tools-generate-sitemap-netlify:
+	node ./tools/generate-sitemap.js
+
+.PHONY: build-test-image
+build-test-image:
 	docker build -f Dockerfile.test -t confpad-test .
 
-.PHONY: image-tools
-image-tools:
+.PHONY: build-tools-image
+build-tools-image:
 	docker build -f Dockerfile.tools -t confpad-tools .
