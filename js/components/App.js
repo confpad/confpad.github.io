@@ -6,8 +6,9 @@ const Router = window.preactRouter;
 const createHistory = window.History.createBrowserHistory;
 
 import reducers from '../reducers/reducers.js';
-import ConferenceDetail from '../containers/ConferenceDetail.js';
 import ConferenceList from '../containers/ConferenceList.js';
+import ConferenceDetail from '../containers/ConferenceDetail.js';
+import ConferenceTalk from '../containers/ConferenceTalk.js';
 import ErrorMessage from '../components/ErrorMessage.js';
 
 let store = createStore(
@@ -22,6 +23,7 @@ const App = () => {
         [
           h(ConferenceList, { path: '/' }),
           h(ConferenceDetail, { path: '/:conferenceId' }),
+          h(ConferenceTalk, { path: '/:conferenceId/:talkId' }),
           h(ErrorMessage, { default: true }),
         ],
       )

@@ -37,7 +37,9 @@ class ConferenceList extends Component {
         ${conferenceList.data && html`
           <ul class="list ma0 pa0">
             ${conferenceList.data.map(data => html`
-              <${ConferenceListItem} ...${data} />
+              <div class="mv4">
+                <${ConferenceListItem} ...${data} showTitle=${true} />
+              </div>
             `)}
           </ul>
         `}

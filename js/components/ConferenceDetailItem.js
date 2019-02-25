@@ -25,10 +25,12 @@ const getTypeEmoji = type => {
   }
 };
 
-const getTitle = (title, type) => html`
-  <h3 class="${CLASS_LINE_MV}">
+const getTitle = (title, type, conferenceId, talkId, isTalk) => html`
+  <h3 class="${CLASS_LINE_MV} f4 fw6 ${isTalk && 'dn'}">
     ${getTypeEmoji(type)}
-    <span itemprop="name">${title}</span>
+    <a href="/${conferenceId}/${talkId}" class="link underline-hover">
+      <span itemprop="name">${title}</span>
+    </a>
   </h3>
 `;
 
@@ -92,23 +94,26 @@ const getDescription = descriptioin => html`
   </div>
 `;
 
-const ConferenceDetailItem = props => html`
-  <li class="mv4" itemscope itemtype="http://schema.org/Article">
-    ${getTitle(props.title, props.type)}
-    <div class="bl ml2 pl2 bw1 b--light-gray">
-      ${getTime(props.time)}
-      ${props.authors && props.authors.map(author => html`
-        <ul class="list ma0 pa0 truncate" itemprop="author" itemscope itemtype="http://schema.org/Person">
-          ${author.name && getAuthorName(author.name)}
-          ${author.twitter && getAuthorTwitter(author.twitter)}
-          ${author.github && getAuthorGithub(author.github)}
-        </ul>
-      `)}
-      ${props.slides && props.slides.map(slides => getSlides(slides))}
-      ${props.videos && props.videos.map(video => getVideo(video))}
-      ${props.description && getDescription(props.description)}
-    </div>
-  </li>
-`;
+const ConferenceDetailItem = props => {
+  let elTag = props.isTalk ? 'div' : 'li';
+
+  return html`
+    <${elTag} class="mv4" itemscope itemtype="http://schema.org/Article">
+      ${getTitle(props.title, props.type, props.conferenceId, props.id, props.isTalk)}
+      <div class="bl ml2 pl2 bw1 b--light-gray">
+        ${getTime(props.time)}
+        ${props.authors && props.authors.map(author => html`
+          <ul class="list ma0 pa0 truncate" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            ${author.name && getAuthorName(author.name)}
+            ${author.twitter && getAuthorTwitter(author.twitter)}
+            ${author.github && getAuthorGithub(author.github)}
+          </ul>
+        `)}
+        ${props.slides && props.slides.map(slides => getSlides(slides))}
+        ${props.videos && props.videos.map(video => getVideo(video))}
+        ${props.description && getDescription(props.description)}
+      </div>
+    </${elTag}>`
+};
 
 export default ConferenceDetailItem;

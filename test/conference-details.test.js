@@ -4,14 +4,13 @@ const glob = require('glob');
 const jsyaml = require('js-yaml');
 
 const LANGS = require('./iso-639-1');
+const { REGEX_URL_YOUTUBE, REGEX_URL_VIMEO } = require('../js/utils/utils-node');
 
 const ROOT_KEYS = ['title', 'lang', 'type', 'level', 'time', 'room', 'authors', 'slides', 'videos', 'description'];
 const AUTHOR_KEYS = ['name', 'twitter', 'github', 'website'];
 const TALK_TYPES = ['regular', 'lightning', 'workshop'];
 const TALK_LEVELS = ['beginner', 'intermediate', 'advanced'];
 const REGEX_URL = /^http[s]?:\/\//;
-const REGEX_URL_YOUTUBE = /^https:\/\/youtu\.be\/[a-zA-Z0-9_-]{11}$/;
-const REGEX_URL_VIMEO = /^https:\/\/vimeo\.com\/[0-9]{9}$/;
 
 glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conference.yaml}').forEach(file => {
   let talks;

@@ -8,6 +8,7 @@ test: build-test-image
 	  -v `pwd`/test:/app/test \
 	  -v `pwd`/data:/app/data \
 	  -v `pwd`/examples:/app/examples \
+	  -v `pwd`/js/utils:/app/js/utils\
 	  confpad-test
 
 .PHONY: test-netlify

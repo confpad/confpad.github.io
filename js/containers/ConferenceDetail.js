@@ -5,6 +5,7 @@ const htm = window.htm;
 
 import { fetchDetail } from '../actions/conferenceDetailActions.js';
 import { fetchList } from '../actions/conferenceListActions.js';
+import Navigation from '../components/Navigation.js';
 import ConferenceListItem from '../components/ConferenceListItem.js';
 import ConferenceDetailItem from "../components/ConferenceDetailItem.js";
 import GitHubLink from "../components/GitHubLink.js";
@@ -31,14 +32,15 @@ class ConferenceDetail extends Component {
     }
 
     return html`
-      <main>
+      <main class="mt4">
         ${conferenceList.isFetching && html`
           <${LoadingSpinner} />
         `}
         
         ${conferenceInfo && html`
             <div>
-              <${ConferenceListItem} ...${conferenceInfo} isDetail="true"} />
+              <${Navigation} conferenceData=${conferenceInfo} />
+              <${ConferenceListItem} ...${conferenceInfo} />
               <${GitHubLink} conferenceId=${conferenceId} />
             </div>
          `}
@@ -54,7 +56,7 @@ class ConferenceDetail extends Component {
         ${conferenceDetails.data && html`
           <ul class="list ma0 pa0">
             ${conferenceDetails.data.map(data => html`
-              <${ConferenceDetailItem} ...${data} />
+              <${ConferenceDetailItem} ...${data} conferenceId=${props.conferenceId} />
             `)}
           </ul>
         `}
