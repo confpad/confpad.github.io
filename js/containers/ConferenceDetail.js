@@ -25,10 +25,10 @@ class ConferenceDetail extends Component {
 
   render(props) {
     let { conferenceId, conferenceDetails, conferenceList } = props;
-    let conferenceInfo = conferenceList.data.find(item => item.id === props.conferenceId);
+    let conferenceData = conferenceList.data.find(item => item.id === props.conferenceId);
 
-    if (conferenceInfo) {
-      document.title = `ConfPad | ${conferenceInfo.name}`;
+    if (conferenceData) {
+      document.title = `ConfPad | ${conferenceData.name}`;
     }
 
     return html`
@@ -37,15 +37,15 @@ class ConferenceDetail extends Component {
           <${LoadingSpinner} />
         `}
         
-        ${conferenceInfo && html`
+        ${conferenceData && html`
             <div>
-              <${Navigation} conferenceData=${conferenceInfo} />
-              <${ConferenceListItem} ...${conferenceInfo} />
+              <${Navigation} conferenceData=${conferenceData} />
+              <${ConferenceListItem} ...${conferenceData} />
               <${GitHubLink} conferenceId=${conferenceId} />
             </div>
          `}
         
-        ${conferenceList.error && !conferenceInfo && html`
+        ${conferenceList.error && !conferenceData && html`
           <${ErrorMessage} message="${conferenceList.error}">
         `}
         
