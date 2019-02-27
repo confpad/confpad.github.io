@@ -6,5 +6,6 @@ RUN yarn global add jest
 
 RUN yarn add glob
 RUN yarn add js-yaml
+RUN yarn add slugify
 
 CMD ["jest", "/app/test"]

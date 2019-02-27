@@ -1,4 +1,4 @@
-const slugify = window.slugify;
+import { slugifyTitle } from '../utils/utils.js';
 
 import {
   ACTION_CONFERENCE_DETAIL_IS_FETCHING,
@@ -9,12 +9,7 @@ import {
 
 const addSlugifiedId = data => data.map(
   (talk, index) => {
-    let slug = slugify(talk.title, { lower: true })
-      .replace(/[^a-z0-9]/g, '-')
-      .replace(/-+/g, '-')
-      .replace(/-/g, ' ')
-      .trim()
-      .replace(/ /g, '-');
+    let slug = slugifyTitle(talk.title);
 
     return {
       ...talk,

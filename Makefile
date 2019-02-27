@@ -16,6 +16,7 @@ test-netlify:
 	npm install -g jest
 	npm install glob
 	npm install js-yaml
+	npm install slugify
 	jest test
 
 .PHONY: tools-simple-list
@@ -32,6 +33,7 @@ tools-generate-sitemap: build-tools-image
 	docker run -t --rm \
 	  -v `pwd`/tools:/app/tools \
 	  -v `pwd`/data:/app/data \
+	  -v `pwd`/js/utils:/app/js/utils\
 	  -v `pwd`/sitemap.txt:/app/sitemap.txt \
 	  confpad-tools \
 	  node ./tools/generate-sitemap.js
