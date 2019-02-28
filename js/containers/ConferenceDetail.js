@@ -44,7 +44,7 @@ class ConferenceDetail extends Component {
         ${conferenceData && html`
             <div>
               <${Navigation} conferenceData=${conferenceData} />
-              <${ConferenceListItem} ...${conferenceData} />
+              <${ConferenceListItem} ...${conferenceData} isDetail=${true}/>
               <${GitHubLink} conferenceId=${conferenceId} />
             </div>
          `}

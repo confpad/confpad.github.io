@@ -3,7 +3,7 @@ const htm = window.htm;
 
 const html = htm.bind(h);
 
-import { getConferenceTalk } from '../utils/links.js';
+import { getConferenceTalkLink } from '../utils/links.js';
 
 const DESCRIPTION_LIMIT = 360;
 
@@ -98,10 +98,9 @@ const getDescription = (description, link, isTalk) => {
 
   return html`
     <div class="${CLASS_LINE_MV} gray" itemprop="articleBody">
-      ${isTalk ? description : descriptionShort}
-      ${showDetailLink && '…'}
+      ${isTalk ? description : descriptionShort}${showDetailLink && '…'}
       ${showDetailLink && html`
-        <a href="${link}" class="link underline-hover">Show all!</a>
+        <a href="${link}" class="link underline-hover">Show more</a>
       `}
     </div>
   `;
@@ -109,7 +108,7 @@ const getDescription = (description, link, isTalk) => {
 
 const ConferenceDetailItem = props => {
   let elTag = props.isTalk ? 'div' : 'li';
-  let link = getConferenceTalk(props.conferenceId, props.id);
+  let link = getConferenceTalkLink(props.conferenceId, props.id);
 
   return html`
     <${elTag} class="mv4" itemscope itemtype="http://schema.org/Article">

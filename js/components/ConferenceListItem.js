@@ -3,14 +3,18 @@ const htm = window.htm;
 
 const html = htm.bind(h);
 
+import { getConferenceDetailLink } from '../utils/links.js';
+
+const DESCRIPTION_LIMIT = 240;
+
 const CLASS_LINE_MV = 'mv1';
 const CLASS_LINE_INFO_MR = 'mr2';
 const CLASS_LINE_INFO_DISPLAY = 'db dib-l';
 
-const getTitle = (conferenceId, conferenceName, showTitle) => {
+const getTitle = (conferenceName, link, showTitle) => {
   return html`
     <h2 class="mv1 f4 fw6 ${!showTitle && 'dn'}">
-      <a href="/${conferenceId}" class="link underline-hover">
+      <a href="${link}" class="link underline-hover">
         <span itemprop="name">${conferenceName}</span>
       </a>
     </h2>
@@ -53,22 +57,32 @@ const getLink = url => html`
   </div>
 `;
 
-const getDescription = description => html`
-  <div class="mv1 ${CLASS_LINE_MV} gray" itemprop="description">
-    ${description}
-  </div>
-`;
+const getDescription = (description, link, isDetail) => {
+  let descriptionShort = description.substr(0, DESCRIPTION_LIMIT);
+  let showDetailLink = !isDetail && (descriptionShort.length < description.length);
+
+  return html`
+    <div class="mv1 ${CLASS_LINE_MV} gray" itemprop="description">
+      ${isDetail ? description : descriptionShort}${showDetailLink && '…'}
+      ${showDetailLink && html`
+        <a href="${link}" class="link underline-hover">Show more</a>
+      `}
+    </div>
+  `;
+};
 
 const ConferenceListItem = props => {
+  let link = getConferenceDetailLink(props.id);
+
   return html`
     <div itemscope itemtype="http://schema.org/Event">
-      ${getTitle(props.id, props.name, props.showTitle)}
+      ${getTitle(props.name, link, props.showTitle)}
       <div class="truncate">
         ${props.date && getDate(props.date.from, props.date.to)}
         ${props.location && getLocation(props.location)}
         ${props.url && getLink(props.url)}
       </div>
-      ${getDescription(props.description)}
+      ${getDescription(props.description, link, props.isDetail)}
     </div>`
 };
 
