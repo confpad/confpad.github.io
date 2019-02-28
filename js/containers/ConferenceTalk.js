@@ -11,6 +11,7 @@ import ConferenceDetailItem from "../components/ConferenceDetailItem.js";
 import GitHubLink from "../components/GitHubLink.js";
 import LoadingSpinner from "../components/LoadingSpinner.js";
 import ErrorMessage from "../components/ErrorMessage.js";
+import { updateMetaUrls, updateMetaTitles, updateMetaDescriptions } from "../utils/head.js";
 
 const html = htm.bind(h);
 
@@ -28,7 +29,9 @@ class ConferenceDetail extends Component {
     let talkData = conferenceDetails.data.find(item => item.id === talkId);
 
     if (conferenceData && talkData) {
-      document.title = `ConfPad | ${conferenceData.name} | ${talkData.title}`;
+      updateMetaUrls(`https://confpad.io/${conferenceData.id}/${talkData.id}`);
+      updateMetaTitles(`${talkData.title} | ${conferenceData.name} | ConfPad`);
+      updateMetaDescriptions(talkData.description);
     }
 
     return html`
