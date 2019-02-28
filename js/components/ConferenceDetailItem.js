@@ -3,6 +3,10 @@ const htm = window.htm;
 
 const html = htm.bind(h);
 
+import { getConferenceTalk } from '../utils/links.js';
+
+const DESCRIPTION_LIMIT = 360;
+
 const CLASS_LINE_MV = 'mv1';
 const CLASS_LINE_INFO_MR = 'mr2';
 const CLASS_LINE_INFO_MV = 'mv0 mv1-ns mv0-l';
@@ -25,10 +29,10 @@ const getTypeEmoji = type => {
   }
 };
 
-const getTitle = (title, type, conferenceId, talkId, isTalk) => html`
+const getTitle = (title, type, link, isTalk) => html`
   <h3 class="${CLASS_LINE_MV} f4 fw6 ${isTalk && 'dn'}">
     ${getTypeEmoji(type)}
-    <a href="/${conferenceId}/${talkId}" class="link underline-hover">
+    <a href="${link}" class="link underline-hover">
       <span itemprop="name">${title}</span>
     </a>
   </h3>
@@ -88,18 +92,28 @@ const getVideo = video => html`
   </div>
 `;
 
-const getDescription = descriptioin => html`
-  <div class="${CLASS_LINE_MV} gray" itemprop="articleBody">
-    ${descriptioin}
-  </div>
-`;
+const getDescription = (description, link, isTalk) => {
+  let descriptionShort = description.substr(0, DESCRIPTION_LIMIT);
+  let showDetailLink = !isTalk && (descriptionShort.length < description.length);
+
+  return html`
+    <div class="${CLASS_LINE_MV} gray" itemprop="articleBody">
+      ${isTalk ? description : descriptionShort}
+      ${showDetailLink && '…'}
+      ${showDetailLink && html`
+        <a href="${link}" class="link underline-hover">Show all!</a>
+      `}
+    </div>
+  `;
+}
 
 const ConferenceDetailItem = props => {
   let elTag = props.isTalk ? 'div' : 'li';
+  let link = getConferenceTalk(props.conferenceId, props.id);
 
   return html`
     <${elTag} class="mv4" itemscope itemtype="http://schema.org/Article">
-      ${getTitle(props.title, props.type, props.conferenceId, props.id, props.isTalk)}
+      ${getTitle(props.title, props.type, link, props.isTalk)}
       <div class="bl ml2 pl2 bw1 b--light-gray">
         ${getTime(props.time)}
         ${props.authors && props.authors.map(author => html`
@@ -111,7 +125,7 @@ const ConferenceDetailItem = props => {
         `)}
         ${props.slides && props.slides.map(slides => getSlides(slides))}
         ${props.videos && props.videos.map(video => getVideo(video))}
-        ${props.description && getDescription(props.description)}
+        ${props.description && getDescription(props.description, link, props.isTalk)}
       </div>
     </${elTag}>`
 };
