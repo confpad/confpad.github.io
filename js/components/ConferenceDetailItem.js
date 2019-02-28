@@ -76,6 +76,14 @@ const getAuthorGithub = username => {
   return getAuthorLink(title, link, text);
 };
 
+const getAuthorWebsite = url => {
+  let title = 'Web';
+  let link = url;
+  let text = url;
+
+  return getAuthorLink(title, link, text);
+};
+
 const getSlides = slides => html`
   <div class="${CLASS_LINE_MV} truncate">
     📝
@@ -120,6 +128,7 @@ const ConferenceDetailItem = props => {
             ${author.name && getAuthorName(author.name)}
             ${author.twitter && getAuthorTwitter(author.twitter)}
             ${author.github && getAuthorGithub(author.github)}
+            ${author.website && getAuthorWebsite(author.website)}
           </ul>
         `)}
         ${props.slides && props.slides.map(slides => getSlides(slides))}
