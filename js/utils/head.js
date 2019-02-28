@@ -15,6 +15,11 @@ const META_DESCRIPTIONS = [
   'head meta[property="twitter:description"]',
 ];
 
+const META_IMAGES = [
+  'head meta[property="og:image"]',
+  'head meta[property="twitter:image"]',
+];
+
 const updateMeta = (metaQueries, text) => {
   metaQueries.forEach(metaQuery => {
     let el = document.querySelector(metaQuery);
@@ -31,6 +36,10 @@ export const updateMetaTitles = (title, documentTitle) => {
   updateMeta(META_TITLES, title);
 };
 
-export const updateMetaDescriptions = title => {
-  updateMeta(META_DESCRIPTIONS, title.substr(0, 300));
+export const updateMetaDescriptions = description => {
+  updateMeta(META_DESCRIPTIONS, description.substr(0, 300));
+};
+
+export const updateMetaImages = url => {
+  updateMeta(META_IMAGES, url);
 };

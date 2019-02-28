@@ -8,7 +8,7 @@ import { saveScrollPositionYList } from '../actions/scrollPositionActions.js';
 import ConferenceListItem from '../components/ConferenceListItem.js';
 import LoadingSpinner from "../components/LoadingSpinner.js";
 import ErrorMessage from "../components/ErrorMessage.js";
-import { updateMetaUrls, updateMetaTitles, updateMetaDescriptions } from "../utils/head.js";
+import { updateMetaUrls, updateMetaTitles, updateMetaDescriptions, updateMetaImages } from "../utils/head.js";
 
 const html = htm.bind(h);
 
@@ -22,6 +22,7 @@ class ConferenceList extends Component {
     updateMetaUrls('https://confpad.io/');
     updateMetaTitles('⚡️ ConfPad', 'ConfPad');
     updateMetaDescriptions('🌎 Community-curated list of tech conference talks, videos, slides and the like from all around the world');
+    updateMetaImages('https://confpad.io/img/logo.png');
   }
 
   componentWillUnmount() {

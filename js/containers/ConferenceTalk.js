@@ -3,7 +3,7 @@ const { bindActionCreators } = window.Redux;
 const { connect } = window.preactRedux;
 const htm = window.htm;
 
-import { REGEX_URL_YOUTUBE, REGEX_URL_VIMEO } from '../utils/utils.js';
+import { REGEX_URL_YOUTUBE, REGEX_URL_VIMEO, getVideoImage } from '../utils/utils.js';
 import { fetchDetail } from '../actions/conferenceDetailActions.js';
 import { fetchList } from '../actions/conferenceListActions.js';
 import Navigation from '../components/Navigation.js';
@@ -11,7 +11,7 @@ import ConferenceDetailItem from "../components/ConferenceDetailItem.js";
 import GitHubLink from "../components/GitHubLink.js";
 import LoadingSpinner from "../components/LoadingSpinner.js";
 import ErrorMessage from "../components/ErrorMessage.js";
-import { updateMetaUrls, updateMetaTitles, updateMetaDescriptions } from "../utils/head.js";
+import { updateMetaUrls, updateMetaTitles, updateMetaDescriptions, updateMetaImages } from "../utils/head.js";
 
 const html = htm.bind(h);
 
@@ -32,6 +32,7 @@ class ConferenceDetail extends Component {
       updateMetaUrls(`https://confpad.io/${conferenceData.id}/${talkData.id}`);
       updateMetaTitles(`${talkData.title} | ${conferenceData.name} | ConfPad`);
       updateMetaDescriptions(talkData.description);
+      updateMetaImages(talkData && talkData.videos && getVideoImage(talkData.videos[0]) || 'https://confpad.io/img/logo.png');
     }
 
     return html`

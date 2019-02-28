@@ -11,7 +11,7 @@ import ConferenceDetailItem from "../components/ConferenceDetailItem.js";
 import GitHubLink from "../components/GitHubLink.js";
 import LoadingSpinner from "../components/LoadingSpinner.js";
 import ErrorMessage from "../components/ErrorMessage.js";
-import { updateMetaUrls, updateMetaTitles, updateMetaDescriptions } from "../utils/head.js";
+import { updateMetaUrls, updateMetaTitles, updateMetaDescriptions, updateMetaImages } from "../utils/head.js";
 
 const html = htm.bind(h);
 
@@ -32,6 +32,7 @@ class ConferenceDetail extends Component {
       updateMetaUrls(`https://confpad.io/${conferenceData.id}`);
       updateMetaTitles(`${conferenceData.name} | ConfPad`);
       updateMetaDescriptions(conferenceData.description);
+      updateMetaImages('https://confpad.io/img/logo.png');
     }
 
     return html`
