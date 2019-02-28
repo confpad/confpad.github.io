@@ -1,0 +1,12 @@
+.navlist {}
+
+  .navlist__item > * {
+    display: inline-block;
+  }
+
+  .navlist__item + .navlist__item:before {
+    content: "|";
+    padding: 0 0.5em;
+    font-size: 1.25rem;
+    color: #a0a0a0;
+  }

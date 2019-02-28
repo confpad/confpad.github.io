@@ -41,9 +41,9 @@ const Navigation = ({conferenceData, talkData}) => {
 
   return html`
     <nav class="${CLASS_LINE_MV}">
-      <ul class="list ma0 pa0">
+      <ul class="list ma0 pa0 navlist">
         ${items.map(item => html`
-          <li class="dib mr2">
+          <li class="dib navlist__item">
             ${item}
           </li>
         `)}
