@@ -12,7 +12,7 @@ import { updateMetaUrls, updateMetaTitles, updateMetaDescriptions, updateMetaIma
 
 const html = htm.bind(h);
 
-class ConferenceList extends Component {
+class ConferenceListView extends Component {
 
   componentDidMount() {
     this.props.fetchList();
@@ -68,4 +68,4 @@ const mapDispatchToProps = dispatch => {
   return bindActionCreators({ fetchList, saveScrollPositionYList }, dispatch);
 };
 
-export default connect(mapStateToProps, mapDispatchToProps)(ConferenceList);
+export default connect(mapStateToProps, mapDispatchToProps)(ConferenceListView);

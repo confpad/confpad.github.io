@@ -15,7 +15,7 @@ import { updateMetaUrls, updateMetaTitles, updateMetaDescriptions, updateMetaIma
 
 const html = htm.bind(h);
 
-class ConferenceDetail extends Component {
+class ConferenceDetailView extends Component {
 
   componentDidMount() {
     this.props.fetchList();
@@ -85,4 +85,4 @@ const mapDispatchToProps = dispatch => {
   return bindActionCreators({ fetchList, fetchDetail }, dispatch);
 };
 
-export default connect(mapStateToProps, mapDispatchToProps)(ConferenceDetail);
+export default connect(mapStateToProps, mapDispatchToProps)(ConferenceDetailView);
