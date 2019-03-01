@@ -32,7 +32,7 @@ const getTypeEmoji = type => {
 const getTitle = (title, type, link, isTalk) => html`
   <h3 class="${CLASS_LINE_MV} f4 fw6 ${isTalk && 'dn'}">
     ${getTypeEmoji(type)}
-    <a href="${link}" class="link underline-hover">
+    <a href="${link}" class="link underline-hover" itemprop="url">
       <span itemprop="name">${title}</span>
     </a>
   </h3>
@@ -100,16 +100,13 @@ const getVideo = video => html`
   </div>
 `;
 
-const getDescription = (description, link, isTalk) => {
+const getDescription = (description, isTalk) => {
   let descriptionShort = description.substr(0, DESCRIPTION_LIMIT);
-  let showDetailLink = !isTalk && (descriptionShort.length < description.length);
+  let useShort = !isTalk && descriptionShort.length < description.length;
 
   return html`
     <div class="${CLASS_LINE_MV} gray" itemprop="articleBody">
-      ${isTalk ? description : descriptionShort}${showDetailLink && '…'}
-      ${showDetailLink && html`
-        <a href="${link}" class="link underline-hover">Show more</a>
-      `}
+      ${useShort ? `${descriptionShort}…` : description}
     </div>
   `;
 }
@@ -133,7 +130,7 @@ const ConferenceDetailItem = props => {
         `)}
         ${props.slides && props.slides.map(slides => getSlides(slides))}
         ${props.videos && props.videos.map(video => getVideo(video))}
-        ${props.description && getDescription(props.description, link, props.isTalk)}
+        ${props.description && getDescription(props.description, props.isTalk)}
       </div>
     </${elTag}>`
 };

@@ -14,7 +14,7 @@ const CLASS_LINE_INFO_DISPLAY = 'db dib-l';
 const getTitle = (conferenceName, link, showTitle) => {
   return html`
     <h2 class="mv1 f4 fw6 ${!showTitle && 'dn'}">
-      <a href="${link}" class="link underline-hover">
+      <a href="${link}" class="link underline-hover" itemprop="url">
         <span itemprop="name">${conferenceName}</span>
       </a>
     </h2>
@@ -57,16 +57,13 @@ const getLink = url => html`
   </div>
 `;
 
-const getDescription = (description, link, isDetail) => {
+const getDescription = (description, isDetail) => {
   let descriptionShort = description.substr(0, DESCRIPTION_LIMIT);
-  let showDetailLink = !isDetail && (descriptionShort.length < description.length);
+  let useShort = !isDetail && descriptionShort.length < description.length;
 
   return html`
     <div class="mv1 ${CLASS_LINE_MV} gray" itemprop="description">
-      ${isDetail ? description : descriptionShort}${showDetailLink && '…'}
-      ${showDetailLink && html`
-        <a href="${link}" class="link underline-hover">Show more</a>
-      `}
+      ${useShort ? `${descriptionShort}…` : description}
     </div>
   `;
 };
@@ -82,7 +79,7 @@ const ConferenceListItem = props => {
         ${props.location && getLocation(props.location)}
         ${props.url && getLink(props.url)}
       </div>
-      ${getDescription(props.description, link, props.isDetail)}
+      ${getDescription(props.description, props.isDetail)}
     </div>`
 };
 
