@@ -6,7 +6,7 @@ const htm = window.htm;
 import { fetchDetail } from '../actions/conferenceDetailActions.js';
 import { fetchList } from '../actions/conferenceListActions.js';
 import Navigation from '../components/Navigation.js';
-import ConferenceListItem from '../components/ConferenceListItem.js';
+import ConferenceInfo from '../components/ConferenceInfo.js';
 import ConferenceDetailItem from "../components/ConferenceDetailItem.js";
 import GitHubLink from "../components/GitHubLink.js";
 import LoadingSpinner from "../components/LoadingSpinner.js";
@@ -44,7 +44,7 @@ class ConferenceDetailView extends Component {
         ${conferenceData && html`
             <div>
               <${Navigation} conferenceData=${conferenceData} />
-              <${ConferenceListItem} ...${conferenceData} isDetail=${true}/>
+              <${ConferenceInfo} ...${conferenceData} isDetail=${true}/>
               <${GitHubLink} conferenceId=${conferenceId} />
             </div>
          `}

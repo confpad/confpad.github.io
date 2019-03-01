@@ -68,7 +68,7 @@ const getDescription = (description, isDetail) => {
   `;
 };
 
-const ConferenceListItem = props => {
+const ConferenceInfo = props => {
   let link = getConferenceDetailLink(props.id);
 
   return html`
@@ -83,4 +83,4 @@ const ConferenceListItem = props => {
     </div>`
 };
 
-export default ConferenceListItem;
+export default ConferenceInfo;

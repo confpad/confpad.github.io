@@ -5,7 +5,7 @@ const htm = window.htm;
 
 import { fetchList } from '../actions/conferenceListActions.js';
 import { saveScrollPositionYList } from '../actions/scrollPositionActions.js';
-import ConferenceListItem from '../components/ConferenceListItem.js';
+import ConferenceInfo from '../components/ConferenceInfo.js';
 import LoadingSpinner from "../components/LoadingSpinner.js";
 import ErrorMessage from "../components/ErrorMessage.js";
 import { updateMetaUrls, updateMetaTitles, updateMetaDescriptions, updateMetaImages } from "../utils/head.js";
@@ -42,7 +42,7 @@ class ConferenceListView extends Component {
           <ul class="list ma0 pa0">
             ${conferenceList.data.map(data => html`
               <div class="mv4">
-                <${ConferenceListItem} ...${data} showTitle=${true} />
+                <${ConferenceInfo} ...${data} showTitle=${true} />
               </div>
             `)}
           </ul>
