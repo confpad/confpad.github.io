@@ -7,7 +7,7 @@ export const ACTION_CONFERENCE_DETAIL_ERROR = 'ACTION_CONFERENCE_DETAIL_ERROR';
 
 export function fetchDetail(conferenceId) {
   return (dispatch, getState) => {
-    if (getState().conferenceDetails.cache[conferenceId]) {
+    if (getState().conferenceDetail.cache[conferenceId]) {
       dispatch({ type: ACTION_CONFERENCE_DETAIL_LOAD_FROM_CACHE, payload: conferenceId });
       return;
     }

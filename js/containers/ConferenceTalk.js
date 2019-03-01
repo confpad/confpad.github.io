@@ -24,9 +24,9 @@ class ConferenceDetail extends Component {
     window.scrollTo(0, 0);
   }
 
-  render({ conferenceId, talkId, conferenceDetails, conferenceList }) {
+  render({ conferenceId, talkId, conferenceDetail, conferenceList }) {
     let conferenceData = conferenceList.data.find(item => item.id === conferenceId);
-    let talkData = conferenceDetails.data.find(item => item.id === talkId);
+    let talkData = conferenceDetail.data.find(item => item.id === talkId);
 
     if (conferenceData && talkData) {
       updateMetaUrls(`https://confpad.io/${conferenceData.id}/${talkData.id}`);
@@ -47,7 +47,7 @@ class ConferenceDetail extends Component {
           <${ErrorMessage} message="${conferenceList.error}">
         `}
         
-        ${conferenceDetails.isFetching && html`
+        ${conferenceDetail.isFetching && html`
           <${LoadingSpinner} />
         `}
         
@@ -79,12 +79,12 @@ class ConferenceDetail extends Component {
           }
         })}
         
-        ${conferenceDetails.data && html`
+        ${conferenceDetail.data && html`
           <${ConferenceDetailItem} ...${talkData} conferenceId=${conferenceId} isTalk=${true} />
         `}
         
-        ${conferenceDetails.error && html`
-          <${ErrorMessage} message="${conferenceDetails.error}" />
+        ${conferenceDetail.error && html`
+          <${ErrorMessage} message="${conferenceDetail.error}" />
         `}
         
         <${GitHubLink} conferenceId=${conferenceId} />
@@ -97,7 +97,7 @@ class ConferenceDetail extends Component {
 const mapStateToProps = state => {
   return {
     conferenceList: state.conferenceList,
-    conferenceDetails: state.conferenceDetails,
+    conferenceDetail: state.conferenceDetail,
   }
 };
 

@@ -25,7 +25,7 @@ class ConferenceDetail extends Component {
   }
 
   render(props) {
-    let { conferenceId, conferenceDetails, conferenceList } = props;
+    let { conferenceId, conferenceDetail, conferenceList } = props;
     let conferenceData = conferenceList.data.find(item => item.id === props.conferenceId);
 
     if (conferenceData) {
@@ -53,20 +53,20 @@ class ConferenceDetail extends Component {
           <${ErrorMessage} message="${conferenceList.error}">
         `}
         
-        ${conferenceDetails.isFetching && html`
+        ${conferenceDetail.isFetching && html`
           <${LoadingSpinner} />
         `}
         
-        ${conferenceDetails.data && html`
+        ${conferenceDetail.data && html`
           <ul class="list ma0 pa0">
-            ${conferenceDetails.data.map(data => html`
+            ${conferenceDetail.data.map(data => html`
               <${ConferenceDetailItem} ...${data} conferenceId=${props.conferenceId} />
             `)}
           </ul>
         `}
         
-        ${conferenceDetails.error && html`
-          <${ErrorMessage} message="${conferenceDetails.error}" />
+        ${conferenceDetail.error && html`
+          <${ErrorMessage} message="${conferenceDetail.error}" />
         `}
       </main>
     `;
@@ -77,7 +77,7 @@ class ConferenceDetail extends Component {
 const mapStateToProps = state => {
   return {
     conferenceList: state.conferenceList,
-    conferenceDetails: state.conferenceDetails,
+    conferenceDetail: state.conferenceDetail,
   }
 };
 
