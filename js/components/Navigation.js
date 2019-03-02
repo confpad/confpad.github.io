@@ -16,7 +16,7 @@ const Navigation = ({conferenceData, talkData}) => {
   // Conference
   if (conferenceData && !talkData) {
     items[items.length] = html`
-      <h2 className="ma0 f4 fw6">
+      <h2 class="ma0 f4 fw6">
         ${conferenceData.name}
       </h2>
     `;
@@ -33,7 +33,7 @@ const Navigation = ({conferenceData, talkData}) => {
   // Talk
   if (talkData) {
     items[items.length] = html`
-      <h2 className="ma0 f4 fw6">
+      <h2 class="ma0 f4 fw6">
         ${talkData.title}
       </h2>
     `;

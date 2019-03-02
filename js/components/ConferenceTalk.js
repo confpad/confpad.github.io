@@ -109,7 +109,7 @@ const getDescription = (description, isTalk) => {
       ${useShort ? `${descriptionShort}…` : description}
     </div>
   `;
-}
+};
 
 const ConferenceTalk = props => {
   let elTag = props.isTalk ? 'div' : 'li';
