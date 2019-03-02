@@ -7,7 +7,7 @@ import { REGEX_URL_YOUTUBE, REGEX_URL_VIMEO, getVideoImage } from '../utils/util
 import { fetchDetail } from '../actions/conferenceDetailActions.js';
 import { fetchList } from '../actions/conferenceListActions.js';
 import Navigation from '../components/Navigation.js';
-import ConferenceDetailItem from "../components/ConferenceDetailItem.js";
+import ConferenceTalk from "../components/ConferenceTalk.js";
 import GitHubLink from "../components/GitHubLink.js";
 import LoadingSpinner from "../components/LoadingSpinner.js";
 import ErrorMessage from "../components/ErrorMessage.js";
@@ -80,7 +80,7 @@ class ConferenceTalkView extends Component {
         })}
         
         ${conferenceDetail.data && html`
-          <${ConferenceDetailItem} ...${talkData} conferenceId=${conferenceId} isTalk=${true} />
+          <${ConferenceTalk} ...${talkData} conferenceId=${conferenceId} isTalk=${true} />
         `}
         
         ${conferenceDetail.error && html`

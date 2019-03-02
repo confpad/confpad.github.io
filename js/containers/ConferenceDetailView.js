@@ -7,7 +7,7 @@ import { fetchDetail } from '../actions/conferenceDetailActions.js';
 import { fetchList } from '../actions/conferenceListActions.js';
 import Navigation from '../components/Navigation.js';
 import ConferenceInfo from '../components/ConferenceInfo.js';
-import ConferenceDetailItem from "../components/ConferenceDetailItem.js";
+import ConferenceTalk from "../components/ConferenceTalk.js";
 import GitHubLink from "../components/GitHubLink.js";
 import LoadingSpinner from "../components/LoadingSpinner.js";
 import ErrorMessage from "../components/ErrorMessage.js";
@@ -60,7 +60,7 @@ class ConferenceDetailView extends Component {
         ${conferenceDetail.data && html`
           <ul class="list ma0 pa0">
             ${conferenceDetail.data.map(data => html`
-              <${ConferenceDetailItem} ...${data} conferenceId=${props.conferenceId} />
+              <${ConferenceTalk} ...${data} conferenceId=${props.conferenceId} />
             `)}
           </ul>
         `}

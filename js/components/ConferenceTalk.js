@@ -111,7 +111,7 @@ const getDescription = (description, isTalk) => {
   `;
 }
 
-const ConferenceDetailItem = props => {
+const ConferenceTalk = props => {
   let elTag = props.isTalk ? 'div' : 'li';
   let link = getConferenceTalkLink(props.conferenceId, props.id);
 
@@ -135,4 +135,4 @@ const ConferenceDetailItem = props => {
     </${elTag}>`
 };
 
-export default ConferenceDetailItem;
+export default ConferenceTalk;
