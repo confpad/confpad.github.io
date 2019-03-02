@@ -44,13 +44,13 @@ class ConferenceDetailView extends Component {
         ${conferenceData && html`
             <div>
               <${Navigation} conferenceData=${conferenceData} />
-              <${ConferenceInfo} ...${conferenceData} isDetail=${true}/>
+              <${ConferenceInfo} ...${conferenceData} isDetail=${true} />
               <${GitHubLink} conferenceId=${conferenceId} />
             </div>
          `}
         
         ${conferenceList.error && !conferenceData && html`
-          <${ErrorMessage} message="${conferenceList.error}">
+          <${ErrorMessage} message=${conferenceList.error} >
         `}
         
         ${conferenceDetail.isFetching && html`

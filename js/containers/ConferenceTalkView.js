@@ -46,7 +46,7 @@ class ConferenceTalkView extends Component {
         <${Navigation} conferenceData=${conferenceData} talkData=${talkData} />
         
         ${conferenceList.error && !conferenceData && html`
-          <${ErrorMessage} message="${conferenceList.error}" >
+          <${ErrorMessage} message=${conferenceList.error} >
         `}
         
         ${conferenceDetail.isFetching && html`
