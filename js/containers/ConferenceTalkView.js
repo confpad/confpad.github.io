@@ -1,9 +1,11 @@
+import ConferenceTalkVideo from "../components/ConferenceTalkVideo.js";
+
 const { Component, h } = window.preact;
 const { bindActionCreators } = window.Redux;
 const { connect } = window.preactRedux;
 const htm = window.htm;
 
-import { REGEX_URL_YOUTUBE, REGEX_URL_VIMEO, getVideoImage } from '../utils/utils.js';
+import { getVideoImage } from '../utils/utils.js';
 import { fetchDetail } from '../actions/conferenceDetailActions.js';
 import { fetchList } from '../actions/conferenceListActions.js';
 import Navigation from '../components/Navigation.js';
@@ -44,39 +46,15 @@ class ConferenceTalkView extends Component {
         <${Navigation} conferenceData=${conferenceData} talkData=${talkData} />
         
         ${conferenceList.error && !conferenceData && html`
-          <${ErrorMessage} message="${conferenceList.error}">
+          <${ErrorMessage} message="${conferenceList.error}" >
         `}
         
         ${conferenceDetail.isFetching && html`
           <${LoadingSpinner} />
         `}
         
-        ${talkData && talkData.videos && talkData.videos.map(video => {
-          let match;
-          
-          // YouTube
-          match = video.match(REGEX_URL_YOUTUBE);
-          if (match) {
-            let videoId = match[1];
-
-            return html`
-              <div class="mv3 w-100 aspect-ratio aspect-ratio--16x9 bg-light-gray">
-                <iframe class="aspect-ratio--object" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-              </div>
-            `
-          }
-          
-          // Vimeo
-          match = video.match(REGEX_URL_VIMEO);
-          if (match) {
-            let videoId = match[1];
-
-            return html`
-              <div class="mv3 w-100 aspect-ratio aspect-ratio--16x9 bg-light-gray">
-                <iframe class="aspect-ratio--object" src="https://player.vimeo.com/video/${videoId}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-              </div>
-            `
-          }
+        ${talkData && talkData.videos && talkData.videos.map(url => {
+          return html`<${ConferenceTalkVideo} url=${url} />`;
         })}
         
         ${conferenceDetail.data && html`
@@ -90,7 +68,7 @@ class ConferenceTalkView extends Component {
         <${GitHubLink} conferenceId=${conferenceId} />
       </main>
     `;
-  }
+  };
 
 }
 
