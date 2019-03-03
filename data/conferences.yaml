@@ -854,6 +854,19 @@
   description: |-
     beyond tellerrand is an affordable event about web design, development, creativity, design and much more. Taking place in Düsseldorf, Berlin and Munich.
 
+- id: 2018-11-07-angular-connect-2018
+  name: Angular Connect 2018
+  url: https://past.angularconnect.com/2018/
+  status: complete
+  date:
+    from: 2018-11-07
+    to: 2018-11-09
+  location:
+    country: United Kingdom
+    city: London
+  description: |-
+    Our brilliant sponsors make AngularConnect possible. Check out their websites and come and say hello on the day. Ever thought about joining them up there in lights?
+
 - id: 2018-11-08-dotcss-2018
   name: dotCSS 2018
   url: https://www.dotcss.io/
