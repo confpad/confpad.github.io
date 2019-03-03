@@ -115,6 +115,19 @@
   description: |-
     ReactEurope is back on 18-19 May 2017 to bring you the best and most passionate people from the very core team to the coolest people from the community we love. The conference aims to give talks that inspire and explore new futuristic ideas dealing with all the techs we enjoy from the React ecosystem such as React.js, React Native, GraphQL, Relay, Universal apps, Webpack, inline CSS and more.ReactEurope is also a great occasion to socialize, meet new people and old friends, hack together, taste delicious food and have fun in the beautiful city of Paris.
 
+- id: 2017-06-08-amsterdamjs-conference-2017
+  name: AmsterdamJS Conference 2017
+  url: https://amsterdamjs.com/2017/
+  status: complete
+  date:
+    from: 2017-06-08
+    to: 2017-06-08
+  location:
+    country: Netherlands
+    city: Amsterdam
+  description: |-
+    Taking our biggest and longest-running JavaScript community forward, we're adding a new event to our family - a full-day conference covering the latest and greatest news and insights from the global JavaScript network.Join us and a group of internationally known JavaScript enthusiasts to share inspiration and spend a great, summer day in one of the most unique Amsterdam locations.
+
 - id: 2017-07-10-chain-react-2017
   name: Chain React 2017
   url: https://infinite.red/ChainReactConf/2017
@@ -299,7 +312,7 @@
 
 - id: 2018-03-13-emberconf-2018
   name: EmberConf 2018
-  url:  https://2018.emberconf.com/
+  url: https://2018.emberconf.com/
   status: complete
   date:
     from: 2018-03-13
