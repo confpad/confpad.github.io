@@ -427,6 +427,19 @@
   description: |-
     A one-day conference for the ▲ZEIT Community
 
+- id: 2018-04-28-react-not-a-conf-2018
+  name: <React.NotAConf /> 2018
+  url: http://react-not-a-conf.com/archive/2018
+  status: complete
+  date:
+    from: 2018-04-28
+    to: 2018-04-28
+  location:
+    country:  Bulgaria
+    city: Sofia
+  description: |-
+    <React.NotAConf /> is an initiative brought to live by <React.Sofia /> meetup - a community of 700+ React enthusiasts. ⚛️ In 2018, we successfully shipped the first edition of the conference. 🚀In 2019 we are planning something even better. 🤩 Stay tuned!
+
 - id: 2018-05-07-beyond-tellerrand-duesseldorf-2018
   name: Beyond Tellerrand Düsseldorf 2018
   url: https://beyondtellerrand.com/events/duesseldorf-2018/
