@@ -945,6 +945,19 @@
   description: |-
     Come see the best developers worldwide speak on the most beautiful stages Paris has to offer.
 
+- id: 2018-11-08-ffconf-2018
+  name: ffConf 2018
+  url: https://2018.ffconf.org/
+  status: complete
+  date:
+    from: 2018-11-08
+    to: 2018-11-09
+  location:
+    country: United Kingdom
+    city: Brington
+  description: |-
+    Amongst the best events for the web community, with consistent balance of educational and inspirational talks, and perfect for the end of your year, getting you ready for the new year.#ffconf was on my must-go list as I have found it to be the best in terms of balancing inspiration talks vs more educational / useful , plus the nice atmosphere and overall quality.
+
 - id: 2018-11-09-dotjs-2018
   name: dotJS 2018
   url: https://www.dotjs.io/
