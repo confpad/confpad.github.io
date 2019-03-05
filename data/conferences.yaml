@@ -24,6 +24,19 @@
   description: |-
     Come to React.js Conf to shape the future of client-side applications!
 
+- id: 2016-03-28-emberconf-2016
+  name: EmberConf 2016
+  url: https://2016.emberconf.com/
+  status: complete
+  date:
+    from: 2016-03-28
+    to: 2016-03-30
+  location:
+    country: United States
+    city:  Portland, OR
+  description: |-
+    Ember is growing every day, and EmberConf is the best place to meet the folks behind the magic. You’ll hear from members of the Ember Core Team, top community contributors and users, and be the first to know what to expect for the future of Ember.
+
 - id: 2016-04-16-react-amsterdam-2016
   name: React Amsterdam 2016
   url: https://react.amsterdam/2016/
