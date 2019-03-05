@@ -453,6 +453,19 @@
   description: |-
     beyond tellerrand is an affordable event about web design, development, creativity, design and much more.
 
+- id: 2018-05-10-deltav-conference-2018
+  name: DeltaV Conference 2018
+  url: https://2018.deltavconf.com/
+  status: complete
+  date:
+    from: 2018-05-10
+    to: 2018-05-11
+  location:
+    country: United Kingdom
+    city: London
+  description: |-
+    DeltaV is proud to be supporting the following good causes as part of the conference. A financial contribution will be made to support the fantastic work codebar, Code Club and CodeYourFuture are doing in the tech community.
+
 - id: 2018-05-11-pycon-2018
   name: PyCon 2018
   url: https://us.pycon.org/2018/
