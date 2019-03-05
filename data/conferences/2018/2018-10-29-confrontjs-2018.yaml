@@ -1,0 +1,178 @@
+- title: Scalable Best Practices for Your Development Team
+  lang: en
+  type: regular
+  level:
+  time: 2018-10-29
+  room:
+  authors:
+    - name: Tejas Kumar
+      twitter: TejasKumar_
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/rdiUFma8QJU
+  description: |-
+    Software development teams usually are fairly complex: shifting priorities, changing requirements, and different personalities. This talk focuses on the ever-changing front-end tech landscape, along with team management in order to encourage best software engineering practices and better team culture across front-end teams through real-world use cases and historical lessons learned.
+
+- title: Algebraic Data Types
+  lang: en
+  type: regular
+  level:
+  time: 2018-10-29
+  room:
+  authors:
+    - name: Marcin Wadoń
+      twitter: Evojam
+      github:
+      website:
+  slides:
+    - https://drive.google.com/file/d/0B6FkkQvZBxefXzREeGpnUklrNWRYX08za2xjeGVaX3RaR0JZ/view
+  videos:
+    - https://youtu.be/H6jTbqnk4Ao
+  description: |-
+    Most languages have the concept of types defined. It's always good to feel safe working with the codebase.One of approaches to successfully launch new project is to define a domain model in the way your grandma used to make it. In this talk I will present you a hipster way to fulfill this task using the Algebraic Data Types.
+
+- title: Build your own test runner
+  lang: en
+  type: regular
+  level:
+  time: 2018-10-29
+  room:
+  authors:
+    - name: Ran Yitzhaki
+      twitter: Wix
+      github:
+      website:
+  slides:
+    - https://slides.com/ranyitzhaki/build-your-own-test-runner#/
+  videos:
+    - https://youtu.be/lDrEYgTDSmo
+  description: |-
+    In the javascript renaissance, more and more developers become toolmakers; even a basic understanding of how a tool works can help in the debugging process.Together, we'll live code a mocha-like test runner from scratch.While understanding the mechanism behind it, we'll create a small CLI app, that runs our test suites, and reports the results to the console.
+
+- title: Taste the Future with Functional Web Components
+  lang: en
+  type: regular
+  level:
+  time: 2018-10-29
+  room:
+  authors:
+    - name: Dominik Lubański
+      twitter: Shedul
+      github:
+      website:
+  slides:
+    - https://slides.com/smalluban/future-with-web-components#/
+  videos:
+    - https://youtu.be/WZ1MEHuxHGg
+  description: |-
+    Do we really need classes? What about complex lifecycles? Add to this hard to maintain stateful architecture and here you have almost all available JavaScript UI libraries today. I think there is a much easier way to create building blocks of the Internet, which are web components.In this talk, I would like to present a functional way of creating web component with possibly the easiest API. It is the result of my research, architecture design and library implementation for the last two years.The presentation will cover unique component structure and functional patterns as well as cache mechanism built-in the library.
+
+- title: Migrating from Monolith to Microfrontends
+  lang: en
+  type: regular
+  level:
+  time: 2018-10-29
+  room:
+  authors:
+    - name: Yaprak Ayazoğlu
+      twitter: yaprakaya
+      github:
+      website:
+  slides:
+    - https://slides.com/yaprakayazoglu/monolith-to-microfrontend#/
+  videos:
+    - https://youtu.be/iA7sTBamg9Q
+  description: |-
+    Recently, bol.com seller dashboards, which used to be a monolith, decomposed into microfrontends defined by a business domain concept. We experimented on different ways of microfrontend techniques and picked one. Since each application can run independently on their own minimal setup, this gave the teams great flexibility, autonomy and yet improved the ownership of the individuals. Despite some drawbacks, such as UX consistency, performance issues, etc. this technique definitely proved itself within bol.com. In this case study, you will hear our gains from using microfrontends.
+
+- title: Making internets great again - a story of working with legacy code
+  lang: en
+  type: regular
+  level:
+  time: 2018-10-29
+  room:
+  authors:
+    - name: Miszo Radomski
+      twitter: pan_miszo
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/MichaRadomski1/miszo-radomski-making-internets-great-again
+  videos:
+    - https://youtu.be/-Eelava1III
+  description: |-
+    Most of the developers one day will have to work with some kind of legacy application. I want to present a story about one of the applications I've been working on, which was started ~4 years ago as a hybrid of .NET MVC and AngularJS (1.3) and a journey our team came through last year to make it possible to support and more reliable than before. It's not a fairy tale - we still need to rewrite but it is still doing a good job in meeting business needs and making money.
+
+- title: The Front-end TDD challenge
+  lang: en
+  type: regular
+  level:
+  time: 2018-10-29
+  room:
+  authors:
+    - name: Yonatan Kra
+      twitter: WalkMe
+      github:
+      website:
+  slides:
+    - https://docs.google.com/presentation/d/e/2PACX-1vQo-LaIDAfK0K3QflUlwwnR6bPvM-pYT2tGdadwcoSJY1w6dlkdEhFgk2PeEyWvy4gOFGc9SJqSS2fZ/pub#slide=id.g4652ebffb8_0_0
+  videos:
+    - https://youtu.be/TCrVRMI2c_U
+  description: |-
+    TDD, the final frontier. These are the voyagers of the average developer, to create stable features, to join in the CI/CD world, to boldly develop minimum amount of code!Many people say it is impossible to develop a front end application without opening the browser. I’m here to put these claims to the (unit) test!In this talk we will build a working app - without opening the browser during the development process.By the end of this talk, you will see the true meaning of TDD and how you can work with it to become a better developer.
+
+- title: When Push Comes to Web
+  lang: en
+  type: regular
+  level:
+  time: 2018-10-29
+  room:
+  authors:
+    - name: Nadia Ginalska
+      twitter: Visuality
+      github:
+      website:
+  slides:
+    - https://docs.google.com/presentation/d/1cOsxXSl5Z8B-L_jXsRoj1whaYd1azrP1f94Cbo0aHHQ/edit
+  videos:
+    - https://youtu.be/1XdwYWqyfOE
+  description: |-
+    Like fire from mount Olympus, Push Notifications were stolen from the native mobile applications, for the benefit of us JavaScript developers. Now available for anyone, they are a powerful tool for building user engagement.In this talk I'll explain how they can improve your business and how you can start using them. By the end you should have a solid grasp of how Push Notifications work and be aware of the common pitfalls to avoid.
+
+- title: You've been doing CSS wrong
+  lang: en
+  type: regular
+  level:
+  time: 2018-10-29
+  room:
+  authors:
+    - name: Michał Warda
+      twitter: michalwarda
+      github:
+      website:
+  slides:
+    - https://michalwarda.github.io/css-wrong/
+  videos:
+    - https://youtu.be/ucD1Wczf6w8
+  description: |-
+    In my career I wrote a lot of bad code. When I got back to it I could tell what was wrong, and use this knowledge, to not make the same mistakes in the future.Not with CSS though. I've used different frameworks, methodologies, preprocessors and I never got the feeling why it worked or not.I decided to study this topic. In my presentation I will approach styling from a Software Engineering POV. I'll explain the theory of writing testable code and how it affects CSS programming. What parts of CSS we forgot about, but should be using. How we can up our game even more with CSS-in-JS and why you should finally drop BEM.
+
+- title: Moving from Anarchy to Sustainability
+  lang: en
+  type: regular
+  level:
+  time: 2018-10-29
+  room:
+  authors:
+    - name: Peter Milne
+      twitter: Adform
+      github:
+      website:
+  slides:
+    - https://www.dropbox.com/s/opc0qnf5ebsjptq/Moving%20from%20Anarchy%20to%20Usability%20and%20Sustainability%20-%20ConFrontJS%20Oct%202018.pdf?dl=0
+  videos:
+    - https://youtu.be/weUrhuZHoUE
+  description: |-
+    This talk covers the architecture and challenges of moving user-facing applications from startup mode to enterprise mode. The problem of 100 different applications that use every JS framework, 600+ API endpoints, multiple JavaScript dialects, with an unproductive UX or UI components. We will cover architecture to facilitate the migration of disparate applications to a large scale Single Page web application and the environment that supports it.

@@ -815,6 +815,19 @@
   description: |-
     React Conf 2018 is the official Facebook React event. This year's event will be held in Henderson, Nevada.
 
+- id: 2018-10-29-confrontjs-2018
+  name: ConfrontJS 2018
+  url: https://confrontjs.com/
+  status: complete
+  date:
+    from: 2018-10-29
+    to: 2018-10-29
+  location:
+    country: Poland
+    city: Warszawa
+  description: |-
+    ConFront JS is a conference that focuses on JavaScript used in Front-end development. The target audience are mid-level and advanced JavaScript programmers.ConFrontJS is organised by WarsawJS team. We are running a community of over 4000 members, which is the biggest and most active JavaScript.Community of this type in Poland. We are experienced, dependable and open.
+
 - id: 2018-11-03-javascript-conference-armenia-2018
   name: JavaScript Conference Armenia 2018
   url: https://jsconf.am/
