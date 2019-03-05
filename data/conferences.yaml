@@ -102,6 +102,19 @@
   description: |-
     React London 2017 is the 1st React conference in London.It will be a day packed with talks from the most talented people from our passionate community. They will explore the possibilities that the newest advances in React bring to the industry.React London 2017 is a single track full day conference including 6 talks from industry experts, 4 lightning talks and a panel discussion with engineers from the Facebook team.
 
+- id: 2017-03-28-emberconf-2017
+  name: EmberConf 2017
+  url: https://2017.emberconf.com/
+  status: complete
+  date:
+    from: 2017-03-28
+    to: 2017-03-29
+  location:
+    country: United States
+    city:  Portland OR
+  description: |-
+    Ember is growing every day, and EmberConf is the best place to meet the folks behind the magic. You’ll hear from members of the Ember Core Team, top community contributors and users, and be the first to know what to expect for the future of Ember.https://2017.emberconf.com/
+
 - id: 2017-04-21-react-amsterdam-2017
   name: React Amsterdam 2017
   url: https://react.amsterdam/2017/

@@ -1,0 +1,305 @@
+- title: Opening Keynote
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-28
+  room:
+  authors:
+    - name: Yehuda Katz
+      twitter: wycats
+      github:
+      website:
+    - name: Tom Dale
+      twitter: tomdale
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/TEuY4GqwrUE
+  description: |-
+    Opening Keynote by Yehuda Katz & Tom Dale
+
+- title: Going Progressive with Ember
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-28
+  room:
+  authors:
+    - name: Samanta de Barros
+      twitter:
+      github: sdebarros
+      website:
+  slides:
+  videos:
+    - https://youtu.be/OR1Tk_bwmZo
+  description: |-
+    “Mobile internet usage surpasses desktop usage for the first time in history.”Headlines like this are the result of a quick Google search for mobile vs desktop internet usage statistics in 2016. So, what are we doing to engage those mobile users with our Ember app? How can we improve their experience?Let's walk together through the process of building a PWA, what makes one one, why are they important and how can we reach to the Ember ecosystem to aid us in our work.
+
+- title: A Neurobiologist's Guide to Mind Manipulation
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-28
+  room:
+  authors:
+    - name: Casey Watts
+      twitter: kyloma
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/AtefvXagutM
+  description: |-
+    A useful-psychology double-whammy: (A) Developers are great systems thinkers. Surprise: your brain is a system too! Reframe frustration into accomplishment, and become a more effective and bubbly person using a frontal cortex feedback loop. (B) Want your team to be the happiest, most productive team around? Recent psychology research reveals one key attribute of the most successful teams, and it's within your influence.
+
+- title: Understanding JavaScript Performance
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-28
+  room:
+  authors:
+    - name: Godfrey Chan
+      twitter: chancancode
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/7ylQThr3EeQ
+  description: |-
+    Everyone wants their apps to be fast. However, it is not always clear how to get there. In this talk, we will dig into the internals of JavaScript engines to understand why performance is often so counterintuitive. What is a JIT, and how does it make my code fast? Where does it fall short? We will also discuss why you shouldn't trust micro-benchmarks and some better ways to measure real-world performance.
+
+- title: Counter-spells and the Art of Keeping Your Application Safe
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-28
+  room:
+  authors:
+    - name: Ingrid Epure
+      twitter: ingridepure
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/kPar8n9zaHo
+  description: |-
+    Ember plays an important role in ensuring that your application is secure from an attack, however engineers share part of the responsibility. Awareness of how you can harness all the power of Ember's security capabilities and and the additional steps you need to take to prevent security exploits is very important and will make life easier in assessing the current state of your application and planning for the future.In this talk we will explore some important security concerns, pitfalls and mitigations that we have learnt over the past four years of building Intercom.
+
+- title: Rebuilding Tumblr as a Single Page App
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-28
+  room:
+  authors:
+    - name: Oli Griffiths
+      twitter: oligriffiths
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/tIfyQ12zfqs
+  description: |-
+    Following a hack day project, work began on building prototypes of Tumblr using Ember and React. Come and find out what we learned along the way and why we chose Ember to ship all our memes.
+
+- title: Animate the Web with Ember.js
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-28
+  room:
+  authors:
+    - name: Jessica Jordan
+      twitter: jjordan_dev
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/wFJPIjRTIVU
+  description: |-
+    Were you a fan of animated cartoons as a kid, and wondered if one day you could create your own? Here's the great news: you can! Using open web standards and Ember.js you're able to create frame-by-frame animations—and even to make them interactive!This talk will explain why open web standards are more important than ever for creating animated content. We'll see how we can leverage the power of HTML5 Canvas in Ember efficiently and how to make animations interactive with the support of actions.
+
+- title: Data Loading Patterns with JSON API
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-28
+  room:
+  authors:
+    - name: Balint Erdi
+      twitter: baaz
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/kPxiiAGMSzE
+  description: |-
+    Data communication with the API server is a principal design question in rich-client apps. The talk ponders the design angles and gives several examples of data communication between Ember (Data) and a JSON:API compliant backend.
+
+- title: Higher Order Components
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-28
+  room:
+  authors:
+    - name: Miguel Camba
+      twitter: MiguelCamba
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/MpFudGJn2J0
+  description: |-
+    Since the component keyword and the hash helper were introduced to the framework, a whole new realm of APIs has become possible and yet the broader community has yet to fully embrace these powerful abstractions. With this talk I will help to spread awareness of the dormant power that developers have to hand, and how and when to use them.
+
+- title: Empowering the Next Million Creators
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-29
+  room:
+  authors:
+    - name: Edward Faulkner
+      twitter: eaf4
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/9DsBHKj90EY
+  description: |-
+    Ember isn't just about making developers more efficient. It's about empowering a wider audience to become creators and developers. How do we bridge the gap between our vibrant community and the next million people who have things they want to make but have no idea how to even collaborate with us?We already have the foundations of great content-creation tools that will allow authors, site builders, themers, and devs to speak the same language and build higher together. What if anyone could ship their own first app with no coding, but with the power of Ember's community under the hood?
+
+- title: SVG Animation and Interaction in Ember
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-29
+  room:
+  authors:
+    - name: Jen Weber
+      twitter: jwwweber
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ZC3lD_DFlkc
+  description: |-
+    Creative. Lively. Interactive. What if even a beginner-level Ember app could be all these things? SVG is a flexible, vector-based image format that lets you manipulate image elements in the same way that you already work with divs. It’s almost as simple to write a class binding for a star in a constellation as it is to write it for a checklist item. Learn how Ember’s out-of-the-box behavior can be used to build things like progress meters, interactive diagrams, and charts.
+
+- title: Mastering Ember from the Perspective of a N00b
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-29
+  room:
+  authors:
+    - name: Madison Kerndt
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/lfdkFNfIkks
+  description: |-
+    Often times the last person to learn a topic is the best person to teach it. Working within a framework that rapidly changes, we consistently find ourselves in the position of the learner. With fresh eyes, I will reveal common bumps along the path to mastering Ember. Geared towards experts and beginners alike, we will map concepts from a simple CRUD application to relatable mental models in order to demystify the Ember magic. On-boarding new developers and learning new concepts is essential to continuing the growth of the Ember community. Join me to level up!
+
+- title: State, Time, and Concurrency
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-29
+  room:
+  authors:
+    - name: Alex Matchneer
+      twitter: machty
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/VEzVDOmY-dc
+  description: |-
+    Modeling changes to state over time is a challenge that most modern app developers have to face. The ember-concurrency addon went a long way toward simplifying many of the challenges inherent in safely modeling asynchronous operations, but there is more work to be done.This talk is about time, state management, ember-concurrency, immutability, and how a lot of tricky problems disappear when you rigorously commit to the goal of minimizing non-essential state in favor of derived state.
+
+- title: Confessions of an Ember Addon Author
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-29
+  room:
+  authors:
+    - name: Lauren Elizabeth Tan
+      twitter: sugarpirate_
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ln_DvmQsvis
+  description: |-
+    Addons are one of the best things about the Ember eco-system. With one command, you can opt into using a well tested addon that does some of the heavy-lifting for you when building complex applications. The next best thing is that sharing your solution for solving problems is very simple; it's not a big leap going from Ember developer to addon author!A healthy addon eco-system is one of the key strengths of Ember, and in this talk we'll discover some best practices, tips and tricks and other exciting confessions from a self-confessed addon addict!
+
+- title: EmberConf MiniTalks
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-29
+  room:
+  authors:
+    - name: Leah Silber
+      twitter: wifelette
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Ember in a Large Organization
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-30
+  room:
+  authors:
+    - name: Fisayo Oluwadiya
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: An Animated Guide to Ember Internals
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-30
+  room:
+  authors:
+    - name: Gavin Joyce
+      twitter: gavinjoyce
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/A5k2u7AZf6g
+  description: |-
+    Having a good mental model of how Ember works is invaluable, it allows you to be more productive and fully leverage the framework.With the aid of some slick animations, we'll take a look at some of the internal moving parts that make up an Ember application. We'll explore routing, data flow and actions, the run loop, event dispatching and DOM rendering and updating.
+
+- title: Closing Keynote
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-30
+  room:
+  authors:
+    - name: Sarah Mei
+      twitter: sarahmei
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/UDp6eDCi1Vo
+  description: |-
+    Closing Keynote by Sarah Mei
