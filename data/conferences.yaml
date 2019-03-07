@@ -11,6 +11,19 @@
   description: |-
     This year’s conference features a mix of panels and talks set against the backdrop of beautiful Lake Las Vegas. In addition to a can’t-miss schedule, we’re organizing off-hour activities providing opportunities for relaxation, adventure, and getting to other React enthusiasts.
 
+- id: 2015-03-03-emberconf-2015
+  name: EmberConf 2015
+  url: https://2015.emberconf.com/
+  status: complete
+  date:
+    from: 2015-03-03
+    to: 2015-03-04
+  location:
+    country: United States
+    city: Portland OR
+  description: |-
+    EmberConf is committed to being an inclusive, welcoming conference for everyone. We will not permit harassment of conference participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately, and may be asked to leave.We reserve the right to warn or expel offenders from the conference with no refund, and to bar them from future participation (both speaking and attendance). If you are being harassed, see someone else being harassed, or have any other concerns on-site please contact one of the conference organizers or volunteers (identifiable by their staff shirts) immediately.
+
 - id: 2016-02-22-reactjs-conf-2016
   name: React.js Conf 2016
   url: https://conf2016.reactjs.org/
