@@ -1,0 +1,263 @@
+- title: Bringing best practices front and centre
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Chris Heilmann
+      twitter: codepo8
+      github: codepo8
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/26
+  description: |-
+
+- title: The present and future of VR on the Web
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Ada Rose Cannon
+      twitter: Lady_Ada_King
+      github: AdaRoseCannon
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/25
+  description: |-
+
+- title: Building Bots with JavaScript
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Alex Lakatos
+      twitter: lakatos88
+      github: AlexLakatos
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/31
+  description: |-
+
+- title: Fast But Not Furious"Debugging User Interaction Performance Issues"
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Anna Migas
+      twitter: szynszyliszys
+      github: szynszyliszys
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/27
+  description: |-
+
+- title: npm install disaster-waiting-to-happen
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Liliana Kastilio
+      twitter: lilianakastilio
+      github:
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/28
+  description: |-
+
+- title: Enter ES2018
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Andrico Karoulla
+      twitter: AndricoKaroulla
+      github:
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/24
+  description: |-
+
+- title: 100% CSS Mario Kart
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Stephen Cook
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/29
+  description: |-
+
+- title: Buying a House with JavaScript
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Sean McGee
+      twitter: HertsWestUK
+      github: smcgee2
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/18
+  description: |-
+
+- title: Home Automation with JavaScript
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Jonathan Fielding
+      twitter: JonthanFielding
+      github: jonathan-fielding
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/22
+  description: |-
+
+- title: Reanimating the Web
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Rob Bateman
+      twitter: robnet
+      github: rob-bateman
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/23
+  description: |-
+
+- title: The Most Important UI,You
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Carolyn Stransky
+      twitter: carolstran
+      github: carolstran
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/21
+  description: |-
+
+- title: Cats vs. Dogs
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Tom Dye
+      twitter: tmdye
+      github: tomdye
+      website:
+    - name: Dylan Schiemann
+      twitter: dylans
+      github: dylans
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/30
+  description: |-
+
+- title: JavaScript at the edge
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Cameron Diver
+      twitter: Cameron_Diver
+      github: CameronDiver
+      website:
+    - name: Theodor Gherzan
+      twitter: telphan
+      github: telphan
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/19
+  description: |-
+
+- title: This Talk Is About You
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Jani Eväkallio
+      twitter: jevakallio
+      github: jevakallio
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/20
+  description: |-
+
+- title: Beats, Rhymes & Unit Tests
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Tony Edwards
+      twitter: tonyedwardspz
+      github:
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/33
+  description: |-
+
+- title: Alpha, Beta, Gamer"Dev Mode"
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-16
+  room:
+  authors:
+    - name: Joe Hart
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/32
+  description: |-
