@@ -1010,6 +1010,19 @@
   description: |-
     The front-end role has evolved, and yet our conferences are still focused around a religious set of technologies. With ColdFront we are changing that by focusing on the challenges of building a modern interface and a front-end that runs everywhere.
 
+- id: 2018-11-16-frontmania-2018
+  name: FrontMania 2018
+  url: https://www.frontmania.com/conference
+  status: complete
+  date:
+    from: 2018-11-16
+    to: 2018-11-16
+  location:
+    country: Netherlands
+    city: Utrecht
+  description: |-
+    FrontMania is a group of people who are crazy about frontend development a.k.a. Frontend Maniacs. We as a group believe that Frontend development should be fun for everyone!Fun for us means creating cool, funny or crazy good quality software. That is the reason why we started to organise social meetings like a frontend pubquiz or a crazy cool conference. So we can all learn from each other while having a blast doing so!
+
 - id: 2018-11-19-orevdev-2018
   name: Øredev 2018
   url: http://oredev.org/2018
