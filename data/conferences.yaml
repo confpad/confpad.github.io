@@ -193,6 +193,19 @@
   description: |-
     ReactiveConf2017 took us to a whole new dimension! Two conference days on two stages and one festival day made ReactiveConf 2017 the most exciting conference in this solar system and beyond. We had 24 main stage talks, 8 free workshops, inspirational talks and many more.
 
+- id: 2017-11-17-half-stack-2017
+  name: Half Stack 2017
+  url: https://halfstackconf.com/halfstackconf2017.html
+  status: complete
+  date:
+    from: 2017-11-17
+    to: 2017-11-17
+  location:
+    country: United Kingdom
+    city: London
+  description: |-
+    Started in 2010, London HalfStack has events at least once a month to discuss all things interesting in the desktop and mobile web world. The format includes meetups, panels, and conferences, and always a pub after each event.For seven years, we've had regular JavaScript meetup events. And then we spend time discussing JavaScript at a pub and/or CodeNode. For the fourth time, we're flipping this around and bringing the talks to a pub in the Shoreditch area.Talks will include a variety of modern front-end development topics (2017's conference covered ES6, TypeScript, frameworks, WebGL, web audio/video, WebVR, speech recognition, JS poetry, and much more) from leading speakers based primarily in London. The Call for Papers will be open from March through mid July. We will let all potential speakers know our answer by mid-August.
+
 - id: 2018-01-15-beyond-tellerrand-munich-2018
   name: Beyond Tellerrand Munich 2018
   url: https://beyondtellerrand.com/events/munich-2018/

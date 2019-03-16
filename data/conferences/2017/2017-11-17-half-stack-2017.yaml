@@ -1,0 +1,253 @@
+- title: Coffee.js? How I hacked my coffee machine using JavaScript
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Dominik Kundel
+      twitter: DKundel
+      github: dkundel
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/4
+  description: |-
+
+- title: Love poems to JavaScript, Part 1
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Jani Eväkallio
+      twitter: jevakallio
+      github: jevakallio
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/5
+  description: |-
+
+- title: Introduction to virtual reality and the web
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Ada Rose Cannon
+      twitter: Lady_Ada_King
+      github: AdaRoseCannon
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Empowering Web Applications with Speech Recognition
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Mihai Cîrlănaru
+      twitter: MCirlanaru
+      github: mihai
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/14
+  description: |-
+
+- title: Sacrificing the golden calf of 'coding'
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Chris Heilmann
+      twitter: codepo8
+      github: codepo8
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/7
+  description: |-
+
+- title: Practical browser automation for fun and profit
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Forbes Lindesay
+      twitter: ForbesLindesay
+      github: ForbesLindesay
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/9
+  description: |-
+
+- title: Make your animations perform well
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Anna Migas
+      twitter: szynszyliszys
+      github: szynszyliszys
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/3
+  description: |-
+
+- title: Having fun with JavaScript and Bluetooth
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Niels Leenheer
+      twitter: html5test
+      github: NielsLeenheer
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/15
+  description: |-
+
+- title: Love poems to JavaScript, Part 2
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Jani Eväkallio
+      twitter: jevakallio
+      github: jevakallio
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/12
+  description: |-
+
+- title: Converting a JS library from ES5 to ES6, benefits and the pitfalls
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Jonathan Fielding
+      twitter: JonthanFielding
+      github: jonathan-fielding
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/8
+  description: |-
+
+- title: The Exciting World of 3D
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Sean McGee
+      twitter: HertsWestUK
+      github: smcgee2
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/16
+  description: |-
+
+- title: Love poems to JavaScript, Part 3
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Jani Eväkallio
+      twitter: jevakallio
+      github: jevakallio
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/10
+  description: |-
+
+- title: Fear and Loathing in JavaScript
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Dylan Schiemann
+      twitter: dylans
+      github: dylans
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/6
+  description: |-
+
+- title: Data Visualisations and GraphQL
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Sandeep Singh
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/13
+  description: |-
+
+- title: Unidirectional data flows and WebGL
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Alvin Ourrad
+      twitter: alvinsight
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: How to be a Web AV Artist
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-17
+  room:
+  authors:
+    - name: Ruth John
+      twitter: Rumyra
+      github: Rumyra
+      website:
+  slides:
+  videos:
+    - https://halfstackconf2017.streameventlive.com/archive/17
+  description: |-
