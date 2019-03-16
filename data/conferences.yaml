@@ -89,6 +89,19 @@
   description: |-
     World-class mobile and web innovators get together for three days in one town.Join them from October 26th to 28th in Bratislava, Slovakia!
 
+- id: 2016-12-11-holyjs-2016
+  name: HolyJS 2016
+  url: https://2016.holyjs-moscow.ru/
+  status: complete
+  date:
+    from: 2016-12-11
+    to: 2016-12-11
+  location:
+    country: Russian Federation
+    city: Moscow
+  description: |-
+    Do not confuse HolyJS with frontend conferences - there are many such in Russia. But until 2016 there was not a single conference on the most popular in the world (according to GitHub and RedMonk) programming language - JavaScript, which is most often associated with the frontend.
+
 - id: 2017-03-13-react-conf-2017
   name: React Conf 2017
   url: http://conf2017.reactjs.org/
