@@ -505,6 +505,19 @@
   description: |-
     Software testing conference #1 in Ukraine
 
+- id: 2018-04-21-jsunconf-2018
+  name: JSUnconf 2018
+  url: https://2018.jsunconf.eu/
+  status: complete
+  date:
+    from: 2018-04-21
+    to: 2018-04-22
+  location:
+    country: Germany
+    city: Hamburg
+  description: |-
+    JavaScript Unconference 2018 in Hamburg. It's your conference. You decide what will happen.
+
 - id: 2018-04-25-react-finland-2018
   name: React Finland 2018
   url: https://react-finland.fi
