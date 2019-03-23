@@ -375,6 +375,19 @@
   description: |-
     The web development and UX conference in Salzburg. One day, two tracks, 19 amazing speakers.
 
+- id: 2018-03-03-spotlight-vue-js-fitc-2018
+  name: Spotlight Vue.js FITC 2018
+  url: https://fitc.ca/event/vue/
+  status: complete
+  date:
+    from: 2018-03-03
+    to: 2018-03-03
+  location:
+    country: Canada
+    city: Toronto
+  description: |-
+    Join us for a full day on the popular open-source progressive framework Vue.js.  Designed to be incrementally adoptable, Vue.js is easily implementable into other projects, can be embedded into existing pages, and can also function as a web application framework. Get up to speed in only one day with Spotlight: Vue.js!
+
 - id: 2018-03-08-reactfest-2018
   name: ReactFest 2018
   url: https://reactfest.com/
