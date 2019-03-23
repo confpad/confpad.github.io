@@ -440,6 +440,19 @@
   description: |-
     We believe that the community and the open-source models are well suited for our core values:learning, teaching and knowledge sharing. Our mission is to inspire other communities with the concept of open-source events.We’re publishing all data about this conference, in full transparency. We are also available at any time for inquires and we`re really looking forward to sharing our knowledge about organizing international events. This way, whenever a community wants to start something similar, they can build on our knowledge.
 
+- id: 2018-04-10-jsconf-au-2018
+  name: JSConf AU 2018
+  url: https://2018.jsconfau.com/
+  status: complete
+  date:
+    from: 2018-04-10
+    to: 2018-04-10
+  location:
+    country: Australia
+    city: Melbourne
+  description: |-
+    A two-day conference for JavaScript enthusiasts, pushing technology beyond its boundaries. From the community, for the community. A part of global JSConf Family.
+
 - id: 2018-04-12-react-amsterdam-2018
   name: React Amsterdam 2018
   url: https://react.amsterdam/2018/
