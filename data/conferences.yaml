@@ -1127,6 +1127,19 @@
   description: |-
     Øredev is the Premier developer's conference in Europe, focused on the whole software development process. This year, we are going to explore advances in biohacking and transhumanism and their implications for humankind. Will they be to our benefit, further enhancing quality of life? How mindful should we be of the potential social and ethical pitfalls whilst we transform?
 
+- id: 2018-11-24-holyjs-2018
+  name: HolyJS 2018
+  url: https://holyjs-moscow.ru/en/
+  status: complete
+  date:
+    from: 2018-11-24
+    to: 2018-11-25
+  location:
+    country: Russian Federation
+    city: Moscow
+  description: |-
+    HolyJS is a specialized conference for JavaScript developers conducted by the JUG.ru Group. More than 600 JS developers gather under one roof to discuss the news of a rapidly developing ecosystem, fresh tools, frameworks, patterns and hundreds of changes with experts from around the world and hear dozens of reports on the frontend and not only. We are talking about backend, and about the desktop.
+
 - id: 2018-11-30-react-day-berlin-2018
   name: React Day Berlin 2018
   url: https://reactday.berlin/

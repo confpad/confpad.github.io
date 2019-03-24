@@ -1,0 +1,239 @@
+- title: State management beyond the libraries
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-24
+  room:
+  authors:
+    - name: Michel Weststrate
+      twitter: mweststrate
+      github:
+      website:
+  slides:
+    - https://assets.ctfassets.net/nn534z2fqr9f/Ezk73ofhW8sCC8wuIA4iE/f6c12f39312901e55889a5fda0d410e9/Michel_Weststrate_State_management_beyond_libraries.pdf
+  videos:
+  description: |-
+
+- title: JavaScript ❤ binary data
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-24
+  room:
+  authors:
+    - name: Kirill Cherkashin
+      twitter: kirjs
+      github:
+      website:
+  slides:
+    - https://kirjs.com/binary/intro
+  videos:
+    - https://youtu.be/ILSpvViUlPU
+  description: |-
+    Conference HolyJS 2019 Piter will be held May 24-25 in St. Petersburg. You can buy tickets on the website: http://bit.ly/2P4jIYM
+
+- title: Naked truth about files at Web
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-24
+  room:
+  authors:
+    - name: Egor Malkevich
+      twitter: wegorelax
+      github:
+      website:
+  slides:
+    - https://downloads.ctfassets.net/nn534z2fqr9f/6YB3HXOGzeyMQ4M0cm0Img/3cd63548e8a84875cbba35e4962a5446/Egor_Malkevich_Naked_truth_about_files_at_Web.pdf
+  videos:
+  description: |-
+
+- title: 'Revealing framework fundamentals: NestJS behind the curtain'
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-24
+  room:
+  authors:
+    - name: Kamil Myśliwiec
+      twitter: kammysliwiec
+      github:
+      website:
+  slides:
+    - https://downloads.ctfassets.net/nn534z2fqr9f/3So323TYJO080w2g4oA8QC/dbcdea22f11ffea831cdb1cbe2b9f2f3/Kamil_Mysliwiec_Revealing_framework_fundamentals__NestJS_behind_the_curtain.pdf
+  videos:
+  description: |-
+
+- title: 'Service Worker: Using gathered experience and looking into the future'
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-24
+  room:
+  authors:
+    - name: Maxim Salnikov
+      twitter: webmaxru
+      github:
+      website:
+  slides:
+    - https://slides.com/webmax/serviceworker-holyjs/#/
+  videos:
+  description: |-
+
+- title: Diving deep into webpack
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-24
+  room:
+  authors:
+    - name: Stas Kurilov
+      twitter:
+      github:
+      website:
+  slides:
+    - https://assets.ctfassets.net/nn534z2fqr9f/4AS3hkBXbi6wSOYUoa444y/dd811bfc6d3b37a0e63e6e3d3eb5b35d/Stas_Kurilov_Glubokoye_pogruzheniye_v_webpack.pdf
+  videos:
+  description: |-
+
+- title: An introduction to distributed tracing
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-24
+  room:
+  authors:
+    - name: Thomas Watson
+      twitter: wa7son
+      github:
+      website:
+  slides:
+    - https://assets.ctfassets.net/nn534z2fqr9f/5aPRuBSqEosCsCqsKQ8aAk/85c176bb7683ba139a105ce1df43bd0a/Thomas_Watson_An_introduction_to_distributed_tracing.pdf
+  videos:
+  description: |-
+
+- title: Building GraphQL Server
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-24
+  room:
+  authors:
+    - name: Pavel Chertorogov
+      twitter: nodkz
+      github:
+      website:
+  slides:
+    - https://downloads.ctfassets.net/nn534z2fqr9f/1EyPLtP3Qcc6wUYOEmsuIg/a503c12215254823f41311baf194700a/Pavel_Chertorogov_Building_GraphQL_Server.pdf
+  videos:
+  description: |-
+
+- title: Paranoid Service Worker
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-24
+  room:
+  authors:
+    - name: Vsevolod Rodionov
+      twitter: jabher
+      github:
+      website:
+  slides:
+    - https://slides.com/jabher/paranoid-service-worker-holyjs/#/
+  videos:
+  description: |-
+
+- title: Bringing mixed reality to the web
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-24
+  room:
+  authors:
+    - name: Marko Letic
+      twitter: NisamProgramer
+      github:
+      website:
+  slides:
+    - https://assets.ctfassets.net/nn534z2fqr9f/5NZEeYNtvygS8YeaaIgYIe/e88c1c7b4ef6e94ccc7009f9cf7947e0/Marko_Letic_Bringing_mixed_reality_to_the_web.pdf
+  videos:
+  description: |-
+
+- title: JS battle" How I wrote my own eval()"
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-24
+  room:
+  authors:
+    - name: Alexander Korotaev
+      twitter: mamu_eval
+      github:
+      website:
+  slides:
+    - http://lekzd.ru/presentations/js_battle_holy/
+  videos:
+  description: |-
+
+- title: Asynchronous zero
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-24
+  room:
+  authors:
+    - name: Victor Vershanskij
+      twitter: went_out
+      github:
+      website:
+  slides:
+    - https://downloads.ctfassets.net/nn534z2fqr9f/4JG7XeeyTucWioeuYsqqcy/1fa3d2f3b2d7feb297ca4ffe2fea5f22/Viktor_Vershanskiy_Asinkhronnyy_nol.pdf
+  videos:
+  description: |-
+
+- title: A11Y IRL (Accessibility in real life)
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-24
+  room:
+  authors:
+    - name: Theodore Vorillas
+      twitter:
+      github:
+      website:
+  slides:
+    - https://assets.ctfassets.net/nn534z2fqr9f/E7jAy6u7Mk86gqkYk8gyK/2e257b856ea8dbe65207b7e9fe16616f/Theodore_Vorillas_A11Y_IRL__Accessibility_in_real_life_.pdf
+  videos:
+  description: |-
+
+- title: Surviving death by complexity (*offline only)
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-24
+  room:
+  authors:
+    - name: Mattias Petter Johansson
+      twitter: mpjme
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Decentralized web
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-25
+  room:
+  authors:
+    - name: Victor Grishchenko
+      twitter: gritzko
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
