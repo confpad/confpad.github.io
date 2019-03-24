@@ -596,6 +596,19 @@
   description: |-
     beyond tellerrand is an affordable event about web design, development, creativity, design and much more.
 
+- id: 2018-05-09-jsday-2018
+  name: jsDay 2018
+  url: https://2018.jsday.it/
+  status: complete
+  date:
+    from: 2018-05-09
+    to: 2018-05-10
+  location:
+    country: Italy
+    city: Verona
+  description: |-
+    jsDay is a community conference intended for networking and collaboration in the developer community.We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by jsDay or not.
+
 - id: 2018-05-10-deltav-conference-2018
   name: DeltaV Conference 2018
   url: https://2018.deltavconf.com/
