@@ -414,6 +414,19 @@
   description: |-
     EmberConf is the best place to meet the folks behind the magic. You’ll hear from members of the Ember Core Team, top community contributors and users, and help shape the future of Ember.
 
+- id: 2018-03-18-javascript-fwdays-2018
+  name: JavaScript fwdays'18
+  url: https://fwdays.com/en/event/js-fwdays-2018
+  status: complete
+  date:
+    from: 2018-03-18
+    to: 2018-03-18
+  location:
+    country: Ukraine
+    city: Kiev
+  description: |-
+    We organize large-scale conferences in comfortable venues and invite best international experts as well as Ukrainian specialists in various spheres - framework authors, core contributors, etc. Our team carefully selects talks to include only valuable and useful ones to the conference programme. We also care about entertainment and informal conference part and create a comfortable atmosphere for you.
+
 - id: 2018-03-30-js-fest-2018
   name: JS Fest 2018
   url: http://jsfest.com.ua/jsfest2018/indexe.html

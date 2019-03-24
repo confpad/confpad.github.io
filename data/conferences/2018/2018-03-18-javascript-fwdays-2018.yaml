@@ -1,0 +1,332 @@
+- title: JavaScript, Day 4001
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Illya Klymov
+      twitter: xanf_ua
+      github: xanf
+      website:
+  slides:
+    - https://fwdays.com/en/event/js-fwdays-2018/review/javascript-day-4001
+  videos:
+    - https://youtu.be/jzaZlEOSwoA
+  description: |-
+
+- title: How to angulate on 5+
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Sergiy Babich
+      twitter: babichss
+      github: Sergiy-Babich
+      website:
+  slides:
+    - https://babichss.github.io/angular-for-a-plus/#/5
+  videos:
+    - https://youtu.be/dfJyrbk7PME
+  description: |-
+
+- title: Front-end Microservices Architecture
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Mykhailo Churilov
+      twitter:
+      github:
+      website:
+  slides:
+    - http://slides.com/mykhailochurilov/deck-14#/
+  videos:
+    - https://youtu.be/2r9KqASOSeM
+  description: |-
+
+- title: Time, Numbers, Text
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Andrey Listochkin
+      twitter: listochkin
+      github: listochkin
+      website:
+  slides:
+    - https://speakerdeck.com/listochkin/time-numbers-text
+  videos:
+    - https://youtu.be/TFBCcNFEmDE
+  description: |-
+
+- title: 'React: the road to enlightenment'
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Ekaterina Lizogubova
+      twitter: KatyaLizogubova
+      github:
+      website:
+  slides:
+    - https://fwdays.com/en/event/js-fwdays-2018/review/react-road-to-success
+  videos:
+    - https://youtu.be/STz1tr65ykE
+  description: |-
+
+- title: Code Style and Violence
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Anton Nemtsev
+      twitter: SilentImp
+      github: SilentImp
+      website:
+  slides:
+    - https://silentimp.github.io/codeStyleAndViolenceRu/
+  videos:
+    - https://youtu.be/qHIhWxHSi_0
+  description: |-
+
+- title: International Speakers' Corner
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Jan Jongboom
+      twitter: janjongboom
+      github: janjongboom
+      website:
+    - name: Martin Splitt
+      twitter: g33konaut
+      github: AVGP
+      website:
+    - name: Feross Aboukhadijeh
+      twitter: feross
+      github: feross
+      website:
+    - name: Noam Rosenthal
+      twitter: realnoam
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Creating virtual worlds in the browser
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Anton Nemtsev
+      twitter: SilentImp
+      github: SilentImp
+      website:
+  slides:
+    - https://fwdays.com/en/event/js-fwdays-2018/review/creating-virtual-worlds-in-the-browser
+  videos:
+    - https://youtu.be/0y2jXEUHvuk
+  description: |-
+
+- title: GraphQL - a new look at the API
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Vladimir Zaets
+      twitter: ZaetsVladimir
+      github: VladimirZaets
+      website:
+  slides:
+    - https://fwdays.com/en/event/js-fwdays-2018/review/graphql-new-look-on-api
+  videos:
+    - https://youtu.be/zXUP4bNDxWo
+  description: |-
+
+- title: We raise children. Or how did Ivan Vasilievich run the experiments?
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Gregory Shehet
+      twitter: AGambit95
+      github: A-gambit
+      website:
+  slides:
+    - https://fwdays.com/en/event/js-fwdays-2018/review/how-to-develop-a-product
+  videos:
+    - https://youtu.be/7cnBuA0LAGg
+  description: |-
+
+- title: Frontend testing for Wix viewer, case study
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Noam Rosenthal
+      twitter: realnoam
+      github:
+      website:
+  slides:
+    - https://fwdays.com/en/event/js-fwdays-2018/review/how-to-develop-a-producthttps://fwdays.com/en/event/js-fwdays-2018/review/frontend-testing-for-Wix-viewer
+  videos:
+    - https://youtu.be/IYunRopn6fg
+  description: |-
+
+- title: The Most Annoying Website (aka "The Power of the Web Platform")
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Feross Aboukhadijeh
+      twitter: feross
+      github: feross
+      website:
+  slides:
+    - https://fwdays.com/en/event/js-fwdays-2018/review/the-most-annoying-website
+  videos:
+    - https://youtu.be/EkpS1eWb2BA
+  description: |-
+
+- title: Life outside javascript
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Helen zhukova
+      twitter: return_hz
+      github: zhukovka
+      website:
+  slides:
+    - https://fwdays.com/en/event/js-fwdays-2018/review/life-without-js
+  videos:
+    - https://youtu.be/gMWNlv6muNY
+  description: |-
+
+- title: JavaScript all the things
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Jan Jongboom
+      twitter: janjongboom
+      github: janjongboom
+      website:
+  slides:
+    - https://fwdays.com/en/event/js-fwdays-2018/review/javascript-all-the-things
+  videos:
+    - https://youtu.be/tTPk0OdMCqM
+  description: |-
+
+- title: 99 ways to take away your ugly polyfills
+  lang: en
+  type: lightning
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Artem Yavorsky
+      twitter: yavorsky_
+      github: yavorsky
+      website:
+  slides:
+    - https://www.youtube.com/redirect?q=https%3A%2F%2Ffwdays.com%2Fen%2Fevent%2Fjs-fwdays-2018%2Freview%2F99-ways-to-take-away-polyfills&event=video_description&v=pMMQYHiFX3w&redir_token=Jjvls856AuKg6o_pjM9oadglthJ8MTU1MjI0MjQ1NkAxNTUyMTU2MDU2
+  videos:
+    - https://youtu.be/pMMQYHiFX3w
+  description: |-
+
+- title: Use-case operator replyWhen from Rx.JS on the example of Angular application embedded via IFRAME
+  lang: en
+  type: lightning
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Oleksandr Skachkov
+      twitter: El_Extremal
+      github: kievsash
+      website:
+  slides:
+    - https://fwdays.com/en/event/js-fwdays-2018/review/use-case-replywhen
+  videos:
+    - https://youtu.be/d7zO9fzXbfM
+  description: |-
+
+- title: Vue, webcomponents
+  lang: en
+  type: lightning
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Vitalii Ratushnyi
+      twitter:
+      github:
+      website:
+  slides:
+    - https://fwdays.com/en/event/js-fwdays-2018/review/vue-webcomponents
+  videos:
+    - https://youtu.be/Q3MOPhHR2Mk
+  description: |-
+
+- title: 600 seconds about async_hooks
+  lang: en
+  type: lightning
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Andrii Kanunnikov
+      twitter:
+      github:
+      website:
+  slides:
+    - https://fwdays.com/en/event/js-fwdays-2018/review/600-seconds-about-async
+  videos:
+    - https://youtu.be/8ut7bRzj-vU
+  description: |-
+
+- title: Web Workers - add productivity to your Web applications
+  lang: en
+  type: lightning
+  level:
+  time: 2017-03-18
+  room:
+  authors:
+    - name: Sergey Melashych
+      twitter:
+      github:
+      website:
+  slides:
+    - https://fwdays.com/en/event/js-fwdays-2018/review/web-workers-add-performance-to-web-applications
+  videos:
+    - https://youtu.be/ctKmHO2yARY
+  description: |-
