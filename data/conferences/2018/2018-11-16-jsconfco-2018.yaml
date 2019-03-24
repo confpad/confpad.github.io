@@ -1,0 +1,387 @@
+- title: Interferencia
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Alexandra Cárdenas
+      twitter: tiemposdelruido
+      github: tiemposdelruido
+      website:
+    - name: Olivia Jack
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: 10KB or Bust" The Delicate Power of Webpack and Babel"
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Brian Holt
+      twitter: holtbt
+      github: btholt
+      website:
+  slides:
+  videos:
+    - https://youtu.be/4XBzjCWQpis
+  description: |-
+    Your app is bigger and slower than it needs to be.Without rewriting app code we can squeeze more performance out of your code by tweaking Webpack and Babel. These tools are immensely powerful but it’s a delicate dance to get them to play nice. This talk is full of tips and tricks to get you there.After three years of tooling around with Webpack and Babel at Netflix, LinkedIn, and Reddit I’ve gotten some battle-won knowledge that I’d like to share with you all. Some non-intuitive tricks that lead to smaller bundles, faster parse times, browser-engine opts and de-opts, and faster-perceived load times. While these examples will use Preact to make examples this applies to any application that uses these two phenomenal tools. You’ll be surprised at what you can do just turning a few knobs.
+
+- title: Shipyard" summarize, navigate and explore multidimensional data without coding"
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Juan Guillermo Murillo Castillo
+      twitter: juangmurillo2
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Creating Your Own Image Format in the Browser
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Trent Willis
+      twitter: trentmwillis
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/DEY38hGrmLg
+  description: |-
+    JavaScript and the web platform have evolved a lot in the past couple of years. In particular, Service Workers have given modern web applications tremendous power. They allow our apps to deliver content offline, send push notifications, and...create their own image formats? It’s a bit outlandish, but yes!In this talk, we’ll go on a journey that starts with a dream and a Service Worker and ends with us having created our very own image format that works in the browser. Along the way, we’ll learn about some fantastic new web technologies, such as Streams and Web Assembly, that are shipping in browsers today.
+
+- title: El error en dar un error por hecho
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Gabrielle von Koss
+      twitter: gvonkoss
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/4UIFX3bR3LE
+  description: |-
+    Ésta plática es motivada por las palabras que elegimos. El objetivo es observar una comparación entre el lenguaje usado para escribir mensajes de error y el que usamos para comunicarnos en persona, destacando así el espacio que existe para mejorar estos conceptos dentro de la comunidad tecnológica.El poder de las palabras que usamos puede fácilmente pasar desapercibido en nuestro día a día. Sin embargo, no sirve suponer que existe cierto conocimiento, usar acrónimos o que seamos vagos, ya que la persona que usa nuestro código existe dentro de un espectro infinito de experiencias y comprensión. Similarmente, hay falacia en dar por hecho que la persona con quien nos comunicamos entiende todo nuestro modo de pensar, y que sea familiar con las referencias que damos al hablar — es muy fácil olvidarnos que otros no saben lo que nosotros sabemos. 
+
+- title: Linear Algebra for FE Developers
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Elizabeth Ramírez
+      twitter: eramirem
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/gRLqjJTlk9s
+  description: |-
+    In Linear Algebra, not only the data that comes from the discretization of continuous systems can be represented in matrix (or tensor) structures, but also the operations performed on this data. Such operations can be linearly composed to produce more complex results and find better representations of this datasets.For example, in Computer Graphics, imagery or imagery time series are represented with sets of values arranged in n-dimensional matrices, being suitable to be manipulated with functions of matrices.This presentation will be focused in matrix functions and their numerical implementation for datasets represented in matrix form, as well as the computation cost of these operations, covering (but not limited to) the following topics.
+
+- title: Finding and debugging memory leaks in Node.js
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Giovanny Gongora
+      twitter: Gioyik
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Migrating Pinterest profiles to React
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Imad Elyafi
+      twitter: eelyafi
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/h1NWWsHp0tI
+  description: |-
+    We all have been in situation when we were in one platform and had to move to another. While it’s relatively easy to build a new web app in React, migrating a service that’s constantly changing and used by millions of people is a much more complicated challenge. It’s like changing the engines of an airplane while mid-flight.Some of the problems are: rendering Javascript on the server, measuring the impact, debugging issues, dealing with old resource library and rendering React components inside of the existing JS Framework.The talk is about techniques we tried and challenges we faced while migrating to React at Pinterest. Also, we’ll share our performance and engagement gains after migrating Pinterest’s profiles to React.
+
+- title: Una historia de amor entre JavaScript y C++
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Fredy Andrade
+      twitter: xfry
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/MtUPDLW8olw
+  description: |-
+    El desarrollo de experiencias interactivas con buen performance es importante! JavaScript es un lenguaje fácil en algunas casos y un mal uso del mismo, puede llevarnos a construir experiencias interactivas lentas y no muy amigables con el usuario.En esta charla exploraremos la delegación de responsabilidades en las que JavaScript -o Node.js- puede ser fuerte y otras en las que C++ puede tener un mayor performance en la Generación de Niveles Procedimental para videojuegos.
+
+- title: Teaching Programming to Kids - by a 13 year old
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Jason Straughan
+      twitter: jdstraughan
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/6A62QNA94A4
+  description: |-
+    Teaching programming to children is hard. Computer Science topics can be difficult to grasp using standard programming languages and tools. Using MIT’s Scratch programming platform, creating games and working software is simple and fun thanks to their drag and drop interface.Creating loops, controls structures, variables, and other common programming tasks allow users of all ages to build fully functioning games and applications. In this session, we will be creating an entire game from scratch in Scratch.To prove that this is as simple as it sounds, this session will be led by a 13-year-old. What better way to learn how to teach kids how to code than by learning from a kid?If you have a kid, are related to a kid, know a kid, or think you may know a kid in the future, then this session is for you.
+
+- title: Web & Mobile Convergence @Univision
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Camilo Quimbayo
+      twitter: vxcamiloxv
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/MmVDUYcZ4vQ
+  description: |-
+    The session will talk about the experience of Univision in the migration of this one from a monolithic application to microservices and react / node.js as the main engine of the new webapp and mobile applications looking for the convergence between these two worlds thanks to the advantages that we offer. technologies. Topics such as the current architecture of univision, monorepo, shared components and styled components will be addressed as these help to build reusable components in the web and mobile world.
+
+- title: The Lost Art of MIDI – Bringing < bgsound> Back to the Web
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Feross Aboukhadijeh
+      twitter: feross
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/BmfDMylKo5I
+  description: |-
+    The session will talk about the experience of Univision in the migration of this one from a monolithic application to microservices and react / node.js as the main engine of the new webapp and mobile applications looking for the convergence between these two worlds thanks to the advantages that we offer. technologies. Topics such as the current architecture of univision, monorepo, shared components and styled components will be addressed as these help to build reusable components in the web and mobile world.In the days of Geocities and Angelfire, a quirky HTML tag called bgsound enabled sound files to play in the background of webpages. Usually, these files were in the MIDI format. What a glorious era that was! Sadly, bgsound has been removed from browsers and MIDI is obscure and hard to play back. In this talk, we'll bring MIDI and  bgsound back from the dead using WebAssembly, Emscripten, Web Audio, and Web Components. When we're finished, you'll be able to give your webpages the 90's treatment in a modern, standards-compliant way!
+
+- title: Muses Code JS or How Communities Change People
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-17
+  room:
+  authors:
+    - name: Tanya Butenko
+      twitter: ButenkoMe
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: IA para videojuegos con JS
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-17
+  room:
+  authors:
+    - name: Jorge Palacios
+      twitter: Jorge Palacios
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/hHVMJSLwQnM
+  description: |-
+    The session will talk about the experience of Univision in the migration of this one from a monolithic application to microservices and react / node.js as the main engine of the new webapp and mobile applications looking for the convergence between these two worlds thanks to the advantages that we offer. technologies. Topics such as the current architecture of univision, monorepo, shared components and styled components will be addressed as these help to build reusable components in the web and mobile world.
+
+- title: How I started mocking my GraphQL Schema
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-17
+  room:
+  authors:
+    - name: Alejandro Estrada
+      twitter: estrada9166
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/V8P4R4UfXWI
+  description: |-
+    The session will talk about the experience of Univision in the migration of this one from a monolithic application to microservices and react / node.js as the main engine of the new webapp and mobile applications looking for the convergence between these two worlds thanks to the advantages that we offer. technologies. Topics such as the current architecture of univision, monorepo, shared components and styled components will be addressed as these help to build reusable components in the web and mobile world.In this talk, I will tell you the story of how I created an open source module mocking a GraphQL Schema to help developers around the globe to create easy tests for their APIs. 
+
+- title: There is a Bluebird in my talk that wants to get out
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-17
+  room:
+  authors:
+    - name: Lucas da Costa
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Preprocessors, Components, and CSS in JS or" How I Learned to Stop Worrying and Love the Website"
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-17
+  room:
+  authors:
+    - name: Jackie Balzer
+      twitter: jackiebackwards
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: De 2D a 3D" cómo diseñar interfaces de usuario en Realidad Virtual"
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-17
+  room:
+  authors:
+    - name: Fabio Cortés
+      twitter: fabiojcortes
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/3tfiXDk57Ck
+  description: |-
+    The session will talk about the experience of Univision in the migration of this one from a monolithic application to microservices and react / node.js as the main engine of the new webapp and mobile applications looking for the convergence between these two worlds thanks to the advantages that we offer. technologies. Topics such as the current architecture of univision, monorepo, shared components and styled components will be addressed as these help to build reusable components in the web and mobile world.We will learn a little about the challenges and techniques applied in artificial intelligence for video games, as well as explore some practical examples in JS focused on kinematic behaviors and search for paths.
+
+- title: Programming Visual Art
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-17
+  room:
+  authors:
+    - name: Estefany Aguilar
+      twitter: teffcode
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Tracing Node. The Open Source Edition
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-17
+  room:
+  authors:
+    - name: Daniel Khan
+      twitter: dkhan
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Automated Testing for the Modern Web
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-17
+  room:
+  authors:
+    - name: Jennifer Shehane
+      twitter: jennifershehane
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: How I ended up automating my curtains and shouting at my laptop
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-17
+  room:
+  authors:
+    - name: Luke Bonaccorsi
+      twitter: LukeB_UK
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: To see what others can not... You must climb the mountain, A Introduction to Load Testing
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-17
+  room:
+  authors:
+    - name: Luke Bonaccorsi
+      twitter: LukeB_UK
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+
+- title: Speed, Speed, Speed" JavaScript vs C++ vs WebAssembly"
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-17
+  room:
+  authors:
+    - name: Franziska Hinkelmann
+      twitter: fhinkel
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
