@@ -115,6 +115,19 @@
   description: |-
     React Conf 2017 is the official Facebook React event. This year's event will be held in Santa Clara, California.
 
+- id: 2017-03-25-jsunconf-2017
+  name: JSUnconf 2017
+  url: https://2017.jsunconf.eu/
+  status: complete
+  date:
+    from: 2017-03-25
+    to: 2017-03-26
+  location:
+    country: Germany
+    city: Hamburg
+  description: |-
+    The heart of JSUnconf is people. This guideline is meant to support a happy, productive and safe event experience that can welcome new ideas and inspiration for all attendees. Regardless of gender, sexual orientation, age, ability, ethnicity, socioeconomic status, and religion (or lack thereof). We gain strength from diversity, and actively seek participation from those who enhance it.
+
 - id: 2017-03-28-react-london-2017
   name: React London 2017
   url: https://react.london/
