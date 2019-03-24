@@ -958,6 +958,19 @@
   description: |-
     React Conf 2018 is the official Facebook React event. This year's event will be held in Henderson, Nevada.
 
+- id: 2018-10-26-jsfoo-2018
+  name: JSFoo 2018
+  url: https://jsfoo.in/2018/
+  status: complete
+  date:
+    from: 2018-10-26
+    to: 2018-10-27
+  location:
+    country: India
+    city: Banglore
+  description: |-
+    With JavaScript being used as much as it is talked about, JSFoo is certainly the most needed conference this year! The reasons for its popularity are also the reasons for its vulnerability (security-wise). Hence this edition will focus broadly on JavaScript and security.HasGeek hosted the first edition of JSFoo in 2011 to address the growing needs of a niche community working with Javascript. Since then, our JS community has grown tremendously. And this year, we’re meeting again on 26 – 27 October to explore new ideas and developments, to implement innovative solutions, and to learn from others’ experiences. Want to see the quality and topics of talks at last year’s conference? You can watch the JSFoo 2017 videos or the related ReactFoo 2017 videos to see what was on trend. Or check out the 2017 conference website.
+
 - id: 2018-10-29-confrontjs-2018
   name: ConfrontJS 2018
   url: https://confrontjs.com/
