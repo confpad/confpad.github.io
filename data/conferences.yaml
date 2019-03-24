@@ -1191,7 +1191,20 @@
     city: Atlanta, GA
   description: |-
     Inspirational talks about Angular, Rxjs, NodeJS, AB Testing, Mobile, Tensorflow, and other modern cutting-edge technologies.
-    
+
+- id: 2019-01-10-jsfoo-2019
+  name: JSFoo 2019
+  url: https://jsfoo.in/2019-pune/
+  status: complete
+  date:
+    from: 2019-01-10
+    to: 2019-01-10
+  location:
+    country: India
+    city: Pune
+  description: |-
+    HasGeek is a technology company in the media business, bringing software automation to a traditionally people-intensive operation. HasGeek has organized over two dozen conferences attended by thousands of technology professionals, made several thousand connections, and built open source tools that are now used by many communities.
+
 - id: 2019-05-25-reactconfam-2019
   name: React Conf Armenia 2019
   url: https://reactconf.am
