@@ -180,6 +180,19 @@
   description: |-
     Taking our biggest and longest-running JavaScript community forward, we're adding a new event to our family - a full-day conference covering the latest and greatest news and insights from the global JavaScript network.Join us and a group of internationally known JavaScript enthusiasts to share inspiration and spend a great, summer day in one of the most unique Amsterdam locations.
 
+- id: 2017-06-18-javascript-conference-2017
+  name: JavaScript conference 2017
+  url: https://js-poland.pl/2017/
+  status: complete
+  date:
+    from: 2017-06-18
+    to: 2017-06-18
+  location:
+    country: Poland
+    city: Golden Terraces Cinema Complex,Warsaw
+  description: |-
+    JS Poland is a friendly conference where everyone should feel welcome, safe and comfortable to share ideas and engage in open discussion without threat of intimidation or public embarrassment.
+
 - id: 2017-07-10-chain-react-2017
   name: Chain React 2017
   url: https://infinite.red/ChainReactConf/2017
