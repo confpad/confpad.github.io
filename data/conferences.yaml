@@ -167,6 +167,19 @@
   description: |-
     React Amsterdam is a full day two-track conference on all things React, gathering Front End developers across the globe in the tech heart of Europe. React Amsterdam is a heir to the biggest React community in BeNeLux and we have our priorities straight: only the highest quality content with careful balance of practical and visionary talks. React Amsterdam 2017 will take place in the Kromhouthal - former shipbuilding factory at a waterfront of Amsterdam City center.
 
+- id: 2017-05-06-jsconf-eu-2017
+  name: JSConf EU 2017
+  url: https://2017.jsconf.eu/
+  status: complete
+  date:
+    from: 2017-05-06
+    to: 2017-05-07
+  location:
+    country: Germany
+    city: Berlin
+  description: |-
+    This was probably one of the best weekends of my life, meeting great people, listening to talented developers share their experiences with us and getting inspired by a lot of them
+
 - id: 2017-05-18-react-europe-2017
   name: ReactEurope 2017
   url: https://2017.react-europe.org/
