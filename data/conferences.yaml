@@ -271,6 +271,19 @@
   description: |-
     HolyJS is a specialized conference for JavaScript developers conducted by the JUG.ru Group. More than 600 JS developers gather under one roof to discuss the news of a rapidly developing ecosystem, fresh tools, frameworks, patterns and hundreds of changes with experts from around the world and hear dozens of reports on the frontend and not only. We are talking about backend, and about the desktop.
 
+- id: 2018-01-05-nationjs-react-2018
+  name: NationJS React 2018
+  url: http://nationjs.com/
+  status: complete
+  date:
+    from: 2018-01-05
+    to: 2018-01-05
+  location:
+    country: United States
+    city: Washington, DC
+  description: |-
+    The Mid-Atlantic's JavaScript and full web stack conference series!
+
 - id: 2018-01-15-beyond-tellerrand-munich-2018
   name: Beyond Tellerrand Munich 2018
   url: https://beyondtellerrand.com/events/munich-2018/
