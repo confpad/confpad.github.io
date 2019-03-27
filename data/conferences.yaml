@@ -375,6 +375,19 @@
   description: |-
     Come see the best developers worldwide speak on the most beautiful stages Paris has to offer.
 
+- id: 2018-01-30-ngatlanta-conf-2018
+  name: ngAtlanta Conf 2018
+  url: https://ngatl.github.io/2018/
+  status: complete
+  date:
+    from: 2018-01-30
+    to: 2018-02-02
+  location:
+    country: United States
+    city: Atlanta, GA
+  description: |-
+    1st annual Angular conference in Atlanta, GA focused on diversity in technology.
+
 - id: 2018-02-07-smashing-conference-london-2018
   name: Smashing Conference London 2018
   url: https://smashingconf.com/

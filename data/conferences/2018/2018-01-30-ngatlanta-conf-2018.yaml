@@ -1,0 +1,581 @@
+- title: Opening Remarks
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Zack Chapple
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/416yQMb5SCc
+  description: |-
+
+- title: Angular as strategy for collaboration and scale
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Brad Green
+      twitter: bradlygreen
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/tzUVBoZ2qgw
+  description: |-
+    We on the Angular team care most about seeing the amazing things you all build with the platform. Because of this, we've always focused on how teams can scale from the smallest prototypes to Google-scale consumer and enterprise applications. Come hear about how we've designed for productive teams and eliminating development roadblocks at Google and throughout the open source world.
+
+- title: Modern Testing Strategies for Reactive Applications
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Brandon Roberts
+      twitter: brandontroberts
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/qEKVzz9kifE
+  description: |-
+    In the world of Angular applications, testing is key to protect against regressions and validating functionality. With apps becoming more reactive with observables, testing how these independent pieces work becomes more important. Learn how these testing patterns and practices will ease the burden of testing your Angular application. From unit testing presentation components, integration testing with smart components, testing observables, state management and end-to-end tests, you can use these strategies to make your testing your reactive application easier and to simplify your testing triangle.
+
+- title: Contributing to the Angular Docs
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Kapunahele Wong
+      twitter: kapunahele
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/OBDmJlnEWis
+  description: |-
+
+- title: Emotional Intelligence for Engineers
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: April Wensel
+      twitter: aprilwensel
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/SJnVhkEx8Cs
+  description: |-
+    Software may be built on machines, but it’s built by and for human beings. To be a highly effective software engineer, you must be able to navigate human interactions successfully. Emotional intelligence is the set of competencies that will allow you to do just that! Whether you’re discussing tradeoffs with your UX designer, convincing your team to adopt a new tool, or just reviewing someone’s code, interpersonal skills are essential. Emotional intelligence not only helps in our interactions with others; it also includes self-awareness, which allows us to motivate ourselves, manage stress, and avoid burnout. This talk will give you a better understanding of your own behavior, and it will also help you to cultivate empathy for the people on your team. You’ll learn a suite of practical tools that will empower you to prevent burnout, improve productivity, and tackle difficult conversations at work. You’ll leave inspired to apply these new skills to unlock your full potential as a developer and a human being!
+
+- title: Reactive Brain Waves
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Uri Shaked
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/hTvWDkr7yrw
+  description: |-
+
+- title: NativeScript and CodeSharing
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Nathan Walker
+      twitter: wwwalkerrun
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/dv9Pegbxuac
+  description: |-
+    When it comes to sharing code between Angular web projects and NativeScript mobile apps there are several landmines you will want avoid. Even in today’s innovative frontend world, there really is no magic bullet to enable codesharing. Achieving success when marrying the 2 technologies varies a lot depending on several important factors. Nathan Walker has been experimenting and developing in this arena ever since both technologies emerged and has encountered a couple of important take aways. In this session, you’ll learn several important *Major Keys* to maximize code reuse with real world case studies.
+
+- title: Breaking Down Reactive Forms
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Bonnie Brennan
+      twitter: bonnster75
+      github:
+      website:
+    - name: Sam Rhodes
+      twitter: SamLee_509
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/o1X5ZzFj4JE
+  description: |-
+    Angular offers two options for building forms in your application: Reactive Forms and Template Driven Forms. In this talk, Bonnie will focus on reactive forms and explain the structure, data model, and setup. You’ll learn about the synchronous flow of data between the UI and server, covering how your component can quickly respond to user input how to update the server once your input is validated. You’ll also see how you can easily validate and test your reactive form. If you’re one of the many people leaning toward reactive style programming, you’re going to love reactive forms!
+
+- title: JavaScript is the new metal the cloud vs the browser
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Scott Hanselman
+      twitter: shanselman
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/sUsCNk0P-C8
+  description: |-
+
+- title: NBA + Angular = Game Detail
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Wylesha Rachell
+      twitter: WyleshaRachell
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/dvumzEL-Kc0
+  description: |-
+
+- title: Logging, and Errors, and Metrics Oh My!
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Chloe Condon
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/NwenURrP9No
+  description: |-
+
+- title: Dissecting the architectural process for creating reusable Angular components
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Rachita Joshi
+      twitter: way2rach
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/vkguzxzPtO0
+  description: |-
+
+- title: 'Webpack: Your New BFF'
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Jennifer Bland
+      twitter: ratracegrad
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/pyNqlPPW3_Y
+  description: |-
+    Webpack is JavaScript module bundler that has taken the world by storm, but a lack of great docs and wealth of boilerplates have led to many people using it, but not understand it. I will show you how to utilize Webpack for building out your applications. Once you see the magic available, Webpack will become your new BFF!
+
+- title: Faster Angular Applications
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Minko Gechev
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/HKoXyDfyAXE
+  description: |-
+
+- title: Beyond the Angular CLI
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Mike Brocchi
+      twitter: Brocco
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/qakF-L4nMCw
+  description: |-
+    The cat is out of the bag, people know about the Angular CLI and what it can do for them. But what is coming? What else can it do? What changes and improvements can I expect? Come learn what the Angular CLI can do and will evolve into.
+
+- title: Angular's User Authentication Tool Belt
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Kim Maida
+      twitter:
+      github:
+      website:
+    - name: Ryan Chenkie
+      twitter: ryanchenkie
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/jFy-sqcODkg
+  description: |-
+
+- title: PWA All The Things!
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Tara Manicsic
+      twitter: Tzmanics
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/dgqp-zE5n1M
+  description: |-
+    Progressive Web Apps are not replacing native mobile applications any time soon. Don’t disregard them just yet! They can take our web applications that we build or are currently running and make them better. By using support for offline caching, push notifications, home screen icons and more, we can upgrade our app to a PWA to make it more accessible, reliable and engaging! Let's take a look at how to to create or update our Angular applications. Then we will see what this looks like & acts like on multiple platforms so we know what all of our users are experiencing.
+
+- title: The parable of the blender
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-01
+  room:
+  authors:
+    - name: Randall Koutnik
+      twitter: rkoutnik
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ATqmMuq0gNk
+  description: |-
+    Between Webpack, new Angular releases and blogging about the latest npm controversy, it can be easy to lose sight of what we're here for: Using software to solve real-world problems. Let's take a step back from the nitty-gritty to focus on the big picture - how do we figure out what our customers want? How do we turn those vague wants into real products? And what on earth does this have to do with a blender?
+
+- title: Deploying angular to the cloud
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: John Papa
+      twitter: John_Papa
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/078qfVw_Dzk
+  description: |-
+
+- title: Recursive Forms, CVAs & Components
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Susan Goldblatt
+      twitter: thatgoldblatt
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/JKxU53CxA-s
+  description: |-
+
+- title: Universal Power Women
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Danielle Sheehan
+      twitter:
+      github:
+      website:
+    - name: Jason Jean
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/KS410rhAhlY
+  description: |-
+
+- title: Try not to lose your marbles with RXJS
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Chaela Womack
+      twitter: chawomack
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/v8G33B3mBY4
+  description: |-
+
+- title: Smart Angular Elements An Experiment
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Carmen Popoviciu
+      twitter: CarmenPopoviciu
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ydGcSiNOB9U
+  description: |-
+
+- title: Building VR Interfaces with Angular
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Erica Stanley
+      twitter: ericastanley
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/1eTg6fyc4zA
+  description: |-
+
+- title: 3x3 Fresh Code Delivered, Three Times a Day
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Kamini Dandapani
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/MbrYrRDfna4
+  description: |-
+
+- title: Service Workers & Cows — a love story
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Alyssa Nicoll
+      twitter: AlyssaNicoll
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Oc2OVpnsB9E
+  description: |-
+
+- title: The dark side of tuning Angular performance
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Dmitriy Shekhovtsov
+      twitter: valorkin
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/KW8khE-AOxQ
+  description: |-
+
+- title: Machine Learning & Angular Testing w Dozn
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Paulina Gallo
+      twitter:
+      github:
+      website:
+    - name: Jedi Weller
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/WerzRx8_0eI
+  description: |-
+
+- title: Live App Updates Without The App Store
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Sani Yusuf
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/s10wrXA-a7Y
+  description: |-
+
+- title: It's Not Dark Magic, Pulling Back the Curtains From Your Stylesheets
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Aimee Knight
+      twitter: Aimee_Knight
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/DbXPbT8kqIE
+  description: |-
+    Chances are if you're a web developer you're going to have to write some CSS from time to time. When you first looked at CSS it probably seemed like a breeze. You added some border here, changed some colors there. JavaScript was the hard part of front end development! Somewhere during your progression as a front end developer that changed though! What's worse is that many developers in the front end community have simply learned to dismiss CSS as a toy language. The truth however is that when we hit a wall many of us don’t actually understand what our CSS is doing under the hood! We all like to make jokes about it, but how many of us have actually taken the time to try and understand the CSS we're writing. How many of us have actually reasonably debugged an issue to the next lowest abstraction layer when we hit a wall? All too often we settle for the first StackOverflow answer, hacks, or we just let the issue go entirely. In this talk we're going to finally take a step back and stop mindlessly throwing darts at the dart board! We’ll discuss the most common issues developers face such as, z-index, the cascade, and positioning in depth by diving deep into the browser's internal rendering engine structure to see how are styles are actually parsed. Sure, you may still not have an eye for design, but you might just walk away a CSS guru!
+
+- title: Reactive Programming Future Proof Your Code
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Tracy Lee
+      twitter: ladyleet
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/CuTXwRxs09U
+  description: |-
+
+- title: I Don’t Do Non Technical Talks
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Kim Crayton
+      twitter: KimCrayton1
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/HtvbPIYwwWI
+  description: |-
+
+- title: State management with ngrx
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Simona Cotin
+      twitter: simona_cotin
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/pVUWEAZ7DO0
+  description: |-
+
+- title: 'End the Test Engineer role: how cross functionality leads to a better engineering'
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+    - name: Meredith Bayne
+      twitter: meredithjordyn
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/M04XQgodRFI
+  description: |-
+
+- title: Speakers Panel
+  lang: en
+  type: regular
+  level:
+  time: 2018-02-02
+  room:
+  authors:
+  slides:
+  videos:
+    - https://youtu.be/wVzJ1M0wMCU
+  description: |-
