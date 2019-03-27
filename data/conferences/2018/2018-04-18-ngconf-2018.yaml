@@ -1,0 +1,1251 @@
+- title: Day 1 Keynote
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Brad Green
+      twitter: bradlygreen
+      github:
+      website:
+    - name: Miško Hevery
+      twitter: mhevery
+      github:
+      website:
+    - name: Kara Erickson
+      twitter: karaforthewin
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/dIxknqPOWms
+  description: |-
+
+- title: Authentication with NgRx
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Brandon Roberts
+      twitter: brandontroberts
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/46IRQgNtCGw
+  description: |-
+    As the lead developers of NgRx, the number one question we get asked is how to implement authentication with a reactive store. In this talk, I set out to answer this question by building an auth-based app with NgRx Store, Router, and Effects
+
+- title: 5 must-dos to make your JS app search engine friendly (#7 will shock you!)
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Igor Minar
+      twitter: IgorMinar
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/fiT5g9KSxmw
+  description: |-
+    The internet has around 4 billion users, most of them come online to find information and answers. Is your application accessible to search engines? Can your users access information your application provides? Do you really need server-side rendering to be successful? In this talk we’ll cover answers to these questions as well as gotchas and real-world stories from running angular.io, a client-side-only PWA visited by over a 1 million unique visitors each month.
+
+- title: How to hack an Angular app?
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Asim Hussain
+      twitter: jawache
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/C7D4WTLNEUQ
+  description: |-
+    Thought hacking was hard? It’s not, it’s easy and I’m going to show you how! In this episode of CSI Salt Lake City, we’ll investigate a series of hacking stories and break them down step-by-step to see exactly how they did it. By the end, you’ll walk away a little bit more scared and a lot more prepared with some great practices you can apply immediately to your own applications.
+
+- title: Increasing Performance – more than a pipe dream
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Tanner Edwards
+      twitter: tanspac
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/I6ZvpdRM1eQ
+  description: |-
+    You just finished your awesome component only to realize it is dog slow! While there are a number of things that could be causing this, the most common is calling functions from your template. These function get evaluated every time change detection run and can be a real ng-buzzKill. In most cases, changing that function to a pipe can get your app’s performance back on track. I’ll talk about both why functions slow down your app, and why/how pipes make it faster.
+
+- title: Reusable Animations
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Sam Brennan
+      twitter: thelittlestdev
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/nLRP8Uhx-Qo
+  description: |-
+    In this lightning talk we will go over how to take your animations to the next level. By using reusable animations, your project will not only be more efficient but more manageable than it was before learning these best practices. (and of course, this will be 80’s themed!)
+
+- title: Angular, Docker and Containers….in 5-ish Minutes
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Dan Wahlin
+      twitter: DanWahlin
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/1jzztM7qJRY
+  description: |-
+    In this 5-minute (ultra-focused) talk Dan Wahlin will show you how to get started “containerizing” Angular applications using Docker containers. While we can only scratch the surface of what’s possible in 5 minutes, you can learn more in the full 1-hour session at ng-conf.
+
+- title: 'StackBlitz + Angular: A Better Way to Build PWA’s'
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Albert Pai
+      twitter: iamalbertpai
+      github:
+      website:
+    - name: Eric Simons
+      twitter: ericsimons40
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/P1-HAN1g4_4
+  description: |-
+    Building & debugging progressive web apps can be a painful experience, especially on mobile devices. In this session, we’re excited to announce a suite of new developer tools that make developing PWA’s a total breeze—all of which run entirely in your browser, no setup or configuration required.
+
+- title: Adventures in Angular Podcast
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Charles Max Wood
+      twitter:
+      github:
+      website:
+    - name: Joe Eames
+      twitter: josepheames
+      github:
+      website:
+    - name: John Papa
+      twitter: John_Papa
+      github:
+      website:
+    - name: Lukas Ruebbelke
+      twitter: simpulton
+      github:
+      website:
+    - name: Alyssa Nicoll
+      twitter: AlyssaNicoll
+      github:
+      website:
+    - name: Ward Bell
+      twitter: wardbell
+      github:
+      website:
+    - name: Shai Reznik
+      twitter: hirez_io
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/WD2X9wx7uao
+  description: |-
+
+- title: 'Grid Layout: CSS is Awesome'
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Dave Geddes
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/QfnpAvMe1XM
+  description: |-
+    CSS Grid is here and it’s epic. Let’s take a quick look at what makes this game-changing tech so amazing, and see if we can’t use it to solve front end development’s ancient unsolved mystery.
+
+- title: Angular CDK and Material in 2018
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Jeremy Elbourn
+      twitter: jelbourn
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/v__RuD9RX3I
+  description: |-
+    What’s new in Angular CDK and Angular Material? Let’s find out by doing some live coding with the newest additions!
+
+- title: I switched a map, and you’ll never guess what happened next…
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Pete Bacon Darwin
+      twitter: petebd
+      github:
+      website:
+    - name: Shai Reznik
+      twitter: hirez_io
+      github:
+      website:
+    - name: Mike Brocchi
+      twitter: Brocco
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/rUZ9CjcaCEw
+  description: |-
+    If you always forget what switchMap does, or when exactly should you use it, this talk will make sure you’ll NEVER again forget what switch, map and switchMap do… in a very unusual and entertaining way.
+
+- title: Google’s serverless tools for machine learning, big data and app backends
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Bret McGowen
+      twitter: bretmcg
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/VldYy95yHP0
+  description: |-
+    Whether your app is mobile, web, or cloud native, Google Cloud Platform and Firebase have an entire suite of serverless tools that can help. What is serverless? It means cloud power available instantly and transparently, without having to create any virtual machines or manage scaling or application runtimes. See how GCP and serverless can make your app’s backend more powerful, easier to build, easier to manage, and cheaper. We’ll explore compute products like Google Cloud Functions, big data tools like Firestore and BigQuery, and machine learning tools.
+
+- title: Modules are not what you think they are
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Maxim NgWizard Koretskyi
+      twitter: maxim_koretskyi
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/pERhnBBae2k
+  description: |-
+    Some developers believe that Angular has different types of modules like shared, feature or routing module. They’d be surprised to learn that Angular has none. Using a simple application, this talk will demonstrate how Angular uses a compiler to merge all modules into a single injector. We’ll learn where lazy loaded modules fit into this picture and why modules hierarchy and encapsulation simply don’t exist at runtime. By the end of the talk, you’ll have enough knowledge to avoid unexpected results and will be able to link, load or compile modules like a pro.
+
+- title: Elements in v6 and Beyond
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Rob Wormald
+      twitter: robwormald
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Z1gLFPLVJjY
+  description: |-
+    The first version of Angular Elements is now available. Learn about how we use Angular Elements on angular.io and about our plans for the future.
+
+- title: Super-Powered, Server-Rendered Progressive Native Apps
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Nathan Walker
+      twitter:
+      github:
+      website:
+    - name: Jeff Whelpley
+      twitter: jeffwhelpley
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/EqqNexmu3Ug
+  description: |-
+    Angular is built from the ground up as a multi-platform JavaScript framework. You can use Angular to build an app for almost any environment. In this talk, we will go over a “real world”, open source app built in Angular that renders on 3 different platforms: the browser (i.e. your typical web app), the server (via Angular Universal) and native mobile (via NativeScript). Learn from two of the leading pioneers in Angular multi-platform development to establish a solid set of pros and cons to various approaches in project setup and organization. Don’t go wandering down the rabbit hole any longer but rather find the light at the end of the tunnel in this talk.
+
+- title: Testing Best Practices for Angular Applications
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Yi Qi
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/HJ7Zxkz6iJ0
+  description: |-
+    In this talk we will look at the best practices while testing Angular Applications like setting up AOT for unit tests and go through testing strategies for specific situations involving Router, Animations, Component with OnPush etc. We will also look at moving away from ControlFlow for Protractor tests and using async/await.
+
+- title: Building a Karaoke Machine with Angular and HTML5 Speech Recognition
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-18
+  room: Grand Ballroom
+  authors:
+    - name: Sergio Cruz
+      twitter: hashtagserg
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/WHMyaTy7PME
+  description: |-
+    Every framework wants to rule the world, but only one framework can help me build a classic 80’s karaoke machine—Angular. I’ll use Angular, the HTML5 Web Speech API, and RxJS to create a web app to select songs, sync lyrics, and grade singers as they sing along. Watch one audience member bite the dust as they jump on stage at the end to test the final application and sing along to classic 80’s hits. Don’t stop believing in the power of Angular.
+
+- title: Reactive Testing Strategies with NgRx
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom A/D
+  authors:
+    - name: Brandon Roberts
+      twitter: brandontroberts
+      github:
+      website:
+    - name: Mike Ryan
+      twitter: MikeRyanDev
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/MTZprd9tI6c
+  description: |-
+    In the world of Angular applications, testing is key to protect against regressions and validating functionality. With apps becoming more reactive with observables, testing how these independent pieces work becomes more important. Learn how these testing patterns and practices will ease the burden of testing your Angular application. From unit testing presentation components, integration testing with smart components, testing observables, state management, and end-to-end tests, you can use these strategies to make your testing your reactive application easier and to simplify your testing triangle.
+
+- title: Update party
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Riviera
+  authors:
+    - name: Filipe Silva
+      twitter:
+      github:
+      website:
+    - name: Hans Larsen
+      twitter: hanslatwork
+      github:
+      website:
+  slides:
+  videos:
+  description: |-
+    Want to update your app to the latest Angular versions? This is the room for you! Bring your laptop, pull up a chair, and we’ll help you update to the latest Angular, RxJS and Angular CLI version 6.
+
+- title: How to score 100 on a Angular Progressive Web App Audit
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Murano
+  authors:
+    - name: Anas.R.Firdousi
+      twitter: AnasFirdousi
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/hF4lzKmyfPU
+  description: |-
+    Angular now ships with service worker modules that makes building Progressive Web Apps (PWAs) easier than ever before. In this talk, I will live code the standard test app for PWAs “The Hacker News PWA”. I will show you how to build an impressive app by using the angular worker modules to score a 100 on progressive web app audit and also how to customize the worker to fit the needs of your specific application. Hacker News PWA or HN-PWA is the modern gold standard for comparing performance and usability across various PWAs built with different JS frameworks. This talk will take a step-by-step approach of converting a regular app to an Angular PWA and then challenge the browser audit tool to score a max on PWA, Performance, Accessibility and best practices. This is more of a code show than a talk show – Buckle up as we take an information intensive fun-filled ride to the amazing world of progressive web apps with Angular!
+
+- title: Optimizing an Angular application
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom B
+  authors:
+    - name: Minko Gechev
+      twitter: mgechev
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ybNj-id0kjY
+  description: |-
+    A hands-on training on optimizing the runtime performance of an Angular application. We will go through several steps, including: – Using OnPush change detection strategy. Here we’ll go through the gotchas of the strategy. – Optimizing the watched by Angular expressions. We’ll use pure pipes and memoization, explaining the difference. – Changing the change detection behavior for handling real-time updates. We will run code outside the Angular’s zone.
+
+- title: 6 APPS ONE CODE WITH ANGULAR
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom C
+  authors:
+    - name: Sani Yusuf
+      twitter: saniyusuf
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/imaTBx4jbwY
+  description: |-
+    You and your team have this great Idea and you have your users using different devices and operating systems to access the same application. Some users are on the Web, some on Mobile some of their Desktop and you also have to worry about what operating system they are on and also have to consider how your application is presented on each device & operating system. What if there was a way to code your app without worrying too much about operating systems/devices/screen sizes and just focusing on getting your idea across to your users regardless. Join me on a journey where I show you how to use Angular, Ionic & the PWA standard to build apps for IOS, Android, Windows, Web, Mac & PC with the same code all using just HTML5.
+
+- title: Jest Testing
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Murano
+  authors:
+    - name: Jesse Sanders
+      twitter: JesseS_BrieBug
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/d91uDEmbBUs
+  description: |-
+    There have been lots of talks about proper ways of testing our Angular applications but no one in the Angular community is talking much about the jest.js snapshots and how we can effectively and quickly test our applications. Snapshot testing allows us to quickly validate our UI when given a deterministic state. Snapshot testing also allows us to validate our reducers post state quickly and easily. This 20-minute talk is a great overview on how to quickly integrate jest.js into our angular-cli app, what files to check in, and how to write tests that effectively validate state and ui rendering.
+
+- title: VR Hero – Ready Observable One
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Murano
+  authors:
+    - name: Alex Castillo
+      twitter: castillo__io
+      github:
+      website:
+    - name: Uri Shaked
+      twitter: UriShaked
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/8A28iQPxTPs
+  description: |-
+    Welcome to the amazing world of the Web, where everything is possible! In this session, we are going to combine Angular, RxJS and Firebase with cutting edge web technologies to create a collaborative Virtual Reality gaming experience. We will get a good taste of WebVR and Web Audio, and even connect a smart guitar using Web Bluetooth. Then we will all put on Cardboard VR viewers, and play together. Join us for some hardcore live-coding, cutting-edge technologies, and a unique VR experience!
+
+- title: NgRx Schematics
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom A/D
+  authors:
+    - name: Vitalii Bobrov
+      twitter: bobrov1989
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/q3UcqG72Zl4
+  description: |-
+    NgRx is the great way to manage complex app state. Unfortunately, it is not a silver bullet and as the downside, it requires so much boilerplate code. Developers are lazy and machines must work for us. NgRx Schematics is a huge time-saver. It will automate NgRx code generation and give you the ability to focus on application business logic.
+
+- title: VS Code Can Do That?
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom B
+  authors:
+    - name: Burke Holland
+      twitter: burkeholland
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Xco-TEI-HU4
+  description: |-
+    Visual Studio Code is on 🔥. Everybody ❤’s this unexpected Electron-based text editor, and for good reason: it can do A LOT. It can compile Angular templates on the fly, debug native mobile applications, execute JavaScript inline and so much more! In this session, we’ll take a look at the most powerful features and plugins in Visual Studio Code, many of which, nobody knows about. This is Visual Studio Code like you’ve never  👀 it before.
+
+- title: N Things You Didn’t Know About the Router
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom C
+  authors:
+    - name: Deborah Kurata
+      twitter: DeborahKurata
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/LaIAHOSKHCQ
+  description: |-
+    The Router can do so much more than just route the user between the views of our application. In this intermediate-level presentation, we’ll explore many facets of routing in an Angular application, and cover a lot of awesome yet practical techniques.
+
+- title: Good Action Hygiene with NgRx
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom A/D
+  authors:
+    - name: Mike Ryan
+      twitter: MikeRyanDev
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/JmnsEvoy-gY
+  description: |-
+    The Action is the building block of all NgRx libraries. We use actions to describe events that arise in our applications by including enough information in an action to make a state transition or perform a side effect. Learn how to write clean actions and avoid common anti-patterns.
+
+- title: Complex Forms Build Character
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom B
+  authors:
+    - name: Natasha Carlyon
+      twitter: nscarlyon
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/0mbFyp0AmUM
+  description: |-
+    It often starts simply. You add an input field for a name, perhaps you add some validations for a password, and then suddenly, you’re grappling with nested forms and dynamic data. To create a smooth user experience, the form spans over multiple pages, where the user can save/reset her progress at each step. This simple form has transformed into a formidable beast. For this presentation, I will start with a simple, prepared reactive form that allows users to create a role-playing character similar to ones you would find in Dungeons and Dragons. The form will slowly grow in complexity with a nested form and dynamic data. In order to get the most out of this talk, you should have basic familiarity with Angular’s reactive forms, HTTP calls, and the D&D 5e compendium (I’m kidding on the last one). As long as you know how to write a reactive form with an input field and a submit button that makes a post request upon being clicked, then you should be fine. Participants may also choose to clone my github repo, so they may explore and experiment with the character form. May it serve as a reference for future form-building endeavors or perhaps as inspiration for a revolutionary role-playing game. Just send me 15% royalties.
+
+- title: Build a look alike engine with machine learning and Angular
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom C
+  authors:
+    - name: Simona Cotin
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/f7S1-OpigFY
+  description: |-
+    You’ve always thought you looked like Marty McFly but your friends say you look like Yoda, take the 80s doppleganger challenge and find out for sure! In this talk, I’ll show how to use a little bit of machine learning and serverless tech to build an application that can match faces to their dopplegangers. All written with Angular and Node!
+
+- title: Ngrx Complex Form
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom A/D
+  authors:
+    - name: Jesse Sanders
+      twitter: JesseS_BrieBug
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/kPkTXdToYV0
+  description: |-
+    This talk is a deep dive into how to handle complex forms using ngrx. We will start out with several use cases in our sample app that typically cause problems such as race conditions, dynamic forms, and duplicated data. This presentation is a combination of slides explaining use cases, core concepts, and possible solutions. I will be moving between the slides and live coding to show the problem conditions and then fix the problem by restructuring or modifying the code. The reason I believe this is very important to the community is because we have lots of talks/examples at the 50,000 ft level, but few examples of how to handle real-world problems. Everyone wants to learn more about ngrx and hw to implement complex forms while understanding how to avoid some of the common pitfalls we often run into.
+
+- title: Angular Performance Workshop
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom B
+  authors:
+    - name: Manfred Steyer
+      twitter: ManfredSteyer
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ZI_MC3YdSo4
+  description: |-
+    Angular is impressively fast. However, in some situations, for instance, when building complex enterprise applications, this is insufficient. In these cases, Angular provides several approaches to dramatically increasing performance. This workshop shows how to use these possibilities by means of a systematically optimized application. Attendees learn how to leverage Ahead-of-Time Compilation (AOT), Tree Shaking, the Build Optimizer, whitespace removal and Lazy Loading to improve the startup performance of their own applications dramatically. The OnPush optimization strategy to speed up data binding performance in your solutions is also demonstrated. Furthermore, Service Worker for caching and instant loading is covered, as well as Server-Side Rendering to improve the perceived loading time.
+
+- title: Use the Custom Operator Force; Become an RxJS Jedi
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom C
+  authors:
+    - name: Ryan Chenkie
+      twitter: ryanchenkie
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/UaTLlcS9klU
+  description: |-
+    Let’s face it, doing advanced work with RxJS is just plain tough. Sure, some of the simpler operators are easy to grok, but once we get beyond simple maps and subscribes, it doesn’t take much to just give up and go back to where things are comfortable. This is a shame because there’s a whole world of streamy goodness that, for many developers, is just around the corner. Writing advanced RxJS requires that we know its operators. There’s arguably no better way to get to know them than by writing our very own. In this workshop we’ll dig into RxJS by crafting our own operators. This will be hugely beneficial for you because, to do so, we’ll really need to get to know some of the more advanced native operators. If you want to become an RxJS Jedi by getting to know RxJS inside and out, this workshop is for you.
+
+- title: Writing A Custom Angular Build
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Murano
+  authors:
+    - name: Steve Belovarich
+      twitter: iplayitofflegit
+      github: steveblue
+      website:
+  slides:
+  videos:
+    - https://youtu.be/BULrf2pkfJY
+  description: |-
+    Do you want to have full control over your Angular app? Maybe the CLI isn’t a good fit for your project? Are you pulling your hair out waiting for Webpack to bundle? Then this workshop may be for you! This workshop is from 12 – 1:50 pm. In this session, you will learn how to architect a custom Angular build. We will write a NodeJS script that AOT compiles and bundles an app. You’ll learn how to use the AOT compiler for development and production and see the benefits of optimizing with Closure Compiler. By the end of the workshop, you will have the tools to be able to implement your own custom build script for Angular. Bring a laptop with NodeJS > 8.0.0 && < 9.0.0 and the latest Java SE JDK installed to get the most out of this workshop. You will not need to know any Java! We are writing our build scripts with NodeJS. Java SE JDK is necessary to run Closure Compiler in the last step of the workshop and if you don’t have it installed, no worries you’ll still learn a lot about writing a custom build! For the best experience, clone the repository and install the necessary dependencies prior to the workshop. There will be time, in the beginning, to catch up if you haven’t cloned the repo yet.
+
+- title: Reducing the Boilerplate with NgRx
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom A/D
+  authors:
+    - name: Brandon Roberts
+      twitter: brandontroberts
+      github:
+      website:
+    - name: Mike Ryan
+      twitter: MikeRyanDev
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/t3jx0EC-Y3c
+  description: |-
+    Action interfaces, action factories, action union types, state interfaces, reducer functions, selectors, effects, and more. Oh the boilerplate! NgRx solves real problems when building reactive Angular apps at the cost of multiplying your file count by 100. Learn how to effectively reduce the boilerplate without sacrificing flexibility.
+
+- title: Streamlining the AngularJS-to-Angular migration
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Murano
+  authors:
+    - name: Hanyu Xiao
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/UkR78gNBKdc
+  description: |-
+    Many organizations that have AngularJS applications in production face a tough choice: stay put and miss all the advances that Angular has to offer, or start the migration journey that is often no easier than rewriting the entire application. While there are online documentation and tutorials that describe the general migration process, they are often too high level to be practical, or too tedious to follow with multiple manual steps. Migrating a large code base requires a lot of resources and commitment, and doing everything manually is a non-starter. This is when tooling can be a big help. This talk will walk through a migration example, showcasing Angular Copilot, an Electron based tool for teams to plan, manage, and automate the migration process.
+
+- title: Advancing Unit Tests
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom B
+  authors:
+    - name: Courtney Christian
+      twitter: BettieRub
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/OaXDTrvB6o0
+  description: |-
+    This fun and informative talk would discuss and demonstrate writing unit tests for components which utilize the more advanced Angular API’s such as OnPush, ContentChildren/ViewChildren, etc. The talk would include an example/demo for unit testing onPush change detection components and other advanced components.
+
+- title: 'NgRx Selectors: How to stop worrying about your Store structure'
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom A/D
+  authors:
+    - name: David East
+      twitter: _davideast
+      github:
+      website:
+    - name: Todd Motto
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Y4McLi9scfc
+  description: |-
+    We’ve all been there. Staring at VSCode. Paralyzed by one agonizing question. How do I structure my NgRx Store?! Should I add a new property for “totalLength”? Should I really store the width of this re-sized div? Is a “leftPanel” object really a good idea? As your application gets bigger, your store can turn unwieldy. What was once a simple array of todos is now a junk drawer of values. Adding just one property can break hundreds of tests. Dispatching new actions can cause needlessly trigger Change Detection, degrading performance, and creating some serious jank. New team members creating new Feature Modules can cause collisions with the store structure. This frustration is enough to make you `rm -rf` and go home. Fear not. There’s an easy solution: selectors. Selectors are the best-kept secret in NgRx. They allow you compute state from your store, which acts like a view model. This removes computed properties from the store and into their rightful place: a simple function. Selectors are easily tested, memoized for performance, and compose-able for re-usability. Selectors are easy to create and work well with teams. We’ve used them in high traffic production apps like the Firebase Console. Grab a seat. By the end of this talk you’ll shake any Store structure fears you once had and move forward boldly with selectors.
+
+- title: Global Thermonuclear Templates
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom C
+  authors:
+    - name: Mike Brocchi
+      twitter: Brocco
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/y6uSJ4a5sMA
+  description: |-
+    Imagine being able to wield incredible power directly from your computer that will make your life as a developer easier. The Angular CLI creates a lot of files for you, but what if you wanted to tweak what gets generated or generate something completely different?
+
+- title: Firebase/Cloud Functions/ML Workshop
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Murano
+  authors:
+    - name: Jason Dobry
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/CiBGZOu0ld8
+  description: |-
+    In this workshop, you’ll learn how to use the Firebase SDK for Google Cloud Functions to improve an AngularFire Chat Web app and how to use Cloud Functions to send notifications to users of the Chat app, use the Google Cloud Vision API to process images, and use the Google Natural Language API to process chat messages.
+
+- title: Building awesome components with the power of the Angular Component Dev Kit
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom B
+  authors:
+    - name: Elad Bezalel
+      twitter: Elad_Bezalel
+      github:
+      website:
+    - name: Kristiyan Kostadinov
+      twitter: _crisbeto
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ngyEpcwkLW0
+  description: |-
+    The Component Dev Kit is a collection of robust, well-tested, versatile and performant APIs that 7 are the foundation of the Angular Material component library. It is written and maintained by the Material team and is intended to be a tool for building everything from small, one-off components, to complex UI libraries that are shared across teams and products. The CDK abstracts away all the complexities around areas such as content projection, positioning, accessibility, directionality, selection, and gestures, allowing you to write components that look great and behave consistently across devices.In this workshop we’ll go through the available APIs, as well as hands-on examples of how you can leverage the CDK in your own projects to build components like dialogs, form controls, menus, tooltips and much more, without having to re-invent the wheel.
+
+- title: Just Another Marble Monday – Unit Testing NGRX/RxJS w/Marbles
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom A/D
+  authors:
+    - name: Sam Brennan
+      twitter: thelittlestdev
+      github:
+      website:
+    - name: Keith Stewart
+      twitter: TheKeithStewart
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/dwDtMs4mN48
+  description: |-
+    In this super fun interactive workshop, Keith and Sam will teach participants how to write unit tests for RxJS and ngrx effects. Using a simple clone of Tour of Heroes, we will lead participants through building a new feature (80’s themed dance offs!!!) with test driven development. Using jasmine-marbles with hot and cold observables, we will show how easy it is to write tests for RxJS, ngrx effects, and more. We’ll cover marble syntax, mocks and spies, and race conditions, ending up with easy to read marble tests.
+
+- title: Implementing advanced DOM manipulation scenarios
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom C
+  authors:
+    - name: Maxim NgWizard Koretskyi
+      twitter: maxim_koretskyi
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/vz9cNCkaPsY
+  description: |-
+    Do you know all the tools Angular gives you to work with DOM? You may have heard about the view container or even worked with some of its API but what about other UI abstractions like element and template references? In this workshop, we’ll implement a couple of advanced DOM manipulation scenarios requiring an extensive knowledge of ViewContainerRef API. I’ll also describe the implications and show examples of working directly with DOM bypassing Angular’s view layer. Along the way, we’ll explore the fundamental building block used internally by the framework to represent UI, which is View, and see what role it plays when working with a component’s view. By the end of the workshop, you’ll have a coherent mental model for view layer in Angular which will enable you to efficiently and correctly implement complex DOM manipulation scenarios.
+
+- title: Hands-on Full-Stack development with Nx and Bazel
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Murano
+  authors:
+    - name: Alex Eagle
+      twitter:
+      github:
+      website:
+    - name: Torgeir Helgevold
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/1KDDIhcQORM
+  description: |-
+    Learn how the Bazel build tool helps you be productive working across your Angular frontend and your backend server code. We’ll describe the tool briefly, then do some real coding in an Angular app and a backend application in watch mode. We recommend installing Bazel before the workshop to ensure you’ll be able to follow along on your computer.
+
+- title: NgRx Mobile with Ionic
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom A/D
+  authors:
+    - name: Jesse Sanders
+      twitter: JesseS_BrieBug
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/KgUuiI_HVII
+  description: |-
+    Creating mobile applications has never been easier using frameworks like Angular and Ionic together.  You can quickly create a new application, install cordova plugins, and begin to create the newest and hottest application for the App Store.  But how do we manage the complexity when our mobile application grows, data slows, race conditions occur, and we need to get it under control.  NgRx is a great solution for mobile applications to help you solve these issues.  We will be showing you step-by-step how to introduce NgRx into your mobile application, avoid common pitfalls, and teach you best practices.  By the end of the talk you will have the tools and knowledge you need to tackle your next mobile project with NgRx.
+
+- title: “Containerizing” Angular with Docker
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom B
+  authors:
+    - name: Dan Wahlin
+      twitter: DanWahlin
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/cLT7eUWKZpg
+  description: |-
+    Interested in getting your Angular application on a real production server such as nginx or others? In this session, Dan Wahlin will show how (and why) to “containerize” your Angular apps and move them to an on-premise server or to the cloud using Docker and other tools. Learn why containers are all the rage these days, learn about Docker Community Edition, key Angular CLI features you’ll want to know about when using Docker containers and volumes, Dockerfiles, Docker Compose, working with images/containers on your machine or in the cloud and more!
+
+- title: RXJS OBSERVABLES IN ANGULAR
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom A/D
+  authors:
+    - name: Sander Elias
+      twitter: esosanderelias
+      github:
+      website:
+    - name: Ward Bell
+      twitter: wardbell
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/q--U25yPTrA
+  description: |-
+    Client web applications are rich in events. Button clicks, keystrokes, and mouse moves are events. The data returned from an HTTP request arrives as an event. App components can send and receive messages through an event bus. Every page navigation is an event. Animations emit start and stop events. Events are everywhere. RxJS Observables are the preferred way to manage events in Angular applications and many Angular APIs return RxJS Observables. In this session, I’m going into the why you need to unsubscribe on some observable, and not on others. I’m going into detail and will explain it’s magic. This session covers the basics of RxJS observables for Angular developers. You’ll learn how to work with Angular observable APIs, which RxJS operators you should know, and how to write your own observable APIs.
+
+- title: Deep dive into content projection
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom C
+  authors:
+    - name: Eudes Petonnet
+      twitter: EudesPV
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/PTwKhxLZ3jI
+  description: |-
+    To write reusable components in Angular, you’ll need to leverage content projection at one point or another. Interested? Just go read the do… Oops. While we’re waiting for the documentation on content projection to be ready, come to this talk to learn everything you want to know about content projection, and then some more that you didn’t know you wanted to know. We’ll go over the different options and hidden feature, then spend some time understanding the lifecycle of projected components.
+
+- title: 'Protractor: A New Hope'
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom C
+  authors:
+    - name: Michael Giambalvo
+      twitter: heathkit
+      github:
+      website:
+    - name: Craig Nishina
+      twitter: cnishina
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/6aPfHrSl0Qk
+  description: |-
+    It is a dark time for Angular developers. Although unit testing has uncovered most use cases for components and services, hidden deep across your repository remain untested workflows. But there’s a new hope – a trilogy of testing tools that will save your application from unexpected bugs. We’ll demonstrate how to write better Protractor tests by debugging with Chrome Devtools, visualizing WebDriver actions with Highlight Delay, and writing screenshot-based tests.
+
+- title: 'How I love being ejected: Customizing your Angular build with Bazel'
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom C
+  authors:
+    - name: Greg Magolan
+      twitter: gregmagolan
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ieRJwFGWEOM
+  description: |-
+    This talk will introduce how and why to build your Angular application with Bazel.  Bazel lets you have nearly zero configuration in your build toolchain by composing your build with the building blocks of a handful of rules.  Learn how to setup and build an Angular application with Bazel by defining what to build without having to configure how to built it.  Use just a handful of Bazel rules to completely customize your build with nearly zero configuration. Build your Angular application the way Google does.
+
+- title: Using StackBlitz & Angular for Rapid App Prototyping
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-19
+  room: Grand Ballroom B
+  authors:
+    - name: Eric Simons
+      twitter: ericsimons40
+      github:
+      website:
+    - name: Albert Pai
+      twitter: iamalbertpai
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/EBzoTnX6LzU
+  description: |-
+    In this session we’ll be demonstrating Angular specific features in StackBlitz that take you from “idea” to fully fledged prototype at lightning speed ⚡
+
+- title: Day 3 Keynote
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-20
+  room: Grand Ballroom
+  authors:
+    - name: Rob Wormald
+      twitter: robwormald
+      github:
+      website:
+    - name: Stephen Fluin
+      twitter: stephenfluin
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/N15ie0cGuB0
+  description: |-
+
+- title: Ready for Readable Code?
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-20
+  room: Grand Ballroom
+  authors:
+    - name: John Papa
+      twitter: John_Papa
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/56mETnrByBM
+  description: |-
+    Can you read the code you wrote today, last week, last year? The positive impact authoring readable code can have on your career can be enormous. We spend far more time reading code than writing it. So how can we turn this to our benefit? We’ll explore actionable techniques that will enable you to craft code that lives longer and is easier to maintain. Learn how to make Readable Code by using some of the methods such as separation of concerns, above the fold, the five-second rule, consequential commenting, contextual clarity, and many more that can improve your code right away! Is your code readable?
+
+- title: The magic of template reference variables
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-20
+  room: Grand Ballroom
+  authors:
+    - name: Alain Chautard
+      twitter: AlainChautard
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/wJwvmuK4tQw
+  description: |-
+    Template reference variables are a little gem that allows getting a lot of nice things done with Angular. Ever wondered what’s hidden behind the syntax #form=”ngForm”? Now is the time to see what these variables are all about.
+
+- title: Angular Material’s Trees
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-20
+  room: Grand Ballroom
+  authors:
+    - name: Tina Gao
+      twitter: tinayuangao
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/s0Vy3sLbeyA
+  description: |-
+    One of the top requests for Angular Material team has been to represent trees of data. We’re now introducing new Tree Components in Angular Material and the CDK. We’ll dig into what’s available, provide insights into how they were built, and provide a tour of how to use them.
+
+- title: Let’s Build A Form Around It
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-20
+  room: Grand Ballroom
+  authors:
+    - name: Sani Yusuf
+      twitter: saniyusuf
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/7ZbVSewN21A
+  description: |-
+    Reactive Forms are a mainstay in the Angular ecosystem yet a lot of developers limit their usage to just Login pages or traditional input collection. In this talk, I will showcase how you can take advantage of the full power of Reactive Forms to build some really powerful state-driven solutions. This talked will be based on a real-world personal experience of building complex data-driven healthcare solutions with Reactive Forms. I will also showcase some really common use cases in a Lot of angular applications that may not be obvious for the application of Reactive Forms. We will explore the hierarchy of Reactive Form Controls and showcase some smart ways to implement custom validation inside of your Angular application. The main aim of this talk is to enable users to be aware of what is at their disposal and how they can take advantage of the full power of Reactive Forms.
+
+- title: Angular at Large Organizations
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-20
+  room: Grand Ballroom
+  authors:
+    - name: Victor Savkin
+      twitter: victorsavkin
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/piQ0EZhtus0
+  description: |-
+    Small teams can often get by with informal, ad-hoc dev processes. Large organizations cannot. Large organizations have to rely on tools and automation, which is one of Angular’s biggest strengths. In this talk Victor Savkin will share his experience with helping organizations with hundreds Angular engineers use the Angular platform the right way.
+
+- title: Introducing RxJS6!
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-20
+  room: Grand Ballroom
+  authors:
+    - name: Ben Lesh
+      twitter: BenLesh
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/JCXZhe6KsxQ
+  description: |-
+    Learn what’s new in RxJS 6, what’s changed, and how the RxJS Team and the Angular Team cooperated to provide backward compatibility tools to make your upgrade smoother.
+
+- title: Strategies for Server Side Rendering Angular Applications
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-20
+  room: Grand Ballroom
+  authors:
+    - name: Vikram Subramanian
+      twitter: vikerman
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/-8bObydfINA
+  description: |-
+    Different Angular Applications have different needs for Server Side Rendering. A content heavy site might require full pre-rendering. An application with more dynamic content might be interested in only pre-prendering the App Shell. In this talk we will discuss strategies for server side rendering for these extremes and everything in between.
+
+- title: Angular for Designers
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-20
+  room: Grand Ballroom
+  authors:
+    - name: Stephen Fluin
+      twitter: stephenfluin
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/LP-fNM8OITI
+  description: |-
+    The Angular team wants to make Angular great for designers, and to empower designers and developers to collaborate better. Get a sneak peak about our early plans and hear about our vision for the future.
+
+- title: Adventures in Universal and Zone.js
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-20
+  room: Grand Ballroom
+  authors:
+    - name: James Daniels
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/11aHc2VqI6g
+  description: |-
+    Getting Angular Universal working in your application (or supported in your library) and ironing out your Zone.js issues can be a beast. Follow the journey of the AngularFire maintainers adding Universal support to their popular library. Learn some tips, tricks, and hopefully have some laughs as we continue to define best practices for @next and beyond.
+
+- title: Angular Service Workers & Cows — a love story
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-20
+  room: Grand Ballroom
+  authors:
+    - name: Alyssa Nicoll
+      twitter: AlyssaNicoll
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/K6KJOzLUaEs
+  description: |-
+    (In deep-theatre-guy voice) In a world, where Internet speeds can reach up to 6 megabits per second and cows reign supreme, one developer stands alone to discover the simplest way to cache EVERYTHING! Join her on this epic journey fraught with lag and peril where she’ll battle config files and caching external assets, all the while dealing with the conflict of freshness vs cache-first styles looming ominously over her every move! Will her love for cows be forever destroyed by slow network? Or will she embrace the challenge and overcome the lag with service worker power?! Find out, at ng-conf 2018’s talk “Service Workers & Cows — a love story”.
+
+- title: Angular Panel
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-20
+  room: Grand Ballroom
+  authors:
+    - name: Mike Brocchi
+      twitter: Brocco
+      github:
+      website:
+    - name: Pete Bacon Darwin
+      twitter: petebd
+      github:
+      website:
+    - name: Alex Eagle
+      twitter:
+      github:
+      website:
+    - name: Jeremy Elbourn
+      twitter: jelbourn
+      github:
+      website:
+    - name: Kara Erickson
+      twitter: karaforthewin
+      github:
+      website:
+    - name: Stephen Fluin
+      twitter: stephenfluin
+      github:
+      website:
+    - name: Tina Gao
+      twitter: tinayuangao
+      github:
+      website:
+    - name: Brad Green
+      twitter: bradlygreen
+      github:
+      website:
+    - name: Miško Hevery
+      twitter: mhevery
+      github:
+      website:
+    - name: George Kalpakas
+      twitter: gkalpakas
+      github:
+      website:
+    - name: Hans Larsen
+      twitter: hanslatwork
+      github:
+      website:
+    - name: Ben Lesh
+      twitter: BenLesh
+      github:
+      website:
+    - name: Greg Magolan
+      twitter: gregmagolan
+      github:
+      website:
+    - name: Igor Minar
+      twitter: IgorMinar
+      github:
+      website:
+    - name: Manu Murthy
+      twitter:
+      github:
+      website:
+    - name: Yi Qi
+      twitter:
+      github:
+      website:
+    - name: Filipe Silva
+      twitter:
+      github:
+      website:
+    - name: Vikram Subramanian
+      twitter: vikerman
+      github:
+      website:
+    - name: Rob Wormald
+      twitter: robwormald
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/mMoWYiv5ofc
+  description: |-
+    ng-conf is a two day, single track conference focused on delivering the highest quality training in the Angular JavaScript framework. 1500+ developers from across the country will converge on beautiful Salt Lake City, UT to participate in training sessions by the Google Angular team, and other Angular experts. In addition to the invaluable training, ng-conf will deliver a premier conference experience for attendees, providing opportunities to network with other developers, relax at social events, and engage in some of the unique entertainment opportunities available in Utah.
