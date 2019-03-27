@@ -258,6 +258,19 @@
   description: |-
     Started in 2010, London HalfStack has events at least once a month to discuss all things interesting in the desktop and mobile web world. The format includes meetups, panels, and conferences, and always a pub after each event.For seven years, we've had regular JavaScript meetup events. And then we spend time discussing JavaScript at a pub and/or CodeNode. For the fourth time, we're flipping this around and bringing the talks to a pub in the Shoreditch area.Talks will include a variety of modern front-end development topics (2017's conference covered ES6, TypeScript, frameworks, WebGL, web audio/video, WebVR, speech recognition, JS poetry, and much more) from leading speakers based primarily in London. The Call for Papers will be open from March through mid July. We will let all potential speakers know our answer by mid-August.
 
+- id: 2018-12-06-ng-be-2018
+  name: NG-BE 2018
+  url: https://ng-be.org/
+  status: complete
+  date:
+    from: 2018-12-06
+    to: 2018-12-07
+  location:
+    country: Belgium
+    city: Ghent
+  description: |-
+    NG-BE 2018 is a 2-day event in Ghent, Belgium, that brings together Angular developers and experts from all over the world to share ideas, news and opinions about Angular.
+
 - id: 2017-12-10-holyjs-2017
   name: HolyJS 2017
   url: https://2017.holyjs-moscow.ru/
