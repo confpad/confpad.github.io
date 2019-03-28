@@ -218,7 +218,6 @@
     - https://youtu.be/JlY8jXw7eZY
   description: |-
 
-
 - title: 'When small is better: Brotli compression in a real case'
   lang: en
   type: lightning
@@ -235,7 +234,6 @@
     - https://youtu.be/sB1R4NHp4MU
   description: |-
 
-
 - title: To Vue or not Vue, that is the question
   lang: en
   type: lightning
@@ -251,7 +249,6 @@
   videos:
     - https://youtu.be/xprPOPZR2Vg
   description: |-
-
 
 - title: '@angular/cli to install 3rd-party libraries'
   lang: en
