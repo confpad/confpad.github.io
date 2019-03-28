@@ -245,6 +245,19 @@
   description: |-
     ReactiveConf2017 took us to a whole new dimension! Two conference days on two stages and one festival day made ReactiveConf 2017 the most exciting conference in this solar system and beyond. We had 24 main stage talks, 8 free workshops, inspirational talks and many more.
 
+- id: 2017-10-26-nodeconfar-2017
+  name: NodeConfAR 2017
+  url: https://2017.nodeconf.com.ar/
+  status: complete
+  date:
+    from: 2017-10-26
+    to: 2017-10-28
+  location:
+    country: Argentina
+    city: Buenos Aires
+  description: |-
+    Argentina is among the first international Node.js conferences taking place in Latin American territory, and a not-for-profit community effort to push Node.js forward in Argentina and Latin America as a whole. This year’s conference will be a three–day event in sunny Buenos Aires, Argentina, held during October 26th, 27th & 28th. Both action-packed days will be comprised of internationally acclaimed, regional, and local speakers. We are expecting Noders, JavaScripters, front-enders, and other programmers from all over the world. Our topmost concern is to guarantee the most enjoyable experience to our attendees, while providing a safe and welcoming environment for everyone.
+
 - id: 2017-11-17-half-stack-2017
   name: Half Stack 2017
   url: https://halfstackconf.com/halfstackconf2017.html
