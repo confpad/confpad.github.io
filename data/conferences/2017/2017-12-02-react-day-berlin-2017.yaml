@@ -1,0 +1,271 @@
+- title: THE POWER OF INTERPOLATION
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Mike Grabowski
+      twitter: grabbou
+      github: grabbou
+      website:
+  slides:
+  videos:
+    - https://youtu.be/UHaQpZjGnwk
+  description: |-
+    One of the biggest benefits when choosing React Native is its declarative nature. Instead of laying out elements on screen manually, we tell React how our interface should look like for a given state. That, combined with React Native taking care of rendering, allows us to write things that would be hard or even impossible otherwise. One of such things are animations. Historically, we used to write them in an imperative and stateful manner. By design, these are hard to debug and - most importantly compose. In this talk we will take a look at writing animations in React Native by using Animated module.
+
+- title: KEEP YOUR SANITY WITH REDUX SAGAS
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Tyler Clark
+      twitter: iamtylerwclark
+      github: twclark0
+      website:
+  slides:
+  videos:
+    - https://youtu.be/UnNLJvHKfSY
+  description: |-
+    Redux is a strict framework. Whether you view that as a pro or a con, handling async actions can sometimes be a pain. Especially if you are using middleware such as Redux Thunk and have to chain promises. As an application grows, it's difficult to maintain and continuously test these actions. By the use of the ES6 generator function, Redux Sagas break up async actions into synchronous events. This makes it easier to test, chain actions that depend on the result of each other, and deserialize promises.
+
+- title: WE NEED TO TALK ABOUT PREACT
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Sara Vieira
+      twitter: NikkitaFTW
+      github: SaraVieira
+      website:
+  slides:
+  videos:
+    - https://youtu.be/jqXRSvXWYf8
+  description: |-
+    I know many of you have heard about Preact and may have even played arround with it but have you seen it's true potential? In this talk we are going to have the needed discussion about Preact and why it's awesome.
+
+- title: DESIGNING WITH REACT
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Kristin Baumann
+      twitter: kristin_baumann
+      github: kristinbaumann
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ixIuMs3aDCI
+  description: |-
+    You can use React to develop web applications, native apps and many more awesome things. And since the launch of Airbnb’s react-sketchapp in April you can also write React components that render to a Sketch design file. In this talk, you’ll learn how react-sketchapp works and, with several examples, how you can use it to improve your design and development workflow.
+
+- title: BUILDING STORYBOOK
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Norbert de Langen
+      twitter: NorbertdeLangen
+      github: ndelangen
+      website:
+  slides:
+  videos:
+    - https://youtu.be/KROaHWgU9JY
+  description: |-
+    How do we maintain Storybook and support react, react-native, vue and angular and an addon-ecosystem. Get to know how are yarn, lerna, react, circleCI, redux, jest, all coming together to form the best living styleguide platform supporting react, react-native, vue and angular.
+
+- title: HUMANIZING YOUR DOCUMENTATION
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Carolyn Stransky
+      twitter: carolstran
+      github: carolstran
+      website:
+  slides:
+  videos:
+    - https://youtu.be/jY2xglypPkQ
+  description: |-
+    It’s no secret that people don’t usually read technical documentation for pleasure. Users often come to your docs when they are frustrated, disappointed and at their lowest. In this talk, we’ll discuss how the language we use affects our users and the first steps towards writing use case-driven, accessible docs.
+
+- title: DATA DRIVEN STYLING
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Oleg Slobodskoi
+      twitter: oleg008
+      github: kof
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Q_gpDqivgdw
+  description: |-
+    While all CSSinJS solutions try to improve API's for describing static styles, not many actually know how to solve dynamic styling. Let me show you how we can completely forget inline styles.
+
+- title: ADD POWERFUL COMPONENTS TO YOUR REACT APPS
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Olga Petrova
+      twitter: tyoushe
+      github: olga-petrova
+      website:
+  slides:
+  videos:
+    - https://youtu.be/OVHKTrCCPoM
+  description: |-
+    In this presentation, you will learn how you can add powerful components to your React apps. You can now utilize a grid, treegrid, pivot grid, calendar, charts, and other components in your React based apps with very little effort. Plus you can manage data and respond to events using React while rendering UI controls. Learn how you can build data-intensive, cross platform applications using React and powerful components from commercial libraries.
+
+- title: JEST & ENZYME COMPLEMENT EACH OTHER.
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Manjula Dube
+      twitter: manjula_dube
+      github: manjula91
+      website:
+  slides:
+  videos:
+    - https://youtu.be/X77LnVnfbJk
+  description: |-
+    I would talk about some myths on Jest & Enzyme. Moreover to stop the comparison of Jest and Enzyme. Instead would focus on how they can work together to test well your React Components. The talk would focus on "How Jest and Enzyme complement each other" and can help you test React components in a better way.
+
+- title: HOW WE REACT AT MICROSOFT TO-DO
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Alex Migutsky
+      twitter: mr_mig_by
+      github: mr-mig
+      website:
+  slides:
+  videos:
+    - https://youtu.be/CWxc3AYja1I
+  description: |-
+    Microsoft To-Do is built with ❤️ using React, Redux and some magic. Let's dive under the hood and see what practices we use to deliver real world production app to the wide audience.
+
+- title: UNIVERSAL REACT ON LAMBDA
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Pedro Visintin
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/_Q0syl02MVY
+  description: |-
+    Shall we serverless everything? Serving Universal React + Redux +etc from Lambda. We want to share our small experiment to move on serverless architecture with React.
+
+- title: AUGMENTED REALITY WITH REACT NATIVE — A MEDIUM WORTH TO BRIDGE?
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Dino Scheidt
+      twitter:
+      github: D1no
+      website:
+  slides:
+  videos:
+    - https://youtu.be/DOJdiYKslM0
+  description: |-
+    Since Apple and Google have introduced ARKit and ARCore respectively, the excitement for easy access to Augmented Reality (AR) on everyday mobile devices is exploding. So let’s take a look of how we can marry this new medium with React Native in the most efficient way. We head dive into AR by understanding our UX goals with an interactive AR stage demo (so bring your device!), identify implementation paths as well as existing and new libraries.
+
+- title: GRAPHQL - THE WHAT, HOW AND WHY
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Nikolas Burk
+      twitter: nikolasburk
+      github: nikolasburk
+      website:
+  slides:
+  videos:
+    - https://youtu.be/mTSG_hek7Ik
+  description: |-
+    GraphQL is riding the hype wave right now. Yet many developers don't understand how they could benefit from it or where it fits into their stack. I'll introduce core concepts and outline advantages of GraphQL so you can convince your manager and developer friends to use it in your next project.
+
+- title: REACT STATE MANAGEMENT IN A GRAPHQL ERA
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Kristijan Ristovski
+      twitter: thekitze
+      github: kitze
+      website:
+  slides:
+  videos:
+    - https://youtu.be/BCXne2Hb8wQ
+  description: |-
+    Now that GraphQL takes care of managing data in our apps, is an external state-management library even needed? Let's explore all the possibilities and compare the combinations of React, Apollo, Redux, MobX, and Next.js
+
+- title: 'BEYOND JAVASCRIPT: THE HIDDEN BENEFIT OF REACT NATIVE'
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Wojciech Ogrodowczyk
+      twitter: sharnik
+      github: sharnik
+      website:
+  slides:
+  videos:
+    - https://youtu.be/z8gda3Gc3Oo
+  description: |-
+    This will be a fast journey through delivering React Native applications with languages different from JS. We'll talk (and code!) in TypeScript, Clojure, OCaml, and Elm. But, most importantly, we'll talk about why this freedomt choose your programming language is so important.
+
+- title: A PRAGMATIST'S GUIDE TO REASONML
+  lang: en
+  type: regular
+  level:
+  time: 2017-12-02
+  room:
+  authors:
+    - name: Marcel Cutts
+      twitter: marcelcutts
+      github: marcelcutts
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ZKi87Bx4YNQ
+  description: |-
+    People in our community are bursting with excitement about ReasonML - but why is that, and what does it have to do with our beloved React? Is this something for hipster types only, or will we all be using it in a year's time? All great questions! Join me in surfing the hype wave for the answers and more! 🚀

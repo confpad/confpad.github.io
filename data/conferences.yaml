@@ -310,6 +310,19 @@
   description: |-
     Meet Angularians from all over the world - share knowledge. Hear top speakers from around the world. Learn about the present and future of Angular and its ecosystem, TypeScript, tools and much more.
 
+- id: 2017-12-02-react-day-berlin-2017
+  name: React Day Berlin 2017
+  url: https://reactday.berlin/2017/
+  status: complete
+  date:
+    from: 2017-12-02
+    to: 2017-12-02
+  location:
+    country: Germany
+    city: Berlin
+  description: |-
+    React Day Berlin is a brand new event in the city, the first of its kind - a full day conference for engineers working with the React technology stack. Careful balance of practical and visionary talks from renowned speakers make React Day a unique place to meet and learn from the most forward-thinking international community members, influencers and open source maintainers.
+
 - id: 2017-12-10-holyjs-2017
   name: HolyJS 2017
   url: https://2017.holyjs-moscow.ru/
