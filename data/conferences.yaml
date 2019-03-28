@@ -388,6 +388,19 @@
   description: |-
     1st annual Angular conference in Atlanta, GA focused on diversity in technology.
 
+- id: 2018-02-01-ng-europe-2018
+  name: ng-europe 2018
+  url: https://ngeurope.org/
+  status: complete
+  date:
+    from: 2018-02-01
+    to: 2018-02-02
+  location:
+    country: France
+    city: Paris
+  description: |-
+    ng-europe, the original European Angular conference, brings you the most awesome people from the Angular community. On top of great content, ng-europe also aims to be a great place for people to socialize, make new friends and meet old ones, learn through great workshops and amazing keynotes, share ideas and of course hack on Angular in the heart of the beautiful city of Paris.
+
 - id: 2018-02-07-smashing-conference-london-2018
   name: Smashing Conference London 2018
   url: https://smashingconf.com/
