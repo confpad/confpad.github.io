@@ -310,19 +310,6 @@
   description: |-
     Meet Angularians from all over the world - share knowledge. Hear top speakers from around the world. Learn about the present and future of Angular and its ecosystem, TypeScript, tools and much more.
 
-- id: 2018-12-06-ng-be-2018
-  name: NG-BE 2018
-  url: https://ng-be.org/
-  status: complete
-  date:
-    from: 2018-12-06
-    to: 2018-12-07
-  location:
-    country: Belgium
-    city: Ghent
-  description: |-
-    NG-BE 2018 is a 2-day event in Ghent, Belgium, that brings together Angular developers and experts from all over the world to share ideas, news and opinions about Angular.
-
 - id: 2017-12-10-holyjs-2017
   name: HolyJS 2017
   url: https://2017.holyjs-moscow.ru/
@@ -1386,6 +1373,19 @@
     city: London
   description: |-
     Experience the latest from Flutter, Google’s free and open source SDK for building high-quality native iOS and Android apps from a single codebase.  Flutter Live is a global celebration of Flutter.
+
+- id: 2018-12-06-ng-be-2018
+  name: NG-BE 2018
+  url: https://ng-be.org/
+  status: complete
+  date:
+    from: 2018-12-06
+    to: 2018-12-07
+  location:
+    country: Belgium
+    city: Ghent
+  description: |-
+    NG-BE 2018 is a 2-day event in Ghent, Belgium, that brings together Angular developers and experts from all over the world to share ideas, news and opinions about Angular.
 
 - id: 2019-01-09-ngatlanta-2019
   name: ngAtlanta 2019
