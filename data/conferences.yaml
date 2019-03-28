@@ -258,6 +258,19 @@
   description: |-
     Started in 2010, London HalfStack has events at least once a month to discuss all things interesting in the desktop and mobile web world. The format includes meetups, panels, and conferences, and always a pub after each event.For seven years, we've had regular JavaScript meetup events. And then we spend time discussing JavaScript at a pub and/or CodeNode. For the fourth time, we're flipping this around and bringing the talks to a pub in the Shoreditch area.Talks will include a variety of modern front-end development topics (2017's conference covered ES6, TypeScript, frameworks, WebGL, web audio/video, WebVR, speech recognition, JS poetry, and much more) from leading speakers based primarily in London. The Call for Papers will be open from March through mid July. We will let all potential speakers know our answer by mid-August.
 
+- id: 2017-11-21-ng-poland-2017
+  name: Ng-Poland 2017
+  url: https://ng-poland.pl/index2017.html
+  status: complete
+  date:
+    from: 2017-11-21
+    to: 2017-11-21
+  location:
+    country: Poland
+    city: Warsaw
+  description: |-
+    Meet Angularians from all over the world - share knowledge. Hear top speakers from around the world. Learn about the present and future of Angular and its ecosystem, TypeScript, tools and much more.
+
 - id: 2018-12-06-ng-be-2018
   name: NG-BE 2018
   url: https://ng-be.org/

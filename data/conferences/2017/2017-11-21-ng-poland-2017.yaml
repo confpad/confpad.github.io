@@ -1,0 +1,201 @@
+- title: Keynote - Understand NGRX by building a Store
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-21
+  room:
+  authors:
+    - name: Todd Motto
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/6Z-1v1UnoM8
+  description: |-
+    In this talk, we'll dive into the Redux paradigm for state management, and build our own Store piece by piece. By understanding Redux and how a Store is assembled, how reducers are composed and state is updated, you'll be able to hit the ground running with NGRX in no time.
+
+- title: High-Performance Applications with Angular
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-21
+  room:
+  authors:
+    - name: Nir Kaufman
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/UjXwskqSr9A
+  description: |-
+    It's time to boost our appellation performance! Through this session we will walkthrough the must have checklist of api's and techniques aimed for improving runtime performance and UX of our Angular application. Get ready for some practical tips that you can apply to your app right away!
+
+- title: Login and Access Control in Angular
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-21
+  room:
+  authors:
+    - name: Manfred Steyer
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/-OVucp-EqxA
+  description: |-
+    Few applications operate without some form of login and access control. But how to implement this requirement best with Angular? This session gives an answer by showing a lot of patterns and best practices. It shows how to leverage tokens, like JWT, to increase the flexibility as well as how to use standards like OAuth 2 and OpenId Connect for Single Sign on and integrating existing Identity Providers, like Active Directory. We also talk about social login, misunderstandings, and solutions in this area. Furthermore, you will see some security attacks and how to prevent them. Finally, the underrated and security relevant topic single sign out is addressed.
+
+- title: Understanding High Order Observables
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-21
+  room:
+  authors:
+    - name: Gerard Sans
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/R0mKU8XMF-w
+  description: |-
+    In this talk I will be covering High Order Observables and how to master them. These Observables emit other Observables and require specific operators. I will explain how RxJS Core developers deal with complex Observables orchestration and how you can use this knowledge to take your RxJS skills to new heights!
+
+- title: Sharing Code between Web and Native Apps with Angular and NativeScript.
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-21
+  room:
+  authors:
+    - name: Sebastian Witalec
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/aurn2Yna75Q
+  description: |-
+    NativeScript is a free and open source JavaScript framework for building native iOS and Android apps, add to it Angular 2 top it up with Electron and a whole new world of possibilities opens up. This beautiful combo allows us to share the code between the Web and, Mobile (both iOS and Android) apps all built on the common ground of Angular 2. Suddenly the division between the Web and Mobile developers disappears and everyone is simply a Developer like a one happy family. In this talk we will have a look what is possible from the code sharing point of perspective, how to set up your project and how to build your components to ensure maximum code sharing, but also we will look at what you shouldn’t be trying to share and how to handle the differences between various platforms.
+
+- title: Building Angular2 & Firebase application
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-21
+  room:
+  authors:
+    - name: Fáris Ismail
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/TsA6o4SfYf4
+  description: |-
+    See how fast & easy it is to build an angular app to authorize users using Gmail, Facebook, Twitter and Github. Use AngularFire2 for real-time backend to store and sync data from Firebase database. Later on, use Cloud Functions for Firebase to run backend code in response to events triggered in Firebase.
+
+- title: Angular 5 has arrived
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-21
+  room:
+  authors:
+    - name: Bartłomiej Narożnik
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/zcmLg9MiEFU
+  description: |-
+    Long waited version 5 of Angular is finally here. In my talk I reveal the most important changes implemented in this release trying to answer a question: How mature Angular framework is with new major version?
+
+- title: Separate your concerns with router's resolver
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-21
+  room:
+  authors:
+    - name: Filip Mamcarczyk
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/HSFEP_813RU
+  description: |-
+    'This code that requests data for my component looks beautiful in a constructor, I couldn't have done it better. It doesn't matter that user has to wait for the content to render or that I need to request that data in every single component.' - said no one ever. Route guards can save you a lot of headaches when you use them properly, so let's (re)solve some of the problems in components with dynamically loaded data.
+
+- title: 'Form of Art: Validation in Angular Forms'
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-21
+  room:
+  authors:
+    - name: Shmuela Jacobs
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/sNzhh8u2fyY
+  description: |-
+    The Angular teams puts a lot of effort for making front-end development easy and enjoyable for us. The Forms Module is a great example - simple to use, wide range of options, understandable API. Usually the biggest pain in forms is validation. But in Angular forms, this is one of the biggest strengths. In this talk Shmuela will show how to leverage the forms validation capabilities and write your own validation methods, to ensure your users get the most satisfying experience.
+
+- title: How to use Functional Programming with Angular and why it’s a good idea
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-21
+  room:
+  authors:
+    - name: Miłosz Piechocki
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/MFDfEgOaV9Q
+  description: |-
+    The rise of popularity of Functional Programming in the JavaScript community is a fact. Projects such as Redux, Immutable.js, lodash or Cycle.js are becoming more and more widely used and we can see the trend by looking at language features introduced in the ES6 standard (constants, arrow functions, destructuring). On the other hand, Angular framework does not seem to be deeply invested in Functional Programming. However, there are still many ways of embracing the power of FP in an Angular application. During my presentation I will discuss these ways and most importantly I will explain why it’s a good idea to have a closer look at Functional Programming in general.
+
+- title: Packages for Angular
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-21
+  room:
+  authors:
+    - name: Manfred Steyer
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/3fMTdm7k_d0
+  description: |-
+
+- title: A few words about task management
+  lang: en
+  type: regular
+  level:
+  time: 2017-11-21
+  room:
+  authors:
+    - name: Dariusz Kalbarczyk
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/UbbDIacNRuI
+  description: |-
