@@ -232,6 +232,19 @@
   description: |-
     JS Poland is a friendly conference where everyone should feel welcome, safe and comfortable to share ideas and engage in open discussion without threat of intimidation or public embarrassment.
 
+- id: 2017-06-22-pixel-pioneers-bristol-2017
+  name: Pixel Pioneers Bristol 2017
+  url: https://pixelpioneers.co/events/bristol-2017
+  status: complete
+  date:
+    from: 2017-06-22
+    to: 2017-06-22
+  location:
+    country: England
+    city: Bristol
+  description: |-
+    Pixel Pioneers Bristol is a one-day conference of practical and inspiring presentations, featuring some of the brightest international experts our industry has to offer. Also don't miss our side events for even more fun and networking!
+
 - id: 2017-07-10-chain-react-2017
   name: Chain React 2017
   url: https://infinite.red/ChainReactConf/2017

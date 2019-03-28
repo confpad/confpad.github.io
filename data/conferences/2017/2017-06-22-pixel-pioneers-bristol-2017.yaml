@@ -1,0 +1,135 @@
+- title: Evaluating Technology
+  lang: en
+  type: regular
+  level:
+  time: 2017-06-22
+  room:
+  authors:
+    - name: JEREMY KEITH
+      twitter: adactio
+      github:
+      website: http://adactio.com/
+  slides:
+  videos:
+    - https://youtu.be/K0GLVn3qGj8
+  description: |-
+    We work with technology every day. And every day it seems like there's more and more technology to understand: graphic design tools, build tools, frameworks and libraries, not to mention new HTML, CSS and JavaScript features landing in browsers. How should we best choose which technologies to invest our time in? When we decide to weigh up the technology choices that confront us, what are the best criteria for doing that? This talk will help you evaluate tools and technologies in a way that best benefits the people who use the websites that we are designing and developing. Let's take a look at some of the hottest new web technologies and together we will dig beneath the hype to find out whether they will really change life on the web for the better.
+
+- title: Email Code Can Be Cool, Honest
+  lang: en
+  type: regular
+  level:
+  time: 2017-06-22
+  room:
+  authors:
+    - name: MARK ROBBINS
+      twitter: M_J_Robbins
+      github:
+      website: http://www.rebelmail.com/
+  slides:
+  videos:
+    - https://youtu.be/qLUWR93TZj8
+  description: |-
+    Email code has often been thought of as outdated by the web community but in recent years there have been huge innovations and more and more developers are choosing to specialise in email code.  We'll look over some of the key differences between web and email code, then explore some of the more advanced techniques being used to simulate web functionality without JavaScript.
+
+- title: How to Present Ideas So That Your Client Will Listen
+  lang: en
+  type: regular
+  level:
+  time: 2017-06-22
+  room:
+  authors:
+    - name: TOBIAS AHLIN
+      twitter: tobiasahlin
+      github:
+      website: http://tobiasahlin.com/
+  slides:
+  videos:
+    - https://youtu.be/-IuuOPR0gw0
+  description: |-
+    Have you ever made something that you were truly proud of, only to have it shredded by a client? Maybe they wanted to make the logo bigger. Maybe they wanted to change everything. Maybe they didn’t even understand what problems you were so brilliantly solving. Most of us have been there, and most of us have experienced the uneasy silence after “This looks great, but…”. In this talk we’ll look at the science of making good decisions together, and practical ways of creating a delivery that will make your client listen.
+
+- title: What Can User Experience Learn from Service Design?
+  lang: en
+  type: regular
+  level:
+  time: 2017-06-22
+  room:
+  authors:
+    - name: LILY DART
+      twitter: lily_dart
+      github:
+      website: http://lilydart.com/
+  slides:
+  videos:
+    - https://youtu.be/7CdtDN1J0ok
+  description: |-
+    More and more organisations are turning to the holistic practices of service design to improve their service offering. Service design encompasses both how users experience a service, but also the internal processes and staff experiences that underpin them. So what can user experience learn from service design? During this talk Lily will highlight the similarities and differences between both methodologies, and take you through 3 simple ways your work can benefit from service design thinking.
+
+- title: UX, Psychology, and the Power of 100
+  lang: en
+  type: regular
+  level:
+  time: 2017-06-22
+  room:
+  authors:
+    - name: JOE LEECH
+      twitter: mrjoe
+      github:
+      website: http://mrjoe.uk/
+  slides:
+  videos:
+    - https://youtu.be/wvSNGuEbPzg
+  description: |-
+    What do an overnight 40% drop in road accidents, a night in on the sofa watching TV and a good night's sleep have to do with digital product design? Humans only have limited mental capacity and no-one is ever operating at 100%. We are all influenced by the world around us and by how our minds work. As designers we need to be able to understand this and design for it. The power of 100 is a powerful way to understand the modern world we are designing for. How your website or app will be used in real life and to design for how people live their lives today. Combining psychology theory and the latest in UX techniques, the power of 100 is a modern design framework that matches the modern complex world we and our users live in.
+
+- title: Automating Access to Development
+  lang: en
+  type: regular
+  level:
+  time: 2017-06-22
+  room:
+  authors:
+    - name: JESSICA ROSE
+      twitter: jesslynnrose
+      github:
+      website: http://jessica.tech/
+  slides:
+  videos:
+    - https://youtu.be/KqkmjQcuhhY
+  description: |-
+    It’s never been a better time for individual developers or small teams to work to get their ideas built and launched. Easy to access and affordable tooling, modern frameworks, shared infrastructure and educational materials have helped to drive this renaissance of development. But we can go further into making development accessible with limited resources through the automation of common tasks and processes. We’ll look at how automation is shaping how we’re building now and how automation could help shape the future of development.
+
+- title: Hacking the Visual Norm
+  lang: en
+  type: regular
+  level:
+  time: 2017-06-22
+  room:
+  authors:
+    - name: NADIEH BREMER
+      twitter: NadiehBremer
+      github:
+      website: http://www.visualcinnamon.com/
+  slides:
+  videos:
+    - https://youtu.be/4xH3F8iUmoY
+  description: |-
+    There are so many visualisation tools out there today, most with a pre-made set of charts. But trying to wrangle your data to fit (uncomfortably) into the default charts is not the right mindset. Adjust the visual to your data, not the other way around. You don't necessarily have to be a code wizard to let your creativity run free. Even with the defaults, you can become creative by using them in a different way, combining layouts or chart types to create something new, or even changing small pieces of code from existing visualisation frameworks. During this talk Nadieh will take you through several of her data visualisation projects, both from the business environment of her day job and the experiments made in her evenings. Hopefully, by the end you'll want to step outside of your "visualisation" comfort zone and create (custom) charts that best display the insights in the data.
+
+- title: Meaningful Motion in Design
+  lang: en
+  type: regular
+  level:
+  time: 2017-06-22
+  room:
+  authors:
+    - name: ADRIAN ZUMBRUNNEN
+      twitter: azumbrunnen_
+      github:
+      website: http://azumbrunnen.me/
+  slides:
+  videos:
+    - https://youtu.be/PynmLxNZYZw
+  description: |-
+    Animation is a crucial part of good micro-interaction design. How an interface evolves over time, defines how we understand it. Let's talk about how we can use motion in meaningful ways and enhance, rather than break the experience.
