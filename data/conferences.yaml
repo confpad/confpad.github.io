@@ -1231,6 +1231,19 @@
   description: |-
     Amongst the best events for the web community, with consistent balance of educational and inspirational talks, and perfect for the end of your year, getting you ready for the new year.#ffconf was on my must-go list as I have found it to be the best in terms of balancing inspiration talks vs more educational / useful , plus the nice atmosphere and overall quality.
 
+- id: 2018-11-08-performance-now-2018
+  name: performance.now() 2018
+  url: https://perfnow.nl/
+  status: complete
+  date:
+    from: 2018-11-08
+    to: 2018-11-09
+  location:
+    country: Netherlands
+    city: Amsterdam
+  description: |-
+    This is a single track conference with sixteen world-class speakers covering today’s most important web performance insights.
+
 - id: 2018-11-09-dotjs-2018
   name: dotJS 2018
   url: https://www.dotjs.io/
