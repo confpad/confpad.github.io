@@ -1,0 +1,254 @@
+- title: Vue 3.0 Updates
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-15
+  room:
+  authors:
+    - name: Evan You
+      twitter: youyuxi
+      github: yyx990803
+      website:
+  slides:
+  videos:
+    - https://youtu.be/8Hgt9HYaCDA
+  description: |-
+    Evan You gives you the lowdown on Vue 3, showing how it will be faster, smaller, more maintainable, easier to target native, and make your life easier. For a complete text version of this video see our blog post on Vue 3.0.
+
+- title: Vuetify, The Path to 2.0
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-15
+  room:
+  authors:
+    - name: John Leider
+      twitter: zeroskillz
+      github: johnleider
+      website:
+  slides:
+  videos:
+    - https://youtu.be/E-5QmZvsp6Q
+  description: |-
+    John Leider is the creator of Vutify, the component framework that utilizes Google’s Material Design Spec. In this talk John covers the new features and functionality that’s up and coming in Vuetify 2.0. Specifically, he’s looking to improve customization by making it easier to configure, using Material Design 2 custom themes, and allowing for the modification of your Vuetify settings from the Vue CLI UI. Vuetify 2 will improve performance through automatic tree shaking (or what they call “a-la-carte”), smaller bundle sizes, and optimizations across all device sizes. It will also be more accessible, with full RTL support, section 508 compliance, and following web content accessibility guidelines. The last is support, which they’ll do by releasing weekly patches, daily canary builds, long term support, and engaging community.
+
+- title: Visualizations using SVG, Canvas, and WebGL in Vue
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Chris Fritz
+      twitter: chrisvfritz
+      github: chrisvfritz
+      website:
+  slides:
+  videos:
+    - https://youtu.be/S9WKmeQcZjc
+  description: |-
+    It might not be obvious how to use Vue's reactive data with non-HTML web technologies, but it's easier than you might think. See how it's done, learn the tradeoffs of each technology, and gain tips to optimize performance. You'll be building stunning visualizations to impress clients and colleagues in less time than you think!
+
+- title: 'Vue and Vuex: The good, the bad and the ugly'
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Filipa Lacerda
+      twitter: FilipaLacerda
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/LVklxTbBPj4
+  description: |-
+    About two years ago GitLab added Vue to it's code stack. Although we're very happy with the match, not everything was smooth at first.
+
+- title: Light, lazy asynchronous patterns for Vue Apps
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Eduardo San Martin Morote
+      twitter: posva
+      github: posva
+      website:
+  slides:
+  videos:
+    - https://youtu.be/5nr8zLo9hAg
+  description: |-
+    We keep shipping more and more features in our Web applications, and as a result, we ship heavier apps that take more time to load. So we use bundlers like webpack to split our application code into multiple bundles and load them asynchronously. As a result, we end up having asynchronous code pretty much everywhere in our apps. This means that we need to handle unexpected errors that were otherwise impossible, like network ones, handle loading state and make sure the application is able to recover from these errors. During this talk, we will take a look at different patterns about handling asynchronous request correctly in Vue applications in order to make our Apps feel light, fast and reliable everywhere.
+
+- title: Nuxt.js 2.0
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Sebastien Chopin
+      twitter: Atinux
+      github: Atinux
+      website:
+  slides:
+  videos:
+    - https://youtu.be/-Z1hI4Wxblo
+  description: |-
+    Webpack 4, hooks, modules, ESM, we will look at how Nuxt.js has improved and see how fast we can create Vue.js application (Universal, SPA, PWA...). We will also look at server-side rendering caveats and the best practice to keep in mind.
+
+- title: Augmenting Shopify with Vue.js
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Trudy MacNabb
+      twitter: dear_trudence
+      github: deartrudence
+      website:
+  slides:
+  videos:
+    - https://youtu.be/SrP7S0TE5RA
+  description: |-
+    Vue.js is a great way to add new functionality to an existing Shopify theme. Integrating Vue.js can leverage the data available in Shopify to provide improved customer experiences and sales opportunities (with or without the use of an extra Shopify app).
+
+- title: A Token Walks Into a SPA
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Ignacio Anaya
+      twitter: ianaya89
+      github: ianaya89
+      website:
+  slides:
+  videos:
+    - https://youtu.be/MO7XdqbEH3A
+  description: |-
+    We often need to deal with token-based authentication when building Single Page Applications. There is a lot of fear, uncertainty and doubt when it comes to JWTs, so how can you be sure you are handling token-based auth properly? In this talk, I will cover best practices when it comes to implementing token-based authentication using JWTs in a Vue.js SPA.
+
+- title: Easy 3D Graphics with Vue
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Brian Jesse
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/_2au7E9k50Q
+  description: |-
+    Brian Jesse shows how easy it is to do 3D Graphics with Vue. Brian created Vue-BabylonJS, which uses the Babylon.js graphics engine which uses WebGL. In this talk, he shows how to get started with the library.
+
+- title: Design Systems in Vue
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Benjamin Michoux
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/TSahaYVC-bo
+  description: |-
+    Ben shows how RBC Wealth Management uses a design system to share code and keep the design consistent between many Vue applications. He mentions one key library to make this possible is sass-vars-loader, to use variables.
+
+- title: Enhancing Cart Customization with Vue
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Charles Ouellet
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/1fkmNbJnZ0I
+  description: |-
+    Charles is the co-founder of Snipcart, a custom e-commerce service for developers which recently went through a rewrite. In the talk Charles demonstrates a wonderful use-case for creating a custom rendering function for Vue, which allows developers using the Snipcart service to easily insert inject template code where needed. They also created Microcomponents to encapsulate UI logic and integrated Vue and Redux together.
+
+- title: Vue Instance & Communication with the Outside World
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Houmann Saffarzedeh
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/1eerDMtOREk
+  description: |-
+    At BlastMotion, the company Houmaan works for, they wanted to migrate to Vue, so they started using it in small pieces of their front-end. Unfortunately, that meant there were places where Vue.js had to talk to the outside world (their JQuery code). In this talk, Houmaan shows how to communicate events between Vue.js code and outside JavaScript.
+
+- title: nextTick Down to Business
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Tessa Park
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/qNgqTWpW7U0
+  description: |-
+    Tessa had a co-worker who was using nextTick but didn’t know why it made things work. In this talk, she seeks to discover and explain what nextTick does and where to use it.
+
+- title: The Performance Alphabet
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: Henri Helvetica
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/pkiTlsiTkOg
+  description: |-
+    Henri cares a great deal about web performance. In this talk, he leads you through his alphabet of performance tools and concepts that you should keep in mind to build performant applications.
+
+- title: Vuetify, The Path to 2.0
+  lang: en
+  type: regular
+  level:
+  time: 2018-11-16
+  room:
+  authors:
+    - name: John Leider
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/E-5QmZvsp6Q
+  description: |-
+    John Leider is the creator of Vutify, the component framework that utilizes Google’s Material Design Spec. In this talk John covers the new features and functionality that’s up and coming in Vuetify 2.0. Specifically, he’s looking to improve customization by making it easier to configure, using Material Design 2 custom themes, and allowing for the modification of your Vuetify settings from the Vue CLI UI. Vuetify 2 will improve performance through automatic tree shaking (or what they call “a-la-carte”), smaller bundle sizes, and optimizations across all device sizes. It will also be more accessible, with full RTL support, section 508 compliance, and following web content accessibility guidelines. The last is support, which they’ll do by releasing weekly patches, daily canary builds, long term support, and engaging community.
