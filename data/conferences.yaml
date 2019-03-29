@@ -479,6 +479,19 @@
   description: |-
     Performance matters. We’re thrilled to venture to London for our brand new conference fully dedicated to everything web performance. Dealing with ads, third-party scripts, A/B testing, HTTP/2, debugging, JAM stack, PWA, web fonts loading, memory/CPU perf, service workers. Plus lightning talks.
 
+- id: 2018-02-10-the-rolling-scopes-conference-2018
+  name: The Rolling Scopes Conference 2018
+  url: https://2018.conf.rollingscopes.com/
+  status: complete
+  date:
+    from: 2018-02-10
+    to: 2018-02-11
+  location:
+    country: Belarus
+    city: Minsk
+  description: |-
+    The largest JavaScript/Front-end conference in Belarus. Two full days of delicious content for amazing people of the front-end scene.
+
 - id: 2018-02-22-assertjs-2018
   name: Assert(js) 2018
   url: https://www.assertjs.com/
