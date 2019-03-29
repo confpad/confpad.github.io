@@ -765,6 +765,19 @@
   description: |-
     Our goal is to connect our valued speakers with our local community in the most fruitful way we can and provide Finnish hospitality to our conference visitors.We hope to create something unique by combining our northern traditions with speakers and visitors from all around the world.
 
+- id: 2018-04-26-uphill-conf-2018
+  name: Uphill Conf 2018
+  url: https://uphillconf.com/archive/2018/
+  status: complete
+  date:
+    from: 2018-04-26
+    to: 2018-04-27
+  location:
+    country: Switzerland
+    city: Bern
+  description: |-
+    The inspiring frontend conference on top of beautiful Mount Gurten.
+
 - id: 2018-04-28-zeit-day-2018
   name: ZEIT Day 2018
   url: https://zeit.co/day

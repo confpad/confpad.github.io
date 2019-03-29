@@ -1,0 +1,156 @@
+- title: Building a Performant Web Application in 2018
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-26
+  room:
+  authors:
+    - name: Jem Young
+      twitter: jemyoung
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/cd8pyX-droM
+  description: |-
+    It’s 2018 and with the explosion of people joining the internet for the first time, building a performant application is more crucial than ever before. Unfortunately with all the new tools, libraries, and measurements, it’s difficult to even know where to start when it comes to building an application from scratch. In this talk, we’re going to cover the steps and methodologies that the modern web developer should keep in mind when crafting code. From choosing the right libraries and understanding application architecture, all the way to debugging common performance issues, we’re going to learn how to build a modern, production ready web application.
+
+- title: Progressive Web Apps - the Angular way
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-26
+  room:
+  authors:
+    - name: Simona Cotin
+      twitter: simona_cotin
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/o_gGlNrbOIo
+  description: |-
+    Progressive web apps (PWA) are becoming an industry standard for building web applications. With reliability, speed and immersive user experience in mind, PWAs help you reach a broader audience. In this session we will take an existing web app and convert it into a PWA. First, we'll make our application installable to homescreen by adding a Web App Manifest json file. Next, we'll focus on making our app reliable by enabling service workers inside our application and caching resources. Throughout this session we'll also learn how to use Lighthouse to test the performance of our PWA.
+
+- title: Empathy-Driven Development
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-26
+  room:
+  authors:
+    - name: Marcy Sutton
+      twitter: marcysutton
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/wvGvJemoDHI
+  description: |-
+    Accessibility is often forgotten by JavaScript developers, even in 2018; as a result, people with disabilities get left behind. Fortunately, there are techniques and tools that can help kickstart the process. In this talk, you’ll learn hands-on skills for developing inclusively with JavaScript and hard-coding accessibility into your workflow.
+
+- title: Building component libraries using the Angular CDK
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-26
+  room:
+  authors:
+    - name: Austin McDaniel
+      twitter: amcdnl
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/ejh_UVci9FA
+  description: |-
+    Components libraries and frameworks like Bootstrap and Material are great ways to get your project off the ground quickly but using them can make your application look like the thousands others using them. Sometimes you want to break out from the norm and build something unique branded for your company, when using these pre-built solution its can be difficult to bend them to your will so you end up creating your own component library. I’ll walk through what you need to think about before taking this on, the things often overlooked and how to build high quality components using low-level frameworks like the Angular CDK.
+
+- title: Angular Elements
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-26
+  room:
+  authors:
+    - name: Pascal Precht
+      twitter: pascalprecht
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/sCTQvsAoTek
+  description: |-
+    In this talk we'll take a look at experimental APIs that enable us to generate native Web Components from Angular components.
+
+- title: Serverless functions and Vue.js
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-26
+  room:
+  authors:
+    - name: Sarah Drasner
+      twitter: sarah_edo
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/nqcq2_9H0vI
+  description: |-
+    Serverless is the most clickbaity title for an actually interesting thing. Despite the name, Serverless does not mean you’re not using a server, rather, the promise of Serverless is to no longer have to babysit a server. Scaling is done for you, you’re billed only for what you use. In this session, we’ll cover some key use cases for these functions within a Vue.js application: we’ll accept payments with stripe, we’ll gather geolocation data from Google Maps, and more! We’ll make it all work with Vue and Nuxt seamlessly, simplifying how to leverage this paradigm to be a workhorse for your application.
+
+- title: Two fundamental abstractions
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-26
+  room:
+  authors:
+    - name: Andre Staltz
+      twitter: andrestaltz
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/fdol03pcvMA
+  description: |-
+    JavaScript provides primitive types and means of processing those. However, those are not enough. Real data must somehow come into the program and data must somehow leave the program, for it to become useful to us. In this talk, we will see how two abstractions, () => T and T => (), are essential for data flow and to build up other abstractions, such as Iterator, Iterable, Observable, Scheduling, and others.
+
+- title: 'React + RxJS: A Match Made in Heaven'
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-26
+  room:
+  authors:
+    - name: John Lindquist
+      twitter: johnlindquist
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/voVU3G7Y39A
+  description: |-
+    React is amazing at quickly rendering your apps and structuring your app into components in a logical way leveraging the best features of JavaScript. RxJS is built specifically to manage the most difficult asynchronous tasks. Anything from too many button clicks, to network errors, or even cancelling outgoing requests. Combining the features of RxJS with React gives you the best of both worlds. RxJS can stream values into you React components and provide event handlers to give you complete control over how values and state flow through your app. John Lindquist will show how to connect React and RxJS together and provide demos on how to solve complex asynchronous situations.
+
+- title: Does Diversity Really Matter? - A Visual Journey Through Diversity
+  lang: en
+  type: regular
+  level:
+  time: 2018-04-26
+  room:
+  authors:
+    - name: Monika Blaser
+      twitter: mon_blaser
+      github:
+      website:
+    - name: Brigitte Hulliger
+      twitter: bhulliger
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/gLDtlEgxxPo
+  description: |-
+    This will be a visual journey through a controversial topic: gender diversity in technology. Based on our personal experiences working as rara avis software engineers we will be discussing well-known myths and spread cliches - both good and bad - that we had to deal with. Why is it so hard to have diverse teams, especially in tech and innovation? Is it because we are not able to improve diversity? Or because we don’t know how to improve it? Or maybe, nobody wants to improve it at all? We will analyze these questions and propose some actions to foster greater diversity, because we think, Diversity actually does matter!
