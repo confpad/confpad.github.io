@@ -1,0 +1,143 @@
+- title: What Service Workers can do
+  lang: it
+  type: regular
+  level:
+  time: 2018-04-20
+  room:
+  authors:
+    - name: Maurizio Mangione
+      twitter:
+      github:
+      website:
+  slides:
+    - https://docs.google.com/presentation/d/1I_DuNCCc5u_CIu5cgausA9-OeWBuwZiaJrpS3L31c70/edit#slide=id.p
+  videos:
+    - https://youtu.be/uvmBH65L5Ik
+  description: |-
+    Progressive Web Apps are a set of technologies that allow you to implement behaviors that were previously possible only in native mobile applications. The heart of the PWA are the Service Workers, the most interesting and revolutionary web platform feature from the AJAX call exit. During this talk we will discover the secrets of the Service Workers, what they can do and how to use them now in production.
+
+- title: Hitchhiker's guide to the "Universe"
+  lang: it
+  type: regular
+  level:
+  time: 2018-04-20
+  room:
+  authors:
+    - name: Giacomo Zinetti
+      twitter:
+      github:
+      website:
+  slides:
+    - https://universaljsday2018.slides.giko.it/
+  videos:
+    - https://youtu.be/Hv1CcXCvm7A
+  description: |-
+    We build a Universal App step by step with the least effort (and code) possible using Nextjs and React, we manage dynamic routing with Express, add a pinch of data with Apollo and GraphQL, we style it with CSS-in-JS and we document with Storybook. It seems complex but we will discover how the tools we have available help us to do everything in a simple and straightforward way.
+
+- title: 'Mobile App Development: First steps with NativeScript and Angular 2'
+  lang: it
+  type: regular
+  level:
+  time: 2018-04-20
+  room:
+  authors:
+    - name: Filippo Matteo Riggio
+      twitter:
+      github:
+      website:
+  slides:
+    - https://2018.universaljsday.com/download/nativescript-slides.pdf
+  videos:
+    - https://youtu.be/4BEj50xhwG4
+  description: |-
+    Through a practical example of a small app, we will discuss the basics of NativeScript on how to build an app, manage the UI, the database, the cache, etc.
+
+- title: Refactor of a hi-fi music player in JavaScript
+  lang: it
+  type: regular
+  level:
+  time: 2018-04-20
+  room:
+  authors:
+    - name: Andrea Coiutti
+      twitter:
+      github:
+      website:
+  slides:
+    - http://slides.com/andreacoiutti/refactoring-runeaudio/fullscreen#/
+  videos:
+    - https://youtu.be/NkMakO5YfLM
+  description: |-
+    In the last few months I have worked on the RuneAudio refactor, an open source software that transforms cheap, silent and low consumption mini-PCs into hi-fi music players. The result (version 2.0) is a stack that speaks the same language: API + websocket in Node.js for the backend, SPA for the frontend. The path was also a playground to experiment with modern solutions and push performance to the maximum: among the topics covered there will be occlusion culling, lazy loading, caching, job queues, Mithril and Fastify.
+
+- title: 'SIP WebRTC phone in your browser: from sipML5 to Janus'
+  lang: it
+  type: regular
+  level:
+  time: 2018-04-20
+  room:
+  authors:
+    - name: Alessandro Polidori
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/ale_polidori/telefono-sip-webrtc-nel-tuo-browser-da-sipml5-a-janus
+  videos:
+    - https://youtu.be/NfFNPiBiQUA
+  description: |-
+    Do you want to make a phone directly in your web app? We will see together what were the technological choices with which we made a SIP WebRTC phone directly integrated in the browser to provide a Unified Communication solution through WebApp. We will consider the problems and advantages encountered with two different solutions, going from sipML5 to Janus Gateway.
+
+- title: Making desktop applications with Electron and Angular
+  lang: it
+  type: regular
+  level:
+  time: 2018-04-20
+  room:
+  authors:
+    - name: Michele Aponte
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/apomic80/realizzare-applicazioni-desktop-con-electron-e-angular-97258640
+  videos:
+    - https://youtu.be/MuOarje-soo
+  description: |-
+    Despite all say that the desktop is dead there are still many applications and users who see in a application installed on their PC many advantages. With Electron we can take advantage of our web skills to create a cross-platform desktop application, which can exploit features of the operating system to which a web app can not access. In this session we will see, with an exclusively practical approach, how to create with Electron and Angular a classic management application to be installed on our desktop.
+
+- title: Dealing with CSS universally
+  lang: it
+  type: regular
+  level:
+  time: 2018-04-20
+  room:
+  authors:
+    - name: Simon Vocella
+      twitter:
+      github:
+      website:
+  slides:
+    - https://speakerdeck.com/voxsim/dealing-with-css-universally
+  videos:
+    - https://youtu.be/2HgAa7VtyHQ
+  description: |-
+    Would you like to reuse your CSS in your mobile application? In this presentation we will show how one of our React components can be reused in a React Native application focusing mainly on how to bring the style from one platform to another and showing pros and cons of this portability.
+
+- title: Fun with Bluetooth
+  lang: it
+  type: regular
+  level:
+  time: 2018-04-20
+  room:
+  authors:
+    - name: Niels Leenheer
+      twitter:
+      github:
+      website:
+  slides:
+    - https://speakerdeck.com/nielsleenheer/fun-with-bluetooth-at-universal-js-day
+  videos:
+    - https://youtu.be/RJa2yaL_mto
+  description: |-
+    Time for JavaScript to get physical. With WebBluetooth the Chrome browser can effectively control all kinds of physical devices in the real world like lightbulbs, robots and even drones. And now you can even run JavaScript on microcontrollers and even little Bluetooth beacons. This talk will teach you the basics that you need to get started and give you the best Bluetooth devices using just JavaScript.

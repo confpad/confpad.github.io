@@ -726,6 +726,19 @@
   description: |-
     ng-conf is a two day, single track conference focused on delivering the highest quality training in the Angular JavaScript framework. 1500+ developers from across the country will converge on beautiful Salt Lake City, UT to participate in training sessions by the Google Angular team, and other Angular experts. In addition to the invaluable training, ng-conf will deliver a premier conference experience for attendees, providing opportunities to network with other developers, relax at social events, and engage in some of the unique entertainment opportunities available in Utah.
 
+- id: 2018-04-19-universal-jsday-2018
+  name: Universal JS Day 2018
+  url: https://2018.universaljsday.com/
+  status: complete
+  date:
+    from: 2018-04-19
+    to: 2018-04-20
+  location:
+    country: Italy
+    city: Ferrara
+  description: |-
+    Have you ever wondered how you can quickly spread your app on different mobile platforms like iOS, Android or desktop? Companies like Facebook, NetFlix or PayPal use JavaScript in their development stack from the web server to their mobile device. We will discuss together through talk and workshops how JavaScript can improve and expand the target of our apps, but above all understand how much this language used together with new frameworks and patterns such as React Native, Ionic, Server Side Rendering, Progressive Web Apps, Electron, NativeScript open new horizons in the development of cross-platform applications integrated in the cloud.
+
 - id: 2018-04-21-jsunconf-2018
   name: JSUnconf 2018
   url: https://2018.jsunconf.eu/
