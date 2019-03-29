@@ -778,6 +778,19 @@
   description: |-
     The PyCon 2018 conference, which will take place in Cleveland, is the largest annual gathering for the community using and developing the open-source Python programming language.
 
+- id: 2018-05-11-reasonconf-2018
+  name: ReasonConf 2018
+  url: https://2018.reason-conf.com/
+  status: complete
+  date:
+    from: 2018-05-11
+    to: 2018-05-13
+  location:
+    country: Austria
+    city: Vienna
+  description: |-
+    Reason is the next big thing and it is time to bring the community together. Come and learn about the language and get inspired for innovation. We want to motivate you to add Reason & OCaml to your professional toolbelt and make you feel comfortable in the ecosystem. This conference is aiming for a well-balanced schedule with a practical, social and theoretical context.
+
 - id: 2018-05-17-reacteurope-2018
   name: ReactEurope 2018
   url: https://2018.react-europe.org/
