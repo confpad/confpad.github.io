@@ -1,0 +1,264 @@
+- title: A CSS Carol
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Una Kravets
+      twitter: una
+      github:
+      website: https://una.im/
+  slides:
+    - https://gist.github.com/una/cc47837b6e9af31dbc7b12c2268fa596
+  videos:
+    - https://youtu.be/vHvvwkpW32w
+  description: |-
+    CSS has gone through so many changes in the past few months, let alone years! In this “A Christmas Carol” themed talk, Una will go through some hacks of CSS past, tricks of CSS present, and exciting opportunities for CSS of the future. She’ll cover things like CSS grid, custom properties, rhythmic sizing, filter effects, and more. Be prepared for a hauntingly exciting talk about what CSS has to offer yesterday, today, and tomorrow.
+
+- title: FaCSSt—CSS and Performance
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Harry Roberts
+      twitter: csswizardry
+      github:
+      website: https://csswizardry.com/
+  slides:
+    - https://speakerdeck.com/csswizardry/facsst-css-and-performance-1
+  videos:
+    - https://youtu.be/IUtWdDpCkVw
+  description: |-
+    Ahh… CSS and performance. Two of my favourite things! But how well do they play together? It depends… In this very matter-of-fact talk, we’ll be looking at all of the different ways CSS can make our websites faster or slower. From the common and perhaps more obvious, to the unusual and obscure ways in which CSS can impact performance for better or worse.
+
+- title: Data Sketches | A year of exotic data visualizations
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Nadieh Bremer
+      twitter: NadiehBremer
+      github:
+      website: https://www.visualcinnamon.com/
+  slides:
+  videos:
+    - https://youtu.be/ZqoqBfwULbQ
+  description: |-
+    "Data Sketches" was a year-long collaboration between Nadieh Bremer and Shirley Wu, both freelancing data visualisation designers. Each month they chose a topic and visualised it in an overly elaborate & geeky manner. But besides sharing the end result, they also wrote extensively about the creation process. In this talk, Nadieh will share her most important lessons learned in the fundamental areas of data, sketching & coding the visual onto the screen. About how some months became favourites, what mistakes were made along the way, and how they were overcome. She'll especially highlight that many visualizations had humble, ugly duckling beginnings, but that through many (embarrassing) iterations they were turned into unique and, hopefully, compelling results. And finally, she'll touch upon the impact & benefit of collaborating heavily with someone (halfway across the globe) for a year.
+
+- title: Let's Get Chatty with Conversational Interface in JavaScript
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Tomomi Imura
+      twitter: girlie_mac
+      github:
+      website: https://girliemac.com/
+  slides:
+    - https://speakerdeck.com/girlie_mac/lets-get-chatty-with-conversational-interface-in-javascript
+  videos:
+    - https://youtu.be/Asmcr07cfc0
+  description: |-
+    Historically in web development, we have been relying on various UI elements to interact with your users. Now with the new technologies, you can develop rich applications with the natural user interactions with a minimal visual interface. This enables countless use cases for richer and more accessible web applications. In this talk, Tomomi Imura will talk about the examples of the conversational interface, and what and how you can build with JavaScript in browser using the Speech API, the open web standard, also with Node.js to work with the 3rd party platforms!
+
+- title: Teach Your Bundler The Users' Habits
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Minko Gechev
+      twitter: mgechev
+      github:
+      website: http://blog.mgechev.com/
+  slides:
+    - https://slidr.io/mgechev/teach-your-bundler-users-habits#1
+  videos:
+    - https://youtu.be/L5tPWCB7jX0
+  description: |-
+    Bundlers provide an efficient method of combining resources from our application in order to prevent redundant network requests by the browser. The statically resolvable ES2015 modules allow tree-shaking so in the end, we can deliver to our users only the code they need to run the entire application. Combining bundling and lazy-loading we provide to the users only the piece of the application they need at given point. In this talk, we’ll discuss how different machine learning techniques can help us to improve the traditional static, pre-defined bundling and pre-fetching methods. We’ll describe how, using webpack and SystemJS, we can personalize the bundling based on the user’s behaviour.
+
+- title: How to hack a web app?
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Asim Hussain
+      twitter: jawache
+      github:
+      website: http://codecraft.tv/
+  slides:
+  videos:
+    - https://youtu.be/xb6yyztEe_A
+  description: |-
+    Thought hacking was hard? It’s not, it’s easy and I’m going to show you how! In this episode of Inspector Morse we’ll investigate a series of hacking stories and break them down step-by-step to see exactly how they did it. By the end, you’ll walk away a little bit more scared and a lot more prepared with some great practices you can apply immediately to your own applications.
+
+- title: Serving for the win - Deploys and hosting for the rest of us
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Phil Hawksworth
+      twitter: philhawksworth
+      github:
+      website: https://www.hawksworx.com/
+  slides:
+    - https://speakerdeck.com/philhawksworth/serving-for-the-win-deployments-and-infrastructure-for-the-rest-of-us
+  videos:
+    - https://youtu.be/x2iE0eo68Ok
+  description: |-
+    You’ve chosen your frameworks and libraries. You’ve learned how to write code which satisfies the buzzword and performance gods. Now you need to serve it to a global audience, and make things easy to preview, to test, to sign-off, and to evolve. But infrastructure design is difficult and boring for most of us. We just want to get our work out into the wild. If only we had tools which would make us go, “Oh yeah! It all deploys perfectly every time” and shout, “You need another release? BAM! What’s next? This talk looks at some case studies of projects making common mistakes, and some which benefit from a better approach. We’ll explore tools and techniques which ease the path to production. Things anyone can do to boost confidence in every release. And ways to optimise our hosting for performance, hassle-free localisation and genuine A/B testing."
+
+- title: Reducing the friction of online payments
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Peter O'Shaughnessy
+      twitter: poshaughnessy
+      github:
+      website: https://peteroshaughnessy.com/
+  slides:
+    - https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present?slide=id.p
+  videos:
+    - https://youtu.be/RQ1uChMJcHM
+  description: |-
+    Advertising-driven platforms have been coming under increased scrutiny recently for how they balance their revenue needs against the best interests of their users and their communities. On the flipside, online businesses have often struggled to get users to pay for their content and services. That could be becoming easier now though, thanks to up-and-coming Web Payment APIs. This talk will cover the Payment Request API which can provide a simple and fast checkout experience. It will also share the latest options for micropayments - including Brave’s Basic Attention Tokens (BAT) - and how companies like Medium are rethinking the UX of subscriptions. Could the latest standards help us to be less reliant on advertising and focus more on our users?
+
+- title: Escaping the Sandbox with Puck.js
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Gordon Williams
+      twitter: Espruino
+      github:
+      website: http://www.espruino.com/
+  slides:
+  videos:
+    - https://youtu.be/UpPH6OsHpuk
+  description: |-
+    How to use your front-end JS skills along with Puck.js and Espruino to create smart devices that'll run for a year on a watch battery, and how to then communicate with them straight from your website using Web Bluetooth.
+
+- title: Common ways we break accessibility and how to avoid them
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Laura Carvajal
+      twitter: lc512k
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/O_OJfY4Jax4
+  description: |-
+    A great deal of what makes a website accessible is fairly straightforward to achieve, but only once we know what to look out for! Over 70% of websites are broken for disabled users, including those who rely on assistive tech, such as screen readers and magnifiers, to navigate the web. That's a good 10%-20% of your user base who can't access your content or pay for your product, even though they may want to. In this talk we will go over some common front-end (anti)patterns and how they affect accessibility while otherwise going virtually undetected. We'll cover how to get the same results without breaking your site for disabled users, including real-life examples of how we've avoided these pitfalls at The Financial Times.
+
+- title: Creating IoT applications with Web Bluetooth
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Martin Woolley
+      twitter: bluetooth_mdw
+      github:
+      website: https://www.bluetooth.com/
+  slides:
+    - https://drive.google.com/file/d/1olro7ag4Nu-F9h2T3zxsrO7bZbugb_ee/view
+  videos:
+    - https://youtu.be/-xtbTdOMqcg
+  description: |-
+    10 million Bluetooth devices ship every day, and that figure is rising. Regarded as one of the key, enabling technologies of the IoT, Bluetooth is everywhere and in the summer of 2017, a new Bluetooth technology, Bluetooth mesh networking was released. Bluetooth mesh is used in enterprise and industrial IoT systems and in these environments, web technologies and cloud-based architectures are king. Web Bluetooth allows developers to create web applications which can monitor and control Bluetooth devices. In this session, we’ll review key Bluetooth concepts and capabilities and the Web Bluetooth APIs which let you exploit them. There may even be demos!
+
+- title: Physical interfaces for digital applications
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Indira Knight
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/KUGRh_OyNz0
+  description: |-
+    By creating physical interfaces that interact with a web server, or web page, new innovative ways to communicate ideas can be created. It allows users to interact with an application in new ways, and allows the digital and physical to be mixed and joined together. This talk will be an introduction to what is possible by connecting an Arduino and a web server, the code involved for passing data between the two, and the basics of using an Arduino and electronic components. It will cover the concepts needed to get started and information on where to go and what to do next.
+
+- title: WebAssembly as cross-platform architecture?!
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Benedek Gagyi
+      twitter: BenedekGagyi
+      github:
+      website:
+  slides:
+    - http://benedekg-render.surge.sh/#/
+  videos:
+    - https://youtu.be/Yg9OT1RaYoQ
+  description: |-
+    With the rise of web-to-native cross-platform solutions like React Native and Electron we got to witness not only their potential but also their shortcomings. Thanks to WebAssembly we now have an alternative that uses a different approach but promises the same results. In my talk, I’ll share the lessons the join.me team learned over the last few years while creating and maintaining a cross-platform (web included!) C++ codebase, with special attention to management and team-dynamic aspects. You’ll also see how WebAssembly changes the game and, through a bit of live-coding, how easy it is to get started with it.
+
+- title: DevTools and Headless Chrome - The Automation Power-Couple
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Yonatan Mevorach
+      twitter: cowchimp
+      github:
+      website: http://blog.cowchimp.com/
+  slides:
+    - http://speakerdeck.com/cowchimp/devtools-and-headless-chrome-render-conf-2018
+  videos:
+    - https://youtu.be/MZ5IzmXZ2S0
+  description: |-
+    In this talk we'll see what problems we can fix (or better yet, avoid) by combining two things developers love: Chrome DevTools and automating repetitive tasks. To do this we'll use a new capability introduced in Chrome 59: running Chrome in "Headless Mode". Firstly we'll show the powers of each of these tools separately. We'll use DevTools to debug other platforms like node.js, and we'll use Chrome in Headless Mode to run tests, take screenshots, and to scrape sites for data. Then we'll explore how by combining the two you can perform any DevTools action from code. Using this approach you can have DevTools work for you around-the-clock and monitor everything about your app (amount of unused CSS\JS, memory footprint, etc.). After attending this talk prepare to never say "Sorry I can't automate this" ever again.
+
+- title: Delivering fast and beautiful images and video
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-23
+  room: Thames Hall
+  authors:
+    - name: Doug Sillars
+      twitter:
+      github:
+      website:
+  slides:
+    - https://www.slideshare.net/dougsillars/fast-and-beautiful-images-and-video
+  videos:
+    - https://youtu.be/a5orCnxIwIA
+  description: |-
+    The average website page weight is ~50% images, and 25% video. There are thousands of screens and devices that receive this content. In this lunch & learn, we’ll examine strategies to send the perfect image or video to every device, ensuring a fast, beautiful rendering of your content. Doug is a leading mobile developer advocate and evangelist, widely known as an expert in mobile application architecture, especially when it comes to performance. Doug has worked with thousands of developers around the world, helping them improve the speed, battery life and customer satisfaction of their applications (both native and web-based apps). His book, "High Performance Android Apps" was published by O'Reilly in the fall of 2015. Doug is an international digital nomad, combining travel and remote work.

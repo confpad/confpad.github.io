@@ -583,6 +583,19 @@
   description: |-
     We organize large-scale conferences in comfortable venues and invite best international experts as well as Ukrainian specialists in various spheres - framework authors, core contributors, etc. Our team carefully selects talks to include only valuable and useful ones to the conference programme. We also care about entertainment and informal conference part and create a comfortable atmosphere for you.
 
+- id: 2018-03-23-render-conference-2018
+  name: Render Conference 2018
+  url: https://2018.render-conf.com/
+  status: complete
+  date:
+    from: 2018-03-23
+    to: 2018-03-23
+  location:
+    country: United Kingdom
+    city: Oxford
+  description: |-
+    A one-day conference for front-end devs taking place in Oxford, UK.
+
 - id: 2018-03-30-js-fest-2018
   name: JS Fest 2018
   url: http://jsfest.com.ua/jsfest2018/indexe.html
