@@ -167,6 +167,19 @@
   description: |-
     Ember is growing every day, and EmberConf is the best place to meet the folks behind the magic. You’ll hear from members of the Ember Core Team, top community contributors and users, and be the first to know what to expect for the future of Ember.https://2017.emberconf.com/
 
+- id: 2017-03-30-render-conference-2017
+  name: Render Conference 2017
+  url: https://2017.render-conf.com/
+  status: complete
+  date:
+    from: 2017-03-30
+    to: 2017-03-31
+  location:
+    country: United Kingdom
+    city: Oxford
+  description: |-
+    Render Conf is the successor to jQuery UK, which returned to Oxford for its second year in 2017. It was a single track conference happening across two days with technical talks featuring plenty of takeaways to inspire attendees to be better developers!
+
 - id: 2017-04-21-react-amsterdam-2017
   name: React Amsterdam 2017
   url: https://react.amsterdam/2017/

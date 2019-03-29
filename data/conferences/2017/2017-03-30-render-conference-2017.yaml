@@ -1,0 +1,322 @@
+- title: Evaluating Technology
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-30
+  room:
+  authors:
+    - name: Jeremy Keith
+      twitter: adactio
+      github:
+      website: https://adactio.com/
+  slides:
+  videos:
+    - https://youtu.be/wAekLOUpMB4
+  description: |-
+    We work with technology every day. And every day it seems like there's more and more technology to understand: graphic design tools, build tools, frameworks and libraries, not to mention new HTML, CSS and JavaScript features landing in browsers. How should we best choose which technologies to invest our time in? When we decide to weigh up the technology choices that confront us, what are the best criteria for doing that? This talk will help you evaluate tools and technologies in a way that best benefits the people who use the websites that we are designing and developing. Let's take a look at some of the hottest new web technologies and together we will dig beneath the hype to find out whether they will really change life on the web for the better.
+
+- title: 'HTTP: History and Performance'
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-30
+  room:
+  authors:
+    - name: Ana Balica
+      twitter: anabalica
+      github: ana-balica
+      website:
+  slides:
+  videos:
+    - https://youtu.be/DtTKF5OcpsU
+  description: |-
+    The Hypertext Transfer Protocol is one of the most popular protocols nowadays. It’s the language most servers, clients, and even teapots can speak. Learn how and why it became such an ubiquitous part of the web by following the evolution of HTTP. In regards to web performance, have you ever wondered why are we using minimization, concatenation, image spriting, resource inlining and other little hacks? Befriend the browser and help it to help you deliver the best user experience possible. Find out how TLS and HTTPS affect performance and what to look forward in HTTP/2. This talk will contain references to archaic RFCs, lots of diagrams and long lists of best practices.
+
+- title: Accessibility is more than just supporting screenreaders
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-30
+  room:
+  authors:
+    - name: Seren Davies
+      twitter: ninjanails
+      github:
+      website: http://www.serendavies.me/
+  slides:
+  videos:
+    - https://youtu.be/oG_cYElSZwM
+  description: |-
+    All too often we think about accessibility as just meeting the needs of those who rely on screenreaders, but it's far wider than that! Seren will explore how people with cognitive, physical, hearing and sight difficulties experience the web, and how the decisions we make as developers affect their experience.
+
+- title: Isomorphic React sans Node??
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-30
+  room:
+  authors:
+    - name: Ben Ilegbodu
+      twitter: benmvp
+      github:
+      website: http://www.benmvp.com/
+  slides:
+  videos:
+    - https://youtu.be/zxtcr8Zuvfs
+  description: |-
+    React is JavaScript library for building user interfaces that has taken the web development industry by storm. Its declarative syntax and DOM abstraction for components not only make client-side development simple, but also enables server-side rendering of those same components, which enables improved SEO and initial browser load time. But how do you render JavaScript React components server-side if your backend doesn’t run on Node? Learn how Eventbrite successfully integrated React with their Python/Django backend so that you can do the same in yours.
+
+- title: A Modern Front-End Workflow
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-30
+  room:
+  authors:
+    - name: Umar Hansa
+      twitter: umaar
+      github:
+      website: https://umaar.com/
+  slides:
+  videos:
+    - https://youtu.be/v5r_n6Tq0uk
+  description: |-
+    The audience can expect to learn hidden DevTools secrets but also how to adopt a modern development and debugging workflow. This talk is important for any web developer who wants to understand and debug the internals of a webpage quickly and with ease.
+
+- title: 'PackWars: Webpack vs Browserify vs SystemJS vs require.js'
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-30
+  room:
+  authors:
+    - name: Opher Vishnia
+      twitter: opherv
+      github:
+      website: http://opherv.com/
+  slides:
+  videos:
+    - https://youtu.be/ahRNMEA4mWw
+  description: |-
+    Front end development is becoming increasingly complex. In the past you could just serve your CSS, JS and image files and you were good to go. Nowadays you have Single Page Apps and modules and assets and images and libraries and frameworks and oh god what now what. Let me help you with your Analysis Paralysis. I went through all the options for modularizing, bundling and serving your code so you don’t have to. I’ll explain the problem and present current solutions like Require.js, Browserify and Webpack, their use cases, their merits and their faults so you could stop worrying and start coding
+
+- title: Progressive Image Rendering
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-30
+  room:
+  authors:
+    - name: José M. Pérez
+      twitter: jmperezperez
+      github:
+      website: https://jmperezperez.com/
+  slides:
+  videos:
+    - https://youtu.be/S70xyRYCNdY
+  description: |-
+    On a regular web page, images represent the largest assets. We might have heard about responsive images to serve the most suitable image for each screen. However, how and when we load them can have a great impact too. I will show you several techniques used by well known websites, based on placeholders, dominant colours, blurry images and lazy loading to improve user's perceived performance. These techniques leverage several web technologies like CSS3, canvas and the recent IntersectionObserver API.
+
+- title: Spreadsheets, Forms and Forks
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-30
+  room:
+  authors:
+    - name: Jessica Lord
+      twitter: jllord
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/YribHd92Ip4
+  description: |-
+    Let's talk about using tools we may take for granted, like spreadsheets, to make data and site-making more accessible—not only for developers who want to quickly get a prototype going but for meetups, neighborhoods or other groups that lack resources. Have fun scaling out by scaling down!
+
+- title: Coding Art
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-30
+  room:
+  authors:
+    - name: Mathieu 'p01' Henri
+      twitter: p01
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/symlQgdQBTw
+  description: |-
+    The web platform is a wonderful playground of artistic and technical expression. The artists of the web often release amazing creations. As developers we can use a powerful language to bring our ideas to life. This talk will go through creative coding, the demoscene, and a range of optimisation techniques. Then we will work on a little Audio-Visual demo together. I hope this will inspire new JavaScript artists and bring a dash of creativity to our every day problem solving.
+
+- title: Hack to the Future
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-30
+  room:
+  authors:
+    - name: Seb Lee-Delisle
+      twitter: seb_ly
+      github:
+      website: http://seb.ly/
+  slides:
+  videos:
+    - https://youtu.be/ZrMO_71_tAc
+  description: |-
+    Seb loves to strip down classic machines from the 80s, and give them an extreme make-over with cutting edge technology You may have seen the hacked Nintendo light gun with laser, lights and a built-in smoke machine that became a viral sensation on the internet in 2016. This insight into technology from a simpler age gives us a new found appreciation and understanding about the tools we use on a daily basis. Expect super bright LEDs, electronics and, of course, lasers
+
+- title: 'Styling Hillary: A Design System for All Americans'
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-31
+  room:
+  authors:
+    - name: Mina Markham
+      twitter: minamarkham
+      github:
+      website: http://mina.codes/
+  slides:
+  videos:
+    - https://youtu.be/dwMhn2OKHkk
+  description: |-
+    A comprehensive design system is a critical tool for maintaining a consistent UI during rapid development that spans multiple codebases. During the 2016 US presidential campaign, Mina spent most of her time building and refining Pantsuit, the design system that powered many of the applications hosted on hillaryclinton.com. In this talk, Mina will share successes and failures from nearly two years at Hillary for America, including creating CSS architecture and implementing a redesign of the main website.
+
+- title: Start Using CSS Grid Layout Today
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-31
+  room:
+  authors:
+    - name: Rachel Andrew
+      twitter: rachelandrew
+      github:
+      website: https://rachelandrew.co.uk/
+  slides:
+  videos:
+    - https://youtu.be/tjHOLtouElA
+  description: |-
+    2017 is the year of the Grid, with the long awaited CSS Grid Layout landing in browsers. In this talk I’ll demonstrate with practical examples what grid layout is, the basics of how to use it and how to start using it right now - without leaving older browsers out in the cold
+
+- title: The Awesome Struggles as a Front-end Engineer
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-31
+  room:
+  authors:
+    - name: Frances Ng
+      twitter: franxyzxyz
+      github:
+      website: http://www.franxyz.com/
+  slides:
+  videos:
+    - https://youtu.be/Df0-2e6M_y4
+  description: |-
+    As an ex-Aerospace Engineer who only could barely code in Matlab for doing data visualisation on aerodynamic flows, I will talk about the thrust that has taken me all the way through to become a passionate Front-end engineer doing mostly data visualisation in an artificial intelligence startup and how I benefited from the community to take off in a field which female is still the minority. Also, I will talk about how I combined my previous expertise into creating applications in React, Redux, d3.js with graph database engineering, the lovely canvas etc.
+
+- title: Growing Up, Getting Serious
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-31
+  room:
+  authors:
+    - name: Peter Gasston
+      twitter: stopsatgreen
+      github:
+      website: https://about.me/petergasston
+  slides:
+  videos:
+    - https://youtu.be/8vWBcnIJhgw
+  description: |-
+    A talk about the Web of the next ten years. About moving beyond the browser, and into everything around us. About new interfaces, no interfaces, realities virtual and augmented. And about taking responsibility for systems that provide life, and death.
+
+- title: The Unbearable Likeness of Web Design
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-31
+  room:
+  authors:
+    - name: Sarah Semark
+      twitter: sarahsemark
+      github:
+      website: http://triggersandsparks.com/
+  slides:
+  videos:
+    - https://youtu.be/8hK-JQlK89c
+  description: |-
+    Why do so many websites look the same? As our tools have improved and we’ve been able to do more with the web, there’s been a growing trend toward websites that look exactly alike. Why did this come to be, and what can we, as designers and curators of the modern web, do to avoid it? In order to answer these questions, we’ll touch briefly on the history of web design, and examine how modern tools and practises have contributed to a more homogeneous-looking internet. We’ll examine the web design process from two perspectives – the designer’s and the developer’s – and discuss how the blurring of those roles impacts the design process. Along the way, we’ll discuss the various merits of following or bucking trends. Finally, I’ll offer some constructive advice to help you – whether you’re a designer or not – add an individual touch to your design work.
+
+- title: Demystifying Deep Neural Nets
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-31
+  room:
+  authors:
+    - name: Rosie Campbell
+      twitter: RosieCampbell
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/S4vL355capU
+  description: |-
+    Deep neural networks are the latest hot computing trend – but to most people they are still a bit of a mystery. With the release of libraries like Google’s Tensorflow and the open source ConvNetJS, there’s never been a better time to start learning about deep learning. We’ll start right at the beginning – no prior knowledge needed – but by the end of the talk I aim for you to go away as excited about neural nets as I am, and knowledgeable enough to rave to your friends about them in the pub. We’ll focus on CNNs (Convolutional Neural Networks) as they can do super fun things with images. We’ll see how they can produce weird and wonderful works of art, how they can turn your selfies into masterpieces, and perhaps look at some of the occasionally hilarious results of when they go wrong.
+
+- title: The Future of the Web in a VR World
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-31
+  room:
+  authors:
+    - name: Jaume Sanchez
+      twitter: thespite
+      github:
+      website: https://www.clicktorelease.com/
+  slides:
+  videos:
+    - https://youtu.be/ULPyGpBRp84
+  description: |-
+    A look into the future of how we interact with the web. Technology, browsers, APIs and programming for a VR-enabled web.
+
+- title: Progressive what apps?
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-31
+  room:
+  authors:
+    - name: Patrick Kettner
+      twitter: patrickkettner
+      github: patrickkettner
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Y1l5Y3INwaE
+  description: |-
+    Progressive Web Apps are one of the hottest things to come to the web platform in years, but how much of it is just hot air? When can you actually start shipping these things? Decades ago! In a hands on presentation, I'll show how PWAs are truly meant to be progressive - building on an evolution of web technologies nearly as old as the web itself, and still let you ship one of the most performant and cutting edge web apps around.
+
+- title: Websites are a symptom, not the cause
+  lang: en
+  type: regular
+  level:
+  time: 2017-03-31
+  room:
+  authors:
+    - name: Sally Jenkinson
+      twitter: sjenkinson
+      github:
+      website: http://sallyjenkinson.co.uk/
+  slides:
+  videos:
+    - https://youtu.be/O43HSNzwV88
+  description: |-
+    As creators of the web, our teams aim to understand challenges, opportunities and requirements, and translate these into technical solutions to build. But what happens when we start looking beyond this, using the website itself as a starting point rather than as the end of our journey? Websites are often a great barometer for wider underlying issues, and by exploring common problems and root causes we can seek to spark fundamental change that can ultimately feed back into our longer-term success. Using a set of practical examples and case studies we’ll pull at some potential threads of failure, looking at how to create more sustainably for the future.
