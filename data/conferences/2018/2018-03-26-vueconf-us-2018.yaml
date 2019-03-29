@@ -1,0 +1,386 @@
+- title: The Future of Vue.js in 5 Minutes
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+  slides:
+  videos:
+    - https://youtu.be/j1EWDbXtbjA
+  description: |-
+    On March 26-28 the first VueConf.us took place in New Orleans, LA.  Gregg Pollack from Vue Mastery was there to ask each of the speakers (many of which who were Vue Core Team members) what they're most excited about in the next year of Vue.js.
+
+- title: State of Vue
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Evan You
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/AiF3XOu02-0
+  description: |-
+    Evan You is the creator of the Vue project. In his VueConf talk he covers the growth of Vue, recent project releases, the maturing eco-system, the Vue-Loader rewrite, Vue CLI 3, upcoming releases of Vue.js, and initiatives to improve the stability and evolution of the library.
+
+- title: How We Do Vue At GitLab
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Jacob Schatz
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/EsUS4JX0BBw
+  description: |-
+    We talk about what we've learned in 1 year of using Vue in production. How we mix in Vuex, webpack, and other tools. How we write tons of code and get from idea to production so quickly using VueJS as our workhorse. How we get crap done at GitLab.
+
+- title: Vue in Motion
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Rachel Nabors
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/1kvRMU0114I
+  description: |-
+    Learning a JavaScript framework can look intimidating if you come from a traditional design background. But Vue has some of the best features for designing with motion. Come see how to translate your motion design into Vue-powered prototypes!
+
+- title: Testing Vue Apps
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Edd Yerburgh
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Bohm6Yhaxvo
+  description: |-
+    In this talk Ed explains how to structure a test suite, and how to write effective unit tests for Vue components.
+
+- title: Serverless Functions and Vue.js
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Sarah Drasner
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Whn-koel1HI
+  description: |-
+    We’ll cover key use cases for these functions within a Vue.js application: we’ll accept payments with stripe, we’ll gather geolocation data from Google Maps, and more! Making it work with Vue and Nuxt and simplifying how to leverage this paradigm to be a workhorse for your application.
+
+- title: VueRx
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: John Lindquist
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/_74d-NdeqOI
+  description: |-
+    Vue.js ships with a built-in reactive system to help easily manage data and state throughout your app, but RxJS streams allow you to control complex async situations through streams. This lecture will cover how Vue.js integrates with RxJS and walks through the common problems taking this approach can solve.
+
+- title: Create an Engaging Native Mobile App with Vue and NativeScript
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Jen Looper
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/3M7Gd8UF45o
+  description: |-
+    Need a mobile app to offer different, yet complimentary functionality, while retaining shared code between your website and mobile app? Welcome to the beautiful world of Vue and NativeScript, which, paired together make for a great user experience.
+
+- title: 7 secret patterns Vue consultants don't want you to know
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Chris Fritz
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/l22DgeQux20
+  description: |-
+    As a Vue consultant and member of the core team, Chris will share some of the lesser-known features and patterns you can use to improve your apps and amaze your colleagues.
+
+- title: Agile Design Systems in Vue
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Miriam Suzanne
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/f19AtZvQ4gs
+  description: |-
+    In her talk, Miriam gives the why, what, and how of using design systems inside your applications. She also introduces Herman, an automated design system generator she helped build.
+
+- title: Vue & TypeScript Up and Running
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Daniel Rosenwasser
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/wDYS6FIXkAc
+  description: |-
+    One of TypeScript's goals is to make sure that JavaScript users of all communities can use the language. Over the last year, the TypeScript team has put effort in to making TypeScript & Vue work together much more seamlessly. Come find out a bit about that work, and how you can benefit from TypeScript today!
+
+- title: A React Point of Vue
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Divya Sasidharan
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/5TgvhATYm3Q
+  description: |-
+    As a React developer learning Vue, adapting to the “Vue way of doing things” is a challenge that requires a sound understanding of the philosophy behind Vue. We will examine the nuances of the two frameworks and cover common mistakes that React developers make when switching to Vue.
+
+- title: 'Vue & SSR: The best practices'
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Sebastien Chopin
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/OF3A_arLJ8k
+  description: |-
+    Writing a Universal Application with Vue might be hard, this talk will show common problems with server-side rendering and how to deal with them. It will also show how Nuxt.js solves most of these problems for you.
+
+- title: A Short Synopsis of Vue Storybook
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Peter Finn
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/QshUu4dcbGE
+  description: |-
+    Building and documenting a component library at your company can be a huge hassle, but is a great way to keep your code consistent and clean among all of your projects. Storybook and Vue take most of the pain out of this, and allow you to develop a set of core components and document them in no time!
+
+- title: Prototyping with Vue Single File Component
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Pine Wu
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/gVNekDsgUqU
+  description: |-
+    Vue Single File Component is ideal for sketching out UI components, animation, interaction prototypes and data visualization. I present a mini Vue SFC based framework that prescribes setup, languages and coding styles in exchange for the best prototyping experience.
+
+- title: Build a MiniFlix Clone with Vue Contest
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Dan Zeitman
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/A1X5c3eKAwU
+  description: |-
+    Developers face the continuous challenge of building complex products in the face of tight schedules. In this talk, Dan Zeitman, developer advocate for Cloudinary, walks us through creating a Netflix-clone called Miniflex to demonstrate how you can use the Cloudinary video API's to boost efficiency when you're working with video applications.
+
+- title: Dynamic Store Modules with Vuex
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Adam Bradford
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/UOmQLOyjDic
+  description: |-
+    Have you ever wanted more fine-grained control over your Vuex Store Objects? For example, importing data from an API, registering it inside of Vuex, then being able to share that data across multiple components? In this talk, Adam Bradford, goes over the benefits of Vuex's dynamic module registration with a real-world example.
+
+- title: Code Splitting Patterns with Vue
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Sean Thomas Larkin
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/R2J9cTtlBXI
+  description: |-
+    Did you know that it takes most websites 14 seconds to load? 50% of your visitors are gone by then. Code splitting can help you solve that problem. In this talk, Sean Larkin, program manager at Microsoft, runs through how Code Splitting is a first class citizen in the Vue ecosystem and the one-line change you can make to split your code and make your components asynchronous.
+
+- title: Beyond HTML with Vue
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Eduardo San Martin Morote
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/Ftp_VtSI0qM
+  description: |-
+    Did you know that Vue can render to other contexts besides just HTML? In this talk, core Vue.js team member Eduardo goes through various non-HTML examples that Vue.js can render to like Springs, Sound, WebGL, and even Promises.
+
+- title: 40 Hour Plan For UX Proficiency
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Jacob Covey
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/LKbsdjbJB6s
+  description: |-
+    Should front-end developers learn to UX? Jacob Covey says yes and your value as a front-end developer can only grow if you know the principles of UX. In this talk, he teaches how you can learn and become proficient in UX as an already-competent front-end developer in only 40 hours.
+
+- title: Vue with AWS Lambda
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Matt Biilmann
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/1uxi05FgU1o
+  description: |-
+    In this lightning talk, Matt Biilmann, the CEO of Netlify, shows you how you can use Netlify to speed up and automate the deployment of your Vue apps in less than 8 minutes.
+
+- title: Ionic and Vue
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: Mike Hartington
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/dXxrRXHfBA8
+  description: |-
+    If you've heard of Ionic before you might know that it has been historically associated with Angular. Now you can use Ionic with Vue. In this lightning talk, Mike Hartington, a developer advocate for Ionic, shows off an in-depth demo for an alpha version of Ionic for Vue you can start using.
+
+- title: OverVue of Vuetify.js
+  lang: en
+  type: regular
+  level:
+  time: 2018-03-27
+  room:
+  authors:
+    - name: CJ
+      twitter:
+      github:
+      website:
+  slides:
+  videos:
+    - https://youtu.be/REW-9jdqITM
+  description: |-
+    When there are so many options for UI component frameworks how do you know which one to choose? In this talk, CJ gives an overview of the Vuetify.js component UI library based on Google's Material Design and why it might be the best choice for your application.

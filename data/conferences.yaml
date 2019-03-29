@@ -622,6 +622,19 @@
   description: |-
     A one-day conference for front-end devs taking place in Oxford, UK.
 
+- id: 2018-03-26-vueconf-us-2018
+  name: VueConf US 2018
+  url: https://us.vuejs.org/
+  status: complete
+  date:
+    from: 2018-03-26
+    to: 2018-03-28
+  location:
+    country: United States
+    city: New Orleans, LA
+  description: |-
+    Official Vue.js Conference USA
+
 - id: 2018-03-30-js-fest-2018
   name: JS Fest 2018
   url: http://jsfest.com.ua/jsfest2018/indexe.html
