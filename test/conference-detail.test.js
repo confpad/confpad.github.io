@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path = require('path');
 
 const glob = require('glob');
 const jsyaml = require('js-yaml');
@@ -11,6 +12,7 @@ const AUTHOR_KEYS = ['name', 'twitter', 'github', 'website'];
 const TALK_TYPES = ['regular', 'lightning', 'workshop'];
 const TALK_LEVELS = ['beginner', 'intermediate', 'advanced'];
 const REGEX_URL = /^http[s]?:\/\//;
+const REGEX_FILENAME = /^[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+\.yaml$/;
 
 glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conference.yaml}').forEach(file => {
   let conference;
@@ -26,13 +28,19 @@ glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conferen
     console.error(`${file}: ${error.message}`);
   }
 
-  // Run tests
-  conference.talks.forEach(talk => {
-    describe(`Conference details - ${file} - "${talk.title}"`, () => {
+  // Conference file tests
+  describe(`Conference file: ${file}`, () => {
 
-      it('has filename in lowercase', () => {
-        expect(file).toEqual(file.toLowerCase());
-      });
+    it('has filename in correct format and lowercase', () => {
+      let filename = path.basename(file);
+      expect(filename.match(REGEX_FILENAME)).not.toBeNull();
+    });
+
+  });
+
+  // Conference talks tests
+  conference.talks.forEach(talk => {
+    describe(`Conference talk: ${file} - "${talk.title}"`, () => {
 
       it('contains all fields in correct order', () => {
         expect(Object.keys(talk)).toEqual(ROOT_KEYS);
