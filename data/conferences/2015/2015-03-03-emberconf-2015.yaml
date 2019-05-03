@@ -1,305 +1,321 @@
-- title: Opening Keynote
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Yehuda Katz
-      twitter: wycats
-      github:
-      website:
-    - name: Tom Dale
-      twitter: tomdale
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/OInJBwS8VDQ
-  description: |-
+conference:
 
-- title: Ember.js Performance
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Stef Penner
-      twitter: stefanpenner
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/iTZxo6bSx44
+  name: EmberConf 2015
+  url: https://2015.emberconf.com/
+  status: complete
+  date:
+    from: 2015-03-03
+    to: 2015-03-04
+  location:
+    country: United States
+    city: Portland OR
   description: |-
-    One overarching theme in the Ember.js philosophy is to put developers on a path to success, primarily this is done by making that path have the lowest resistance.On several fronts this pattern has been quite successful, but on one important front we fall short, performance. This is the result of framework and run-time misalignment. This talk describes how we as a community can solve this problem in our apps and the framework.
+    EmberConf is committed to being an inclusive, welcoming conference for everyone. We will not permit harassment of conference participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately, and may be asked to leave.We reserve the right to warn or expel offenders from the conference with no refund, and to bar them from future participation (both speaking and attendance). If you are being harassed, see someone else being harassed, or have any other concerns on-site please contact one of the conference organizers or volunteers (identifiable by their staff shirts) immediately.
 
-- title: Designing for Ember Apps
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Steve Trevathan
-      twitter: strevat
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ijiNbF2Wu0E
-  description: |-
-    Ember allows us to design highly adaptive, extendable, and fast web apps, but with those possibilities comes greater responsibility. Successfully leveraging the characteristics that make the technology worth while requires a myriad of methods, principles, and patterns that aren’t readily obvious to those breaking into single page application design. In this talk I’ll hone in on those requirements with relevant examples and give the audience a starting point to make their next Ember.js product design successful.
+talks:
 
-- title: Hijacking Hacker News with Ember.js
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Godfrey Chan
-      twitter: chancancode
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/PXB93Z8azZE
-  description: |-
-    In this session, we will look at several unconventional things you can do with Ember.js and Ember Data. We will be breathing new life into the Hacker News website via a chrome extension. We will be injecting code into the live website, parsing HTML pages into JSON feeds that Ember Data understands, all while maintaining the existing URL mapping scheme so that our users can continue to share and tweet URLs with the rest of the Interwebs.
+  - title: Opening Keynote
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Yehuda Katz
+        twitter: wycats
+        github:
+        website:
+      - name: Tom Dale
+        twitter: tomdale
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OInJBwS8VDQ
+    description: |-
 
-- title: The Art of Ember Deployment
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Luke Melia
-      twitter: lukemelia
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/4EDetv_Rw5U
-  description: |-
-    My team and I decided to invest in making our deployments awesome. When I told people about our approach, the community responded with excitement and new OSS implementations.This talk will show you how to make your team’s deployments delightful and empowering instead of slow, clumsy and frustrating. I'll take you through the key concepts and show you the open source tools that are now available.
+  - title: Ember.js Performance
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Stef Penner
+        twitter: stefanpenner
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/iTZxo6bSx44
+    description: |-
+      One overarching theme in the Ember.js philosophy is to put developers on a path to success, primarily this is done by making that path have the lowest resistance.On several fronts this pattern has been quite successful, but on one important front we fall short, performance. This is the result of framework and run-time misalignment. This talk describes how we as a community can solve this problem in our apps and the framework.
 
-- title: Ambitious UX for Ambitious Apps
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Lauren Tan
-      twitter: sugarpirate_
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/TlU0m18Pr-Y
-  description: |-
-    In the dark ages of web development, designing a beautiful user experience meant having to constantly fight with the DOM to get it to do what you want, when you want. With Ember, we no longer have to struggle with managing DOM state, and we are free to put the user experience first with reactive UI.In this talk, we'll discuss the ways in which Ember makes it easy to build delightful and reactive user experiences, and how you can build reusable components that even non-technical designers can learn to use. Learn about the thoughtful touches and interactions you can add to an Ember app.
+  - title: Designing for Ember Apps
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Steve Trevathan
+        twitter: strevat
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ijiNbF2Wu0E
+    description: |-
+      Ember allows us to design highly adaptive, extendable, and fast web apps, but with those possibilities comes greater responsibility. Successfully leveraging the characteristics that make the technology worth while requires a myriad of methods, principles, and patterns that aren’t readily obvious to those breaking into single page application design. In this talk I’ll hone in on those requirements with relevant examples and give the audience a starting point to make their next Ember.js product design successful.
 
-- title: Bring Sanity to Frontend Infrastructure with Ember
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Sam Selikoff
-      twitter: samselikoff
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/iwPsNTkyCcA
-  description: |-
-    Monolithic server-side applications are on the way out - but what does this mean for our frontend code? A world of independent backend services creates unique challenges for internal frontend development: How can teams share code? Streamline deployments? Test and integrate their code with existing backend systems?This talk will discuss how Ember's conventions and tooling can bring consistency, discipline and sanity to a company's frontend infrastructure.
+  - title: Hijacking Hacker News with Ember.js
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Godfrey Chan
+        twitter: chancancode
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/PXB93Z8azZE
+    description: |-
+      In this session, we will look at several unconventional things you can do with Ember.js and Ember Data. We will be breathing new life into the Hacker News website via a chrome extension. We will be injecting code into the live website, parsing HTML pages into JSON feeds that Ember Data understands, all while maintaining the existing URL mapping scheme so that our users can continue to share and tweet URLs with the rest of the Interwebs.
 
-- title: Dynamic Graphic Composition in Ember
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Chris Henn
-      twitter: cjwhn
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/J-LpgGqyxcI
-  description: |-
-    Ember's declarative object model and data-binding make it an excellent fit for building data visualizations that respond to change. This talk presents two ways to think about building dynamic SVG visualizations in Ember in the context of Hadley Wickham's The Grammar of Graphics. Along the way various subjects will be discussed, including code reuse and composition with Ember components and D3, imperative vs. declarative style tradeoffs, and tips and tricks for making visualizations easy to build and use.
+  - title: The Art of Ember Deployment
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Luke Melia
+        twitter: lukemelia
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4EDetv_Rw5U
+    description: |-
+      My team and I decided to invest in making our deployments awesome. When I told people about our approach, the community responded with excitement and new OSS implementations.This talk will show you how to make your team’s deployments delightful and empowering instead of slow, clumsy and frustrating. I'll take you through the key concepts and show you the open source tools that are now available.
 
-- title: Closing Keynote
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Chris Eppstein
-      twitter: chriseppstein
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/qWcNZ3j3y6g
-  description: |-
+  - title: Ambitious UX for Ambitious Apps
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Lauren Tan
+        twitter: sugarpirate_
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/TlU0m18Pr-Y
+    description: |-
+      In the dark ages of web development, designing a beautiful user experience meant having to constantly fight with the DOM to get it to do what you want, when you want. With Ember, we no longer have to struggle with managing DOM state, and we are free to put the user experience first with reactive UI.In this talk, we'll discuss the ways in which Ember makes it easy to build delightful and reactive user experiences, and how you can build reusable components that even non-technical designers can learn to use. Learn about the thoughtful touches and interactions you can add to an Ember app.
 
-- title: Fault Tolerant UX
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Dan Gebhardt
-      twitter: dgeb
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/s2awUFvA-0I
-  description: |-
-    The key to building and maintaining users' confidence in long running applications is fault tolerance. Not just a data and connectivity concern - fault tolerance should be considered at every level of your application. A fault tolerant application clearly conveys its state to users throughout its interface, allows users to remain as productive as possible in any particular state, and ideally works behind the scenes to recover from faults.
+  - title: Bring Sanity to Frontend Infrastructure with Ember
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Sam Selikoff
+        twitter: samselikoff
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/iwPsNTkyCcA
+    description: |-
+      Monolithic server-side applications are on the way out - but what does this mean for our frontend code? A world of independent backend services creates unique challenges for internal frontend development: How can teams share code? Streamline deployments? Test and integrate their code with existing backend systems?This talk will discuss how Ember's conventions and tooling can bring consistency, discipline and sanity to a company's frontend infrastructure.
 
-- title: Aligning Ember with Web Standards
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Matthew Beale
-      twitter: mixonic
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/knYeLk1EuHw
-  description: |-
-    JavaScript is a language awakening from long slumber. Browser vendors have already adopted many features from the ES6 specification ahead of its formal release in 2015, and even implemented some of the early ES7 draft specification.Ember, to help us build apps today, has provided its own version of many ES6 and ES7 features. As the drafts become specs and browsers add new capabilities, the framework will need to reconfigure itself around them.How well does Ember align with these new APIs? Where the framework differs, what might be a path forward?
+  - title: Dynamic Graphic Composition in Ember
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Chris Henn
+        twitter: cjwhn
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/J-LpgGqyxcI
+    description: |-
+      Ember's declarative object model and data-binding make it an excellent fit for building data visualizations that respond to change. This talk presents two ways to think about building dynamic SVG visualizations in Ember in the context of Hadley Wickham's The Grammar of Graphics. Along the way various subjects will be discussed, including code reuse and composition with Ember components and D3, imperative vs. declarative style tradeoffs, and tips and tricks for making visualizations easy to build and use.
 
-- title: Growing Ember One Tomster at a Time
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Jamie White
-      twitter: jgwhite
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/xsG0gDkvDPw
-  description: |-
-    Ember has technology’s most loveable mascot. He’s approachable, thoughtful, and never takes himself too seriously. Our community is like that too.In this talk, we’ll learn the story of Tomster: where he came from, how he’s grown, and what he represents. Then we’ll zoom out and see how the minds that gave us Tomster have carefully crafted a framework for creating communities like ours. Finally we’ll zoom back in again to see how to use that framework on a local scale to grow the Ember community worldwide.
+  - title: Closing Keynote
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Chris Eppstein
+        twitter: chriseppstein
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qWcNZ3j3y6g
+    description: |-
 
-- title: Interaction Design with Ember 2.0 and Polymer
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Bryan Langslet
-      twitter: blangslet
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Z8NDAiOZ8SE
-  description: |-
-    You've heard the hype about web components, but what does the spec provide other than small, re-usable chunks of markup?Web components provide an incredibly powerful and declarative way of structuring web apps. The Polymer platform in particular holds many hidden secrets, including a paradigm shift for interaction design: an animation library that bridges the gap between application states, providing a sense of context and clarity of purpose as you move through an app experience.We will show you how to leverage the power of Ember 2.0 and Polymer to create remarkable user experiences.
+  - title: Fault Tolerant UX
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Dan Gebhardt
+        twitter: dgeb
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/s2awUFvA-0I
+    description: |-
+      The key to building and maintaining users' confidence in long running applications is fault tolerance. Not just a data and connectivity concern - fault tolerance should be considered at every level of your application. A fault tolerant application clearly conveys its state to users throughout its interface, allows users to remain as productive as possible in any particular state, and ideally works behind the scenes to recover from faults.
 
-- title: Building Custom Apps with Ember CLI
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Brittany Storoz
-      twitter: brittanystoroz
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/J6vPwvFdUiE
-  description: |-
-    Not long ago, the JavaScript world lacked a good Rails equivalent. Ember CLI is quickly filling this void, and consistently improving thanks to its extensibility. The tool can be easily tailored to build for custom environments by creating new add-ons and leveraging existing ones.This presentation will highlight how to extend Ember CLI through add-ons, explaining example use-cases, how to create one, and the hooks available for developers to build into.
+  - title: Aligning Ember with Web Standards
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Matthew Beale
+        twitter: mixonic
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/knYeLk1EuHw
+    description: |-
+      JavaScript is a language awakening from long slumber. Browser vendors have already adopted many features from the ES6 specification ahead of its formal release in 2015, and even implemented some of the early ES7 draft specification.Ember, to help us build apps today, has provided its own version of many ES6 and ES7 features. As the drafts become specs and browsers add new capabilities, the framework will need to reconfigure itself around them.How well does Ember align with these new APIs? Where the framework differs, what might be a path forward?
 
-- title: Building Real-Time Applications with Ember
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Steve Kinney
-      twitter: stevekinney
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/nfGORL8ebn8
-  description: |-
-    In this session, we'll investigate a few strategies for integrating browser features like WebSockets as well as third-party libraries into our ember-cli applications. We'll look at how to structure an application using standalone controllers, initializer objects, and services. Our example application will be a real-time chat application that uses WebSockets to push notification to connect clients. We'll build the application with native WebSockets and talk about how to leverage external libraries like Socket.io and Faye.
+  - title: Growing Ember One Tomster at a Time
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Jamie White
+        twitter: jgwhite
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xsG0gDkvDPw
+    description: |-
+      Ember has technology’s most loveable mascot. He’s approachable, thoughtful, and never takes himself too seriously. Our community is like that too.In this talk, we’ll learn the story of Tomster: where he came from, how he’s grown, and what he represents. Then we’ll zoom out and see how the minds that gave us Tomster have carefully crafted a framework for creating communities like ours. Finally we’ll zoom back in again to see how to use that framework on a local scale to grow the Ember community worldwide.
 
-- title: MiniTalks
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Leah Silber
-      twitter: wifelette
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/K4fyHxg3Ldk
-  description: |-
+  - title: Interaction Design with Ember 2.0 and Polymer
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Bryan Langslet
+        twitter: blangslet
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Z8NDAiOZ8SE
+    description: |-
+      You've heard the hype about web components, but what does the spec provide other than small, re-usable chunks of markup?Web components provide an incredibly powerful and declarative way of structuring web apps. The Polymer platform in particular holds many hidden secrets, including a paradigm shift for interaction design: an animation library that bridges the gap between application states, providing a sense of context and clarity of purpose as you move through an app experience.We will show you how to leverage the power of Ember 2.0 and Polymer to create remarkable user experiences.
 
-- title: Physical Design
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Edward Faulkner
-      twitter: eaf4
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/p8aF-7-_cE8
-  description: |-
-    Physically-plausible motion makes applications more usable. Google's Material Design and the iOS Human Interface Guidelines both advocate for realistic animation as a key tool to help users navigate and understand.The Ember community is at the forefront of efforts to bring this level of polish to the open web and make it accessible to all developers. This talk will cover both the theory (when and why to introduce fluid motion) and the practice (how to get started today in your Ember app).
+  - title: Building Custom Apps with Ember CLI
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Brittany Storoz
+        twitter: brittanystoroz
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/J6vPwvFdUiE
+    description: |-
+      Not long ago, the JavaScript world lacked a good Rails equivalent. Ember CLI is quickly filling this void, and consistently improving thanks to its extensibility. The tool can be easily tailored to build for custom environments by creating new add-ons and leveraging existing ones.This presentation will highlight how to extend Ember CLI through add-ons, explaining example use-cases, how to create one, and the hooks available for developers to build into.
 
-- title: Closing Keynote
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Chris Eppstein
-      twitter: chriseppstein
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/qWcNZ3j3y6g
-  description: |-
+  - title: Building Real-Time Applications with Ember
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Steve Kinney
+        twitter: stevekinney
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/nfGORL8ebn8
+    description: |-
+      In this session, we'll investigate a few strategies for integrating browser features like WebSockets as well as third-party libraries into our ember-cli applications. We'll look at how to structure an application using standalone controllers, initializer objects, and services. Our example application will be a real-time chat application that uses WebSockets to push notification to connect clients. We'll build the application with native WebSockets and talk about how to leverage external libraries like Socket.io and Faye.
+
+  - title: MiniTalks
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Leah Silber
+        twitter: wifelette
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/K4fyHxg3Ldk
+    description: |-
+
+  - title: Physical Design
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Edward Faulkner
+        twitter: eaf4
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/p8aF-7-_cE8
+    description: |-
+      Physically-plausible motion makes applications more usable. Google's Material Design and the iOS Human Interface Guidelines both advocate for realistic animation as a key tool to help users navigate and understand.The Ember community is at the forefront of efforts to bring this level of polish to the open web and make it accessible to all developers. This talk will cover both the theory (when and why to introduce fluid motion) and the practice (how to get started today in your Ember app).
+
+  - title: Closing Keynote
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Chris Eppstein
+        twitter: chriseppstein
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qWcNZ3j3y6g
+    description: |-

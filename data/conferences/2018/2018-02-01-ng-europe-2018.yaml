@@ -1,267 +1,283 @@
-- title: 'webpack 4: The most important update for Angular'
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Sean Larkin
-      twitter: TheLarkInn
-      github: TheLarkInn
-      website:
-  slides:
-  videos:
-    - https://youtu.be/NbJonysf45Q
-  description: |-
-    Your favorite build tool is on the verge of shipping its newest major release! Join me as I give a state of the union on webpack, and how it relates to your angular development. We’ll talk about the our experimental WebAssembly first class integration, and most importantly the “sideEffects” optimization, and why your Angular apps should see a huge performance increase out of the box from it! Finally, we’ll explore what is next on the horizon, and what you can do to get involved!
+conference:
 
-- title: 'Through the Sound Barrier: High-Performance Apps with Angular'
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Manfred Steyer
-      twitter: manfredsteyer
-      github: manfredsteyer
-      website:
-  slides:
-  videos:
-    - https://youtu.be/oOnKcPpqOxs
+  name: ng-europe 2018
+  url: https://ngeurope.org/
+  status: complete
+  date:
+    from: 2018-02-01
+    to: 2018-02-02
+  location:
+    country: France
+    city: Paris
   description: |-
-    An application’s performance influences its acceptance and therefore also its commercial success significantly. However, there is not a sole adjusting screw for performance tuning in single page applications but even several influencing factors that need be considered. With its architecture, Angular addresses these aspects and offers some possibilities to provide a breath-taking performance. By the means of an application which is optimized systematically, this workshop shows how to use these possibilities. You learn how to leverage Ahead of Time Compilation (AOT), Tree Shaking and Lazy Loading to improve the startup performance of your application dramatically. In addition to that you see how to use the optimization strategy OnPush to speed up data binding performance in your solutions. Furthermore, Service Worker for caching and instant loading is covered as well as Server Side Rendering to improve the perceived loading time.
+    ng-europe, the original European Angular conference, brings you the most awesome people from the Angular community. On top of great content, ng-europe also aims to be a great place for people to socialize, make new friends and meet old ones, learn through great workshops and amazing keynotes, share ideas and of course hack on Angular in the heart of the beautiful city of Paris.
 
-- title: 'Angular Architecture: From Patterns to Implementation'
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Todd Motto
-      twitter: toddmotto
-      github: toddmotto
-      website:
-  slides:
-  videos:
-    - https://youtu.be/CbZ14jSrFZs
-  description: |-
-    Design patterns are what drives sensible architecture, and this applies to code organisation, component and module architecture, all the way through to state management. Let’s see how they all work as individual patterns, and explore their implementation in code. Once we know how the moving pieces work, we can easily fit them together to build solid apps that head in the same direction.
+talks:
 
-- title: Rapid prototyping using Angular and Firebase
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Mashhood Rastgar
-      twitter: mashhoodr
-      github: mashhoodr
-      website:
-  slides:
-  videos:
-    - https://youtu.be/9ienVyg2Vnk
-  description: |-
-    Create a simple functional prototyping in 20 minutes using Angular and Firebase. In this talk I will introduce the audience to Firebase/AngularFire and then will create a simple app like a twitter clone complete with sign up, login, listing tweets, adding them and liking them and deploy the app on Firebase. The idea behind the talk is to show how clean and easy it is to develop the apps once you have a good hold on the framework, and vast productivity gains you get from it. There will be some talk on best practices and different possible ways of doing things (smart vs dumb components).
+  - title: 'webpack 4: The most important update for Angular'
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Sean Larkin
+        twitter: TheLarkInn
+        github: TheLarkInn
+        website:
+    slides:
+    videos:
+      - https://youtu.be/NbJonysf45Q
+    description: |-
+      Your favorite build tool is on the verge of shipping its newest major release! Join me as I give a state of the union on webpack, and how it relates to your angular development. We’ll talk about the our experimental WebAssembly first class integration, and most importantly the “sideEffects” optimization, and why your Angular apps should see a huge performance increase out of the box from it! Finally, we’ll explore what is next on the horizon, and what you can do to get involved!
 
-- title: 'On the road to PWAs: building real cross-platform ng apps with Cordova & Electron'
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Christian Liebel
-      twitter: ChristianLiebel
-      github: chliebel
-      website:
-  slides:
-  videos:
-    - https://youtu.be/OcC-RJ1-joo
-  description: |-
-    Progressive Web Apps are the next big thing: this application model finally allows web applications to leverage powerful features that were previously reserved to native applications only. However, not all native features are exposed as a browser API and it will still take some time until PWAs finally land on the majority of devices out there. In the meantime, Cordova and Electron are here to help: they turn your web applications into native application packages that can be distributed to mobile platforms such as Android or iOS and desktop platforms like Windows, macOS and Linux. While the vast majority of your source code can be shared across all platforms, there might be a fraction that is platform-specific. Thanks to Angular, handling these platform differences is an easy task. Thinktecture’s Christian Liebel shows you how to build real-cross platform Angular apps with Cordova and Electron—on the road to Progressive Web Apps.
+  - title: 'Through the Sound Barrier: High-Performance Apps with Angular'
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Manfred Steyer
+        twitter: manfredsteyer
+        github: manfredsteyer
+        website:
+    slides:
+    videos:
+      - https://youtu.be/oOnKcPpqOxs
+    description: |-
+      An application’s performance influences its acceptance and therefore also its commercial success significantly. However, there is not a sole adjusting screw for performance tuning in single page applications but even several influencing factors that need be considered. With its architecture, Angular addresses these aspects and offers some possibilities to provide a breath-taking performance. By the means of an application which is optimized systematically, this workshop shows how to use these possibilities. You learn how to leverage Ahead of Time Compilation (AOT), Tree Shaking and Lazy Loading to improve the startup performance of your application dramatically. In addition to that you see how to use the optimization strategy OnPush to speed up data binding performance in your solutions. Furthermore, Service Worker for caching and instant loading is covered as well as Server Side Rendering to improve the perceived loading time.
 
-- title: Progressive Web Apps with Angular and Firebase
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Erik Haddad
-      twitter: erikhaddad
-      github: erikhaddad
-      website:
-  slides:
-  videos:
-    - https://youtu.be/aTMTjusHv9o
-  description: |-
-    Angular is a cross-platform solution for building powerful apps and supports Progressive Web Apps out of the box. Firebase gives you the tools and infrastructure you need to build better apps and grow successful businesses. Learn how Angular and Firebase tools enable you to increase app engagement with faster loads, offline access, authentication, data/media storage, serverless operations, push notifications, and more, through the progressive enhancement of your mobile web apps.
+  - title: 'Angular Architecture: From Patterns to Implementation'
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Todd Motto
+        twitter: toddmotto
+        github: toddmotto
+        website:
+    slides:
+    videos:
+      - https://youtu.be/CbZ14jSrFZs
+    description: |-
+      Design patterns are what drives sensible architecture, and this applies to code organisation, component and module architecture, all the way through to state management. Let’s see how they all work as individual patterns, and explore their implementation in code. Once we know how the moving pieces work, we can easily fit them together to build solid apps that head in the same direction.
 
-- title: How to hack an Angular app?
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Asim Hussain
-      twitter: jawache
-      github: jawache
-      website:
-  slides:
-  videos:
-    - https://youtu.be/2WhlK-GXQLM
-  description: |-
-    Thought hacking was hard? It’s not, it’s easy and I’m going to show you how! In this episode of CSI Paris we’ll investigate a series of hacking stories and break them down step-by-step to see exactly how they did it. By the end you’ll walk away a little bit more scared and a lot more prepared with some great practices you can apply immediately to your own Angular (and Node) applications.
+  - title: Rapid prototyping using Angular and Firebase
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Mashhood Rastgar
+        twitter: mashhoodr
+        github: mashhoodr
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9ienVyg2Vnk
+    description: |-
+      Create a simple functional prototyping in 20 minutes using Angular and Firebase. In this talk I will introduce the audience to Firebase/AngularFire and then will create a simple app like a twitter clone complete with sign up, login, listing tweets, adding them and liking them and deploy the app on Firebase. The idea behind the talk is to show how clean and easy it is to develop the apps once you have a good hold on the framework, and vast productivity gains you get from it. There will be some talk on best practices and different possible ways of doing things (smart vs dumb components).
 
-- title: Boost Your App's Emotional Intelligence w/ NativeScript, Angular & Machine Learning
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Jen Looper
-      twitter: jenlooper
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/We-yohLeSUY
-  description: |-
-    Do you ever wake up in a cold sweat, thinking that your mobile apps are both boring and stupid? When this happens, you start to question yourself, asking why your apps aren’t more empathetic, why they don’t respond better to your users’ needs. Even if you have built a performant app with a great UI, you can improve it by leveraging new methods of adding machine learning to your apps to create a really useful and enticing mobile app experience. In this talk, you’ll learn some basics of machine learning and how to integrate it into your mobile app, first with some clever APIs, and then with custom trained models using TensorFlow. Come learn how to send your apps back to school and level up their innate ‘emotional intelligence’!
+  - title: 'On the road to PWAs: building real cross-platform ng apps with Cordova & Electron'
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Christian Liebel
+        twitter: ChristianLiebel
+        github: chliebel
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OcC-RJ1-joo
+    description: |-
+      Progressive Web Apps are the next big thing: this application model finally allows web applications to leverage powerful features that were previously reserved to native applications only. However, not all native features are exposed as a browser API and it will still take some time until PWAs finally land on the majority of devices out there. In the meantime, Cordova and Electron are here to help: they turn your web applications into native application packages that can be distributed to mobile platforms such as Android or iOS and desktop platforms like Windows, macOS and Linux. While the vast majority of your source code can be shared across all platforms, there might be a fraction that is platform-specific. Thanks to Angular, handling these platform differences is an easy task. Thinktecture’s Christian Liebel shows you how to build real-cross platform Angular apps with Cordova and Electron—on the road to Progressive Web Apps.
 
-- title: Let's compose JavaScript and Reason
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Sven Sauleau
-      twitter: svensauleau
-      github: xtuc
-      website:
-  slides:
-  videos:
-    - https://youtu.be/wN2gKbZl9I4
-  description: |-
-    See how you can use ReasonML in your JavaScript and all the benefits!
+  - title: Progressive Web Apps with Angular and Firebase
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Erik Haddad
+        twitter: erikhaddad
+        github: erikhaddad
+        website:
+    slides:
+    videos:
+      - https://youtu.be/aTMTjusHv9o
+    description: |-
+      Angular is a cross-platform solution for building powerful apps and supports Progressive Web Apps out of the box. Firebase gives you the tools and infrastructure you need to build better apps and grow successful businesses. Learn how Angular and Firebase tools enable you to increase app engagement with faster loads, offline access, authentication, data/media storage, serverless operations, push notifications, and more, through the progressive enhancement of your mobile web apps.
 
-- title: Creating Beautiful Experiences Fast with Angular Material
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Stefanie Trimble Fluin
-      twitter: StefanieFluin
-      github: sjtrimble
-      website:
-  slides:
-  videos:
-    - https://youtu.be/g9zuLHHT2Z4
-  description: |-
-    Having worked on angular.io, I gained an appreciation for the process and care that the Angular team puts into its efforts. Angular Material is one of the best libraries available for easily and quickly adding beautiful functionality and user experiences. In this talk you will learn about: The goals, vision, and philosophy behind Angular Material and why it’s so awesome. My top 5 under-appreciated Angular Material components. The CDK and how you can take advantage of it
+  - title: How to hack an Angular app?
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Asim Hussain
+        twitter: jawache
+        github: jawache
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2WhlK-GXQLM
+    description: |-
+      Thought hacking was hard? It’s not, it’s easy and I’m going to show you how! In this episode of CSI Paris we’ll investigate a series of hacking stories and break them down step-by-step to see exactly how they did it. By the end you’ll walk away a little bit more scared and a lot more prepared with some great practices you can apply immediately to your own Angular (and Node) applications.
 
-- title: 'A look into the future: Angular Elements'
-  lang: en
-  type: lightning
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Antal Andrei
-      twitter: andrei_antal
-      github: andrei-antal
-      website:
-  slides:
-  videos:
-    - https://youtu.be/-pS8M_RBf84
-  description: |-
-    The Angular team launched Angular Labs this year with a goal to more transparently communicate the new ideas and explorations the team is making with the framework. One of this experiments is Angular Elements - a way to embed components written in Angular into any application without needing Angular to be present on the page. How is this possible? Simple, the single Angular component is packaged as a native web component providing just the input/output interface and encapsulating the logic. During the presentation, i will showcase how you can create such a component written in Angular code and use it effortlessly it in a React app. Already intrigued? Good 😃 Let’s explore the future together!
+  - title: Boost Your App's Emotional Intelligence w/ NativeScript, Angular & Machine Learning
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Jen Looper
+        twitter: jenlooper
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/We-yohLeSUY
+    description: |-
+      Do you ever wake up in a cold sweat, thinking that your mobile apps are both boring and stupid? When this happens, you start to question yourself, asking why your apps aren’t more empathetic, why they don’t respond better to your users’ needs. Even if you have built a performant app with a great UI, you can improve it by leveraging new methods of adding machine learning to your apps to create a really useful and enticing mobile app experience. In this talk, you’ll learn some basics of machine learning and how to integrate it into your mobile app, first with some clever APIs, and then with custom trained models using TensorFlow. Come learn how to send your apps back to school and level up their innate ‘emotional intelligence’!
 
-- title: 'Next Generation Ionic: Built for PWAs and interoperability'
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Adam Bradley
-      twitter: adamdbradley
-      github: adamdbradley
-      website:
-  slides:
-  videos:
-    - https://youtu.be/v15N8Ztp6Hs
-  description: |-
-    There has been a recent explosion of new Web APIs and technologies available in the browser, such as Web Components and Progressive Web Apps (PWAs). These new APIs and technologies offer major new capabilities to app developers and end users, and Ionic has been evolving to take advantage of them. Once built entirely on Angular, Ionic is moving all of its mobile-focused UI components to standardized Web Components, gaining dramatically reduced code size and load times in the process. Additionally, these Web Components are highly portable, working seamlessly in Angular but also in any other framework, or without any framework at all. In this talk we’ll describe how the Ionic team ported a large Angular UI component set to Web Components, building a new project called Stencil in the process to make building these Web Components easier than ever. We’ll talk about Angular Web Component interoperability, and why you might want to explore creating reusable Web Components for your own projects.
+  - title: Let's compose JavaScript and Reason
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Sven Sauleau
+        twitter: svensauleau
+        github: xtuc
+        website:
+    slides:
+    videos:
+      - https://youtu.be/wN2gKbZl9I4
+    description: |-
+      See how you can use ReasonML in your JavaScript and all the benefits!
 
-- title: Why I'm Excited About Angular for 2018 and 2038
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Stephen Fluin
-      twitter: stephenfluin
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/JlY8jXw7eZY
-  description: |-
+  - title: Creating Beautiful Experiences Fast with Angular Material
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Stefanie Trimble Fluin
+        twitter: StefanieFluin
+        github: sjtrimble
+        website:
+    slides:
+    videos:
+      - https://youtu.be/g9zuLHHT2Z4
+    description: |-
+      Having worked on angular.io, I gained an appreciation for the process and care that the Angular team puts into its efforts. Angular Material is one of the best libraries available for easily and quickly adding beautiful functionality and user experiences. In this talk you will learn about: The goals, vision, and philosophy behind Angular Material and why it’s so awesome. My top 5 under-appreciated Angular Material components. The CDK and how you can take advantage of it
 
-- title: 'When small is better: Brotli compression in a real case'
-  lang: en
-  type: lightning
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Tiago Temporin
-      twitter: _ttemporin
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/sB1R4NHp4MU
-  description: |-
+  - title: 'A look into the future: Angular Elements'
+    lang: en
+    type: lightning
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Antal Andrei
+        twitter: andrei_antal
+        github: andrei-antal
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-pS8M_RBf84
+    description: |-
+      The Angular team launched Angular Labs this year with a goal to more transparently communicate the new ideas and explorations the team is making with the framework. One of this experiments is Angular Elements - a way to embed components written in Angular into any application without needing Angular to be present on the page. How is this possible? Simple, the single Angular component is packaged as a native web component providing just the input/output interface and encapsulating the logic. During the presentation, i will showcase how you can create such a component written in Angular code and use it effortlessly it in a React app. Already intrigued? Good 😃 Let’s explore the future together!
 
-- title: To Vue or not Vue, that is the question
-  lang: en
-  type: lightning
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Gerard Sans
-      twitter: gerardsans
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/xprPOPZR2Vg
-  description: |-
+  - title: 'Next Generation Ionic: Built for PWAs and interoperability'
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Adam Bradley
+        twitter: adamdbradley
+        github: adamdbradley
+        website:
+    slides:
+    videos:
+      - https://youtu.be/v15N8Ztp6Hs
+    description: |-
+      There has been a recent explosion of new Web APIs and technologies available in the browser, such as Web Components and Progressive Web Apps (PWAs). These new APIs and technologies offer major new capabilities to app developers and end users, and Ionic has been evolving to take advantage of them. Once built entirely on Angular, Ionic is moving all of its mobile-focused UI components to standardized Web Components, gaining dramatically reduced code size and load times in the process. Additionally, these Web Components are highly portable, working seamlessly in Angular but also in any other framework, or without any framework at all. In this talk we’ll describe how the Ionic team ported a large Angular UI component set to Web Components, building a new project called Stencil in the process to make building these Web Components easier than ever. We’ll talk about Angular Web Component interoperability, and why you might want to explore creating reusable Web Components for your own projects.
 
-- title: '@angular/cli to install 3rd-party libraries'
-  lang: en
-  type: lightning
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Stepan Suvorov
-      twitter: stevermeister
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/futBmo7AQsI
-  description: |-
+  - title: Why I'm Excited About Angular for 2018 and 2038
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Stephen Fluin
+        twitter: stephenfluin
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JlY8jXw7eZY
+    description: |-
+
+  - title: 'When small is better: Brotli compression in a real case'
+    lang: en
+    type: lightning
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Tiago Temporin
+        twitter: _ttemporin
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/sB1R4NHp4MU
+    description: |-
+
+  - title: To Vue or not Vue, that is the question
+    lang: en
+    type: lightning
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Gerard Sans
+        twitter: gerardsans
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xprPOPZR2Vg
+    description: |-
+
+  - title: '@angular/cli to install 3rd-party libraries'
+    lang: en
+    type: lightning
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Stepan Suvorov
+        twitter: stevermeister
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/futBmo7AQsI
+    description: |-

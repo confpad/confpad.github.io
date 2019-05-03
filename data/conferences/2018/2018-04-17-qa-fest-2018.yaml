@@ -1,633 +1,649 @@
-- title: Regression Obsession
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 10:00:00
-  room:
-  authors:
-    - name: Michael Bolton
-      twitter:
-      github:
-      website: http://www.developsense.com/
-  slides:
-  videos:
-    - https://youtu.be/6RaUA-ajSqI
-  description: |-
-    In a fast-moving development organization, with each new build, there’s a plausible risk that the product might have somehow got worse. To address that risk, testers often find themselves responsible for—and overwhelmed by—the development and maintenance of an ever-growing automated regression test suite. Is this the best use of the testers’ time? Are the testers in the ideal position to do this well? What about the other forms of product and project risk—the problems that aren’t related to regression? Michael Bolton identifies factors to consider when linking the risk of regression to your overall testing strategy.
+conference:
 
-- title: UI testing in Unity3D – fantasy or reality?
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 10:00:00
-  room:
-  authors:
-    - name: Yevhen Rudiev
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/EdE8E_tmk_0
+  name: QA Fest 2018
+  url: http://qafest.com/indexe.html
+  status: complete
+  date:
+    from: 2018-04-17
+    to: 2018-04-18
+  location:
+    country: Ukraine
+    city: Kiev
   description: |-
-    Automated testing is a big rarity in GameDev. The Product is very specific and it is easier to test it manually… Frequent changes of the product… Lack of technologies to start automation from scratch. There are a lot of excuses why we don’t do automated testing in GameDev. But what if you spend tons of time in regression testing, again and again you need to click every UI element before a new release or a patch? The talk is about automated testing of games in Unity3D. How we automated our UI testing, why we decided to write our own UnityDriver and how we did it. And finally I will share with you small tips and tricks that might be helpful in your automation
+    Software testing conference #1 in Ukraine
 
-- title: 'Same old story: Foundation on QA department. Tips and tricks'
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 11:00:00
-  room:
-  authors:
-    - name: Andrey Myasnikov
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/RAC1bjWzIVk
-  description: |-
-    Hi, everyone! What if you are single tester in your company and you've been promoted to Team lead? Or you need to found QA department in your compamy from scratch? What to do? Where to run? Come and I'll tell you basics
+talks:
 
-- title: Mobile Testing. Pinpointing invisible problems
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 11:00:00
-  room:
-  authors:
-    - name: Alina Homenko
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/JMlKasOTx6g
-  description: |-
-    Testing is still developing, and mobile testing in particular. What is included in the performance of the mobile application and what metrics can be distinguished? How does Charles help with performance testing? Are Monkey Exerciser, Android Profiler, and Battery Historian only developer tools or the best friends of the testers in the non-functional testing of the mobile application? The purpose of my report is to talk about common invisible problems, which affect the quality of mobile applications, but which are often forgotten in the testing process.
+  - title: Regression Obsession
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 10:00:00
+    room:
+    authors:
+      - name: Michael Bolton
+        twitter:
+        github:
+        website: http://www.developsense.com/
+    slides:
+    videos:
+      - https://youtu.be/6RaUA-ajSqI
+    description: |-
+      In a fast-moving development organization, with each new build, there’s a plausible risk that the product might have somehow got worse. To address that risk, testers often find themselves responsible for—and overwhelmed by—the development and maintenance of an ever-growing automated regression test suite. Is this the best use of the testers’ time? Are the testers in the ideal position to do this well? What about the other forms of product and project risk—the problems that aren’t related to regression? Michael Bolton identifies factors to consider when linking the risk of regression to your overall testing strategy.
 
-- title: 1001 reasons to use Ggr in your Selenium installation
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 11:00:00
-  room:
-  authors:
-    - name: Ivan Krutov
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-1001-ggr-selenium/QAFest/qa-fest-2018-1001-ggr-selenium
-  videos:
-    - https://youtu.be/zxMPrUOO48w
-  description: |-
-    Modern software development is impossible without efficient tools. Quality assurance and especially browser automation is not an exclusion. When your team grows you will need more and more browsers being run in parallel. Well known Selenium server and Selenium Grid architecture are known to become slow and unstable even with several dozens of running browsers. Ggr is lightweight solution proven to work in a big cluster with thousands of parallel browser sessions. This talk will cover in detail Ggr - an extremely efficient Selenium load balancer absolutely necessary when you need to have more than several dozens of browsers running in parallel. We will begin with Selenium load balancing basics and go through all important Ggr features. You will see for example how easy is to show live browser screen and download recorded video for any browser session from hundreds of Selenium hosts.
+  - title: UI testing in Unity3D – fantasy or reality?
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 10:00:00
+    room:
+    authors:
+      - name: Yevhen Rudiev
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/EdE8E_tmk_0
+    description: |-
+      Automated testing is a big rarity in GameDev. The Product is very specific and it is easier to test it manually… Frequent changes of the product… Lack of technologies to start automation from scratch. There are a lot of excuses why we don’t do automated testing in GameDev. But what if you spend tons of time in regression testing, again and again you need to click every UI element before a new release or a patch? The talk is about automated testing of games in Unity3D. How we automated our UI testing, why we decided to write our own UnityDriver and how we did it. And finally I will share with you small tips and tricks that might be helpful in your automation
 
-- title: 'Gambling with the devil: taming all the risks'
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 12:00:00
-  room:
-  authors:
-    - name: Nikita Syskov
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-5-36/QAFest/qa-fest-2018-5-36
-  videos:
-    - https://youtu.be/_qPtGdjQbSQ
-  description: |-
-    Whenever you are planning to do something big - you need to account for risks that something may break you plans. Be it late arrival to the airport of broken demo environment. Risks are all around us and we need to accept this and learn how to live in a peaceful harmony with them. There are different things you can try to play with risks, and there are different outcomes you may wish to achieve. So let's see how to apply them in different cases and get the best ROI from risk management (or even just risk definition)
+  - title: 'Same old story: Foundation on QA department. Tips and tricks'
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 11:00:00
+    room:
+    authors:
+      - name: Andrey Myasnikov
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RAC1bjWzIVk
+    description: |-
+      Hi, everyone! What if you are single tester in your company and you've been promoted to Team lead? Or you need to found QA department in your compamy from scratch? What to do? Where to run? Come and I'll tell you basics
 
-- title: 'ATDD with CodeceptJS: Effective Testing Without Pain'
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 12:00:00
-  room:
-  authors:
-    - name: Michael Bodnarchuk
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/o2F321bUThA
-  description: |-
-    Testing is hard. Despite all read tutorials and courses not everyone is following the TDD approach. The idea looks nice in general but brings pain on implementation. What is wrong with our testing? Let’s find out! This talk will be interesting for frontend and backend developers as we will look into: - what makes effective tests - three qualities of tests - how not to mix specification and implementation in tests - how to predict future and work following ATDD - how to write end to end tests with CodeceptJS
+  - title: Mobile Testing. Pinpointing invisible problems
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 11:00:00
+    room:
+    authors:
+      - name: Alina Homenko
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JMlKasOTx6g
+    description: |-
+      Testing is still developing, and mobile testing in particular. What is included in the performance of the mobile application and what metrics can be distinguished? How does Charles help with performance testing? Are Monkey Exerciser, Android Profiler, and Battery Historian only developer tools or the best friends of the testers in the non-functional testing of the mobile application? The purpose of my report is to talk about common invisible problems, which affect the quality of mobile applications, but which are often forgotten in the testing process.
 
-- title: Regression is my profession!
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 13:00:00
-  room:
-  authors:
-    - name: Alexey Lupan
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-regression-is-my-profession
-  videos:
-    - https://youtu.be/JSWjTU1nRFU
-  description: |-
-    The more experienced you are, the more difficult become organization of regression testing. Simple things become sophisticated. Let's consider the reasons for this paradox and its solutions.
+  - title: 1001 reasons to use Ggr in your Selenium installation
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 11:00:00
+    room:
+    authors:
+      - name: Ivan Krutov
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-1001-ggr-selenium/QAFest/qa-fest-2018-1001-ggr-selenium
+    videos:
+      - https://youtu.be/zxMPrUOO48w
+    description: |-
+      Modern software development is impossible without efficient tools. Quality assurance and especially browser automation is not an exclusion. When your team grows you will need more and more browsers being run in parallel. Well known Selenium server and Selenium Grid architecture are known to become slow and unstable even with several dozens of running browsers. Ggr is lightweight solution proven to work in a big cluster with thousands of parallel browser sessions. This talk will cover in detail Ggr - an extremely efficient Selenium load balancer absolutely necessary when you need to have more than several dozens of browsers running in parallel. We will begin with Selenium load balancing basics and go through all important Ggr features. You will see for example how easy is to show live browser screen and download recorded video for any browser session from hundreds of Selenium hosts.
 
-- title: Methodology of ML in Performance testing (how find bottlenecks automatically)
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 13:00:00
-  room:
-  authors:
-    - name: Nikita Krychko
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-116451810
-  videos:
-    - https://youtu.be/qQDZfSClO0o
-  description: |-
-    Today, no one is surprised by highly loaded systems. Moreover, few people in our industry can be surprised by a separate person who is engaged in stress testing. Most of them think if they can automate everything, then the tests would find bugs automatically. However, few people know that the most significant part of the time is spent on analyzing the results (logs and graphs). The speech is going to show how to reduce the time to find bottlenecks in the analysis of various logs. How can you apply the simplest models of machine learning to find bottlenecks? Moreover, how to get requirements using historical data.
+  - title: 'Gambling with the devil: taming all the risks'
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 12:00:00
+    room:
+    authors:
+      - name: Nikita Syskov
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-5-36/QAFest/qa-fest-2018-5-36
+    videos:
+      - https://youtu.be/_qPtGdjQbSQ
+    description: |-
+      Whenever you are planning to do something big - you need to account for risks that something may break you plans. Be it late arrival to the airport of broken demo environment. Risks are all around us and we need to accept this and learn how to live in a peaceful harmony with them. There are different things you can try to play with risks, and there are different outcomes you may wish to achieve. So let's see how to apply them in different cases and get the best ROI from risk management (or even just risk definition)
 
-- title: Objective examination of software product quality
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 14:00:00
-  room:
-  authors:
-    - name: Vladimir Obrizan
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ZRpKwdYA1jw
-  description: |-
-    Automatic tests — the only objective and operative source of information about true quality of a software product under development. Modern applications are very complex, and it is impossible to estimate quality with needed coverage manually. Sometimes we have only subjective opinions about quality: "it seems it is working", "smoke tests are passing — well, let's release". In the given talk, we discuss a method to examine quality of a software product. This method enables everyone to measure work results of developers, and make release decisions based on facts, not opinions.
+  - title: 'ATDD with CodeceptJS: Effective Testing Without Pain'
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 12:00:00
+    room:
+    authors:
+      - name: Michael Bodnarchuk
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/o2F321bUThA
+    description: |-
+      Testing is hard. Despite all read tutorials and courses not everyone is following the TDD approach. The idea looks nice in general but brings pain on implementation. What is wrong with our testing? Let’s find out! This talk will be interesting for frontend and backend developers as we will look into: - what makes effective tests - three qualities of tests - how not to mix specification and implementation in tests - how to predict future and work following ATDD - how to write end to end tests with CodeceptJS
 
-- title: Automated Security Scanning in Payment Industry
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 14:00:00
-  room:
-  authors:
-    - name: Michał Buczko
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-micha-buczko-automated-security-scanning-in-payment-industry
-  videos:
-    - https://youtu.be/pXiZesoivlI
-  description: |-
-    Our QA world is focused on two topics: Automation and Cybersecurity. This case study shows how you can combine them successfully, by enhancing your automation with security scanning. We will use WebDriver and OWASP ZAProxy as our examples. Even with low investment and entry knowledge you can start playing with tools like automated scanners. We will show case study how to get fast benefits from combining them with Selenium test automation. See how to reuse your existing automation to get additional security scan results with almost minimum effort. With that You can easily enter software security world with minimum investment.
+  - title: Regression is my profession!
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 13:00:00
+    room:
+    authors:
+      - name: Alexey Lupan
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-regression-is-my-profession
+    videos:
+      - https://youtu.be/JSWjTU1nRFU
+    description: |-
+      The more experienced you are, the more difficult become organization of regression testing. Simple things become sophisticated. Let's consider the reasons for this paradox and its solutions.
 
-- title: Still generating your report? We're coming for you!
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 14:00:00
-  room:
-  authors:
-    - name: Artem Eroshenko
-      twitter:
-      github: eroshenkoam
-      website:
-  slides:
-  videos:
-    - https://youtu.be/tcH9-wrkVrk
-  description: |-
-    It’s been a year since the second version of Allure was released. During this time the number of tests has drastically increased, we started using new tools and learned to visualize information about the quality of our tests. All these changes had an impact on Allure, so now we’ve released a new major version of our test report. This talk will be useful both for those who are not familiar with Allure test report and for active users. We’ve added lots of new features. Come and join the talk!
+  - title: Methodology of ML in Performance testing (how find bottlenecks automatically)
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 13:00:00
+    room:
+    authors:
+      - name: Nikita Krychko
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-116451810
+    videos:
+      - https://youtu.be/qQDZfSClO0o
+    description: |-
+      Today, no one is surprised by highly loaded systems. Moreover, few people in our industry can be surprised by a separate person who is engaged in stress testing. Most of them think if they can automate everything, then the tests would find bugs automatically. However, few people know that the most significant part of the time is spent on analyzing the results (logs and graphs). The speech is going to show how to reduce the time to find bottlenecks in the analysis of various logs. How can you apply the simplest models of machine learning to find bottlenecks? Moreover, how to get requirements using historical data.
 
-- title: 'Case study: Users migration testing'
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 15:15:00
-  room:
-  authors:
-    - name: Kateryna Shepelieva
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-case-study
-  videos:
-    - https://youtu.be/pKCrk5qQsR8
-  description: |-
-    I want to talk about our experience of migrating users to a database of a 3rd party system, how we were choosing approaches and scenarios for testing, what challenges we faced, what useful conclusions have been made. No theory, only a case study with real examples
+  - title: Objective examination of software product quality
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 14:00:00
+    room:
+    authors:
+      - name: Vladimir Obrizan
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ZRpKwdYA1jw
+    description: |-
+      Automatic tests — the only objective and operative source of information about true quality of a software product under development. Modern applications are very complex, and it is impossible to estimate quality with needed coverage manually. Sometimes we have only subjective opinions about quality: "it seems it is working", "smoke tests are passing — well, let's release". In the given talk, we discuss a method to examine quality of a software product. This method enables everyone to measure work results of developers, and make release decisions based on facts, not opinions.
 
-- title: Estimate everything. Practitioner toolkit.
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 15:15:00
-  room:
-  authors:
-    - name: Galyna Doksvel
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/NHK4xbjzyHw
-  description: |-
-    This talk is about practice of estimation and about the toolkit, that allows to improve estimation accuracy and make your forecasts more predictable and manageable. Talk is practically-oriented that serves as a good clue on how to try any of mentioned approaches with your teams
+  - title: Automated Security Scanning in Payment Industry
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 14:00:00
+    room:
+    authors:
+      - name: Michał Buczko
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-micha-buczko-automated-security-scanning-in-payment-industry
+    videos:
+      - https://youtu.be/pXiZesoivlI
+    description: |-
+      Our QA world is focused on two topics: Automation and Cybersecurity. This case study shows how you can combine them successfully, by enhancing your automation with security scanning. We will use WebDriver and OWASP ZAProxy as our examples. Even with low investment and entry knowledge you can start playing with tools like automated scanners. We will show case study how to get fast benefits from combining them with Selenium test automation. See how to reuse your existing automation to get additional security scan results with almost minimum effort. With that You can easily enter software security world with minimum investment.
 
-- title: Using voice assistants for development and testing
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 15:15:00
-  room:
-  authors:
-    - name: Oleksandr Khotemskyi
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-116479882/QAFest/qa-fest-2018-116479882
-  videos:
-    - https://youtu.be/f8nPI4u4FrQ
-  description: |-
-    Voice assistants can be an interesting and fun replacement for regular chat bots. Such assistants can be used to perform almost any of your commands and they recognize voices well. This leads to interesting use cases and gives additional channel of information. Let's see why we might need them, and if it turns out that they are useless - at least we'll know it
+  - title: Still generating your report? We're coming for you!
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 14:00:00
+    room:
+    authors:
+      - name: Artem Eroshenko
+        twitter:
+        github: eroshenkoam
+        website:
+    slides:
+    videos:
+      - https://youtu.be/tcH9-wrkVrk
+    description: |-
+      It’s been a year since the second version of Allure was released. During this time the number of tests has drastically increased, we started using new tools and learned to visualize information about the quality of our tests. All these changes had an impact on Allure, so now we’ve released a new major version of our test report. This talk will be useful both for those who are not familiar with Allure test report and for active users. We’ve added lots of new features. Come and join the talk!
 
-- title: Agile outside IT companies & departments. Real stories of transformations
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 16:15:00
-  room:
-  authors:
-    - name: Artem Bykovets
-      twitter:
-      github:
-      website: http://www.abykovets.com/
-  slides:
-  videos:
-    - https://youtu.be/XG0Rg9uhqsI
-  description: |-
-    In recent years, words Agile and Scrum have ceased to be exotic not only in IT, but also outside software development. Such approaches propagate with the speed of a zombie apocalypse in horror movies.Requests for Scrum workshops come from increasingly exotic types of business. What is the difference between the implementation of Scrum / Agile in IT and outside? What are the difficulties, and which insights / "improvements" are noticed by teams and company executives? What is the secret of such popularity? You can hear about this and many other cases from our own experience with such companies as Intertop, Pandora, Amway, Weatherford, Kuehne + Nagel, NashFormat, Prozorro (and some others). Should be interesting and positive as usual. See you!
+  - title: 'Case study: Users migration testing'
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 15:15:00
+    room:
+    authors:
+      - name: Kateryna Shepelieva
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-case-study
+    videos:
+      - https://youtu.be/pKCrk5qQsR8
+    description: |-
+      I want to talk about our experience of migrating users to a database of a 3rd party system, how we were choosing approaches and scenarios for testing, what challenges we faced, what useful conclusions have been made. No theory, only a case study with real examples
 
-- title: Analytics Data Driven Testing
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 16:15:00
-  room:
-  authors:
-    - name: Slavik Pashanin
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-slavik-pashanin-analytics-data-driven-testing
-  videos:
-    - https://youtu.be/sSyJ3GPwCHY
-  description: |-
-    "Without data, you are just another person with an opinion". How can we use data to help us test our product better and be more efficient? In this lecture, we'll discuss the use of BI in testing, implementing BI using Google Analytics or an internal company BI system, TPAs (Anodot, Grafana, TrackJS), and making smart decisions using data
+  - title: Estimate everything. Practitioner toolkit.
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 15:15:00
+    room:
+    authors:
+      - name: Galyna Doksvel
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/NHK4xbjzyHw
+    description: |-
+      This talk is about practice of estimation and about the toolkit, that allows to improve estimation accuracy and make your forecasts more predictable and manageable. Talk is practically-oriented that serves as a good clue on how to try any of mentioned approaches with your teams
 
-- title: Last minute performance testing
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-21 16:15:00
-  room:
-  authors:
-    - name: Pavlo Vedilin
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018
-  videos:
-    - https://youtu.be/GHpGvmGeRHw
-  description: |-
-    I will talk about one of my own experiences with performance testing and how it can go wrong in every possible way. I will share practical advice on how to handle unknown technologies, unusual protocols, command-line tools, panicking stakeholders, not fail and preserve sanity. I would be happy to answer questions and hear alternative solutions, so don't miss out and see you at the event!
+  - title: Using voice assistants for development and testing
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 15:15:00
+    room:
+    authors:
+      - name: Oleksandr Khotemskyi
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-116479882/QAFest/qa-fest-2018-116479882
+    videos:
+      - https://youtu.be/f8nPI4u4FrQ
+    description: |-
+      Voice assistants can be an interesting and fun replacement for regular chat bots. Such assistants can be used to perform almost any of your commands and they recognize voices well. This leads to interesting use cases and gives additional channel of information. Let's see why we might need them, and if it turns out that they are useless - at least we'll know it
 
-- title: The Secret to Successful Testing
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 10:00:00
-  room:
-  authors:
-    - name: Johan Jonasson
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-johan-jonasson-the-secret-to-successful-testing
-  videos:
-    - https://youtu.be/PJAhjlnN_xw
-  description: |-
-    How good is your testing? Do you know? And if you do, can you explain why? One way to measure the success of your testing is to compare the information you now have about your product, to the information you intended to gather when you started testing. That intention is what your test strategy should capture and communicate. That last word is important: communicate. Even the best testing in the world isn't worth anything if you can't communicate what you're going to do, what you've done, and why. In this presentation I will show how I think about, model and visualize a strategy that is useful and that lets me later assess how well testing is fulfilling its mission, whether it's for hands-on testing that I'm doing to do on that particular day, or if I'm managing a multi-site project with cross-functional agile teams and need to construct a high-level starting point for test planning for the coming 6 months. Furthermore, I will discuss how to divide the strategy work between different project members and how to make sure that the quality assessments and reporting can be made valuable and, above all else, actionable by the project manager and product owners. This talk is directed at all types of project members, managers and other stakeholders who works with product quality.
+  - title: Agile outside IT companies & departments. Real stories of transformations
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 16:15:00
+    room:
+    authors:
+      - name: Artem Bykovets
+        twitter:
+        github:
+        website: http://www.abykovets.com/
+    slides:
+    videos:
+      - https://youtu.be/XG0Rg9uhqsI
+    description: |-
+      In recent years, words Agile and Scrum have ceased to be exotic not only in IT, but also outside software development. Such approaches propagate with the speed of a zombie apocalypse in horror movies.Requests for Scrum workshops come from increasingly exotic types of business. What is the difference between the implementation of Scrum / Agile in IT and outside? What are the difficulties, and which insights / "improvements" are noticed by teams and company executives? What is the secret of such popularity? You can hear about this and many other cases from our own experience with such companies as Intertop, Pandora, Amway, Weatherford, Kuehne + Nagel, NashFormat, Prozorro (and some others). Should be interesting and positive as usual. See you!
 
-- title: Between two realities. Testing AR / MR
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 10:00:00
-  room:
-  authors:
-    - name: Dariia Bondarieva
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/P8YPQL3z1z8
-  description: |-
-    Virtual reality or augmented reality? Maybe mixed reality? These notions are conquering the market and becoming more accessible for users. We are facing a rising demand for development of applications that support these technologies. This is what we'll deal with. You will learn the difference and specifics of testing for each reality type – with an extra focus on AR/MR, the specifics of testing and quality criteria. I'll share my experience, speak about things to pay due attention to, deliver a few words on precautionary measures, and help you avoid real errors in the virtual world.
+  - title: Analytics Data Driven Testing
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 16:15:00
+    room:
+    authors:
+      - name: Slavik Pashanin
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-slavik-pashanin-analytics-data-driven-testing
+    videos:
+      - https://youtu.be/sSyJ3GPwCHY
+    description: |-
+      "Without data, you are just another person with an opinion". How can we use data to help us test our product better and be more efficient? In this lecture, we'll discuss the use of BI in testing, implementing BI using Google Analytics or an internal company BI system, TPAs (Anodot, Grafana, TrackJS), and making smart decisions using data
 
-- title: Test Automation Pyramid, how it ruins your life
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 10:00:00
-  room:
-  authors:
-    - name: Yaroslav Pernerovskiy
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-test-automation-pyramid-how-it-ruins-your-life/QAFest/qa-fest-2018-test-automation-pyramid-how-it-ruins-your-life
-  videos:
-    - https://youtu.be/PLnTGYwWtKs
-  description: |-
-    Well defined concept of the "Test Automation Pyramid" exist in software development world. This is great concept and it helps to build great products. However even such great thing as pyramid can function wrong. My talk is dedicated to illuminate bad sides of the pyramid and common anti-patterns in its implementation. Hope it will help you to avoid common mistakes, burnout, gloom and oblivion in test automation.
+  - title: Last minute performance testing
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-21 16:15:00
+    room:
+    authors:
+      - name: Pavlo Vedilin
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018
+    videos:
+      - https://youtu.be/GHpGvmGeRHw
+    description: |-
+      I will talk about one of my own experiences with performance testing and how it can go wrong in every possible way. I will share practical advice on how to handle unknown technologies, unusual protocols, command-line tools, panicking stakeholders, not fail and preserve sanity. I would be happy to answer questions and hear alternative solutions, so don't miss out and see you at the event!
 
-- title: Cookbook for testing data
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 11:00:00
-  room:
-  authors:
-    - name: Aliaksei Boole
-      twitter:
-      github:
-      website:
-  slides:
-    - https://docs.google.com/presentation/d/1RzwEpqIRVlkaZohXUHGd2dAvjNO0TR_pxQRtSEQpITg/mobilepresent?slide=id.p1
-  videos:
-    - https://youtu.be/dMRlZQMuKNc
-  description: |-
-    The main purpose of the report «Cookbook for testing data» is to help the business automator to prepare good and detailed data for the tests with minimal expense of time and work. I propose to use a diverse variety of frameworks and approaches developed by our industry. In the report I will talk about the basics of the rational creation and use of data, I will provide the necessary brief information about the strategies and patterns of the various approaches used by experienced automation engineers. The work will not go without my personal experience.
+  - title: The Secret to Successful Testing
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 10:00:00
+    room:
+    authors:
+      - name: Johan Jonasson
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-johan-jonasson-the-secret-to-successful-testing
+    videos:
+      - https://youtu.be/PJAhjlnN_xw
+    description: |-
+      How good is your testing? Do you know? And if you do, can you explain why? One way to measure the success of your testing is to compare the information you now have about your product, to the information you intended to gather when you started testing. That intention is what your test strategy should capture and communicate. That last word is important: communicate. Even the best testing in the world isn't worth anything if you can't communicate what you're going to do, what you've done, and why. In this presentation I will show how I think about, model and visualize a strategy that is useful and that lets me later assess how well testing is fulfilling its mission, whether it's for hands-on testing that I'm doing to do on that particular day, or if I'm managing a multi-site project with cross-functional agile teams and need to construct a high-level starting point for test planning for the coming 6 months. Furthermore, I will discuss how to divide the strategy work between different project members and how to make sure that the quality assessments and reporting can be made valuable and, above all else, actionable by the project manager and product owners. This talk is directed at all types of project members, managers and other stakeholders who works with product quality.
 
-- title: What is Metasploit? How do I use it to test project security?
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 11:00:00
-  room:
-  authors:
-    - name: Svyatoslav Login
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-metasploit
-  videos:
-    - https://youtu.be/gHTQTrxMTEQ
-  description: |-
-    It's not a secret to anyone that when developing a project, few people pay enough attention to application security checks, and even when they think about it, they often overlook the vulnerability of hardware and the OS that communicates with your application. I'll tell you and show you what to look for when testing the security of your product, and how important it is to apply security testing. Well, as usual, I accompany my reports not only with theory but also with practical examples. times the special guests will be: - Nmap - Metasploit - Ettercap
+  - title: Between two realities. Testing AR / MR
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 10:00:00
+    room:
+    authors:
+      - name: Dariia Bondarieva
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/P8YPQL3z1z8
+    description: |-
+      Virtual reality or augmented reality? Maybe mixed reality? These notions are conquering the market and becoming more accessible for users. We are facing a rising demand for development of applications that support these technologies. This is what we'll deal with. You will learn the difference and specifics of testing for each reality type – with an extra focus on AR/MR, the specifics of testing and quality criteria. I'll share my experience, speak about things to pay due attention to, deliver a few words on precautionary measures, and help you avoid real errors in the virtual world.
 
-- title: React Native is Coming – the story of hybrid mobile application testing
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 11:00:00
-  room:
-  authors:
-    - name: Adam Stasiak
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-adam-stasiak-react-native-is-coming-the-story-of-hybrid-mobile-application-testing
-  videos:
-    - https://youtu.be/XdUfTb-P4Qw
-  description: |-
-    Main idea of this talk is to show what technologies can be used for cross-platform mobile app development and how to deal with UI tests automation for them. I will outline set of challenges every tester and developer needs to conquer and give some tips how to solve them. During this talk I will present how to apply UI tests in React Native project using Detox framework.
+  - title: Test Automation Pyramid, how it ruins your life
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 10:00:00
+    room:
+    authors:
+      - name: Yaroslav Pernerovskiy
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-test-automation-pyramid-how-it-ruins-your-life/QAFest/qa-fest-2018-test-automation-pyramid-how-it-ruins-your-life
+    videos:
+      - https://youtu.be/PLnTGYwWtKs
+    description: |-
+      Well defined concept of the "Test Automation Pyramid" exist in software development world. This is great concept and it helps to build great products. However even such great thing as pyramid can function wrong. My talk is dedicated to illuminate bad sides of the pyramid and common anti-patterns in its implementation. Hope it will help you to avoid common mistakes, burnout, gloom and oblivion in test automation.
 
-- title: Progressive Web Apps, Android Instant Apps & Accelerated Mobile Pages - will they substitute installable mobile apps?
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 12:00:00
-  room:
-  authors:
-    - name: Diana Pinchuk
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/tAcN6cpCMqc
-  description: |-
-    The perspective of creating a mobile app that doesn’t need to be downloaded and reviewed in the App Store is very attractive, especially when there is more than one analog for installable apps: Progressive Web Apps (PWA), Android Instant Apps (AIA) and Accelerated Mobile Pages (AMP). But here there is no silver bullet: each of the mentioned technologies has its own peculiarities of development, support, and testing. In the lecture, we’ll explore each of the platforms in detail and compare them with “usual” mobile apps, so to be ready for quality assurance even in such new and unusual projects
+  - title: Cookbook for testing data
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 11:00:00
+    room:
+    authors:
+      - name: Aliaksei Boole
+        twitter:
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1RzwEpqIRVlkaZohXUHGd2dAvjNO0TR_pxQRtSEQpITg/mobilepresent?slide=id.p1
+    videos:
+      - https://youtu.be/dMRlZQMuKNc
+    description: |-
+      The main purpose of the report «Cookbook for testing data» is to help the business automator to prepare good and detailed data for the tests with minimal expense of time and work. I propose to use a diverse variety of frameworks and approaches developed by our industry. In the report I will talk about the basics of the rational creation and use of data, I will provide the necessary brief information about the strategies and patterns of the various approaches used by experienced automation engineers. The work will not go without my personal experience.
 
-- title: Performance testing framework
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 12:00:00
-  room:
-  authors:
-    - name: Anton Serputko
-      twitter:
-      github: serputko
-      website:
-  slides:
-  videos:
-    - https://youtu.be/bq2R4QF1sdo
-  description: |-
-    We'll look at the framework for performance testing. It solves problems of interactive visualization of collected metrics, storing historical data, errors cause analysis, comparing several tests etc. Used open-source tools: Apache Jmeter, Grafana, Influxdb, Telegraf, Sitespeed.io, Jenkins, Webpagetest. All these services are wrapped into docker containers, that allows you to up the framework in just a few minutes. More examples can be found in the readme at https://github.com/serputko/performance-testing-framework.
+  - title: What is Metasploit? How do I use it to test project security?
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 11:00:00
+    room:
+    authors:
+      - name: Svyatoslav Login
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-metasploit
+    videos:
+      - https://youtu.be/gHTQTrxMTEQ
+    description: |-
+      It's not a secret to anyone that when developing a project, few people pay enough attention to application security checks, and even when they think about it, they often overlook the vulnerability of hardware and the OS that communicates with your application. I'll tell you and show you what to look for when testing the security of your product, and how important it is to apply security testing. Well, as usual, I accompany my reports not only with theory but also with practical examples. times the special guests will be: - Nmap - Metasploit - Ettercap
 
-- title: Shift-Left Testing
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 13:00:00
-  room:
-  authors:
-    - name: Anastasiya Aseeva
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-shiftleft-testing/QAFest/qa-fest-2018-shiftleft-testing
-  videos:
-    - https://youtu.be/7QAQMTznX_M
-  description: |-
-    The cheapest way to develop is the one where the artifacts are delivered to users in ONE iteration. Without 10+ iterations of improvements due to errors found. We will talk about the shift left testing approach that is gaining popularity. Its purpose is to prevent the occurrence of errors instead of searching for mistakes already made in the software. Testing with a left shift assumes that testing and development work in tandem and as the name suggests, testing is carried forward to the earliest stages of development. - You will learn why you need to test requirements and documentation. And also consider what engineering practices help make this a part of the culture in the team. (code review, pull request, spec by example, bdd, atdd) - I'll talk about different kinds of automated tests and when to write them, in order to reduce the number of manual tests in the late stages of product development. (tdd, bdd, atdd, component and integration tests) - We will analyze how joint team activities and functional duties of each team member change to conform this methodology. (Planning, grooming, retrospective, demo, dsm, compiling a test strategy, planning testing). - I will tell why it is so important to design the test models using test-design practices, rather than relying solely on exploratory testing. We will look at the testing of control flow, cycles, data flows. I will show practical examples of why developers need to master the skills of test design. - In conclusion, I will tell about one of the ways to calculate test coverage and how it differs from code coverage. As an example, we will draw a graph of requirements and check the coverage of the test model. The entire talk will be done with the example of testing a very simple application, consisting of a single service, a database and a WEB-page. Shift left testing underlies the Agile and DevOps methodologies.
+  - title: React Native is Coming – the story of hybrid mobile application testing
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 11:00:00
+    room:
+    authors:
+      - name: Adam Stasiak
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-adam-stasiak-react-native-is-coming-the-story-of-hybrid-mobile-application-testing
+    videos:
+      - https://youtu.be/XdUfTb-P4Qw
+    description: |-
+      Main idea of this talk is to show what technologies can be used for cross-platform mobile app development and how to deal with UI tests automation for them. I will outline set of challenges every tester and developer needs to conquer and give some tips how to solve them. During this talk I will present how to apply UI tests in React Native project using Detox framework.
 
-- title: ELK stack. Use in performance testing and more
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 13:00:00
-  room:
-  authors:
-    - name: Alexander Venger
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-elk-stack/QAFest/qa-fest-2018-elk-stack
-  videos:
-    - https://youtu.be/jY6G9zYgKG4
-  description: |-
-    This talk will be about what ELK stack is, how to install it and start using it. I'll talk about how to visualize the results of performance testing in real time with the help of this tool. We will also touch on the topic of processing various logs, for example, application logs or autotests
+  - title: Progressive Web Apps, Android Instant Apps & Accelerated Mobile Pages - will they substitute installable mobile apps?
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 12:00:00
+    room:
+    authors:
+      - name: Diana Pinchuk
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/tAcN6cpCMqc
+    description: |-
+      The perspective of creating a mobile app that doesn’t need to be downloaded and reviewed in the App Store is very attractive, especially when there is more than one analog for installable apps: Progressive Web Apps (PWA), Android Instant Apps (AIA) and Accelerated Mobile Pages (AMP). But here there is no silver bullet: each of the mentioned technologies has its own peculiarities of development, support, and testing. In the lecture, we’ll explore each of the platforms in detail and compare them with “usual” mobile apps, so to be ready for quality assurance even in such new and unusual projects
 
-- title: 56k Denial of Service
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 14:00:00
-  room:
-  authors:
-    - name: Denis Zhevner
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-56k-denial-of-service
-  videos:
-    - https://youtu.be/SpwWpe3B_DE
-  description: |-
-    It's XXI century out and the Internet entangle everyone tighter day by day. Can you imagine spending at least a couple of hours with no chats, mail, social networks? I bet you do. But did you ever think how fragile the web is? What if there are not so much efforts required to bring everything down? What is the chance to see ""500 Internal Server Error"" on opening your favorite website for a new portion of cute kitties? This talk is about HTTP vulnerabilities that impede our e-life. They require minimal uplink to cause denial of service. And they are the risk you need to be aware of to be on the safe side We will look into different types of attacks, find their similarities and differences. Dive into internal mechanics of the attacks, find out why it is possible and how does it work. We will also learn to test web projects for these types of vulnerabilities and mitigate the risks. And for sure, we'll find a peaceful use for the approaches that will come handy for engineers involved in web projects.
+  - title: Performance testing framework
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 12:00:00
+    room:
+    authors:
+      - name: Anton Serputko
+        twitter:
+        github: serputko
+        website:
+    slides:
+    videos:
+      - https://youtu.be/bq2R4QF1sdo
+    description: |-
+      We'll look at the framework for performance testing. It solves problems of interactive visualization of collected metrics, storing historical data, errors cause analysis, comparing several tests etc. Used open-source tools: Apache Jmeter, Grafana, Influxdb, Telegraf, Sitespeed.io, Jenkins, Webpagetest. All these services are wrapped into docker containers, that allows you to up the framework in just a few minutes. More examples can be found in the readme at https://github.com/serputko/performance-testing-framework.
 
-- title: GraphQL is a new sexy
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 14:00:00
-  room:
-  authors:
-    - name: Sergey Pirogov
-      twitter:
-      github:
-      website: http://automation-remarks.com/
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-graphql-is-a-new-sexy
-  videos:
-    - https://youtu.be/bQgO1_sOIig
-  description: |-
-    Graphql is a killer for classic REST API. In this talk I will tell about my experience working with GraphQL. As usual talks will be proved by real code examples and test automation.
+  - title: Shift-Left Testing
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 13:00:00
+    room:
+    authors:
+      - name: Anastasiya Aseeva
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-shiftleft-testing/QAFest/qa-fest-2018-shiftleft-testing
+    videos:
+      - https://youtu.be/7QAQMTznX_M
+    description: |-
+      The cheapest way to develop is the one where the artifacts are delivered to users in ONE iteration. Without 10+ iterations of improvements due to errors found. We will talk about the shift left testing approach that is gaining popularity. Its purpose is to prevent the occurrence of errors instead of searching for mistakes already made in the software. Testing with a left shift assumes that testing and development work in tandem and as the name suggests, testing is carried forward to the earliest stages of development. - You will learn why you need to test requirements and documentation. And also consider what engineering practices help make this a part of the culture in the team. (code review, pull request, spec by example, bdd, atdd) - I'll talk about different kinds of automated tests and when to write them, in order to reduce the number of manual tests in the late stages of product development. (tdd, bdd, atdd, component and integration tests) - We will analyze how joint team activities and functional duties of each team member change to conform this methodology. (Planning, grooming, retrospective, demo, dsm, compiling a test strategy, planning testing). - I will tell why it is so important to design the test models using test-design practices, rather than relying solely on exploratory testing. We will look at the testing of control flow, cycles, data flows. I will show practical examples of why developers need to master the skills of test design. - In conclusion, I will tell about one of the ways to calculate test coverage and how it differs from code coverage. As an example, we will draw a graph of requirements and check the coverage of the test model. The entire talk will be done with the example of testing a very simple application, consisting of a single service, a database and a WEB-page. Shift left testing underlies the Agile and DevOps methodologies.
 
-- title: Risk Analysis
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 15:15:00
-  room:
-  authors:
-    - name: Michael Bolton
-      twitter:
-      github:
-      website: http://www.developsense.com/
-  slides:
-  videos:
-    - https://youtu.be/g97mMeC9EIE
-  description: |-
-    Testing provides the headlights for the project—but where should those headlights be pointed? In a car, the headlights are naturally pointed towards the road ahead, but on a software development project, we don't always know where precisely where we're headed. Problems directly in front of us pose a risk to the business... but where else might risk threaten the value of the product or the project? In this presentation (co-authored with James Bach), Michael Bolton takes a deep dive into the relationship between testing, problems, and risk. He'll offer an approach to looking at the risk story, and the factors that inform it, and he'll provide you with a set of ideas to help you develop a risk model for your project.
+  - title: ELK stack. Use in performance testing and more
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 13:00:00
+    room:
+    authors:
+      - name: Alexander Venger
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-elk-stack/QAFest/qa-fest-2018-elk-stack
+    videos:
+      - https://youtu.be/jY6G9zYgKG4
+    description: |-
+      This talk will be about what ELK stack is, how to install it and start using it. I'll talk about how to visualize the results of performance testing in real time with the help of this tool. We will also touch on the topic of processing various logs, for example, application logs or autotests
 
-- title: Lock, stock and the browser console for QA
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 15:15:00
-  room:
-  authors:
-    - name: John Klymenko
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-qa/QAFest/qa-fest-2018-qa
-  videos:
-  description: |-
-    The deck of playing cards is the best tool for the cardsharks. Money - for the Wall Street bigwigs. Today we will discuss the browser console - what is, in my opinion, the best tool for any QA. We will figure out how to diagnose problems with this magical tool and therefore improve and accelerate our products
+  - title: 56k Denial of Service
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 14:00:00
+    room:
+    authors:
+      - name: Denis Zhevner
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-56k-denial-of-service
+    videos:
+      - https://youtu.be/SpwWpe3B_DE
+    description: |-
+      It's XXI century out and the Internet entangle everyone tighter day by day. Can you imagine spending at least a couple of hours with no chats, mail, social networks? I bet you do. But did you ever think how fragile the web is? What if there are not so much efforts required to bring everything down? What is the chance to see ""500 Internal Server Error"" on opening your favorite website for a new portion of cute kitties? This talk is about HTTP vulnerabilities that impede our e-life. They require minimal uplink to cause denial of service. And they are the risk you need to be aware of to be on the safe side We will look into different types of attacks, find their similarities and differences. Dive into internal mechanics of the attacks, find out why it is possible and how does it work. We will also learn to test web projects for these types of vulnerabilities and mitigate the risks. And for sure, we'll find a peaceful use for the approaches that will come handy for engineers involved in web projects.
 
-- title: 'REACTive automation: how to avoid shooting yourself in the foot'
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 15:15:00
-  room:
-  authors:
-    - name: Sergey Korol
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-reactive-automation-how-to-avoid-shooting-yourself-in-the-foot
-  videos:
-    - https://youtu.be/GOT2CJ54QaM
-  description: |-
-    React is one of the most popular JavaScript libraries for building user interfaces nowadays. It allows building encapsulated components that manage their own state, and compose them into complex UIs. What does it really mean for Software Engineers in Test? This talk will be focused on challenges you may face with while automating verifications of React-based applications. You’ll see practical examples of adding custom attributes to encapsulated components, learn some tips and tricks about Grids and Charts automation, discover how to generate different events for complex UI elements.
+  - title: GraphQL is a new sexy
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 14:00:00
+    room:
+    authors:
+      - name: Sergey Pirogov
+        twitter:
+        github:
+        website: http://automation-remarks.com/
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-graphql-is-a-new-sexy
+    videos:
+      - https://youtu.be/bQgO1_sOIig
+    description: |-
+      Graphql is a killer for classic REST API. In this talk I will tell about my experience working with GraphQL. As usual talks will be proved by real code examples and test automation.
 
-- title: The domain testing – is it new or well-forgotten old?
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 16:15:00
-  room:
-  authors:
-    - name: Andrey Ladutko
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-116636866/QAFest/qa-fest-2018-116636866
-  videos:
-    - https://youtu.be/UaLU1kJ9xWg
-  description: |-
-    Test design techniques is the ‘maths’ of testing. New techniques appear not so often. Two years ago the book of Cem Kaner ‘The Domain Testing Workbook’ was published. Let’s investigate the domain testing technique and try to identify whether this is something new in test design. What domain tetsing has in common with other test design technique? We will also analyse several examples of how to use domain testing tehnique in real project.
+  - title: Risk Analysis
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 15:15:00
+    room:
+    authors:
+      - name: Michael Bolton
+        twitter:
+        github:
+        website: http://www.developsense.com/
+    slides:
+    videos:
+      - https://youtu.be/g97mMeC9EIE
+    description: |-
+      Testing provides the headlights for the project—but where should those headlights be pointed? In a car, the headlights are naturally pointed towards the road ahead, but on a software development project, we don't always know where precisely where we're headed. Problems directly in front of us pose a risk to the business... but where else might risk threaten the value of the product or the project? In this presentation (co-authored with James Bach), Michael Bolton takes a deep dive into the relationship between testing, problems, and risk. He'll offer an approach to looking at the risk story, and the factors that inform it, and he'll provide you with a set of ideas to help you develop a risk model for your project.
 
-- title: Testing neural network, or how to convince AI love the humans
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 16:15:00
-  room:
-  authors:
-    - name: Yuriy Sychenko
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/QAFest/qa-fest-2018-testing-neural-network-or-how-to-convince-ai-love-the-humans
-  videos:
-    - https://youtu.be/SLoOhA-0Oxo
-  description: |-
-    Our product's main concept is understanding the live human language via Natural Language Processing = NLP to build chatbots for US insurance companies. Primarily, the Neural network did that for us. But when our chatbots got smarter, the approach needed to be continuously upgraded to avoid trolling the hooman. I'll be happy to share some practice of how our dev team improved our product in terms of NLP... and a few funny moments when users got the harsh dialog with our AI
+  - title: Lock, stock and the browser console for QA
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 15:15:00
+    room:
+    authors:
+      - name: John Klymenko
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-qa/QAFest/qa-fest-2018-qa
+    videos:
+    description: |-
+      The deck of playing cards is the best tool for the cardsharks. Money - for the Wall Street bigwigs. Today we will discuss the browser console - what is, in my opinion, the best tool for any QA. We will figure out how to diagnose problems with this magical tool and therefore improve and accelerate our products
 
-- title: How to manage your test data for successful test automation
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-22 16:15:00
-  room:
-  authors:
-    - name: Mikalai Alimenkou
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/alimenkou/bro-manage-test-data-like-a-pro-qa-fest-2018/
-  videos:
-    - https://youtu.be/E21AxgHX2B0
-  description: |-
-    Almost any application or software system manages data. It is hard to imagine test automation that is not affected by this fact. There are many differenct approaches how to prepare system under test, providing predefined test data: use application UI, invoke API methods, run business logic directly, access DB from test scenarios, etc. In this talk we will review most of existing approaches, starting from the easiest and the most popular ones and finishing with really tricky ways to manage your test data for large distributed systems. There is no ideal solution for every case or silver bullet, but I hope your toolset will become wider after visiting this talk.
+  - title: 'REACTive automation: how to avoid shooting yourself in the foot'
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 15:15:00
+    room:
+    authors:
+      - name: Sergey Korol
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-reactive-automation-how-to-avoid-shooting-yourself-in-the-foot
+    videos:
+      - https://youtu.be/GOT2CJ54QaM
+    description: |-
+      React is one of the most popular JavaScript libraries for building user interfaces nowadays. It allows building encapsulated components that manage their own state, and compose them into complex UIs. What does it really mean for Software Engineers in Test? This talk will be focused on challenges you may face with while automating verifications of React-based applications. You’ll see practical examples of adding custom attributes to encapsulated components, learn some tips and tricks about Grids and Charts automation, discover how to generate different events for complex UI elements.
+
+  - title: The domain testing – is it new or well-forgotten old?
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 16:15:00
+    room:
+    authors:
+      - name: Andrey Ladutko
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-116636866/QAFest/qa-fest-2018-116636866
+    videos:
+      - https://youtu.be/UaLU1kJ9xWg
+    description: |-
+      Test design techniques is the ‘maths’ of testing. New techniques appear not so often. Two years ago the book of Cem Kaner ‘The Domain Testing Workbook’ was published. Let’s investigate the domain testing technique and try to identify whether this is something new in test design. What domain tetsing has in common with other test design technique? We will also analyse several examples of how to use domain testing tehnique in real project.
+
+  - title: Testing neural network, or how to convince AI love the humans
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 16:15:00
+    room:
+    authors:
+      - name: Yuriy Sychenko
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/QAFest/qa-fest-2018-testing-neural-network-or-how-to-convince-ai-love-the-humans
+    videos:
+      - https://youtu.be/SLoOhA-0Oxo
+    description: |-
+      Our product's main concept is understanding the live human language via Natural Language Processing = NLP to build chatbots for US insurance companies. Primarily, the Neural network did that for us. But when our chatbots got smarter, the approach needed to be continuously upgraded to avoid trolling the hooman. I'll be happy to share some practice of how our dev team improved our product in terms of NLP... and a few funny moments when users got the harsh dialog with our AI
+
+  - title: How to manage your test data for successful test automation
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-22 16:15:00
+    room:
+    authors:
+      - name: Mikalai Alimenkou
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/alimenkou/bro-manage-test-data-like-a-pro-qa-fest-2018/
+    videos:
+      - https://youtu.be/E21AxgHX2B0
+    description: |-
+      Almost any application or software system manages data. It is hard to imagine test automation that is not affected by this fact. There are many differenct approaches how to prepare system under test, providing predefined test data: use application UI, invoke API methods, run business logic directly, access DB from test scenarios, etc. In this talk we will review most of existing approaches, starting from the easiest and the most popular ones and finishing with really tricky ways to manage your test data for large distributed systems. There is no ideal solution for every case or silver bullet, but I hope your toolset will become wider after visiting this talk.

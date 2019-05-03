@@ -1,305 +1,321 @@
-- title: BFF (Backend For Frontend)
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Uri Goldshtein
-      twitter: UriGoldshtein
-      github: Urigo
-      website:
-  slides:
-  videos:
-    - https://youtu.be/g6Mhm9W76jY
-  description: |-
+conference:
 
-- title: Beyond alert(1); cross-site scripting attacks in 2018
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Niels Schweisshelm
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
+  name: FrontMania 2018
+  url: https://www.frontmania.com/conference
+  status: complete
+  date:
+    from: 2018-11-16
+    to: 2018-11-16
+  location:
+    country: Netherlands
+    city: Utrecht
   description: |-
+    FrontMania is a group of people who are crazy about frontend development a.k.a. Frontend Maniacs. We as a group believe that Frontend development should be fun for everyone!Fun for us means creating cool, funny or crazy good quality software. That is the reason why we started to organise social meetings like a frontend pubquiz or a crazy cool conference. So we can all learn from each other while having a blast doing so!
 
-- title: EME? CDM? DRM? CENC? IDK!
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Sebastian Golasch
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+talks:
 
-- title: End-to-end testing from rookie to pro
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Domenico Gemoli
-      twitter: aberonni
-      github: aberonni
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: BFF (Backend For Frontend)
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Uri Goldshtein
+        twitter: UriGoldshtein
+        github: Urigo
+        website:
+    slides:
+    videos:
+      - https://youtu.be/g6Mhm9W76jY
+    description: |-
 
-- title: How React Native, Appium and me made each other shine!
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Wim Selles
-      twitter: wswebcreation
-      github: wswebcreation
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Beyond alert(1); cross-site scripting attacks in 2018
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Niels Schweisshelm
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Even More CSS Secrets
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Lea Verou
-      twitter: LeaVerou
-      github: LeaVerou
-      website:
-  slides:
-  videos:
-    - https://youtu.be/J1J4oNcpcSM
-  description: |-
+  - title: EME? CDM? DRM? CENC? IDK!
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Sebastian Golasch
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Profunctor Optics for state management
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Andre Staltz
-      twitter: andrestaltz
-      github: staltz
-      website:
-  slides:
-  videos:
-    - https://youtu.be/VdiJ_vgVUgs
-  description: |-
+  - title: End-to-end testing from rookie to pro
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Domenico Gemoli
+        twitter: aberonni
+        github: aberonni
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: JavaScript for Artists
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: George Mandis
-      twitter: georgeMandis
-      github: georgemandis
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: How React Native, Appium and me made each other shine!
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Wim Selles
+        twitter: wswebcreation
+        github: wswebcreation
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Browser APIs" the unknown Super Heroes"
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Rowdy Rabouw
-      twitter: RowdyRabouw
-      github: rowdyrabouw
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Even More CSS Secrets
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Lea Verou
+        twitter: LeaVerou
+        github: LeaVerou
+        website:
+    slides:
+    videos:
+      - https://youtu.be/J1J4oNcpcSM
+    description: |-
 
-- title: Inside React"Then and Now"
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Tianyu Pu
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Profunctor Optics for state management
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Andre Staltz
+        twitter: andrestaltz
+        github: staltz
+        website:
+    slides:
+    videos:
+      - https://youtu.be/VdiJ_vgVUgs
+    description: |-
 
-- title: Instant XR. Just add browser.
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Ruben van der Leun
-      twitter: rvdleun
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/y5hKHI1EbkM
-  description: |-
+  - title: JavaScript for Artists
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: George Mandis
+        twitter: georgeMandis
+        github: georgemandis
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Crafting Web Comics with Ember
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Jessica Jordan
-      twitter: jjordan_dev
-      github: jessica-jordan
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Browser APIs" the unknown Super Heroes"
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Rowdy Rabouw
+        twitter: RowdyRabouw
+        github: rowdyrabouw
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Wait the web can do that
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Rafael Fernandes
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Inside React"Then and Now"
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Tianyu Pu
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: CSS Fonts 4
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Chris Lilley
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/UFmYAQZYDCY
-  description: |-
+  - title: Instant XR. Just add browser.
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Ruben van der Leun
+        twitter: rvdleun
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/y5hKHI1EbkM
+    description: |-
 
-- title: Fun with Neural Networks using Tensorflow.js
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Piotr Ilczuk
-      twitter: pilczuk
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Crafting Web Comics with Ember
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Jessica Jordan
+        twitter: jjordan_dev
+        github: jessica-jordan
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: WTF Are Serverless Apps?
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Beth Haubert
-      twitter: haubertdashery
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Wait the web can do that
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Rafael Fernandes
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Frontend transformation"leverage the power of serverless to become a fullstack developer"
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Pavlik Kiselev
-      twitter:
-      github: paulcodiny
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: CSS Fonts 4
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Chris Lilley
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/UFmYAQZYDCY
+    description: |-
 
-- title: The Future of Work Begins with Us
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Bill Jensen
-      twitter: simpletonbill
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Q-kYR1UuTU4
-  description: |-
+  - title: Fun with Neural Networks using Tensorflow.js
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Piotr Ilczuk
+        twitter: pilczuk
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Senses 2.0 - Rabobank's new platform for Frontend development
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Jouke Visser
-      twitter: Jouke Visser
-      github: jouke
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: WTF Are Serverless Apps?
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Beth Haubert
+        twitter: haubertdashery
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Components and Styles Scoping
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-16
-  room:
-  authors:
-    - name: Mikhail Bashkirov Web
-      twitter: bashmish
-      github: bashmish
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Frontend transformation"leverage the power of serverless to become a fullstack developer"
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Pavlik Kiselev
+        twitter:
+        github: paulcodiny
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: The Future of Work Begins with Us
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Bill Jensen
+        twitter: simpletonbill
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Q-kYR1UuTU4
+    description: |-
+
+  - title: Senses 2.0 - Rabobank's new platform for Frontend development
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Jouke Visser
+        twitter: Jouke Visser
+        github: jouke
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Components and Styles Scoping
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-16
+    room:
+    authors:
+      - name: Mikhail Bashkirov Web
+        twitter: bashmish
+        github: bashmish
+        website:
+    slides:
+    videos:
+    description: |-

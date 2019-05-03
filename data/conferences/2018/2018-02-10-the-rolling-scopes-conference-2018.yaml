@@ -1,571 +1,587 @@
-- title: Tricky JS and WebGL practices to achieve the best performance on mobile
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Pink Room
-  authors:
-    - name: Andrei Lesnitsky
-      twitter: r1zzu
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/hpJw9GFLn90
-  description: |-
-    We'll speak about set of interesting practices our team applied on our project to achieve lower network payload with help of run-length encoding, reduce time to first paint and memory pressure to minimum using lazy iterators, being 60FPS even on android after implementing own light-weight WebGL library instead of using Pixi.js
+conference:
 
-- title: Developing and maintaining a coding community
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Blue Room
-  authors:
-    - name: Kristi Progri
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/YNAtuKUx9Og
+  name: The Rolling Scopes Conference 2018
+  url: https://2018.conf.rollingscopes.com/
+  status: complete
+  date:
+    from: 2018-02-10
+    to: 2018-02-11
+  location:
+    country: Belarus
+    city: Minsk
   description: |-
-    We will share the story of how a small group of people, jumpstarted the community in a small city like Tirana and what other small cities should avoid during their first steps in developing a Mozilla community. We will share tips on how to keep the Mozilla spirit alive after the enthusiastic start and also how to maintain coding communities.
+    The largest JavaScript/Front-end conference in Belarus. Two full days of delicious content for amazing people of the front-end scene.
 
-- title: Tale of microservices
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Pink Room
-  authors:
-    - name: Konstantin Krivlenia
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/VohMqI_HY1I
-  description: |-
-    When starting a new project or developing a current project, you often wonder if it is not worth changing technologies or approaches to development. Over the past few years, we have heard that many companies are moving towards microservice architecture. In many large companies, such as Google, Facebook, Netflix, this approach has proven itself on the good side, but is it worth using it in small teams or companies. What advantages and disadvantages can microservices bring to teams of up to 10 people? Is the game worth the candle? In the report we will analyze the real experience of building a microservice architecture in a team of 5 people, consider the difficulties one can encounter, starting from splitting up into microservices and ending with laying out on the production server. Only real facts, no water.
+talks:
 
-- title: Cross browser extensions - lets make one
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Blue Room
-  authors:
-    - name: Trishul Goel
-      twitter: trishulgoel
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/13rl5j24BbY
-  description: |-
-    In this session, we will be learning how to develop portable cross browser extensions using Javascript. One can learn how to use features of browser such as Notifications, Tab capture, HTTP request handling, Toolbar buttons in an addon. Also I will be giving a handson demo of creating a browser extension right in the session and deploying it in the browser.
+  - title: Tricky JS and WebGL practices to achieve the best performance on mobile
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Pink Room
+    authors:
+      - name: Andrei Lesnitsky
+        twitter: r1zzu
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hpJw9GFLn90
+    description: |-
+      We'll speak about set of interesting practices our team applied on our project to achieve lower network payload with help of run-length encoding, reduce time to first paint and memory pressure to minimum using lazy iterators, being 60FPS even on android after implementing own light-weight WebGL library instead of using Pixi.js
 
-- title: Introduction to Micro Frontends
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Pink Room
-  authors:
-    - name: Ivan Jovanovic
-      twitter: ivanjov96
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/LH3QoDWAD8k
-  description: |-
-    Ever wanted to use microservices architecture on the frontend? Want to build an app using React, Angular, and Vue together? This talk is about a thing that’s in our minds for a long time, but now’s the perfect time for it. It is called Micro Frontends, a microservice architecture on the frontend. I will show you how to write apps piece by piece and how to connect those pieces to work together. It’s so easy to split work across teams and developers and maintain those apps. The talk will cover: What are a Micro Frontends and what problem are they solving? What are our choices now? Examples of the implementations Sync and async services How can we use iframes for splitting frontend apps? This talk will try to change the way developers look at frontend applications. They’re becoming so big, nowadays we have 90% of the client code and 10% of the backend code and that’s becoming so hard to maintain. I’ve been using this pattern for a year and so far it helped me a lot. This architecture helped my company to split the work across teams and remove the code conflicts.
+  - title: Developing and maintaining a coding community
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Blue Room
+    authors:
+      - name: Kristi Progri
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/YNAtuKUx9Og
+    description: |-
+      We will share the story of how a small group of people, jumpstarted the community in a small city like Tirana and what other small cities should avoid during their first steps in developing a Mozilla community. We will share tips on how to keep the Mozilla spirit alive after the enthusiastic start and also how to maintain coding communities.
 
-- title: Пробуем Flow в бою
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Blue Room
-  authors:
-    - name: Alexander Shushunov
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/xSHPFcdVj2A
-  description: |-
-    В своем докладе Александр поделится опытом использования Flow на большом проекте, затронет инструменты, различные проблемы и тестирование.
+  - title: Tale of microservices
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Pink Room
+    authors:
+      - name: Konstantin Krivlenia
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/VohMqI_HY1I
+    description: |-
+      When starting a new project or developing a current project, you often wonder if it is not worth changing technologies or approaches to development. Over the past few years, we have heard that many companies are moving towards microservice architecture. In many large companies, such as Google, Facebook, Netflix, this approach has proven itself on the good side, but is it worth using it in small teams or companies. What advantages and disadvantages can microservices bring to teams of up to 10 people? Is the game worth the candle? In the report we will analyze the real experience of building a microservice architecture in a team of 5 people, consider the difficulties one can encounter, starting from splitting up into microservices and ending with laying out on the production server. Only real facts, no water.
 
-- title: How to hack a node app?
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Pink Room
-  authors:
-    - name: Asim Hussain
-      twitter: jawache
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/_P5aiH1RLOI
-  description: |-
-    This isn't a dry security talk where I explain how an XSS attack works with a "fake" intentionally vulnerable app. This is about REAL hacks from REAL life. This is the Japanese horror movie of security talks, my aim is to wake you up with hacking horror stories and inspire you to go away and learn more. Even though I have given versions of this talk before it continually evolves based on recent/popular hacks so it's always fresh, e.g. now this talk contains information about the large Equifax hack from a few months ago. By the time Rolling Scopes comes along it will contain information about public hacks in the new year (as long as those hacks would be interesting to the audience). The talk will contain sections specific to Node but will touch other languages/frameworks as well. A Node app sits at the top of a large stack of software written in many languages.
+  - title: Cross browser extensions - lets make one
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Blue Room
+    authors:
+      - name: Trishul Goel
+        twitter: trishulgoel
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/13rl5j24BbY
+    description: |-
+      In this session, we will be learning how to develop portable cross browser extensions using Javascript. One can learn how to use features of browser such as Notifications, Tab capture, HTTP request handling, Toolbar buttons in an addon. Also I will be giving a handson demo of creating a browser extension right in the session and deploying it in the browser.
 
-- title: Что не так с мобильным вебом?
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Blue Room
-  authors:
-    - name: Denis Ilin
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/5aNhBdyv9-4
-  description: |-
-    Проблемы, о которых никто не рассказывает. Особенности браузеров, UX, баги, хаки, всё, что можно и нельзя пофиксить. Кейсы, на которые не рассчитывал мобильный веб в момент создания. Опыт использования мобильных веб приложений вместо нативных.
+  - title: Introduction to Micro Frontends
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Pink Room
+    authors:
+      - name: Ivan Jovanovic
+        twitter: ivanjov96
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LH3QoDWAD8k
+    description: |-
+      Ever wanted to use microservices architecture on the frontend? Want to build an app using React, Angular, and Vue together? This talk is about a thing that’s in our minds for a long time, but now’s the perfect time for it. It is called Micro Frontends, a microservice architecture on the frontend. I will show you how to write apps piece by piece and how to connect those pieces to work together. It’s so easy to split work across teams and developers and maintain those apps. The talk will cover: What are a Micro Frontends and what problem are they solving? What are our choices now? Examples of the implementations Sync and async services How can we use iframes for splitting frontend apps? This talk will try to change the way developers look at frontend applications. They’re becoming so big, nowadays we have 90% of the client code and 10% of the backend code and that’s becoming so hard to maintain. I’ve been using this pattern for a year and so far it helped me a lot. This architecture helped my company to split the work across teams and remove the code conflicts.
 
-- title: Journey through VR and AR with React
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Pink Room
-  authors:
-    - name: Tomasz Łakomy
-      twitter: tlakomy
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/2G6Eo6Z9n9I
-  description: |-
-    It's time to leave the 2D world of a browser window and venture into the world of enhanced reality JavaScript applications. During the talk we'll see how to make great VR and AR experiences using just your browser and a bit of React, with live demos included, so we'll get to see them in action!
+  - title: Пробуем Flow в бою
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Blue Room
+    authors:
+      - name: Alexander Shushunov
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xSHPFcdVj2A
+    description: |-
+      В своем докладе Александр поделится опытом использования Flow на большом проекте, затронет инструменты, различные проблемы и тестирование.
 
-- title: Making mobile web app better with WEB APIs
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Blue Room
-  authors:
-    - name: Timofey Lavrenyuk
-      twitter: geek_timofey
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/AlRCcx5g3L4
-  description: |-
-    Want to make your app better? Web APIs can definitely help you. On the Rolling Scopes Conference, we will explore what this web development concept is and how to use some of the most common APIs. This report is based on my own PWA project. We will cover: Credential API Notifications API Storage API Network API Web Share API IndexedDB
+  - title: How to hack a node app?
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Pink Room
+    authors:
+      - name: Asim Hussain
+        twitter: jawache
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_P5aiH1RLOI
+    description: |-
+      This isn't a dry security talk where I explain how an XSS attack works with a "fake" intentionally vulnerable app. This is about REAL hacks from REAL life. This is the Japanese horror movie of security talks, my aim is to wake you up with hacking horror stories and inspire you to go away and learn more. Even though I have given versions of this talk before it continually evolves based on recent/popular hacks so it's always fresh, e.g. now this talk contains information about the large Equifax hack from a few months ago. By the time Rolling Scopes comes along it will contain information about public hacks in the new year (as long as those hacks would be interesting to the audience). The talk will contain sections specific to Node but will touch other languages/frameworks as well. A Node app sits at the top of a large stack of software written in many languages.
 
-- title: Rock’n’scroll
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Pink Room
-  authors:
-    - name: Anna Selezniova
-      twitter: asktwi
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/oBkcozjgtuA
-  description: |-
-    Visiting sites, we use the scroll, often without even thinking about it. This is a familiar interface element that should be simple and convenient to use. When developing websites, we have to take into account the scrolling properties, especially if we are trying to change its behavior. Sometimes the requirements of the designer to the interface can turn into a real punishment. The report is dedicated to the well-known and not so special features of the scroll and how to use it. Look, listen and let's scroll!
+  - title: Что не так с мобильным вебом?
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Blue Room
+    authors:
+      - name: Denis Ilin
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/5aNhBdyv9-4
+    description: |-
+      Проблемы, о которых никто не рассказывает. Особенности браузеров, UX, баги, хаки, всё, что можно и нельзя пофиксить. Кейсы, на которые не рассчитывал мобильный веб в момент создания. Опыт использования мобильных веб приложений вместо нативных.
 
-- title: Beyond React
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Blue Room
-  authors:
-    - name: Marek Piasecki
-      twitter: mad_maniak
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/b6vD9ASIoxo
-  description: |-
-    I'd like to show tools for building such applications: https://vimeo.com/91956695 https://vimeo.com/121721311 and explain why it's impossible with React. So talk would contain of mistakes in React architecture and second part would be about more efficient but not well advertised yet technology. I'm React early adopter. I've built with big success first React single page app 3 years ago, also recently participated in React Native project for bank.
+  - title: Journey through VR and AR with React
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Pink Room
+    authors:
+      - name: Tomasz Łakomy
+        twitter: tlakomy
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2G6Eo6Z9n9I
+    description: |-
+      It's time to leave the 2D world of a browser window and venture into the world of enhanced reality JavaScript applications. During the talk we'll see how to make great VR and AR experiences using just your browser and a bit of React, with live demos included, so we'll get to see them in action!
 
-- title: On JAM Stack Architectures
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Pink Room
-  authors:
-    - name: Ilya Pukhalski
-      twitter: pukhalski
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/s-v3WkIyUck
-  description: |-
-    Ever been scared of complex CMS solutions? Still cannot forget your wonderfully enjoyable development experience using WordPress? Then you are hitting the right number! Ilya is going to explore all the cornerstones of JAM approach to websites: git-centric workflow, markdown as a database, componentized JS-architecture, security, deployment, tooling.
+  - title: Making mobile web app better with WEB APIs
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Blue Room
+    authors:
+      - name: Timofey Lavrenyuk
+        twitter: geek_timofey
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/AlRCcx5g3L4
+    description: |-
+      Want to make your app better? Web APIs can definitely help you. On the Rolling Scopes Conference, we will explore what this web development concept is and how to use some of the most common APIs. This report is based on my own PWA project. We will cover: Credential API Notifications API Storage API Network API Web Share API IndexedDB
 
-- title: Stream API, through Redux-Observable in Electron-based app
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Blue Room
-  authors:
-    - name: Ales Tsvil
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/57m27q_xE68
-  description: |-
-    You might already know how to develop a desktop app, but don't try yet! I will show you how to do that, and even better - how to develop with using of modern and popular approach - Reactive Functional Programming. On example of Electron-based application where NodeJS streams meet RxJs inside of Redux-Observable.
+  - title: Rock’n’scroll
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Pink Room
+    authors:
+      - name: Anna Selezniova
+        twitter: asktwi
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/oBkcozjgtuA
+    description: |-
+      Visiting sites, we use the scroll, often without even thinking about it. This is a familiar interface element that should be simple and convenient to use. When developing websites, we have to take into account the scrolling properties, especially if we are trying to change its behavior. Sometimes the requirements of the designer to the interface can turn into a real punishment. The report is dedicated to the well-known and not so special features of the scroll and how to use it. Look, listen and let's scroll!
 
-- title: Как заработать больше в фронтенде?
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Pink Room
-  authors:
-    - name: Alexey Migutsky
-      twitter: mr_mig_by
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/A2RNBIHe8t0
-  description: |-
-    Алексей расскажет, почему вам мало платят, кому и за что платят больше, что нужно уметь, чтобы зарабатывать в топ 5% рынка и почему погоня за новым фреймворком стоит вам прибавки к зарплате.
+  - title: Beyond React
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Blue Room
+    authors:
+      - name: Marek Piasecki
+        twitter: mad_maniak
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/b6vD9ASIoxo
+    description: |-
+      I'd like to show tools for building such applications: https://vimeo.com/91956695 https://vimeo.com/121721311 and explain why it's impossible with React. So talk would contain of mistakes in React architecture and second part would be about more efficient but not well advertised yet technology. I'm React early adopter. I've built with big success first React single page app 3 years ago, also recently participated in React Native project for bank.
 
-- title: Navigating the Frontend landscape without encountering JS fatigue
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Blue Room
-  authors:
-    - name: Pavel Birukou
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/p7h8hMnjF4I
-  description: |-
-    Evolution Gaming has grown from 10 front-end developers in 2015, over 60 in 2017 and this growth is continuing exponentially. In the meantime, we’ve tried plenty of frameworks, approaches and technologies following hype wave, developers’ votes, Gaearon’s opinion. We’ve passed from vanillajs to React though to Backbone, from monorepo to multiple repos and then back to monorepo. We have transitioned from being trustful front-end developer to pragmatic engineers. So let’s discuss the cornerstones that keep our developers interested.
+  - title: On JAM Stack Architectures
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Pink Room
+    authors:
+      - name: Ilya Pukhalski
+        twitter: pukhalski
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/s-v3WkIyUck
+    description: |-
+      Ever been scared of complex CMS solutions? Still cannot forget your wonderfully enjoyable development experience using WordPress? Then you are hitting the right number! Ilya is going to explore all the cornerstones of JAM approach to websites: git-centric workflow, markdown as a database, componentized JS-architecture, security, deployment, tooling.
 
-- title: Evolution of Web Perfomance
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-10
-  room: Blue Room
-  authors:
-    - name: Denis Artyuhovich
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/BIJF0-FyV8M
-  description: |-
-    For web developers, especially for web games developers, performance is a key point. We try to make user interaction as smooth as possible to achieve better user experience. During the speech, we'll look at how the web changed, what actually happens with our application in the browser and how to deal with it. We'll also consider techniques on real examples
+  - title: Stream API, through Redux-Observable in Electron-based app
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Blue Room
+    authors:
+      - name: Ales Tsvil
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/57m27q_xE68
+    description: |-
+      You might already know how to develop a desktop app, but don't try yet! I will show you how to do that, and even better - how to develop with using of modern and popular approach - Reactive Functional Programming. On example of Electron-based application where NodeJS streams meet RxJs inside of Redux-Observable.
 
-- title: 'All-You-Can-Eat-Types: Monad Buffet'
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Pink Room
-  authors:
-    - name: Alexander Gerasimov
-      twitter: da_quirm
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/gpd_vwQmonM
-  description: |-
-    The talk explores the expressiveness of type systems found in purely functional programming languages such as Haskell or PureScript. We’ll dive into the world of monads and related types, discover how and why they are useful and examine a few curious examples and applications thereof.
+  - title: Как заработать больше в фронтенде?
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Pink Room
+    authors:
+      - name: Alexey Migutsky
+        twitter: mr_mig_by
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/A2RNBIHe8t0
+    description: |-
+      Алексей расскажет, почему вам мало платят, кому и за что платят больше, что нужно уметь, чтобы зарабатывать в топ 5% рынка и почему погоня за новым фреймворком стоит вам прибавки к зарплате.
 
-- title: Как рефакторить и оставаться в живых? (Рефакторинг клиентского кода)
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Blue Room
-  authors:
-    - name: Irina Levina
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/10NIA60SLj4
-  description: |-
-    "Рефакторинг" - это слово с большим нимбом над буквой "Р" возникает в голове каждый раз, когда возникают проблемы с поддержкой и расширяемостью кода. Но как часто возникает ситуация, когда этот "спаситель", который должен быть всё исправить, делает только хуже? (Чаще, чем хотелось бы) Давайте попробуем разобраться, что же такое рефакторинг, с чем и как его употреблять и как после этого продолжать полноценно жить.
+  - title: Navigating the Frontend landscape without encountering JS fatigue
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Blue Room
+    authors:
+      - name: Pavel Birukou
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/p7h8hMnjF4I
+    description: |-
+      Evolution Gaming has grown from 10 front-end developers in 2015, over 60 in 2017 and this growth is continuing exponentially. In the meantime, we’ve tried plenty of frameworks, approaches and technologies following hype wave, developers’ votes, Gaearon’s opinion. We’ve passed from vanillajs to React though to Backbone, from monorepo to multiple repos and then back to monorepo. We have transitioned from being trustful front-end developer to pragmatic engineers. So let’s discuss the cornerstones that keep our developers interested.
 
-- title: Защита сервиса при помощи CSP
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Pink Room
-  authors:
-    - name: Vsevolod Shmyrov
-      twitter: v_shmyrov
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/W41Pn9gimYw
-  description: |-
-    В прошлом году мы в нескольких сервисах внедряли технологию защиты CSP. Я расскажу в докладе зачем мы это делали. От каких видов атак теперь защищены наши сервисы. И с какими сложностями столкнулись.
+  - title: Evolution of Web Perfomance
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-10
+    room: Blue Room
+    authors:
+      - name: Denis Artyuhovich
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/BIJF0-FyV8M
+    description: |-
+      For web developers, especially for web games developers, performance is a key point. We try to make user interaction as smooth as possible to achieve better user experience. During the speech, we'll look at how the web changed, what actually happens with our application in the browser and how to deal with it. We'll also consider techniques on real examples
 
-- title: How developers can upgrade their visual design skills for better front end development
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Blue Room
-  authors:
-    - name: Tomasz Jonasz Kujawski
-      twitter: zachwytupiewca
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/V5enef11Bjw
-  description: |-
-    Many clients complain that devs don't feel visual aspects - typography, alignments and basically visual hierarchy. I want to talk about fundamental rules, good practices, which can be useful for every developer and I want to present good ways to cooperate between designer & devs.
+  - title: 'All-You-Can-Eat-Types: Monad Buffet'
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Pink Room
+    authors:
+      - name: Alexander Gerasimov
+        twitter: da_quirm
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/gpd_vwQmonM
+    description: |-
+      The talk explores the expressiveness of type systems found in purely functional programming languages such as Haskell or PureScript. We’ll dive into the world of monads and related types, discover how and why they are useful and examine a few curious examples and applications thereof.
 
-- title: Когда продуктов много, а дизайнеров чуть-чуть
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Pink Room
-  authors:
-    - name: Vitali Novikau
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/_qBJvY_kbyU
-  description: |-
-    Меня зовут Виталий, я работаю как UI/UX Team Lead в EPAM System. Думаю каждый из вас, мечтал погрузиться во что-то большое и попробовать поработать над большими задачами и разносторонними проектами. Для меня это не мечты, а реальность. Я расскажу о том, как я лидаю дизайн на более 120 проектах в различных доменных областях при наличии 8-ми дизайнеров. Вы узнаете, как правильно работать с командой, как выстроить дизайн процессы и сделать правильный фреймворк, продать все это заказчику и не наступить на грабли. Также вы услышите о наших нововведениях, которые мы планируем внедрить.
+  - title: Как рефакторить и оставаться в живых? (Рефакторинг клиентского кода)
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Blue Room
+    authors:
+      - name: Irina Levina
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/10NIA60SLj4
+    description: |-
+      "Рефакторинг" - это слово с большим нимбом над буквой "Р" возникает в голове каждый раз, когда возникают проблемы с поддержкой и расширяемостью кода. Но как часто возникает ситуация, когда этот "спаситель", который должен быть всё исправить, делает только хуже? (Чаще, чем хотелось бы) Давайте попробуем разобраться, что же такое рефакторинг, с чем и как его употреблять и как после этого продолжать полноценно жить.
 
-- title: 'DI: DIY'
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Blue Room
-  authors:
-    - name: James Akwuh
-      twitter: jamesakwuh
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/qQnzVTOqzio
-  description: |-
-    В сообществе JS редко обсуждают паттерн Dependency Injection, хотя он является одним из самых важных блоков в построении архитектуры большого приложения. Я всегда восхищался реализацией DI в Java-фреймворке Spring, и последние два года неоднократно пытался реализовать аналогичный подход. Наконец, получилось. В докладе мы рассмотрим следующие вещи: Что такое DI и какое место он занимает в архитектуре приложения? Как правильно использовать DI? Насколько простым может быть DI в JS? Чего можно добиться с помощью Decorators Metadata в TS? Примеры
+  - title: Защита сервиса при помощи CSP
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Pink Room
+    authors:
+      - name: Vsevolod Shmyrov
+        twitter: v_shmyrov
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/W41Pn9gimYw
+    description: |-
+      В прошлом году мы в нескольких сервисах внедряли технологию защиты CSP. Я расскажу в докладе зачем мы это делали. От каких видов атак теперь защищены наши сервисы. И с какими сложностями столкнулись.
 
-- title: The elegance of decorated Redux
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Pink Room
-  authors:
-    - name: Ilja Satchok
-      twitter: _ifours_
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/NaEiH3Z1qqI
-  description: |-
-    One simple pattern that I have discovered for myself dramatically improve my work with redux. By reusing redux connects we can clean up our code, making the container component easier to read and to maintain.
+  - title: How developers can upgrade their visual design skills for better front end development
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Blue Room
+    authors:
+      - name: Tomasz Jonasz Kujawski
+        twitter: zachwytupiewca
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/V5enef11Bjw
+    description: |-
+      Many clients complain that devs don't feel visual aspects - typography, alignments and basically visual hierarchy. I want to talk about fundamental rules, good practices, which can be useful for every developer and I want to present good ways to cooperate between designer & devs.
 
-- title: Ресерчили-ресерчили, да не выресерчавали
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Blue Room
-  authors:
-    - name: Dzmitry Vanitski
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/hMNys-hRrmI
-  description: |-
-    Этот доклад о том, как не попасть в ловушку и не похоронить результаты, потом и кровью полученные во время исследования. Я поделюсь своим опытом перекидывания мостика от исследования к прототипированию и готовому дизайну на реальных примерах и дам много полезных советов, как правильно настроить дизайн-процесс.
+  - title: Когда продуктов много, а дизайнеров чуть-чуть
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Pink Room
+    authors:
+      - name: Vitali Novikau
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_qBJvY_kbyU
+    description: |-
+      Меня зовут Виталий, я работаю как UI/UX Team Lead в EPAM System. Думаю каждый из вас, мечтал погрузиться во что-то большое и попробовать поработать над большими задачами и разносторонними проектами. Для меня это не мечты, а реальность. Я расскажу о том, как я лидаю дизайн на более 120 проектах в различных доменных областях при наличии 8-ми дизайнеров. Вы узнаете, как правильно работать с командой, как выстроить дизайн процессы и сделать правильный фреймворк, продать все это заказчику и не наступить на грабли. Также вы услышите о наших нововведениях, которые мы планируем внедрить.
 
-- title: How to improve test coverage up to 80% with generated unit testing approach and be calm.
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Pink Room
-  authors:
-    - name: Aliaksandr Pasynkau
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/V-6hEsziY8M
-  description: |-
-    For many projects testing is really huge pain. And I know the cure for pain. ...Okey Okey... for 80% of this pain. Shortly: Linting, RegExp checkers, prettier, unit testing, test coverage, property testing, schema mocking, sandbox, DI, code generators.
+  - title: 'DI: DIY'
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Blue Room
+    authors:
+      - name: James Akwuh
+        twitter: jamesakwuh
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qQnzVTOqzio
+    description: |-
+      В сообществе JS редко обсуждают паттерн Dependency Injection, хотя он является одним из самых важных блоков в построении архитектуры большого приложения. Я всегда восхищался реализацией DI в Java-фреймворке Spring, и последние два года неоднократно пытался реализовать аналогичный подход. Наконец, получилось. В докладе мы рассмотрим следующие вещи: Что такое DI и какое место он занимает в архитектуре приложения? Как правильно использовать DI? Насколько простым может быть DI в JS? Чего можно добиться с помощью Decorators Metadata в TS? Примеры
 
-- title: И снова телевизоры!
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Blue Room
-  authors:
-    - name: Egor Malkevich
-      twitter: wegorelax
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/g7OBtXP69oQ
-  description: |-
-    Поговорим о том, как разрабатывать в 2018 году приложения под телевизоры, обсудим этот своеобразный и непокорный web девелоперу рынок. Егор поделится опытом разработки под телевизоры LG и Samsung. С чего начать, как не допускать ошибок и как вывести приложение в релиз.
+  - title: The elegance of decorated Redux
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Pink Room
+    authors:
+      - name: Ilja Satchok
+        twitter: _ifours_
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/NaEiH3Z1qqI
+    description: |-
+      One simple pattern that I have discovered for myself dramatically improve my work with redux. By reusing redux connects we can clean up our code, making the container component easier to read and to maintain.
 
-- title: Codemods и трансформация JavaScript кода
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Pink Room
-  authors:
-    - name: Mikhail Hatsilau
-      twitter: gatik9306
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/p8F-UIzuJtA
-  description: |-
-    Михаил расскажет о принципах работы и анализа AST. Какие инструменты есть для этого, примеры использования AST для статического анализа кода и для трансформации. Также затронет codemods, которые часто используют как для перехода на новые версии либ, так и для обновления синтаксических конструкций.
+  - title: Ресерчили-ресерчили, да не выресерчавали
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Blue Room
+    authors:
+      - name: Dzmitry Vanitski
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hMNys-hRrmI
+    description: |-
+      Этот доклад о том, как не попасть в ловушку и не похоронить результаты, потом и кровью полученные во время исследования. Я поделюсь своим опытом перекидывания мостика от исследования к прототипированию и готовому дизайну на реальных примерах и дам много полезных советов, как правильно настроить дизайн-процесс.
 
-- title: Ускорение UI тестов
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Pink Room
-  authors:
-    - name: Vasiliy Vanchuk
-      twitter: vvscode
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Vh7vXXN599s
-  description: |-
-    Как устранение привязки интеграционных тестов к бэкенду позволило ускорить UI тесты в несколько раз, а заодно упростило жизнь разработчикам и тестировщикам.
+  - title: How to improve test coverage up to 80% with generated unit testing approach and be calm.
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Pink Room
+    authors:
+      - name: Aliaksandr Pasynkau
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/V-6hEsziY8M
+    description: |-
+      For many projects testing is really huge pain. And I know the cure for pain. ...Okey Okey... for 80% of this pain. Shortly: Linting, RegExp checkers, prettier, unit testing, test coverage, property testing, schema mocking, sandbox, DI, code generators.
 
-- title: Дизайнерская неожиданность
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Blue Room
-  authors:
-    - name: Yauheniya Zhur
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/OIs_03m_ED4
-  description: |-
-    Наверняка каждый из нас хоть раз сталкивался с избыточными, захламленными, слишком яркими интерфейсами, которые с первого взгляда кажутся абсолютно нежизнеспособными. И чаще всего это действительно так, но в этом докладе я расскажу о тех случаях, в которых такие решения становятся наилучшими для конкретной задачи.
+  - title: И снова телевизоры!
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Blue Room
+    authors:
+      - name: Egor Malkevich
+        twitter: wegorelax
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/g7OBtXP69oQ
+    description: |-
+      Поговорим о том, как разрабатывать в 2018 году приложения под телевизоры, обсудим этот своеобразный и непокорный web девелоперу рынок. Егор поделится опытом разработки под телевизоры LG и Samsung. С чего начать, как не допускать ошибок и как вывести приложение в релиз.
 
-- title: Front-end для блокчейн проекта децентрализованной исследовательской платформы
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Pink Room
-  authors:
-    - name: Alex Shkorh
-      twitter: alexshkor
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/oyjsUbv97yw
-  description: |-
-    Мы живем в интересное время, когда децентрализация бизнес процессов только начинает внедряться в наше общество. Основная технология для создания проектов по децентрализации бизнес процессов - это блокчейн. Это достаточно новая технология, которая получила большое распространение сейчас и продолжает стремительно развиваться. Однако еще не выработались устойчивые практики разработки как самих протоколов, так и пользовательского интерфейса для этих протоколов. В докладе мы на примере децентрализованной исследовательской платформы DEIP разберем, какие сложности стоят перед front-end разработчиками блокчейн проекта, и рассмотрим, какие есть особенности взаимодействия с децентрализованной системой. В частности, рассмотрим, каким образом может быть организована архитектура front-end для децентрализованного приложения на Ethereum или Graphene Framework.
+  - title: Codemods и трансформация JavaScript кода
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Pink Room
+    authors:
+      - name: Mikhail Hatsilau
+        twitter: gatik9306
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/p8F-UIzuJtA
+    description: |-
+      Михаил расскажет о принципах работы и анализа AST. Какие инструменты есть для этого, примеры использования AST для статического анализа кода и для трансформации. Также затронет codemods, которые часто используют как для перехода на новые версии либ, так и для обновления синтаксических конструкций.
 
-- title: 'Workshop: Думай, как дизайнер'
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Blue Room
-  authors:
-    - name: Kate Bosakova
-      twitter:
-      github:
-      website:
-    - name: Krystsina Svirydzenka
-      twitter:
-      github:
-      website:
-    - name: Hanna Kolesava
-      twitter:
-      github:
-      website:
-    - name: Svetlana Jeltok
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/x1vAevI5kIg
-  description: |-
+  - title: Ускорение UI тестов
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Pink Room
+    authors:
+      - name: Vasiliy Vanchuk
+        twitter: vvscode
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Vh7vXXN599s
+    description: |-
+      Как устранение привязки интеграционных тестов к бэкенду позволило ускорить UI тесты в несколько раз, а заодно упростило жизнь разработчикам и тестировщикам.
 
-- title: Разработка редактора документов
-  lang: ru
-  type: regular
-  level:
-  time: 2018-02-11
-  room: Pink Blue Room
-  authors:
-    - name: Dmitry Volokh
-      twitter: davolokh
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/LKBC2Gr5Wgw
-  description: |-
-    Как мы в PandaDoc с нуля писали браузерный редактор документов на React'е. Архитектурные решения, которые упростили разработку. Подводные камни и проблемы, с которыми столкнулись в процессе. Генерация PDF на NodeJS с использованием Puppeteer и немного про Collaborative editing.
+  - title: Дизайнерская неожиданность
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Blue Room
+    authors:
+      - name: Yauheniya Zhur
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OIs_03m_ED4
+    description: |-
+      Наверняка каждый из нас хоть раз сталкивался с избыточными, захламленными, слишком яркими интерфейсами, которые с первого взгляда кажутся абсолютно нежизнеспособными. И чаще всего это действительно так, но в этом докладе я расскажу о тех случаях, в которых такие решения становятся наилучшими для конкретной задачи.
+
+  - title: Front-end для блокчейн проекта децентрализованной исследовательской платформы
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Pink Room
+    authors:
+      - name: Alex Shkorh
+        twitter: alexshkor
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/oyjsUbv97yw
+    description: |-
+      Мы живем в интересное время, когда децентрализация бизнес процессов только начинает внедряться в наше общество. Основная технология для создания проектов по децентрализации бизнес процессов - это блокчейн. Это достаточно новая технология, которая получила большое распространение сейчас и продолжает стремительно развиваться. Однако еще не выработались устойчивые практики разработки как самих протоколов, так и пользовательского интерфейса для этих протоколов. В докладе мы на примере децентрализованной исследовательской платформы DEIP разберем, какие сложности стоят перед front-end разработчиками блокчейн проекта, и рассмотрим, какие есть особенности взаимодействия с децентрализованной системой. В частности, рассмотрим, каким образом может быть организована архитектура front-end для децентрализованного приложения на Ethereum или Graphene Framework.
+
+  - title: 'Workshop: Думай, как дизайнер'
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Blue Room
+    authors:
+      - name: Kate Bosakova
+        twitter:
+        github:
+        website:
+      - name: Krystsina Svirydzenka
+        twitter:
+        github:
+        website:
+      - name: Hanna Kolesava
+        twitter:
+        github:
+        website:
+      - name: Svetlana Jeltok
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/x1vAevI5kIg
+    description: |-
+
+  - title: Разработка редактора документов
+    lang: ru
+    type: regular
+    level:
+    time: 2018-02-11
+    room: Pink Blue Room
+    authors:
+      - name: Dmitry Volokh
+        twitter: davolokh
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LKBC2Gr5Wgw
+    description: |-
+      Как мы в PandaDoc с нуля писали браузерный редактор документов на React'е. Архитектурные решения, которые упростили разработку. Подводные камни и проблемы, с которыми столкнулись в процессе. Генерация PDF на NodeJS с использованием Puppeteer и немного про Collaborative editing.

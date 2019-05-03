@@ -1,319 +1,335 @@
-- title: JavaScript and Interactive Installations
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-18
-  room:
-  authors:
-    - name: Hugh Kennedy
-      twitter: hughskennedy
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/RGAWWhleXMY
-  description: |-
-    JavaScript has come a long way in the 21 years since its first inception, with tools available for a huge range of applications: 3D printing, projection mapping, generative audio, computer vision, hardware hacks and more. With the help of platforms such as Node.js or Electron, JavaScript has become an increasingly appealing choice for building public installations quickly and easily. That being said, this is largely uncharted territory. How do all of these tools even fit together? We'll run through the process of creating an interactive installation through example — not a single compiler in sight!
+conference:
 
-- title: RegExp.prototype.unicode
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-18
-  room:
-  authors:
-    - name: Mathias Bynens
-      twitter: mathias
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/CYaxhbOqkto
+  name: NodeConf Argentina 2016
+  url: https://2016.nodeconf.com.ar/
+  status: complete
+  date:
+    from: 2016-11-17
+    to: 2016-11-19
+  location:
+    country: Argentina
+    city: Buenos Aires
   description: |-
-    User input and string manipulation are central to development, but many engineers and even popular libraries struggle with Unicode. And ECMAScript 5 doesn’t help, with many built-in string manipulation functions offering puzzling results. Security and the need for internationalization both throw these issues into stark relief. This talk highlights the many problems related to Unicode in JavaScript regular expressions, demonstrates how ES6 aka. ES2015 helps solve these issues, and glimpses at possible future improvements to ECMAScript regular expressions.
+    NodeConf Argentina is among the first international Node.js conferences taking place in Latin American territory, and a not-for-profit community effort to push Node.js forward in Argentina and Latin America as a whole. This year’s conference will be a two–day event in sunny Buenos Aires, Argentina, held during November 17th, 18th & 19th. Both action-packed days will be comprised of internationally acclaimed, regional, and local speakers. We are expecting Noders, JavaScripters, front-enders, and other programmers from all over the world. Our topmost concern is to guarantee the most enjoyable experience to our attendees, while providing a safe and welcoming environment for everyone.
 
-- title: The code is data and vice versa
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-18
-  room:
-  authors:
-    - name: Hernan Rajchert
-      twitter: sherman3ero
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/DKliwV3QdnU
-  description: |-
+talks:
 
-- title: Ethereum for node.js devs
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-18
-  room:
-  authors:
-    - name: Raul Pino
-      twitter: p1nox
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/fonQGjC-Cs0
-  description: |-
-    Introduction to the protocol itself, what is a blockchain and a smart contract. Live coding on how to develop a decentralised application (dApp) using node.js. As a conclusion I'll try to "handle the truth" about Ethereum's expectations on the world of distributed communications, and why node.js devs should care.
+  - title: JavaScript and Interactive Installations
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-18
+    room:
+    authors:
+      - name: Hugh Kennedy
+        twitter: hughskennedy
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RGAWWhleXMY
+    description: |-
+      JavaScript has come a long way in the 21 years since its first inception, with tools available for a huge range of applications: 3D printing, projection mapping, generative audio, computer vision, hardware hacks and more. With the help of platforms such as Node.js or Electron, JavaScript has become an increasingly appealing choice for building public installations quickly and easily. That being said, this is largely uncharted territory. How do all of these tools even fit together? We'll run through the process of creating an interactive installation through example — not a single compiler in sight!
 
-- title: Nodejs microservices. From Zero to Hero.
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-18
-  room:
-  authors:
-    - name: Erich Oliveira
-      twitter: oliveira_erich
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/JoJjEbdpL-0
-  description: |-
-    Are you afraid of people calling you a zero on microservices? Do you already tried it, but is just to complicate to understand what it means and how to distribute? Don't be afraid everyone can be a hero with the right guidance. I will guide you through the motivation, passing by implementation and finally help you to distribute/clusterize and also give you a mind blowing dashboard with realtime metrics. And you don't need any configuration to do it. Too good to be true? Join us and you will see.
+  - title: RegExp.prototype.unicode
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-18
+    room:
+    authors:
+      - name: Mathias Bynens
+        twitter: mathias
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/CYaxhbOqkto
+    description: |-
+      User input and string manipulation are central to development, but many engineers and even popular libraries struggle with Unicode. And ECMAScript 5 doesn’t help, with many built-in string manipulation functions offering puzzling results. Security and the need for internationalization both throw these issues into stark relief. This talk highlights the many problems related to Unicode in JavaScript regular expressions, demonstrates how ES6 aka. ES2015 helps solve these issues, and glimpses at possible future improvements to ECMAScript regular expressions.
 
-- title: The dirty secrets of building large, highly available, scalable HTTP APIs
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-18
-  room:
-  authors:
-    - name: Damian Schenkelman
-      twitter: dschenkelman
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/JDgP76Bxm_I
-  description: |-
-    When you first start building an API for a new product you mostly focus on getting an MVP ready, with the goal of shipping as soon as possible so you can get feedback from customers. If you are lucky enough, your product will be successful and you will have to start worrying about things like authentication, authorization, documentation, validation, rate limiting, geo-redundancy, and no downtime deployments. In this talk I will go over some real life examples of our experience evolving our APIs at Auth0 and some of the tools we use for that.
+  - title: The code is data and vice versa
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-18
+    room:
+    authors:
+      - name: Hernan Rajchert
+        twitter: sherman3ero
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DKliwV3QdnU
+    description: |-
 
-- title: 'Empathetic communication: why vulnerability is the key to collaboration'
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-18
-  room:
-  authors:
-    - name: Sharon Steed
-      twitter: sharonsteed
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/19Y9zEvHVjI
-  description: |-
-    Collaboration at it’s core is an act of great empathy, yet most leaders don’t know how to foster a truly collaborative environment. So how do you get teams to connect? By encouraging sharing and being openly human. Why? Because vulnerability forges an unbreakable bond on teams big and small.
+  - title: Ethereum for node.js devs
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-18
+    room:
+    authors:
+      - name: Raul Pino
+        twitter: p1nox
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/fonQGjC-Cs0
+    description: |-
+      Introduction to the protocol itself, what is a blockchain and a smart contract. Live coding on how to develop a decentralised application (dApp) using node.js. As a conclusion I'll try to "handle the truth" about Ethereum's expectations on the world of distributed communications, and why node.js devs should care.
 
-- title: Memory Profiling for Mere Mortals
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-19
-  room:
-  authors:
-    - name: Thorsten Lorenz
-      twitter: thlorenz
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/taADm6ndvVo
-  description: |-
-    Memory leaks are rare, but when they occur we need to be equipped to track them down. However not many resources exist that explain how to memory profile a Node.js application. In this talk I will explain how data is stored in the v8 heap and how to examine it using tools that are readily available on a developer's machine and are relatively easy to learn. Additionally I'll show cutting edge features introduced to v8 that ease detection of memory leaks (i.e. memory allocation sampling). We will also discuss how to access these features via the v8 API even before they are exposed via Chrome's developer tools
+  - title: Nodejs microservices. From Zero to Hero.
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-18
+    room:
+    authors:
+      - name: Erich Oliveira
+        twitter: oliveira_erich
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JoJjEbdpL-0
+    description: |-
+      Are you afraid of people calling you a zero on microservices? Do you already tried it, but is just to complicate to understand what it means and how to distribute? Don't be afraid everyone can be a hero with the right guidance. I will guide you through the motivation, passing by implementation and finally help you to distribute/clusterize and also give you a mind blowing dashboard with realtime metrics. And you don't need any configuration to do it. Too good to be true? Join us and you will see.
 
-- title: Presence, Personality & Pulse - Enlivening Experiences With Ambient Data
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-19
-  room:
-  authors:
-    - name: Anton McConville
-      twitter: antonmc
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/rP5_a0apgeU
-  description: |-
-    We generate a goldmine of data just by moving, speaking, touching or making decisions. This 'ambient data' ... our coordinates, sleep patterns, the route we walk, our choice of words is unique information that identifies us. This session combines Node JS, Cloud Foundry, IoT, iBeacons and iOS to demonstrate how we can develop personal experiences around this data, and explain how to build them using real examples.
+  - title: The dirty secrets of building large, highly available, scalable HTTP APIs
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-18
+    room:
+    authors:
+      - name: Damian Schenkelman
+        twitter: dschenkelman
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JDgP76Bxm_I
+    description: |-
+      When you first start building an API for a new product you mostly focus on getting an MVP ready, with the goal of shipping as soon as possible so you can get feedback from customers. If you are lucky enough, your product will be successful and you will have to start worrying about things like authentication, authorization, documentation, validation, rate limiting, geo-redundancy, and no downtime deployments. In this talk I will go over some real life examples of our experience evolving our APIs at Auth0 and some of the tools we use for that.
 
-- title: Now and Next.js - Deploying JavaScript unicorns
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-19
-  room:
-  authors:
-    - name: Guillermo Rauch
-      twitter: rauchg
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: 'Empathetic communication: why vulnerability is the key to collaboration'
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-18
+    room:
+    authors:
+      - name: Sharon Steed
+        twitter: sharonsteed
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/19Y9zEvHVjI
+    description: |-
+      Collaboration at it’s core is an act of great empathy, yet most leaders don’t know how to foster a truly collaborative environment. So how do you get teams to connect? By encouraging sharing and being openly human. Why? Because vulnerability forges an unbreakable bond on teams big and small.
 
-- title: On Writing Friendly and Welcoming Documentation
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-19
-  room:
-  authors:
-    - name: Tracy Osborn
-      twitter: limedaring
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/jYlPSVzKfVI
-  description: |-
-    It’s hard to write documentation that anyone can get excited about. This is true for projects aimed at beginners, but it goes double for projects and writing aimed at intermediate/expert programmers. Find out how to write documentation that *everyone* would want to read and can understand.
+  - title: Memory Profiling for Mere Mortals
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-19
+    room:
+    authors:
+      - name: Thorsten Lorenz
+        twitter: thlorenz
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/taADm6ndvVo
+    description: |-
+      Memory leaks are rare, but when they occur we need to be equipped to track them down. However not many resources exist that explain how to memory profile a Node.js application. In this talk I will explain how data is stored in the v8 heap and how to examine it using tools that are readily available on a developer's machine and are relatively easy to learn. Additionally I'll show cutting edge features introduced to v8 that ease detection of memory leaks (i.e. memory allocation sampling). We will also discuss how to access these features via the v8 API even before they are exposed via Chrome's developer tools
 
-- title: 'Node on the Desktop: Building Apps with Electron v1'
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-19
-  room:
-  authors:
-    - name: Felix Rieseberg
-      twitter: felixrieseberg
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/dEBQPFLd2H4
-  description: |-
-    You're probably already using desktop apps written with Node: Apps like Atom, Slack, Visual Studio Code, or Ghost. Built using Electron, those apps combine the power of the Desktop with Chromium and Node, liberating JavaScript developers from the constraints of traditional web apps. Learn how to build native-feeling desktop apps for Mac OS X, Windows, and Linux with Node! Learn how to debug your code, how to integrate with operating systems, and how to make your app feel truly native. We'll talk about the basics and advanced scenarios - leveraging the full power of npm and Node.
+  - title: Presence, Personality & Pulse - Enlivening Experiences With Ambient Data
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-19
+    room:
+    authors:
+      - name: Anton McConville
+        twitter: antonmc
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/rP5_a0apgeU
+    description: |-
+      We generate a goldmine of data just by moving, speaking, touching or making decisions. This 'ambient data' ... our coordinates, sleep patterns, the route we walk, our choice of words is unique information that identifies us. This session combines Node JS, Cloud Foundry, IoT, iBeacons and iOS to demonstrate how we can develop personal experiences around this data, and explain how to build them using real examples.
 
-- title: Kill all humans – Automate npm releases and dependency updates
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-19
-  room:
-  authors:
-    - name: Stephan Bönnemann
-      twitter: boennemann
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/BYbxsfohXAo
-  description: |-
-    Small modules are the success story of npm: there are 300,000+ packages today. It’s like lego, all the bricks are there, we just need to assemble them, barely do we need to create new ones. In this talk, I’ll show 1. how to automize the entire release process for your npm modules with [semantic-release], and 2. how to make make sure that all your dependencies are up-to-date, all the time, with [greenkeeper.io]
+  - title: Now and Next.js - Deploying JavaScript unicorns
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-19
+    room:
+    authors:
+      - name: Guillermo Rauch
+        twitter: rauchg
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Internet of Peers
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-19
-  room:
-  authors:
-    - name: Mathias Buss
-      twitter: mafintosh
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/1qzDiAg4VGk
-  description: |-
-    A talk about how you can take a bunch of different computers, all connected to the internet, and make direct connections between them even with firewalls guarding their access to the network. I'll introduce the basics of network hole punching, show how you can use technology like the BitTorrent DHT and DNS to easily discovery peers on the internet in a massively distributed way, and finally how we can combine all of this into a internet-scale network of micro services.
+  - title: On Writing Friendly and Welcoming Documentation
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-19
+    room:
+    authors:
+      - name: Tracy Osborn
+        twitter: limedaring
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/jYlPSVzKfVI
+    description: |-
+      It’s hard to write documentation that anyone can get excited about. This is true for projects aimed at beginners, but it goes double for projects and writing aimed at intermediate/expert programmers. Find out how to write documentation that *everyone* would want to read and can understand.
 
-- title: Continuous Security
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-19
-  room:
-  authors:
-    - name: Adam Baldwin
-      twitter: adam_baldwin
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/AGJV4PgZXns
-  description: |-
-    This talk will discuss concepts behind building more secure software, how to shift culture to give application security the attention that it needs, and how to adopt a continuous security process for your team, one that isn't obstructive and annoying but enabling so you can write better, more secure software.
+  - title: 'Node on the Desktop: Building Apps with Electron v1'
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-19
+    room:
+    authors:
+      - name: Felix Rieseberg
+        twitter: felixrieseberg
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/dEBQPFLd2H4
+    description: |-
+      You're probably already using desktop apps written with Node: Apps like Atom, Slack, Visual Studio Code, or Ghost. Built using Electron, those apps combine the power of the Desktop with Chromium and Node, liberating JavaScript developers from the constraints of traditional web apps. Learn how to build native-feeling desktop apps for Mac OS X, Windows, and Linux with Node! Learn how to debug your code, how to integrate with operating systems, and how to make your app feel truly native. We'll talk about the basics and advanced scenarios - leveraging the full power of npm and Node.
 
-- title: 'Real world Electron: Building Cross-platform desktop apps with JavaScript'
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-19
-  room:
-  authors:
-    - name: Feross Aboukhadijeh
-      twitter: feross
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/YLExGgEnbFY
-  description: |-
-    In this talk, you will learn how to use your JavaScript and web development skills to build native desktop apps that are indistinguishable from real native apps. With Electron, you can build native apps using JavaScript and web technologies. Electron apps feel completely native and support automatic updates, native menus, notifications, crash reporting, a professional install experience, and more.
+  - title: Kill all humans – Automate npm releases and dependency updates
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-19
+    room:
+    authors:
+      - name: Stephan Bönnemann
+        twitter: boennemann
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/BYbxsfohXAo
+    description: |-
+      Small modules are the success story of npm: there are 300,000+ packages today. It’s like lego, all the bricks are there, we just need to assemble them, barely do we need to create new ones. In this talk, I’ll show 1. how to automize the entire release process for your npm modules with [semantic-release], and 2. how to make make sure that all your dependencies are up-to-date, all the time, with [greenkeeper.io]
 
-- title: Micro(hapi)ness
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-19
-  room:
-  authors:
-    - name: Diego Paez
-      twitter: carax
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/X5vqFuNzWCE
-  description: |-
-    Have you heard about microservices? Are you looking forward to bring down that monolithic app that terrifies you in your dreams? Would you like to change one huge code base for **multiple and maintainable** services? If some of these questions are in your mind, well this talk is for you. Here we will see a real-life strategy for starting off on the right foot with microservices and hapijs.
+  - title: Internet of Peers
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-19
+    room:
+    authors:
+      - name: Mathias Buss
+        twitter: mafintosh
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1qzDiAg4VGk
+    description: |-
+      A talk about how you can take a bunch of different computers, all connected to the internet, and make direct connections between them even with firewalls guarding their access to the network. I'll introduce the basics of network hole punching, show how you can use technology like the BitTorrent DHT and DNS to easily discovery peers on the internet in a massively distributed way, and finally how we can combine all of this into a internet-scale network of micro services.
 
-- title: Hacking your Nintendo with JavaScript.
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-19
-  room:
-  authors:
-    - name: Michael Matuzak
-      twitter: mmatuzak
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/VKplJCVZua8
-  description: |-
-    Have you ever wanted to make your old Nintendo sitting in the garage do amazing things? Now you can! This talk will go over creating sound and music, splicing out sprite sheets, writing text, and assembling Nintendo programs, all with JavaScript tools.
+  - title: Continuous Security
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-19
+    room:
+    authors:
+      - name: Adam Baldwin
+        twitter: adam_baldwin
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/AGJV4PgZXns
+    description: |-
+      This talk will discuss concepts behind building more secure software, how to shift culture to give application security the attention that it needs, and how to adopt a continuous security process for your team, one that isn't obstructive and annoying but enabling so you can write better, more secure software.
 
-- title: Fun with webgl
-  lang: en
-  type: regular
-  level:
-  time: 2016-11-19
-  room:
-  authors:
-    - name: James Halliday
-      twitter: substack
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Aq7diSfU9Cc
-  description: |-
-    Let's build some visualizations with webgl using regl, glslify, and tiny modules. I will cover how to build geometry, how to write shaders, and some simple tricks you can use to build impressive and fun graphics projects.
+  - title: 'Real world Electron: Building Cross-platform desktop apps with JavaScript'
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-19
+    room:
+    authors:
+      - name: Feross Aboukhadijeh
+        twitter: feross
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/YLExGgEnbFY
+    description: |-
+      In this talk, you will learn how to use your JavaScript and web development skills to build native desktop apps that are indistinguishable from real native apps. With Electron, you can build native apps using JavaScript and web technologies. Electron apps feel completely native and support automatic updates, native menus, notifications, crash reporting, a professional install experience, and more.
+
+  - title: Micro(hapi)ness
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-19
+    room:
+    authors:
+      - name: Diego Paez
+        twitter: carax
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/X5vqFuNzWCE
+    description: |-
+      Have you heard about microservices? Are you looking forward to bring down that monolithic app that terrifies you in your dreams? Would you like to change one huge code base for **multiple and maintainable** services? If some of these questions are in your mind, well this talk is for you. Here we will see a real-life strategy for starting off on the right foot with microservices and hapijs.
+
+  - title: Hacking your Nintendo with JavaScript.
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-19
+    room:
+    authors:
+      - name: Michael Matuzak
+        twitter: mmatuzak
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/VKplJCVZua8
+    description: |-
+      Have you ever wanted to make your old Nintendo sitting in the garage do amazing things? Now you can! This talk will go over creating sound and music, splicing out sprite sheets, writing text, and assembling Nintendo programs, all with JavaScript tools.
+
+  - title: Fun with webgl
+    lang: en
+    type: regular
+    level:
+    time: 2016-11-19
+    room:
+    authors:
+      - name: James Halliday
+        twitter: substack
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Aq7diSfU9Cc
+    description: |-
+      Let's build some visualizations with webgl using regl, glslify, and tiny modules. I will cover how to build geometry, how to write shaders, and some simple tricks you can use to build impressive and fun graphics projects.

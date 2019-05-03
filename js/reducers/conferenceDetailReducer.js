@@ -35,7 +35,7 @@ const reducer = (state = INITIAL_STATE, action) => {
         error: null,
       };
     case ACTION_CONFERENCE_DETAIL_FETCHED:
-      let data = addSlugifiedId(action.payload.data);
+      let data = addSlugifiedId(action.payload.data.talks);
 
       return {
         ...state,

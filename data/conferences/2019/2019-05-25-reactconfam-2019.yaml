@@ -1,33 +1,49 @@
-- title: CALL FOR SPEAKERS
-  lang: en
-  type: regular
-  level:
-  time: 2019-05-25 10:00:00
-  room:
-  authors:
-    - name: JS CONF ARMENIA
-      twitter: ReactConfAM
-      github: JSConfArmenia
-      website: https://reactconf.am
-  slides: 
-  videos: 
+conference:
+
+  name: React Conf Armenia 2019
+  url: https://reactconf.am
+  status: incomplete
+  date:
+    from: 2019-05-25
+    to: 2019-05-25
+  location:
+    country: Armenia
+    city: Yerevan
   description: |-
-    Join the first regional React conf, speak on React and related technologies, while having fun and vice versa!
-    
-- title: REQUEST AN INVITE
-  lang: en
-  type: regular
-  level:
-  time: 2019-05-25 10:00:00
-  room:
-  authors:
-    - name: JS CONF ARMENIA
-      twitter: ReactConfAM
-      github: JSConfArmenia
-      website: https://reactconf.am
-  slides: 
-  videos: 
-  description: |-
-    Join the biggest regional tech conf, attend amazing talks, workshops, network and have fun!
-    
-  
+    A full-day two-track React conf all about React
+
+talks:
+
+  - title: CALL FOR SPEAKERS
+    lang: en
+    type: regular
+    level:
+    time: 2019-05-25 10:00:00
+    room:
+    authors:
+      - name: JS CONF ARMENIA
+        twitter: ReactConfAM
+        github: JSConfArmenia
+        website: https://reactconf.am
+    slides:
+    videos:
+    description: |-
+      Join the first regional React conf, speak on React and related technologies, while having fun and vice versa!
+
+  - title: REQUEST AN INVITE
+    lang: en
+    type: regular
+    level:
+    time: 2019-05-25 10:00:00
+    room:
+    authors:
+      - name: JS CONF ARMENIA
+        twitter: ReactConfAM
+        github: JSConfArmenia
+        website: https://reactconf.am
+    slides:
+    videos:
+    description: |-
+      Join the biggest regional tech conf, attend amazing talks, workshops, network and have fun!
+
+

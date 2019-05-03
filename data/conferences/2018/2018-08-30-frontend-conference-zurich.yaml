@@ -1,463 +1,479 @@
-- title: Design in the Era of the Algorithm
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-30 10:00:00
-  room: FL 1 Folium
-  authors:
-    - name: Josh Clark
-      twitter: bigmediumjosh
-      github:
-      website: https://bigmedium.com
-  slides:
-  videos:
-    - https://vimeo.com/287853876
-  description: |-
-    Machine learning is suddenly everywhere, and designers have an urgent role to play in crafting this emerging generation of AI interfaces. Learn to use machine learning as design material in your everyday work, and unearth the design principles for doing it responsibly. - What this talk is about - Designers have an urgent role to play in crafting the emerging generation of AI interfaces. This lively and inspiring talk explores a rich trove of examples—at once entertaining and sobering—to unearth the design principles for creating responsible machine-learning applications. Learn to use AI as design material in your everyday work. Adapt to the machines’ weird, unexpected, or incorrect conclusions. And above all, scrub data for bias to create a respectful and inclusive world we all want to live in. - Intended audience - Designers interested in understanding their role in the next generation of digital interfaces
+conference:
 
-- title: New Adventures In Front-End, Season 2
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-30 11:00:00
-  room: FL 1 Folium
-  authors:
-    - name: Vitaly Friedman
-      twitter: smashingmag
-      github:
-      website: https://www.smashingmagazine.com/
-  slides:
-  videos:
-    - https://vimeo.com/287854147
+  name: Frontend Conference Zurich 2018
+  url: https://frontendconf.ch/
+  status: complete
+  date:
+    from: 2018-08-30
+    to: 2018-08-31
+  location:
+    country: Switzerland
+    city: Zürich
   description: |-
-    The beast is alive! How do you feel about ASCII-alike CSS Grid layout with polyfluid sizing and ch unit? Do you feel itchy when it comes to building responsive HTML email layouts? What about the brave new world of dynamic static site generators and JAM stack? Have you ever tried to work around nested CSS Custom Properties, untamed 3rd-party scripts, shady service workers, multi-dimensional variable fonts and painfully outdated pattern libraries? Well, let’s bring it on, If you attended or watched the first season (last year), you better tighten up your seatbelts, it's an entirely different session, with a slightly different cast and a dash of dirty little front-end tricks. Beware, you will not be able to unlearn what you’ll learn in the session! Ah, one more thing, take the techniques with a grain of salt — we do not take responsibility for sleepless nights and nightmares caused by the content of this session.
+    Where design meets technology
 
-- title: Designing the Future, with Voice
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-30 11:00:00
-  room: FL 2 Papiersaal
-  authors:
-    - name: Karen Kaushansky
-      twitter: kjkausha
-      github:
-      website:
-  slides:
-  videos:
-    - https://vimeo.com/288109032
-  description: |-
-    The VoiceFirst revolution is taking hold, but voice experiences are still very limited and one dimensional. In the next 2-5 years, voice technology will becomes more robust to really support context and personalization, and be able to create empowering and frictionless multidimensional experiences like never before. In this talk, Karen will build on her 20+ years of experience designing interactive voice experiences to share a glimpse of the future - when the walls and windows are our screens, when voice can unlock the potential for interactive media, and when our conversational assistants can truly act on our behalf. If you are new to designing for voice, this talk will lay the groundwork as you embark on designing an Alexa Skill or an Action for Google Home. And for those that have some experience under their belt, Karen builds on some of the principles, opportunities and challenges for designing voice experiences today to explore voice in different industries, and new experiences in the future.
+talks:
 
-- title: Closing the gap between design and code
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-30 13:00:00
-  room: FL 1 Folium
-  authors:
-    - name: Konrad Dzwinel
-      twitter: kdzwinel
-      github:
-      website:
-  slides:
-  videos:
-    - https://vimeo.com/287857004
-  description: |-
-    I'd love tell other front-end developers about the topic that blew my mind last year. First of all, current state of design tooling is fascinating (how and why Photoshop was replaced by Sketch, UXPin, Framer etc.). Secondly, I'd like to show how perfectly these tools fit into the current front-end trend of building everything using components (react/vuejs/web). Finally, I'd like to go over some tools that can help close the gap, react-sketchapp (from AirBnB) and html-sketchapp (that I build).
+  - title: Design in the Era of the Algorithm
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-30 10:00:00
+    room: FL 1 Folium
+    authors:
+      - name: Josh Clark
+        twitter: bigmediumjosh
+        github:
+        website: https://bigmedium.com
+    slides:
+    videos:
+      - https://vimeo.com/287853876
+    description: |-
+      Machine learning is suddenly everywhere, and designers have an urgent role to play in crafting this emerging generation of AI interfaces. Learn to use machine learning as design material in your everyday work, and unearth the design principles for doing it responsibly. - What this talk is about - Designers have an urgent role to play in crafting the emerging generation of AI interfaces. This lively and inspiring talk explores a rich trove of examples—at once entertaining and sobering—to unearth the design principles for creating responsible machine-learning applications. Learn to use AI as design material in your everyday work. Adapt to the machines’ weird, unexpected, or incorrect conclusions. And above all, scrub data for bias to create a respectful and inclusive world we all want to live in. - Intended audience - Designers interested in understanding their role in the next generation of digital interfaces
 
-- title: Unlocking the Power of CSS Grid Layout
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-30 13:00:00
-  room: FL 2 Papiersaal
-  authors:
-    - name: Rachel Andrew
-      twitter: rachelandrew
-      github:
-      website: https://rachelandrew.co.uk
-  slides:
-  videos:
-    - https://vimeo.com/287981360
-  description: |-
-    Once you have grasped the basics of CSS Grid, you quickly discover how it enables many existing design patterns in a streamlined, elegant way. However, we shouldn’t see Grid in isolation. Understanding how other parts of CSS work together with Grid is key, in order to get the most out of our new abilities. In this talk Rachel will be concentrating on a couple of these areas, CSS Box Alignment and CSS Sizing. Rachel will show you practical ways in which a little bit of knowledge in these areas can unlock the full potential of the Grid Specification. You’ll learn how to create useful components and to start thinking of ways in which you can solve design and interface problems in more creative ways.
+  - title: New Adventures In Front-End, Season 2
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-30 11:00:00
+    room: FL 1 Folium
+    authors:
+      - name: Vitaly Friedman
+        twitter: smashingmag
+        github:
+        website: https://www.smashingmagazine.com/
+    slides:
+    videos:
+      - https://vimeo.com/287854147
+    description: |-
+      The beast is alive! How do you feel about ASCII-alike CSS Grid layout with polyfluid sizing and ch unit? Do you feel itchy when it comes to building responsive HTML email layouts? What about the brave new world of dynamic static site generators and JAM stack? Have you ever tried to work around nested CSS Custom Properties, untamed 3rd-party scripts, shady service workers, multi-dimensional variable fonts and painfully outdated pattern libraries? Well, let’s bring it on, If you attended or watched the first season (last year), you better tighten up your seatbelts, it's an entirely different session, with a slightly different cast and a dash of dirty little front-end tricks. Beware, you will not be able to unlearn what you’ll learn in the session! Ah, one more thing, take the techniques with a grain of salt — we do not take responsibility for sleepless nights and nightmares caused by the content of this session.
 
-- title: Serverless, backend thing that gives superpowers to frontend developers
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-30 14:00:00
-  room: FL 1 Folium
-  authors:
-    - name: Slobodan Stojanovic
-      twitter: slobodan_
-      github:
-      website: https://effortless-serverless.com
-  slides:
-  videos:
-    - https://vimeo.com/287854006
-  description: |-
-    You probably heard about serverless, and many things about its autoscaling and price. But no one told you one of the most important things, serverless is backend thing, but it gives superpowers to the frontend developers. Why? Because it put the deployment in hands of frontend developers, without all the complexity of backend systems. You can deploy simple API that is production ready, server side rendering or full Google Chrome and do amazing things with just a few lines of code. This talk is about serverless, and about the ways you can benefit it as a frontend developer.
+  - title: Designing the Future, with Voice
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-30 11:00:00
+    room: FL 2 Papiersaal
+    authors:
+      - name: Karen Kaushansky
+        twitter: kjkausha
+        github:
+        website:
+    slides:
+    videos:
+      - https://vimeo.com/288109032
+    description: |-
+      The VoiceFirst revolution is taking hold, but voice experiences are still very limited and one dimensional. In the next 2-5 years, voice technology will becomes more robust to really support context and personalization, and be able to create empowering and frictionless multidimensional experiences like never before. In this talk, Karen will build on her 20+ years of experience designing interactive voice experiences to share a glimpse of the future - when the walls and windows are our screens, when voice can unlock the potential for interactive media, and when our conversational assistants can truly act on our behalf. If you are new to designing for voice, this talk will lay the groundwork as you embark on designing an Alexa Skill or an Action for Google Home. And for those that have some experience under their belt, Karen builds on some of the principles, opportunities and challenges for designing voice experiences today to explore voice in different industries, and new experiences in the future.
 
-- title: Design without interface - the future of experience design
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-30 14:00:00
-  room: FL 2 Papiersaal
-  authors:
-    - name: Raffaela Rein
-      twitter: raffaelarein
-      github:
-      website: https://careerfoundry.com/
-  slides:
-  videos:
-    - https://vimeo.com/287982941
-  description: |-
-    Voice is the world's most intuitive interface. Raffaela will share how to apply UX principles to the platform without interface to build delightful voice experiences. She will share 5 actionable tips for your first voice design project and provide a humorous take on ethical concerns in voice experience design.
+  - title: Closing the gap between design and code
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-30 13:00:00
+    room: FL 1 Folium
+    authors:
+      - name: Konrad Dzwinel
+        twitter: kdzwinel
+        github:
+        website:
+    slides:
+    videos:
+      - https://vimeo.com/287857004
+    description: |-
+      I'd love tell other front-end developers about the topic that blew my mind last year. First of all, current state of design tooling is fascinating (how and why Photoshop was replaced by Sketch, UXPin, Framer etc.). Secondly, I'd like to show how perfectly these tools fit into the current front-end trend of building everything using components (react/vuejs/web). Finally, I'd like to go over some tools that can help close the gap, react-sketchapp (from AirBnB) and html-sketchapp (that I build).
 
-- title: Surrounded by self-styled UX experts. The challenges of UX professionals in large enterprises
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-30 15:30:00
-  room: FL 1 Folium
-  authors:
-    - name: Anna Jozanis
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://vimeo.com/287855064
-  description: |-
-    In big companies, everybody - including the management board - claims that they work for the good of the customer. And nobody knows what it actually means. As a designer with several years of experience in a big tech enterprise, I want to share with you my thoughts on UX professionals’ role in shaping the awareness of the customer point of view.
+  - title: Unlocking the Power of CSS Grid Layout
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-30 13:00:00
+    room: FL 2 Papiersaal
+    authors:
+      - name: Rachel Andrew
+        twitter: rachelandrew
+        github:
+        website: https://rachelandrew.co.uk
+    slides:
+    videos:
+      - https://vimeo.com/287981360
+    description: |-
+      Once you have grasped the basics of CSS Grid, you quickly discover how it enables many existing design patterns in a streamlined, elegant way. However, we shouldn’t see Grid in isolation. Understanding how other parts of CSS work together with Grid is key, in order to get the most out of our new abilities. In this talk Rachel will be concentrating on a couple of these areas, CSS Box Alignment and CSS Sizing. Rachel will show you practical ways in which a little bit of knowledge in these areas can unlock the full potential of the Grid Specification. You’ll learn how to create useful components and to start thinking of ways in which you can solve design and interface problems in more creative ways.
 
-- title: Embrace Reactive Programming in React and Vue with RxJS
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-30 15:30:00
-  room: FL 2 Papiersaal
-  authors:
-    - name: Fahad Heylaal
-      twitter: fahad19
-      github:
-      website: http://fahad19.com
-  slides:
-  videos:
-    - https://vimeo.com/287980272
-  description: |-
-    Build reactive applications - Think in streams (Observables) - Use RxJS for streaming props - Components (in both React and Vue) become only stateless components - Better composition with stateless components - Easier to test and maintain
+  - title: Serverless, backend thing that gives superpowers to frontend developers
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-30 14:00:00
+    room: FL 1 Folium
+    authors:
+      - name: Slobodan Stojanovic
+        twitter: slobodan_
+        github:
+        website: https://effortless-serverless.com
+    slides:
+    videos:
+      - https://vimeo.com/287854006
+    description: |-
+      You probably heard about serverless, and many things about its autoscaling and price. But no one told you one of the most important things, serverless is backend thing, but it gives superpowers to the frontend developers. Why? Because it put the deployment in hands of frontend developers, without all the complexity of backend systems. You can deploy simple API that is production ready, server side rendering or full Google Chrome and do amazing things with just a few lines of code. This talk is about serverless, and about the ways you can benefit it as a frontend developer.
 
-- title: Building Offline-first Progressive Web Apps
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-30 16:30:00
-  room: FL 1 Folium
-  authors:
-    - name: Jake Archibald
-      twitter: jaffathecake
-      github:
-      website: https://jakearchibald.com/
-  slides:
-  videos:
-    - https://vimeo.com/287853623
-  description: |-
-    For most of the web, poor network connectivity destroys the user experience. We can do better. In this session we'll take an online-only site and turn it into a fully network-resilient, offline-first installable progressive web app, and this won't involve rebuilding from scratch; it'll be done in small iterations, with each step improving the user experience whether they're offline, online, or anything in between. This session will cover ServiceWorker, web manifests, add-to-homescreen banners, IndexedDB and BackgroundSync APIs.
+  - title: Design without interface - the future of experience design
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-30 14:00:00
+    room: FL 2 Papiersaal
+    authors:
+      - name: Raffaela Rein
+        twitter: raffaelarein
+        github:
+        website: https://careerfoundry.com/
+    slides:
+    videos:
+      - https://vimeo.com/287982941
+    description: |-
+      Voice is the world's most intuitive interface. Raffaela will share how to apply UX principles to the platform without interface to build delightful voice experiences. She will share 5 actionable tips for your first voice design project and provide a humorous take on ethical concerns in voice experience design.
 
-- title: Conquer Variable Web Typography
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-30 16:30:00
-  room: FL 2 Papiersaal
-  authors:
-    - name: Oliver Schöndorfer
-      twitter: glyphe
-      github:
-      website: http://zeichenschatz.net
-  slides:
-  videos:
-    - https://vimeo.com/287977214
-  description: |-
-    Variable fonts will shape the future of web typography as they can bring great variety and new opportunities at a low file size to our browsers. This practical talk guides you through the first steps with variable web typography, illustrated by several use cases and examples. What are variable fonts, what can you do with them, when do they make sense, and what should you be aware of? It’s time to be more variable and get this new technology in the browser!
+  - title: Surrounded by self-styled UX experts. The challenges of UX professionals in large enterprises
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-30 15:30:00
+    room: FL 1 Folium
+    authors:
+      - name: Anna Jozanis
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://vimeo.com/287855064
+    description: |-
+      In big companies, everybody - including the management board - claims that they work for the good of the customer. And nobody knows what it actually means. As a designer with several years of experience in a big tech enterprise, I want to share with you my thoughts on UX professionals’ role in shaping the awareness of the customer point of view.
 
-- title: Lightning talks (Folium)
-  lang: en
-  type: lightning
-  level:
-  time: 2018-08-30 17:30:00
-  room: FL 1 Folium
-  authors:
-    - name: Lukas Müller
-      twitter:
-      github:
-      website:
-    - name: Lukas Ehrensperger
-      twitter:
-      github:
-      website:
-    - name: Nico Martin
-      twitter:
-      github:
-      website:
-    - name: Christian Hirsig
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://vimeo.com/287857223
-  description: |-
-    Zero-bug launch & 100% user acceptance - Lukas Müller; Beyond Pokémon GO, Tangible benefits using AR for real service business - Lukas Ehrensperger; Progressive Web Apps for the 99% - Nico Martin; Coding Academy for Refugees - Christian Hirsig
+  - title: Embrace Reactive Programming in React and Vue with RxJS
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-30 15:30:00
+    room: FL 2 Papiersaal
+    authors:
+      - name: Fahad Heylaal
+        twitter: fahad19
+        github:
+        website: http://fahad19.com
+    slides:
+    videos:
+      - https://vimeo.com/287980272
+    description: |-
+      Build reactive applications - Think in streams (Observables) - Use RxJS for streaming props - Components (in both React and Vue) become only stateless components - Better composition with stateless components - Easier to test and maintain
 
-- title: Lightning talks (Papiersaal)
-  lang: en
-  type: lightning
-  level:
-  time: 2018-08-30 17:30:00
-  room: FL 2 Papiersaal
-  authors:
-    - name: Fredi Bach
-      twitter:
-      github:
-      website:
-    - name: Anton Staroverov
-      twitter:
-      github:
-      website:
-    - name: Nicola Marcacci Rossi
-      twitter:
-      github:
-      website:
-    - name: Waleed El Sayed
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://vimeo.com/287978291
-  description: |-
-    Frontend First Development - Fredi Bach; Reusable frontend components using yarn workspaces, data- attrs and twig - Anton Staroverov; Ooth - a User Accounts System for Node - Nicola Marcacci Rossi; Blockchain meets Frontend Technology - Waleed El Sayed
+  - title: Building Offline-first Progressive Web Apps
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-30 16:30:00
+    room: FL 1 Folium
+    authors:
+      - name: Jake Archibald
+        twitter: jaffathecake
+        github:
+        website: https://jakearchibald.com/
+    slides:
+    videos:
+      - https://vimeo.com/287853623
+    description: |-
+      For most of the web, poor network connectivity destroys the user experience. We can do better. In this session we'll take an online-only site and turn it into a fully network-resilient, offline-first installable progressive web app, and this won't involve rebuilding from scratch; it'll be done in small iterations, with each step improving the user experience whether they're offline, online, or anything in between. This session will cover ServiceWorker, web manifests, add-to-homescreen banners, IndexedDB and BackgroundSync APIs.
 
-- title: The three stages of leadership
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-31 09:00:00
-  room: FL 1 Folium
-  authors:
-    - name: Jane Austin
-      twitter: msjaneaustin
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
-    As you grow into a leader there are three distinct stages - leading individuals, leading teams, and leading the organisation. Drawing on her 20 years of experience Jane will guide you through each of these stage so that you can make the transition smoothly.
+  - title: Conquer Variable Web Typography
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-30 16:30:00
+    room: FL 2 Papiersaal
+    authors:
+      - name: Oliver Schöndorfer
+        twitter: glyphe
+        github:
+        website: http://zeichenschatz.net
+    slides:
+    videos:
+      - https://vimeo.com/287977214
+    description: |-
+      Variable fonts will shape the future of web typography as they can bring great variety and new opportunities at a low file size to our browsers. This practical talk guides you through the first steps with variable web typography, illustrated by several use cases and examples. What are variable fonts, what can you do with them, when do they make sense, and what should you be aware of? It’s time to be more variable and get this new technology in the browser!
 
-- title: The Geek’s Guide to Leading Teams
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-31 09:00:00
-  room: FL 2 Papiersaal
-  authors:
-    - name: Patrick Kua
-      twitter: patkua
-      github:
-      website: https://www.thekua.com/atwork
-  slides:
-  videos:
-    - https://vimeo.com/287977740
-  description: |-
-    The most challenging aspects to software development are always the people issues. Picking the right data structures, finding the right testing approaches are simple compared to building an effective software team. Most organisations fail to support developers promoted into technical leadership roles so where do you go to uncover the secret skills behind this important role? Come along to this session to discover practical tips for leading technical teams.
+  - title: Lightning talks (Folium)
+    lang: en
+    type: lightning
+    level:
+    time: 2018-08-30 17:30:00
+    room: FL 1 Folium
+    authors:
+      - name: Lukas Müller
+        twitter:
+        github:
+        website:
+      - name: Lukas Ehrensperger
+        twitter:
+        github:
+        website:
+      - name: Nico Martin
+        twitter:
+        github:
+        website:
+      - name: Christian Hirsig
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://vimeo.com/287857223
+    description: |-
+      Zero-bug launch & 100% user acceptance - Lukas Müller; Beyond Pokémon GO, Tangible benefits using AR for real service business - Lukas Ehrensperger; Progressive Web Apps for the 99% - Nico Martin; Coding Academy for Refugees - Christian Hirsig
 
-- title: Muddling Through The Middle Bits, what comes after Junior and before Senior
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-31 10:00:00
-  room: FL 1 Folium
-  authors:
-    - name: Anne Callahan
-      twitter: northofnormal
-      github:
-      website:
-  slides:
-  videos:
-    - https://vimeo.com/287855202
-  description: |-
-    There’s a ton of advice out there for junior developers, how to grow your skills, how to contribute effectively without a lot of experience, how to ask good questions. Likewise, there’s a lot of good advice for senior developers on how lead and mentor effectively and how to leverage their knowledge and experience. Left out are the people in between those two extremes, the developers who aren’t junior anymore, but haven’t risen to truly “senior developer” status.How do you get from junior to senior? Perhaps it's just a matter of time, Junior Dev + 5 years = Senior Dev? Is it some combination of depth and breadth of knowledge? Are team skills or technical ones the most important in this transition? How do you know you've crossed into senior territory? For that matter, how do you know you're no longer a junior? Let’s explore this squishy middle area, its landmarks and signposts, and try to find a personalized map of the mid-career.
+  - title: Lightning talks (Papiersaal)
+    lang: en
+    type: lightning
+    level:
+    time: 2018-08-30 17:30:00
+    room: FL 2 Papiersaal
+    authors:
+      - name: Fredi Bach
+        twitter:
+        github:
+        website:
+      - name: Anton Staroverov
+        twitter:
+        github:
+        website:
+      - name: Nicola Marcacci Rossi
+        twitter:
+        github:
+        website:
+      - name: Waleed El Sayed
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://vimeo.com/287978291
+    description: |-
+      Frontend First Development - Fredi Bach; Reusable frontend components using yarn workspaces, data- attrs and twig - Anton Staroverov; Ooth - a User Accounts System for Node - Nicola Marcacci Rossi; Blockchain meets Frontend Technology - Waleed El Sayed
 
-- title: Impostor Syndrome and Individual Competence
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-31 10:00:00
-  room: FL 2 Papiersaal
-  authors:
-    - name: Jessica Rose
-      twitter: jesslynnrose
-      github:
-      website:
-  slides:
-  videos:
-    - https://vimeo.com/287980808
-  description: |-
-    This talk focuses on how Impostor Syndrome and the Dunning-Kruger effect work to undermine our estimation of our individual skills. Who do these cognitive biases affect? And how do they collectively shape the face of the software development industry? The impact of these biases on personal and professional relationships among individuals and groups will be examined, along with what can be done to diagnose and cope with them.
+  - title: The three stages of leadership
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-31 09:00:00
+    room: FL 1 Folium
+    authors:
+      - name: Jane Austin
+        twitter: msjaneaustin
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      As you grow into a leader there are three distinct stages - leading individuals, leading teams, and leading the organisation. Drawing on her 20 years of experience Jane will guide you through each of these stage so that you can make the transition smoothly.
 
-- title: It Takes a Village to Raise a Bot
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-31 11:00:00
-  room: FL 1 Folium
-  authors:
-    - name: Desiree Garcia
-      twitter: thedezzie
-      github:
-      website: http://dezz.ie
-  slides:
-  videos:
-    - https://vimeo.com/287855850
-  description: |-
-    Your job isn't going anywhere. You do not need to be a machine learning engineer to work with AI. Former IBM Watson designer Dezzie Garcia takes you through the journey of designing effective ways for people to be able to build their chatbots, from the assumption that engineering is at the center of the work. Maybe you'll be surprised, or maybe you won't–that's good! This talk is intended to get audience members to reflect on how their roles have evolved in the industry, and how this may be happening again.
+  - title: The Geek’s Guide to Leading Teams
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-31 09:00:00
+    room: FL 2 Papiersaal
+    authors:
+      - name: Patrick Kua
+        twitter: patkua
+        github:
+        website: https://www.thekua.com/atwork
+    slides:
+    videos:
+      - https://vimeo.com/287977740
+    description: |-
+      The most challenging aspects to software development are always the people issues. Picking the right data structures, finding the right testing approaches are simple compared to building an effective software team. Most organisations fail to support developers promoted into technical leadership roles so where do you go to uncover the secret skills behind this important role? Come along to this session to discover practical tips for leading technical teams.
 
-- title: The New Mobile Reality
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-31 11:00:00
-  room: FL 2 Papiersaal
-  authors:
-    - name: Alex Russel
-      twitter: slightlylate
-      github:
-      website: https://infrequently.org/
-  slides:
-  videos:
-    - https://vimeo.com/287974990
-  description: |-
-    The current state of mobile networks and handsets isn't easy to understand. Things are changing rapidly -- and progress is uneven. Building for this environment requires understanding the current ground-truth and the likely trends in order to make appropriate technology and business choices.
+  - title: Muddling Through The Middle Bits, what comes after Junior and before Senior
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-31 10:00:00
+    room: FL 1 Folium
+    authors:
+      - name: Anne Callahan
+        twitter: northofnormal
+        github:
+        website:
+    slides:
+    videos:
+      - https://vimeo.com/287855202
+    description: |-
+      There’s a ton of advice out there for junior developers, how to grow your skills, how to contribute effectively without a lot of experience, how to ask good questions. Likewise, there’s a lot of good advice for senior developers on how lead and mentor effectively and how to leverage their knowledge and experience. Left out are the people in between those two extremes, the developers who aren’t junior anymore, but haven’t risen to truly “senior developer” status.How do you get from junior to senior? Perhaps it's just a matter of time, Junior Dev + 5 years = Senior Dev? Is it some combination of depth and breadth of knowledge? Are team skills or technical ones the most important in this transition? How do you know you've crossed into senior territory? For that matter, how do you know you're no longer a junior? Let’s explore this squishy middle area, its landmarks and signposts, and try to find a personalized map of the mid-career.
 
-- title: Hey! You got your code in my art!
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-31 13:00:00
-  room: FL 1 Folium
-  authors:
-    - name: Monica Dinculescu
-      twitter: notwaldorf
-      github:
-      website: https://meowni.ca
-  slides:
-  videos:
-    - https://vimeo.com/287857411
-  description: |-
-    “Creativity” is a word that covers all manners of sins. It might be art, or movies, or weird duct-tape hacks that you do around your patio to hold bird feeders up. It might mean saying something in a way that hasn’t been said before, or fundamentally changing how you others with the world. We write code that makes art, and games, and lets humans fly and banks transfer money in an instant, so what even is code, if not just another way of being creative?
+  - title: Impostor Syndrome and Individual Competence
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-31 10:00:00
+    room: FL 2 Papiersaal
+    authors:
+      - name: Jessica Rose
+        twitter: jesslynnrose
+        github:
+        website:
+    slides:
+    videos:
+      - https://vimeo.com/287980808
+    description: |-
+      This talk focuses on how Impostor Syndrome and the Dunning-Kruger effect work to undermine our estimation of our individual skills. Who do these cognitive biases affect? And how do they collectively shape the face of the software development industry? The impact of these biases on personal and professional relationships among individuals and groups will be examined, along with what can be done to diagnose and cope with them.
 
-- title: Community based design
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-31 13:00:00
-  room: FL 2 Papiersaal
-  authors:
-    - name: Emanuela Damiani
-      twitter: brassy
-      github:
-      website: http://emanueladamiani.com/
-  slides:
-  videos:
-    - https://vimeo.com/287976580
-  description: |-
-    A design process can be extraordinarily structured, or entirely missing. Either way, it often requires a remarkable number of conversations with all the stakeholders involves, including people from different departments and the users. But, what does happen when we add the unpredictable power of a community? In this talk, I’ll share my thoughts, fears and views on working for an open-source product.
+  - title: It Takes a Village to Raise a Bot
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-31 11:00:00
+    room: FL 1 Folium
+    authors:
+      - name: Desiree Garcia
+        twitter: thedezzie
+        github:
+        website: http://dezz.ie
+    slides:
+    videos:
+      - https://vimeo.com/287855850
+    description: |-
+      Your job isn't going anywhere. You do not need to be a machine learning engineer to work with AI. Former IBM Watson designer Dezzie Garcia takes you through the journey of designing effective ways for people to be able to build their chatbots, from the assumption that engineering is at the center of the work. Maybe you'll be surprised, or maybe you won't–that's good! This talk is intended to get audience members to reflect on how their roles have evolved in the industry, and how this may be happening again.
 
-- title: Great Design, Despite Agile, How to Get the Best Out of Your Design Team in Agile Projects
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-31 14:00:00
-  room: FL 1 Folium
-  authors:
-    - name: Aras Bilgen
-      twitter: arasb
-      github:
-      website: http://arasbilgen.com
-  slides:
-  videos:
-    - https://vimeo.com/287855293
-  description: |-
-    More and more, we hear design and agile software development in the same sentence. Many flavors of agile have borrowed from design practices successfully and agile practices have been influencing design methods for a long time. While there are many overlapping areas, there are fundamental differences between agile software development and design practices. In this talk we will see how designers and agile developers can work together by recognizing that strategic, discovery-based design and production-level design are two vastly different activities. We will talk about how to run a parallel discovery track, and how to make production-level design a part of the agile process. We will discuss how to adapt to different team structures and project needs and share tips about how you can communicate this hybrid approach to your designers, developers, PMs and QA teams. Participants who are new to agile practices will get a chance to see how agile practices developed historically and how they compare to mature design practices. Designers and developers will get a chance to see agile approaches from a different perspective. Experienced practitioners will get a chance to see successful variations on the dual-track approaches that have been tested in large enterprise and small agency settings.
+  - title: The New Mobile Reality
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-31 11:00:00
+    room: FL 2 Papiersaal
+    authors:
+      - name: Alex Russel
+        twitter: slightlylate
+        github:
+        website: https://infrequently.org/
+    slides:
+    videos:
+      - https://vimeo.com/287974990
+    description: |-
+      The current state of mobile networks and handsets isn't easy to understand. Things are changing rapidly -- and progress is uneven. Building for this environment requires understanding the current ground-truth and the likely trends in order to make appropriate technology and business choices.
 
-- title: Humanizing your documentation
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-31 14:00:00
-  room: FL 2 Papiersaal
-  authors:
-    - name: Carolyn Stransky
-      twitter: carolstran
-      github:
-      website:
-  slides:
-  videos:
-    - https://vimeo.com/287976272
-  description: |-
-    It’s no secret that most people don’t read technical documentation for pleasure. Users often come to your docs when they are frustrated with your software, disappointed that they haven't been able to solve the problem on their own and generally feeling pretty low. This is a little sad, yeah, but being aware of these feelings is key for developers and technical writers. These emotions frame the reader’s perspective and therefore, should shape the mood of our docs. After all, when you've been stuck on a bug for hours, do you really want to read something saying 'but this is so easy'? In this talk, we’ll discuss how the language we use affects our users and the first steps towards writing accessible, approachable and use case-driven documentation.
+  - title: Hey! You got your code in my art!
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-31 13:00:00
+    room: FL 1 Folium
+    authors:
+      - name: Monica Dinculescu
+        twitter: notwaldorf
+        github:
+        website: https://meowni.ca
+    slides:
+    videos:
+      - https://vimeo.com/287857411
+    description: |-
+      “Creativity” is a word that covers all manners of sins. It might be art, or movies, or weird duct-tape hacks that you do around your patio to hold bird feeders up. It might mean saying something in a way that hasn’t been said before, or fundamentally changing how you others with the world. We write code that makes art, and games, and lets humans fly and banks transfer money in an instant, so what even is code, if not just another way of being creative?
 
-- title: Better, Fearless Feedback for Software Teams
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-31 15:30:00
-  room: FL 1 Folium
-  authors:
-    - name: Erika Languirand
-      twitter: erikalanguirand
-      github:
-      website: https://detroitlabs.com
-  slides:
-  videos:
-    - https://vimeo.com/287856408
-  description: |-
-    Effective feedback is the most high-impact method of improving individual and team performance. When it is given well and received willingly, feedback can be a powerful ally in growing happy teams who work together effectively to deliver great software. Here's the challenge, giving and receiving feedback are skills, and many of us haven't had the chance to develop those skills. Maybe we find giving feedback intimidating. Maybe receiving feedback makes us feel defensive. Maybe we simply haven't had much positive experience with open, honest conversations about performance. It's not easy to do feedback "right", and when it is given badly or received poorly, feedback can cause a team's relationships to disintegrate. This talk will introduce the fundamentals of effective feedback; provide strategies for giving, receiving, and processing feedback; and discuss the challenges and rewards of using feedback as a tool to improve team performance.
+  - title: Community based design
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-31 13:00:00
+    room: FL 2 Papiersaal
+    authors:
+      - name: Emanuela Damiani
+        twitter: brassy
+        github:
+        website: http://emanueladamiani.com/
+    slides:
+    videos:
+      - https://vimeo.com/287976580
+    description: |-
+      A design process can be extraordinarily structured, or entirely missing. Either way, it often requires a remarkable number of conversations with all the stakeholders involves, including people from different departments and the users. But, what does happen when we add the unpredictable power of a community? In this talk, I’ll share my thoughts, fears and views on working for an open-source product.
 
-- title: Designing Teamwork
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-31 15:30:00
-  room: FL 2 Papiersaal
-  authors:
-    - name: Alison Coward
-      twitter: alisoncoward
-      github:
-      website: http://www.bracketcreative.co.uk
-  slides:
-  videos:
-  description: |-
-    Good communication and teamwork are essential to delivering great products. Effective collaboration means that you and your team can use the best of all your diverse skills to develop new ideas and make them happen. Building a great team is more than putting talented people together and hoping for the best. We can take a design approach to teamwork to encourage more creativity, make sure everyone is motivated and engaged, and create more time for people to do work they are proud of. In this talk, Alison will share tips for finding a good balance between creativity and productivity, how to run great workshops that improve team culture and creating good team habits that stick.
+  - title: Great Design, Despite Agile, How to Get the Best Out of Your Design Team in Agile Projects
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-31 14:00:00
+    room: FL 1 Folium
+    authors:
+      - name: Aras Bilgen
+        twitter: arasb
+        github:
+        website: http://arasbilgen.com
+    slides:
+    videos:
+      - https://vimeo.com/287855293
+    description: |-
+      More and more, we hear design and agile software development in the same sentence. Many flavors of agile have borrowed from design practices successfully and agile practices have been influencing design methods for a long time. While there are many overlapping areas, there are fundamental differences between agile software development and design practices. In this talk we will see how designers and agile developers can work together by recognizing that strategic, discovery-based design and production-level design are two vastly different activities. We will talk about how to run a parallel discovery track, and how to make production-level design a part of the agile process. We will discuss how to adapt to different team structures and project needs and share tips about how you can communicate this hybrid approach to your designers, developers, PMs and QA teams. Participants who are new to agile practices will get a chance to see how agile practices developed historically and how they compare to mature design practices. Designers and developers will get a chance to see agile approaches from a different perspective. Experienced practitioners will get a chance to see successful variations on the dual-track approaches that have been tested in large enterprise and small agency settings.
 
-- title: How to Be Good
-  lang: en
-  type: regular
-  level:
-  time: 2018-08-31 16:30:00
-  room: FL 1 Folium
-  authors:
-    - name: Dan Mall
-      twitter: danmall
-      github:
-      website: http://superfriend.ly/
-  slides:
-  videos:
-    - https://vimeo.com/287855630
-  description: |-
-    No one cares how good your work is if you’re a pain to work with. SuperFriendly founder and director Dan Mall will talk about everything else around your craft, creating accountability between you and your co-workers, establishing healthy boundaries, how to lead and how to follow—the real things you need to know to be good at work.
+  - title: Humanizing your documentation
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-31 14:00:00
+    room: FL 2 Papiersaal
+    authors:
+      - name: Carolyn Stransky
+        twitter: carolstran
+        github:
+        website:
+    slides:
+    videos:
+      - https://vimeo.com/287976272
+    description: |-
+      It’s no secret that most people don’t read technical documentation for pleasure. Users often come to your docs when they are frustrated with your software, disappointed that they haven't been able to solve the problem on their own and generally feeling pretty low. This is a little sad, yeah, but being aware of these feelings is key for developers and technical writers. These emotions frame the reader’s perspective and therefore, should shape the mood of our docs. After all, when you've been stuck on a bug for hours, do you really want to read something saying 'but this is so easy'? In this talk, we’ll discuss how the language we use affects our users and the first steps towards writing accessible, approachable and use case-driven documentation.
+
+  - title: Better, Fearless Feedback for Software Teams
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-31 15:30:00
+    room: FL 1 Folium
+    authors:
+      - name: Erika Languirand
+        twitter: erikalanguirand
+        github:
+        website: https://detroitlabs.com
+    slides:
+    videos:
+      - https://vimeo.com/287856408
+    description: |-
+      Effective feedback is the most high-impact method of improving individual and team performance. When it is given well and received willingly, feedback can be a powerful ally in growing happy teams who work together effectively to deliver great software. Here's the challenge, giving and receiving feedback are skills, and many of us haven't had the chance to develop those skills. Maybe we find giving feedback intimidating. Maybe receiving feedback makes us feel defensive. Maybe we simply haven't had much positive experience with open, honest conversations about performance. It's not easy to do feedback "right", and when it is given badly or received poorly, feedback can cause a team's relationships to disintegrate. This talk will introduce the fundamentals of effective feedback; provide strategies for giving, receiving, and processing feedback; and discuss the challenges and rewards of using feedback as a tool to improve team performance.
+
+  - title: Designing Teamwork
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-31 15:30:00
+    room: FL 2 Papiersaal
+    authors:
+      - name: Alison Coward
+        twitter: alisoncoward
+        github:
+        website: http://www.bracketcreative.co.uk
+    slides:
+    videos:
+    description: |-
+      Good communication and teamwork are essential to delivering great products. Effective collaboration means that you and your team can use the best of all your diverse skills to develop new ideas and make them happen. Building a great team is more than putting talented people together and hoping for the best. We can take a design approach to teamwork to encourage more creativity, make sure everyone is motivated and engaged, and create more time for people to do work they are proud of. In this talk, Alison will share tips for finding a good balance between creativity and productivity, how to run great workshops that improve team culture and creating good team habits that stick.
+
+  - title: How to Be Good
+    lang: en
+    type: regular
+    level:
+    time: 2018-08-31 16:30:00
+    room: FL 1 Folium
+    authors:
+      - name: Dan Mall
+        twitter: danmall
+        github:
+        website: http://superfriend.ly/
+    slides:
+    videos:
+      - https://vimeo.com/287855630
+    description: |-
+      No one cares how good your work is if you’re a pain to work with. SuperFriendly founder and director Dan Mall will talk about everything else around your craft, creating accountability between you and your co-workers, establishing healthy boundaries, how to lead and how to follow—the real things you need to know to be good at work.

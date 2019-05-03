@@ -1,591 +1,607 @@
-- title: CSS Blend Modes, Because...
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 09:30:00
-  room:
-  authors:
-    - name: Una Kravets
-      twitter: una
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/XZmvHVVj0Ns
+conference:
+
+  name: JSConf.Asia 2018
+  url: https://2018.jsconf.asia/
+  status: complete
+  date:
+    from: 2018-01-25
+    to: 2018-01-27
+  location:
+    country: Singapore
+    city: Singapore
   description: |-
-    CSS Blend modes are underutilized and can be used for a variety of things from improving image performance to creating scalable styling. This talk goes over some case studies where blend modes can make a big impact, talks about browser support, and also discusses workaround for including blend modes where they aren't supported. Tour the wide world of CSS Blend modes and learn why you may want to introduce them in your own web-based projects today!
+    Southeast Asia's largest web developer conference.
 
-- title: Performing Dynamic Analysis of JS Apps
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 10:40:00
-  room:
-  authors:
-    - name: Inian Parameshwaran
-      twitter: everConfusedGuy
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/obkdza-dPco
-  description: |-
-    Ever wondered how many times the ads in your website are using document.write? Or if you were writing to the DOM from untrusted sources? Such questions can be answered by dynamically analysing the JavaScript running in your website. Static analysis of JavaScript leads to a lot of false positives and is incredibly hard to do correctly due to features like eval, XHR, etc. Dynamic analysis of JavaScript gives much more accurate results. I will talk about using meta programming APIs such as Proxies, overriding native DOM APIs and inbuilt JS functions, using Immediately Invoked Function Expressions (IIFEs), etc. to carry out your own dynamic analysis, the gotchas involved and how I handled them. Also, I will be demonstrating how to use the open-source proxy module I wrote, which makes it easy to get started on carrying out these kinds of dynamic analysis on real-world web applications.
+talks:
 
-- title: Write Perfect Code with Standard and ESLint
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 11:10:00
-  room:
-  authors:
-    - name: Feross Aboukhadijeh
-      twitter: feross
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/kuHfMw8j4xk
-  description: |-
-    In this talk, you'll learn about code linting – how to use Standard and ESLint to catch programmer errors before they cause problems for your users. We'll discuss how to get started with linting, as well as how to improve your setup if you're already linting your code. Feross will also share the secret history of how the Standard linter was created, for the first time ever in a conference talk.
+  - title: CSS Blend Modes, Because...
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 09:30:00
+    room:
+    authors:
+      - name: Una Kravets
+        twitter: una
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/XZmvHVVj0Ns
+    description: |-
+      CSS Blend modes are underutilized and can be used for a variety of things from improving image performance to creating scalable styling. This talk goes over some case studies where blend modes can make a big impact, talks about browser support, and also discusses workaround for including blend modes where they aren't supported. Tour the wide world of CSS Blend modes and learn why you may want to introduce them in your own web-based projects today!
 
-- title: 'Be a No-Mouse Ninja: How People with Visual Impairment use Websites'
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 11:30:00
-  room:
-  authors:
-    - name: Giang Nguyen
-      twitter:
-      github:
-      website:
-    - name: GrabDickson Tan
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/7cEfxhsn3Bg
-  description: |-
-    What does it take to navigate a website with your eyes closed? Let Giang & Dickson, pioneers of the Web Accessibility (A11Y) movement in Singapore, walk you through the daily challenges they face, what it means to them, and how their experiences interfacing with websites purely through audio can help you identify new experiences for your sighted users through case examples.
+  - title: Performing Dynamic Analysis of JS Apps
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 10:40:00
+    room:
+    authors:
+      - name: Inian Parameshwaran
+        twitter: everConfusedGuy
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/obkdza-dPco
+    description: |-
+      Ever wondered how many times the ads in your website are using document.write? Or if you were writing to the DOM from untrusted sources? Such questions can be answered by dynamically analysing the JavaScript running in your website. Static analysis of JavaScript leads to a lot of false positives and is incredibly hard to do correctly due to features like eval, XHR, etc. Dynamic analysis of JavaScript gives much more accurate results. I will talk about using meta programming APIs such as Proxies, overriding native DOM APIs and inbuilt JS functions, using Immediately Invoked Function Expressions (IIFEs), etc. to carry out your own dynamic analysis, the gotchas involved and how I handled them. Also, I will be demonstrating how to use the open-source proxy module I wrote, which makes it easy to get started on carrying out these kinds of dynamic analysis on real-world web applications.
 
-- title: 'data sketch|es: a year of exotic data visualizations'
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 13:00:00
-  room:
-  authors:
-    - name: Shirley Wu
-      twitter: sxywuNadieh Bremer
-      github:
-      website:
-    - name: Nadieh Bremer
-      twitter: NadiehBremer
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Ww57lUS9dF4
-  description: |-
-    Data sketches is a collaboration between Nadieh Bremer and Shirley Wu, where we choose a topic and visualize it by the end of the month, and write about our process. In this talk, we will share our favorite months of data, sketches, and code: what made them our favorites, the mistakes we made along the way, and how we overcame them. We want to share our lessons learned to highlight that, though many of our visualizations had humble, ugly duckling beginnings, we were able to produce unique and compelling results through many (embarrassing) iterations.
+  - title: Write Perfect Code with Standard and ESLint
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 11:10:00
+    room:
+    authors:
+      - name: Feross Aboukhadijeh
+        twitter: feross
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/kuHfMw8j4xk
+    description: |-
+      In this talk, you'll learn about code linting – how to use Standard and ESLint to catch programmer errors before they cause problems for your users. We'll discuss how to get started with linting, as well as how to improve your setup if you're already linting your code. Feross will also share the secret history of how the Standard linter was created, for the first time ever in a conference talk.
 
-- title: 'Micro Frontend: a microservice architecture from your frontend web apps'
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 13:30:00
-  room:
-  authors:
-    - name: Wilson Mendes
-      twitter: willmendesneto
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Kphwg2IsJfA
-  description: |-
-    Are you working with a big Frontend application and you are facing some problems in your project? Do you want migrate your frontend from another framework or library and don’t know how? Don't you know how to manage different layers of complexity in your application or share these components between applications? In this talk, I will share my experience and decisions creating micro frontend applications, how to manage quality, deployment and more that makes your team deliver more valuable features giving you the power to migrate, improve, evolve and experiment in your product.
+  - title: 'Be a No-Mouse Ninja: How People with Visual Impairment use Websites'
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 11:30:00
+    room:
+    authors:
+      - name: Giang Nguyen
+        twitter:
+        github:
+        website:
+      - name: GrabDickson Tan
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/7cEfxhsn3Bg
+    description: |-
+      What does it take to navigate a website with your eyes closed? Let Giang & Dickson, pioneers of the Web Accessibility (A11Y) movement in Singapore, walk you through the daily challenges they face, what it means to them, and how their experiences interfacing with websites purely through audio can help you identify new experiences for your sighted users through case examples.
 
-- title: Serverless Apps with Node.JS in OpenWhisk and Adobe I/O Runtime
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 14:00:00
-  room:
-  authors:
-    - name: Shazron Abdullah
-      twitter: shazron
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ne6YvKWbQYg
-  description: |-
-    Serverless computing is a powerful way for JavaScript developers to create backend services that can power a variety of experiences from the browser to IoT devices. At Adobe, we are embracing serverless as a way to enable our developer ecosystem to easily create experience applications that extend our solutions. We’re building this platform, Adobe I/O Runtime, on top of an open source project, Apache OpenWhisk. In this talk you’ll learn about Apache OpenWhisk, what kinds of use cases are good for serverless, and how to use build serverless applications using NodeJS. Using Adobe I/O Runtime, you’ll see how to deploy code as serverless functions, how event-driven architecture can be a powerful compliment for serverless, how to build more complex applications by combining multiple functions, and how to expose your functions as APIs so they can be used across multiple experiences. You’ll walk away with a clear picture of where it makes sense to use serverless computing and how to get started.
+  - title: 'data sketch|es: a year of exotic data visualizations'
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 13:00:00
+    room:
+    authors:
+      - name: Shirley Wu
+        twitter: sxywuNadieh Bremer
+        github:
+        website:
+      - name: Nadieh Bremer
+        twitter: NadiehBremer
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Ww57lUS9dF4
+    description: |-
+      Data sketches is a collaboration between Nadieh Bremer and Shirley Wu, where we choose a topic and visualize it by the end of the month, and write about our process. In this talk, we will share our favorite months of data, sketches, and code: what made them our favorites, the mistakes we made along the way, and how we overcame them. We want to share our lessons learned to highlight that, though many of our visualizations had humble, ugly duckling beginnings, we were able to produce unique and compelling results through many (embarrassing) iterations.
 
-- title: Honey, I Shrunk the Scripts! — the secret life of JS on microcontrollers
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 14:15:00
-  room:
-  authors:
-    - name: István Szmozsánszky "Flaki"
-      twitter: slsoftworks
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/8n4jCTbvYwI
-  description: |-
-    In 2015 I published an article on JavaScript's "World Domination". Back then, a bit more than two years ago, in this 6000-word beast JavaScript on hardware was almost like an afterthought, a footnote on the last page and a bit. But even then, the writing was already on the wall — it was only a matter of time until JavaScript's triumphant march reached the most minute of the silicone army… Indeed,two years later, there's already this thriving ecosystem of tiny JavaScript-dialects: they are powering a wide variety of miniature computers (colloquially only referred to as ""IoT""), from industry automations to smartwatches, they are everywhere. My bet is, even if you have never heard of JerryScript, duktape, or V7 before — you surely will want to now. ;)
+  - title: 'Micro Frontend: a microservice architecture from your frontend web apps'
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 13:30:00
+    room:
+    authors:
+      - name: Wilson Mendes
+        twitter: willmendesneto
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Kphwg2IsJfA
+    description: |-
+      Are you working with a big Frontend application and you are facing some problems in your project? Do you want migrate your frontend from another framework or library and don’t know how? Don't you know how to manage different layers of complexity in your application or share these components between applications? In this talk, I will share my experience and decisions creating micro frontend applications, how to manage quality, deployment and more that makes your team deliver more valuable features giving you the power to migrate, improve, evolve and experiment in your product.
 
-- title: Evolving DBS Frontend
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 15:30:00
-  room:
-  authors:
-    - name: Tony Sebastian
-      twitter: tsktony
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/sltPORiz1Ks
-  description: |-
-    Over the last year, DBS frontend architecture for building customer facing applications has evolved to keep pace with the rapid advancement happening in the JavaScript world. Get excited how we approached and executed changes on large enterprise frontend.
+  - title: Serverless Apps with Node.JS in OpenWhisk and Adobe I/O Runtime
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 14:00:00
+    room:
+    authors:
+      - name: Shazron Abdullah
+        twitter: shazron
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ne6YvKWbQYg
+    description: |-
+      Serverless computing is a powerful way for JavaScript developers to create backend services that can power a variety of experiences from the browser to IoT devices. At Adobe, we are embracing serverless as a way to enable our developer ecosystem to easily create experience applications that extend our solutions. We’re building this platform, Adobe I/O Runtime, on top of an open source project, Apache OpenWhisk. In this talk you’ll learn about Apache OpenWhisk, what kinds of use cases are good for serverless, and how to use build serverless applications using NodeJS. Using Adobe I/O Runtime, you’ll see how to deploy code as serverless functions, how event-driven architecture can be a powerful compliment for serverless, how to build more complex applications by combining multiple functions, and how to expose your functions as APIs so they can be used across multiple experiences. You’ll walk away with a clear picture of where it makes sense to use serverless computing and how to get started.
 
-- title: 'When East meets West: web typography and how it can inspire modern layouts'
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 15:45:00
-  room:
-  authors:
-    - name: Chen Hui Jing
-      twitter: hj_chen
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Tqxo269aORM
-  description: |-
-    This talk traces the parallel history of western and eastern typography from handwriting to the internet age, setting the context for how the web is a brand new medium for typesetting. CSS allows us to implement advanced typographic features and multi-directional layouts, that not only benefits internationalisation, but opens up a myriad of options for creative and interesting layouts in general as well.
+  - title: Honey, I Shrunk the Scripts! — the secret life of JS on microcontrollers
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 14:15:00
+    room:
+    authors:
+      - name: István Szmozsánszky "Flaki"
+        twitter: slsoftworks
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/8n4jCTbvYwI
+    description: |-
+      In 2015 I published an article on JavaScript's "World Domination". Back then, a bit more than two years ago, in this 6000-word beast JavaScript on hardware was almost like an afterthought, a footnote on the last page and a bit. But even then, the writing was already on the wall — it was only a matter of time until JavaScript's triumphant march reached the most minute of the silicone army… Indeed,two years later, there's already this thriving ecosystem of tiny JavaScript-dialects: they are powering a wide variety of miniature computers (colloquially only referred to as ""IoT""), from industry automations to smartwatches, they are everywhere. My bet is, even if you have never heard of JerryScript, duktape, or V7 before — you surely will want to now. ;)
 
-- title: My Node.js process is on fire
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 16:15:00
-  room:
-  authors:
-    - name: Matteo Collina
-      twitter: matteocollina
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/G9Vkpe55Gu8
-  description: |-
-    At 10am on Black Friday, your phone rings: the new JS application you deployed came under too much load, and the site has gone down! Your employer is losing sales opportunities... your employer is losing money! But you don’t lose your cool. You log into your cloud provider and tweak your autoscaling settings. Now the deployment can handle the load spike but with four times the number of servers, which is four times the cost. The next day, you try to analyze what happened and begin to optimize your application to prepare for future load spikes. This talk is a journey into the world of Node.js performance, taking a look at the available tools and optimization techniques inspired by insight gained from glimpsing under the hood of Node and V8.
+  - title: Evolving DBS Frontend
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 15:30:00
+    room:
+    authors:
+      - name: Tony Sebastian
+        twitter: tsktony
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/sltPORiz1Ks
+    description: |-
+      Over the last year, DBS frontend architecture for building customer facing applications has evolved to keep pace with the rapid advancement happening in the JavaScript world. Get excited how we approached and executed changes on large enterprise frontend.
 
-- title: Enabling New Web Experiences
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 16:30:00
-  room:
-  authors:
-    - name: David Bryant
-      twitter: david_bryant
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/yqZYAM2es9Q
-  description: |-
-    Speech, mixed reality and machine learning are all the rage. How do we incorporate these emerging technologies into today’s web and provide enriching opportunities for creators and compelling experiences for users? How do we make those experiences buildable and deployable at scale to everyone, everywhere? Come hear how Mozilla blends established core web components like JavaScript with breakthrough new capabilities like WebAssembly and powerful new programming languages like Rust to transform the web.
+  - title: 'When East meets West: web typography and how it can inspire modern layouts'
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 15:45:00
+    room:
+    authors:
+      - name: Chen Hui Jing
+        twitter: hj_chen
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Tqxo269aORM
+    description: |-
+      This talk traces the parallel history of western and eastern typography from handwriting to the internet age, setting the context for how the web is a brand new medium for typesetting. CSS allows us to implement advanced typographic features and multi-directional layouts, that not only benefits internationalisation, but opens up a myriad of options for creative and interesting layouts in general as well.
 
-- title: WebVR with A-Frame - Getting started
-  lang: en
-  type: workshop
-  level:
-  time: 2018-01-25 09:00:00
-  room:
-  authors:
-    - name: Martin Splitt
-      twitter: g33konaut
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/9SgDOtfuYhc
-  description: |-
-    VR is cool, Web is great - how about WebVR? In this workshop we will be creating a WebVR application using A-Frame. We will explore the WebVR API and the A-Frame library to build a small VR application that works in your browser - even on your phone! Requirements: Make sure your laptop is capable of rendering 3D graphics in the browser by visiting https://get.webgl.org - if you see a spinning cube, you're ready. If you have a smartphone that is WebGL capable, bring it too (and have it charged)!
+  - title: My Node.js process is on fire
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 16:15:00
+    room:
+    authors:
+      - name: Matteo Collina
+        twitter: matteocollina
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/G9Vkpe55Gu8
+    description: |-
+      At 10am on Black Friday, your phone rings: the new JS application you deployed came under too much load, and the site has gone down! Your employer is losing sales opportunities... your employer is losing money! But you don’t lose your cool. You log into your cloud provider and tweak your autoscaling settings. Now the deployment can handle the load spike but with four times the number of servers, which is four times the cost. The next day, you try to analyze what happened and begin to optimize your application to prepare for future load spikes. This talk is a journey into the world of Node.js performance, taking a look at the available tools and optimization techniques inspired by insight gained from glimpsing under the hood of Node and V8.
 
-- title: Enliven UX with React/Redux
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 09:00:00
-  room:
-  authors:
-    - name: Gurudath Reddy
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/5WyOtacc8Xs
-  description: |-
-    Learn how to better use React/Redux for building awesome user experiences, using optimistic transactions and data preloads. Also, we will explore advanced topics such as Hot Code Reload, Testability, Performance Monitoring, etc. Requirements: Latest version of NodeJS and NPM installed before the session.
+  - title: Enabling New Web Experiences
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 16:30:00
+    room:
+    authors:
+      - name: David Bryant
+        twitter: david_bryant
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/yqZYAM2es9Q
+    description: |-
+      Speech, mixed reality and machine learning are all the rage. How do we incorporate these emerging technologies into today’s web and provide enriching opportunities for creators and compelling experiences for users? How do we make those experiences buildable and deployable at scale to everyone, everywhere? Come hear how Mozilla blends established core web components like JavaScript with breakthrough new capabilities like WebAssembly and powerful new programming languages like Rust to transform the web.
 
-- title: CSS Grid is the new black
-  lang: en
-  type: workshop
-  level:
-  time: 2018-01-25 09:00:00
-  room:
-  authors:
-    - name: Chen Hui Jing
-      twitter: hj_chen
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/nx0yboEhUNc
-  description: |-
-    Do you cringe when you have to design and build layouts on the web? Do you get frustrated when things never go where you want them to on your page? Creating custom layouts is not a trivial task, no matter what your sales rep or account manager says. Fortunately, browsers now support a plethora of CSS properties that make building creative layouts much less painful than before. This workshop will cover a range of techniques for building cutting-edge web layouts with fallbacks for older browsers as well. It will be a practical workshop with code examples you can refer to for your future projects.
+  - title: WebVR with A-Frame - Getting started
+    lang: en
+    type: workshop
+    level:
+    time: 2018-01-25 09:00:00
+    room:
+    authors:
+      - name: Martin Splitt
+        twitter: g33konaut
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9SgDOtfuYhc
+    description: |-
+      VR is cool, Web is great - how about WebVR? In this workshop we will be creating a WebVR application using A-Frame. We will explore the WebVR API and the A-Frame library to build a small VR application that works in your browser - even on your phone! Requirements: Make sure your laptop is capable of rendering 3D graphics in the browser by visiting https://get.webgl.org - if you see a spinning cube, you're ready. If you have a smartphone that is WebGL capable, bring it too (and have it charged)!
 
-- title: Ethereum and Javascript - what's the big deal?
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 13:30:00
-  room:
-  authors:
-    - name: Dave Appleton
-      twitter: appletondave
-      github:
-      website:
-    - name: Raman Shalupau
-      twitter: ksaitor
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/1YNV-NYxDDo
-  description: |-
-    Ethereum is the wunderkid of the blockchain space. Decentralised Smart Contracts coupled with web3.js mean that you can integrate your distributed app with your front-end to improve your user experience. Requirements: A notebook with chrome would be preferable. Good options to install would be parity and/or metamask as well as the usual tools.
+  - title: Enliven UX with React/Redux
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 09:00:00
+    room:
+    authors:
+      - name: Gurudath Reddy
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/5WyOtacc8Xs
+    description: |-
+      Learn how to better use React/Redux for building awesome user experiences, using optimistic transactions and data preloads. Also, we will explore advanced topics such as Hot Code Reload, Testability, Performance Monitoring, etc. Requirements: Latest version of NodeJS and NPM installed before the session.
 
-- title: 'Coding Blindly: Intro to Web A11Y'
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 13:30:00
-  room:
-  authors:
-    - name: Giang Nguyen
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/3xvxV5QsENo
-  description: |-
-    As developers, we take great pride and responsibility in ensuring a safe and seamless experience for visitors. However, this isn't very much the case for 39 Million blind and visually-impaired people. While America & the EU pledge efforts to make all governmental service websites accessible, there are no systems in place in the APAC region. Join us to find out what it takes to make a web experience truly seamless for those living with blindness and visual impairment, complete with challenge tasks and some prize swag. Requirements: Participants should come prepared with an Apple Laptop (Macbook, Macbook Air) running El Capitan 10.11 minimally, a laptop charger & a pair of headphones/earphones, a mouse if your trackpad is not working and Firefox browser installed.
+  - title: CSS Grid is the new black
+    lang: en
+    type: workshop
+    level:
+    time: 2018-01-25 09:00:00
+    room:
+    authors:
+      - name: Chen Hui Jing
+        twitter: hj_chen
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/nx0yboEhUNc
+    description: |-
+      Do you cringe when you have to design and build layouts on the web? Do you get frustrated when things never go where you want them to on your page? Creating custom layouts is not a trivial task, no matter what your sales rep or account manager says. Fortunately, browsers now support a plethora of CSS properties that make building creative layouts much less painful than before. This workshop will cover a range of techniques for building cutting-edge web layouts with fallbacks for older browsers as well. It will be a practical workshop with code examples you can refer to for your future projects.
 
-- title: Creative Data Visualizations with SVG and D3.js
-  lang: en
-  type: workshop
-  level:
-  time: 2018-01-25 13:30:00
-  room:
-  authors:
-    - name: Shirley Wu
-      twitter: sxywu
-      github:
-      website:
-    - name: Nadieh Bremer
-      twitter: NadiehBremer
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/TKv_cUZd9sM
-  description: |-
-    In this workshop, we will cover the basics of SVG - especially SVG paths and the cubic bezier curve command - as well as an introduction to D3.js's selection, data-binding, and enter-update-exit patterns. The culmination of the workshop will be to create a set of flowers out of movie data, a simpler version of the film flowers here. Requirements: Just a laptop and working knowledge of Javascript and the web.
+  - title: Ethereum and Javascript - what's the big deal?
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 13:30:00
+    room:
+    authors:
+      - name: Dave Appleton
+        twitter: appletondave
+        github:
+        website:
+      - name: Raman Shalupau
+        twitter: ksaitor
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1YNV-NYxDDo
+    description: |-
+      Ethereum is the wunderkid of the blockchain space. Decentralised Smart Contracts coupled with web3.js mean that you can integrate your distributed app with your front-end to improve your user experience. Requirements: A notebook with chrome would be preferable. Good options to install would be parity and/or metamask as well as the usual tools.
 
-- title: PUSHing web app performance with HTTP/2
-  lang: en
-  type: workshop
-  level:
-  time: 2018-01-25 13:30:00
-  room:
-  authors:
-    - name: Inian Parameshwaran
-      twitter: everConfusedGuy
-      github:
-      website:
-    - name: Sebastiaan Deckers
-      twitter: sebdeckers
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/m0R4joKAPuE
-  description: |-
-    The workshop will cover different techniques on adapting websites to the upcoming HTTP/2 protocol. By the end of the workshop, participants would be well equipped with the tools and skills required to update and deploy a production-ready HTTP/2 website. We will be discussing the problems of HTTP/1.1 and how HTTP/2 helps obviate hacks such as bundling, domain sharding, etc. that were required in the HTTP/1.1 world. We will then discuss new architectures and paradigms enabled by features like HTTP/2 PUSH and the caveats to keep in mind when deploying such features to your users. Participants will learn to analyse, measure and optimise common performance problems when deploying such applications by working through the exercises in the workshop. They will also learn how to adapt their front-end tooling to be HTTP/2 ready. Finally, we will be talking about some of the new standards and protocols that are coming up after HTTP/2 and how to remain ahead of the curve. Requirements: Bring your own laptop and chargers
+  - title: 'Coding Blindly: Intro to Web A11Y'
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 13:30:00
+    room:
+    authors:
+      - name: Giang Nguyen
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3xvxV5QsENo
+    description: |-
+      As developers, we take great pride and responsibility in ensuring a safe and seamless experience for visitors. However, this isn't very much the case for 39 Million blind and visually-impaired people. While America & the EU pledge efforts to make all governmental service websites accessible, there are no systems in place in the APAC region. Join us to find out what it takes to make a web experience truly seamless for those living with blindness and visual impairment, complete with challenge tasks and some prize swag. Requirements: Participants should come prepared with an Apple Laptop (Macbook, Macbook Air) running El Capitan 10.11 minimally, a laptop charger & a pair of headphones/earphones, a mouse if your trackpad is not working and Firefox browser installed.
 
-- title: Virtual Reality in your browser
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 09:00:00
-  room:
-  authors:
-    - name: Martin Splitt
-      twitter: g33konaut
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/QYnJUrvzlLk
-  description: |-
-    Virtual Reality are coming to our browsers, so it's time to explore! In this talk, we will look at what it takes to start building VR apps with HTML and JavaScript and create a virtual world in the browser, ready to rumble!
+  - title: Creative Data Visualizations with SVG and D3.js
+    lang: en
+    type: workshop
+    level:
+    time: 2018-01-25 13:30:00
+    room:
+    authors:
+      - name: Shirley Wu
+        twitter: sxywu
+        github:
+        website:
+      - name: Nadieh Bremer
+        twitter: NadiehBremer
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/TKv_cUZd9sM
+    description: |-
+      In this workshop, we will cover the basics of SVG - especially SVG paths and the cubic bezier curve command - as well as an introduction to D3.js's selection, data-binding, and enter-update-exit patterns. The culmination of the workshop will be to create a set of flowers out of movie data, a simpler version of the film flowers here. Requirements: Just a laptop and working knowledge of Javascript and the web.
 
-- title: In the loop
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 09:30:00
-  room:
-  authors:
-    - name: Jake Archibald
-      twitter: jaffathecake
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/cCOL7MC4Pl0
-  description: |-
-    Have you ever had a bug where things were happening in the wrong order, or particular style changes were being ignored? Ever fixed that bug by wrapping a section of code in a setTimeout? Ever found that fix to be unreliable, and played around with the timeout number until it kinda almost always worked? This talk looks at the browser's event loop, the thing that orchestrates the main thread of the browser, which includes JavaScript, events, and rendering. We'll look at the difference between tasks, microtasks, requestAnimationFrame, requestIdleCallback, and where events land. Hopefully you'll never have to use setTimeout hacks again!"
+  - title: PUSHing web app performance with HTTP/2
+    lang: en
+    type: workshop
+    level:
+    time: 2018-01-25 13:30:00
+    room:
+    authors:
+      - name: Inian Parameshwaran
+        twitter: everConfusedGuy
+        github:
+        website:
+      - name: Sebastiaan Deckers
+        twitter: sebdeckers
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/m0R4joKAPuE
+    description: |-
+      The workshop will cover different techniques on adapting websites to the upcoming HTTP/2 protocol. By the end of the workshop, participants would be well equipped with the tools and skills required to update and deploy a production-ready HTTP/2 website. We will be discussing the problems of HTTP/1.1 and how HTTP/2 helps obviate hacks such as bundling, domain sharding, etc. that were required in the HTTP/1.1 world. We will then discuss new architectures and paradigms enabled by features like HTTP/2 PUSH and the caveats to keep in mind when deploying such features to your users. Participants will learn to analyse, measure and optimise common performance problems when deploying such applications by working through the exercises in the workshop. They will also learn how to adapt their front-end tooling to be HTTP/2 ready. Finally, we will be talking about some of the new standards and protocols that are coming up after HTTP/2 and how to remain ahead of the curve. Requirements: Bring your own laptop and chargers
 
-- title: How To Do Augmented Reality On The Web — The AR.js Open-Source Project
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 11:10:00
-  room:
-  authors:
-    - name: Jerome Etienne
-      twitter: jerome_etienne
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/NBrM7YVznzk
-  description: |-
-    WebAR is coming! And some would argue that it's already here. Developing augmented reality on the web can sound very complex. This is why I developed a way to make it easier for anyone to do AR, and I want to share it with you. It is called AR.js. In this talk I will take you through what WebAR is, what are its possibilities and its challenges. We will take a look at the major players and the recent developments in the AR world. Finally, I will share some demos made with AR.js, a fully open-source solution to do efficient augmented reality on the web! Can't wait :)
+  - title: Virtual Reality in your browser
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 09:00:00
+    room:
+    authors:
+      - name: Martin Splitt
+        twitter: g33konaut
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/QYnJUrvzlLk
+    description: |-
+      Virtual Reality are coming to our browsers, so it's time to explore! In this talk, we will look at what it takes to start building VR apps with HTML and JavaScript and create a virtual world in the browser, ready to rumble!
 
-- title: Jolly JS Journeys
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 13:20:00
-  room:
-  authors:
-    - name: Tim Holman
-      twitter: twholman
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/iGPzwotXgfk
-  description: |-
-    Ever started a project you didn't finish? Ever sat and stared at the screen, knowing you wanted to make something, but unsure of what? Ever felt like you're alone in making something? Well this talk is for you. Join me, though some weird and wacky wonderings through the web, and find how building, learning and having fun are all connected together... and gain a little more appreciation and love for javascript along the way!
+  - title: In the loop
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 09:30:00
+    room:
+    authors:
+      - name: Jake Archibald
+        twitter: jaffathecake
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cCOL7MC4Pl0
+    description: |-
+      Have you ever had a bug where things were happening in the wrong order, or particular style changes were being ignored? Ever fixed that bug by wrapping a section of code in a setTimeout? Ever found that fix to be unreliable, and played around with the timeout number until it kinda almost always worked? This talk looks at the browser's event loop, the thing that orchestrates the main thread of the browser, which includes JavaScript, events, and rendering. We'll look at the difference between tasks, microtasks, requestAnimationFrame, requestIdleCallback, and where events land. Hopefully you'll never have to use setTimeout hacks again!"
 
-- title: Smells in React apps
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 13:45:00
-  room:
-  authors:
-    - name: Thai Pangsakulyanont
-      twitter: dtinth
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/xBa0_b-5XDw
-  description: |-
-    Recognizing code smells is an important skill that helps you build maintainable software. This talk is about code and design smells in React applications, based on the experience working in a 2-year-old project with more than 900 components.
+  - title: How To Do Augmented Reality On The Web — The AR.js Open-Source Project
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 11:10:00
+    room:
+    authors:
+      - name: Jerome Etienne
+        twitter: jerome_etienne
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/NBrM7YVznzk
+    description: |-
+      WebAR is coming! And some would argue that it's already here. Developing augmented reality on the web can sound very complex. This is why I developed a way to make it easier for anyone to do AR, and I want to share it with you. It is called AR.js. In this talk I will take you through what WebAR is, what are its possibilities and its challenges. We will take a look at the major players and the recent developments in the AR world. Finally, I will share some demos made with AR.js, a fully open-source solution to do efficient augmented reality on the web! Can't wait :)
 
-- title: Accessibility and You
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 14:15:00
-  room:
-  authors:
-    - name: Sareh Heidari
-      twitter: sareh88
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/pOqX-TdyvXU
-  description: |-
-    It's 2018 and websites are increasingly becoming the primary way to access services. Brilliant! But what about the impact of inaccessible sites on users? In this talk, we'll go through practical steps to consider accessibility when building products - whether you're the sole dev on a project or part of a larger organisation. I'll share my experience at BBC News, as an accessibility champion: how we carry out accessibility research, reviews & tests.
+  - title: Jolly JS Journeys
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 13:20:00
+    room:
+    authors:
+      - name: Tim Holman
+        twitter: twholman
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/iGPzwotXgfk
+    description: |-
+      Ever started a project you didn't finish? Ever sat and stared at the screen, knowing you wanted to make something, but unsure of what? Ever felt like you're alone in making something? Well this talk is for you. Join me, though some weird and wacky wonderings through the web, and find how building, learning and having fun are all connected together... and gain a little more appreciation and love for javascript along the way!
 
-- title: Automating User Journey Testing Is A Piece Of Cake
-  lang: en
-  type: lightning
-  level:
-  time: 2018-01-25 14:45:00
-  room:
-  authors:
-    - name: Shi Ling Tai
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/0wjqnkrvYz4
-  description:
+  - title: Smells in React apps
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 13:45:00
+    room:
+    authors:
+      - name: Thai Pangsakulyanont
+        twitter: dtinth
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xBa0_b-5XDw
+    description: |-
+      Recognizing code smells is an important skill that helps you build maintainable software. This talk is about code and design smells in React applications, based on the experience working in a 2-year-old project with more than 900 components.
 
-- title: Boarding The Choo Train
-  lang: en
-  type: lightning
-  level:
-  time: 2018-01-25 14:45:00
-  room:
-  authors:
-    - name: Yoshua Wuyts
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/L41IrT-WnNE
-  description:
+  - title: Accessibility and You
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 14:15:00
+    room:
+    authors:
+      - name: Sareh Heidari
+        twitter: sareh88
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/pOqX-TdyvXU
+    description: |-
+      It's 2018 and websites are increasingly becoming the primary way to access services. Brilliant! But what about the impact of inaccessible sites on users? In this talk, we'll go through practical steps to consider accessibility when building products - whether you're the sole dev on a project or part of a larger organisation. I'll share my experience at BBC News, as an accessibility champion: how we carry out accessibility research, reviews & tests.
 
-- title: For The Love Of Web Assembly
-  lang: en
-  type: lightning
-  level:
-  time: 2018-01-25 14:45:00
-  room:
-  authors:
-    - name: Phoomparin Mano
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/-2iJG0FVGaY
-  description:
+  - title: Automating User Journey Testing Is A Piece Of Cake
+    lang: en
+    type: lightning
+    level:
+    time: 2018-01-25 14:45:00
+    room:
+    authors:
+      - name: Shi Ling Tai
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0wjqnkrvYz4
+    description:
 
-- title: CSS Pranks
-  lang: en
-  type: lightning
-  level:
-  time: 2018-01-25 14:45:00
-  room:
-  authors:
-    - name: Tim Holman
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/04zfAyPD9Tk
-  description:
+  - title: Boarding The Choo Train
+    lang: en
+    type: lightning
+    level:
+    time: 2018-01-25 14:45:00
+    room:
+    authors:
+      - name: Yoshua Wuyts
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/L41IrT-WnNE
+    description:
 
-- title: JavaScript Pranks
-  lang: en
-  type: lightning
-  level:
-  time: 2018-01-25 14:45:00
-  room:
-  authors:
-    - name: Feross Aboukhadijeh
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/rLgBqT_e6Yo
-  description:
+  - title: For The Love Of Web Assembly
+    lang: en
+    type: lightning
+    level:
+    time: 2018-01-25 14:45:00
+    room:
+    authors:
+      - name: Phoomparin Mano
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-2iJG0FVGaY
+    description:
 
-- title: Using SVG Circles For Charting
-  lang: en
-  type: lightning
-  level:
-  time: 2018-01-25 14:45:00
-  room:
-  authors:
-    - name: Chris Lienert
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/qvkI44LLDWM
-  description:
+  - title: CSS Pranks
+    lang: en
+    type: lightning
+    level:
+    time: 2018-01-25 14:45:00
+    room:
+    authors:
+      - name: Tim Holman
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/04zfAyPD9Tk
+    description:
 
-- title: What writing about frontend dev taught me about communicating with the world
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 15:45:00
-  room:
-  authors:
-    - name: Zell Liew
-      twitter: zellwk
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/XnDGJrvEzJg
-  description: |-
-    If we want to make things work, we need to communicate with other people. We need to talk to our users, audiences, colleagues, clients or even our bosses. We want to share our ideas and make sure they get it, so we can produce work that we're proud of. And right now, in our world, we mainly communicate through text. We talk through 140 characters, chat messages, blog posts or even README documents. We write everyday. But how do you write better? How do you improve your communication so hopefully the other party listens (or reads) and performs the action you wish they do? In this talk, I'd like to share with you what I learned from writing about code for four years – I'll share surprising things I discovered, and how you can improve your communication and get people to take action.
+  - title: JavaScript Pranks
+    lang: en
+    type: lightning
+    level:
+    time: 2018-01-25 14:45:00
+    room:
+    authors:
+      - name: Feross Aboukhadijeh
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/rLgBqT_e6Yo
+    description:
 
-- title: Storytelling with Performance Observers
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 16:00:00
-  room:
-  authors:
-    - name: Irina Shestak
-      twitter: _lrlna
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/dpxq4QWVhc0
-  description: |-
-    Chances are that if you work in software, you spend time building applications. Between features, deadlines and bug fixes, it's easy to move performance to be ""nice to have"". But what do you do when user interactions drop off, and users start complaining? Instead of having a traditional, reactive approach to performance — what if we could be proactive instead? What if we could monitor performance continuously, and make informed decisions on which issues to tackle. In this talk, I would like to focus on continuous performance monitoring to tell a story of user interactions. We will look into working with Performance API in your environment, and give you simple methods to tell and read a story of your transactions. We will specifically take a look at creating timings, working with observers, and tracking transactions from frontend to backend.
+  - title: Using SVG Circles For Charting
+    lang: en
+    type: lightning
+    level:
+    time: 2018-01-25 14:45:00
+    room:
+    authors:
+      - name: Chris Lienert
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qvkI44LLDWM
+    description:
 
-- title: If you're going out of San Francisco, be sure to wear Web Standards in your hair
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-25 16:30:00
-  room:
-  authors:
-    - name: Bruce Lawson
-      twitter: brucel
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/OZ7rc0_Ps68
-  description: |-
-    We do like our Holy Wars, don't we? — tables vs CSS? Responsive vs mdot? React vs Angular? CSS or CSS-in-JS? Let's look at the real issue: getting the free and open web to the other 4 billion people.
+  - title: What writing about frontend dev taught me about communicating with the world
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 15:45:00
+    room:
+    authors:
+      - name: Zell Liew
+        twitter: zellwk
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/XnDGJrvEzJg
+    description: |-
+      If we want to make things work, we need to communicate with other people. We need to talk to our users, audiences, colleagues, clients or even our bosses. We want to share our ideas and make sure they get it, so we can produce work that we're proud of. And right now, in our world, we mainly communicate through text. We talk through 140 characters, chat messages, blog posts or even README documents. We write everyday. But how do you write better? How do you improve your communication so hopefully the other party listens (or reads) and performs the action you wish they do? In this talk, I'd like to share with you what I learned from writing about code for four years – I'll share surprising things I discovered, and how you can improve your communication and get people to take action.
+
+  - title: Storytelling with Performance Observers
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 16:00:00
+    room:
+    authors:
+      - name: Irina Shestak
+        twitter: _lrlna
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/dpxq4QWVhc0
+    description: |-
+      Chances are that if you work in software, you spend time building applications. Between features, deadlines and bug fixes, it's easy to move performance to be ""nice to have"". But what do you do when user interactions drop off, and users start complaining? Instead of having a traditional, reactive approach to performance — what if we could be proactive instead? What if we could monitor performance continuously, and make informed decisions on which issues to tackle. In this talk, I would like to focus on continuous performance monitoring to tell a story of user interactions. We will look into working with Performance API in your environment, and give you simple methods to tell and read a story of your transactions. We will specifically take a look at creating timings, working with observers, and tracking transactions from frontend to backend.
+
+  - title: If you're going out of San Francisco, be sure to wear Web Standards in your hair
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-25 16:30:00
+    room:
+    authors:
+      - name: Bruce Lawson
+        twitter: brucel
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OZ7rc0_Ps68
+    description: |-
+      We do like our Holy Wars, don't we? — tables vs CSS? Responsive vs mdot? React vs Angular? CSS or CSS-in-JS? Let's look at the real issue: getting the free and open web to the other 4 billion people.

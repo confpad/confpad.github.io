@@ -1,219 +1,235 @@
-- title: Angular for the Visual Learner.
-  lang: en
-  type: regular
-  level:
-  time: 2018-12-07
-  room:
-  authors:
-    - name: Samantha Brennan
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ziK7UABQnKc
-  description: |-
-    Sam is the co-founder of Code Bridge Texas, a speaker, volunteer, teacher, developer, and high school student in Houston, Texas. She enjoys running, learning, driving, and playing with her cat.
+conference:
 
-- title: Bringing Lighthouse to Angular
-  lang: en
-  type: regular
-  level:
-  time: 2018-12-07
-  room:
-  authors:
-    - name: Ward Peeters
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/TBr1NGSu_p0
+  name: NG-BE 2018
+  url: https://ng-be.org/
+  status: complete
+  date:
+    from: 2018-12-06
+    to: 2018-12-07
+  location:
+    country: Belgium
+    city: Ghent
   description: |-
-    Frontend architect at Mediahuis by day and a Lighthouse core member by night. I love creating performant scalable applications on the web!
+    NG-BE 2018 is a 2-day event in Ghent, Belgium, that brings together Angular developers and experts from all over the world to share ideas, news and opinions about Angular.
 
-- title: What's coming next in Angular
-  lang: en
-  type: regular
-  level:
-  time: 2018-12-07
-  room:
-  authors:
-    - name: Wassim Chegham
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/GTXQdWyf84w
-  description: |-
-    Wassim works as the Head of Open Source Program Office at SFEIR, in Paris. He is a GDE and a contributor for the Angular team focusing on toolings and developer productivity. He is also a former member of the Angular Universal core team. He is the creator of many Angular apps and tools such as @itsjustangular, angular.run, letme.vision, ngx.tools, searchapp.store, xlayers.app and many more. In his free time, he likes learning music production, taking pictures and traveling the world. Wassim's mantra is to always think outside the box.
+talks:
 
-- title: Angular and the OWASP top 10
-  lang: en
-  type: regular
-  level:
-  time: 2018-12-07
-  room:
-  authors:
-    - name: Philippe De Ryck
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/m0PE82O1Vm4
-  description: |-
-    Philippe is a professional trainer and speaker on web security. He travels the world to teach developers the ins and outs of security engineering. He holds a Ph.D. in web security from KU Leuven.
+  - title: Angular for the Visual Learner.
+    lang: en
+    type: regular
+    level:
+    time: 2018-12-07
+    room:
+    authors:
+      - name: Samantha Brennan
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ziK7UABQnKc
+    description: |-
+      Sam is the co-founder of Code Bridge Texas, a speaker, volunteer, teacher, developer, and high school student in Houston, Texas. She enjoys running, learning, driving, and playing with her cat.
 
-- title: Form of Art.
-  lang: en
-  type: regular
-  level:
-  time: 2018-12-07
-  room:
-  authors:
-    - name: Shmuela Jacobs
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/R8GXbsoLnn4
-  description: |-
-    Shmuela Jacobs is a front-end instructor, consultant, developer, speaker, and community activist, focusing on Angular. She is the founder of ngGirls - an initiative aiming to increase diversity in the programming world. Shmuela received her M.Sc. in Information Management Engineering from the Technion, Israel Institute of Technology, where she had researched systems modeling languages in collaboration with IBM Research and Israel Aerospace Industries (IAI). This has been a career change for her, after receiving B.Sc. in Physics from the Hebrew University of Jerusalem, Israel. Shmuela has gained experience in several software development environments and languages (C++, JAVA, Python), as a researcher at the Technion and a software engineer at Intel’s Israel Development Center. She has been developing with AngularJS and Angular in the past few years.
+  - title: Bringing Lighthouse to Angular
+    lang: en
+    type: regular
+    level:
+    time: 2018-12-07
+    room:
+    authors:
+      - name: Ward Peeters
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/TBr1NGSu_p0
+    description: |-
+      Frontend architect at Mediahuis by day and a Lighthouse core member by night. I love creating performant scalable applications on the web!
 
-- title: Full stack development with Bazel, Angular and other friends.
-  lang: en
-  type: regular
-  level:
-  time: 2018-12-07
-  room:
-  authors:
-    - name: Torgeir Helgevold
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/yEO7SP2Wo3Q
-  description: |-
-    Tor has been working with Angular since the early alpha release days. He is also an active blogger on www.syntaxsuccess.com where he shares his many Angular adventures. In addition to Angular, Tor comes from a broad background in software engineering.
+  - title: What's coming next in Angular
+    lang: en
+    type: regular
+    level:
+    time: 2018-12-07
+    room:
+    authors:
+      - name: Wassim Chegham
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/GTXQdWyf84w
+    description: |-
+      Wassim works as the Head of Open Source Program Office at SFEIR, in Paris. He is a GDE and a contributor for the Angular team focusing on toolings and developer productivity. He is also a former member of the Angular Universal core team. He is the creator of many Angular apps and tools such as @itsjustangular, angular.run, letme.vision, ngx.tools, searchapp.store, xlayers.app and many more. In his free time, he likes learning music production, taking pictures and traveling the world. Wassim's mantra is to always think outside the box.
 
-- title: The Need for Speed (aka Angular Performance).
-  lang: en
-  type: regular
-  level:
-  time: 2018-12-07
-  room:
-  authors:
-    - name: Bonnie Brennan
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/rhk25PEgItA
-  description: |-
-    Bonnie is a Software Architect and Trainer currently focused on Angular. She is founder of ngHouston Meetup, a group of developers in the Houston Area who are passionate about Angular. She is also the co-founder of CodeBridge, a meetup focused on working with local universities to provide free coding workshops for women.
+  - title: Angular and the OWASP top 10
+    lang: en
+    type: regular
+    level:
+    time: 2018-12-07
+    room:
+    authors:
+      - name: Philippe De Ryck
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/m0PE82O1Vm4
+    description: |-
+      Philippe is a professional trainer and speaker on web security. He travels the world to teach developers the ins and outs of security engineering. He holds a Ph.D. in web security from KU Leuven.
 
-- title: Building Decentralized Apps with Angular and Embark
-  lang: en
-  type: regular
-  level:
-  time: 2018-12-07
-  room:
-  authors:
-    - name: Pascal Precht
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/QMJXNx9WfFw
-  description: |-
-    Pascal is a Founder of thoughtram and Software Engineer at MachineLabs. He's strongly involved with the community as a Google Developer Expert for the Angular team. Pascal likes to make electronic music and considers himself a bedroom producer.
+  - title: Form of Art.
+    lang: en
+    type: regular
+    level:
+    time: 2018-12-07
+    room:
+    authors:
+      - name: Shmuela Jacobs
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/R8GXbsoLnn4
+    description: |-
+      Shmuela Jacobs is a front-end instructor, consultant, developer, speaker, and community activist, focusing on Angular. She is the founder of ngGirls - an initiative aiming to increase diversity in the programming world. Shmuela received her M.Sc. in Information Management Engineering from the Technion, Israel Institute of Technology, where she had researched systems modeling languages in collaboration with IBM Research and Israel Aerospace Industries (IAI). This has been a career change for her, after receiving B.Sc. in Physics from the Hebrew University of Jerusalem, Israel. Shmuela has gained experience in several software development environments and languages (C++, JAVA, Python), as a researcher at the Technion and a software engineer at Intel’s Israel Development Center. She has been developing with AngularJS and Angular in the past few years.
 
-- title: 'Cypress: The future of E2E testing'
-  lang: en
-  type: regular
-  level:
-  time: 2018-12-07
-  room:
-  authors:
-    - name: Dominic Elm
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/pXyBligMMr0
-  description: |-
-    Dominic is a graduate in computer science and is passionate about many web technologies including Angular, Firebase, and ReactiveX. He has always been enthusiastic about teaching. In fact, Dominic devoted his thesis on the topic of enterprise gamification making the process of sharing and learning within companies fun and enjoyable for everyone. At the moment he's a Trainer at thoughtram providing Angular trainings worldwide.
+  - title: Full stack development with Bazel, Angular and other friends.
+    lang: en
+    type: regular
+    level:
+    time: 2018-12-07
+    room:
+    authors:
+      - name: Torgeir Helgevold
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/yEO7SP2Wo3Q
+    description: |-
+      Tor has been working with Angular since the early alpha release days. He is also an active blogger on www.syntaxsuccess.com where he shares his many Angular adventures. In addition to Angular, Tor comes from a broad background in software engineering.
 
-- title: Optimize and Debug Change Detection Like a Pro
-  lang: en
-  type: regular
-  level:
-  time: 2018-12-07
-  room:
-  authors:
-    - name: Max Koretskyi
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
-    Max is a Google Developer Expert in Web Technologies and a Growth Hacker\Developer Evangelist at ag-Grid. He is a self-taught software engineer that learnt programming from top to bottom, from JavaScript to Assembly. He believes in fundamental knowledge and hardcore learning, so he started “In-depth Education” program and one of the biggest Angular publications online Angular-In-Depth. The program focuses on self-education driven by curiosity and self-development guided by mentors. He’s one of the top Angular contributors on StackOverflow and writers on all things Angular. In his spare time he works on growing “In-depth Education” community and speaks at international conferences.
+  - title: The Need for Speed (aka Angular Performance).
+    lang: en
+    type: regular
+    level:
+    time: 2018-12-07
+    room:
+    authors:
+      - name: Bonnie Brennan
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/rhk25PEgItA
+    description: |-
+      Bonnie is a Software Architect and Trainer currently focused on Angular. She is founder of ngHouston Meetup, a group of developers in the Houston Area who are passionate about Angular. She is also the co-founder of CodeBridge, a meetup focused on working with local universities to provide free coding workshops for women.
 
-- title: Up-close with Structural Directives
-  lang: en
-  type: regular
-  level:
-  time: 2018-12-07
-  room:
-  authors:
-    - name: Ashnita Bali
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/02j6SobFhCo
-  description: |-
-    Ashnita is a web developer who loves Angular. She works for a startup company in UK.  She likes to take part in community activities to support people trying to build a career in IT, is a mentor for freeCodeCamp-Reading, co-organiser at GDG Reading and a new-bee speaker. She enjoys travelling, nature walks and meeting people.
+  - title: Building Decentralized Apps with Angular and Embark
+    lang: en
+    type: regular
+    level:
+    time: 2018-12-07
+    room:
+    authors:
+      - name: Pascal Precht
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/QMJXNx9WfFw
+    description: |-
+      Pascal is a Founder of thoughtram and Software Engineer at MachineLabs. He's strongly involved with the community as a Google Developer Expert for the Angular team. Pascal likes to make electronic music and considers himself a bedroom producer.
 
-- title: Angular in a Microservices World
-  lang: en
-  type: regular
-  level:
-  time: 2018-12-07
-  room:
-  authors:
-    - name: Kwinten Pisman
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/d04U7SjORTI
-  description: |-
-    Kwinten is a frontend architect focussed on Angular with a reactive passion. He shares this passion this through blogposts and training sessions with the company he co-founded called Strongbrew.
+  - title: 'Cypress: The future of E2E testing'
+    lang: en
+    type: regular
+    level:
+    time: 2018-12-07
+    room:
+    authors:
+      - name: Dominic Elm
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/pXyBligMMr0
+    description: |-
+      Dominic is a graduate in computer science and is passionate about many web technologies including Angular, Firebase, and ReactiveX. He has always been enthusiastic about teaching. In fact, Dominic devoted his thesis on the topic of enterprise gamification making the process of sharing and learning within companies fun and enjoyable for everyone. At the moment he's a Trainer at thoughtram providing Angular trainings worldwide.
 
-- title: Platinum Sponsor - Ordina
-  lang: en
-  type: regular
-  level:
-  time: 2018-12-07
-  room:
-  authors:
-    - name: Jan De Wilde
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/cPB-C66xldA
-  description: |-
-    Ordina believes in a digital world that helps people to move ahead. We are helping to create a better and more pleasant society by realizing sustainable innovations together with our clients.
+  - title: Optimize and Debug Change Detection Like a Pro
+    lang: en
+    type: regular
+    level:
+    time: 2018-12-07
+    room:
+    authors:
+      - name: Max Koretskyi
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Max is a Google Developer Expert in Web Technologies and a Growth Hacker\Developer Evangelist at ag-Grid. He is a self-taught software engineer that learnt programming from top to bottom, from JavaScript to Assembly. He believes in fundamental knowledge and hardcore learning, so he started “In-depth Education” program and one of the biggest Angular publications online Angular-In-Depth. The program focuses on self-education driven by curiosity and self-development guided by mentors. He’s one of the top Angular contributors on StackOverflow and writers on all things Angular. In his spare time he works on growing “In-depth Education” community and speaks at international conferences.
+
+  - title: Up-close with Structural Directives
+    lang: en
+    type: regular
+    level:
+    time: 2018-12-07
+    room:
+    authors:
+      - name: Ashnita Bali
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/02j6SobFhCo
+    description: |-
+      Ashnita is a web developer who loves Angular. She works for a startup company in UK.  She likes to take part in community activities to support people trying to build a career in IT, is a mentor for freeCodeCamp-Reading, co-organiser at GDG Reading and a new-bee speaker. She enjoys travelling, nature walks and meeting people.
+
+  - title: Angular in a Microservices World
+    lang: en
+    type: regular
+    level:
+    time: 2018-12-07
+    room:
+    authors:
+      - name: Kwinten Pisman
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/d04U7SjORTI
+    description: |-
+      Kwinten is a frontend architect focussed on Angular with a reactive passion. He shares this passion this through blogposts and training sessions with the company he co-founded called Strongbrew.
+
+  - title: Platinum Sponsor - Ordina
+    lang: en
+    type: regular
+    level:
+    time: 2018-12-07
+    room:
+    authors:
+      - name: Jan De Wilde
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cPB-C66xldA
+    description: |-
+      Ordina believes in a digital world that helps people to move ahead. We are helping to create a better and more pleasant society by realizing sustainable innovations together with our clients.

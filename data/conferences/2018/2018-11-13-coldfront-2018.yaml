@@ -1,389 +1,405 @@
-- title: The future of web animation
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Sarah Drasner
-      twitter: sarah_edo
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/qdlL9Z8PdIo
-  description: |-
-    We talk a lot about how to animate on the web, and what's possible in browsers today, but where is animation heading? In this talk, we'll start with some bleeing edge techniques such as native-like page transitions with client side rendering, but then we'll push it further. The intersection of health and animation with biofeedback sensors, the future of 3d in the browser complete with interviews with people who are writing these specs... this talk will show that in terms of animation on the web, we're just getting started.
+conference:
 
-- title: Designing for Augmented Reality
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Michael Flarup
-      twitter: flarup
-      github:
-      website:
-  slides:
-    - https://www.dropbox.com/sh/b8lxdl6ufzpvxmb/AADhdNmHCGpgCRaqfVm1PmUda?dl=0
-  videos:
-    - https://youtu.be/QqZcvG44C0U
+  name: Cold Front 2018
+  url: https://2018.coldfront.co/
+  status: complete
+  date:
+    from: 2018-11-13
+    to: 2018-11-15
+  location:
+    country:  Denmark
+    city: Copenhagen
   description: |-
-    Michael Flarup - on designing for Augmented Reality We thought we could port our existing game to an AR experience. We couldn't. Here's what happened and everything we learned.In this talk I'll take the audience through the journey we went on creating our first AR-only experience. Our game Conduct AR! I'll talk about how many of the assumptions we had going in turned out to be wrong and how we worked to change them in a race to launch alongside iOS 11.It'll be an explosive, entertaining and visual journey into one of the most exciting frontiers in technology today.
+    The front-end role has evolved, and yet our conferences are still focused around a religious set of technologies. With ColdFront we are changing that by focusing on the challenges of building a modern interface and a front-end that runs everywhere.
 
-- title: What's next for React Native and Expo
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Brent Vatne
-      twitter: notbrent
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/LMSrRSYDWmg
-  description: |-
-    Brent Vatne - on future of Expo and React Native Fabric is a re-implementation of much of the internals of React Native that draws inspiration from the experiences of over three years of production use and turns initial design decisions upside down. In particular, it moves away from a mainly asynchronous bridge between the JavaScript and native runtimes by leveraging the React Fiber architecture. We’ll look at Fabric with a focus on what problems it aims to solve and which will problems will remain.We’ll also discuss the company that I work on, Expo. Expo is an important part of the React Native ecosystem because it builds tools, services, and libraries around React Native core that are increasingly depended on by the community. It removes the native build step required to get started and provides a “Create React App”-style experience. Expo also provides a CodeSandbox style web playground called Snack. A key piece of Expo is the extensive native API wrapper modules that are available out of the box. Up until recently, this package has been monolithic and developers have had to buy into the entire Expo toolchain in order to take advantage of the native modules. We recently re-architected them so React Native users can use as few or as many as they like, and Flutter, Cordova, or even normal native apps can take advantage of them to have a cleaner cross-platform interface for interacting with native APIs.
+talks:
 
-- title: A fresh perspective on multi-platform UI
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Michael Thomsen
-      twitter: MiSvTh
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/sl5TaN7EwjQ
-  description: |-
-    Michael Thomsen - on future of cross-platform native apps Flutter is a Google-sponsored open-source SDK for creating multi-platform user interfaces. We will talk about how Flutter is very different from similar frameworks, any why we have made the technical choices we have.
+  - title: The future of web animation
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Sarah Drasner
+        twitter: sarah_edo
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qdlL9Z8PdIo
+    description: |-
+      We talk a lot about how to animate on the web, and what's possible in browsers today, but where is animation heading? In this talk, we'll start with some bleeing edge techniques such as native-like page transitions with client side rendering, but then we'll push it further. The intersection of health and animation with biofeedback sensors, the future of 3d in the browser complete with interviews with people who are writing these specs... this talk will show that in terms of animation on the web, we're just getting started.
 
-- title: Will the future of front-end be AI-assisted? (Ideal Bar)
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Tony Beltramelli
-      twitter: Tbeltramelli
-      github:
-      website:
-    - name: Henrik Haugbølle
-      twitter: haugboelle
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
-    Artificial Intelligence, Machine Learning, Deep Learning: three buzzwords that made headlines in the tech press all year long. What does it mean for the future of front-end development and UI/UX design?In this session, we will share our vision of the future and why we believe that AI has the potential to turn all of us into super-developers. We will also do a live demo of the latest technology we are developing at Uizard.
+  - title: Designing for Augmented Reality
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Michael Flarup
+        twitter: flarup
+        github:
+        website:
+    slides:
+      - https://www.dropbox.com/sh/b8lxdl6ufzpvxmb/AADhdNmHCGpgCRaqfVm1PmUda?dl=0
+    videos:
+      - https://youtu.be/QqZcvG44C0U
+    description: |-
+      Michael Flarup - on designing for Augmented Reality We thought we could port our existing game to an AR experience. We couldn't. Here's what happened and everything we learned.In this talk I'll take the audience through the journey we went on creating our first AR-only experience. Our game Conduct AR! I'll talk about how many of the assumptions we had going in turned out to be wrong and how we worked to change them in a race to launch alongside iOS 11.It'll be an explosive, entertaining and visual journey into one of the most exciting frontiers in technology today.
 
-- title: Debate What will AI and ML mean for software developers? (Ideal Bar)
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Hans Ravnkjær Larsen
-      twitter: hrlarsen_dk
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
-    Our interactive session host Hans will host a debate the role of ML and AI for software engineering as a field.
+  - title: What's next for React Native and Expo
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Brent Vatne
+        twitter: notbrent
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LMSrRSYDWmg
+    description: |-
+      Brent Vatne - on future of Expo and React Native Fabric is a re-implementation of much of the internals of React Native that draws inspiration from the experiences of over three years of production use and turns initial design decisions upside down. In particular, it moves away from a mainly asynchronous bridge between the JavaScript and native runtimes by leveraging the React Fiber architecture. We’ll look at Fabric with a focus on what problems it aims to solve and which will problems will remain.We’ll also discuss the company that I work on, Expo. Expo is an important part of the React Native ecosystem because it builds tools, services, and libraries around React Native core that are increasingly depended on by the community. It removes the native build step required to get started and provides a “Create React App”-style experience. Expo also provides a CodeSandbox style web playground called Snack. A key piece of Expo is the extensive native API wrapper modules that are available out of the box. Up until recently, this package has been monolithic and developers have had to buy into the entire Expo toolchain in order to take advantage of the native modules. We recently re-architected them so React Native users can use as few or as many as they like, and Flutter, Cordova, or even normal native apps can take advantage of them to have a cleaner cross-platform interface for interacting with native APIs.
 
-- title: Working with AR by Jayway (Main Stage)
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Lars Cimber
-      twitter:
-      github:
-      website:
-    - name: Mina Ashena
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/BiUzKOVKFyo
-  description: |-
-    Lars Cimber + Mina Ashena - on working with VR With AR capabilities on millions of phones, the users can experience a whole new level of interaction with physical objects. During this presentation we will delve into the key cases Jayway believes will propel AR, i.e. where we see most interest from our customers. We will announce a new AR application, and show in a live coding session how this app takes advantage of image and object recognition of ARKit.
+  - title: A fresh perspective on multi-platform UI
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Michael Thomsen
+        twitter: MiSvTh
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/sl5TaN7EwjQ
+    description: |-
+      Michael Thomsen - on future of cross-platform native apps Flutter is a Google-sponsored open-source SDK for creating multi-platform user interfaces. We will talk about how Flutter is very different from similar frameworks, any why we have made the technical choices we have.
 
-- title: Building AR apps with ARKit on iOS by Shape (Main Stage)
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: srdanrasic
-      twitter: Srđan Rašić
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Cb32EaFHz74
-  description: |-
-    It was not until recently that the term AR has been reserved for a small group of developers, researchers and tech enthusiasts. All that changed with a game catching the interest of the general public and the subsequent introduction of Apple's own technology that promises to deliver augmented reality experiences to the masses - ARKit.In this interactive session, we will learn what ARKit is, get a glimpse of what it can do and show you how easy it is to get started with it.
+  - title: Will the future of front-end be AI-assisted? (Ideal Bar)
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Tony Beltramelli
+        twitter: Tbeltramelli
+        github:
+        website:
+      - name: Henrik Haugbølle
+        twitter: haugboelle
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Artificial Intelligence, Machine Learning, Deep Learning: three buzzwords that made headlines in the tech press all year long. What does it mean for the future of front-end development and UI/UX design?In this session, we will share our vision of the future and why we believe that AI has the potential to turn all of us into super-developers. We will also do a live demo of the latest technology we are developing at Uizard.
 
-- title: It’s My (Third) Party, and I’ll Cry if I Want To
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Harry Roberts
-      twitter: csswizardry
-      github:
-      website:
-  slides:
-    - https://speakerdeck.com/csswizardry/its-my-third-party-and-ill-cry-if-i-want-to
-  videos:
-    - https://youtu.be/1Kd-ZHmMzD4
-  description: |-
-    Like it or not, a huge part of modern web development involves the use of third-party providers: fonts, analytics, ads, tracking, and more all have an impact of performance, and can leave us (or, more worryingly, our visitors) susceptible to performance degradation.In this talk, we’ll take a look at unruly or uninvited (third-)party guests: how to detect them, how to audit them, and how to manage them. We’ll also look at the different tools available to help us stress-test and quantify the overhead these third parties bring, and what that means for users and businesses alike.
+  - title: Debate What will AI and ML mean for software developers? (Ideal Bar)
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Hans Ravnkjær Larsen
+        twitter: hrlarsen_dk
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Our interactive session host Hans will host a debate the role of ML and AI for software engineering as a field.
 
-- title: Data visualizations on the web
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Shirley Wu
-      twitter: sxywu
-      github:
-      website:
-  slides:
-    - https://twitter.com/sxywu/status/1063037082057261057
-  videos:
-    - https://youtu.be/Y1Wb4a1M-Xc
-  description: |-
-    Data visualizations are becoming more common on the web, from visual essays to internal business analytics to features within products. But visualizations and D3.js - the library most commonly used for developing these visualizations - are still considered niche in the front-end ecosystem. The lack of adoption may come from the initial friction developers face when learning D3.js, but with frameworks like React and Vue, that friction can be greatly reduced.In this talk, I'll speak about how React and Vue can make working with D3.js easier, and how to use D3.js with either of the frameworks. Then, I'll show how we can write more complex interactions with less code using D3.js and React.js. I hope this talk will show how fun it is to create data visualizations for the web, and I hope it'll lead to more visualizations on the web
+  - title: Working with AR by Jayway (Main Stage)
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Lars Cimber
+        twitter:
+        github:
+        website:
+      - name: Mina Ashena
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/BiUzKOVKFyo
+    description: |-
+      Lars Cimber + Mina Ashena - on working with VR With AR capabilities on millions of phones, the users can experience a whole new level of interaction with physical objects. During this presentation we will delve into the key cases Jayway believes will propel AR, i.e. where we see most interest from our customers. We will announce a new AR application, and show in a live coding session how this app takes advantage of image and object recognition of ARKit.
 
-- title: New Adventures In Responsive Web Design
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Vitaly Friedman
-      twitter: smashingmag
-      github:
-      website:
-  slides:
-    - https://www.dropbox.com/s/zxgkbfflz3a8ys0/coldfront-design-patterns.pdf?dl=0
-  videos:
-    - https://youtu.be/FjkYhz-2YeE
-  description: |-
-    Vitaly Friedman - on future adventures in front-end You’re a smart cookie. If someone asks you to build a responsive accordion, you’ll figure it out. The same goes for a table. Or a calendar. Or, God forbid, a multi-level-mega-drop-down. But how would you go around slightly more complicated components?What if you had to build a sophisticated car configurator with a real-time updated 3D view? What about an advanced feature comparison table, a music festival schedule, an election map, an airfare booking and check-in, a live world football championship leaderboard and a theatre map seat selection? In this session, we’ll take a microscopic examination of common interface components and problems appearing in responsive user interfaces — and we’ll look into simple art-direction techniques to create unique and memorable experiences.Tighten up your seatbelt! Beware: you will not be able to unlearn what you’ll learn in the session! Ah, one more thing, take the techniques with a grain of salt — we do not take responsibility for sleepless nights and nightmares caused by the content of this session.
+  - title: Building AR apps with ARKit on iOS by Shape (Main Stage)
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: srdanrasic
+        twitter: Srđan Rašić
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Cb32EaFHz74
+    description: |-
+      It was not until recently that the term AR has been reserved for a small group of developers, researchers and tech enthusiasts. All that changed with a game catching the interest of the general public and the subsequent introduction of Apple's own technology that promises to deliver augmented reality experiences to the masses - ARKit.In this interactive session, we will learn what ARKit is, get a glimpse of what it can do and show you how easy it is to get started with it.
 
-- title: Inclusively Responsive UIs with CSS and SVG
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-14
-  room:
-  authors:
-    - name: Sara Soueidan
-      twitter: SaraSoueidan
-      github:
-      website:
-  slides:
-    - https://www.sarasoueidan.com/slides/css-for-ux-v2.pdf
-  videos:
-    - https://youtu.be/TbOxPhcVzCc
-  description: |-
-    Sara Soueidan - on future of real-world CSS CSS has advanced so much in the last few years and new features were added to it that make our lives as developers easier. But on the other hand some features have been added that are there to provide a better experience for our users as well, as long as we utilize them to do so.In this talk, Sara is going to cover some of the most useful CSS and SVG features, and how they can be used to make more usable products that respond to user's needs and preferences, to create overall more inclusive interfaces.
+  - title: It’s My (Third) Party, and I’ll Cry if I Want To
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Harry Roberts
+        twitter: csswizardry
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/csswizardry/its-my-third-party-and-ill-cry-if-i-want-to
+    videos:
+      - https://youtu.be/1Kd-ZHmMzD4
+    description: |-
+      Like it or not, a huge part of modern web development involves the use of third-party providers: fonts, analytics, ads, tracking, and more all have an impact of performance, and can leave us (or, more worryingly, our visitors) susceptible to performance degradation.In this talk, we’ll take a look at unruly or uninvited (third-)party guests: how to detect them, how to audit them, and how to manage them. We’ll also look at the different tools available to help us stress-test and quantify the overhead these third parties bring, and what that means for users and businesses alike.
 
-- title: How a design tool changes relationships
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-14
-  room:
-  authors:
-    - name: Jessica Liu
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
-    Designers and developers can often butt heads. We hail from different backgrounds; we bring different perspectives; we speak different lingo. The level of trust and understanding between designers and developers can make or break a frontend team. And the tools we use can have a remarkable impact on the strength of this relationship.This talk will explore how advancements in design tools have brought designers and developers closer together. We’ll take a look at how specific features in a tool can actually influence design methodologies and practices. We’ll also explore the ramifications of letting developers loose in a design tool. For one team in particular, this has had a profound impact on the team’s culture.Finally, we’ll extrapolate these current trends into the future. Could a mere design tool change our concept of what it means to be a designer or a developer?
+  - title: Data visualizations on the web
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Shirley Wu
+        twitter: sxywu
+        github:
+        website:
+    slides:
+      - https://twitter.com/sxywu/status/1063037082057261057
+    videos:
+      - https://youtu.be/Y1Wb4a1M-Xc
+    description: |-
+      Data visualizations are becoming more common on the web, from visual essays to internal business analytics to features within products. But visualizations and D3.js - the library most commonly used for developing these visualizations - are still considered niche in the front-end ecosystem. The lack of adoption may come from the initial friction developers face when learning D3.js, but with frameworks like React and Vue, that friction can be greatly reduced.In this talk, I'll speak about how React and Vue can make working with D3.js easier, and how to use D3.js with either of the frameworks. Then, I'll show how we can write more complex interactions with less code using D3.js and React.js. I hope this talk will show how fun it is to create data visualizations for the web, and I hope it'll lead to more visualizations on the web
 
-- title: Top-Level Awaiting for Godot
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-14
-  room:
-  authors:
-    - name: Myles Borins
-      twitter: Myles Borins
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/L87aCMJuWNM
-  description: |-
-    It goes without saying that one of the largest challenges in JavaScipt is handling asynchronicity. Along come Async / Await, a language feature made popular by C#. Developers can now use the keyword await to write code in a synchronous fashion without blocking the main thread. The only catch is that the await keyword needs to be used in an asyncfunction.What if that were not the case? What if await could be used anywhere inside a JavaScript module? This talk follows the adventure of implementing the Top-Level await feature in the JavaScript language. From deep dives into module loading to a high level overview of socializing standards changes, this talk covers the process of what it takes to change the JavaScript language.
+  - title: New Adventures In Responsive Web Design
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Vitaly Friedman
+        twitter: smashingmag
+        github:
+        website:
+    slides:
+      - https://www.dropbox.com/s/zxgkbfflz3a8ys0/coldfront-design-patterns.pdf?dl=0
+    videos:
+      - https://youtu.be/FjkYhz-2YeE
+    description: |-
+      Vitaly Friedman - on future adventures in front-end You’re a smart cookie. If someone asks you to build a responsive accordion, you’ll figure it out. The same goes for a table. Or a calendar. Or, God forbid, a multi-level-mega-drop-down. But how would you go around slightly more complicated components?What if you had to build a sophisticated car configurator with a real-time updated 3D view? What about an advanced feature comparison table, a music festival schedule, an election map, an airfare booking and check-in, a live world football championship leaderboard and a theatre map seat selection? In this session, we’ll take a microscopic examination of common interface components and problems appearing in responsive user interfaces — and we’ll look into simple art-direction techniques to create unique and memorable experiences.Tighten up your seatbelt! Beware: you will not be able to unlearn what you’ll learn in the session! Ah, one more thing, take the techniques with a grain of salt — we do not take responsibility for sleepless nights and nightmares caused by the content of this session.
 
-- title: Mind control in JavaScript - Experimenting with alternative interactions
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-14
-  room:
-  authors:
-    - name: Charlie Gerard
-      twitter: devdevcharlie
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/-PbpWYBRBgM
-  description: |-
-    A typical interaction with a device or interface involves touching it. Either you're pressing buttons on a controller, swiping on a touchscreen or clicking on your laptop's trackpad. But what if you could control things without the use of your hands? What if you could use... your thoughts?For the past couple of years, I have been tinkering with a brain sensor and developed an open-source JavaScript framework to allow me (or anyone else) to control interfaces or robots using facial expressions and mental commands. In this talk, I will be sharing what I learnt, showing how it works and talking about the future possibilities of alternative interactions.
+  - title: Inclusively Responsive UIs with CSS and SVG
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-14
+    room:
+    authors:
+      - name: Sara Soueidan
+        twitter: SaraSoueidan
+        github:
+        website:
+    slides:
+      - https://www.sarasoueidan.com/slides/css-for-ux-v2.pdf
+    videos:
+      - https://youtu.be/TbOxPhcVzCc
+    description: |-
+      Sara Soueidan - on future of real-world CSS CSS has advanced so much in the last few years and new features were added to it that make our lives as developers easier. But on the other hand some features have been added that are there to provide a better experience for our users as well, as long as we utilize them to do so.In this talk, Sara is going to cover some of the most useful CSS and SVG features, and how they can be used to make more usable products that respond to user's needs and preferences, to create overall more inclusive interfaces.
 
-- title: WebRTC streaming to large audiences using mobile devices by TwentyThree (Ideal Bar)
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-14
-  room:
-  authors:
-    - name: Daniel Pouzemski
-      twitter:
-      github:
-      website:
-    - name: Vasil Dimitrov
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
-    WebRTC has been around for several years allowing native audio and video streaming from a browser without using external plugins. P2P streaming has natural limits on the number of participants and broadcasting to large audiences presents an architectural challenge.In this session we will give a brief introduction to how WebRTC works and what it takes to scale it. Furthermore we will give a demo on how mobile devices can be used as additional audio and video sources.
+  - title: How a design tool changes relationships
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-14
+    room:
+    authors:
+      - name: Jessica Liu
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Designers and developers can often butt heads. We hail from different backgrounds; we bring different perspectives; we speak different lingo. The level of trust and understanding between designers and developers can make or break a frontend team. And the tools we use can have a remarkable impact on the strength of this relationship.This talk will explore how advancements in design tools have brought designers and developers closer together. We’ll take a look at how specific features in a tool can actually influence design methodologies and practices. We’ll also explore the ramifications of letting developers loose in a design tool. For one team in particular, this has had a profound impact on the team’s culture.Finally, we’ll extrapolate these current trends into the future. Could a mere design tool change our concept of what it means to be a designer or a developer?
 
-- title: Debate How to foster collaboration between Designers and Engineering?
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-14
-  room:
-  authors:
-    - name: Hans Ravnkjær Larsen
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
-    Inspired by Jeff Gothelf and Josh Seiden's book `Sense and Respond`, our interactive session host Hans will host a debate on collaboration between Design and Engineering
+  - title: Top-Level Awaiting for Godot
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-14
+    room:
+    authors:
+      - name: Myles Borins
+        twitter: Myles Borins
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/L87aCMJuWNM
+    description: |-
+      It goes without saying that one of the largest challenges in JavaScipt is handling asynchronicity. Along come Async / Await, a language feature made popular by C#. Developers can now use the keyword await to write code in a synchronous fashion without blocking the main thread. The only catch is that the await keyword needs to be used in an asyncfunction.What if that were not the case? What if await could be used anywhere inside a JavaScript module? This talk follows the adventure of implementing the Top-Level await feature in the JavaScript language. From deep dives into module loading to a high level overview of socializing standards changes, this talk covers the process of what it takes to change the JavaScript language.
 
-- title: Architecture for an ever changing environment” by Zendesk (Main Stage)
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-14
-  room:
-  authors:
-    - name: Sune Simonsen
-      twitter: Sune Simonsen
-      github:
-      website:
-  slides:
-    - https://www.dropbox.com/s/lqd4nfa8w7c5zez/ColdFront2018.pdf?dl=0
-  videos:
-    - https://youtu.be/HYTUkLhb0UY
-  description: |-
-    In a industry where the only constant is change and speed to delivery is essential, we can't just stop the process and rebuild everything. But we still need to stay current with technology and changing product demands. To deal with this problem Zendesk Copenhagen have introduced a micro-frontend architecture shared by multiple teams spanning many different areas of the our product.
+  - title: Mind control in JavaScript - Experimenting with alternative interactions
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-14
+    room:
+    authors:
+      - name: Charlie Gerard
+        twitter: devdevcharlie
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-PbpWYBRBgM
+    description: |-
+      A typical interaction with a device or interface involves touching it. Either you're pressing buttons on a controller, swiping on a touchscreen or clicking on your laptop's trackpad. But what if you could control things without the use of your hands? What if you could use... your thoughts?For the past couple of years, I have been tinkering with a brain sensor and developed an open-source JavaScript framework to allow me (or anyone else) to control interfaces or robots using facial expressions and mental commands. In this talk, I will be sharing what I learnt, showing how it works and talking about the future possibilities of alternative interactions.
 
-- title: On the fly WebP decoding with Web Assembly and Service Workers (Main Stage)
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-14
-  room:
-  authors:
-    - name: Kenneth Christiansen
-      twitter: kennethrohde
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/gI-P9HB2lf8
-  description: |-
-    Showcase of what's possible with Web Assembly and Service Workers today.
+  - title: WebRTC streaming to large audiences using mobile devices by TwentyThree (Ideal Bar)
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-14
+    room:
+    authors:
+      - name: Daniel Pouzemski
+        twitter:
+        github:
+        website:
+      - name: Vasil Dimitrov
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      WebRTC has been around for several years allowing native audio and video streaming from a browser without using external plugins. P2P streaming has natural limits on the number of participants and broadcasting to large audiences presents an architectural challenge.In this session we will give a brief introduction to how WebRTC works and what it takes to scale it. Furthermore we will give a demo on how mobile devices can be used as additional audio and video sources.
 
-- title: The Untold Benefits of Ethical Design
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-14
-  room:
-  authors:
-    - name: Holger Bartel
-      twitter: foobartel
-      github:
-      website:
-  slides:
-    - https://noti.st/foobartel/iNBMSA/the-untold-benefits-of-ethical-design
-  videos:
-    - https://youtu.be/bGy9-zp5amU
-  description: |-
-    Ethics need to be at the core of everything we build. We have to consider our impact and rethink how to build digital products. This way we will not only create more responsible products, but gain additional benefits in the areas of performance, security, privacy and user happiness. This talk will show how to truly care about our users and improve the user experience at the same time. Most importantly, this talk is a guide, a technical inspiration, will question the status quo and help us build for a better web.
+  - title: Debate How to foster collaboration between Designers and Engineering?
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-14
+    room:
+    authors:
+      - name: Hans Ravnkjær Larsen
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Inspired by Jeff Gothelf and Josh Seiden's book `Sense and Respond`, our interactive session host Hans will host a debate on collaboration between Design and Engineering
 
-- title: Uniting the real world with the virtual
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-14
-  room:
-  authors:
-    - name: Jacob Rossi
-      twitter: jacobrossi
-      github:
-      website:
-  slides:
-    - https://speakerdeck.com/jacobrossi/uniting-the-real-world-with-the-virtual
-  videos:
-    - https://youtu.be/NfLzmPO_gUE
-  description: |-
-    Today’s VR headsets are powerful, untethered, lighter, and more immersive, and yet it’s still early days for the technology. Choosing to target VR users can be a big bet, but what if the same immersive content could run on your phone that does in VR? In this talk, Jacob will explore what we’re learning about the web in VR, how to reach more users by uniting 2D and VR, and advances coming down the pipe to WebXR that will take those experiences to the next level.
+  - title: Architecture for an ever changing environment” by Zendesk (Main Stage)
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-14
+    room:
+    authors:
+      - name: Sune Simonsen
+        twitter: Sune Simonsen
+        github:
+        website:
+    slides:
+      - https://www.dropbox.com/s/lqd4nfa8w7c5zez/ColdFront2018.pdf?dl=0
+    videos:
+      - https://youtu.be/HYTUkLhb0UY
+    description: |-
+      In a industry where the only constant is change and speed to delivery is essential, we can't just stop the process and rebuild everything. But we still need to stay current with technology and changing product demands. To deal with this problem Zendesk Copenhagen have introduced a micro-frontend architecture shared by multiple teams spanning many different areas of the our product.
 
-- title: Do the Most Good
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-14
-  room:
-  authors:
-    - name: Mina Markham
-      twitter: Mina Markham
-      github:
-      website:
-  slides:
-    - https://speakerdeck.com/jacobrossi/uniting-the-real-world-with-the-virtual
-  videos:
-    - https://youtu.be/WGa7U0E9sbU
-  description: |-
-    Technology can be a huge driving force for good, but unfortunately, sometimes it misses the mark. What do we do when our work causes harm? And what do can we do when technology is not the solution? In this talk, Mina shares reflections from her work in social good space, and explores strategies to take your activism from behind the keyboard and echo chambers out into the real world.
+  - title: On the fly WebP decoding with Web Assembly and Service Workers (Main Stage)
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-14
+    room:
+    authors:
+      - name: Kenneth Christiansen
+        twitter: kennethrohde
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/gI-P9HB2lf8
+    description: |-
+      Showcase of what's possible with Web Assembly and Service Workers today.
+
+  - title: The Untold Benefits of Ethical Design
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-14
+    room:
+    authors:
+      - name: Holger Bartel
+        twitter: foobartel
+        github:
+        website:
+    slides:
+      - https://noti.st/foobartel/iNBMSA/the-untold-benefits-of-ethical-design
+    videos:
+      - https://youtu.be/bGy9-zp5amU
+    description: |-
+      Ethics need to be at the core of everything we build. We have to consider our impact and rethink how to build digital products. This way we will not only create more responsible products, but gain additional benefits in the areas of performance, security, privacy and user happiness. This talk will show how to truly care about our users and improve the user experience at the same time. Most importantly, this talk is a guide, a technical inspiration, will question the status quo and help us build for a better web.
+
+  - title: Uniting the real world with the virtual
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-14
+    room:
+    authors:
+      - name: Jacob Rossi
+        twitter: jacobrossi
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/jacobrossi/uniting-the-real-world-with-the-virtual
+    videos:
+      - https://youtu.be/NfLzmPO_gUE
+    description: |-
+      Today’s VR headsets are powerful, untethered, lighter, and more immersive, and yet it’s still early days for the technology. Choosing to target VR users can be a big bet, but what if the same immersive content could run on your phone that does in VR? In this talk, Jacob will explore what we’re learning about the web in VR, how to reach more users by uniting 2D and VR, and advances coming down the pipe to WebXR that will take those experiences to the next level.
+
+  - title: Do the Most Good
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-14
+    room:
+    authors:
+      - name: Mina Markham
+        twitter: Mina Markham
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/jacobrossi/uniting-the-real-world-with-the-virtual
+    videos:
+      - https://youtu.be/WGa7U0E9sbU
+    description: |-
+      Technology can be a huge driving force for good, but unfortunately, sometimes it misses the mark. What do we do when our work causes harm? And what do can we do when technology is not the solution? In this talk, Mina shares reflections from her work in social good space, and explores strategies to take your activism from behind the keyboard and echo chambers out into the real world.

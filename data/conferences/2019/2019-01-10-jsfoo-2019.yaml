@@ -1,398 +1,414 @@
-- title: Everything you need to know about client-side malicious code execution.
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Lavakumar Kuppan
-      twitter: lavakumark
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+conference:
 
-- title: Array.map is more interesting than you probably think!
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Rakesh Pai
-      twitter: rakeshpai
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/r1oz73I17tE
+  name: JSFoo 2019
+  url: https://jsfoo.in/2019-pune/
+  status: complete
+  date:
+    from: 2019-01-10
+    to: 2019-01-10
+  location:
+    country: India
+    city: Pune
   description: |-
-    You probably already know about JS’s Array.map, and you probably use it everyday. However, there’s a more fundamental, more beautiful thing happening with Array.map that you’ve surely noticed, but might not have thought deeply about. This live-coding talk will explore what we can learn from Array.map, to help us build better, more reliable, bug-free programs.You’ll leave this talk understanding what all the fuss about ‘functors’ and ‘monads’ is about, why they’re awesome, and how it’ll help you write more reliable apps. Don’t be scared of words like ‘functors’ and ‘monads’ - I’ll show you how you’ve already been using them for a long time without even realising it.We’ll be getting pretty deep into the weeds of Functional Programming, so it’ll help to be comfortable with JS. No library or framework knowledge needed.The talk will explore Array.map’s behaviour. I’ll try to get at the essence of what it means to map over something, and arrive at a definition of what mappable objects are.I’ll then deep-dive into what it means to map over empty arrays (!!!), and how that has very interesting and useful behaviour. I’ll expand on this behaviour at length, showing a way to write reliable error-free programs. Along the way, we’ll discover monads and functors, and why they’re so interesting and fun to work with.
+    HasGeek is a technology company in the media business, bringing software automation to a traditionally people-intensive operation. HasGeek has organized over two dozen conferences attended by thousands of technology professionals, made several thousand connections, and built open source tools that are now used by many communities.
 
-- title: Building secure applications with keycloak (OIDC/JWT)
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Abhishek Koserwal
-      twitter: koserwal
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+talks:
 
-- title: Fullstack JavaScript-based micro services for complete automation of higher education institutions
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Arunkumar Krishnamoorthy
-      twitter: arunatpsg
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/5vO5QyUfMvQ
-  description: |-
-    A diverse portfolio of use cases catering different set of stakeholders with varied interests and goals combined with a spread in different categories of Higher Education Institutions - Engineering / Technical Institution, Arts and Science College, Institute of Management, Institute of Medical Science & Research. The talk is focused on how we realised this diverse need with the help of MicroServices based architecture on complete JavaScript stack (MEAN stack along with RabbitMQ as Event Bus, KeyCloak as OAuth) as well as NativeScript for the mobile Apps. If time permits, we can delve deep on Continuous Delivery with Jenkins and Docker. This whole foundation also enables students to build Apps or extensions on top of this platform.After getting polished in the field of Software Engineering and Development for last 18 years, conceptualized and hand-crafted this solution from scratch with a very young and fresh dev team along with the inputs and guidance from well-matured veterans and scholars in this Education domain . With diverse interests and hands-on experience in polyglot technologies across multiple domains, Arun feel fortunate enough to be in this “abstract” field where every damn thing in the world can be simplified and abstracted to a very “dumb” software model.
+  - title: Everything you need to know about client-side malicious code execution.
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Lavakumar Kuppan
+        twitter: lavakumark
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Joint Q&A" On DevSecOps"
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Lavakumar Kuppan,Abhishek Koserwal
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Array.map is more interesting than you probably think!
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Rakesh Pai
+        twitter: rakeshpai
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/r1oz73I17tE
+    description: |-
+      You probably already know about JS’s Array.map, and you probably use it everyday. However, there’s a more fundamental, more beautiful thing happening with Array.map that you’ve surely noticed, but might not have thought deeply about. This live-coding talk will explore what we can learn from Array.map, to help us build better, more reliable, bug-free programs.You’ll leave this talk understanding what all the fuss about ‘functors’ and ‘monads’ is about, why they’re awesome, and how it’ll help you write more reliable apps. Don’t be scared of words like ‘functors’ and ‘monads’ - I’ll show you how you’ve already been using them for a long time without even realising it.We’ll be getting pretty deep into the weeds of Functional Programming, so it’ll help to be comfortable with JS. No library or framework knowledge needed.The talk will explore Array.map’s behaviour. I’ll try to get at the essence of what it means to map over something, and arrive at a definition of what mappable objects are.I’ll then deep-dive into what it means to map over empty arrays (!!!), and how that has very interesting and useful behaviour. I’ll expand on this behaviour at length, showing a way to write reliable error-free programs. Along the way, we’ll discover monads and functors, and why they’re so interesting and fun to work with.
 
-- title: SPAs are dead. Long live Microfrontends.
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Vinci Rufus
-      twitter: vinci
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/4c9XFMJ2FQ4
-  description: |-
-    The frontend world is obsessed with building Single Page Apps (SPAs). However SPAs are the monoliths of the frontend world and carry the same challenges and drawbacks backend teams faced with their monolithic applications. Microfrontends is an alternative approach to building apps using JS frameworks that are scalable, performant and easy to maintain.Vinci is a Sr. Director of Technology with publicis.sapient. He spends most of his time helping teams build scalable frontend apps on React and Angular.
+  - title: Building secure applications with keycloak (OIDC/JWT)
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Abhishek Koserwal
+        twitter: koserwal
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Moving a huge AngularJS App to React, progressively at Microsoft Scale
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Abhik Mitra
-      twitter: abhikmitra89
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Fullstack JavaScript-based micro services for complete automation of higher education institutions
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Arunkumar Krishnamoorthy
+        twitter: arunatpsg
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/5vO5QyUfMvQ
+    description: |-
+      A diverse portfolio of use cases catering different set of stakeholders with varied interests and goals combined with a spread in different categories of Higher Education Institutions - Engineering / Technical Institution, Arts and Science College, Institute of Management, Institute of Medical Science & Research. The talk is focused on how we realised this diverse need with the help of MicroServices based architecture on complete JavaScript stack (MEAN stack along with RabbitMQ as Event Bus, KeyCloak as OAuth) as well as NativeScript for the mobile Apps. If time permits, we can delve deep on Continuous Delivery with Jenkins and Docker. This whole foundation also enables students to build Apps or extensions on top of this platform.After getting polished in the field of Software Engineering and Development for last 18 years, conceptualized and hand-crafted this solution from scratch with a very young and fresh dev team along with the inputs and guidance from well-matured veterans and scholars in this Education domain . With diverse interests and hands-on experience in polyglot technologies across multiple domains, Arun feel fortunate enough to be in this “abstract” field where every damn thing in the world can be simplified and abstracted to a very “dumb” software model.
 
-- title: Joint Q&A" The pros and cons of micro-frontends paradigm for building web applications"
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Rakesh Pai,Vinci Rufus,Arun Kumar,Krishnamoorthy
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Joint Q&A" On DevSecOps"
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Lavakumar Kuppan,Abhishek Koserwal
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Cross Browser Add-ons and How to build one
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Jyotsna Gupta
-      twitter: jyotsna17gupta
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/_ioZ8oHGNA0
-  description: |-
-    Extensions (or Add-ons) can extend and modify the capability of a browser. Browser extensions help us to personalize the browser as per our requirement.We’ll be walking through some of the existing extensions in specific categories to outline the potential of extensions. Participants will be focused on building their own extension easily by having basic knowledge of JavaScript, which is now possible with WebExtensions APIs. Participants will learn how easily they can develop a Firefox/Chrome Extension or port Firefox Extension to other browsers(Chrome,Opera,Edge,etc.) with no or minimal changes.By the end of the session, each participant would have the idea to be able to customize their favt. browser by building their own add-on (for instance, from building an add-on which reminds user to drink water after every hour to building an add-on that chops off the UTM token, makes your browsing more private).Jyotsna, an Open Source Enthusiast, is working as a Software Developer in Bangalore India. Previously @ TCS. She’s a coder by profession and Shuttler by passion. She is involved with Mozilla India Community since 2015. She began her journey as an FSA and went on to become the Founder & Club Lead of Firefox Club of BBDNIIT in 2015 April.She was also one of the 5 judges on the panel in the Firefox Quantum Extension Challenge, ran globally from March 15, 2018 - April 15, 2018.
+  - title: SPAs are dead. Long live Microfrontends.
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Vinci Rufus
+        twitter: vinci
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4c9XFMJ2FQ4
+    description: |-
+      The frontend world is obsessed with building Single Page Apps (SPAs). However SPAs are the monoliths of the frontend world and carry the same challenges and drawbacks backend teams faced with their monolithic applications. Microfrontends is an alternative approach to building apps using JS frameworks that are scalable, performant and easy to maintain.Vinci is a Sr. Director of Technology with publicis.sapient. He spends most of his time helping teams build scalable frontend apps on React and Angular.
 
-- title: A glimpse of GraphQL" Frontend developers’ life is easy now!"
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Navya Agarwal
-      twitter: navyaagarwal
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Cbk574HyMPk
-  description: |-
-    I’ll start the talk by our motivation to switch to GraphQL and how it solved the two most important problems (multiple round trips to server and overfetching of gigantic data). But as we progressed on ur journey with GraphQL, we came across some unavoidable problems (from personal experience), the solution to which I will cover next. Then I will briefly explain the Apollo client and server wrapper around GraphQL and how to use it with React. While the road has certainly been bumpy at times, we’re really able to recognize the benefits that GraphQL provides.I am a polyglot developer working with Adobe Experience Cloud. I currently look after the authentication and orchestration part of the stack with the broad goal of optimizing the performance and scalability of the system. I have tried my hands-on trending technologies and introduced the same in my projects. Over the past years, I have dabbled with multiple tech stacks and have worked on various innovative ideas within the team.
+  - title: Moving a huge AngularJS App to React, progressively at Microsoft Scale
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Abhik Mitra
+        twitter: abhikmitra89
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Building Isomorphic JavaScript Apps Faster with Next.js
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: CS Madhav
-      twitter: csmadhav
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Om__vFoBgR4
-  description: |-
-    Isomorphic apps are those which runs both on client and server. Next.js is the framework for developing server-side rendered react applications. In this talk we are going to discuss how Next.js makes our life simple when we are developing apps with React and Node. It also talks about how painful it is to develop a complete basic web application (with proper authentication and user sessions) with create-react-app utility and Node.js. The challenges faced in developing those and how Next.js help in solving those problems faster. We are also going to discuss how easily we can make a web app with cookie-based authentication with react and Next.js. We will see that we can achieve automatic code splitting + HMR + SSR with completely no configuration which can help saving our development time a lot and makes our app simple to maintain. The main focus for this talk is simple.1. To reduce our development time and deliver apps faster, We can spend more time writing our core logic then wasting time configuring our apps for it or writing more boilerplate code.2. Keeping code as simple as possible so that it would be easy to maintain.3. Server-side-rendered apps will definately get the plus points on SEO.4. Server-side rendering is also one of the key improvements in React 16 and therefore react apps with SSR gain huge performance benefits from it.
+  - title: Joint Q&A" The pros and cons of micro-frontends paradigm for building web applications"
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Rakesh Pai,Vinci Rufus,Arun Kumar,Krishnamoorthy
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: The vuetiful journey from AngularJS to Vue" migration of a SaaS product suite in phases"
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Hemant Rai
-      twitter: hemantisme
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Cross Browser Add-ons and How to build one
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Jyotsna Gupta
+        twitter: jyotsna17gupta
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_ioZ8oHGNA0
+    description: |-
+      Extensions (or Add-ons) can extend and modify the capability of a browser. Browser extensions help us to personalize the browser as per our requirement.We’ll be walking through some of the existing extensions in specific categories to outline the potential of extensions. Participants will be focused on building their own extension easily by having basic knowledge of JavaScript, which is now possible with WebExtensions APIs. Participants will learn how easily they can develop a Firefox/Chrome Extension or port Firefox Extension to other browsers(Chrome,Opera,Edge,etc.) with no or minimal changes.By the end of the session, each participant would have the idea to be able to customize their favt. browser by building their own add-on (for instance, from building an add-on which reminds user to drink water after every hour to building an add-on that chops off the UTM token, makes your browsing more private).Jyotsna, an Open Source Enthusiast, is working as a Software Developer in Bangalore India. Previously @ TCS. She’s a coder by profession and Shuttler by passion. She is involved with Mozilla India Community since 2015. She began her journey as an FSA and went on to become the Founder & Club Lead of Firefox Club of BBDNIIT in 2015 April.She was also one of the 5 judges on the panel in the Firefox Quantum Extension Challenge, ran globally from March 15, 2018 - April 15, 2018.
 
-- title: 'Birds Of Feather session: Architecture and component choices in designing your webapp'
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Navya Agarwal
-      twitter:
-      github:
-      website:
-    - name: Rakesh Pai
-      twitter:
-      github:
-      website:
-    - name: Arunkumar Krishnamoorthy
-      twitter:
-      github:
-      website:
-    - name: Abhik Mitra
-      twitter:
-      github:
-      website:
-    - name: Vinci Rufus
-      twitter:
-      github:
-      website:
-    - name: Hemant Rai
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: A glimpse of GraphQL" Frontend developers’ life is easy now!"
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Navya Agarwal
+        twitter: navyaagarwal
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Cbk574HyMPk
+    description: |-
+      I’ll start the talk by our motivation to switch to GraphQL and how it solved the two most important problems (multiple round trips to server and overfetching of gigantic data). But as we progressed on ur journey with GraphQL, we came across some unavoidable problems (from personal experience), the solution to which I will cover next. Then I will briefly explain the Apollo client and server wrapper around GraphQL and how to use it with React. While the road has certainly been bumpy at times, we’re really able to recognize the benefits that GraphQL provides.I am a polyglot developer working with Adobe Experience Cloud. I currently look after the authentication and orchestration part of the stack with the broad goal of optimizing the performance and scalability of the system. I have tried my hands-on trending technologies and introduced the same in my projects. Over the past years, I have dabbled with multiple tech stacks and have worked on various innovative ideas within the team.
 
-- title: Navigating the labyrinth or how to profile your webapp on Chrome?
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Pavithra Kodmad
-      twitter: pkodmad
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Building Isomorphic JavaScript Apps Faster with Next.js
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: CS Madhav
+        twitter: csmadhav
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Om__vFoBgR4
+    description: |-
+      Isomorphic apps are those which runs both on client and server. Next.js is the framework for developing server-side rendered react applications. In this talk we are going to discuss how Next.js makes our life simple when we are developing apps with React and Node. It also talks about how painful it is to develop a complete basic web application (with proper authentication and user sessions) with create-react-app utility and Node.js. The challenges faced in developing those and how Next.js help in solving those problems faster. We are also going to discuss how easily we can make a web app with cookie-based authentication with react and Next.js. We will see that we can achieve automatic code splitting + HMR + SSR with completely no configuration which can help saving our development time a lot and makes our app simple to maintain. The main focus for this talk is simple.1. To reduce our development time and deliver apps faster, We can spend more time writing our core logic then wasting time configuring our apps for it or writing more boilerplate code.2. Keeping code as simple as possible so that it would be easy to maintain.3. Server-side-rendered apps will definately get the plus points on SEO.4. Server-side rendering is also one of the key improvements in React 16 and therefore react apps with SSR gain huge performance benefits from it.
 
-- title: End-to-end testing made easy with Nightwatch
-  lang: en
-  type: lightning
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Ratan Kulshreshtha
-      twitter: ratanshreshtha
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: The vuetiful journey from AngularJS to Vue" migration of a SaaS product suite in phases"
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Hemant Rai
+        twitter: hemantisme
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Performance Feat. Webpack
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Atishay Baid
-      twitter: atishaybaid
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/8u5qOM3b6Pk
-  description: |-
-    Introduction to performance What to expect in this talk Importance of measurement Common Misconception.Performance focus of webpack especially version 4 Lazy loading strategies Code splitting strategies for CSS and JS Prefetching Other plugins for performance tuning.
+  - title: 'Birds Of Feather session: Architecture and component choices in designing your webapp'
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Navya Agarwal
+        twitter:
+        github:
+        website:
+      - name: Rakesh Pai
+        twitter:
+        github:
+        website:
+      - name: Arunkumar Krishnamoorthy
+        twitter:
+        github:
+        website:
+      - name: Abhik Mitra
+        twitter:
+        github:
+        website:
+      - name: Vinci Rufus
+        twitter:
+        github:
+        website:
+      - name: Hemant Rai
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Charting in 2018
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Prateeksha Singh
-      twitter:
-      github: pratu16x7
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Navigating the labyrinth or how to profile your webapp on Chrome?
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Pavithra Kodmad
+        twitter: pkodmad
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: 'Birds Of Feather session: On performance'
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Rahul Nanwani
-      twitter:
-      github:
-      website:
-    - name: Pavithra Kodmad
-      twitter:
-      github:
-      website:
-    - name: Navya Agarwal
-      twitter:
-      github:
-      website:
-    - name: Atishay Baid
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: End-to-end testing made easy with Nightwatch
+    lang: en
+    type: lightning
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Ratan Kulshreshtha
+        twitter: ratanshreshtha
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Create cross platform native mobile games with JavaScript
-  lang: en
-  type: lightning
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Suroor Wijdan
-      twitter: wijdansuroor
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Performance Feat. Webpack
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Atishay Baid
+        twitter: atishaybaid
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/8u5qOM3b6Pk
+    description: |-
+      Introduction to performance What to expect in this talk Importance of measurement Common Misconception.Performance focus of webpack especially version 4 Lazy loading strategies Code splitting strategies for CSS and JS Prefetching Other plugins for performance tuning.
 
-- title: Voice User Interfaces - How designing for the ear differs from designing for screens
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Sohan Maheshwar
-      twitter: sohanm
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Charting in 2018
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Prateeksha Singh
+        twitter:
+        github: pratu16x7
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Voice User Interfaces - How designing for the ear differs from designing for screens
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Sohan Maheshwar
-      twitter: sohanm
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: 'Birds Of Feather session: On performance'
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Rahul Nanwani
+        twitter:
+        github:
+        website:
+      - name: Pavithra Kodmad
+        twitter:
+        github:
+        website:
+      - name: Navya Agarwal
+        twitter:
+        github:
+        website:
+      - name: Atishay Baid
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Building an interactive learning service for native apps.
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Deepak Pathania
-      twitter: deepakpathania789
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Create cross platform native mobile games with JavaScript
+    lang: en
+    type: lightning
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Suroor Wijdan
+        twitter: wijdansuroor
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: 'Birds Of Feather session: Experience stories from engineers about building UX and UI flows for web applications'
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-10
-  room:
-  authors:
-    - name: Prateeksha Singh
-      twitter:
-      github:
-      website:
-    - name: Suroor Widjan
-      twitter:
-      github:
-      website:
-    - name: Sohan Maheshwar
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Voice User Interfaces - How designing for the ear differs from designing for screens
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Sohan Maheshwar
+        twitter: sohanm
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Voice User Interfaces - How designing for the ear differs from designing for screens
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Sohan Maheshwar
+        twitter: sohanm
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Building an interactive learning service for native apps.
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Deepak Pathania
+        twitter: deepakpathania789
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Birds Of Feather session: Experience stories from engineers about building UX and UI flows for web applications'
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-10
+    room:
+    authors:
+      - name: Prateeksha Singh
+        twitter:
+        github:
+        website:
+      - name: Suroor Widjan
+        twitter:
+        github:
+        website:
+      - name: Sohan Maheshwar
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-

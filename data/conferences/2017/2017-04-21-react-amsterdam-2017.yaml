@@ -1,454 +1,470 @@
-- title: Styling React/ReactNative Applications
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Max Stoiber
-      twitter: mxstbr
-      github: mxstbr
-      website: https://mxstbr.com/oss
-  slides:
-  videos:
-    - https://youtu.be/bIK2NwoK9xk
-  description: |-
-    Max Stoiber, Co-founder and CTO of Space Program (Spectrum) React popularized a new way of building user interfaces – components. By splitting our app into small, digestible parts the system as a whole becomes a lot easier to understand. CSS was made in an era where documents were the height of the web. It doesn't fit easily into component-based systems, making styling one of the pain points of building React applications. What if we took the best of JavaScript and the best of CSS, and combined them together to create the ultimate solution? Glen Maddern (CSS Modules co-creator) and I sat down and starting thinking about styling in this new paradigm. Let's talk about what we thought about and why we arrived where we did – 💅 styled-components.
+conference:
 
-- title: How Pinterest switched their template rendering engine to React
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Jessica Chan
-      twitter: missyjcat
-      github: missyjcat
-      website: http://www.jessicachanstudios.com/
-  slides:
-  videos:
-    - https://youtu.be/JyD0AUFHQTQ
+  name: React Amsterdam 2017
+  url: https://react.amsterdam/2017/
+  status: complete
+  date:
+    from: 2017-04-21
+    to: 2017-04-21
+  location:
+    country: Netherlands
+    city: Amsterdam
   description: |-
-    Jessica Chan, Software Engineer at Pinterest.A deep dive into how Pinterest migrated their web infrastructure to serve React pages, which required moving a huge amount of code without breaking the site. Details on the legacy stack (Django web server and Nunjucks/Jinja template rendering) moving to Node and migrating our templates to React.
+    React Amsterdam is a full day two-track conference on all things React, gathering Front End developers across the globe in the tech heart of Europe. React Amsterdam is a heir to the biggest React community in BeNeLux and we have our priorities straight: only the highest quality content with careful balance of practical and visionary talks. React Amsterdam 2017 will take place in the Kromhouthal - former shipbuilding factory at a waterfront of Amsterdam City center.
 
-- title: A Real-World GraphQL Application in Production
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Stefano Masini
-      twitter: stefanomasini
-      github: stefanomasini
-      website:
-  slides:
-  videos:
-    - https://youtu.be/6bRFElKG0a8
-  description: |-
-    Stefano Masini, Full-stack Developer at Balsamiq.At Balsamiq we are rolling out our new web-app to production. A real-world application with real-time collaboration, built using Relay, Redux, node.js, Redis, etc., running on AWS using Convox. Even at small/medium scale, if you're serious about building a good product you will eventually have to build a complex stack. I will share a few lessons learned in the process: how to structure the code, implement reactivity, writing tests.
+talks:
 
-- title: Fun With Fiber Custom Renderers
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Ken Wheeler
-      twitter: ken_wheeler
-      github: kenwheeler
-      website: http://kenwheeler.github.io/
-  slides:
-  videos:
-    - https://youtu.be/oPofnLZZTwQ
-  description: |-
-    Ken Wheeler, Director of Open Source at Formidable.In this talk I will be detailing how to create custom renderers using the new Fiber architecture, and showing examples exploring some fun things you can do with them.
+  - title: Styling React/ReactNative Applications
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Max Stoiber
+        twitter: mxstbr
+        github: mxstbr
+        website: https://mxstbr.com/oss
+    slides:
+    videos:
+      - https://youtu.be/bIK2NwoK9xk
+    description: |-
+      Max Stoiber, Co-founder and CTO of Space Program (Spectrum) React popularized a new way of building user interfaces – components. By splitting our app into small, digestible parts the system as a whole becomes a lot easier to understand. CSS was made in an era where documents were the height of the web. It doesn't fit easily into component-based systems, making styling one of the pain points of building React applications. What if we took the best of JavaScript and the best of CSS, and combined them together to create the ultimate solution? Glen Maddern (CSS Modules co-creator) and I sat down and starting thinking about styling in this new paradigm. Let's talk about what we thought about and why we arrived where we did – 💅 styled-components.
 
-- title: Pushing Bugs to Prod Responsibly with React and Redux
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Alex Castillo
-      twitter: castillo__i0
-      github: alexcastillo
-      website: https://castillo.io/
-  slides:
-  videos:
-    - https://youtu.be/Y-ZoZoOtvp8
-  description: |-
-    Alex Castillo, Software Engineer at Netflix.The question is not how to avoid bugs when building software. There will always be bugs. The question is how quickly can you recover from them. Let's go through some ways you can give your app the ability to notify you of these bugs before your users do using React and Redux. Start pushing bugs to prod responsibly.
+  - title: How Pinterest switched their template rendering engine to React
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Jessica Chan
+        twitter: missyjcat
+        github: missyjcat
+        website: http://www.jessicachanstudios.com/
+    slides:
+    videos:
+      - https://youtu.be/JyD0AUFHQTQ
+    description: |-
+      Jessica Chan, Software Engineer at Pinterest.A deep dive into how Pinterest migrated their web infrastructure to serve React pages, which required moving a huge amount of code without breaking the site. Details on the legacy stack (Django web server and Nunjucks/Jinja template rendering) moving to Node and migrating our templates to React.
 
-- title: Test Like It's 2017
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Michele Bertoli
-      twitter: MicheleBertoli
-      github: MicheleBertoli
-      website: http://michele.berto.li/
-  slides:
-  videos:
-    - https://youtu.be/tRNL-WAPb98
-  description: |-
-    Michele Bertoli, Front-end Engineer at Facebook.Testing UIs has always been a hard job. In the components era, there are new tools and solutions available that transform completely the way we approach testing. From snapshots, through end-to-end frameworks, to style guide testing. In this talk, we'll see some modern (and creative) testing solutions.
+  - title: A Real-World GraphQL Application in Production
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Stefano Masini
+        twitter: stefanomasini
+        github: stefanomasini
+        website:
+    slides:
+    videos:
+      - https://youtu.be/6bRFElKG0a8
+    description: |-
+      Stefano Masini, Full-stack Developer at Balsamiq.At Balsamiq we are rolling out our new web-app to production. A real-world application with real-time collaboration, built using Relay, Redux, node.js, Redis, etc., running on AWS using Convox. Even at small/medium scale, if you're serious about building a good product you will eventually have to build a complex stack. I will share a few lessons learned in the process: how to structure the code, implement reactivity, writing tests.
 
-- title: Introduction to ReactVR
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Nik Graf
-      twitter: nikgraf
-      github: nikgraf
-      website: https://twitter.com/nikgraf
-  slides:
-  videos:
-    - https://youtu.be/eYTlTzrNVjw
-  description: |-
-    Nik Graf, Software Developer at Serverless.Many web developers haven’t explored WebVR yet. Building 3D Worlds was an intimidating endeavour. Especially with ReactVR there is no reason for that anymore. The talk kicks off with the basics of WebVR, shows how to build and navigate rooms using panos in ReactVR. Next it shows how to create a couple 3D meshes and how put together a small world using them.
+  - title: Fun With Fiber Custom Renderers
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Ken Wheeler
+        twitter: ken_wheeler
+        github: kenwheeler
+        website: http://kenwheeler.github.io/
+    slides:
+    videos:
+      - https://youtu.be/oPofnLZZTwQ
+    description: |-
+      Ken Wheeler, Director of Open Source at Formidable.In this talk I will be detailing how to create custom renderers using the new Fiber architecture, and showing examples exploring some fun things you can do with them.
 
-- title: Complexity"Divide and Conquer!"
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Michel Weststrate
-      twitter: mweststrate
-      github: mweststrate
-      website:
-  slides:
-  videos:
-    - https://youtu.be/3J9EJrvqOiM
-  description: |-
-    Michel Weststrate, Full-stack Lead Developer at Mendix."Reactive programming" still sounds scary to many developers. As if it is an elevated way of thinking, only accessible to the chosen few. Nothing is less true! It is the most natural way to look at programming problems. You just might not realize it yet! In this talk, Michel will demonstrate that many complex UI problems, such as form validation and routing, can all be seen as '*actions* that change *facts* which leads to *reactions*'. And as soon as we start distinguishing those concepts in our applications; our code will become more declarative, more concise and less imperative.
+  - title: Pushing Bugs to Prod Responsibly with React and Redux
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Alex Castillo
+        twitter: castillo__i0
+        github: alexcastillo
+        website: https://castillo.io/
+    slides:
+    videos:
+      - https://youtu.be/Y-ZoZoOtvp8
+    description: |-
+      Alex Castillo, Software Engineer at Netflix.The question is not how to avoid bugs when building software. There will always be bugs. The question is how quickly can you recover from them. Let's go through some ways you can give your app the ability to notify you of these bugs before your users do using React and Redux. Start pushing bugs to prod responsibly.
 
-- title: Flow Typing a React Codebase
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Forbes Lindesay
-      twitter: ForbesLindesay
-      github: ForbesLindesay
-      website: http://www.forbeslindesay.co.uk/
-  slides:
-  videos:
-    - https://youtu.be/lk8o7ym29WM
-  description: |-
-    Forbes Lindesay, Software Engineer at Facebook.Adding type checking to your code can be a frustrating experience at first. In this talk, Forbes will help you through that initial stage by identifying some of the problems you're likely to experience and giving you the tools to work through them. We'll cover adding types to code that initially looks too dynamic to type, adding runtime type checking (and whether that's a good idea) and finally, how you publish your type checked modules to npm.
+  - title: Test Like It's 2017
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Michele Bertoli
+        twitter: MicheleBertoli
+        github: MicheleBertoli
+        website: http://michele.berto.li/
+    slides:
+    videos:
+      - https://youtu.be/tRNL-WAPb98
+    description: |-
+      Michele Bertoli, Front-end Engineer at Facebook.Testing UIs has always been a hard job. In the components era, there are new tools and solutions available that transform completely the way we approach testing. From snapshots, through end-to-end frameworks, to style guide testing. In this talk, we'll see some modern (and creative) testing solutions.
 
-- title: Sequencing Audio Using React and the Web Audio API
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Bruce Lane
-      twitter: batchass
-      github: brucelane
-      website: https://sophiadigitalart.com/
-    - name: Vincent Riemer
-      twitter: vincentriemer
-      github: vincentriemer
-      website: http://vincentriemer.com/
-  slides:
-  videos:
-    - https://youtu.be/LkzNk0qgW50
-  description: |-
+  - title: Introduction to ReactVR
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Nik Graf
+        twitter: nikgraf
+        github: nikgraf
+        website: https://twitter.com/nikgraf
+    slides:
+    videos:
+      - https://youtu.be/eYTlTzrNVjw
+    description: |-
+      Nik Graf, Software Developer at Serverless.Many web developers haven’t explored WebVR yet. Building 3D Worlds was an intimidating endeavour. Especially with ReactVR there is no reason for that anymore. The talk kicks off with the basics of WebVR, shows how to build and navigate rooms using panos in ReactVR. Next it shows how to create a couple 3D meshes and how put together a small world using them.
 
-- title: Coding Mobile with the Pros
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Gant Laborde
-      twitter: GantLaborde
-      github: GantMan
-      website: http://gantlaborde.com/
-  slides:
-  videos:
-    - https://youtu.be/ePfHYBzYLCk
-  description: |-
-    Gant Laborde, Chief Technology Strategist for Infinite Red.React Native mobile just got easier. Learn how to tap into rapid development by using what the pros are ready to give you!
+  - title: Complexity"Divide and Conquer!"
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Michel Weststrate
+        twitter: mweststrate
+        github: mweststrate
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3J9EJrvqOiM
+    description: |-
+      Michel Weststrate, Full-stack Lead Developer at Mendix."Reactive programming" still sounds scary to many developers. As if it is an elevated way of thinking, only accessible to the chosen few. Nothing is less true! It is the most natural way to look at programming problems. You just might not realize it yet! In this talk, Michel will demonstrate that many complex UI problems, such as form validation and routing, can all be seen as '*actions* that change *facts* which leads to *reactions*'. And as soon as we start distinguishing those concepts in our applications; our code will become more declarative, more concise and less imperative.
 
-- title: Web Like Release Agility for React Native Apps
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Parashuram N
-      twitter: nparashuram
-      github: axemclion
-      website: http://nparashuram.com/
-  slides:
-  videos:
-    - https://youtu.be/itDrJ5VWZ3k
-  description: |-
-    Parashuram N, Microsoft.Code Push for React Native brings web like release agility to mobile apps by enabling developers to update apps instantly. This talk will cover the next iteration of Code Push and how it fits into a complete suite of DevOps services built for called Mobile Center, built for React Native.
+  - title: Flow Typing a React Codebase
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Forbes Lindesay
+        twitter: ForbesLindesay
+        github: ForbesLindesay
+        website: http://www.forbeslindesay.co.uk/
+    slides:
+    videos:
+      - https://youtu.be/lk8o7ym29WM
+    description: |-
+      Forbes Lindesay, Software Engineer at Facebook.Adding type checking to your code can be a frustrating experience at first. In this talk, Forbes will help you through that initial stage by identifying some of the problems you're likely to experience and giving you the tools to work through them. We'll cover adding types to code that initially looks too dynamic to type, adding runtime type checking (and whether that's a good idea) and finally, how you publish your type checked modules to npm.
 
-- title: Asynchronous & Offline Magic Tricks on React Native
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Woody Rousseau
-      twitter: WoodyRousseau
-      github: wrousseau
-      website:
-  slides:
-  videos:
-    - https://youtu.be/PBNAz-yAxrY
-  description: |-
-    Woody Rousseau, Deputy CTO at Theodo UK.Javascript has provided us with amazing ways to handle asynchronous logic to provide the best user experience possible.React Native is today the best tool to build mobile apps fast, but require extra care when managing asynchronous & offline logic: most people are often going to use your app with weak to no network. Get ready to get your app to the next level when you learn how to handle these edge cases.
+  - title: Sequencing Audio Using React and the Web Audio API
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Bruce Lane
+        twitter: batchass
+        github: brucelane
+        website: https://sophiadigitalart.com/
+      - name: Vincent Riemer
+        twitter: vincentriemer
+        github: vincentriemer
+        website: http://vincentriemer.com/
+    slides:
+    videos:
+      - https://youtu.be/LkzNk0qgW50
+    description: |-
 
-- title: Universal React
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Mike Grabowski
-      twitter: grabbou
-      github: grabbou
-      website:
-  slides:
-  videos:
-    - https://youtu.be/JEKmuf7PGXw
-  description: |-
-    Mike Grabowski, CTO at Callstack.io.React Native opens up the world of mobile development for many of us, front-end engineers. It not only allows us to use technologies we know already, like React, to provide first-class native experience to our users, but also to support many platforms, like Android and iOS at once, from within the same codebase.This talk will explore various patterns that turned to be useful over the course of few projects I did. It will also demonstrate techniques that can be used to write truly universal apps, ie. ones that share core across web, native and more.
+  - title: Coding Mobile with the Pros
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Gant Laborde
+        twitter: GantLaborde
+        github: GantMan
+        website: http://gantlaborde.com/
+    slides:
+    videos:
+      - https://youtu.be/ePfHYBzYLCk
+    description: |-
+      Gant Laborde, Chief Technology Strategist for Infinite Red.React Native mobile just got easier. Learn how to tap into rapid development by using what the pros are ready to give you!
 
-- title: Performance Limitations of React Native and How to Overcome Them
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Tal Kol
-      twitter: koltal
-      github: talkol
-      website:
-  slides:
-  videos:
-    - https://youtu.be/OmiXlJ4ZzAo
-  description: |-
-    Tal Kol, Head of Mobile Engineering at Wix.com.React Native holds great promise in terms of excellent developer experience with JavaScript and code reuse between platforms. The big question is  - do these benefits come at the price of performance? How well can React Native hold its own against purely native implementations?
+  - title: Web Like Release Agility for React Native Apps
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Parashuram N
+        twitter: nparashuram
+        github: axemclion
+        website: http://nparashuram.com/
+    slides:
+    videos:
+      - https://youtu.be/itDrJ5VWZ3k
+    description: |-
+      Parashuram N, Microsoft.Code Push for React Native brings web like release agility to mobile apps by enabling developers to update apps instantly. This talk will cover the next iteration of Code Push and how it fits into a complete suite of DevOps services built for called Mobile Center, built for React Native.
 
-- title: React Native Touch & Gesture
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Krzysztof Magiera
-      twitter: kzzzf
-      github: kmagiera
-      website:
-  slides:
-  videos:
-    - https://youtu.be/V8maYc4R2G0
-  description: |-
-    Krzysztof Magiera, Software Engineer at Software Mansion.React Native allows for building great native apps by utilising native mobile components. Apparently handling touch and gestures is quite tricky as it often needs to interact with the application code which runs asynchronously in the javascript VM. This talk is going to be about how the gesture system has been designed and implemented in React Native and how to use it to stay out of trouble.
+  - title: Asynchronous & Offline Magic Tricks on React Native
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Woody Rousseau
+        twitter: WoodyRousseau
+        github: wrousseau
+        website:
+    slides:
+    videos:
+      - https://youtu.be/PBNAz-yAxrY
+    description: |-
+      Woody Rousseau, Deputy CTO at Theodo UK.Javascript has provided us with amazing ways to handle asynchronous logic to provide the best user experience possible.React Native is today the best tool to build mobile apps fast, but require extra care when managing asynchronous & offline logic: most people are often going to use your app with weak to no network. Get ready to get your app to the next level when you learn how to handle these edge cases.
 
-- title: Navigating React Native Navigation
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Kurtis Kemple
-      twitter: kurtiskemple
-      github: kkemple
-      website:
-  slides:
-  videos:
-    - https://youtu.be/42ogpJVwtw0
-  description: |-
-    Kurtis Kemple, Technology Lead at Major League Soccer.When you start out on React Native project, there is a certain sense of awe as the package manager delivers the first bundle to the simulator. You quickly add some hello world text and maybe even a Pokemon image. Things are really starting to look up… And then you need to add another view and you realize that you need to navigate somewhere. So you check out the React Native Docs and are quickly greeted by IOSTabBar, Navigation, and NavigationExperimental modules. With so many different options in the core codebase you realize that it’s still a bit of an unsolved problem. Now you’re looking at 3rd party integrations… and you start to wonder, just how should you implement navigation? This talk will outline the different approaches to navigation available in React Native and in the RN eco-system, and the pro’s and con’s of each solution.
+  - title: Universal React
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Mike Grabowski
+        twitter: grabbou
+        github: grabbou
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JEKmuf7PGXw
+    description: |-
+      Mike Grabowski, CTO at Callstack.io.React Native opens up the world of mobile development for many of us, front-end engineers. It not only allows us to use technologies we know already, like React, to provide first-class native experience to our users, but also to support many platforms, like Android and iOS at once, from within the same codebase.This talk will explore various patterns that turned to be useful over the course of few projects I did. It will also demonstrate techniques that can be used to write truly universal apps, ie. ones that share core across web, native and more.
 
-- title: Testing & React Native"Lessons from the Battlefield"
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Aaron Greenwald
-      twitter: aaronjgreenwald
-      github: aarongreenwald
-      website: http://www.aarongreenwald.com/
-  slides:
-  videos:
-    - https://youtu.be/cUSUJXAvt6k
-  description: |-
-    Aaron Greenwald, Software Developer at Wix.Wix has been about cutting edge web development for a while, and we're all about TDD. When we started mobile with RN, we struggled to replicate our test-heavy workflow that we'd grown to love. We lacked tooling, best practices, and general know-how.
+  - title: Performance Limitations of React Native and How to Overcome Them
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Tal Kol
+        twitter: koltal
+        github: talkol
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OmiXlJ4ZzAo
+    description: |-
+      Tal Kol, Head of Mobile Engineering at Wix.com.React Native holds great promise in terms of excellent developer experience with JavaScript and code reuse between platforms. The big question is  - do these benefits come at the price of performance? How well can React Native hold its own against purely native implementations?
 
-- title: Demystifying GraphQL Clients
-  lang: en
-  type: regular
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Chris Biscardi
-      twitter: chrisbiscardi
-      github: ChristopherBiscardi
-      website: http://www.christopherbiscardi.com/
-  slides:
-  videos:
-    - https://youtu.be/sxciVldf-ak
-  description: |-
-    Cris Biscardi, Software Engineer at Dropbox.Find out how choosing a GraphQL client can impact development. From Relay to template strings, we will explore topics such as modularity, schema checking, and static analysis.
+  - title: React Native Touch & Gesture
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Krzysztof Magiera
+        twitter: kzzzf
+        github: kmagiera
+        website:
+    slides:
+    videos:
+      - https://youtu.be/V8maYc4R2G0
+    description: |-
+      Krzysztof Magiera, Software Engineer at Software Mansion.React Native allows for building great native apps by utilising native mobile components. Apparently handling touch and gestures is quite tricky as it often needs to interact with the application code which runs asynchronously in the javascript VM. This talk is going to be about how the gesture system has been designed and implemented in React Native and how to use it to stay out of trouble.
 
-- title: Advanced SSR Caching with React
-  lang: en
-  type: lightning
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Robert Haritonov
-      twitter: operatino
-      github: operatino
-      website: http://rhr.me/
-  slides:
-  videos:
-    - https://youtu.be/4TOi9l6x-jo
-  description: |-
-    Robert Haritonov, Tech Lead at Zoover
+  - title: Navigating React Native Navigation
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Kurtis Kemple
+        twitter: kurtiskemple
+        github: kkemple
+        website:
+    slides:
+    videos:
+      - https://youtu.be/42ogpJVwtw0
+    description: |-
+      Kurtis Kemple, Technology Lead at Major League Soccer.When you start out on React Native project, there is a certain sense of awe as the package manager delivers the first bundle to the simulator. You quickly add some hello world text and maybe even a Pokemon image. Things are really starting to look up… And then you need to add another view and you realize that you need to navigate somewhere. So you check out the React Native Docs and are quickly greeted by IOSTabBar, Navigation, and NavigationExperimental modules. With so many different options in the core codebase you realize that it’s still a bit of an unsolved problem. Now you’re looking at 3rd party integrations… and you start to wonder, just how should you implement navigation? This talk will outline the different approaches to navigation available in React Native and in the RN eco-system, and the pro’s and con’s of each solution.
 
-- title: Make Linting Great Again
-  lang: en
-  type: lightning
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Andrey Okonetchnikov
-      twitter: okonetchnikov
-      github: okonet
-      website: http://okonet.ru/
-  slides:
-  videos:
-    - https://youtu.be/GLdH9SMG97o
-  description: |-
-    Andrey Okonetchnikov, Front-end Engineer at Feedly.No other topic in software development probably has so much controversy as linting. With a wrong workflow linting can be really a pain and will slow you and your team down. With a proper setup though, it can save you hours of manual work reformatting the code and reducing the code-review overhead.
+  - title: Testing & React Native"Lessons from the Battlefield"
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Aaron Greenwald
+        twitter: aaronjgreenwald
+        github: aarongreenwald
+        website: http://www.aarongreenwald.com/
+    slides:
+    videos:
+      - https://youtu.be/cUSUJXAvt6k
+    description: |-
+      Aaron Greenwald, Software Developer at Wix.Wix has been about cutting edge web development for a while, and we're all about TDD. When we started mobile with RN, we struggled to replicate our test-heavy workflow that we'd grown to love. We lacked tooling, best practices, and general know-how.
 
-- title: Generating your client validation rules
-  lang: en
-  type: lightning
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Ronald van der Kooy
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/craV534x6Kw
-  description: |-
+  - title: Demystifying GraphQL Clients
+    lang: en
+    type: regular
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Chris Biscardi
+        twitter: chrisbiscardi
+        github: ChristopherBiscardi
+        website: http://www.christopherbiscardi.com/
+    slides:
+    videos:
+      - https://youtu.be/sxciVldf-ak
+    description: |-
+      Cris Biscardi, Software Engineer at Dropbox.Find out how choosing a GraphQL client can impact development. From Relay to template strings, we will explore topics such as modularity, schema checking, and static analysis.
 
-- title: Building Applications for the Studio in the Cloud at Netflix
-  lang: en
-  type: lightning
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Feather Knee
-      twitter: featherart
-      github: featherart
-      website: http://featherart.fun/
-  slides:
-  videos:
-    - https://youtu.be/Ff5kBpx7pe8
-  description: |-
-    Feather Knee, Full-stack Software Engineer at Netflix.Using React to write a decision-making tool for the production studio at Netflix. Our application interacts with a large number of data models. We have to take very complex information and distill it so it can be more easily understood. Design challenges and solutions. How we developed the various components of our UX toolbox. Development process that includes writing unit tests in parallel with application development. How automated testing alongside application development informs our development process.
+  - title: Advanced SSR Caching with React
+    lang: en
+    type: lightning
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Robert Haritonov
+        twitter: operatino
+        github: operatino
+        website: http://rhr.me/
+    slides:
+    videos:
+      - https://youtu.be/4TOi9l6x-jo
+    description: |-
+      Robert Haritonov, Tech Lead at Zoover
 
-- title: Practical Performance Tips Building Progressive Web Apps
-  lang: en
-  type: lightning
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Narendra Shetty
-      twitter: narendra_shetty
-      github: narendrashetty
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Dw3B1Ppi--c
-  description: |-
-    In mobile web it’s always very important to render the initial screen as soon as possible. In this talk, Narendra will share his personal experience with making Uber mobile web using React in a short period of time. In addition, he will shed some light on how to cache using service worker and its effect on the speed of repeat visits.This is for all the devs who care about performance and who think twice before adding any external library.
+  - title: Make Linting Great Again
+    lang: en
+    type: lightning
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Andrey Okonetchnikov
+        twitter: okonetchnikov
+        github: okonet
+        website: http://okonet.ru/
+    slides:
+    videos:
+      - https://youtu.be/GLdH9SMG97o
+    description: |-
+      Andrey Okonetchnikov, Front-end Engineer at Feedly.No other topic in software development probably has so much controversy as linting. With a wrong workflow linting can be really a pain and will slow you and your team down. With a proper setup though, it can save you hours of manual work reformatting the code and reducing the code-review overhead.
 
-- title: Creating a Pixel-Art Editor Using React and Redux
-  lang: en
-  type: lightning
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: John van de Water
-      twitter: johnvandeWater
-      github: jchn
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Generating your client validation rules
+    lang: en
+    type: lightning
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Ronald van der Kooy
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/craV534x6Kw
+    description: |-
 
-- title: Large scale in-store promotions with React
-  lang: en
-  type: lightning
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Tim Koopman
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Building Applications for the Studio in the Cloud at Netflix
+    lang: en
+    type: lightning
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Feather Knee
+        twitter: featherart
+        github: featherart
+        website: http://featherart.fun/
+    slides:
+    videos:
+      - https://youtu.be/Ff5kBpx7pe8
+    description: |-
+      Feather Knee, Full-stack Software Engineer at Netflix.Using React to write a decision-making tool for the production studio at Netflix. Our application interacts with a large number of data models. We have to take very complex information and distill it so it can be more easily understood. Design challenges and solutions. How we developed the various components of our UX toolbox. Development process that includes writing unit tests in parallel with application development. How automated testing alongside application development informs our development process.
 
-- title: React and Redux Love Web APIs
-  lang: en
-  type: lightning
-  level:
-  time: 2017-04-21
-  room:
-  authors:
-    - name: Ricardo Torres
-      twitter: RicardoTorres0
-      github: rictorres
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Practical Performance Tips Building Progressive Web Apps
+    lang: en
+    type: lightning
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Narendra Shetty
+        twitter: narendra_shetty
+        github: narendrashetty
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Dw3B1Ppi--c
+    description: |-
+      In mobile web it’s always very important to render the initial screen as soon as possible. In this talk, Narendra will share his personal experience with making Uber mobile web using React in a short period of time. In addition, he will shed some light on how to cache using service worker and its effect on the speed of repeat visits.This is for all the devs who care about performance and who think twice before adding any external library.
+
+  - title: Creating a Pixel-Art Editor Using React and Redux
+    lang: en
+    type: lightning
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: John van de Water
+        twitter: johnvandeWater
+        github: jchn
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Large scale in-store promotions with React
+    lang: en
+    type: lightning
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Tim Koopman
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: React and Redux Love Web APIs
+    lang: en
+    type: lightning
+    level:
+    time: 2017-04-21
+    room:
+    authors:
+      - name: Ricardo Torres
+        twitter: RicardoTorres0
+        github: rictorres
+        website:
+    slides:
+    videos:
+    description: |-

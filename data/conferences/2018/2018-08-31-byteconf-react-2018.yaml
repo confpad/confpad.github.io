@@ -1,143 +1,157 @@
-- title: 'Reactive Programming: The Solution to JavaScript Fatigue'
-  lang: en
-  type: regular
-  level: beginner
-  time: 2018-08-31
-  room:
-  authors:
-    - name: Tracy Lee
-      twitter: ladyleet
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/ladyleet/reactive-programming-with-rxjs-byteconf-2018
-  videos:
-    - https://youtu.be/iyW9yMRMm4c
-  description: |-
-    Learn how to create a more composable application architecture and an arsenal of lego bricks with RxJS, a push based primitive and domain specific language that sits on top of JavaScript.
-    
-- title: Applying the science of habit formation to improve coding skills
-  lang: en
-  type: regular
-  level: beginner
-  time: 2018-08-31
-  room:
-  authors:
-    - name: Alex Kallaway
-      twitter: ka11away
-      github:
-      website:
-  slides: 
-  - https://s3.amazonaws.com/byteconf-production/react-2018/alex-kallaway.pdf
-  videos:
-    - https://youtu.be/kFjQAasFWUw
-  description: |-
-    In this talk we’ll explore practical tips and techniques of habit formation to achieve consistency and give special attention to the topic of conquering the inner demons of doubt and fear, dealing with stress and frustration. The goal is to achieve consistency of a professional over the motivational ‘seesaw’ of an amateur.
-    
-- title: 'Learning Backwards: Learning CS Through the Lens of React'
-  lang: en
-  type: regular
-  level: intermediate
-  time: 2018-08-31
-  room:
-  authors:
-    - name: Kyle Shevlin
-      twitter: kyleshevlin
-      github:
-      website:
-  slides: 
-  - http://kyleshevlin.github.io/learning-backwards
-  videos:
-    - https://youtu.be/0QdUsOSt60s
-  description: |-
-   So many devs join the industry from alternative pathways, and many missed out on a CS education because of it. That's awesome that people are diving in and making great stuff! Let's augment that skill and reach the next level by using what we know to learn some CS from React.    
+conference:
 
-- title: Insights from building rich animated experiences in React
-  lang: en
-  type: regular
-  level: intermediate
-  time: 2018-08-31
-  room:
-  authors:
-    - name: Jeremias Menichelli
-      twitter: jeremenichelli
-      github:
-      website:
-  slides: 
-  - https://slides.com/jeremenichelli/rich-animated-experiences-react/
-  videos:
-    - https://youtu.be/S3u-ccn4PEM
+  name: Byteconf React 2018
+  url: https://www.byteconf.com/react-2018/
+  status: complete
+  date:
+    from: 2018-08-31
+    to: 2018-08-31
+  location:
   description: |-
-    Have you ever wondered why good performance is so hard to achieve in heavy animated web applications? This talk is a practical retrospective on the discoveries, the pains and the journey that led me to build reliable bulletproof animations and transitions in real life production projects.
-    
-- title: Testing Big with BigTest in React
-  lang: en
-  type: regular
-  level: intermediate
-  time: 2018-08-31
-  room:
-  authors:
-    - name: Robert DeLuca
-      twitter: robdel12
-      github:
-      website:
-  slides: 
-  - https://speakerdeck.com/robdel12/testing-big-in-javascript
-  videos:
-    - https://youtu.be/w8a7Km9b6UI
-  description: |-
-    Full acceptance test suites that run in the browser are slow, flakey, awkward to write, and hard to maintain. This is the lore that has been handed down to JS developers for generations. But what if that was fiction? What if your UI tests were fast, robust, and a breeze to maintain?
+    Byteconf React is a 100% free conference with the best JavaScript and React speakers in the world.
 
-- title: 'Dr Strangelove: or how I stopped worrying and learned to love higher order functions'
-  lang: en
-  type: regular
-  level: intermediate
-  time: 2018-08-31
-  room:
-  authors:
-    - name: Tim Roberts
-      twitter: cirsca
-      github:
-      website:
-  slides: 
-  - https://docs.google.com/presentation/d/1Vh03g-Xmb_emXJ0dNtsb7IFsO71GUPz6G8wCNYHUph0/edit#slide=id.g35f391192_04
-  videos:
-    - https://youtu.be/Z5A3vc6AucY
-  description: |-
-    Functional programming has moved from academic to must-know but with Setoid and Monoid Endofunctors, the barrier to entry is high. This talk dives into the whats and whys of functional programming, and showcasing how to use it to solve real-world problems.
+talks:
 
-- title: Building AR Apps with React Native
-  lang: en
-  type: regular
-  level: intermediate
-  time: 2018-08-31
-  room:
-  authors:
-    - name: Vladimir Novick
-      twitter: VladimirNovick
-      github:
-      website:
-  slides: 
-  - https://www.beautiful.ai/deck/-LKwMZNHA9Ok5S-xRt_J/Building-AR-Apps-Byteconf
-  videos:
-    - https://youtu.be/1GToikXnNaw
-  description: |-
-    With the release of ARKit and ARCore by Apple and Google we see various Augmented reality apps created for iOS and Android. Have you ever wondered how you can create such apps in React Native? In this talk we will see how it can be done fairly easily.
+  - title: 'Reactive Programming: The Solution to JavaScript Fatigue'
+    lang: en
+    type: regular
+    level: beginner
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Tracy Lee
+        twitter: ladyleet
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/ladyleet/reactive-programming-with-rxjs-byteconf-2018
+    videos:
+      - https://youtu.be/iyW9yMRMm4c
+    description: |-
+      Learn how to create a more composable application architecture and an arsenal of lego bricks with RxJS, a push based primitive and domain specific language that sits on top of JavaScript.
 
-- title: Confident React
-  lang: en
-  type: regular
-  level: beginner
-  time: 2018-08-31
-  room:
-  authors:
-    - name: Kent C. Dodds
-      twitter: kentcdodds
-      github:
-      website:
-  slides: 
-  - https://slides.com/kentcdodds/confident-react
-  videos:
-    - https://youtu.be/zGlnlP99aFk
-  description: |-
-    Let's rethink what it means to ship applications with confidence and what it takes to get there. With improved tools and practices, we can be more certain that what we're shipping to our users will work the way it's intended.
+  - title: Applying the science of habit formation to improve coding skills
+    lang: en
+    type: regular
+    level: beginner
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Alex Kallaway
+        twitter: ka11away
+        github:
+        website:
+    slides:
+    - https://s3.amazonaws.com/byteconf-production/react-2018/alex-kallaway.pdf
+    videos:
+      - https://youtu.be/kFjQAasFWUw
+    description: |-
+      In this talk we’ll explore practical tips and techniques of habit formation to achieve consistency and give special attention to the topic of conquering the inner demons of doubt and fear, dealing with stress and frustration. The goal is to achieve consistency of a professional over the motivational ‘seesaw’ of an amateur.
+
+  - title: 'Learning Backwards: Learning CS Through the Lens of React'
+    lang: en
+    type: regular
+    level: intermediate
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Kyle Shevlin
+        twitter: kyleshevlin
+        github:
+        website:
+    slides:
+    - http://kyleshevlin.github.io/learning-backwards
+    videos:
+      - https://youtu.be/0QdUsOSt60s
+    description: |-
+     So many devs join the industry from alternative pathways, and many missed out on a CS education because of it. That's awesome that people are diving in and making great stuff! Let's augment that skill and reach the next level by using what we know to learn some CS from React.
+
+  - title: Insights from building rich animated experiences in React
+    lang: en
+    type: regular
+    level: intermediate
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Jeremias Menichelli
+        twitter: jeremenichelli
+        github:
+        website:
+    slides:
+    - https://slides.com/jeremenichelli/rich-animated-experiences-react/
+    videos:
+      - https://youtu.be/S3u-ccn4PEM
+    description: |-
+      Have you ever wondered why good performance is so hard to achieve in heavy animated web applications? This talk is a practical retrospective on the discoveries, the pains and the journey that led me to build reliable bulletproof animations and transitions in real life production projects.
+
+  - title: Testing Big with BigTest in React
+    lang: en
+    type: regular
+    level: intermediate
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Robert DeLuca
+        twitter: robdel12
+        github:
+        website:
+    slides:
+    - https://speakerdeck.com/robdel12/testing-big-in-javascript
+    videos:
+      - https://youtu.be/w8a7Km9b6UI
+    description: |-
+      Full acceptance test suites that run in the browser are slow, flakey, awkward to write, and hard to maintain. This is the lore that has been handed down to JS developers for generations. But what if that was fiction? What if your UI tests were fast, robust, and a breeze to maintain?
+
+  - title: 'Dr Strangelove: or how I stopped worrying and learned to love higher order functions'
+    lang: en
+    type: regular
+    level: intermediate
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Tim Roberts
+        twitter: cirsca
+        github:
+        website:
+    slides:
+    - https://docs.google.com/presentation/d/1Vh03g-Xmb_emXJ0dNtsb7IFsO71GUPz6G8wCNYHUph0/edit#slide=id.g35f391192_04
+    videos:
+      - https://youtu.be/Z5A3vc6AucY
+    description: |-
+      Functional programming has moved from academic to must-know but with Setoid and Monoid Endofunctors, the barrier to entry is high. This talk dives into the whats and whys of functional programming, and showcasing how to use it to solve real-world problems.
+
+  - title: Building AR Apps with React Native
+    lang: en
+    type: regular
+    level: intermediate
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Vladimir Novick
+        twitter: VladimirNovick
+        github:
+        website:
+    slides:
+    - https://www.beautiful.ai/deck/-LKwMZNHA9Ok5S-xRt_J/Building-AR-Apps-Byteconf
+    videos:
+      - https://youtu.be/1GToikXnNaw
+    description: |-
+      With the release of ARKit and ARCore by Apple and Google we see various Augmented reality apps created for iOS and Android. Have you ever wondered how you can create such apps in React Native? In this talk we will see how it can be done fairly easily.
+
+  - title: Confident React
+    lang: en
+    type: regular
+    level: beginner
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Kent C. Dodds
+        twitter: kentcdodds
+        github:
+        website:
+    slides:
+    - https://slides.com/kentcdodds/confident-react
+    videos:
+      - https://youtu.be/zGlnlP99aFk
+    description: |-
+      Let's rethink what it means to ship applications with confidence and what it takes to get there. With improved tools and practices, we can be more certain that what we're shipping to our users will work the way it's intended.

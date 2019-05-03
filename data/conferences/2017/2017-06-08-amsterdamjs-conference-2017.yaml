@@ -1,366 +1,382 @@
-- title: JavaScript Is a Buffet, Not the Enemy
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Christian Heilmann
-      twitter: codepo8
-      github: codepo8
-      website: http://christianheilmann.com/
-  slides:
-  videos:
-  description: |-
-    When you look at the JavaScript world these days you can get disheartened.On the one side there is an overwhelming offer of things you should know.but are "considered harmful" by the time you have a chance to look at them.
+conference:
 
-- title: The Road to Web Performance in 3 Critical Steps
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Hernán Magrini
-      twitter: Hermagrini
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/iX1SZiYfR-4
+  name: AmsterdamJS Conference 2017
+  url: https://amsterdamjs.com/2017/
+  status: complete
+  date:
+    from: 2017-06-08
+    to: 2017-06-08
+  location:
+    country: Netherlands
+    city: Amsterdam
   description: |-
-    Assuming everyone uses the web with a 10 Mbps connection and a Macbook Pro it's rather utopian. At Udacity we have a daily traffic of millions of page views from people all around the globe and we always aim to serve the best experience possible even if you're browsing the sites with an old Android with a 3G connection. We'll see what critical steps we follow to make sure we are making our sites as fast as possible.
+    Taking our biggest and longest-running JavaScript community forward, we're adding a new event to our family - a full-day conference covering the latest and greatest news and insights from the global JavaScript network.Join us and a group of internationally known JavaScript enthusiasts to share inspiration and spend a great, summer day in one of the most unique Amsterdam locations.
 
-- title: Javascript @ Uber
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Dustin Whittle
-      twitter: dustinwhittle
-      github: dustinwhittle
-      website:
-  slides:
-  videos:
-    - https://youtu.be/JWFyH13_I3o
-  description: |-
-    Join this session for a deep dive on how Uber leverages javascript across its engineering orgs. From building frontend properties with a full javascript stack using express and react to the tools and infrastructure we use to automate best practices.
+talks:
 
-- title: V8 and How It Listens to You
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Michael Stanton
-      twitter: ripsawridge
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/u7zRSm8jzvA
-  description: |-
-    The JavaScript language gets ever more powerful, but more complex to implement and deliver good performance. V8 has a new compiler pipeline and a unified approach to collecting feedback about your application. I’ll explain how we do it and present some problems. For example, in complex systems, facile "solutions" often distort the environment in unexpected ways. Welcome to the jungle *__*.
+  - title: JavaScript Is a Buffet, Not the Enemy
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Christian Heilmann
+        twitter: codepo8
+        github: codepo8
+        website: http://christianheilmann.com/
+    slides:
+    videos:
+    description: |-
+      When you look at the JavaScript world these days you can get disheartened.On the one side there is an overwhelming offer of things you should know.but are "considered harmful" by the time you have a chance to look at them.
 
-- title: The Art of Keeping Your Application Safe
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Ingrid Epure
-      twitter: ingridepure
-      github: ingride
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Vf2ufzTxVd4
-  description: |-
-    Let's talk about security. We can all agree it is very important, however the general feeling about it is that it's a difficult and intimidating area to approach. Furthermore, is very often seen as something only backend-related, however front-end plays an important role as well.
+  - title: The Road to Web Performance in 3 Critical Steps
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Hernán Magrini
+        twitter: Hermagrini
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/iX1SZiYfR-4
+    description: |-
+      Assuming everyone uses the web with a 10 Mbps connection and a Macbook Pro it's rather utopian. At Udacity we have a daily traffic of millions of page views from people all around the globe and we always aim to serve the best experience possible even if you're browsing the sites with an old Android with a 3G connection. We'll see what critical steps we follow to make sure we are making our sites as fast as possible.
 
-- title: Browser Framework Fundamentals
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Yoshua Wuyts
-      twitter: yoshuawuyts
-      github: yoshuawuyts
-      website:
-  slides:
-  videos:
-  description: |-
-    Ok, let's try a thing. Close your eyes for a bit. No peeking. Now I want you to imagine the last time you wrote some browser code. Perhaps a component of sorts.
+  - title: Javascript @ Uber
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Dustin Whittle
+        twitter: dustinwhittle
+        github: dustinwhittle
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JWFyH13_I3o
+    description: |-
+      Join this session for a deep dive on how Uber leverages javascript across its engineering orgs. From building frontend properties with a full javascript stack using express and react to the tools and infrastructure we use to automate best practices.
 
-- title: Benefits of Virtual DOM
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Johan Gorter
-      twitter: JohanGorter
-      github: johan-gorter
-      website:
-  slides:
-  videos:
-    - https://youtu.be/RPtrlvHW_BU
-  description: |-
-    Virtual DOM is generally considered to give the best performance for web applications. How can this be given it is such an inefficient algorithm? I will give an overview of popular Virtual DOM implementations and I will introduce our Virtual DOM library, MaquetteJS. I will also show how Virtual DOM makes unit testing easy. I will demonstrate how we achieve 100% code coverage on all our visual components using fast-running NodeJS unit tests.
+  - title: V8 and How It Listens to You
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Michael Stanton
+        twitter: ripsawridge
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/u7zRSm8jzvA
+    description: |-
+      The JavaScript language gets ever more powerful, but more complex to implement and deliver good performance. V8 has a new compiler pipeline and a unified approach to collecting feedback about your application. I’ll explain how we do it and present some problems. For example, in complex systems, facile "solutions" often distort the environment in unexpected ways. Welcome to the jungle *__*.
 
-- title: Are Service Workers Draining My Battery?
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Ivano Malavolta
-      twitter: IMalavolta
-      github: iivanoo
-      website:
-  slides:
-  videos:
-    - https://youtu.be/uxWCe0cxNUA
-  description: |-
-    Mobile web apps represent a large share of the Internet today. However, they still lag behind native apps in terms of user experience. Progressive Web Apps (PWAs) are a new technology introduced by Google that aims at bridging this gap, with a set of APIs known as service workers at its core. In this talk Ivano presents an empirical study that evaluates the impact of service workers on the energy efficiency of PWAs, when operating in different network conditions on two different generations of mobile devices. This talk presents the results of the first empirical investigation on PWAs, showing that the PWA and service workers technology is promising in terms of energy efficiency.
+  - title: The Art of Keeping Your Application Safe
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Ingrid Epure
+        twitter: ingridepure
+        github: ingride
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Vf2ufzTxVd4
+    description: |-
+      Let's talk about security. We can all agree it is very important, however the general feeling about it is that it's a difficult and intimidating area to approach. Furthermore, is very often seen as something only backend-related, however front-end plays an important role as well.
 
-- title: Changing Live Audio with the Web-Audio-Api
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Sam Bellen
-      twitter: sambego
-      github: Sambego
-      website:
-  slides:
-  videos:
-    - https://youtu.be/RHjQeGZPJQk
-  description: |-
-    As a guitar player, I usually use some effect-pedals to change the sound of my guitar. I started wondering: “What if, it would be possible to recreate these pedals using the web-audio-api?”
+  - title: Browser Framework Fundamentals
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Yoshua Wuyts
+        twitter: yoshuawuyts
+        github: yoshuawuyts
+        website:
+    slides:
+    videos:
+    description: |-
+      Ok, let's try a thing. Close your eyes for a bit. No peeking. Now I want you to imagine the last time you wrote some browser code. Perhaps a component of sorts.
 
-- title: Automating Front-End Refactoring
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Ahmed El Gabri
-      twitter: AhmedElGabri
-      github: ahmedelgabri
-      website:
-  slides:
-  videos:
-    - https://youtu.be/xGjSMbks9vA
-  description: |-
-    Refactoring or changing an API of a lib you maintain might not be a fun task. But sometimes it is required. If you are going to do it anyway, you don't want to do this manually anyway. So with the power of ASTs & codemods you can automate this & have confidence in the result.
+  - title: Benefits of Virtual DOM
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Johan Gorter
+        twitter: JohanGorter
+        github: johan-gorter
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RPtrlvHW_BU
+    description: |-
+      Virtual DOM is generally considered to give the best performance for web applications. How can this be given it is such an inefficient algorithm? I will give an overview of popular Virtual DOM implementations and I will introduce our Virtual DOM library, MaquetteJS. I will also show how Virtual DOM makes unit testing easy. I will demonstrate how we achieve 100% code coverage on all our visual components using fast-running NodeJS unit tests.
 
-- title: WebAssembly - the Final Frontier
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Albert Brand
-      twitter: al_bert_brand
-      github: AlbertBrand
-      website:
-  slides:
-  videos:
-    - https://youtu.be/2RdLSHVd9eE
-  description: |-
-    The new kid on the block in browser land is WebAssembly. It allows precompiled code to run at native speed, connected via JavaScript to your browser. But how does it work? What are the (dis)advantages? Can we optimise our SPA with it? With many examples, I will talk you through the setup, pitfalls and rough edges.
+  - title: Are Service Workers Draining My Battery?
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Ivano Malavolta
+        twitter: IMalavolta
+        github: iivanoo
+        website:
+    slides:
+    videos:
+      - https://youtu.be/uxWCe0cxNUA
+    description: |-
+      Mobile web apps represent a large share of the Internet today. However, they still lag behind native apps in terms of user experience. Progressive Web Apps (PWAs) are a new technology introduced by Google that aims at bridging this gap, with a set of APIs known as service workers at its core. In this talk Ivano presents an empirical study that evaluates the impact of service workers on the energy efficiency of PWAs, when operating in different network conditions on two different generations of mobile devices. This talk presents the results of the first empirical investigation on PWAs, showing that the PWA and service workers technology is promising in terms of energy efficiency.
 
-- title: WebGL Practical Application
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Vasilika Klimova
-      twitter: Lik04ka
-      github: Likita
-      website:
-  slides:
-  videos:
-    - https://youtu.be/WLjv_j9hvEE
-  description: |-
-    WebGL it's not so scary and difficult as many people think. Let`s have a quick tour over WebGL nature and ecosystem.
+  - title: Changing Live Audio with the Web-Audio-Api
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Sam Bellen
+        twitter: sambego
+        github: Sambego
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RHjQeGZPJQk
+    description: |-
+      As a guitar player, I usually use some effect-pedals to change the sound of my guitar. I started wondering: “What if, it would be possible to recreate these pedals using the web-audio-api?”
 
-- title: RxJS All Things
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Simona Cotin
-      twitter: simona_cotin
-      github: simonaco
-      website:
-  slides:
-  videos:
-    - https://youtu.be/5uofP1T4R1I
-  description: |-
-    Managing state in large application applications is hard. Managing async behavior is even harder. Let's talk about why reactive programming is awesome and how it can help with managing complexity, data and scaling your applications. Also, remember the callback hell?! Well, we once have been PROMISED that all will be good. And guess what, we OBSERVED we can do better. Let's deep dive into how observables are much better than promises.
+  - title: Automating Front-End Refactoring
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Ahmed El Gabri
+        twitter: AhmedElGabri
+        github: ahmedelgabri
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xGjSMbks9vA
+    description: |-
+      Refactoring or changing an API of a lib you maintain might not be a fun task. But sometimes it is required. If you are going to do it anyway, you don't want to do this manually anyway. So with the power of ASTs & codemods you can automate this & have confidence in the result.
 
-- title: Makepad - Rethinking Web UI's with WebGL
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Rik Arends
-      twitter: rikarends
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Xr6dtXw0Ipg
-  description: |-
-    This talk is about makepad (http://makepad.github.io), an experimental livecoding environment which renders every UI pixel using webGL and runs multithreaded. Makepad compiles JS to run on the GPU which opens up many powerful angles to styling and datavisualisation. In this talk i will showcase the editor, rendering architecture and goals of Makepad: find the fun of programming.
+  - title: WebAssembly - the Final Frontier
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Albert Brand
+        twitter: al_bert_brand
+        github: AlbertBrand
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2RdLSHVd9eE
+    description: |-
+      The new kid on the block in browser land is WebAssembly. It allows precompiled code to run at native speed, connected via JavaScript to your browser. But how does it work? What are the (dis)advantages? Can we optimise our SPA with it? With many examples, I will talk you through the setup, pitfalls and rough edges.
 
-- title: Porting Web SDK from JS into TS
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Grigory Petrov
-      twitter: grigoryvp
-      github: grigoryvp
-      website:
-  slides:
-  videos:
-    - https://youtu.be/E-oeGx71dxo
-  description: |-
-    Typescript was warmly welcomed with all our developers from C++, Java and C# background. So it was only a question of time for our public JavaScript SDK to be completely rewritten in Typescript from scratch. In my talk I will focus on good and bad things that we experienced during development, and will tell how our initial thoughts played out.
+  - title: WebGL Practical Application
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Vasilika Klimova
+        twitter: Lik04ka
+        github: Likita
+        website:
+    slides:
+    videos:
+      - https://youtu.be/WLjv_j9hvEE
+    description: |-
+      WebGL it's not so scary and difficult as many people think. Let`s have a quick tour over WebGL nature and ecosystem.
 
-- title: A Journey From Web to VR
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Denis Radin
-      twitter: PixelsCommander
-      github: PixelsCommander
-      website:
-  slides:
-  videos:
-  description: |-
-    Virtual Reality is a powerful trend which is not that related to front-end development so far, however it would be beneficial for both technologies to have a possibility to put existing Web applications into virtual worlds.
+  - title: RxJS All Things
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Simona Cotin
+        twitter: simona_cotin
+        github: simonaco
+        website:
+    slides:
+    videos:
+      - https://youtu.be/5uofP1T4R1I
+    description: |-
+      Managing state in large application applications is hard. Managing async behavior is even harder. Let's talk about why reactive programming is awesome and how it can help with managing complexity, data and scaling your applications. Also, remember the callback hell?! Well, we once have been PROMISED that all will be good. And guess what, we OBSERVED we can do better. Let's deep dive into how observables are much better than promises.
 
-- title: Why You Should Care About Docker
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Ádám Sándor
-      twitter: adamsand0r
-      github: adam-sandor
-      website:
-  slides:
-  videos:
-    - https://youtu.be/UlzWCWP8Bgo
-  description: |-
-    Creating a stable and reproducible development environment can be a hassle. The more components you have the less feasible it becomes to run them all together on your laptop. Using Vagrant helps with reproducibility and isolation but putting all components on a single VM is very different from the way they will run in production. Docker comes to the rescue with lightweight containers that isolate each application component with minimal overhead.
+  - title: Makepad - Rethinking Web UI's with WebGL
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Rik Arends
+        twitter: rikarends
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Xr6dtXw0Ipg
+    description: |-
+      This talk is about makepad (http://makepad.github.io), an experimental livecoding environment which renders every UI pixel using webGL and runs multithreaded. Makepad compiles JS to run on the GPU which opens up many powerful angles to styling and datavisualisation. In this talk i will showcase the editor, rendering architecture and goals of Makepad: find the fun of programming.
 
-- title: The Hitchhiker's Guide to the Serverless Galaxy
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Slobodan Stojanovic
-      twitter: slobodan_
-      github: stojanovic
-      website:
-  slides:
-  videos:
-    - https://youtu.be/FbjZZTawzIU
-  description: |-
-    What is Serverless, how it works and why are people talking about it? How many servers are there in Serverless computing? But most important of all, how and why Serverless can be important for you?Don’t panic! This talk will take you to the journey through the Serverless Galaxy with Node.js.
+  - title: Porting Web SDK from JS into TS
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Grigory Petrov
+        twitter: grigoryvp
+        github: grigoryvp
+        website:
+    slides:
+    videos:
+      - https://youtu.be/E-oeGx71dxo
+    description: |-
+      Typescript was warmly welcomed with all our developers from C++, Java and C# background. So it was only a question of time for our public JavaScript SDK to be completely rewritten in Typescript from scratch. In my talk I will focus on good and bad things that we experienced during development, and will tell how our initial thoughts played out.
 
-- title: Doctor Wombat
-  lang: en
-  type: lightning
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Daijirō Wachi
-      twitter: watilde
-      github: watilde
-      website:
-  slides:
-  videos:
-  description: |-
-    In the global OSS community, it often takes a time to solve users' problems, due to the differences of the time, language, environment and something the other things. The important thing in order not to waste time is to reduce the number of conversational balls at the issue thread. Daijiro will explain what we can do for them by referring to localization communities, tools, and npm doctor.
+  - title: A Journey From Web to VR
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Denis Radin
+        twitter: PixelsCommander
+        github: PixelsCommander
+        website:
+    slides:
+    videos:
+    description: |-
+      Virtual Reality is a powerful trend which is not that related to front-end development so far, however it would be beneficial for both technologies to have a possibility to put existing Web applications into virtual worlds.
 
-- title: Using Custom Vision API to make your own vision intelligence application
-  lang: en
-  type: lightning
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Bart Jansen
-      twitter: bartjansn
-      github: bart-jansen
-      website:
-  slides:
-  videos:
-  description: |-
-    Not a Data Scientist, still a JavaScript enthusiast? You are in luck: I’ll be demoing a web application built on top of Microsoft’s new Custom Vision API. It allows you to train your images either programmatically or via a GUI, and with those REST endpoints you can easily add Artificial Intelligence to your (web) application.
+  - title: Why You Should Care About Docker
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Ádám Sándor
+        twitter: adamsand0r
+        github: adam-sandor
+        website:
+    slides:
+    videos:
+      - https://youtu.be/UlzWCWP8Bgo
+    description: |-
+      Creating a stable and reproducible development environment can be a hassle. The more components you have the less feasible it becomes to run them all together on your laptop. Using Vagrant helps with reproducibility and isolation but putting all components on a single VM is very different from the way they will run in production. Docker comes to the rescue with lightweight containers that isolate each application component with minimal overhead.
 
-- title: Taming the async flow
-  lang: en
-  type: lightning
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Roman Melnyk
-      twitter:
-      github: rom-melnyk
-      website:
-  slides:
-  videos:
-  description: |-
-    The asynchronousity is inevitable. Managing async things might be messy as we don’t know neither when nor even whether the async action takes place.There are a lot of techniques for handling asyncronousity. Let’s align them and point out the main principles of designing the async data flow. Respecting these principles won’t make you spend weekends debugging.
+  - title: The Hitchhiker's Guide to the Serverless Galaxy
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Slobodan Stojanovic
+        twitter: slobodan_
+        github: stojanovic
+        website:
+    slides:
+    videos:
+      - https://youtu.be/FbjZZTawzIU
+    description: |-
+      What is Serverless, how it works and why are people talking about it? How many servers are there in Serverless computing? But most important of all, how and why Serverless can be important for you?Don’t panic! This talk will take you to the journey through the Serverless Galaxy with Node.js.
 
-- title: Space as a Service, in JS
-  lang: en
-  type: lightning
-  level:
-  time: 2017-06-08
-  room:
-  authors:
-    - name: Ville Himberg
-      twitter: vhimberg
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
-    JavaScript will be a space grade technology and run in the Hello World satellite that we are launching.
+  - title: Doctor Wombat
+    lang: en
+    type: lightning
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Daijirō Wachi
+        twitter: watilde
+        github: watilde
+        website:
+    slides:
+    videos:
+    description: |-
+      In the global OSS community, it often takes a time to solve users' problems, due to the differences of the time, language, environment and something the other things. The important thing in order not to waste time is to reduce the number of conversational balls at the issue thread. Daijiro will explain what we can do for them by referring to localization communities, tools, and npm doctor.
+
+  - title: Using Custom Vision API to make your own vision intelligence application
+    lang: en
+    type: lightning
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Bart Jansen
+        twitter: bartjansn
+        github: bart-jansen
+        website:
+    slides:
+    videos:
+    description: |-
+      Not a Data Scientist, still a JavaScript enthusiast? You are in luck: I’ll be demoing a web application built on top of Microsoft’s new Custom Vision API. It allows you to train your images either programmatically or via a GUI, and with those REST endpoints you can easily add Artificial Intelligence to your (web) application.
+
+  - title: Taming the async flow
+    lang: en
+    type: lightning
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Roman Melnyk
+        twitter:
+        github: rom-melnyk
+        website:
+    slides:
+    videos:
+    description: |-
+      The asynchronousity is inevitable. Managing async things might be messy as we don’t know neither when nor even whether the async action takes place.There are a lot of techniques for handling asyncronousity. Let’s align them and point out the main principles of designing the async data flow. Respecting these principles won’t make you spend weekends debugging.
+
+  - title: Space as a Service, in JS
+    lang: en
+    type: lightning
+    level:
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Ville Himberg
+        twitter: vhimberg
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      JavaScript will be a space grade technology and run in the Hello World satellite that we are launching.

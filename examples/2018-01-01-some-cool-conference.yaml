@@ -1,17 +1,33 @@
-- title: How to XYZ # Mandatory
-  lang: en # Mandatory, ISO 639-1 language code in lowercase
-  type: regular # Mandatory, [regular, lightning, workshop]
-  level: beginner # [beginner, intermediate, advanced]
-  time: 2018-09-03 09:30:00 # Mandatory, 2018-09-03 or 2018-09-03 09:30:00
-  room: # Room number or room name
-  authors:
-    - name: John Doe
-      twitter: johndoe
-      github: johndoe
-      website: https://www.johndoe.io/ # Must include http:// or https://
-  slides: # Array of slides
-    - https://www.slideshare.net/lemiorhan/ethics-in-software-development
-  videos: # Array of videos
-    - https://youtu.be/Vhh_GeBPOhs # Format: https://youtu.be/XYZ, https://vimeo.com/123 or an arbitrary URL for other services
-  description: |- # One line only
-    This talk will explain how XYZ can…
+conference:
+
+  name: Awesome Conference
+  url: https://www.awesome-conf.com/
+  status: complete # [complete, incomplete] - might be marked as complete after videos are added
+  date:
+    from: 2018-01-01
+    to: 2018-01-05
+  location:
+    country: Spain
+    city: Barcelona
+  description: |-
+    Awesome Conference is a week-long, language-agnostic conference for curious developers that…
+
+talks:
+
+  - title: How to XYZ # Mandatory
+    lang: en # Mandatory, ISO 639-1 language code in lowercase
+    type: regular # Mandatory, [regular, lightning, workshop]
+    level: beginner # [beginner, intermediate, advanced]
+    time: 2018-09-03 09:30:00 # Mandatory, 2018-09-03 or 2018-09-03 09:30:00
+    room: # Room number or room name
+    authors:
+      - name: John Doe
+        twitter: johndoe
+        github: johndoe
+        website: https://www.johndoe.io/ # Must include http:// or https://
+    slides: # Array of slides
+      - https://www.slideshare.net/lemiorhan/ethics-in-software-development
+    videos: # Array of videos
+      - https://youtu.be/Vhh_GeBPOhs # Format: https://youtu.be/XYZ, https://vimeo.com/123 or an arbitrary URL for other services
+    description: |- # One line only
+      This talk will explain how XYZ can…

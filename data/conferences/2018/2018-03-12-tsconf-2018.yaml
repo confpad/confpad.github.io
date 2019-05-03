@@ -1,159 +1,175 @@
-- title: Opening Remarks
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-12
-  room:
-  authors:
-    - name: Anders Hejlsberg
-      twitter: ahejlsberg
-      github: ahejlsberg
-      website:
-  slides:
-  videos:
-    - https://youtu.be/wpgKd-rwnMw
-  description: |-
+conference:
 
-- title: Building StencilJS with TypeScript
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-12
-  room:
-  authors:
-    - name: Josh Thomas
-      twitter: jthoms1
-      github: jthoms1
-      website:
-  slides:
-  videos:
-    - https://youtu.be/LBv07i-Wim8
+  name: TSConf 2018
+  url: https://tsconf.io/2018/
+  status: complete
+  date:
+    from: 2018-03-12
+    to: 2018-03-12
+  location:
+    country: United States
+    city: Seattle, WA
   description: |-
+    The first conference ever focused completely on TypeScript! Beyond the typical introduction to TypeScript talk, we’ll spend the day discussing best practices and advanced features of the language, including information from key members of the TypeScript team. All in an informal and fun environment!
 
-- title: 'Escape the Office: Designing Interfaces for Other Developers'
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-12
-  room:
-  authors:
-    - name: Sarah Higley
-      twitter: codingchaos
-      github: smhigley
-      website:
-  slides:
-  videos:
-    - https://youtu.be/zuhxOFTeWos
-  description: |-
+talks:
 
-- title: End-to-End Type Safety with Swagger and TypeScript
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-12
-  room:
-  authors:
-    - name: Mohsen Azimi
-      twitter: mohsen____
-      github: mohsen1
-      website:
-  slides:
-  videos:
-    - https://youtu.be/u-7lcjnzZu4
-  description: |-
+  - title: Opening Remarks
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-12
+    room:
+    authors:
+      - name: Anders Hejlsberg
+        twitter: ahejlsberg
+        github: ahejlsberg
+        website:
+    slides:
+    videos:
+      - https://youtu.be/wpgKd-rwnMw
+    description: |-
 
-- title: TypeScript at Google
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-12
-  room:
-  authors:
-    - name: Bowen Ni
-      twitter:
-      github: bowenni
-      website:
-    - name: Radoslav Kirov
-      twitter: radokirov
-      github: rkirov
-      website:
-  slides:
-  videos:
-    - https://youtu.be/sjov1k5jexA
-  description: |-
+  - title: Building StencilJS with TypeScript
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-12
+    room:
+    authors:
+      - name: Josh Thomas
+        twitter: jthoms1
+        github: jthoms1
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LBv07i-Wim8
+    description: |-
 
-- title: 'Reclaiming your sanity: Webpack and Ethereum smart contracts with Typescript'
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-12
-  room:
-  authors:
-    - name: Devon Zuegel
-      twitter: devonzuegel
-      github: devonzuegel
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ePfD8FC2Nks
-  description: |-
+  - title: 'Escape the Office: Designing Interfaces for Other Developers'
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-12
+    room:
+    authors:
+      - name: Sarah Higley
+        twitter: codingchaos
+        github: smhigley
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zuhxOFTeWos
+    description: |-
 
-- title: 'When Cross-Platform Is An Understatement: Making Weird Physical Games With TypeScript'
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-12
-  room:
-  authors:
-    - name: Mike Lazer-Walker
-      twitter: lazerwalker
-      github: lazerwalker
-      website:
-  slides:
-  videos:
-    - https://youtu.be/OY5K4Wdsnpg
-  description: |-
+  - title: End-to-End Type Safety with Swagger and TypeScript
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-12
+    room:
+    authors:
+      - name: Mohsen Azimi
+        twitter: mohsen____
+        github: mohsen1
+        website:
+    slides:
+    videos:
+      - https://youtu.be/u-7lcjnzZu4
+    description: |-
 
-- title: Static Analysis and Source Code Manipulation in TypeScript
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-12
-  room:
-  authors:
-    - name: David Sherret
-      twitter: davidsherret
-      github: dsherret
-      website:
-  slides:
-  videos:
-    - https://youtu.be/CTpKZgy0dpo
-  description: |-
+  - title: TypeScript at Google
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-12
+    room:
+    authors:
+      - name: Bowen Ni
+        twitter:
+        github: bowenni
+        website:
+      - name: Radoslav Kirov
+        twitter: radokirov
+        github: rkirov
+        website:
+    slides:
+    videos:
+      - https://youtu.be/sjov1k5jexA
+    description: |-
 
-- title: TalkScript with the TypeScript Team
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-12
-  room:
-  authors:
-    - name: Daniel Rosenwasser
-      twitter: drosenwasser
-      github: DanielRosenwasser
-      website:
-    - name: Mohamed Hegazy
-      twitter:
-      github: mhegazy
-      website:
-    - name: Ryan Cavanaugh
-      twitter: SeaRyanC
-      github: RyanCavanaugh
-      website:
-    - name: Anders Hejlsberg
-      twitter: ahejlsberg
-      github: ahejlsberg
-      website:
-  slides:
-  videos:
-    - https://youtu.be/MxB0ldQfvT4
-  description: |-
+  - title: 'Reclaiming your sanity: Webpack and Ethereum smart contracts with Typescript'
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-12
+    room:
+    authors:
+      - name: Devon Zuegel
+        twitter: devonzuegel
+        github: devonzuegel
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ePfD8FC2Nks
+    description: |-
+
+  - title: 'When Cross-Platform Is An Understatement: Making Weird Physical Games With TypeScript'
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-12
+    room:
+    authors:
+      - name: Mike Lazer-Walker
+        twitter: lazerwalker
+        github: lazerwalker
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OY5K4Wdsnpg
+    description: |-
+
+  - title: Static Analysis and Source Code Manipulation in TypeScript
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-12
+    room:
+    authors:
+      - name: David Sherret
+        twitter: davidsherret
+        github: dsherret
+        website:
+    slides:
+    videos:
+      - https://youtu.be/CTpKZgy0dpo
+    description: |-
+
+  - title: TalkScript with the TypeScript Team
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-12
+    room:
+    authors:
+      - name: Daniel Rosenwasser
+        twitter: drosenwasser
+        github: DanielRosenwasser
+        website:
+      - name: Mohamed Hegazy
+        twitter:
+        github: mhegazy
+        website:
+      - name: Ryan Cavanaugh
+        twitter: SeaRyanC
+        github: RyanCavanaugh
+        website:
+      - name: Anders Hejlsberg
+        twitter: ahejlsberg
+        github: ahejlsberg
+        website:
+    slides:
+    videos:
+      - https://youtu.be/MxB0ldQfvT4
+    description: |-

@@ -1,220 +1,236 @@
-- title: Keynote, Progressive Web Apps
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-19
-  room:
-  authors:
-    - name: Christian Heilmann
-      twitter: codepo8
-      github: codepo8
-      website:
-  slides:
-  videos:
-    - https://youtu.be/QOKWDAQSS_w
-  description: |-
-    Chris Heilmann has dedicated a lot of his time making the web better. Originally coming from a radio journalism background, he built his first web site from scratch around 1997 and spent the following years working on lots of large, international web sites. He then spent a few years in Yahoo building products and explaining and training people including Yahoo Answers, Search, Local and Maps. He then worked at Mozilla moving HTML5 support forward and advocating Firefox OS as an open alternative to closed mobile systems. Chris wrote two and contributed to eight books on web development and wrote many articles and hundreds of blog posts for Ajaxian, Smashing Magazine, Yahoo, Mozilla, ScriptJunkie and many more. He also wrote the Developer Evangelism Handbook in use in many companies to coach evangelists. He is currently working with the Microsoft Edge team as a Program Manager for Developer Outreach
+conference:
 
-- title: Async Functions Awaiting You
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-19
-  room:
-  authors:
-    - name: Tomasz Ducin
-      twitter: tomasz_ducin
-      github: ducin
-      website:
-  slides:
-  videos:
-    - https://youtu.be/IYikhsDVvic
+  name: JSPoland Conf 2017
+  url: https://js-poland.pl/2017/
+  status: complete
+  date:
+    from: 2017-06-18
+    to: 2017-06-18
+  location:
+    country: Poland
+    city: Warsaw
   description: |-
-    Tomek is an advocate of modern JavaScript solutions. Experienced in both frontend and backend, he's keen on designing interfaces and APIs for long-living enterprise systems. Tomek aims to provide a truly scalable architecture, solving both technical and organisational issues. He considers software development as a challenge of creating small and maintainable pieces of code that provide big business profit. Tomek has been working for financial, data analysis and ITIL sectors, currently working at Ivanti. He regularly speaks at conferences and does trainings on JavaScript and JS-related technologies.Farewell callback hell, farewell promise chaining... the most awaited upcoming feature of ES8, async await, is taking async JavaScript by storm. Let's code async processes in a more readable, concise and extensible manner. During this talk we'll discuss the fundamentals: promises, generators and coroutines - and introduce async await. We'll have sequential and parallel processing explained, along with most common usecases - and gotchas. After this talk you'll never say that generators scare you or that async await is complicated - expect to find them simple.
+    JS Poland is a friendly conference where everyone should feel welcome, safe and comfortable to share ideas and engage in open discussion without threat of intimidation or public embarrassment.
 
-- title: Functional Reactive Programming with Cycle.js
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-19
-  room:
-  authors:
-    - name: luca mezzalira
-      twitter: lucamezzalira
-      github: lucamezzalira
-      website:
-  slides:
-  videos:
-    - https://youtu.be/LRetT6Y-gVk
-  description: |-
-    Reactive Programming will be the next hot topic of this decade, understanding now how this paradigm works and when to use it will grant you great benefits for your asynchronous applications. In this talk I’ll introduce you to what Reactive Programming is guiding you trough this new dimension simplifying the learning curve and providing a real example to analyse during the talk and also after it. I’ll show how Model View Intent architecture works in order to structure your front end reactive applications with Cycle.JS
+talks:
 
-- title: Demystified Angular Directives
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-19
-  room:
-  authors:
-    - name: Nir Kaufman
-      twitter: nirkaufman
-      github: nirkaufman
-      website:
-  slides:
-  videos:
-    - https://youtu.be/bVyw2njDoZw
-  description: |-
-    Directives are probably the most powerful feature of Angular. If you really want to learn how to develop your own directives, you need to understand what’s going on behind the scenes. Through this session we will reimplement some of Angular core directives by live coding them from scratch.
+  - title: Keynote, Progressive Web Apps
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-19
+    room:
+    authors:
+      - name: Christian Heilmann
+        twitter: codepo8
+        github: codepo8
+        website:
+    slides:
+    videos:
+      - https://youtu.be/QOKWDAQSS_w
+    description: |-
+      Chris Heilmann has dedicated a lot of his time making the web better. Originally coming from a radio journalism background, he built his first web site from scratch around 1997 and spent the following years working on lots of large, international web sites. He then spent a few years in Yahoo building products and explaining and training people including Yahoo Answers, Search, Local and Maps. He then worked at Mozilla moving HTML5 support forward and advocating Firefox OS as an open alternative to closed mobile systems. Chris wrote two and contributed to eight books on web development and wrote many articles and hundreds of blog posts for Ajaxian, Smashing Magazine, Yahoo, Mozilla, ScriptJunkie and many more. He also wrote the Developer Evangelism Handbook in use in many companies to coach evangelists. He is currently working with the Microsoft Edge team as a Program Manager for Developer Outreach
 
-- title: Let the dinosaurs finally die out with a little help of a Service Work
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-19
-  room:
-  authors:
-    - name: Kacper Sokołowski
-      twitter: kaapa_s
-      github: kacper-sokolowski
-      website:
-  slides:
-  videos:
-    - https://youtu.be/TWE09RIn0rU
-  description: |-
-    The front-end landscape changes very rapidly nowadays. Problems the developers had to face one year ago may not be present anymore. The development of libs, frameworks and tooling made dev's lives so much easier. However, there is still one unresolved ancient problem. It's dinosaurs and by dinosaurs, I mean the lack or the problem with the Internet connection. My talk is about explaining what Service Worker is and how to utilise its features to create applications which can run without the Internet connection. I'll show you how, with a little help of a Service Worker, add offline capabilities to the old-fashioned online store application for the increased user engagement and higher profits. And of course, to let the dinosaurs finally die out!
+  - title: Async Functions Awaiting You
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-19
+    room:
+    authors:
+      - name: Tomasz Ducin
+        twitter: tomasz_ducin
+        github: ducin
+        website:
+    slides:
+    videos:
+      - https://youtu.be/IYikhsDVvic
+    description: |-
+      Tomek is an advocate of modern JavaScript solutions. Experienced in both frontend and backend, he's keen on designing interfaces and APIs for long-living enterprise systems. Tomek aims to provide a truly scalable architecture, solving both technical and organisational issues. He considers software development as a challenge of creating small and maintainable pieces of code that provide big business profit. Tomek has been working for financial, data analysis and ITIL sectors, currently working at Ivanti. He regularly speaks at conferences and does trainings on JavaScript and JS-related technologies.Farewell callback hell, farewell promise chaining... the most awaited upcoming feature of ES8, async await, is taking async JavaScript by storm. Let's code async processes in a more readable, concise and extensible manner. During this talk we'll discuss the fundamentals: promises, generators and coroutines - and introduce async await. We'll have sequential and parallel processing explained, along with most common usecases - and gotchas. After this talk you'll never say that generators scare you or that async await is complicated - expect to find them simple.
 
-- title: Progressive Web Apps with Angular and Firebase
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-19
-  room:
-  authors:
-    - name: Erik Haddad
-      twitter: erikhaddad
-      github: erikhaddad
-      website:
-  slides:
-  videos:
-    - https://youtu.be/TA0lEA3qB0M
-  description: |-
-    Angular is a cross-platform solution for building powerful apps and supports Progressive Web Apps out of the box. Firebase gives you the tools and infrastructure you need to build better apps and grow successful businesses. Learn how Angular and Firebase tools enable you to increase app engagement with faster loads, offline access, authentication, data/media storage, serverless operations, push notifications, and more, through the progressive enhancement of your mobile web apps.
+  - title: Functional Reactive Programming with Cycle.js
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-19
+    room:
+    authors:
+      - name: luca mezzalira
+        twitter: lucamezzalira
+        github: lucamezzalira
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LRetT6Y-gVk
+    description: |-
+      Reactive Programming will be the next hot topic of this decade, understanding now how this paradigm works and when to use it will grant you great benefits for your asynchronous applications. In this talk I’ll introduce you to what Reactive Programming is guiding you trough this new dimension simplifying the learning curve and providing a real example to analyse during the talk and also after it. I’ll show how Model View Intent architecture works in order to structure your front end reactive applications with Cycle.JS
 
-- title: React Native - Success case study
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-19
-  room:
-  authors:
-    - name: Gabor Wnuk
-      twitter: gaborwnuk
-      github: GaborWnuk
-      website:
-  slides:
-  videos:
-    - https://youtu.be/UopwYgGtvlA
-  description: |-
-    For the last 12 months we've been experimenting with cross platform solutions with moderate success until we've researched React Native, and boy oh boy has it been worth it. During the talk i will explain what difficulties we've been facing and how React Rative could hugely accelerate your development.
+  - title: Demystified Angular Directives
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-19
+    room:
+    authors:
+      - name: Nir Kaufman
+        twitter: nirkaufman
+        github: nirkaufman
+        website:
+    slides:
+    videos:
+      - https://youtu.be/bVyw2njDoZw
+    description: |-
+      Directives are probably the most powerful feature of Angular. If you really want to learn how to develop your own directives, you need to understand what’s going on behind the scenes. Through this session we will reimplement some of Angular core directives by live coding them from scratch.
 
-- title: Keep your skills sharp! Developer career in rapidly changing technology world.
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-19
-  room:
-  authors:
-    - name: Michał Nowak
-      twitter: wicherrr
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/9sEZzEiS5j8
-  description: |-
-    Developer career in rapidly changing technology world. How to land in a good place many years from now? Michał shares some thoughts after reading thousands of CVs, doing hundreds of recruitments and from his personal life.
+  - title: Let the dinosaurs finally die out with a little help of a Service Work
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-19
+    room:
+    authors:
+      - name: Kacper Sokołowski
+        twitter: kaapa_s
+        github: kacper-sokolowski
+        website:
+    slides:
+    videos:
+      - https://youtu.be/TWE09RIn0rU
+    description: |-
+      The front-end landscape changes very rapidly nowadays. Problems the developers had to face one year ago may not be present anymore. The development of libs, frameworks and tooling made dev's lives so much easier. However, there is still one unresolved ancient problem. It's dinosaurs and by dinosaurs, I mean the lack or the problem with the Internet connection. My talk is about explaining what Service Worker is and how to utilise its features to create applications which can run without the Internet connection. I'll show you how, with a little help of a Service Worker, add offline capabilities to the old-fashioned online store application for the increased user engagement and higher profits. And of course, to let the dinosaurs finally die out!
 
-- title: The Mobile Web Second Edition" First-Class Citizen on Your Device Now"
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-19
-  room:
-  authors:
-    - name: Maxim Salnikov
-      twitter: webmaxru
-      github: webmaxru
-      website:
-  slides:
-  videos:
-    - https://youtu.be/jf_VswTr9l4
-  description: |-
-    They are so similar: Web and Mobile apps. What a nice option to use our web development experience (JavaScript, to be specific) to create cross-platform native-like applications. Is it that simple? What are the pros and cons of mobile web VS native? What is the difference between hybrid mobile apps, progressive web apps and JavaScript-compiled-to-native ones? Let's find the answers together! Attendees will get an overview of modern concepts for building web-based mobile applications, pros and cons from tech and business sides. Bonus: some practical advices on when to go for this option. For the each option I'll give advantages/disadvantages from both tech and business points of view so both developers and managers will get a big picture of today's (and tomorrow's) possibilities of the mentioned concept.
+  - title: Progressive Web Apps with Angular and Firebase
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-19
+    room:
+    authors:
+      - name: Erik Haddad
+        twitter: erikhaddad
+        github: erikhaddad
+        website:
+    slides:
+    videos:
+      - https://youtu.be/TA0lEA3qB0M
+    description: |-
+      Angular is a cross-platform solution for building powerful apps and supports Progressive Web Apps out of the box. Firebase gives you the tools and infrastructure you need to build better apps and grow successful businesses. Learn how Angular and Firebase tools enable you to increase app engagement with faster loads, offline access, authentication, data/media storage, serverless operations, push notifications, and more, through the progressive enhancement of your mobile web apps.
 
-- title: RxJS all things!
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-19
-  room:
-  authors:
-    - name: Simona Cotin
-      twitter: simona_cotin
-      github: simonaco
-      website:
-  slides:
-  videos:
-    - https://youtu.be/B9IfUjniyNs
-  description: |-
-    Managing state in large application applications is hard. Managing async behavior is even harder. Let's talk about why reactive programming is awesome and how it can help with managing complexity, data and scaling your applications. Also, remember the callback hell?! Well, we once have been PROMISED that all will be good. And guess what, we OBSERVED we can do better. Let's deep dive into how observables are much better than promises.
+  - title: React Native - Success case study
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-19
+    room:
+    authors:
+      - name: Gabor Wnuk
+        twitter: gaborwnuk
+        github: GaborWnuk
+        website:
+    slides:
+    videos:
+      - https://youtu.be/UopwYgGtvlA
+    description: |-
+      For the last 12 months we've been experimenting with cross platform solutions with moderate success until we've researched React Native, and boy oh boy has it been worth it. During the talk i will explain what difficulties we've been facing and how React Rative could hugely accelerate your development.
 
-- title: DevTools Deep Dive
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-19
-  room:
-  authors:
-    - name: Alex Lakatos
-      twitter: lakatos88
-      github: AlexLakatos
-      website:
-  slides:
-  videos:
-    - https://youtu.be/gE3nmpdx_9Q
-  description: |-
-    No, Firefox DevTools are not Firebug. The web came a long way since Firebug, and so have the DevTools baked into Firefox. So let's go exploring! As the complexity of the web apps you build keeps moving, so do the Firefox DevTools. In this session, Alex will give you the latest tips and tricks on Firefox DevTools. We'll explore new and less commonly known features in performance profiling, JavaScript debugging and animation inspection. The session will give you a productivity advantage when developing and debugging your web applications.
+  - title: Keep your skills sharp! Developer career in rapidly changing technology world.
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-19
+    room:
+    authors:
+      - name: Michał Nowak
+        twitter: wicherrr
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9sEZzEiS5j8
+    description: |-
+      Developer career in rapidly changing technology world. How to land in a good place many years from now? Michał shares some thoughts after reading thousands of CVs, doing hundreds of recruitments and from his personal life.
 
-- title: Angular is on Fire(base)!
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-19
-  room:
-  authors:
-    - name: Shmuela Jacobs
-      twitter: Shmuela Jacobs
-      github: shmool
-      website:
-  slides:
-  videos:
-    - https://youtu.be/pMNalMkrFZ4
-  description: |-
-    Firebase is a great platform that gives a suite of tools with which you can easily create and manage your app’s backend, and concentrate on developing a marvelous front end. This is where Angular steps in: it helps you build your app in component-based architecture, and provides solutions for various client-side aspects. The combination of the two gives a powerful connection between the application and the database. In this lecture I’ll show how to implement common use-cases of users and data management by leveraging Firebase’s and Angular’s strengths: realtime synchronization, OAuth and more.
+  - title: The Mobile Web Second Edition" First-Class Citizen on Your Device Now"
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-19
+    room:
+    authors:
+      - name: Maxim Salnikov
+        twitter: webmaxru
+        github: webmaxru
+        website:
+    slides:
+    videos:
+      - https://youtu.be/jf_VswTr9l4
+    description: |-
+      They are so similar: Web and Mobile apps. What a nice option to use our web development experience (JavaScript, to be specific) to create cross-platform native-like applications. Is it that simple? What are the pros and cons of mobile web VS native? What is the difference between hybrid mobile apps, progressive web apps and JavaScript-compiled-to-native ones? Let's find the answers together! Attendees will get an overview of modern concepts for building web-based mobile applications, pros and cons from tech and business sides. Bonus: some practical advices on when to go for this option. For the each option I'll give advantages/disadvantages from both tech and business points of view so both developers and managers will get a big picture of today's (and tomorrow's) possibilities of the mentioned concept.
 
-- title: JWT, WTF?
-  lang: en
-  type: regular
-  level:
-  time: 2017-06-19
-  room:
-  authors:
-    - name: Phil Nash
-      twitter: philnash
-      github: philnash
-      website:
-  slides:
-  videos:
-    - https://youtu.be/drocJqQlnhM
-  description: |-
-    We live in a world of rich client side applications, web and mobile, and we need a secure way to authenticate our users. Session IDs have been the traditional solution, but how well do they work for single page applications? And what about authenticating to 3rd party services? You can't leave your credentials in the client, there's always someone malicious just waiting to steal them. Enter the JWT, or JSON Web Token. These fancy little tokens can authenticate our users and our transactions because they know what they're allowed to do. We'll take a look at what JWTs can be used for, why to choose JWTs, how to generate them, and most importantly how to keep them secure. Finally, we'll find out if putting abbreviations inside other abbreviations really is the secret to web security.
+  - title: RxJS all things!
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-19
+    room:
+    authors:
+      - name: Simona Cotin
+        twitter: simona_cotin
+        github: simonaco
+        website:
+    slides:
+    videos:
+      - https://youtu.be/B9IfUjniyNs
+    description: |-
+      Managing state in large application applications is hard. Managing async behavior is even harder. Let's talk about why reactive programming is awesome and how it can help with managing complexity, data and scaling your applications. Also, remember the callback hell?! Well, we once have been PROMISED that all will be good. And guess what, we OBSERVED we can do better. Let's deep dive into how observables are much better than promises.
+
+  - title: DevTools Deep Dive
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-19
+    room:
+    authors:
+      - name: Alex Lakatos
+        twitter: lakatos88
+        github: AlexLakatos
+        website:
+    slides:
+    videos:
+      - https://youtu.be/gE3nmpdx_9Q
+    description: |-
+      No, Firefox DevTools are not Firebug. The web came a long way since Firebug, and so have the DevTools baked into Firefox. So let's go exploring! As the complexity of the web apps you build keeps moving, so do the Firefox DevTools. In this session, Alex will give you the latest tips and tricks on Firefox DevTools. We'll explore new and less commonly known features in performance profiling, JavaScript debugging and animation inspection. The session will give you a productivity advantage when developing and debugging your web applications.
+
+  - title: Angular is on Fire(base)!
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-19
+    room:
+    authors:
+      - name: Shmuela Jacobs
+        twitter: Shmuela Jacobs
+        github: shmool
+        website:
+    slides:
+    videos:
+      - https://youtu.be/pMNalMkrFZ4
+    description: |-
+      Firebase is a great platform that gives a suite of tools with which you can easily create and manage your app’s backend, and concentrate on developing a marvelous front end. This is where Angular steps in: it helps you build your app in component-based architecture, and provides solutions for various client-side aspects. The combination of the two gives a powerful connection between the application and the database. In this lecture I’ll show how to implement common use-cases of users and data management by leveraging Firebase’s and Angular’s strengths: realtime synchronization, OAuth and more.
+
+  - title: JWT, WTF?
+    lang: en
+    type: regular
+    level:
+    time: 2017-06-19
+    room:
+    authors:
+      - name: Phil Nash
+        twitter: philnash
+        github: philnash
+        website:
+    slides:
+    videos:
+      - https://youtu.be/drocJqQlnhM
+    description: |-
+      We live in a world of rich client side applications, web and mobile, and we need a secure way to authenticate our users. Session IDs have been the traditional solution, but how well do they work for single page applications? And what about authenticating to 3rd party services? You can't leave your credentials in the client, there's always someone malicious just waiting to steal them. Enter the JWT, or JSON Web Token. These fancy little tokens can authenticate our users and our transactions because they know what they're allowed to do. We'll take a look at what JWTs can be used for, why to choose JWTs, how to generate them, and most importantly how to keep them secure. Finally, we'll find out if putting abbreviations inside other abbreviations really is the secret to web security.

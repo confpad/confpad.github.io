@@ -1,203 +1,219 @@
-- title: Keynote
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-12
-  room:
-  authors:
-    - name: Cheng Lou
-      twitter: _chenglou
-      github: chenglou
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ADMeIhjaKnQ
+conference:
+
+  name: ReasonConf 2018
+  url: https://2018.reason-conf.com/
+  status: complete
+  date:
+    from: 2018-05-11
+    to: 2018-05-13
+  location:
+    country: Austria
+    city: Vienna
   description: |-
+    Reason is the next big thing and it is time to bring the community together. Come and learn about the language and get inspired for innovation. We want to motivate you to add Reason & OCaml to your professional toolbelt and make you feel comfortable in the ecosystem. This conference is aiming for a well-balanced schedule with a practical, social and theoretical context.
+
+talks:
+
+  - title: Keynote
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-12
+    room:
+    authors:
+      - name: Cheng Lou
+        twitter: _chenglou
+        github: chenglou
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ADMeIhjaKnQ
+    description: |-
 
 
-- title: ReasonReact and local state
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-12
-  room:
-  authors:
-    - name: Cristiano Calcagno
-      twitter: ccrisccris
-      github: cristianoc
-      website:
-  slides:
-  videos:
-    - https://youtu.be/X0ojn8A0ByE
-  description: |-
-    The talk introduces ReasonReact and the way it operates on the state of React components. This is illustrated by introducing the notion of local state presented via a series of examples. State is changed by means of reducers, that can operate directly on the current component, or on distant components via remote actions. Further examples illustrate how certain animations can be considered instances of local state that can be easily composed.
+  - title: ReasonReact and local state
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-12
+    room:
+    authors:
+      - name: Cristiano Calcagno
+        twitter: ccrisccris
+        github: cristianoc
+        website:
+    slides:
+    videos:
+      - https://youtu.be/X0ojn8A0ByE
+    description: |-
+      The talk introduces ReasonReact and the way it operates on the state of React components. This is illustrated by introducing the notion of local state presented via a series of examples. State is changed by means of reducers, that can operate directly on the current component, or on distant components via remote actions. Further examples illustrate how certain animations can be considered instances of local state that can be easily composed.
 
-- title: Building inclusive Open Source communities
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-12
-  room:
-  authors:
-    - name: Laura Gaetano
-      twitter: alicetragedy
-      github: alicetragedy
-      website:
-  slides:
-  videos:
-    - https://youtu.be/dUCErIbL_r4
-  description: |-
-    Tech has a diversity problem: marginalised people are being pushed out of the industry; their voices and experiences are erased. Open Source is particularly bad, with too few contributors who aren’t white, male, cisgender and able-bodied. What if things were different? What if we could create spaces that are welcoming, where we show empathy and compassion? What if those qualities could reflect in our work, ultimately helping us create better software? In this talk, you will hear stories of first-time contributions, successful examples in supporting and mentoring newcomers, and find out steps you can take as an Open Source contributor or maintainer to make your community more inclusive.
+  - title: Building inclusive Open Source communities
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-12
+    room:
+    authors:
+      - name: Laura Gaetano
+        twitter: alicetragedy
+        github: alicetragedy
+        website:
+    slides:
+    videos:
+      - https://youtu.be/dUCErIbL_r4
+    description: |-
+      Tech has a diversity problem: marginalised people are being pushed out of the industry; their voices and experiences are erased. Open Source is particularly bad, with too few contributors who aren’t white, male, cisgender and able-bodied. What if things were different? What if we could create spaces that are welcoming, where we show empathy and compassion? What if those qualities could reflect in our work, ultimately helping us create better software? In this talk, you will hear stories of first-time contributions, successful examples in supporting and mentoring newcomers, and find out steps you can take as an Open Source contributor or maintainer to make your community more inclusive.
 
-- title: Down the WebAssembly rabbit hole
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-12
-  room:
-  authors:
-    - name: Sander Spies
-      twitter: Sander_Spies
-      github: SanderSpies
-      website:
-  slides:
-  videos:
-    - https://youtu.be/v4MHUbIWNZ8
-  description: |-
-    In this talk we go beyond syntax and look at an experimental webassembly backend for OCaml / ReasonML.
+  - title: Down the WebAssembly rabbit hole
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-12
+    room:
+    authors:
+      - name: Sander Spies
+        twitter: Sander_Spies
+        github: SanderSpies
+        website:
+    slides:
+    videos:
+      - https://youtu.be/v4MHUbIWNZ8
+    description: |-
+      In this talk we go beyond syntax and look at an experimental webassembly backend for OCaml / ReasonML.
 
-- title: State of the Reason Editor integration
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-12
-  room:
-  authors:
-    - name: Javier Chávarri
-      twitter: javierwchavarri
-      github: jchavarri
-      website:
-  slides:
-  videos:
-    - https://youtu.be/DSBjt5bORck
-  description: |-
-    We will review the current state of the IDE tooling for Reason: Editors (and OSs) supported How the different parts work (language clients and the main language server) and their repositories Quick review of the differences between ocamlmerlin and bsb when it comes to IDE integration. Finally, we will briefly look into the features that could be built next, steered by the community needs
+  - title: State of the Reason Editor integration
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-12
+    room:
+    authors:
+      - name: Javier Chávarri
+        twitter: javierwchavarri
+        github: jchavarri
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DSBjt5bORck
+    description: |-
+      We will review the current state of the IDE tooling for Reason: Editors (and OSs) supported How the different parts work (language clients and the main language server) and their repositories Quick review of the differences between ocamlmerlin and bsb when it comes to IDE integration. Finally, we will briefly look into the features that could be built next, steered by the community needs
 
-- title: Using Reason in traditional Enterprises
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-12
-  room:
-  authors:
-    - name: Roman Schiefer
-      twitter: RSchiefer
-      github: RSchiefer
-      website:
-  slides:
-  videos:
-    - https://youtu.be/4NUop_F7HkM
-  description: |-
-    Bringing new technologies to large-scale enterprises is a challenge in which we are involved quite often. In this talk we will reflect on our current experience with Reason based on a real implementation.
+  - title: Using Reason in traditional Enterprises
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-12
+    room:
+    authors:
+      - name: Roman Schiefer
+        twitter: RSchiefer
+        github: RSchiefer
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4NUop_F7HkM
+    description: |-
+      Bringing new technologies to large-scale enterprises is a challenge in which we are involved quite often. In this talk we will reflect on our current experience with Reason based on a real implementation.
 
-- title: Reason coming from F#
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-12
-  room:
-  authors:
-    - name: Lance Harper
-      twitter:
-      github: lanceharper
-      website:
-  slides:
-  videos:
-    - https://youtu.be/qvuRlZgDLiQ
-  description: |-
-    F# has been a powerful language based on OCaml without mainstream adoption. Let’s discuss their differences.
+  - title: Reason coming from F#
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-12
+    room:
+    authors:
+      - name: Lance Harper
+        twitter:
+        github: lanceharper
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qvuRlZgDLiQ
+    description: |-
+      F# has been a powerful language based on OCaml without mainstream adoption. Let’s discuss their differences.
 
-- title: Practical Interpretation of Code Formatting
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-12
-  room:
-  authors:
-    - name: Maxim Valcke
-      twitter: _iwan_refmt
-      github: iwankaramazow
-      website:
-  slides:
-  videos:
-    - https://youtu.be/jzJVhYesJUc
-  description: |-
-    Today every major language has some kind of library that helps a developer formatting his or her code. Tools like Prettier, Gofmt and Refmt are setting new standards and have a deep impact on our day to day programming. But what does it actually mean to format code? Does it mean pressing a magical button to align your code? Is it more than the automatic insertion of trailing commas your colleague always seems to forget? Why are we even doing it? How is it going to impact us as programmers to get better? “Code formatting” is an opaque ocean, we’ve done a really poor job at explaining what code formatting actually means in today’s world. The recent hype around code formatting tools defaults us into thinking that we can’t live without them anymore. We need to stop and ask why we’re using these tools. Is it really the best course of action? Based on my experience contributing to Reason over the past 1.5 years, this lightning talk will be a short, critical deep dive in the past, present & future of our beloved Reason formatter Refmt.
+  - title: Practical Interpretation of Code Formatting
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-12
+    room:
+    authors:
+      - name: Maxim Valcke
+        twitter: _iwan_refmt
+        github: iwankaramazow
+        website:
+    slides:
+    videos:
+      - https://youtu.be/jzJVhYesJUc
+    description: |-
+      Today every major language has some kind of library that helps a developer formatting his or her code. Tools like Prettier, Gofmt and Refmt are setting new standards and have a deep impact on our day to day programming. But what does it actually mean to format code? Does it mean pressing a magical button to align your code? Is it more than the automatic insertion of trailing commas your colleague always seems to forget? Why are we even doing it? How is it going to impact us as programmers to get better? “Code formatting” is an opaque ocean, we’ve done a really poor job at explaining what code formatting actually means in today’s world. The recent hype around code formatting tools defaults us into thinking that we can’t live without them anymore. We need to stop and ask why we’re using these tools. Is it really the best course of action? Based on my experience contributing to Reason over the past 1.5 years, this lightning talk will be a short, critical deep dive in the past, present & future of our beloved Reason formatter Refmt.
 
-- title: Having your cake and eating it too — GraphQL in Reason
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-12
-  room:
-  authors:
-    - name: Sean Grove
-      twitter: sgrove
-      github: sgrove
-      website:
-  slides:
-  videos:
-    - https://youtu.be/OT7xOpPCGds
-  description: |-
-    Traditionally, soundly typed-language are warm and cozy in their own world, but as soon as they have to deal with the outside world (say, talking to a REST API), the pain quickly sets in: trying to keep a type definition in sync with a moving external service, manual conversion back and forth, and lots of boilerplate. Well no more! Proper GraphQL support in ReasonML libraries means that we can have full-stack safety, knowing that if our programs compile, the server can satisfy our requirements! And on top of that, we get all the other GraphQL goodies, like tooling, in-editor auto-complete, and fantastic compile-time optimizations, for free! But what about the server-side, you ask? There are so many places things can go wrong when trying to maintain the promises you give to your GraphQL clients, I hear you cry out. Dry your eyes, friend, for ocaml-graphql-server is here to guide you to the happy full-stack GraphQL+Reason world you’ve been dreaming of, where whole classes of errors are eliminated. As in any good talk however, we’ll also take a look at some of the painful points of this approach, and how ReasonML might make some tasks more difficult, so that you can leave with a confident understanding of whether this new frontier is one you want to brave any time soon.
+  - title: Having your cake and eating it too — GraphQL in Reason
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-12
+    room:
+    authors:
+      - name: Sean Grove
+        twitter: sgrove
+        github: sgrove
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OT7xOpPCGds
+    description: |-
+      Traditionally, soundly typed-language are warm and cozy in their own world, but as soon as they have to deal with the outside world (say, talking to a REST API), the pain quickly sets in: trying to keep a type definition in sync with a moving external service, manual conversion back and forth, and lots of boilerplate. Well no more! Proper GraphQL support in ReasonML libraries means that we can have full-stack safety, knowing that if our programs compile, the server can satisfy our requirements! And on top of that, we get all the other GraphQL goodies, like tooling, in-editor auto-complete, and fantastic compile-time optimizations, for free! But what about the server-side, you ask? There are so many places things can go wrong when trying to maintain the promises you give to your GraphQL clients, I hear you cry out. Dry your eyes, friend, for ocaml-graphql-server is here to guide you to the happy full-stack GraphQL+Reason world you’ve been dreaming of, where whole classes of errors are eliminated. As in any good talk however, we’ll also take a look at some of the painful points of this approach, and how ReasonML might make some tasks more difficult, so that you can leave with a confident understanding of whether this new frontier is one you want to brave any time soon.
 
-- title: Building native Node.js addons in Reason
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-12
-  room:
-  authors:
-    - name: Vladimir Kurchatkin
-      twitter: vkurchatkin
-      github: vkurchatkin
-      website:
-  slides:
-  videos:
-    - https://youtu.be/EEIGi1lP-v0
-  description: |-
-    Reason community is growing rapidly, and a lot of people are interested in leveraging it on their servers. One way to achieve this is to use native OCaml compiler. It produces exceptionally performant binaries, but the native ecosystem is scarce, and you will struggle with finding solutions for very common tasks. Another option is to use BuckleScript and compile everything to JavaScript. You would regain access to the vast Node.js ecosystem but would have to sacrifice performance. It seems that you have to choose either ecosystem or performance. In this talk, I will show how to preserve both by compiling Reason code to native Node.js addons. I will present a toolkit that makes it easy and fun, walk through its features and examples and talk a bit about its internals and advanced OCaml features used.
+  - title: Building native Node.js addons in Reason
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-12
+    room:
+    authors:
+      - name: Vladimir Kurchatkin
+        twitter: vkurchatkin
+        github: vkurchatkin
+        website:
+    slides:
+    videos:
+      - https://youtu.be/EEIGi1lP-v0
+    description: |-
+      Reason community is growing rapidly, and a lot of people are interested in leveraging it on their servers. One way to achieve this is to use native OCaml compiler. It produces exceptionally performant binaries, but the native ecosystem is scarce, and you will struggle with finding solutions for very common tasks. Another option is to use BuckleScript and compile everything to JavaScript. You would regain access to the vast Node.js ecosystem but would have to sacrifice performance. It seems that you have to choose either ecosystem or performance. In this talk, I will show how to preserve both by compiling Reason code to native Node.js addons. I will present a toolkit that makes it easy and fun, walk through its features and examples and talk a bit about its internals and advanced OCaml features used.
 
-- title: What’s not to love about Reason?
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-12
-  room:
-  authors:
-    - name: Keira Hodgkison
-      twitter: keirasaid
-      github: keirah
-      website:
-  slides:
-  videos:
-    - https://youtu.be/4xr0WE49eik
-  description: |-
-    Even though Reason looks like JavaScript with a few additional functional features and semantics, it’s sometimes easy to forget that it’s a completely different language, with different problems. This talk looks at life on the bleeding edge, as experienced by a not-so-functional programmer.
+  - title: What’s not to love about Reason?
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-12
+    room:
+    authors:
+      - name: Keira Hodgkison
+        twitter: keirasaid
+        github: keirah
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4xr0WE49eik
+    description: |-
+      Even though Reason looks like JavaScript with a few additional functional features and semantics, it’s sometimes easy to forget that it’s a completely different language, with different problems. This talk looks at life on the bleeding edge, as experienced by a not-so-functional programmer.
 
-- title: Why We’re Afraid of Change
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-12
-  room:
-  authors:
-    - name: Jared Forsyth
-      twitter: jaredforsyth
-      github: jaredly
-      website:
-  slides:
-  videos:
-    - https://youtu.be/5Sl5C-5fX1M
-  description: |-
-    Would you rather have a community like npm, where there are hundreds of thousands of packages, but very few feel stable, or one like opam, with only a few thousand packages and a much more rigorous vetting system? How do language and community decisions affect the pull between security and freedom, safety and agility? Can we design a system that gives us both? Come learn about how tools, language features, and community structures all impact the “feel” of a developer community, and what tricks Reason could borrow from other communities to ensure that we can have freedom to publish without fearing change.
+  - title: Why We’re Afraid of Change
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-12
+    room:
+    authors:
+      - name: Jared Forsyth
+        twitter: jaredforsyth
+        github: jaredly
+        website:
+    slides:
+    videos:
+      - https://youtu.be/5Sl5C-5fX1M
+    description: |-
+      Would you rather have a community like npm, where there are hundreds of thousands of packages, but very few feel stable, or one like opam, with only a few thousand packages and a much more rigorous vetting system? How do language and community decisions affect the pull between security and freedom, safety and agility? Can we design a system that gives us both? Come learn about how tools, language features, and community structures all impact the “feel” of a developer community, and what tricks Reason could borrow from other communities to ensure that we can have freedom to publish without fearing change.

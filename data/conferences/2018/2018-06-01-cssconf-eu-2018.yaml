@@ -1,190 +1,206 @@
-- title: It's Dangerous To Go Alone! Take This Team
-  lang: en
-  type: regular
-  level:
-  time: 2018-06-01 10:00:00
-  room:
-  authors:
-    - name: Trent Willis
-      twitter: trentmwillis
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/2aPjsb-kIks
-  description: |-
-    What makes a team successful? Innovative? Great? As software developers, many of us spend a fair amount of time working alone behind our computers, but when we come together as a team we can build truly great products for people. So how do we build effective teams? In this talk, we’ll explore the concept of “safe” teams and how they enable us to build and design software faster and with more innovation than other teams. We’ll see how these concepts apply not just to our day jobs but also to the larger Open Source and CSS communities to which we belong.
+conference:
 
-- title: 'Preprocessors, Components, and CSS in JS or: How I Learned to Stop Worrying and Love the Website'
-  lang: en
-  type: regular
-  level:
-  time: 2018-06-01 10:35:00
-  room:
-  authors:
-    - name: Jackie Balzer
-      twitter: jackiebackwards
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/vLBBq6oizEI
+  name: CSSconf EU 2018
+  url: https://2018.cssconf.eu/
+  status: complete
+  date:
+    from: 2018-06-01
+    to: 2018-06-01
+  location:
+    country: Germany
+    city: Berlin
   description: |-
-    Behance’s codebase has existed in various states for over 7 continuous years - which includes multiple major redesigns, brand overhauls, backend framework changes, JavaScript frameworks, CSS preprocessors, templating languages, feature births and deaths, product integrations, and more. And now, we are working on our latest project: moving our JavaScript and Sass to Vue.js and CSS Modules. This talk explores our journey over the years, from how we choose which technologies to implement, how we piecemeal large rewrites while maintaining developer sanity and website integrity (and how to cut corners gracefully), how we manage technical debt, and finally, how to be at peace with the reality of a fragmented codebase.
+    Dedicated to everyone who loves and writes CSS: On June 1st 2018, CSSconf EU will gather the international CSS community in Berlin, Germany. This is your chance to meet top-notch engineers & web designers, world-class speakers, and CSS-loving people at this one-day, one-track conference.
 
-- title: The Web Is Not Just Left-to-Right
-  lang: en
-  type: regular
-  level:
-  time: 2018-06-01 11:25:00
-  room:
-  authors:
-    - name: Chen Hui Jing
-      twitter: hj_chen
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/YpqKrVcth34
-  description: |-
-    This talk traces the parallel history of western and eastern typography from handwriting to the internet age, setting the context for how the web is a brand new medium for typesetting. CSS allows us to implement advanced typographic features and multi-directional layouts, that not only benefits internationalisation, but opens up a myriad of options for creative and interesting layouts in general as well.
+talks:
 
-- title: Refactoring with CSS Grid
-  lang: en
-  type: regular
-  level:
-  time: 2018-06-01 12:00:00
-  room:
-  authors:
-    - name: Oliver Williams
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/tmQuGgtq5SI
-  description: |-
-    Is CSS grid ready for production? Find out from somebody who’s used grid on a large site - all while supporting Internet Explorer. I’ll discuss what I’ve already refactored with grid and what I plan to refactor once forthcoming features (display:contents and subgrid) are more widely implemented by browsers. I’ll show how I handled Internet Explorer and older browsers using @supports and simple fallback layouts. After working on a site that used javascript and backend logic together with floats to implement layouts, I’ll explain how I managed to refactor to use a pure CSS only approach thanks to grid. Working with grid also offers the perfect opportunity to start using CSS custom properties - because all browsers that support CSS grid also support custom properties.
+  - title: It's Dangerous To Go Alone! Take This Team
+    lang: en
+    type: regular
+    level:
+    time: 2018-06-01 10:00:00
+    room:
+    authors:
+      - name: Trent Willis
+        twitter: trentmwillis
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2aPjsb-kIks
+    description: |-
+      What makes a team successful? Innovative? Great? As software developers, many of us spend a fair amount of time working alone behind our computers, but when we come together as a team we can build truly great products for people. So how do we build effective teams? In this talk, we’ll explore the concept of “safe” teams and how they enable us to build and design software faster and with more innovation than other teams. We’ll see how these concepts apply not just to our day jobs but also to the larger Open Source and CSS communities to which we belong.
 
-- title: We have DevTools. What about DesignTools?
-  lang: en
-  type: regular
-  level:
-  time: 2018-06-01 12:35:00
-  room:
-  authors:
-    - name: Razvan Caliman
-      twitter: razvancaliman
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/oGobLmA_WVQ
-  description: |-
-    The DevTools in all current modern browsers provide a valuable set of instruments for web developers to create, inspect and debug their work. But what about web designers? Sophisticated tools for creating and experimenting freely with CSS have been missing from browsers. But there’s a recent uptick in specialised tools for CSS which bring the creative empowerment web designers expect from professional editors right into their browser: tools like the CSS Grid Inspector in Firefox, in-context editors for CSS Shapes, fonts, animations, transforms, gradients, backgrounds and many others This talk provides an overview of the specialised tools for CSS available today and ventures a look ahead at the tooling opportunities that will give web designers the creative freedom they need in order to truly design in the browser.
+  - title: 'Preprocessors, Components, and CSS in JS or: How I Learned to Stop Worrying and Love the Website'
+    lang: en
+    type: regular
+    level:
+    time: 2018-06-01 10:35:00
+    room:
+    authors:
+      - name: Jackie Balzer
+        twitter: jackiebackwards
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/vLBBq6oizEI
+    description: |-
+      Behance’s codebase has existed in various states for over 7 continuous years - which includes multiple major redesigns, brand overhauls, backend framework changes, JavaScript frameworks, CSS preprocessors, templating languages, feature births and deaths, product integrations, and more. And now, we are working on our latest project: moving our JavaScript and Sass to Vue.js and CSS Modules. This talk explores our journey over the years, from how we choose which technologies to implement, how we piecemeal large rewrites while maintaining developer sanity and website integrity (and how to cut corners gracefully), how we manage technical debt, and finally, how to be at peace with the reality of a fragmented codebase.
 
-- title: 'Augmenting Empathy: Simulating Low-Vision Conditions with CSS, SVG and WebRTC'
-  lang: en
-  type: regular
-  level:
-  time: 2018-06-01 14:20:00
-  room:
-  authors:
-    - name: Shwetank Dixit
-      twitter: shwetank
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/aWoeK2SFSpI
-  description: |-
-    “Low-vision” is a concept which is hard to grasp for most people in an exact manner. Its an umbrella term for a number of conditions - each affecting eyesight in a different way. What if we could make tools to make people see what people with low-vision actually see? This talk is a story of how I talked to persons with low vision and their family members, and tried to make tools to help people understand how people with various low-vision conditions see the world. Through the power of CSS, SVG and WebRTC, we’ll take a look at how to simulate low-vision conditions and what it taught me about empathy.
+  - title: The Web Is Not Just Left-to-Right
+    lang: en
+    type: regular
+    level:
+    time: 2018-06-01 11:25:00
+    room:
+    authors:
+      - name: Chen Hui Jing
+        twitter: hj_chen
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/YpqKrVcth34
+    description: |-
+      This talk traces the parallel history of western and eastern typography from handwriting to the internet age, setting the context for how the web is a brand new medium for typesetting. CSS allows us to implement advanced typographic features and multi-directional layouts, that not only benefits internationalisation, but opens up a myriad of options for creative and interesting layouts in general as well.
 
-- title: Strategy Guide for CSS Custom Properties
-  lang: en
-  type: regular
-  level:
-  time: 2018-06-01 14:55:00
-  room:
-  authors:
-    - name: Mike Riethmuller
-      twitter: MikeRiethmuller
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/pF0pSwbZV9Y
-  description: |-
-    Static variables are not always global, but global variables are almost always static, therefore dynamic variables should almost always be local. Did you follow that? If not, you might need to see my talk. I will cover HOW to use CSS variables correctly for things like: theming, responsive design, prototyping, animation and much more. A practical guide that tells you more than how the syntax works.
+  - title: Refactoring with CSS Grid
+    lang: en
+    type: regular
+    level:
+    time: 2018-06-01 12:00:00
+    room:
+    authors:
+      - name: Oliver Williams
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/tmQuGgtq5SI
+    description: |-
+      Is CSS grid ready for production? Find out from somebody who’s used grid on a large site - all while supporting Internet Explorer. I’ll discuss what I’ve already refactored with grid and what I plan to refactor once forthcoming features (display:contents and subgrid) are more widely implemented by browsers. I’ll show how I handled Internet Explorer and older browsers using @supports and simple fallback layouts. After working on a site that used javascript and backend logic together with floats to implement layouts, I’ll explain how I managed to refactor to use a pure CSS only approach thanks to grid. Working with grid also offers the perfect opportunity to start using CSS custom properties - because all browsers that support CSS grid also support custom properties.
 
-- title: Accessible by Law! Generating Colors with JS and CSS Custom Properties
-  lang: en
-  type: regular
-  level:
-  time: 2018-06-01 15:30:00
-  room:
-  authors:
-    - name: Dag-Inge Aas
-      twitter: daginge
-      github:
-      website:
-    - name: Ida Aalen
-      twitter: idaaa
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/zi6L0ZqrKfA
-  description: |-
-    In Norway, all websites are required by law to be accessible. That has inspired us rather than constrained us when building our video consultation service. How could we make it easy for users to pick their own brand color, and still make sure they had sufficient contrast? Combining CSS Custom Properties with a sprinkle of JavaScript we were able to create a color palette and components that also meet the WCAG criteria (and learned a lot on the way).
+  - title: We have DevTools. What about DesignTools?
+    lang: en
+    type: regular
+    level:
+    time: 2018-06-01 12:35:00
+    room:
+    authors:
+      - name: Razvan Caliman
+        twitter: razvancaliman
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/oGobLmA_WVQ
+    description: |-
+      The DevTools in all current modern browsers provide a valuable set of instruments for web developers to create, inspect and debug their work. But what about web designers? Sophisticated tools for creating and experimenting freely with CSS have been missing from browsers. But there’s a recent uptick in specialised tools for CSS which bring the creative empowerment web designers expect from professional editors right into their browser: tools like the CSS Grid Inspector in Firefox, in-context editors for CSS Shapes, fonts, animations, transforms, gradients, backgrounds and many others This talk provides an overview of the specialised tools for CSS available today and ventures a look ahead at the tooling opportunities that will give web designers the creative freedom they need in order to truly design in the browser.
 
-- title: The Algorithms of CSS
-  lang: en
-  type: regular
-  level:
-  time: 2018-06-01 16:30:00
-  room:
-  authors:
-    - name: Lara Schenck
-      twitter: laras126
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/cCeqH6m_K20
-  description: |-
-    “CSS isn’t a ‘real’ programming language,” we CSS developers are often reminded — we don’t write programs, we describe presentation. Algorithms and CSS, then, don’t exactly go hand-in-hand…or do they? From the cascade to Grid Layout to our own design systems, we may not write algorithms in the same fashion as other programming languages, but we sure do use them! This talk will document a self-taught developer’s mission to bridge the gap between CSS and Computer Science by way of algorithms. True, CSS is not a programming language like the others, but an understanding of the fundamentals can benefit our code just the same.
+  - title: 'Augmenting Empathy: Simulating Low-Vision Conditions with CSS, SVG and WebRTC'
+    lang: en
+    type: regular
+    level:
+    time: 2018-06-01 14:20:00
+    room:
+    authors:
+      - name: Shwetank Dixit
+        twitter: shwetank
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/aWoeK2SFSpI
+    description: |-
+      “Low-vision” is a concept which is hard to grasp for most people in an exact manner. Its an umbrella term for a number of conditions - each affecting eyesight in a different way. What if we could make tools to make people see what people with low-vision actually see? This talk is a story of how I talked to persons with low vision and their family members, and tried to make tools to help people understand how people with various low-vision conditions see the world. Through the power of CSS, SVG and WebRTC, we’ll take a look at how to simulate low-vision conditions and what it taught me about empathy.
 
-- title: 'Container Queries: The Past, Future, and How You Can Actually Even Use Them Today'
-  lang: en
-  type: regular
-  level:
-  time: 2018-06-01 17:05:00
-  room:
-  authors:
-    - name: Philip Walton
-      twitter: philwalton
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/0wA4CMo9_EU
-  description: |-
-    Container queries have been one of (if not the) most requested CSS features for several years now, and yet there are no specifications attempting to design them nor browser vendors attempting to implement them. Why is that? The truth is that while high-level CSS container query APIs aren’t currently being worked on, several low-level web primitives are being developed that will make container queries possible. In this talk I’ll present the history of container queries, explore the challenges they present, and show you how several new browser APIs actually do make container queries possible today.
+  - title: Strategy Guide for CSS Custom Properties
+    lang: en
+    type: regular
+    level:
+    time: 2018-06-01 14:55:00
+    room:
+    authors:
+      - name: Mike Riethmuller
+        twitter: MikeRiethmuller
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/pF0pSwbZV9Y
+    description: |-
+      Static variables are not always global, but global variables are almost always static, therefore dynamic variables should almost always be local. Did you follow that? If not, you might need to see my talk. I will cover HOW to use CSS variables correctly for things like: theming, responsive design, prototyping, animation and much more. A practical guide that tells you more than how the syntax works.
 
-- title: Design Systems as Facilitators.
-  lang: en
-  type: regular
-  level:
-  time: 2018-06-01 17:40:00
-  room:
-  authors:
-    - name: Claudina Sarahe
-      twitter: itsmisscs
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/RCdGIrgSaBQ
-  description: |-
-    We build design systems to help our teams communicate to accomplish a shared goal—often, in the case of web development, improving a product. Design systems provide shared reusable patterns aimed to reduce code bloat and establish harmony across applications. However, the most significant benefit to building a design systems is that they create resiliency and dynamic conversations across our teams. A good design system is the first step to establishing autopoiesis—a cybernetic feedback loop—within our design and development teams and organization, which is a requisite for maintaining a viable system. By the end of this talk, I hope we will see how the act of building and maintaining a design system not only aids our teams but takes us one step closer to reimagined futures.
+  - title: Accessible by Law! Generating Colors with JS and CSS Custom Properties
+    lang: en
+    type: regular
+    level:
+    time: 2018-06-01 15:30:00
+    room:
+    authors:
+      - name: Dag-Inge Aas
+        twitter: daginge
+        github:
+        website:
+      - name: Ida Aalen
+        twitter: idaaa
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zi6L0ZqrKfA
+    description: |-
+      In Norway, all websites are required by law to be accessible. That has inspired us rather than constrained us when building our video consultation service. How could we make it easy for users to pick their own brand color, and still make sure they had sufficient contrast? Combining CSS Custom Properties with a sprinkle of JavaScript we were able to create a color palette and components that also meet the WCAG criteria (and learned a lot on the way).
+
+  - title: The Algorithms of CSS
+    lang: en
+    type: regular
+    level:
+    time: 2018-06-01 16:30:00
+    room:
+    authors:
+      - name: Lara Schenck
+        twitter: laras126
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cCeqH6m_K20
+    description: |-
+      “CSS isn’t a ‘real’ programming language,” we CSS developers are often reminded — we don’t write programs, we describe presentation. Algorithms and CSS, then, don’t exactly go hand-in-hand…or do they? From the cascade to Grid Layout to our own design systems, we may not write algorithms in the same fashion as other programming languages, but we sure do use them! This talk will document a self-taught developer’s mission to bridge the gap between CSS and Computer Science by way of algorithms. True, CSS is not a programming language like the others, but an understanding of the fundamentals can benefit our code just the same.
+
+  - title: 'Container Queries: The Past, Future, and How You Can Actually Even Use Them Today'
+    lang: en
+    type: regular
+    level:
+    time: 2018-06-01 17:05:00
+    room:
+    authors:
+      - name: Philip Walton
+        twitter: philwalton
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0wA4CMo9_EU
+    description: |-
+      Container queries have been one of (if not the) most requested CSS features for several years now, and yet there are no specifications attempting to design them nor browser vendors attempting to implement them. Why is that? The truth is that while high-level CSS container query APIs aren’t currently being worked on, several low-level web primitives are being developed that will make container queries possible. In this talk I’ll present the history of container queries, explore the challenges they present, and show you how several new browser APIs actually do make container queries possible today.
+
+  - title: Design Systems as Facilitators.
+    lang: en
+    type: regular
+    level:
+    time: 2018-06-01 17:40:00
+    room:
+    authors:
+      - name: Claudina Sarahe
+        twitter: itsmisscs
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RCdGIrgSaBQ
+    description: |-
+      We build design systems to help our teams communicate to accomplish a shared goal—often, in the case of web development, improving a product. Design systems provide shared reusable patterns aimed to reduce code bloat and establish harmony across applications. However, the most significant benefit to building a design systems is that they create resiliency and dynamic conversations across our teams. A good design system is the first step to establishing autopoiesis—a cybernetic feedback loop—within our design and development teams and organization, which is a requisite for maintaining a viable system. By the end of this talk, I hope we will see how the act of building and maintaining a design system not only aids our teams but takes us one step closer to reimagined futures.

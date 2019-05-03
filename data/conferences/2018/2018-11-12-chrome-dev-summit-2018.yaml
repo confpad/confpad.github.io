@@ -1,462 +1,478 @@
-- title: Day 1 Keynote
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-12
-  room:
-  authors:
-    - name: Ben Galbraith
-      twitter: bgalbs
-      github:
-      website:
-    - name: Dion Almaer
-      twitter: dalmaer
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/zPHyxvPT0gg
-  description: |-
-    A round-up of the web platform's latest advancements and the evolving landscape. The keynote also covers the Chrome team's continued investment towards moving the platform forward and supporting the community.
+conference:
 
-- title: 'Get Down to Business: Why the Web Matters'
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-12
-  room:
-  authors:
-    - name: Aanchal Bahadur
-      twitter: aanchalbahadur
-      github:
-      website:
-    - name: Zack Argyle
-      twitter: zackargyle
-      github:
-      website:
-    - name: David Brunelle
-      twitter: davidbrunelle
-      github:
-      website:
-    - name: Matt Rizzo
-      twitter: mrizzo10
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Xryhxi45Q5M
+  name: Chrome Dev Summit 2018
+  url: https://developer.chrome.com/devsummit/
+  status: complete
+  date:
+    from: 2018-11-12
+    to: 2018-11-13
+  location:
+    country: United States
+    city: San Francisco, CA
   description: |-
-    'Music? Coffee? Ideas? By focusing on speed and taking advantage of the Web’s expanding capabilities, three global businesses found meaningful engagement with new and existing users everywhere. Hear directly from Spotify, Starbucks and Pinterest about the unique methods they’ve used to build and continually improve their PWAs and as a result, achieved growth and business success. '
+    Connect with Chrome engineers and other leading developers for an exploration of building beautiful and performant experiences.
 
-- title: State of the Union for Speed Tooling
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-12
-  room:
-  authors:
-    - name: Paul Irish
-      twitter: paul_irish
-      github:
-      website:
-    - name: Elizabeth Sweeny
-      twitter: egsweeny
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ymxs8OSXiUA
-  description: |-
-    Measuring, optimizing, and monitoring user experience on the Web has never been easier. Learn about the latest changes in performance tooling, and how to meaningfully incorporate lab and field data into your development workflow. Paul and Elizabeth share the latest developments in Lighthouse, DevTools profiling tools, PageSpeed Insights, Chrome UX Report, and key performance metrics.
+talks:
 
-- title: 'Speed Essentials: Key Techniques for Fast Websites'
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-12
-  room:
-  authors:
-    - name: Houssein Djirdeh
-      twitter: hdjirdeh
-      github:
-      website:
-    - name: Katie Hempenius
-      twitter: katiehempenius
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/reztLS3vomE
-  description: |-
-    The bad news: JavaScript, images, and web fonts often bloat modern web pages. The good news: There’s probably a ton of room to improve the performance of your site.   Katie and Houssein guide you through the key techniques in JavaScript, images, [CSS] and web fonts that you can use to maximize the performance of your site.
+  - title: Day 1 Keynote
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-12
+    room:
+    authors:
+      - name: Ben Galbraith
+        twitter: bgalbs
+        github:
+        website:
+      - name: Dion Almaer
+        twitter: dalmaer
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zPHyxvPT0gg
+    description: |-
+      A round-up of the web platform's latest advancements and the evolving landscape. The keynote also covers the Chrome team's continued investment towards moving the platform forward and supporting the community.
 
-- title: 'Building Faster, More Resilient Apps with Service Worker: A Caching Strategy
-    Deep Dive'
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-12
-  room:
-  authors:
-    - name: Ewa Gasperowicz
-      twitter: devnook
-      github:
-      website:
-    - name: Phil Walton
-      twitter: philwalton
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/25aCD5XL1Jk
-  description: |-
-    Because most users access the Web on the go, it's critical that we deliver experiences that load quickly and run smoothly, regardless of network conditions. And with service worker now supported in all modern browsers, we can leverage it as a core part of our application architecture and performance strategy.  But not all service worker implementations are created equal, and they can offer vastly different performance benefits. Every prefetch and cache decision comes with speed vs. freshness and bandwidth vs. storage trade offs. Join us to discover how to evaluate and build different service worker flows for your app, giving the best experience for your users.
+  - title: 'Get Down to Business: Why the Web Matters'
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-12
+    room:
+    authors:
+      - name: Aanchal Bahadur
+        twitter: aanchalbahadur
+        github:
+        website:
+      - name: Zack Argyle
+        twitter: zackargyle
+        github:
+        website:
+      - name: David Brunelle
+        twitter: davidbrunelle
+        github:
+        website:
+      - name: Matt Rizzo
+        twitter: mrizzo10
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Xryhxi45Q5M
+    description: |-
+      'Music? Coffee? Ideas? By focusing on speed and taking advantage of the Web’s expanding capabilities, three global businesses found meaningful engagement with new and existing users everywhere. Hear directly from Spotify, Starbucks and Pinterest about the unique methods they’ve used to build and continually improve their PWAs and as a result, achieved growth and business success. '
 
-- title: 'Smooth Moves: Rendering at the Speed of Right ®'
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-12
-  room:
-  authors:
-    - name: Jason Miller
-      twitter: _developit
-      github:
-      website:
-    - name: Adam Argyle
-      twitter: argyleink
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/AB9qSUhlxh8
-  description: |-
-    Follow us as we refactor a microinteraction to unblock threads, unblock users, and crank it up to 60fps. Once the site’s resources have been delivered quickly, how do we ensure that we keep that high bar for performance? We need to understand rendering and interaction within the page.
+  - title: State of the Union for Speed Tooling
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-12
+    room:
+    authors:
+      - name: Paul Irish
+        twitter: paul_irish
+        github:
+        website:
+      - name: Elizabeth Sweeny
+        twitter: egsweeny
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ymxs8OSXiUA
+    description: |-
+      Measuring, optimizing, and monitoring user experience on the Web has never been easier. Learn about the latest changes in performance tooling, and how to meaningfully incorporate lab and field data into your development workflow. Paul and Elizabeth share the latest developments in Lighthouse, DevTools profiling tools, PageSpeed Insights, Chrome UX Report, and key performance metrics.
 
-- title: Complex JS-heavy Web Apps, Avoiding the Slow
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-12
-  room:
-  authors:
-    - name: Jake Archibald
-      twitter: jaffathecake
-      github:
-      website:
-    - name: Mariko Kosaka
-      twitter: kosamari
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ipNW6lJHVEs
-  description: |-
-    If you can do it without JavaScript, that's usually the fastest path. But what about when JavaScript is the only way? In this session we take a JavaScript-heavy PWA and make it load in less than 5 seconds on 2G, using Web Assembly, workers, and web components.
+  - title: 'Speed Essentials: Key Techniques for Fast Websites'
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-12
+    room:
+    authors:
+      - name: Houssein Djirdeh
+        twitter: hdjirdeh
+        github:
+        website:
+      - name: Katie Hempenius
+        twitter: katiehempenius
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/reztLS3vomE
+    description: |-
+      The bad news: JavaScript, images, and web fonts often bloat modern web pages. The good news: There’s probably a ton of room to improve the performance of your site.   Katie and Houssein guide you through the key techniques in JavaScript, images, [CSS] and web fonts that you can use to maximize the performance of your site.
 
-- title: 'Building Modern Web Media Experiences: Picture-in-Picture and AV1'
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-12
-  room:
-  authors:
-    - name: François Beaufort
-      twitter:
-      github:
-      website: https://plus.google.com/+FrancoisBeaufort
-    - name: Angie Bird
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/iTC3mfe0DwE
-  description: |-
-    Learn about how the latest media-related capabilities on the web platform can be used to build efficient and delightful web media experiences. This talk covers both APIs (such as Picture-in-Picture) and codecs (AV1), reviewing some of the nuances of how they can be successfully implemented, along with examples and demos.
+  - title: 'Building Faster, More Resilient Apps with Service Worker: A Caching Strategy
+      Deep Dive'
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-12
+    room:
+    authors:
+      - name: Ewa Gasperowicz
+        twitter: devnook
+        github:
+        website:
+      - name: Phil Walton
+        twitter: philwalton
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/25aCD5XL1Jk
+    description: |-
+      Because most users access the Web on the go, it's critical that we deliver experiences that load quickly and run smoothly, regardless of network conditions. And with service worker now supported in all modern browsers, we can leverage it as a core part of our application architecture and performance strategy.  But not all service worker implementations are created equal, and they can offer vastly different performance benefits. Every prefetch and cache decision comes with speed vs. freshness and bandwidth vs. storage trade offs. Join us to discover how to evaluate and build different service worker flows for your app, giving the best experience for your users.
 
-- title: Modern Websites for E-commerce in the Real World
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-12
-  room:
-  authors:
-    - name: Cheney Tsai
-      twitter: cheneytsai
-      github:
-      website:
-    - name: Ramya Raghavan
-      twitter: ramyaaraghavan
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/SJiKWwBtQaU
-  description: |-
-    While the Web has provided increased capabilities, success for real-world ecommerce requires taking a measured approach. In this session, you'll hear how some ecommerce companies are tackling challenges like organizational complexity, legacy code, measurement, prioritization, and more to provide better experiences to their web users and prepare for future needs and demand. You'll also learn how AMP and PWA have played a role in shaping these modern consumer journeys.
+  - title: 'Smooth Moves: Rendering at the Speed of Right ®'
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-12
+    room:
+    authors:
+      - name: Jason Miller
+        twitter: _developit
+        github:
+        website:
+      - name: Adam Argyle
+        twitter: argyleink
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/AB9qSUhlxh8
+    description: |-
+      Follow us as we refactor a microinteraction to unblock threads, unblock users, and crank it up to 60fps. Once the site’s resources have been delivered quickly, how do we ensure that we keep that high bar for performance? We need to understand rendering and interaction within the page.
 
-- title: Progressive Content Management Systems
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-12
-  room:
-  authors:
-    - name: Alberto Medina
-      twitter: ialbmedina
-      github:
-      website:
-    - name: Weston Ruter
-      twitter: westonruter
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/s1WrBaAyzAI
-  description: |-
-    Content Management Systems (CMS) are software platforms designed to simplify the creation and management of websites and their content. Nowadays, about 50% of websites are powered by some sort of CMS platform. In this talk, we discuss our experience moving a complex CMS (i.e. WordPress) forward along the Progressive Web Road by integrating modern capabilities (e.g. Service Worker API) and progressive technologies (e.g. AMP) into its platform and ecosystem, and how the lessons learned can be applied to other CMSes.
+  - title: Complex JS-heavy Web Apps, Avoiding the Slow
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-12
+    room:
+    authors:
+      - name: Jake Archibald
+        twitter: jaffathecake
+        github:
+        website:
+      - name: Mariko Kosaka
+        twitter: kosamari
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ipNW6lJHVEs
+    description: |-
+      If you can do it without JavaScript, that's usually the fastest path. But what about when JavaScript is the only way? In this session we take a JavaScript-heavy PWA and make it load in less than 5 seconds on 2G, using Web Assembly, workers, and web components.
 
-- title: Making Modern Web Content Discoverable for Search
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-12
-  room:
-  authors:
-    - name: Martin Splitt
-      twitter: g33konaut
-      github:
-      website:
-    - name: Tom Greenaway
-      twitter: tcmg
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/YP2tMBhyU0I
-  description: |-
-    Many modern JavaScript frameworks render their HTML content on the client-side assuming that every environment that is accessing their pages is as modern as they are. However, many search engines – including Google Search – do not behave exactly the same as a user’s browser.  In this session, you will learn some facts about Google Search, its rendering pipeline and the various tools which can help you diagnose the gap between what your users see versus what Google Search sees. You have built a fast & engaging website – let’s make sure it’s discoverable too.
+  - title: 'Building Modern Web Media Experiences: Picture-in-Picture and AV1'
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-12
+    room:
+    authors:
+      - name: François Beaufort
+        twitter:
+        github:
+        website: https://plus.google.com/+FrancoisBeaufort
+      - name: Angie Bird
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/iTC3mfe0DwE
+    description: |-
+      Learn about how the latest media-related capabilities on the web platform can be used to build efficient and delightful web media experiences. This talk covers both APIs (such as Picture-in-Picture) and codecs (AV1), reviewing some of the nuances of how they can be successfully implemented, along with examples and demos.
 
-- title: Day 2 Keynote
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Malte Ubl
-      twitter: cramforce
-      github:
-      website:
-    - name: Nicole Sullivan
-      twitter: stubbornella
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/SbUAkQ_s7Os
-  description: |-
-    Join us for a look at web frameworks and the web platform and how they can be stronger together–creating great user experiences at scale! Speaking of user experience: We’ve talked about things like jank and 60 frames per seconds for years, but some of these things remain hard to reliably achieve on the web. With a new set of web standards this is changing, and we’re super excited to introduce them to you!
+  - title: Modern Websites for E-commerce in the Real World
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-12
+    room:
+    authors:
+      - name: Cheney Tsai
+        twitter: cheneytsai
+        github:
+        website:
+      - name: Ramya Raghavan
+        twitter: ramyaaraghavan
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/SJiKWwBtQaU
+    description: |-
+      While the Web has provided increased capabilities, success for real-world ecommerce requires taking a measured approach. In this session, you'll hear how some ecommerce companies are tackling challenges like organizational complexity, legacy code, measurement, prioritization, and more to provide better experiences to their web users and prepare for future needs and demand. You'll also learn how AMP and PWA have played a role in shaping these modern consumer journeys.
 
-- title: Feature Policy & the Well-Lit Path for Web Development
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Jason Chase
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/igHvSUrLqXc
-  description: |-
-    Feature Policy is a new primitive which allows developers to selectively enable, disable, and modify the behavior of certain APIs and features in the browser. It's like CSP, but for features & APIs! Teams can use new tools like Feature Policy and the Reporting API to catch errors before they grow out of control, ensure site performance stays high, keep code quality healthy, and help avoid the web's biggest footguns.
+  - title: Progressive Content Management Systems
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-12
+    room:
+    authors:
+      - name: Alberto Medina
+        twitter: ialbmedina
+        github:
+        website:
+      - name: Weston Ruter
+        twitter: westonruter
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/s1WrBaAyzAI
+    description: |-
+      Content Management Systems (CMS) are software platforms designed to simplify the creation and management of websites and their content. Nowadays, about 50% of websites are powered by some sort of CMS platform. In this talk, we discuss our experience moving a complex CMS (i.e. WordPress) forward along the Progressive Web Road by integrating modern capabilities (e.g. Service Worker API) and progressive technologies (e.g. AMP) into its platform and ecosystem, and how the lessons learned can be applied to other CMSes.
 
-- title: 'virtual-scroller: Let there be less (DOM)'
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Gray Norton
-      twitter: graynorton
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/UtD41bn6kJ0
-  description: |-
-    Rendering performance is mainly a function of how much you render - too much DOM will slow your site to a crawl. Native platforms actually have the same problem, but they stay fast by promoting virtual scrolling: rendering just enough content to fill the screen and continuously updating as the user scrolls. On today’s Web, virtualization breaks basic features like links and find-in-page, but hope is in sight. We’ll take an early peek at an effort to add a first-class virtual scroller to HTML, building on an exciting new platform concept called Layered APIs.
+  - title: Making Modern Web Content Discoverable for Search
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-12
+    room:
+    authors:
+      - name: Martin Splitt
+        twitter: g33konaut
+        github:
+        website:
+      - name: Tom Greenaway
+        twitter: tcmg
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/YP2tMBhyU0I
+    description: |-
+      Many modern JavaScript frameworks render their HTML content on the client-side assuming that every environment that is accessing their pages is as modern as they are. However, many search engines – including Google Search – do not behave exactly the same as a user’s browser.  In this session, you will learn some facts about Google Search, its rendering pipeline and the various tools which can help you diagnose the gap between what your users see versus what Google Search sees. You have built a fast & engaging website – let’s make sure it’s discoverable too.
 
-- title: 'A Quest to Guarantee Responsiveness: Scheduling On and Off the Main Thread'
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Shubhie Panicker
-      twitter: shubhie
-      github:
-      website:
-    - name: Jason Miller
-      twitter: _developit
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/mDdgfyRB5kg
-  description: |-
-    To achieve a truly responsive experience, developers have to execute their code in 10ms chunks. That’s nearly impossible. In this talk, we'll explore two high-level strategies: Main thread scheduling, and moving work into backgrounds threads. We’ll dive into our latest performance research on multi-threading Javascript, demystify when to utilize web workers, and dive into what it really takes to guarantee responsiveness. Finally, we'll introduce a few exciting new proposals that we'd love your feedback on.
+  - title: Day 2 Keynote
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Malte Ubl
+        twitter: cramforce
+        github:
+        website:
+      - name: Nicole Sullivan
+        twitter: stubbornella
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/SbUAkQ_s7Os
+    description: |-
+      Join us for a look at web frameworks and the web platform and how they can be stronger together–creating great user experiences at scale! Speaking of user experience: We’ve talked about things like jank and 60 frames per seconds for years, but some of these things remain hard to reliably achieve on the web. With a new set of web standards this is changing, and we’re super excited to introduce them to you!
 
-- title: Architecting Web Apps - Lights, Camera, Action!
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Paul Lewis
-      twitter: aerotwist
-      github:
-      website:
-    - name: Surma
-      twitter: DasSurma
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Vg60lf92EkM
-  description: |-
-    Architecting web apps continues to be challenging, whether it's accounting for performance, the latest and greatest platform APIs, or simply trying to figure out what part of the app should do what!  In this talk, we explore how you can architect apps for maximum flexibility, and to that end we're going to reintroduce something that's 45-years old which might, in the end, pave the way for the future of web apps.
+  - title: Feature Policy & the Well-Lit Path for Web Development
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Jason Chase
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/igHvSUrLqXc
+    description: |-
+      Feature Policy is a new primitive which allows developers to selectively enable, disable, and modify the behavior of certain APIs and features in the browser. It's like CSP, but for features & APIs! Teams can use new tools like Feature Policy and the Reporting API to catch errors before they grow out of control, ensure site performance stays high, keep code quality healthy, and help avoid the web's biggest footguns.
 
-- title: From Low Friction to Zero Friction with Web Packaging and Portals
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Kinuko Yasuda
-      twitter:
-      github:
-      website:
-    - name: Rudy Galfi
-      twitter:
-      github:
-      website:
-    - name: Sumantro Das
-      twitter:
-      github:
-      website:
-    - name: Rustam Lalkaka
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Ai4aZ9Jbsys
-  description: |-
-    In this talk, we’ll look at emerging technologies to build better web experiences. Web packaging enables a next level of content portability that can be used to speed up content delivery or improve modes of content consumption, such as offline. Furthermore, by combining web packaging with a new primitive called Portals, we’ll show how we can take the web’s low friction trait a notch further with zero-friction user experiences.
+  - title: 'virtual-scroller: Let there be less (DOM)'
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Gray Norton
+        twitter: graynorton
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/UtD41bn6kJ0
+    description: |-
+      Rendering performance is mainly a function of how much you render - too much DOM will slow your site to a crawl. Native platforms actually have the same problem, but they stay fast by promoting virtual scrolling: rendering just enough content to fill the screen and continuously updating as the user scrolls. On today’s Web, virtualization breaks basic features like links and find-in-page, but hope is in sight. We’ll take an early peek at an effort to add a first-class virtual scroller to HTML, building on an exciting new platform concept called Layered APIs.
 
-- title: State of Houdini
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Surma
-      twitter: DasSurma
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/lK3OiJvwgSc
-  description: |-
-    Houdini continues to expand the power and capabilities of CSS. Houdini exposes the parts of the CSS engine that make possible APIs like CSS Grid, Scroll Snap Points, conic gradients, et al. Extend CSS’ capabilities yourself without questionable hacks and better performance.  In this talk, we look at the overall structure of the Houdini effort and take a closer look at CSS Paint, Animation Worklets and Custom Layout API. We can get a taste of what the future holds: An ecosystem of modules that bring powerful effects from the shelf to your app.
+  - title: 'A Quest to Guarantee Responsiveness: Scheduling On and Off the Main Thread'
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Shubhie Panicker
+        twitter: shubhie
+        github:
+        website:
+      - name: Jason Miller
+        twitter: _developit
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mDdgfyRB5kg
+    description: |-
+      To achieve a truly responsive experience, developers have to execute their code in 10ms chunks. That’s nearly impossible. In this talk, we'll explore two high-level strategies: Main thread scheduling, and moving work into backgrounds threads. We’ll dive into our latest performance research on multi-threading Javascript, demystify when to utilize web workers, and dive into what it really takes to guarantee responsiveness. Finally, we'll introduce a few exciting new proposals that we'd love your feedback on.
 
-- title: Building Engaging Immersive Experiences
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Chris Wilson
-      twitter: cwilso
-      github:
-      website:
-    - name: John Pallett
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ylz2EbWueKw
-  description: |-
-    The Web is emerging as an ideal platform for immersive reality experiences, particularly in augmented reality. In this talk, we will cover the progress in the WebXR Device API, show how partners are building compelling augmented reality experiences on the web today, and point you in the right direction to explore this space yourself.
+  - title: Architecting Web Apps - Lights, Camera, Action!
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Paul Lewis
+        twitter: aerotwist
+        github:
+        website:
+      - name: Surma
+        twitter: DasSurma
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Vg60lf92EkM
+    description: |-
+      Architecting web apps continues to be challenging, whether it's accounting for performance, the latest and greatest platform APIs, or simply trying to figure out what part of the app should do what!  In this talk, we explore how you can architect apps for maximum flexibility, and to that end we're going to reintroduce something that's 45-years old which might, in the end, pave the way for the future of web apps.
 
-- title: Using WebAssembly and Threads
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Alex Danilo
-      twitter: alexanderdanilo
-      github:
-      website:
-    - name: Thomas Nattestad
-      twitter: ThomasTheDane
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/zgOGZgAPUjQ
-  description: |-
-    WebAssembly enables new experiences that we’ve never been able to get on the Web before and now WebAssembly threads takes that even further. This talk shows some examples of what WebAssembly enables, highlighting a few real-world examples and demos.  You'll also learn about the tools and debugging capabilities available to help you  take advantage of WebAssembly and threads in your web applications today.
+  - title: From Low Friction to Zero Friction with Web Packaging and Portals
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Kinuko Yasuda
+        twitter:
+        github:
+        website:
+      - name: Rudy Galfi
+        twitter:
+        github:
+        website:
+      - name: Sumantro Das
+        twitter:
+        github:
+        website:
+      - name: Rustam Lalkaka
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Ai4aZ9Jbsys
+    description: |-
+      In this talk, we’ll look at emerging technologies to build better web experiences. Web packaging enables a next level of content portability that can be used to speed up content delivery or improve modes of content consumption, such as offline. Furthermore, by combining web packaging with a new primitive called Portals, we’ll show how we can take the web’s low friction trait a notch further with zero-friction user experiences.
 
-- title: 'The Virtue of Laziness: Leveraging Incrementality for Faster Web UI'
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Justin Fagnani
-      twitter: justinfagnani
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ypPRdtjGooc
-  description: |-
-    If the first rule of performance is "do less," the second is surely "be lazy." Using LitElement-based web components, we’ll explore the use of bleeding-edge techniques and browser APIs to spread work out so that your UI is faster to load, render and respond to user input. Topics we’ll cover include route-based dynamic module loading, async rendering, chunked rendering, IntersectionObserver, display-locking, and scheduling long-running tasks.
+  - title: State of Houdini
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Surma
+        twitter: DasSurma
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lK3OiJvwgSc
+    description: |-
+      Houdini continues to expand the power and capabilities of CSS. Houdini exposes the parts of the CSS engine that make possible APIs like CSS Grid, Scroll Snap Points, conic gradients, et al. Extend CSS’ capabilities yourself without questionable hacks and better performance.  In this talk, we look at the overall structure of the Houdini effort and take a closer look at CSS Paint, Animation Worklets and Custom Layout API. We can get a taste of what the future holds: An ecosystem of modules that bring powerful effects from the shelf to your app.
 
-- title: 'Chrome OS: Ready for Web Development'
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-13
-  room:
-  authors:
-    - name: Dan Dascalescu
-      twitter: dandv
-      github:
-      website:
-    - name: Stephen Barber
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/QTmAtXoPkgw
-  description: |-
-    Chrome OS not only powers devices from sticks to tablets to desktops, but it can also run web, Android, and now Linux applications, making Chromebooks premier machines for web development.  This talk provides a high-level overview of Chrome OS and discusses core and new features available to Web Developers. Topics include best practices for web development, including Progressive Web Apps, and optimizing input and touch for tablets, while having desktop users in mind.
+  - title: Building Engaging Immersive Experiences
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Chris Wilson
+        twitter: cwilso
+        github:
+        website:
+      - name: John Pallett
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ylz2EbWueKw
+    description: |-
+      The Web is emerging as an ideal platform for immersive reality experiences, particularly in augmented reality. In this talk, we will cover the progress in the WebXR Device API, show how partners are building compelling augmented reality experiences on the web today, and point you in the right direction to explore this space yourself.
+
+  - title: Using WebAssembly and Threads
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Alex Danilo
+        twitter: alexanderdanilo
+        github:
+        website:
+      - name: Thomas Nattestad
+        twitter: ThomasTheDane
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zgOGZgAPUjQ
+    description: |-
+      WebAssembly enables new experiences that we’ve never been able to get on the Web before and now WebAssembly threads takes that even further. This talk shows some examples of what WebAssembly enables, highlighting a few real-world examples and demos.  You'll also learn about the tools and debugging capabilities available to help you  take advantage of WebAssembly and threads in your web applications today.
+
+  - title: 'The Virtue of Laziness: Leveraging Incrementality for Faster Web UI'
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Justin Fagnani
+        twitter: justinfagnani
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ypPRdtjGooc
+    description: |-
+      If the first rule of performance is "do less," the second is surely "be lazy." Using LitElement-based web components, we’ll explore the use of bleeding-edge techniques and browser APIs to spread work out so that your UI is faster to load, render and respond to user input. Topics we’ll cover include route-based dynamic module loading, async rendering, chunked rendering, IntersectionObserver, display-locking, and scheduling long-running tasks.
+
+  - title: 'Chrome OS: Ready for Web Development'
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-13
+    room:
+    authors:
+      - name: Dan Dascalescu
+        twitter: dandv
+        github:
+        website:
+      - name: Stephen Barber
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/QTmAtXoPkgw
+    description: |-
+      Chrome OS not only powers devices from sticks to tablets to desktops, but it can also run web, Android, and now Linux applications, making Chromebooks premier machines for web development.  This talk provides a high-level overview of Chrome OS and discusses core and new features available to Web Developers. Topics include best practices for web development, including Progressive Web Apps, and optimizing input and touch for tablets, while having desktop users in mind.

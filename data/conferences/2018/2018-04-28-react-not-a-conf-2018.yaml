@@ -1,149 +1,165 @@
-- title: Opening
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-28
-  room:
-  authors:
-    - name: Janet Todorova
-      twitter: janettodorova
-      github: janettt
-      website:
-  slides:
-  videos:
-    - https://youtu.be/3eEDTIRVaYI
-  description: |-
+conference:
 
-- title: Integrating React Into Legacy Projects
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-28
-  room:
-  authors:
-    - name: Martin Chaov
-      twitter:
-      github: mchaov
-      website:
-  slides:
-    - https://onedrive.live.com/view.aspx?resid=AB06D56F74E407A5!368120&ithint=file%2cpptx&app=PowerPoint&authkey=!AFyK9PRwJwgw_Dc
-  videos:
-    - https://youtu.be/O1OhnLV76Tk
+  name: <React.NotAConf /> 2018
+  url: http://react-not-a-conf.com/archive/2018
+  status: complete
+  date:
+    from: 2018-04-28
+    to: 2018-04-28
+  location:
+    country:  Bulgaria
+    city: Sofia
   description: |-
+    <React.NotAConf /> is an initiative brought to live by <React.Sofia /> meetup - a community of 700+ React enthusiasts. ⚛️ In 2018, we successfully shipped the first edition of the conference. 🚀In 2019 we are planning something even better. 🤩 Stay tuned!
 
-- title: Reactive Blockchain
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-28
-  room:
-  authors:
-    - name: Vladimir Tasev
-      twitter: DeVladinci
-      github: devladinci
-      website:
-  slides:
-  videos:
-    - https://youtu.be/I3A7fdHID7A
-  description: |-
+talks:
 
-- title: Humanizing Your Documentation
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-28
-  room:
-  authors:
-    - name: Carolyn Stransky
-      twitter: carolstran
-      github: carolstran
-      website:
-  slides:
-    - https://speakerdeck.com/carolstran/humanizing-your-documentation-full-talk
-  videos:
-    - https://youtu.be/8PGrsRnfxc0
-  description: |-
+  - title: Opening
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-28
+    room:
+    authors:
+      - name: Janet Todorova
+        twitter: janettodorova
+        github: janettt
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3eEDTIRVaYI
+    description: |-
 
-- title: Structuring Your App’s Story With Sagas and Selectors
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-28
-  room:
-  authors:
-    - name: Rebecca Hill
-      twitter: rebekaka
-      github: beerecca
-      website:
-  slides:
-    - https://s3.eu-central-1.amazonaws.com/conference-box/slides/Structure+your+story-sofia.pdf
-  videos:
-    - https://youtu.be/3XV8MQZHsQ8
-  description: |-
+  - title: Integrating React Into Legacy Projects
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-28
+    room:
+    authors:
+      - name: Martin Chaov
+        twitter:
+        github: mchaov
+        website:
+    slides:
+      - https://onedrive.live.com/view.aspx?resid=AB06D56F74E407A5!368120&ithint=file%2cpptx&app=PowerPoint&authkey=!AFyK9PRwJwgw_Dc
+    videos:
+      - https://youtu.be/O1OhnLV76Tk
+    description: |-
 
-- title: NADCast
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-28
-  room:
-  authors:
-    - name: Krasimir Tsonev
-      twitter: KasimirTsonev
-      github: krasimir
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Qz9IeCHIc_Q
-  description: |-
+  - title: Reactive Blockchain
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-28
+    room:
+    authors:
+      - name: Vladimir Tasev
+        twitter: DeVladinci
+        github: devladinci
+        website:
+    slides:
+    videos:
+      - https://youtu.be/I3A7fdHID7A
+    description: |-
 
-- title: Garbage Collection in Modern Web Applications
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-28
-  room:
-  authors:
-    - name: Jan Monschke
-      twitter: thedeftone
-      github: janmonschke
-      website:
-  slides:
-    - https://docs.google.com/presentation/d/16BdKLmW7obr3cuqBBO4w-FNZ6y3FsktlLuWWxxunLOc/edit#slide=id.p
-  videos:
-    - https://youtu.be/XtcGHhhGoZw
-  description: |-
+  - title: Humanizing Your Documentation
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-28
+    room:
+    authors:
+      - name: Carolyn Stransky
+        twitter: carolstran
+        github: carolstran
+        website:
+    slides:
+      - https://speakerdeck.com/carolstran/humanizing-your-documentation-full-talk
+    videos:
+      - https://youtu.be/8PGrsRnfxc0
+    description: |-
 
-- title: Designing with React
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-28
-  room:
-  authors:
-    - name: Kristin Baumann
-      twitter: kristin_baumann
-      github:
-      website:
-  slides:
-    - https://speakerdeck.com/devladinci/from-native-to-react-native
-  videos:
-    - https://youtu.be/cdU6sLjV564
-  description: |-
+  - title: Structuring Your App’s Story With Sagas and Selectors
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-28
+    room:
+    authors:
+      - name: Rebecca Hill
+        twitter: rebekaka
+        github: beerecca
+        website:
+    slides:
+      - https://s3.eu-central-1.amazonaws.com/conference-box/slides/Structure+your+story-sofia.pdf
+    videos:
+      - https://youtu.be/3XV8MQZHsQ8
+    description: |-
 
-- title: Rebuilding Product Hunt Mobile with React.Native
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-28
-  room:
-  authors:
-    - name: Vladimir Vladimirov
-      twitter: DeVladinci
-      github: devladinci
-      website:
-  slides:
-    - https://speakerdeck.com/devladinci/from-native-to-react-native
-  videos:
-    - https://youtu.be/LUG_REf4lrk
-  description: |-
+  - title: NADCast
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-28
+    room:
+    authors:
+      - name: Krasimir Tsonev
+        twitter: KasimirTsonev
+        github: krasimir
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Qz9IeCHIc_Q
+    description: |-
+
+  - title: Garbage Collection in Modern Web Applications
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-28
+    room:
+    authors:
+      - name: Jan Monschke
+        twitter: thedeftone
+        github: janmonschke
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/16BdKLmW7obr3cuqBBO4w-FNZ6y3FsktlLuWWxxunLOc/edit#slide=id.p
+    videos:
+      - https://youtu.be/XtcGHhhGoZw
+    description: |-
+
+  - title: Designing with React
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-28
+    room:
+    authors:
+      - name: Kristin Baumann
+        twitter: kristin_baumann
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/devladinci/from-native-to-react-native
+    videos:
+      - https://youtu.be/cdU6sLjV564
+    description: |-
+
+  - title: Rebuilding Product Hunt Mobile with React.Native
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-28
+    room:
+    authors:
+      - name: Vladimir Vladimirov
+        twitter: DeVladinci
+        github: devladinci
+        website:
+    slides:
+      - https://speakerdeck.com/devladinci/from-native-to-react-native
+    videos:
+      - https://youtu.be/LUG_REf4lrk
+    description: |-

@@ -1,467 +1,483 @@
-- title: Introduction to Web Security
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-21
-  room:
-  authors:
-    - name: Dominik Kundel
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/-vYak5hEGrY
-  description: |-
+conference:
 
-- title: Native Web Animation
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-21
-  room:
-  authors:
-    - name: Lisi Linhart
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Nf_LOfzpric
+  name: JSUnconf 2018
+  url: https://2018.jsunconf.eu/
+  status: complete
+  date:
+    from: 2018-04-21
+    to: 2018-04-22
+  location:
+    country: Germany
+    city: Hamburg
   description: |-
+    JavaScript Unconference 2018 in Hamburg. It's your conference. You decide what will happen.
 
-- title: Micro Frontends
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-21
-  room:
-  authors:
-    - name: Elmar Burke
-      twitter:
-      github:
-      website:
-    - name: Hans Christian Otto
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/xY8CaVQ2OHY
-  description: |-
+talks:
 
-- title: preconnect, prefetch, preload, pre what? An intro to Resource Hints
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-21
-  room:
-  authors:
-    - name: Robin Drexler
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/6q75MVFLlok
-  description: |-
+  - title: Introduction to Web Security
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-21
+    room:
+    authors:
+      - name: Dominik Kundel
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-vYak5hEGrY
+    description: |-
 
-- title: How hard can it be! Practical uses of complexity theory
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-21
-  room:
-  authors:
-    - name: Anna Melzer
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ljVPAqR-aF0
-  description: |-
+  - title: Native Web Animation
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-21
+    room:
+    authors:
+      - name: Lisi Linhart
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Nf_LOfzpric
+    description: |-
 
-- title: Machine Learning in the Browser
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-21
-  room:
-  authors:
-    - name: Lian Li
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/4fzgDaILoTc
-  description: |-
+  - title: Micro Frontends
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-21
+    room:
+    authors:
+      - name: Elmar Burke
+        twitter:
+        github:
+        website:
+      - name: Hans Christian Otto
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xY8CaVQ2OHY
+    description: |-
 
-- title: Down the SVG Rabbit Hole
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Robyn Larsen
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/IChfGN8nm5Q
-  description: |-
+  - title: preconnect, prefetch, preload, pre what? An intro to Resource Hints
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-21
+    room:
+    authors:
+      - name: Robin Drexler
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/6q75MVFLlok
+    description: |-
 
-- title: Houdini the new CSS Magic
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Karsten Buckstegge
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/vZk7qPTVs5s
-  description: |-
+  - title: How hard can it be! Practical uses of complexity theory
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-21
+    room:
+    authors:
+      - name: Anna Melzer
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ljVPAqR-aF0
+    description: |-
 
-- title: High Performance Web Fonts
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Peter Müller
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/xRMc0JtQEG0
-  description: |-
+  - title: Machine Learning in the Browser
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-21
+    room:
+    authors:
+      - name: Lian Li
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4fzgDaILoTc
+    description: |-
 
-- title: Putting WebAssembly in your web app today!
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Johann Hofmann
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/-WtE0Bv6iSs
-  description: |-
+  - title: Down the SVG Rabbit Hole
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Robyn Larsen
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/IChfGN8nm5Q
+    description: |-
 
-- title: The importance of taking a break
-  lang: en
-  type: lightning
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Ramon Huidobro
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/6T_6THrR5Qo
-  description: |-
+  - title: Houdini the new CSS Magic
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Karsten Buckstegge
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/vZk7qPTVs5s
+    description: |-
 
-- title: AV1
-  lang: en
-  type: lightning
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Istvan Szmozsanszky
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/hJ_oKpl8pIo
-  description: |-
+  - title: High Performance Web Fonts
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Peter Müller
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xRMc0JtQEG0
+    description: |-
 
-- title: Hacking create react app to use preact
-  lang: en
-  type: lightning
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Daniel Spitzer
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/UAxJCo3ZZ2w
-  description: |-
+  - title: Putting WebAssembly in your web app today!
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Johann Hofmann
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-WtE0Bv6iSs
+    description: |-
 
-- title: Health, mental health and what not
-  lang: en
-  type: lightning
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Diana Ilithya
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/kVZCfOLymtM
-  description: |-
+  - title: The importance of taking a break
+    lang: en
+    type: lightning
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Ramon Huidobro
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/6T_6THrR5Qo
+    description: |-
 
-- title: Punchcard coding with CSS
-  lang: en
-  type: lightning
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Fabricius Seifert
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/UjHv5D-pcm8
-  description: |-
+  - title: AV1
+    lang: en
+    type: lightning
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Istvan Szmozsanszky
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hJ_oKpl8pIo
+    description: |-
 
-- title: The algorithmic beauty of plants
-  lang: en
-  type: lightning
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Anna Melzer
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/B1CT5pLKVSM
-  description: |-
+  - title: Hacking create react app to use preact
+    lang: en
+    type: lightning
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Daniel Spitzer
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/UAxJCo3ZZ2w
+    description: |-
 
-- title: A word from an organizer
-  lang: en
-  type: lightning
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Gregor Elke
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/zqihrf4YXiU
-  description: |-
+  - title: Health, mental health and what not
+    lang: en
+    type: lightning
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Diana Ilithya
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/kVZCfOLymtM
+    description: |-
 
-- title: In app browsers
-  lang: en
-  type: lightning
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Franco Speziali
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/SUKJsPSvrF0
-  description: |-
+  - title: Punchcard coding with CSS
+    lang: en
+    type: lightning
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Fabricius Seifert
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/UjHv5D-pcm8
+    description: |-
 
-- title: Check your links with hyperlink
-  lang: en
-  type: lightning
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Peter Müller
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/1AAp2fn7yCU
-  description: |-
+  - title: The algorithmic beauty of plants
+    lang: en
+    type: lightning
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Anna Melzer
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/B1CT5pLKVSM
+    description: |-
 
-- title: The importance of cross cultural competency
-  lang: en
-  type: lightning
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Julia Hurrelmann
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/dgdir5XDdOk
-  description: |-
+  - title: A word from an organizer
+    lang: en
+    type: lightning
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Gregor Elke
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zqihrf4YXiU
+    description: |-
 
-- title: Think outside the box
-  lang: en
-  type: lightning
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Philipp Hinrichsen
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/kmWlte7m8yI
-  description: |-
+  - title: In app browsers
+    lang: en
+    type: lightning
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Franco Speziali
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/SUKJsPSvrF0
+    description: |-
 
-- title: Turning wireframes into code
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-21
-  room:
-  authors:
-    - name: Markus Siering
-      twitter:
-      github:
-      website:
-  slides:
-    - https://slidr.io/HerrBertling/from-wireframes-to-code
-  videos:
-  description: |-
+  - title: Check your links with hyperlink
+    lang: en
+    type: lightning
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Peter Müller
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1AAp2fn7yCU
+    description: |-
 
-- title: World domination
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-21
-  room:
-  authors:
-    - name: Kathrin Holzmann
-      twitter:
-      github:
-      website:
-  slides:
-    - https://slidr.io/Lelith/world-domination-101-global-conquest-and-ruling-with-living-design-syste#1
-  videos:
-  description: |-
+  - title: The importance of cross cultural competency
+    lang: en
+    type: lightning
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Julia Hurrelmann
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/dgdir5XDdOk
+    description: |-
 
-- title: (Web) Hooked on a feeling with Serverless
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-21
-  room:
-  authors:
-    - name: Emanuel Kluge
-      twitter:
-      github:
-      website:
-  slides:
-    - https://github.com/herschel666/web-hooked-on-a-feeling-with-serverless
-  videos:
-  description: |-
+  - title: Think outside the box
+    lang: en
+    type: lightning
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Philipp Hinrichsen
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/kmWlte7m8yI
+    description: |-
 
-- title: Accelerating talent through community bootcamps
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-21
-  room:
-  authors:
-    - name: Julia Hurrelmann
-      twitter:
-      github:
-      website:
-  slides:
-    - https://shopifyengineering.myshopify.com/blogs/engineering/accelerating-android-talent-through-community-bootcamps
-  videos:
-  description: |-
+  - title: Turning wireframes into code
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-21
+    room:
+    authors:
+      - name: Markus Siering
+        twitter:
+        github:
+        website:
+    slides:
+      - https://slidr.io/HerrBertling/from-wireframes-to-code
+    videos:
+    description: |-
 
-- title: lerna - migrate your package zoo to a monorepo
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-21
-  room:
-  authors:
-    - name: Arnd Issler
-      twitter:
-      github:
-      website:
-  slides:
-    - https://speakerdeck.com/arndissler/lerna-migrate-your-package-zoo-to-a-monorepo
-  videos:
-  description: |-
+  - title: World domination
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-21
+    room:
+    authors:
+      - name: Kathrin Holzmann
+        twitter:
+        github:
+        website:
+    slides:
+      - https://slidr.io/Lelith/world-domination-101-global-conquest-and-ruling-with-living-design-syste#1
+    videos:
+    description: |-
 
-- title: Web accessibility
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-21
-  room:
-  authors:
-    - name: Darek Kay
-      twitter:
-      github:
-      website:
-  slides:
-    - https://darekkay.github.io/presentations/accessible-web/index.html#/
-  videos:
-  description: |-
+  - title: (Web) Hooked on a feeling with Serverless
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-21
+    room:
+    authors:
+      - name: Emanuel Kluge
+        twitter:
+        github:
+        website:
+    slides:
+      - https://github.com/herschel666/web-hooked-on-a-feeling-with-serverless
+    videos:
+    description: |-
 
-- title: Screenshot Tests
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Ansgar Mertens
-      twitter:
-      github:
-      website:
-  slides:
-    - http://amrtns.com/talks/screenshot-tests
-  videos:
-  description: |-
+  - title: Accelerating talent through community bootcamps
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-21
+    room:
+    authors:
+      - name: Julia Hurrelmann
+        twitter:
+        github:
+        website:
+    slides:
+      - https://shopifyengineering.myshopify.com/blogs/engineering/accelerating-android-talent-through-community-bootcamps
+    videos:
+    description: |-
 
-- title: Handling and validating user input in a react app
-  lang: en
-  type: regular
-  level:
-  time: 2018-04-22
-  room:
-  authors:
-    - name: Edward Byne
-      twitter:
-      github:
-      website:
-  slides:
-    - http://slides.com/edwardbyne/deck-2
-  videos:
-  description: |-
+  - title: lerna - migrate your package zoo to a monorepo
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-21
+    room:
+    authors:
+      - name: Arnd Issler
+        twitter:
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/arndissler/lerna-migrate-your-package-zoo-to-a-monorepo
+    videos:
+    description: |-
+
+  - title: Web accessibility
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-21
+    room:
+    authors:
+      - name: Darek Kay
+        twitter:
+        github:
+        website:
+    slides:
+      - https://darekkay.github.io/presentations/accessible-web/index.html#/
+    videos:
+    description: |-
+
+  - title: Screenshot Tests
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Ansgar Mertens
+        twitter:
+        github:
+        website:
+    slides:
+      - http://amrtns.com/talks/screenshot-tests
+    videos:
+    description: |-
+
+  - title: Handling and validating user input in a react app
+    lang: en
+    type: regular
+    level:
+    time: 2018-04-22
+    room:
+    authors:
+      - name: Edward Byne
+        twitter:
+        github:
+        website:
+    slides:
+      - http://slides.com/edwardbyne/deck-2
+    videos:
+    description: |-

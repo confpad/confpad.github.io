@@ -1,184 +1,200 @@
-- title: Books, Walking, and the Ethics of Scale
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-10
-  room:
-  authors:
-    - name: Craig Mod
-      twitter: craigmod
-      github:
-      website: https://craigmod.com/
-  slides:
-  videos:
-    - https://vimeo.com/301197052
-  description: |-
-    Systems and products that have the most influence on the world today tend to have the least presence. What tools can we use to make their intangibility and intensely unhuman scale more human and tangible? We’ll look at book design, how designers of the 20th century have tackled this problem, and how meditative practices such as vipasanna and walking are useful tools in the contemporary human toolkit.
+conference:
 
-- title: 'The Small Things That Add Up: How to Find What Design Factors Influence Conversion Rates'
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-10
-  room:
-  authors:
-    - name: Tammy Everts
-      twitter: tameverts
-      github:
-      website: https://tammyeverts.wordpress.com/
-  slides:
-  videos:
-    - https://vimeo.com/297828304
+  name: Smashing Conference Freiburg 2018
+  url: https://smashingconf.com/freiburg-2018/
+  status: complete
+  date:
+    from: 2018-09-10
+    to: 2018-09-11
+  location:
+    country: Germany
+    city: Freiburg
   description: |-
-    How do you know what consumers expect from your site? Every shopper is different and every shopping visit is different. Industry stats tell only part of the story. You need to crack the hood and analyze your own real user data.Tammy will outline how and why to gather real user data, extract action-oriented insights, create a better shopper experience, and improve business metrics.
+    Home, sweet home! The 7th SmashingConf Freiburg — in our lovely hometown in Germany — will be taking place in the Historic Merchants’ Hall on September 10-11.
 
-- title: Building Resilient Frontend Systems
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-10
-  room:
-  authors:
-    - name: Ian Feather
-      twitter: ianfeather
-      github:
-      website: https://www.ianfeather.co.uk/
-  slides:
-  videos:
-    - https://vimeo.com/297829767
-  description: |-
-    Ian will explain the principles behind our approach as well as detailing some of the solutions we have put in place: covering areas of automation, instrumentation and continuous testing in production. Come and learn 19 ways BuzzFeed designs their frontend to be resilient to failure!
+talks:
 
-- title: Designing for Global Audiences
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-10
-  room:
-  authors:
-    - name: Chui Chui Tan
-      twitter: chuisquared
-      github:
-      website: https://beyo.global/
-  slides:
-  videos:
-    - https://vimeo.com/297829238
-  description: |-
-    Whether or not the product you’re creating is currently only being sold in one country, it’s always crucial to design and build it with global audiences in mind.Many businesses are convinced that designing for other markets means copying their successful business model in the home country. They believe that localisation is about translation. They design their products without properly understand what changes are needed and why they are needed. Even big companies do not always get it right.In this talk, Chui Chui will discuss how these inaccurate perceptions can lead to flawed businesses and decisions, and explore why and how to understand and design for users in different markets.
+  - title: Books, Walking, and the Ethics of Scale
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-10
+    room:
+    authors:
+      - name: Craig Mod
+        twitter: craigmod
+        github:
+        website: https://craigmod.com/
+    slides:
+    videos:
+      - https://vimeo.com/301197052
+    description: |-
+      Systems and products that have the most influence on the world today tend to have the least presence. What tools can we use to make their intangibility and intensely unhuman scale more human and tangible? We’ll look at book design, how designers of the 20th century have tackled this problem, and how meditative practices such as vipasanna and walking are useful tools in the contemporary human toolkit.
 
-- title: I Thought we Were Building World Peace - Using Tech Ethics to Build Better Futures
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-10
-  room:
-  authors:
-    - name: Morten R.-Hendriksen
-      twitter: morlo
-      github:
-      website: https://mor10.com/
-  slides:
-  videos:
-    - https://vimeo.com/297827456
-  description: |-
-    Every decision we make is one made on behalf of your user. How do we know the decisions we make are the right ones? It is time we initiate a conversation: About where we are and where we want to go, about how we define and measure goodness and rightness in the digital realm, about responsibility, about decisions and consequences, about building something bigger than our own apps. It is time we talk about the ethics of design.This talk introduces a method for ethical decision making in design and tech. Rather than a wet moralistic blanket covering the fires of creativity, ethics can be the hearth that makes our creative fires burn brighter without burning down the house.
+  - title: 'The Small Things That Add Up: How to Find What Design Factors Influence Conversion Rates'
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-10
+    room:
+    authors:
+      - name: Tammy Everts
+        twitter: tameverts
+        github:
+        website: https://tammyeverts.wordpress.com/
+    slides:
+    videos:
+      - https://vimeo.com/297828304
+    description: |-
+      How do you know what consumers expect from your site? Every shopper is different and every shopping visit is different. Industry stats tell only part of the story. You need to crack the hood and analyze your own real user data.Tammy will outline how and why to gather real user data, extract action-oriented insights, create a better shopper experience, and improve business metrics.
 
-- title: Hack to the Future
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-10
-  room:
-  authors:
-    - name: Seb Lee-Delisle
-      twitter: seb_ly
-      github:
-      website: http://seb.ly/
-  slides:
-  videos:
-    - https://vimeo.com/297827821
-  description: |-
-    Seb loves to strip down classic machines from the 80s, and give them an extreme make-over with cutting edge technology. You may have seen the hacked Nintendo light gun with laser, lights and a built-in smoke machine that became a viral sensation on the internet in 2016.This insight into technology from a simpler age gives us a new found appreciation and understanding about the tools we use on a daily basis.Expect super bright LEDs, electronics and, of course, lasers.
+  - title: Building Resilient Frontend Systems
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-10
+    room:
+    authors:
+      - name: Ian Feather
+        twitter: ianfeather
+        github:
+        website: https://www.ianfeather.co.uk/
+    slides:
+    videos:
+      - https://vimeo.com/297829767
+    description: |-
+      Ian will explain the principles behind our approach as well as detailing some of the solutions we have put in place: covering areas of automation, instrumentation and continuous testing in production. Come and learn 19 ways BuzzFeed designs their frontend to be resilient to failure!
 
-- title: 'The Future of Travel: How Mixed Method Research Helped Shape Airbnb Experiences'
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-11
-  room:
-  authors:
-    - name: Hannah Pileggi
-      twitter: achpea
-      github:
-      website: http://www.hannahpileggi.com/
-  slides:
-  videos:
-  description: |-
-    Hannah will show us a case study of how she utilised user research to improve business and design decisions on a brand new product – Airbnb Trips.
+  - title: Designing for Global Audiences
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-10
+    room:
+    authors:
+      - name: Chui Chui Tan
+        twitter: chuisquared
+        github:
+        website: https://beyo.global/
+    slides:
+    videos:
+      - https://vimeo.com/297829238
+    description: |-
+      Whether or not the product you’re creating is currently only being sold in one country, it’s always crucial to design and build it with global audiences in mind.Many businesses are convinced that designing for other markets means copying their successful business model in the home country. They believe that localisation is about translation. They design their products without properly understand what changes are needed and why they are needed. Even big companies do not always get it right.In this talk, Chui Chui will discuss how these inaccurate perceptions can lead to flawed businesses and decisions, and explore why and how to understand and design for users in different markets.
 
-- title: Designing for Kids is not a Game
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-11
-  room:
-  authors:
-    - name: Trine Falbe
-      twitter: trinefalbe
-      github:
-      website: http://www.trinefalbe.com/
-  slides:
-  videos:
-    - https://vimeo.com/297828567
-  description: |-
-    The children of today are growing up in a different paradigm than their parents, who might even remember what the world was like before the Internet!This impacts the way they perceive and interact with the world around them, especially with digital products.In this talk, Trine will explain how kids develop and learn, and how to design digital products that help them grow rather than dumb them down.
+  - title: I Thought we Were Building World Peace - Using Tech Ethics to Build Better Futures
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-10
+    room:
+    authors:
+      - name: Morten R.-Hendriksen
+        twitter: morlo
+        github:
+        website: https://mor10.com/
+    slides:
+    videos:
+      - https://vimeo.com/297827456
+    description: |-
+      Every decision we make is one made on behalf of your user. How do we know the decisions we make are the right ones? It is time we initiate a conversation: About where we are and where we want to go, about how we define and measure goodness and rightness in the digital realm, about responsibility, about decisions and consequences, about building something bigger than our own apps. It is time we talk about the ethics of design.This talk introduces a method for ethical decision making in design and tech. Rather than a wet moralistic blanket covering the fires of creativity, ethics can be the hearth that makes our creative fires burn brighter without burning down the house.
 
-- title: Taking Back Control Over Third-party Content
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-11
-  room:
-  authors:
-    - name: Yoav Weiss
-      twitter: yoavweiss
-      github:
-      website: https://blog.yoav.ws/
-  slides:
-  videos:
-    - https://vimeo.com/297828895
-  description: |-
-    Yoav Weiss explores mitigation tactics as well as a long-term plan to restore sanity to the ecosystem, arguing that we need mechanisms that put developers back in the driver’s seat as well as smarter ad blockers so that responsible third parties can remain a source of income.
+  - title: Hack to the Future
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-10
+    room:
+    authors:
+      - name: Seb Lee-Delisle
+        twitter: seb_ly
+        github:
+        website: http://seb.ly/
+    slides:
+    videos:
+      - https://vimeo.com/297827821
+    description: |-
+      Seb loves to strip down classic machines from the 80s, and give them an extreme make-over with cutting edge technology. You may have seen the hacked Nintendo light gun with laser, lights and a built-in smoke machine that became a viral sensation on the internet in 2016.This insight into technology from a simpler age gives us a new found appreciation and understanding about the tools we use on a daily basis.Expect super bright LEDs, electronics and, of course, lasers.
 
-- title: 'A Word to the Wise: Writing Product Copy to Transform Your User Experience'
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-11
-  room:
-  authors:
-    - name: Andrea Drugay
-      twitter: andreadrugay
-      github:
-      website: https://andreadrugay.com/
-  slides:
-  videos:
-    - https://vimeo.com/297829604
-  description: |-
-    In this talk, Andrea will be sharing top tips and best practices for making sure your product copy is clear, concise, and consistent. You’ll learn to avoid misleading or confusing wording, write error messages that don’t frustrate your users, and even create delight where and when possible. She'll also share tips on process, organization, and flow, so your design team can create copy that helps your users have the best possible experience. You’ll come away from the talk with ideas and inspiration to create and manage all the copy in your products, from microcopy to onboarding flows.
+  - title: 'The Future of Travel: How Mixed Method Research Helped Shape Airbnb Experiences'
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-11
+    room:
+    authors:
+      - name: Hannah Pileggi
+        twitter: achpea
+        github:
+        website: http://www.hannahpileggi.com/
+    slides:
+    videos:
+    description: |-
+      Hannah will show us a case study of how she utilised user research to improve business and design decisions on a brand new product – Airbnb Trips.
 
-- title: Design in the Era of the Algorithm
-  lang: en
-  type: regular
-  level:
-  time: 2018-09-11
-  room:
-  authors:
-    - name: Josh Clark
-      twitter: bigmediumjosh
-      github:
-      website: https://bigmedium.com/
-  slides:
-  videos:
-  description: |-
-    The design and presentation of data is just as important as the underlying algorithm, and designers have an urgent role to play in crafting the emerging generation of AI interfaces.Designer Josh Clark explores a rich trove of examples—at once entertaining and sobering—to unearth design principles for creating responsible machine-learning applications.Learn to use AI as design material in your everyday work. Adapt to the machines’ weird, unexpected, or flat-out-wrong conclusions. And above all, scrub data for bias to create the respectful and inclusive world we all want to live in.
+  - title: Designing for Kids is not a Game
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-11
+    room:
+    authors:
+      - name: Trine Falbe
+        twitter: trinefalbe
+        github:
+        website: http://www.trinefalbe.com/
+    slides:
+    videos:
+      - https://vimeo.com/297828567
+    description: |-
+      The children of today are growing up in a different paradigm than their parents, who might even remember what the world was like before the Internet!This impacts the way they perceive and interact with the world around them, especially with digital products.In this talk, Trine will explain how kids develop and learn, and how to design digital products that help them grow rather than dumb them down.
+
+  - title: Taking Back Control Over Third-party Content
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-11
+    room:
+    authors:
+      - name: Yoav Weiss
+        twitter: yoavweiss
+        github:
+        website: https://blog.yoav.ws/
+    slides:
+    videos:
+      - https://vimeo.com/297828895
+    description: |-
+      Yoav Weiss explores mitigation tactics as well as a long-term plan to restore sanity to the ecosystem, arguing that we need mechanisms that put developers back in the driver’s seat as well as smarter ad blockers so that responsible third parties can remain a source of income.
+
+  - title: 'A Word to the Wise: Writing Product Copy to Transform Your User Experience'
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-11
+    room:
+    authors:
+      - name: Andrea Drugay
+        twitter: andreadrugay
+        github:
+        website: https://andreadrugay.com/
+    slides:
+    videos:
+      - https://vimeo.com/297829604
+    description: |-
+      In this talk, Andrea will be sharing top tips and best practices for making sure your product copy is clear, concise, and consistent. You’ll learn to avoid misleading or confusing wording, write error messages that don’t frustrate your users, and even create delight where and when possible. She'll also share tips on process, organization, and flow, so your design team can create copy that helps your users have the best possible experience. You’ll come away from the talk with ideas and inspiration to create and manage all the copy in your products, from microcopy to onboarding flows.
+
+  - title: Design in the Era of the Algorithm
+    lang: en
+    type: regular
+    level:
+    time: 2018-09-11
+    room:
+    authors:
+      - name: Josh Clark
+        twitter: bigmediumjosh
+        github:
+        website: https://bigmedium.com/
+    slides:
+    videos:
+    description: |-
+      The design and presentation of data is just as important as the underlying algorithm, and designers have an urgent role to play in crafting the emerging generation of AI interfaces.Designer Josh Clark explores a rich trove of examples—at once entertaining and sobering—to unearth design principles for creating responsible machine-learning applications.Learn to use AI as design material in your everyday work. Adapt to the machines’ weird, unexpected, or flat-out-wrong conclusions. And above all, scrub data for bias to create the respectful and inclusive world we all want to live in.

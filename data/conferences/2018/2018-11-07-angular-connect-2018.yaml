@@ -1,586 +1,602 @@
-- title: Keynote address
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: John Doe
-      twitter: IgorMinar
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/rbFLorQWlOQ
-  description: |-
-    Igor is a software engineer at Google. He is a lead on the Angular project, practitioner of test driven development, open source enthusiast, hacker. In his free time, Igor enjoys spending time with his wife and two kids, doing outdoor activities (including but not limited to sports, gardening and building retaining walls).
+conference:
 
-- title: VS Code Can Do That
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: John Papa
-      twitter: John_Papa
-      github:
-      website:
-  slides:
-    - https://slides.com/johnpapa/vs-code-can-do-that#/
-  videos:
-    - https://youtu.be/0QehKy1hyOQ
+  name: Angular Connect 2018
+  url: https://past.angularconnect.com/2018/
+  status: complete
+  date:
+    from: 2018-11-07
+    to: 2018-11-09
+  location:
+    country: United Kingdom
+    city: London
   description: |-
-    How do you debug so easily in VS Code? How can I debug remotely in the cloud or locally in a docker container? What are those key combinations to edit code so quickly? What extensions are the ones I shouldn't code without? Get ready to hit the ground running in this fast-paced, demo-heavy talk that takes you through some of the best and most effective tips and tricks in VS Code. Learn how to setup your environment and customize it the way you like it. We'll also learn how to use Live Share so we can pair program on the same app! You'll walk out with several tips on how to be more efficient with one of the hottest tools on the Web today!
+    Our brilliant sponsors make AngularConnect possible. Check out their websites and come and say hello on the day. Ever thought about joining them up there in lights?
 
-- title: Automating UI development
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Stefan Baumgartner
-      twitter: ddprrt
-      github:
-      website:
-    - name: Katrin Freihofner
-      twitter: Ka_TriN_F
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/ddprrt/automating-ui-development
-  videos:
-    - https://youtu.be/3_XvaSD_0xo
-  description: |-
-    Design systems and pattern libraries help designers and developers to get a common understanding of user interfaces. But even with such tools in place, there's a ton of processes and handovers involved. Each one causing possible friction and information loss. Especially over time. This might lead to new features feeling outdated on release, and screens and mock-ups getting too old too fast.With our recent move to Angular and Sketch, we were able to automate 70% of our UI development. Helping our developers to focus on the real problems, and reducing the UI review efforts tremendously. Join us and see how we produce a single source of truth for developers and designers, and how we are able to consume this source in our tool of choice.
+talks:
 
-- title: How to save time & money by planning your ngUpgrade
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Sam Julien
-      twitter: samjulien
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/495KHr966e0
-  description: |-
-    There aIn this
+  - title: Keynote address
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: John Doe
+        twitter: IgorMinar
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/rbFLorQWlOQ
+    description: |-
+      Igor is a software engineer at Google. He is a lead on the Angular project, practitioner of test driven development, open source enthusiast, hacker. In his free time, Igor enjoys spending time with his wife and two kids, doing outdoor activities (including but not limited to sports, gardening and building retaining walls).
 
-- title: RxJS schedulers in depth
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Michael Hladky
-      twitter: Michael_Hladky
-      github:
-      website:
-  slides:
-    - https://docs.google.com/presentation/d/1MFP-mpOCWX_dWmds4T8xhB0HB0_VJbcl4_RWWOZMWGw/edit#slide=id.g47d0d46418_3_0
-  videos:
-    - https://youtu.be/S1eDh7MonbI
-  description: |-
-    Is an observable executed synchronously? You might think you know it, most people don't. In this talk, I'll introduce you to the world of schedulers, its secrets and advantages. I will show you how to use them in basic cases, as well as advanced scenarios.After this session you will master smooth animations, solving complex timing errors and controlling execution context like an expert. And all this with schedulers.
+  - title: VS Code Can Do That
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: John Papa
+        twitter: John_Papa
+        github:
+        website:
+    slides:
+      - https://slides.com/johnpapa/vs-code-can-do-that#/
+    videos:
+      - https://youtu.be/0QehKy1hyOQ
+    description: |-
+      How do you debug so easily in VS Code? How can I debug remotely in the cloud or locally in a docker container? What are those key combinations to edit code so quickly? What extensions are the ones I shouldn't code without? Get ready to hit the ground running in this fast-paced, demo-heavy talk that takes you through some of the best and most effective tips and tricks in VS Code. Learn how to setup your environment and customize it the way you like it. We'll also learn how to use Live Share so we can pair program on the same app! You'll walk out with several tips on how to be more efficient with one of the hottest tools on the Web today!
 
-- title: How to AI in JS?
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Asim Hussain
-      twitter: jawache
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/_H2NNofisA0
-  description: |-
-    There are many exciting things happening with AI, from which, until recently, JavaScript developers were largely shut out. But things are changing, if you can do `npm install @tensorflow/tfjs` or make an API call, you can now do AI.In this fast-paced talk, I'll open your mind to what's possible by demoing several AI-powered JavaScript apps and show you how I built them using either TensorFlow.js or easy to use AI powered APIs.You don't need a PhD in Maths, you don't need years of experience, you just need imagination and the willingness to try.
+  - title: Automating UI development
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Stefan Baumgartner
+        twitter: ddprrt
+        github:
+        website:
+      - name: Katrin Freihofner
+        twitter: Ka_TriN_F
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/ddprrt/automating-ui-development
+    videos:
+      - https://youtu.be/3_XvaSD_0xo
+    description: |-
+      Design systems and pattern libraries help designers and developers to get a common understanding of user interfaces. But even with such tools in place, there's a ton of processes and handovers involved. Each one causing possible friction and information loss. Especially over time. This might lead to new features feeling outdated on release, and screens and mock-ups getting too old too fast.With our recent move to Angular and Sketch, we were able to automate 70% of our UI development. Helping our developers to focus on the real problems, and reducing the UI review efforts tremendously. Join us and see how we produce a single source of truth for developers and designers, and how we are able to consume this source in our tool of choice.
 
-- title: The good, the bad and the ugly - Component architecture at scale
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Ana Cidre
-      twitter: AnaCidre_
-      github:
-      website:
-    - name: Sherry List
-      twitter: sherrrylst
-      github:
-      website:
-  slides:
-    - https://docs.google.com/presentation/d/1wi6eGXeCUWlIv4AkyPAxHEEb0hVyGvDAZn2MmgnAWSg/edit
-  videos:
-    - https://youtu.be/fLNERt19FTs
-  description: |-
-    In this talk, we show the correct way to construct Angular components by deconstructing a number of existing components. Through examples that categorise as "the good", "the bad" and "the ugly", we will look at common pitfalls and how you can avoid them. This way we will end up with simple, testable and highly reusable components. Join us on this adventure!
+  - title: How to save time & money by planning your ngUpgrade
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Sam Julien
+        twitter: samjulien
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/495KHr966e0
+    description: |-
+      There aIn this
 
-- title: You Might Not Need NgRx
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Michael Ryan
-      twitter: MikeRyanDev
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/omnwu_etHTY
-  description: |-
-    NgRx is a Redux-inspired framework for Angular applications. It manages state and side effects, helping you build applications that are easier to test, strongly typed and more performant; however, these benefits can add complexity. Luckily, there are a set of hard rules and principles that will guide you through these tradeoffs.
+  - title: RxJS schedulers in depth
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Michael Hladky
+        twitter: Michael_Hladky
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1MFP-mpOCWX_dWmds4T8xhB0HB0_VJbcl4_RWWOZMWGw/edit#slide=id.g47d0d46418_3_0
+    videos:
+      - https://youtu.be/S1eDh7MonbI
+    description: |-
+      Is an observable executed synchronously? You might think you know it, most people don't. In this talk, I'll introduce you to the world of schedulers, its secrets and advantages. I will show you how to use them in basic cases, as well as advanced scenarios.After this session you will master smooth animations, solving complex timing errors and controlling execution context like an expert. And all this with schedulers.
 
-- title: Universally speaking
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Craig Spence
-      twitter: phenomnominal
-      github:
-      website:
-  slides:
-    - https://slides.com/craigspence/universally-speaking#/
-  videos:
-    - https://youtu.be/EiiZAGkiUXE
-  description: |-
-    Did you hear that!? It’s the sound of a blazing-fast Angular Universal application, rocketing it’s way straight to a users' device! Angular Universal promises a solution to all the super hard problems - improved first render performance, search crawler support, and server-client state-transfer… but what does it really look like in the real world?Let's explore what is actually involved in getting Angular Universal up and running, as we go through some of the lessons learned from moving a big Angular application to the server. Come to unlock the secrets of the universe, as we explore how to launch our Angular apps to Infinity and beyond!
+  - title: How to AI in JS?
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Asim Hussain
+        twitter: jawache
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_H2NNofisA0
+    description: |-
+      There are many exciting things happening with AI, from which, until recently, JavaScript developers were largely shut out. But things are changing, if you can do `npm install @tensorflow/tfjs` or make an API call, you can now do AI.In this fast-paced talk, I'll open your mind to what's possible by demoing several AI-powered JavaScript apps and show you how I built them using either TensorFlow.js or easy to use AI powered APIs.You don't need a PhD in Maths, you don't need years of experience, you just need imagination and the willingness to try.
 
-- title: Upgrading to Angular without ngUpgrade
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Erin Coughlan
-      twitter: ErinCoughlan16
-      github:
-      website:
-  slides:
-    - https://docs.google.com/presentation/d/1Tx2AHqq08UyXeozeM-h3xXWaJAES_l3GNX9CbhMPfIw/
-  videos:
-    - https://youtu.be/aXOYa4S96OM
-  description: |-
-    Many apps can install ngUpgrade and begin rewriting components, but it's not so easy when those components make up a library that is used by several teams to power their production apps. Instead of rewriting everything at once, this talk shares how we first created a common interface with custom elements, and then upgraded one component at a time to Angular Elements.
+  - title: The good, the bad and the ugly - Component architecture at scale
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Ana Cidre
+        twitter: AnaCidre_
+        github:
+        website:
+      - name: Sherry List
+        twitter: sherrrylst
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1wi6eGXeCUWlIv4AkyPAxHEEb0hVyGvDAZn2MmgnAWSg/edit
+    videos:
+      - https://youtu.be/fLNERt19FTs
+    description: |-
+      In this talk, we show the correct way to construct Angular components by deconstructing a number of existing components. Through examples that categorise as "the good", "the bad" and "the ugly", we will look at common pitfalls and how you can avoid them. This way we will end up with simple, testable and highly reusable components. Join us on this adventure!
 
-- title: Optimize and debug change detection like a pro
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Max Koretskyi
-      twitter: maxim_koretskyi
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/DsBy9O0c6eo
-  description: |-
-    Change detection is the key area affecting an application’s performance. It’s where most of the optimization efforts like using OnPush strategy are put. But using optimization strategies without solid understanding of the change detection process is tricky and can cause inconsistent behavior. Also insufficient knowledge often leads to a painful experience when debugging Change Detection errors, like ExpressionChangedAfterItHasBeenChecked. In this talk, I'll use simple concise examples to present the change detection mechanism under the hood. We’ll also take a look at how an existing implementation has been improved in Ivy. By the end of the talk, you’ll have enough knowledge to choose the right optimization technique and even come up with new techniques yourself. What you’ll learn from the talk will also help you debug change detection errors much faster and fix them in a proper way.
+  - title: You Might Not Need NgRx
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Michael Ryan
+        twitter: MikeRyanDev
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/omnwu_etHTY
+    description: |-
+      NgRx is a Redux-inspired framework for Angular applications. It manages state and side effects, helping you build applications that are easier to test, strongly typed and more performant; however, these benefits can add complexity. Luckily, there are a set of hard rules and principles that will guide you through these tradeoffs.
 
-- title: Why you need a build system, and why it should be Bazel
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Martin Probst
-      twitter: martin_probst
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Qb3tykleV_g
-  description: |-
-    Traditionally, we've built web apps with little more than a few files scattered around the disk. Then came development servers, and transpilers, and assemblers, and everything was a mess of plugins. This talk walks you through what a build system is, how it helps you organize your software development flow, and what properties to look for in a good build system.
+  - title: Universally speaking
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Craig Spence
+        twitter: phenomnominal
+        github:
+        website:
+    slides:
+      - https://slides.com/craigspence/universally-speaking#/
+    videos:
+      - https://youtu.be/EiiZAGkiUXE
+    description: |-
+      Did you hear that!? It’s the sound of a blazing-fast Angular Universal application, rocketing it’s way straight to a users' device! Angular Universal promises a solution to all the super hard problems - improved first render performance, search crawler support, and server-client state-transfer… but what does it really look like in the real world?Let's explore what is actually involved in getting Angular Universal up and running, as we go through some of the lessons learned from moving a big Angular application to the server. Come to unlock the secrets of the universe, as we explore how to launch our Angular apps to Infinity and beyond!
 
-- title: Nest the backend for your Angular application
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name:  Bo Vandersteene
-      twitter: reibo_bo
-      github:
-      website:
-  slides:
-    - https://speakerdeck.com/bovandersteene/nest-the-backend-for-your-angular-application-at-angularconnect
-  videos:
-    - https://youtu.be/JSFG1bat1zk
-  description: |-
-    Are you experienced with Angular, but you also need to do some backend work? Why don't you choose a framework that has the same terminology and is also offers typescript support? How can these two frameworks integrate with each other, and run on the same server?
+  - title: Upgrading to Angular without ngUpgrade
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Erin Coughlan
+        twitter: ErinCoughlan16
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1Tx2AHqq08UyXeozeM-h3xXWaJAES_l3GNX9CbhMPfIw/
+    videos:
+      - https://youtu.be/aXOYa4S96OM
+    description: |-
+      Many apps can install ngUpgrade and begin rewriting components, but it's not so easy when those components make up a library that is used by several teams to power their production apps. Instead of rewriting everything at once, this talk shares how we first created a common interface with custom elements, and then upgraded one component at a time to Angular Elements.
 
-- title: Testing Angular with Cypress.io
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Joe Eames
-      twitter: josepheames
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/eZyD-8qglWY
-  description: |-
-    Cypress.io has emerged as a strong competitor to Protractor and WebDriver. It has a unique set of features that make it a great choice for end to end testing with Angular. In this session, we will see how to write tests against our Angular apps, and leverage the power of Cypress.io.
+  - title: Optimize and debug change detection like a pro
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Max Koretskyi
+        twitter: maxim_koretskyi
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DsBy9O0c6eo
+    description: |-
+      Change detection is the key area affecting an application’s performance. It’s where most of the optimization efforts like using OnPush strategy are put. But using optimization strategies without solid understanding of the change detection process is tricky and can cause inconsistent behavior. Also insufficient knowledge often leads to a painful experience when debugging Change Detection errors, like ExpressionChangedAfterItHasBeenChecked. In this talk, I'll use simple concise examples to present the change detection mechanism under the hood. We’ll also take a look at how an existing implementation has been improved in Ivy. By the end of the talk, you’ll have enough knowledge to choose the right optimization technique and even come up with new techniques yourself. What you’ll learn from the talk will also help you debug change detection errors much faster and fix them in a proper way.
 
-- title: The differences between ElementRef, TemplateRef, ViewContainerRef
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Ashnita Bali
-      twitter: ashnita01
-      github:
-      website:
-    - name: Marcin Ryzycki
-      twitter: ryzmen
-      github:
-      website:
-  slides:
-    - https://docs.google.com/presentation/d/1inX3SsUhK8qGidfMxZmirCfR30Iu0mJfQP1NrPhZ0Ic/edit#slide=id.p
-  videos:
-    - https://youtu.be/uQqp1z7FpJY
-  description: |-
-    This talk walks you through how to create dynamic components and custom templates using the view container API and using the NgComponentOutlet or NgTemplateOutlet directives. It demonstrates how to create dynamic components using the brand new feature, Angular Elements. The talk explains the relationship between structural directives, ng-template, the HTML template element and template reference variables and explains terminologies such as host view, embedded view, view container. It also covers using the platform agnostic Renderer service for DOM access.
+  - title: Why you need a build system, and why it should be Bazel
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Martin Probst
+        twitter: martin_probst
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Qb3tykleV_g
+    description: |-
+      Traditionally, we've built web apps with little more than a few files scattered around the disk. Then came development servers, and transpilers, and assemblers, and everything was a mess of plugins. This talk walks you through what a build system is, how it helps you organize your software development flow, and what properties to look for in a good build system.
 
-- title: Building an Angular PWA Angular Service Worker or Workbox?
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Maxim Salnikov
-      twitter: webmaxru
-      github:
-      website:
-  slides:
-    - https://slides.com/webmax/ngsw-workbox-ac/#/
-  videos:
-    - https://youtu.be/jTptVNvr0y8
-  description: |-
-    There is no doubt that 2018 is the YearOfPWA. It’s the year when Progressive Web Apps will get the really broad adoption and recognition by all the involved parties: browser vendors (finally, all the major ones), developers, users. Angular developers are lucky to have some really nice options to automate their PWA’s main functionality exposed by Service Worker API. The first option is 100% native to the Angular and created by the Angular team: Angular Service Worker. The second one is a framework-agnostic library called Workbox.Both approaches are robust, convenient and unique! Let’s go through the main features of PWA implemented using NGSW vs Workbox and the resulting application lifecycle management. After the session, everyone will give their own answer on what’s easier to start with, which library is simpler to use, which resulting PWA is more convenient to maintain.
+  - title: Nest the backend for your Angular application
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name:  Bo Vandersteene
+        twitter: reibo_bo
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/bovandersteene/nest-the-backend-for-your-angular-application-at-angularconnect
+    videos:
+      - https://youtu.be/JSFG1bat1zk
+    description: |-
+      Are you experienced with Angular, but you also need to do some backend work? Why don't you choose a framework that has the same terminology and is also offers typescript support? How can these two frameworks integrate with each other, and run on the same server?
 
-- title: Location based immersive experiences with Angular and WebXR
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Aysegul Yonet
-      twitter: AysSomething
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/buA4FAGHB98
-  description: |-
-    Geolocation and Augmented Reality (WebXR) are tools we can use to create engaging experiences in mobile web but great user experiences require your apps to be fast. Angular makes it easy to write reusable components that integrate such experiences in a seamless way. Join me as I explore the capabilities of Geolocation and WebXR APIs and how they can enrich your applications while writing reusable and performant Angular components.
+  - title: Testing Angular with Cypress.io
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Joe Eames
+        twitter: josepheames
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/eZyD-8qglWY
+    description: |-
+      Cypress.io has emerged as a strong competitor to Protractor and WebDriver. It has a unique set of features that make it a great choice for end to end testing with Angular. In this session, we will see how to write tests against our Angular apps, and leverage the power of Cypress.io.
 
-- title: Angular Testing In TDD - Writing a Feature Guided By a Responsible Maniac
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Shai Reznik
-      twitter: shai_reznik
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/k9LWSh2xxjM
-  description: |-
-    Hi, My name is Shai Reznik and I've got an interesting business opportunity to discuss with you. At the end of the day, we all want to feel more confident in our code stability and design so we could make changes without the fear of breaking something. There’s a cure - it’s called Test Driven Development and it’ll save your life. Don’t believe me? I’ll show you, wait and see.. We’ll develop a real feature together… then you’ll see… yeah… you will… I’ll also share a few new testing techniques I’ve been working on that will jump start your way into testing success, a great love life, worldwide fame and a multi-billion company with lots of profits and money!
+  - title: The differences between ElementRef, TemplateRef, ViewContainerRef
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Ashnita Bali
+        twitter: ashnita01
+        github:
+        website:
+      - name: Marcin Ryzycki
+        twitter: ryzmen
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1inX3SsUhK8qGidfMxZmirCfR30Iu0mJfQP1NrPhZ0Ic/edit#slide=id.p
+    videos:
+      - https://youtu.be/uQqp1z7FpJY
+    description: |-
+      This talk walks you through how to create dynamic components and custom templates using the view container API and using the NgComponentOutlet or NgTemplateOutlet directives. It demonstrates how to create dynamic components using the brand new feature, Angular Elements. The talk explains the relationship between structural directives, ng-template, the HTML template element and template reference variables and explains terminologies such as host view, embedded view, view container. It also covers using the platform agnostic Renderer service for DOM access.
 
-- title: Lightening Talk
-  lang: en
-  type: lightning
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Ashnita Bali
-      twitter: ashnita01
-      github:
-      website:
-    - name: Darryl Brown
-      twitter: ConsultDarryl
-      github:
-      website:
-    - name: Brown,Michael
-      twitter: MikeRyanDev
-      github:
-      website:
-    - name: Stanimira Vlaeva
-      twitter: StanimiraVlaeva
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/k9LWSh2xxjM
-  description: |-
+  - title: Building an Angular PWA Angular Service Worker or Workbox?
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Maxim Salnikov
+        twitter: webmaxru
+        github:
+        website:
+    slides:
+      - https://slides.com/webmax/ngsw-workbox-ac/#/
+    videos:
+      - https://youtu.be/jTptVNvr0y8
+    description: |-
+      There is no doubt that 2018 is the YearOfPWA. It’s the year when Progressive Web Apps will get the really broad adoption and recognition by all the involved parties: browser vendors (finally, all the major ones), developers, users. Angular developers are lucky to have some really nice options to automate their PWA’s main functionality exposed by Service Worker API. The first option is 100% native to the Angular and created by the Angular team: Angular Service Worker. The second one is a framework-agnostic library called Workbox.Both approaches are robust, convenient and unique! Let’s go through the main features of PWA implemented using NGSW vs Workbox and the resulting application lifecycle management. After the session, everyone will give their own answer on what’s easier to start with, which library is simpler to use, which resulting PWA is more convenient to maintain.
 
-- title: The theory of Angular Ivy
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Alex Rickabaugh
-      twitter: synalx
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/isb5Ef6yI48
-  description: |-
-    This talk will provide an understanding of the core principles Ivy is built around. Look at the instruction architecture, component factories and injection, and the locality principle. You will leave the talk with the basics you need to get started with Ivy.
+  - title: Location based immersive experiences with Angular and WebXR
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Aysegul Yonet
+        twitter: AysSomething
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/buA4FAGHB98
+    description: |-
+      Geolocation and Augmented Reality (WebXR) are tools we can use to create engaging experiences in mobile web but great user experiences require your apps to be fast. Angular makes it easy to write reusable components that integrate such experiences in a seamless way. Join me as I explore the capabilities of Geolocation and WebXR APIs and how they can enrich your applications while writing reusable and performant Angular components.
 
-- title: Angular Ivy by example
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Jason Aden
-      twitter: jasonaden1
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/MMPl9wHzmS4
-  description: |-
-    Ivy opens up a whole new world of options for developing Angular applications. Some of these new options include dropping dependency on Zone.js, or developing without dependency injection. Or how about building custom templates or higher order components? See these examples and more in Angular Ivy by Example.
+  - title: Angular Testing In TDD - Writing a Feature Guided By a Responsible Maniac
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Shai Reznik
+        twitter: shai_reznik
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/k9LWSh2xxjM
+    description: |-
+      Hi, My name is Shai Reznik and I've got an interesting business opportunity to discuss with you. At the end of the day, we all want to feel more confident in our code stability and design so we could make changes without the fear of breaking something. There’s a cure - it’s called Test Driven Development and it’ll save your life. Don’t believe me? I’ll show you, wait and see.. We’ll develop a real feature together… then you’ll see… yeah… you will… I’ll also share a few new testing techniques I’ve been working on that will jump start your way into testing success, a great love life, worldwide fame and a multi-billion company with lots of profits and money!
 
-- title: Automate G Suite with Apps Script and Angular
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Grant Timmerman
-      twitter: granttimmerman
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/f8172H32vxo
-  description: |-
-    Google Apps Script provides a layer of abstraction for interacting with Google APIs, from Gmail to Google Sheets and Calendar. Angular provides a complete client-side solution for web applications. In this talk, I'll show you how together, with Apps Script and Angular, you can build powerful web apps to automate tasks in minutes.
+  - title: Lightening Talk
+    lang: en
+    type: lightning
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Ashnita Bali
+        twitter: ashnita01
+        github:
+        website:
+      - name: Darryl Brown
+        twitter: ConsultDarryl
+        github:
+        website:
+      - name: Brown,Michael
+        twitter: MikeRyanDev
+        github:
+        website:
+      - name: Stanimira Vlaeva
+        twitter: StanimiraVlaeva
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/k9LWSh2xxjM
+    description: |-
 
-- title: Migrating from AngularJS to Angular
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Elana Olson
-      twitter: elanathellama
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/fFLKEtIqZeY
-  description: |-
-    It's been two years since NgUpgrade was first introduced, and there are thousands of companies upgrading from AngularJS to Angular, developing new patterns and best practices. Elana has spent the last six months digging deeply into the experience of migration from AngularJS to Angular, talking with developers and companies from all over the community. She will share her insights about the challenges and success that come with the various tools and strategies.She will cover two new tools recently released, ngMigration Assistant and ngMigration Forum. These tools are designed to improve the migration process and guide Angular developers to a better migration experience. Check out this article to learn more about these awesome new tools.
+  - title: The theory of Angular Ivy
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Alex Rickabaugh
+        twitter: synalx
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/isb5Ef6yI48
+    description: |-
+      This talk will provide an understanding of the core principles Ivy is built around. Look at the instruction architecture, component factories and injection, and the locality principle. You will leave the talk with the basics you need to get started with Ivy.
 
-- title: Dynamic reactive forms with GraphQL
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Juan Stoppa
-      twitter: juanstoppa
-      github:
-      website:
-  slides:
-    - https://slides.com/juanstoppa/deck-2#/
-  videos:
-    - https://youtu.be/URM1a8faJl0
-  description: |-
-    One of the most challenging requirements when building enterprise web applications for financial services is capturing large amounts of information through user input, this information is normally typed in large forms that contain a dozen to hundreds of fields with complex validation logic and multiple dependencies on field's completion. This talk will explain the design behind a framework that fixes it elegantly, using reactive forms, dynamic component loader and GraphQL.
+  - title: Angular Ivy by example
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Jason Aden
+        twitter: jasonaden1
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/MMPl9wHzmS4
+    description: |-
+      Ivy opens up a whole new world of options for developing Angular applications. Some of these new options include dropping dependency on Zone.js, or developing without dependency injection. Or how about building custom templates or higher order components? See these examples and more in Angular Ivy by Example.
 
-- title: Climbing up injector trees
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Uri Shaked
-      twitter: UriShaked
-      github:
-      website:
-    - name: Kapunahele Wong
-      twitter: kapunahele
-      github:
-      website:
-  slides:
-    - https://docs.google.com/presentation/d/166DO5BELbk3qC44-VLuScCPbGdOFGEUnGBGHKoSEc1U/edit#slide=id.p
-  videos:
-    - https://youtu.be/F6rF16TmB0E
-  description: |-
-    Dependency Injection is at the heart of Angular. We don't even think about it too much — we ask for a dependency, we get it. However, once our app grows and we have multiple NgModules, lazy loading and use third party components, things start to get more complex. In this session, you will learn about ElementInjector and ModuleInjector, how they work together, and the two-pass dependency resolution process. Did we mention it is going to be fun? 💉🌲
+  - title: Automate G Suite with Apps Script and Angular
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Grant Timmerman
+        twitter: granttimmerman
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/f8172H32vxo
+    description: |-
+      Google Apps Script provides a layer of abstraction for interacting with Google APIs, from Gmail to Google Sheets and Calendar. Angular provides a complete client-side solution for web applications. In this talk, I'll show you how together, with Apps Script and Angular, you can build powerful web apps to automate tasks in minutes.
 
-- title: The life of an Angular pull request
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Manu Murthy
-      twitter: manu_murthy
-      github:
-      website:
-  slides:
-    - https://docs.google.com/presentation/d/1jTAqyOXKs5ZcshLvuD0-nzB-tvyHLCuLKf0mkTKmKLs/edit#slide=id.g26d86d3325_0_0
-  videos:
-    - https://youtu.be/yQ9wOiQ6GKM
-  description: |-
-    The life of an Angular pull request The Pull Request is the unit of change and the outcome of the work that goes into Angular. We start with the outcome and look at the processes and milestones that help us achieve that outcome.
+  - title: Migrating from AngularJS to Angular
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Elana Olson
+        twitter: elanathellama
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/fFLKEtIqZeY
+    description: |-
+      It's been two years since NgUpgrade was first introduced, and there are thousands of companies upgrading from AngularJS to Angular, developing new patterns and best practices. Elana has spent the last six months digging deeply into the experience of migration from AngularJS to Angular, talking with developers and companies from all over the community. She will share her insights about the challenges and success that come with the various tools and strategies.She will cover two new tools recently released, ngMigration Assistant and ngMigration Forum. These tools are designed to improve the migration process and guide Angular developers to a better migration experience. Check out this article to learn more about these awesome new tools.
 
-- title: Architectures for huge Angular based enterprise applications npm Packages, Monorepos and Micro Apps
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Manfred Steyer
-      twitter: ManfredSteyer
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/YU-fMRs-ZYU
-  description: |-
-    Nowadays, we build large enterprise applications with Angular. But how to best structure such projects to ensure long-term maintainability and reusability?This session provides multiple answers to this question. We explore how to split large projects into individually reusable npm packages and how to deploy them through an internal and public registry. As an alternative, we discuss the Monorepo approach that is used successfully by big companies like Google and Facebook and which compensates for some of the disadvantages of npm packages in internal projects.The use of micro apps is also discussed and implementation options, advantages and disadvantages are investigated. By the end the audience will know the options for architecting enterprise apps.
+  - title: Dynamic reactive forms with GraphQL
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Juan Stoppa
+        twitter: juanstoppa
+        github:
+        website:
+    slides:
+      - https://slides.com/juanstoppa/deck-2#/
+    videos:
+      - https://youtu.be/URM1a8faJl0
+    description: |-
+      One of the most challenging requirements when building enterprise web applications for financial services is capturing large amounts of information through user input, this information is normally typed in large forms that contain a dozen to hundreds of fields with complex validation logic and multiple dependencies on field's completion. This talk will explain the design behind a framework that fixes it elegantly, using reactive forms, dynamic component loader and GraphQL.
 
-- title: White-labeling & A/B testing with interchangeable components
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Younes Jaaidi
-      twitter: yjaaidi
-      github:
-      website:
-  slides:
-    - https://drive.google.com/file/d/1_cbBqlPAOTqbMDfOTZQ2kfBZUBkvfOrD/view
-  videos:
-    - https://youtu.be/nX_HhiqmFAI
-  description: |-
-    Most Angular applications need to customize their display, features and behaviour depending on multiple and complex criteria serving different use cases like white-labeling, A/B testing or progressive deployment.In this talk, I will show you how to architect your Angular apps by providing loosely coupled and interchangeable components that will allow you or even your applications’ end-users to customize the application experience dynamically by simple configuration (and without any switch/case).
+  - title: Climbing up injector trees
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Uri Shaked
+        twitter: UriShaked
+        github:
+        website:
+      - name: Kapunahele Wong
+        twitter: kapunahele
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/166DO5BELbk3qC44-VLuScCPbGdOFGEUnGBGHKoSEc1U/edit#slide=id.p
+    videos:
+      - https://youtu.be/F6rF16TmB0E
+    description: |-
+      Dependency Injection is at the heart of Angular. We don't even think about it too much — we ask for a dependency, we get it. However, once our app grows and we have multiple NgModules, lazy loading and use third party components, things start to get more complex. In this session, you will learn about ElementInjector and ModuleInjector, how they work together, and the two-pass dependency resolution process. Did we mention it is going to be fun? 💉🌲
 
-- title: The CLI Roadmap
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Filipe Silva
-      twitter: filipematossilv
-      github:
-      website:
-  slides:
-    - https://docs.google.com/presentation/d/1PMHmmJXoHrjfUUCkyb3RsSfuPEAiXl2QPUW87GsIr0U/edit#slide=id.g4429dd6dc2_0_0
-  videos:
-    - https://youtu.be/tUCd6QSzEy4
-  description: |-
-    Want to have a glimpse into what the CLI and DevKit have in store in the future? Join Filipe to look at the latest and upcoming features. Go through the concrete situations where Bazel is helpful for small, medium and large projects, and see how you can convert your CLI project to using Bazel today (experimental, many caveats apply!).
+  - title: The life of an Angular pull request
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Manu Murthy
+        twitter: manu_murthy
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1jTAqyOXKs5ZcshLvuD0-nzB-tvyHLCuLKf0mkTKmKLs/edit#slide=id.g26d86d3325_0_0
+    videos:
+      - https://youtu.be/yQ9wOiQ6GKM
+    description: |-
+      The life of an Angular pull request The Pull Request is the unit of change and the outcome of the work that goes into Angular. We start with the outcome and look at the processes and milestones that help us achieve that outcome.
 
-- title: It’s alive! Dino-mic components in Angular
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Shmuela Jacobs
-      twitter: ShmuelaJ
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/q2Exs-82tkw
-  description: |-
-    The main use-case for using dynamic components is when we can decide only in run-time which component is loaded. They’re also the only solution when we want to embed Angular components in non-Angular ones. In many cases, replacing in-template components with dynamic ones is beneficial to performance and code quality. In this talk, we’ll learn how to create and use dynamic components, and discuss several types of usages.
+  - title: Architectures for huge Angular based enterprise applications npm Packages, Monorepos and Micro Apps
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Manfred Steyer
+        twitter: ManfredSteyer
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/YU-fMRs-ZYU
+    description: |-
+      Nowadays, we build large enterprise applications with Angular. But how to best structure such projects to ensure long-term maintainability and reusability?This session provides multiple answers to this question. We explore how to split large projects into individually reusable npm packages and how to deploy them through an internal and public registry. As an alternative, we discuss the Monorepo approach that is used successfully by big companies like Google and Facebook and which compensates for some of the disadvantages of npm packages in internal projects.The use of micro apps is also discussed and implementation options, advantages and disadvantages are investigated. By the end the audience will know the options for architecting enterprise apps.
 
-- title: Runtime i18n with Ivy
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Olivier Combe
-      twitter: OCombe
-      github:
-      website:
-  slides:
-    - https://docs.google.com/presentation/d/1vdJ46S8SRYp6Bux7nkw3-hpE-XN_L3RK5ZodKyyfmBE/edit
-  videos:
-    - https://youtu.be/miG-ghJhFPc
-  description: |-
-    With the new rendering engine (Ivy) we’ve finally been able to work on a full revamp of i18n (internationalization) for Angular. Translations are now handled at runtime which brings a lot of benefits: one bundle for all languages, service for code translations…In this talk, we will review the design choices, the changes and the benefits of this new approach.
+  - title: White-labeling & A/B testing with interchangeable components
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Younes Jaaidi
+        twitter: yjaaidi
+        github:
+        website:
+    slides:
+      - https://drive.google.com/file/d/1_cbBqlPAOTqbMDfOTZQ2kfBZUBkvfOrD/view
+    videos:
+      - https://youtu.be/nX_HhiqmFAI
+    description: |-
+      Most Angular applications need to customize their display, features and behaviour depending on multiple and complex criteria serving different use cases like white-labeling, A/B testing or progressive deployment.In this talk, I will show you how to architect your Angular apps by providing loosely coupled and interchangeable components that will allow you or even your applications’ end-users to customize the application experience dynamically by simple configuration (and without any switch/case).
 
-- title: Crossing Across Platforms
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Sani Yusuf
-      twitter: haibridco
-      github:
-      website:
-  slides:
-    - https://slides.com/saniyusuf/crossing-across-platforms#/
-  videos:
-    - https://youtu.be/G39uEEa2hxo
-  description: |-
-    Web, Mobile & Desktop are the 3 standard platforms we develop for today especially in the Enterprise world. Each platform has its own unique features and needs. When faced with requirements where we need to develop one application for all 3, it can be a nightmare to get it right. How do you share code effectively? How do we solve a white labelling requirement? In this talk, I will show you based on a real-world Enterprise Healthcare application on how Angular can be the glue for such a monumental task where we will end up with a Mobile Solution, A Web Responsive Solution as well as a Desktop solution with electron while using 100% the same code base.
+  - title: The CLI Roadmap
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Filipe Silva
+        twitter: filipematossilv
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1PMHmmJXoHrjfUUCkyb3RsSfuPEAiXl2QPUW87GsIr0U/edit#slide=id.g4429dd6dc2_0_0
+    videos:
+      - https://youtu.be/tUCd6QSzEy4
+    description: |-
+      Want to have a glimpse into what the CLI and DevKit have in store in the future? Join Filipe to look at the latest and upcoming features. Go through the concrete situations where Bazel is helpful for small, medium and large projects, and see how you can convert your CLI project to using Bazel today (experimental, many caveats apply!).
+
+  - title: It’s alive! Dino-mic components in Angular
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Shmuela Jacobs
+        twitter: ShmuelaJ
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/q2Exs-82tkw
+    description: |-
+      The main use-case for using dynamic components is when we can decide only in run-time which component is loaded. They’re also the only solution when we want to embed Angular components in non-Angular ones. In many cases, replacing in-template components with dynamic ones is beneficial to performance and code quality. In this talk, we’ll learn how to create and use dynamic components, and discuss several types of usages.
+
+  - title: Runtime i18n with Ivy
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Olivier Combe
+        twitter: OCombe
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1vdJ46S8SRYp6Bux7nkw3-hpE-XN_L3RK5ZodKyyfmBE/edit
+    videos:
+      - https://youtu.be/miG-ghJhFPc
+    description: |-
+      With the new rendering engine (Ivy) we’ve finally been able to work on a full revamp of i18n (internationalization) for Angular. Translations are now handled at runtime which brings a lot of benefits: one bundle for all languages, service for code translations…In this talk, we will review the design choices, the changes and the benefits of this new approach.
+
+  - title: Crossing Across Platforms
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Sani Yusuf
+        twitter: haibridco
+        github:
+        website:
+    slides:
+      - https://slides.com/saniyusuf/crossing-across-platforms#/
+    videos:
+      - https://youtu.be/G39uEEa2hxo
+    description: |-
+      Web, Mobile & Desktop are the 3 standard platforms we develop for today especially in the Enterprise world. Each platform has its own unique features and needs. When faced with requirements where we need to develop one application for all 3, it can be a nightmare to get it right. How do you share code effectively? How do we solve a white labelling requirement? In this talk, I will show you based on a real-world Enterprise Healthcare application on how Angular can be the glue for such a monumental task where we will end up with a Mobile Solution, A Web Responsive Solution as well as a Desktop solution with electron while using 100% the same code base.

@@ -13,21 +13,21 @@ const TALK_LEVELS = ['beginner', 'intermediate', 'advanced'];
 const REGEX_URL = /^http[s]?:\/\//;
 
 glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conference.yaml}').forEach(file => {
-  let talks;
+  let conference;
 
   // Read YAML config
   let yamlString = fs.readFileSync(file, 'utf8');
 
   // Convert YAML to JS object
   try {
-    talks = jsyaml.safeLoad(yamlString);
+    conference = jsyaml.safeLoad(yamlString);
   }
   catch (error) {
     console.error(`${file}: ${error.message}`);
   }
 
   // Run tests
-  talks.forEach(talk => {
+  conference.talks.forEach(talk => {
     describe(`Conference details - ${file} - "${talk.title}"`, () => {
 
       it('has filename in lowercase', () => {

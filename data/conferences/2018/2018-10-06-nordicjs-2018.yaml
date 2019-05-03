@@ -1,467 +1,483 @@
-- title: Building Foundations of the Node.js Community
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-06 09:40:00
-  room:
-  authors:
-    - name: Tierney Cyren
-      twitter: bitandbang
-      github:
-      website: https://bnb.im/
-  slides:
-  videos:
-    - https://youtu.be/kgyb0PV5d_A
-  description: |-
-    Node.js is an amazing project in terms of code - it’s evolved rapidly to cover an immense landscape, from web apps, desktop apps, APIs, IoT, robotics, and beyond. There’s something else that Node has also been absolutely killer with, though: the community.  One really awesome thing is that the Node.js community has an established community for building the Node community. How meta is that? The Node.js project is sectioned off into different Working Groups (WGs) that are tasked with different objectives - the one that was tasked with building the community was the Evangelism WG.  That said, there’s a transition happening. The Evangelism WG planted the seed Node.js Community efforts. Now, the Community Committee has taken this a step further and is mobilizing to start exploding the awareness and understanding of Node and its diverse ecosystem.
+conference:
 
-- title: 'Fast but not furious: debugging user interaction performance issues'
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-06 10:10:00
-  room:
-  authors:
-    - name: Anna Migas
-      twitter: szynszyliszys
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/LFYs7XT5jXI
+  name: Nordic.js 2018
+  url: https://nordicjs.com/2018/
+  status: complete
+  date:
+    from: 2018-10-06
+    to: 2018-10-07
+  location:
+    country: Sweden
+    city: Stockholm
   description: |-
-    Perceived performance is not only about fast page loads and delivering the content as early as possible. It is also about all the interactions happening on an already loaded page. Even some of the most popular UI patterns can be a cause of frustration. Understanding what is happening under the browser’s hood can help you delight users with a smooth experience and avoid potential performance issues. Let’s demystify the rendering process and look into possible optimisations in order to achieve the best experience after the initial page load.
+    Nordic.js is a single track conference with talks by internationally renowned speakers and rising stars in the JavaScript community. You’ll hear about fun experiments, learn about the latest in JavaScript, and connect with other passionate developers. Previous speakers includes Karolina Szczur, Guillermo Rauch, Rachel Andrew, Mariko Kosaka, and Jeremy Keith.
 
-- title: WebAssembly as cross-platform architecture?!
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-06 11:10:00
-  room:
-  authors:
-    - name: Benedek Gagyi
-      twitter: BenedekGagyi
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/l2DHjRmgAF8
-  description: |-
-    With the rise of web-to-native cross-platform solutions like React Native and Electron we got to witness not only their potential but also their shortcomings. Thanks to WebAssembly we now have an alternative that uses a different approach but promises the same results. In my talk, I’ll share the lessons the join.me team learned over the last few years while creating and maintaining a cross-platform (web included!) C++ codebase, with special attention to management and team-dynamic aspects. You’ll also see how WebAssembly changes the game and, through a bit of live-coding, how easy it is to get started with it.
+talks:
 
-- title: Magic Tricks with Houdini
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-06 11:40:00
-  room:
-  authors:
-    - name: Sam Richard
-      twitter: snugug
-      github:
-      website: https://snugug.com
-  slides:
-  videos:
-    - https://youtu.be/gg0NiBBd2Ak
-  description: |-
-    The Houdini Task Force is working to reveal the “magic” of styling and layout on the web. Thee arcane arts they are unearthing will imbue us with all new superpowers, allowing our full creative forces to be unleashed to solve problems on the web!
+  - title: Building Foundations of the Node.js Community
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-06 09:40:00
+    room:
+    authors:
+      - name: Tierney Cyren
+        twitter: bitandbang
+        github:
+        website: https://bnb.im/
+    slides:
+    videos:
+      - https://youtu.be/kgyb0PV5d_A
+    description: |-
+      Node.js is an amazing project in terms of code - it’s evolved rapidly to cover an immense landscape, from web apps, desktop apps, APIs, IoT, robotics, and beyond. There’s something else that Node has also been absolutely killer with, though: the community.  One really awesome thing is that the Node.js community has an established community for building the Node community. How meta is that? The Node.js project is sectioned off into different Working Groups (WGs) that are tasked with different objectives - the one that was tasked with building the community was the Evangelism WG.  That said, there’s a transition happening. The Evangelism WG planted the seed Node.js Community efforts. Now, the Community Committee has taken this a step further and is mobilizing to start exploding the awareness and understanding of Node and its diverse ecosystem.
 
-- title: Lightning talk
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-06 12:10:00
-  room:
-  authors:
-    - name: Krzysztof Żuraw
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/nFIoHcNQo84
-  description: |-
+  - title: 'Fast but not furious: debugging user interaction performance issues'
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-06 10:10:00
+    room:
+    authors:
+      - name: Anna Migas
+        twitter: szynszyliszys
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LFYs7XT5jXI
+    description: |-
+      Perceived performance is not only about fast page loads and delivering the content as early as possible. It is also about all the interactions happening on an already loaded page. Even some of the most popular UI patterns can be a cause of frustration. Understanding what is happening under the browser’s hood can help you delight users with a smooth experience and avoid potential performance issues. Let’s demystify the rendering process and look into possible optimisations in order to achieve the best experience after the initial page load.
 
-- title: Lightning talk
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-06 12:15:00
-  room:
-  authors:
-    - name: Alexander Karlsson
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Owq7Fm4qqYw
-  description: |-
+  - title: WebAssembly as cross-platform architecture?!
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-06 11:10:00
+    room:
+    authors:
+      - name: Benedek Gagyi
+        twitter: BenedekGagyi
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/l2DHjRmgAF8
+    description: |-
+      With the rise of web-to-native cross-platform solutions like React Native and Electron we got to witness not only their potential but also their shortcomings. Thanks to WebAssembly we now have an alternative that uses a different approach but promises the same results. In my talk, I’ll share the lessons the join.me team learned over the last few years while creating and maintaining a cross-platform (web included!) C++ codebase, with special attention to management and team-dynamic aspects. You’ll also see how WebAssembly changes the game and, through a bit of live-coding, how easy it is to get started with it.
 
-- title: Can you tell me if your Node app is healthy?
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-06 13:45:00
-  room:
-  authors:
-    - name: Alejandro Oviedo García
-      twitter: a0viedo
-      github:
-      website: https://elendur.com
-  slides:
-  videos:
-    - https://youtu.be/7HoxAeQIck4
-  description: |-
-    Do you know what is the definition of "healthy" for your Node app? Is only measured by CPU consumption or memory usage? Number of requests per second? What is *tick frequency* or *event loop latency* and what does it means if these metrics are going haywire? We will talk about different metrics you can look at to define whether your application is ok or not and we will try to debunk some mysteries of the event loop and threads along the way.
+  - title: Magic Tricks with Houdini
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-06 11:40:00
+    room:
+    authors:
+      - name: Sam Richard
+        twitter: snugug
+        github:
+        website: https://snugug.com
+    slides:
+    videos:
+      - https://youtu.be/gg0NiBBd2Ak
+    description: |-
+      The Houdini Task Force is working to reveal the “magic” of styling and layout on the web. Thee arcane arts they are unearthing will imbue us with all new superpowers, allowing our full creative forces to be unleashed to solve problems on the web!
 
-- title: Manage your styles as it's 2018
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-06 14:15:00
-  room:
-  authors:
-    - name: Katarzyna Jastrzębska-Łachacz
-      twitter: kejt_bw
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/riv8yOaURgk
-  description: |-
-    We will go through CSS-IN-JS libs for React with comparison, special features, documentation, SSR support and the whole developer experience.
+  - title: Lightning talk
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-06 12:10:00
+    room:
+    authors:
+      - name: Krzysztof Żuraw
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/nFIoHcNQo84
+    description: |-
 
-- title: Corrections and Constructive Criticism
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-06 15:00:00
-  room:
-  authors:
-    - name: Tessa Kelly
-      twitter: t_kelly9
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/7eJRDCSwZ80
-  description: |-
-    Fear of criticism can be a proxy for fear of failure and fear of exposure. It can stifle learning and growth and promote secretive behaviors. Opening ourselves and our communities up to criticism can help us to experience less fear and accomplish what we want to achieve.  Feedback can be hard—both on the giving and the receiving ends. As programmers, we criticize (and compliment!) our peers’ work—-their art, their craft—-daily, at both a low and high levels of detail. How we work with this feedback—-accept it, apply it, use it, discount it, reject it, love it, feel it, bear it…—-and how we give it shapes the culture around us. We’ll explore strategies for using corrections and criticisms productively by drawing parallels to how feedback works (and doesn’t) in other settings, especially in the context of a ballet class, where secretive behaviors aren't an option.
+  - title: Lightning talk
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-06 12:15:00
+    room:
+    authors:
+      - name: Alexander Karlsson
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Owq7Fm4qqYw
+    description: |-
 
-- title: Building a Design System in React
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-06 15:15:00
-  room:
-  authors:
-    - name: Dominic McPhee
-      twitter: dfmcphee
-      github:
-      website: https://dfmcphee.com
-  slides:
-  videos:
-    - https://youtu.be/XWetuOvNSk0
-  description: |-
-    This talk will take you through our journey to Polaris. An overview of what a design system is, why you would want one, and how we built ours at Shopify. I will give you a behind the scenes look into the technologies and patterns we used to build the system. React, TypeScript, CSS modules, markdown, and how they all come together to build something that both designers and developers will enjoy using.
+  - title: Can you tell me if your Node app is healthy?
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-06 13:45:00
+    room:
+    authors:
+      - name: Alejandro Oviedo García
+        twitter: a0viedo
+        github:
+        website: https://elendur.com
+    slides:
+    videos:
+      - https://youtu.be/7HoxAeQIck4
+    description: |-
+      Do you know what is the definition of "healthy" for your Node app? Is only measured by CPU consumption or memory usage? Number of requests per second? What is *tick frequency* or *event loop latency* and what does it means if these metrics are going haywire? We will talk about different metrics you can look at to define whether your application is ok or not and we will try to debunk some mysteries of the event loop and threads along the way.
 
-- title: Lightning talk
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-06 15:45:00
-  room:
-  authors:
-    - name: Lucas Reis
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/QpwzUMEOWnY
-  description: |-
+  - title: Manage your styles as it's 2018
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-06 14:15:00
+    room:
+    authors:
+      - name: Katarzyna Jastrzębska-Łachacz
+        twitter: kejt_bw
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/riv8yOaURgk
+    description: |-
+      We will go through CSS-IN-JS libs for React with comparison, special features, documentation, SSR support and the whole developer experience.
 
-- title: Lightning talk
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-06 15:50:00
-  room:
-  authors:
-    - name: John Leidegren
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/FPNAbVEBQec
-  description: |-
+  - title: Corrections and Constructive Criticism
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-06 15:00:00
+    room:
+    authors:
+      - name: Tessa Kelly
+        twitter: t_kelly9
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/7eJRDCSwZ80
+    description: |-
+      Fear of criticism can be a proxy for fear of failure and fear of exposure. It can stifle learning and growth and promote secretive behaviors. Opening ourselves and our communities up to criticism can help us to experience less fear and accomplish what we want to achieve.  Feedback can be hard—both on the giving and the receiving ends. As programmers, we criticize (and compliment!) our peers’ work—-their art, their craft—-daily, at both a low and high levels of detail. How we work with this feedback—-accept it, apply it, use it, discount it, reject it, love it, feel it, bear it…—-and how we give it shapes the culture around us. We’ll explore strategies for using corrections and criticisms productively by drawing parallels to how feedback works (and doesn’t) in other settings, especially in the context of a ballet class, where secretive behaviors aren't an option.
 
-- title: Look mum, no hands!
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-06 16:30:00
-  room:
-  authors:
-    - name: Charlie Gerard
-      twitter: devdevcharlies
-      github:
-      website: http://charliegerard.github.io/
-  slides:
-  videos:
-    - https://youtu.be/X-tpqxC7-co
-  description: |-
-    A typical interaction with a device or interface involves touching it. Either you're pressing buttons on a controller, swiping on a touchscreen or clicking on your laptop's trackpad. But what if you could control things without the use of your hands? What if you could use... your thoughts? I have been tinkering with a brain sensor and developed an open source JavaScript framework for it to allow me (or anyone else) to control interfaces or robots using facial expressions and mental commands.
+  - title: Building a Design System in React
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-06 15:15:00
+    room:
+    authors:
+      - name: Dominic McPhee
+        twitter: dfmcphee
+        github:
+        website: https://dfmcphee.com
+    slides:
+    videos:
+      - https://youtu.be/XWetuOvNSk0
+    description: |-
+      This talk will take you through our journey to Polaris. An overview of what a design system is, why you would want one, and how we built ours at Shopify. I will give you a behind the scenes look into the technologies and patterns we used to build the system. React, TypeScript, CSS modules, markdown, and how they all come together to build something that both designers and developers will enjoy using.
 
-- title: Powerful Automation with the Chrome DevTools Protocol
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-06 17:00:00
-  room:
-  authors:
-    - name: Trent Willis
-      twitter: trentmwillis
-      github:
-      website: https://pretty-okay.com
-  slides:
-  videos:
-    - https://youtu.be/piip-JSc4hc
-  description: |-
-    Many developers are familiar with the powerful Chrome DevTools that help us inspect, profile, and debug our web applications. But, did you know that Chrome exposes virtually all the same information and capabilities via an API that you can use in JavaScript?  In this talk, we’ll look at how you can start using the Chrome DevTools Protocol today to unlock powerful automation techniques for your web application. We’ll cover how to start using the protocol through Puppeteer and then dive into some of the really exciting possibilities that have opened up when using this in conjunction with headless browsers, such as holistic application benchmarking, the collection of code usage metrics, and new testing paradigms.
+  - title: Lightning talk
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-06 15:45:00
+    room:
+    authors:
+      - name: Lucas Reis
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/QpwzUMEOWnY
+    description: |-
 
-- title: 'Node.js: The Road to Workers'
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-07 09:40:00
-  room:
-  authors:
-    - name: Anna Henningsen
-      twitter: addaleax
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/pO5a10YPQG4
-  description: |-
-    Workers, and threading support in general, have been one of the most frequently requested features for Node.js over the last years. Finally, the finishing line is in sight and we’re pretty excited to have experimental support available! This talk will tell you everything around the API, features, use cases & alternatives, our roadmap, and the technical and social challenges that we had to overcome to make it happen!
+  - title: Lightning talk
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-06 15:50:00
+    room:
+    authors:
+      - name: John Leidegren
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/FPNAbVEBQec
+    description: |-
 
-- title: 'The Matrix is Everywhere: A Primer on Projections in Web Graphics'
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-07 10:10:00
-  room:
-  authors:
-    - name: Lauren Budorick
-      twitter: lbudorick
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/YFGY2BeyfzA
-  description: |-
-    Graphics programming is more accessible than ever, thanks to the ubiquity of WebGL and popular frameworks that handle the boilerplate stuff. But for many of us, as soon as we see “projection matrix” (or worse, “linear algebra”) we panic. But it turns out the matrix is nothing to fear! With the help of some fun visualization tools we’ll learn all about what matrix transformations actually mean on your screen. You’ll leave empowered with a better understanding of how to translate any kind of 3D scene onto a 2D screen in JavaScript, so that you can start writing new WebGL visualizations faster than you can say mat4.scale(...).translate(...).rotateX(...) .rotateZ(...).translate(...).scale(...).invert()...
+  - title: Look mum, no hands!
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-06 16:30:00
+    room:
+    authors:
+      - name: Charlie Gerard
+        twitter: devdevcharlies
+        github:
+        website: http://charliegerard.github.io/
+    slides:
+    videos:
+      - https://youtu.be/X-tpqxC7-co
+    description: |-
+      A typical interaction with a device or interface involves touching it. Either you're pressing buttons on a controller, swiping on a touchscreen or clicking on your laptop's trackpad. But what if you could control things without the use of your hands? What if you could use... your thoughts? I have been tinkering with a brain sensor and developed an open source JavaScript framework for it to allow me (or anyone else) to control interfaces or robots using facial expressions and mental commands.
 
-- title: Accessible by law! Generating colors with JS and CSS Custom Properties
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-07 11:10:00
-  room:
-  authors:
-    - name: Ingvild Indrebø
-      twitter: ingvildindrebo
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/2fO8B15uM1s
-  description: |-
-    In Norway, all websites are required by law to be accessible. Thanks to the Norwegian regulations, accessibility cannot be treated as "nice to have" - it's a "must have." But since we were white-label service, we were faced with two must-haves: Our customers should be able to pick any color as their brand color, but on the other hand, colors should have sufficient contrast according to the WCAG criteria. The solution came combining CSS Custom Properties with a sprinkle of JavaScript, which meant we could automatically create a color palette.
+  - title: Powerful Automation with the Chrome DevTools Protocol
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-06 17:00:00
+    room:
+    authors:
+      - name: Trent Willis
+        twitter: trentmwillis
+        github:
+        website: https://pretty-okay.com
+    slides:
+    videos:
+      - https://youtu.be/piip-JSc4hc
+    description: |-
+      Many developers are familiar with the powerful Chrome DevTools that help us inspect, profile, and debug our web applications. But, did you know that Chrome exposes virtually all the same information and capabilities via an API that you can use in JavaScript?  In this talk, we’ll look at how you can start using the Chrome DevTools Protocol today to unlock powerful automation techniques for your web application. We’ll cover how to start using the protocol through Puppeteer and then dive into some of the really exciting possibilities that have opened up when using this in conjunction with headless browsers, such as holistic application benchmarking, the collection of code usage metrics, and new testing paradigms.
 
-- title: Why we built another framework
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-07 11:25:00
-  room:
-  authors:
-    - name: Tomas Della Vedova
-      twitter: delvedor
-      github:
-      website: http://delved.org/
-  slides:
-  videos:
-    - https://youtu.be/ucatti2b7E4
-  description: |-
-    Last year we started working on a new web framework for Node.js, Fastify. Fastify is a highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture. Why you built another web framework? This is one of the questions we get more often. Most of the currently available web frameworks are well established, work with a defined pattern and have a very big usage among Node.js users. Try to innovate how they work is too risky, you will destroy the compatibility with the past. This is how the open source world works, “or you die as innovator, or you live long enough to become the technical debt”. With Fastify we wanted to push forwards the limit of the platform and engage a sane spirit of competition with other framework creators. We focused on build from zero an architecture pattern, a plugin system and other components of the framework. We focused also on build a future proof system, that will help the users build what they need in the easiest way possible.
+  - title: 'Node.js: The Road to Workers'
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-07 09:40:00
+    room:
+    authors:
+      - name: Anna Henningsen
+        twitter: addaleax
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/pO5a10YPQG4
+    description: |-
+      Workers, and threading support in general, have been one of the most frequently requested features for Node.js over the last years. Finally, the finishing line is in sight and we’re pretty excited to have experimental support available! This talk will tell you everything around the API, features, use cases & alternatives, our roadmap, and the technical and social challenges that we had to overcome to make it happen!
 
-- title: Lightning talk
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-07 11:55:00
-  room:
-  authors:
-    - name: Ian Savchenko
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/q5pi_VM_54k
-  description: |-
+  - title: 'The Matrix is Everywhere: A Primer on Projections in Web Graphics'
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-07 10:10:00
+    room:
+    authors:
+      - name: Lauren Budorick
+        twitter: lbudorick
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/YFGY2BeyfzA
+    description: |-
+      Graphics programming is more accessible than ever, thanks to the ubiquity of WebGL and popular frameworks that handle the boilerplate stuff. But for many of us, as soon as we see “projection matrix” (or worse, “linear algebra”) we panic. But it turns out the matrix is nothing to fear! With the help of some fun visualization tools we’ll learn all about what matrix transformations actually mean on your screen. You’ll leave empowered with a better understanding of how to translate any kind of 3D scene onto a 2D screen in JavaScript, so that you can start writing new WebGL visualizations faster than you can say mat4.scale(...).translate(...).rotateX(...) .rotateZ(...).translate(...).scale(...).invert()...
 
-- title: Lightning talk
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-07 12:00:00
-  room:
-  authors:
-    - name: Vilberg Eliasson
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/iZHjNvXLqMU
-  description: |-
+  - title: Accessible by law! Generating colors with JS and CSS Custom Properties
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-07 11:10:00
+    room:
+    authors:
+      - name: Ingvild Indrebø
+        twitter: ingvildindrebo
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2fO8B15uM1s
+    description: |-
+      In Norway, all websites are required by law to be accessible. Thanks to the Norwegian regulations, accessibility cannot be treated as "nice to have" - it's a "must have." But since we were white-label service, we were faced with two must-haves: Our customers should be able to pick any color as their brand color, but on the other hand, colors should have sufficient contrast according to the WCAG criteria. The solution came combining CSS Custom Properties with a sprinkle of JavaScript, which meant we could automatically create a color palette.
 
-- title: Achieving Secure Software through Redesign
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-07 13:20:00
-  room:
-  authors:
-    - name: Mike Samuel
-      twitter: mvsamuel
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/5reXUs4lAf4
-  description: |-
-    Our tools, frameworks, and libraries affect how we code. Learn how the design of a software stack affects the security of the systems built upon it. This talk builds on "A Roadmap for Node.js Security" which takes lessons learned by Google's Security Engineering team and applies them to a Node.js stack.
+  - title: Why we built another framework
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-07 11:25:00
+    room:
+    authors:
+      - name: Tomas Della Vedova
+        twitter: delvedor
+        github:
+        website: http://delved.org/
+    slides:
+    videos:
+      - https://youtu.be/ucatti2b7E4
+    description: |-
+      Last year we started working on a new web framework for Node.js, Fastify. Fastify is a highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture. Why you built another web framework? This is one of the questions we get more often. Most of the currently available web frameworks are well established, work with a defined pattern and have a very big usage among Node.js users. Try to innovate how they work is too risky, you will destroy the compatibility with the past. This is how the open source world works, “or you die as innovator, or you live long enough to become the technical debt”. With Fastify we wanted to push forwards the limit of the platform and engage a sane spirit of competition with other framework creators. We focused on build from zero an architecture pattern, a plugin system and other components of the framework. We focused also on build a future proof system, that will help the users build what they need in the easiest way possible.
 
-- title: Using TypeScript with Redux Architecture
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-07 13:50:00
-  room:
-  authors:
-    - name: Sandi Barr
-      twitter: sandikbarr
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/6FSpQv_QiTc
-  description: |-
-    Functional reactive programming is based on the idea that applications can be built around streams. The structure TypeScript imposes provides us with a declarative syntax that gives semantic meaning to the streams of events and commands our application uses to build state in redux architecture. There is some boilerplate required to pull this off, but it is worth it for large scale applications, examples in Ngrx with Angular.
+  - title: Lightning talk
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-07 11:55:00
+    room:
+    authors:
+      - name: Ian Savchenko
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/q5pi_VM_54k
+    description: |-
 
-- title: Lightning talk
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-07 14:20:00
-  room:
-  authors:
-    - name: Erik Hellman
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ciXqET5eF-I
-  description: |-
+  - title: Lightning talk
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-07 12:00:00
+    room:
+    authors:
+      - name: Vilberg Eliasson
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/iZHjNvXLqMU
+    description: |-
 
-- title: Lightning talk
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-07 14:25:00
-  room:
-  authors:
-    - name: Pierre Reimertz
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/QDvo-6yb4MQ
-  description: |-
+  - title: Achieving Secure Software through Redesign
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-07 13:20:00
+    room:
+    authors:
+      - name: Mike Samuel
+        twitter: mvsamuel
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/5reXUs4lAf4
+    description: |-
+      Our tools, frameworks, and libraries affect how we code. Learn how the design of a software stack affects the security of the systems built upon it. This talk builds on "A Roadmap for Node.js Security" which takes lessons learned by Google's Security Engineering team and applies them to a Node.js stack.
 
-- title: 'Empathy Driven Development: Boosting performance by implementing for unfavorable conditions'
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-07 15:00:00
-  room:
-  authors:
-    - name: Isabella Silveira de Souza
-      twitter: silveira_bells
-      github:
-      website: https://medium.com/@isabellasilveira
-  slides:
-  videos:
-    - https://youtu.be/LjGQiEcBn1Y
-  description: |-
-    Within the process of building a brand new application, us engineers are used to consider a lot of issues users may have while using our website or app: cross browser compatibility, accessibility and responsiveness are a few of the things that are always on our mind, but are we really building apps for everyone? Brazil has a population of over 207 million people and only 37,9% of them have access to LTE phones; most of them still use 3G and even 2G networks.  Cellular data is still really expensive, as well as most modern smartphones, which makes most digital experiences unfeasible. However, there's a light in the end of the tunnel! By optimizing the performance on our digital products, we can reach these kinds of users and end up crafting a better experience for all of them. In this talk I'll go through my past experiences implementing performance optimized applications, some of the best practices you can use on your own projects and some of the challenges citizens from emerging countries still face.  In this talk, I'll go through the concepts and practical implementations of performance enhancements like code splitting, css inlining, gzip, resource minification, usage of asynchronous scripts and other concerns that can really change the user experience on a website. Since I'll go from basic concepts to the actual implementation, it'll be applicable and tangible to audiences of different levels of expertise.
+  - title: Using TypeScript with Redux Architecture
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-07 13:50:00
+    room:
+    authors:
+      - name: Sandi Barr
+        twitter: sandikbarr
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/6FSpQv_QiTc
+    description: |-
+      Functional reactive programming is based on the idea that applications can be built around streams. The structure TypeScript imposes provides us with a declarative syntax that gives semantic meaning to the streams of events and commands our application uses to build state in redux architecture. There is some boilerplate required to pull this off, but it is worth it for large scale applications, examples in Ngrx with Angular.
 
-- title: Headers for Hackers
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-07 15:30:00
-  room:
-  authors:
-    - name: Andrew Betts
-      twitter: triblondon
-      github:
-      website: https://trib.tv
-  slides:
-  videos:
-    - https://youtu.be/II9m9_esNZc
-  description: |-
-    HTTP has been gradually adding lots of new and exotic headers, and more are on the way. Learn about current best practices with Vary, Link, Content-Security-Policy, Referrer-Policy, Client-Hints, Clear-Site-Data and Alt-Svc, upcoming features such as Feature-Policy and proposals like Variants, Early-Hints and Origin-Policy. HTTP gives you incredibly powerful control over many aspects of the way a browser will process the page, and is often a more effective or more secure option than trying to achieve the same effect with tags or script in the page.
+  - title: Lightning talk
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-07 14:20:00
+    room:
+    authors:
+      - name: Erik Hellman
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ciXqET5eF-I
+    description: |-
 
-- title: Connecting JavaScript to the Blockchain
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-07 16:00:00
-  room:
-  authors:
-    - name: Meng Shang
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/HjrJ7L7g20g
-  description: |-
-    How do you get started with building blockchain apps in JavaScript? Meng will give you the tools you need to get started and help you avoid common mistakes. She'll also create and deploy a simple app on stage with the help of React.
+  - title: Lightning talk
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-07 14:25:00
+    room:
+    authors:
+      - name: Pierre Reimertz
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/QDvo-6yb4MQ
+    description: |-
 
-- title: The Life of a JavaScript Feature in V8 ft. TypedArrays
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-07 17:10:00
-  room:
-  authors:
-    - name: Peter Marshall
-      twitter: hooraybuffer
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/8W8lcfelhuU
-  description: |-
-    Have you ever wondered how new language features get into JavaScript? This talk will take TypedArrays, a seemingly simple JavaScript feature, and go down the rabbit hole of implementation and optimization in V8. You’ll get a behind-the-scenes look at how a feature goes from idea, to specification, to implementation and beyond.  JavaScript is a constantly evolving language, and for browser vendors this means work. New features are regularly added or tweaked in the language specification, and it is down to the browser vendors to get these features to users as quickly as possible. Can you balance speed, correctness, and security in order to ship new features? This talk explains the trade-offs that are made and tells the story of the mistakes made and lessons learned writing a JavaScript compiler at Google.
+  - title: 'Empathy Driven Development: Boosting performance by implementing for unfavorable conditions'
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-07 15:00:00
+    room:
+    authors:
+      - name: Isabella Silveira de Souza
+        twitter: silveira_bells
+        github:
+        website: https://medium.com/@isabellasilveira
+    slides:
+    videos:
+      - https://youtu.be/LjGQiEcBn1Y
+    description: |-
+      Within the process of building a brand new application, us engineers are used to consider a lot of issues users may have while using our website or app: cross browser compatibility, accessibility and responsiveness are a few of the things that are always on our mind, but are we really building apps for everyone? Brazil has a population of over 207 million people and only 37,9% of them have access to LTE phones; most of them still use 3G and even 2G networks.  Cellular data is still really expensive, as well as most modern smartphones, which makes most digital experiences unfeasible. However, there's a light in the end of the tunnel! By optimizing the performance on our digital products, we can reach these kinds of users and end up crafting a better experience for all of them. In this talk I'll go through my past experiences implementing performance optimized applications, some of the best practices you can use on your own projects and some of the challenges citizens from emerging countries still face.  In this talk, I'll go through the concepts and practical implementations of performance enhancements like code splitting, css inlining, gzip, resource minification, usage of asynchronous scripts and other concerns that can really change the user experience on a website. Since I'll go from basic concepts to the actual implementation, it'll be applicable and tangible to audiences of different levels of expertise.
+
+  - title: Headers for Hackers
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-07 15:30:00
+    room:
+    authors:
+      - name: Andrew Betts
+        twitter: triblondon
+        github:
+        website: https://trib.tv
+    slides:
+    videos:
+      - https://youtu.be/II9m9_esNZc
+    description: |-
+      HTTP has been gradually adding lots of new and exotic headers, and more are on the way. Learn about current best practices with Vary, Link, Content-Security-Policy, Referrer-Policy, Client-Hints, Clear-Site-Data and Alt-Svc, upcoming features such as Feature-Policy and proposals like Variants, Early-Hints and Origin-Policy. HTTP gives you incredibly powerful control over many aspects of the way a browser will process the page, and is often a more effective or more secure option than trying to achieve the same effect with tags or script in the page.
+
+  - title: Connecting JavaScript to the Blockchain
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-07 16:00:00
+    room:
+    authors:
+      - name: Meng Shang
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/HjrJ7L7g20g
+    description: |-
+      How do you get started with building blockchain apps in JavaScript? Meng will give you the tools you need to get started and help you avoid common mistakes. She'll also create and deploy a simple app on stage with the help of React.
+
+  - title: The Life of a JavaScript Feature in V8 ft. TypedArrays
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-07 17:10:00
+    room:
+    authors:
+      - name: Peter Marshall
+        twitter: hooraybuffer
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/8W8lcfelhuU
+    description: |-
+      Have you ever wondered how new language features get into JavaScript? This talk will take TypedArrays, a seemingly simple JavaScript feature, and go down the rabbit hole of implementation and optimization in V8. You’ll get a behind-the-scenes look at how a feature goes from idea, to specification, to implementation and beyond.  JavaScript is a constantly evolving language, and for browser vendors this means work. New features are regularly added or tweaked in the language specification, and it is down to the browser vendors to get these features to users as quickly as possible. Can you balance speed, correctness, and security in order to ship new features? This talk explains the trade-offs that are made and tells the story of the mistakes made and lessons learned writing a JavaScript compiler at Google.

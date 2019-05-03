@@ -1,700 +1,715 @@
+conference:
 
-- title: 'Keynote: Five years of Angular'
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Matias Niemelä
-      twitter: yearofmoo/
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/WahpV6zn8lQ
-  description:
+  name: ngVikings 2018
+  url: https://2018.ngvikings.org/
+  status: complete
+  date:
+    from: 2018-03-01
+    to: 2018-03-02
+  location:
+    country: Finland
+    city: Espoo
+  description: |-
+    The main Angular event in the Nordics. And the only travelling Angular conference in the world.
 
-- title: Build progressive web apps with Angular
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Simona Cotin
-      twitter: simona_cotin
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/LKqPvANj8O8
-  description:
+talks:
 
-- title: 6 APPS ONE CODE WITH Ionic
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Sani Yusuf
-      twitter: saniyusuf
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/4bGMXuPM_FI
-  description:
+  - title: 'Keynote: Five years of Angular'
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Matias Niemelä
+        twitter: yearofmoo/
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/WahpV6zn8lQ
+    description:
 
-- title: Angular + CMS = ❤️
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Filip Bech-Larsen
-      twitter: Filipbech
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/PEVeEGigd8Q
-  description:
+  - title: Build progressive web apps with Angular
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Simona Cotin
+        twitter: simona_cotin
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LKqPvANj8O8
+    description:
 
-- title: Scalable Angular Architecture
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Bartosz Pietrucha
-      twitter: pietrucha
-      github:
-      website: https://angular-academy.com/
-  slides:
-  videos:
-    - https://youtu.be/j5NQ19DGBxM
-  description:
+  - title: 6 APPS ONE CODE WITH Ionic
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Sani Yusuf
+        twitter: saniyusuf
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4bGMXuPM_FI
+    description:
 
-- title: Multiplayer game with Angular and Firebase
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Michael Haberman
-      twitter: hab_mic
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/YtHkclzU3lw
-  description:
+  - title: Angular + CMS = ❤️
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Filip Bech-Larsen
+        twitter: Filipbech
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/PEVeEGigd8Q
+    description:
 
-- title: ng install
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Stepan Suvorov
-      twitter: stevermeister
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/eXUuBMWZyLE
-  description:
+  - title: Scalable Angular Architecture
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Bartosz Pietrucha
+        twitter: pietrucha
+        github:
+        website: https://angular-academy.com/
+    slides:
+    videos:
+      - https://youtu.be/j5NQ19DGBxM
+    description:
 
-- title: A Token Walks Into a SPA...
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Ado Kukic
-      twitter: KukicAdo
-      github: kukicado
-      website: https://kukicado.com/
-  slides:
-  videos:
-    - https://youtu.be/EoEOjQhSHNo
-  description:
+  - title: Multiplayer game with Angular and Firebase
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Michael Haberman
+        twitter: hab_mic
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/YtHkclzU3lw
+    description:
 
-- title: Use React tools for better Angular apps
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Martin Hochel
-      twitter: martin_hotell
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/LWXFX7qsIbA
-  description:
+  - title: ng install
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Stepan Suvorov
+        twitter: stevermeister
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/eXUuBMWZyLE
+    description:
 
-- title: 'Custom Schematics: An Angular Application by the push of a Button...'
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Manfred Steyer
-      twitter: ManfredSteyer
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/JAt1FSwhnWk
-  description:
+  - title: A Token Walks Into a SPA...
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Ado Kukic
+        twitter: KukicAdo
+        github: kukicado
+        website: https://kukicado.com/
+    slides:
+    videos:
+      - https://youtu.be/EoEOjQhSHNo
+    description:
 
-- title: Make Web Components Great Again with StencilJS
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Julien Renaux
-      twitter: julienrenaux
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/hQ9vHusMscw
-  description:
+  - title: Use React tools for better Angular apps
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Martin Hochel
+        twitter: martin_hotell
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LWXFX7qsIbA
+    description:
 
-- title: Understanding the realtime web with websockets
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Srushtika Neelakantam
-      twitter: Srushtika
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/PJZ06MLXGwA
-  description:
+  - title: 'Custom Schematics: An Angular Application by the push of a Button...'
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Manfred Steyer
+        twitter: ManfredSteyer
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JAt1FSwhnWk
+    description:
 
-- title: Angular, What's Coming Next
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Wassim Chegham
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ukDGkunqiCk
-  description:
+  - title: Make Web Components Great Again with StencilJS
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Julien Renaux
+        twitter: julienrenaux
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hQ9vHusMscw
+    description:
 
-- title: Angular Elements
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Pascal Precht
-      twitter: PascalPrecht
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/9zyq7FcIuvM
-  description:
+  - title: Understanding the realtime web with websockets
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Srushtika Neelakantam
+        twitter: Srushtika
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/PJZ06MLXGwA
+    description:
 
-- title: Deploy Angular and Node to the Cloud
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: John Papa
-      twitter: John_Papa
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/XmpEZN5TCjw
-  description:
+  - title: Angular, What's Coming Next
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Wassim Chegham
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ukDGkunqiCk
+    description:
 
-- title: How to hack an Angular app?
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Asim Hussain
-      twitter: jawache
-      github: jawache
-      website: https://codecraft.tv/
-  slides:
-  videos:
-    - https://youtu.be/-HZW7FH1L3g
-  description:
+  - title: Angular Elements
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Pascal Precht
+        twitter: PascalPrecht
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9zyq7FcIuvM
+    description:
 
-- title: An Angular Front For Your API
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Tara Z. Manicsic
-      twitter: tzmanics
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/79j_IUs0zhk
-  description:
+  - title: Deploy Angular and Node to the Cloud
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: John Papa
+        twitter: John_Papa
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/XmpEZN5TCjw
+    description:
 
-- title: Be lazy, but with strategy
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Martin Sonnenholzer
-      twitter: chaos_monster
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/cMs5rvc7KqM
-  description:
+  - title: How to hack an Angular app?
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Asim Hussain
+        twitter: jawache
+        github: jawache
+        website: https://codecraft.tv/
+    slides:
+    videos:
+      - https://youtu.be/-HZW7FH1L3g
+    description:
 
-- title: Angular performance pitfalls and how to avoid them
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Kristiyan Kostadinov
-      twitter: _crisbeto
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/HT6nYzHCPbM
-  description:
+  - title: An Angular Front For Your API
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Tara Z. Manicsic
+        twitter: tzmanics
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/79j_IUs0zhk
+    description:
 
-- title: Advanced DI
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Ward Bell
-      twitter: wardbell
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/PRRgo6F0cjs
-  description:
+  - title: Be lazy, but with strategy
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Martin Sonnenholzer
+        twitter: chaos_monster
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cMs5rvc7KqM
+    description:
 
-- title: Fast, Cross-Platform Desktop Apps with Electron
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Felix Rieseberg
-      twitter: felixrieseberg
-      github: felixrieseberg
-      website: https://www.felixrieseberg.com/
-  slides:
-  videos:
-    - https://youtu.be/M-DPfjuv5UI
-  description:
+  - title: Angular performance pitfalls and how to avoid them
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Kristiyan Kostadinov
+        twitter: _crisbeto
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/HT6nYzHCPbM
+    description:
 
-- title: Hey Google, is there any presentation about ChatBots at ngVikings?
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Wassim Chegham
-      twitter: manekinekko
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/-M2F2GPGU1M
-  description:
+  - title: Advanced DI
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Ward Bell
+        twitter: wardbell
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/PRRgo6F0cjs
+    description:
 
-- title: Q&A with all speakers
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-  slides:
-  videos:
-    - https://youtu.be/C6Wbul8gN8Y
-  description:
+  - title: Fast, Cross-Platform Desktop Apps with Electron
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Felix Rieseberg
+        twitter: felixrieseberg
+        github: felixrieseberg
+        website: https://www.felixrieseberg.com/
+    slides:
+    videos:
+      - https://youtu.be/M-DPfjuv5UI
+    description:
 
-- title: Getting started with WebVR
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Martin Splitt
-      twitter: g33konaut
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ZuHFqE6ljVk
-  description:
+  - title: Hey Google, is there any presentation about ChatBots at ngVikings?
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Wassim Chegham
+        twitter: manekinekko
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-M2F2GPGU1M
+    description:
 
-- title: Enhanching performance by leveraging the power of Observables
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Sander Elias
-      twitter: esosanderelias
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/u8B96WsIuB8
-  description:
+  - title: Q&A with all speakers
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+    slides:
+    videos:
+      - https://youtu.be/C6Wbul8gN8Y
+    description:
 
-- title: dummy to app
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: David Muellerchen
-      twitter: webdave_de
-      github: web-dave
-      website:
-  slides:
-  videos:
-    - https://youtu.be/69XDRK4p5Rk
-  description:
+  - title: Getting started with WebVR
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Martin Splitt
+        twitter: g33konaut
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ZuHFqE6ljVk
+    description:
 
-- title: Web Maps - Putting the M in Angular web apps!
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Katerina Skroumpelou
-      twitter: psybercity
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/PqfJbbWdUWQ
-  description:
+  - title: Enhanching performance by leveraging the power of Observables
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Sander Elias
+        twitter: esosanderelias
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/u8B96WsIuB8
+    description:
 
-- title: Changing the world of travel with Angular and measuring...
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Oskari Okko Ojala
-      twitter: okko
-      github:
-      website:
-    - name: Olli Leskinen
-      twitter: olliles
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/1iXTJ36XzOU
-  description:
+  - title: dummy to app
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: David Muellerchen
+        twitter: webdave_de
+        github: web-dave
+        website:
+    slides:
+    videos:
+      - https://youtu.be/69XDRK4p5Rk
+    description:
 
-- title: Let's plant our Angular Tree
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Juan Herrera
-      twitter: jdjuan
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/HuoAWFKD12s
-  description:
+  - title: Web Maps - Putting the M in Angular web apps!
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Katerina Skroumpelou
+        twitter: psybercity
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/PqfJbbWdUWQ
+    description:
 
-- title: Designing Component API
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Vitalii Bobrov
-      twitter: bobrov1989
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/hpDQeTIbrRE
-  description:
+  - title: Changing the world of travel with Angular and measuring...
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Oskari Okko Ojala
+        twitter: okko
+        github:
+        website:
+      - name: Olli Leskinen
+        twitter: olliles
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1iXTJ36XzOU
+    description:
 
-- title: Create & Publish Angular Libs like a PRO
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Juri Strumpflohner
-      twitter: juristr
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Tw8TCgeqotg
-  description:
+  - title: Let's plant our Angular Tree
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Juan Herrera
+        twitter: jdjuan
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/HuoAWFKD12s
+    description:
 
-- title: Visualising Enterprise Data with Angular & d3
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Sean Landsman
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/EMmkp9_5jlU
-  description:
+  - title: Designing Component API
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Vitalii Bobrov
+        twitter: bobrov1989
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hpDQeTIbrRE
+    description:
 
-- title: Testing Angular apps
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Carl Vuorinen
-      twitter: cvuorinen
-      github: cvuorinen
-      website:
-  slides:
-  videos:
-    - https://youtu.be/rjXJtIEQ3rw
-  description:
+  - title: Create & Publish Angular Libs like a PRO
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Juri Strumpflohner
+        twitter: juristr
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Tw8TCgeqotg
+    description:
 
-- title: Innovating is not about technology, but psychology
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Alyssa Nicoll
-      twitter: AlyssaNicoll
-      github:
-      website: http://alyssa.io/
-  slides:
-  videos:
-    - https://youtu.be/lclwj_uSINU
-  description:
+  - title: Visualising Enterprise Data with Angular & d3
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Sean Landsman
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/EMmkp9_5jlU
+    description:
 
-- title: Progressive Web Apps with Angular and Firebase
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Erik Haddad
-      twitter: erikhaddad
-      github: erikhaddad
-      website:
-  slides:
-  videos:
-    - https://youtu.be/U-tXceRtwTk
-  description:
+  - title: Testing Angular apps
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Carl Vuorinen
+        twitter: cvuorinen
+        github: cvuorinen
+        website:
+    slides:
+    videos:
+      - https://youtu.be/rjXJtIEQ3rw
+    description:
 
-- title: Offline Angular app in action
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Majid Hajian
-      twitter: mhadaily
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/k5qeXE73zgA
-  description:
+  - title: Innovating is not about technology, but psychology
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Alyssa Nicoll
+        twitter: AlyssaNicoll
+        github:
+        website: http://alyssa.io/
+    slides:
+    videos:
+      - https://youtu.be/lclwj_uSINU
+    description:
 
-- title: Can't Touch This! What not to do to the DOM
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Max NgWizard
-      twitter: maxim_koretskyi
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/qWmqiYDrnDc
-  description:
+  - title: Progressive Web Apps with Angular and Firebase
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Erik Haddad
+        twitter: erikhaddad
+        github: erikhaddad
+        website:
+    slides:
+    videos:
+      - https://youtu.be/U-tXceRtwTk
+    description:
 
-- title: Rendering Performance from the Ground Up
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Martin Splitt
-      twitter: g33konaut
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/lEH6FTNx8KY
-  description:
+  - title: Offline Angular app in action
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Majid Hajian
+        twitter: mhadaily
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/k5qeXE73zgA
+    description:
 
-- title: Real-Time stream processing with Reactive-Extensions
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Michael Hladky
-      twitter: Michael_Hladky
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/iNlGvy7l24w
-  description:
+  - title: Can't Touch This! What not to do to the DOM
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Max NgWizard
+        twitter: maxim_koretskyi
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qWmqiYDrnDc
+    description:
 
-- title: Abstractions in Angular
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Akseli Virtanen
-      twitter:
-      github: _akseliv
-      website:
-  slides:
-  videos:
-    - https://youtu.be/DVa7Gg9NUHk
-  description:
+  - title: Rendering Performance from the Ground Up
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Martin Splitt
+        twitter: g33konaut
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lEH6FTNx8KY
+    description:
 
-- title: Reactive Brain Waves
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Uri Shaked
-      twitter: UriShaked
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/KlkvSTSXfho
-  description:
+  - title: Real-Time stream processing with Reactive-Extensions
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Michael Hladky
+        twitter: Michael_Hladky
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/iNlGvy7l24w
+    description:
 
-- title: How WebAssembly is changing the Web and what it means for Angular
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: Boyan Mihaylov
-      twitter: boyanio
-      github:
-      website: https://boyan.io/
-  slides:
-  videos:
-    - https://youtu.be/CJ8_3Jc4L0M
-  description:
+  - title: Abstractions in Angular
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Akseli Virtanen
+        twitter:
+        github: _akseliv
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DVa7Gg9NUHk
+    description:
 
-- title: Supercharging the Angular CLI with Nx
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-    - name: James Henry
-      twitter: MrJamesHenry
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/bMkKz8AedHc
-  description:
+  - title: Reactive Brain Waves
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Uri Shaked
+        twitter: UriShaked
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/KlkvSTSXfho
+    description:
 
-- title: ngVikings 2018 - Highlights
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-01
-  room:
-  authors:
-  slides:
-  videos:
-    - https://youtu.be/-wVodWS-9OU
-  description:
+  - title: How WebAssembly is changing the Web and what it means for Angular
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: Boyan Mihaylov
+        twitter: boyanio
+        github:
+        website: https://boyan.io/
+    slides:
+    videos:
+      - https://youtu.be/CJ8_3Jc4L0M
+    description:
+
+  - title: Supercharging the Angular CLI with Nx
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+      - name: James Henry
+        twitter: MrJamesHenry
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/bMkKz8AedHc
+    description:
+
+  - title: ngVikings 2018 - Highlights
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-01
+    room:
+    authors:
+    slides:
+    videos:
+      - https://youtu.be/-wVodWS-9OU
+    description:

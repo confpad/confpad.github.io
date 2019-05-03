@@ -1,274 +1,290 @@
-- title: Make JavaScript Faster
-  lang: en
-  type: regular
-  level:
-  time: 2018-02-02
-  room:
-  authors:
-    - name: Steve Souders
-      twitter: souders
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/souders/make-javascript-faster
-  videos:
-    - https://youtu.be/RwSlubTBnew
-  description: |-
-    Everyone loves fast sites. While "make your site faster" is a simple mantra, the actual steps to achieve this can be daunting. Fortunately, we know where to start: JavaScript. JavaScript consumes twice as much CPU as loading, layout, and rendering combined. Byte-for-byte, JavaScript inflicts more delays on sites than any other resource, and yet the amount of JavaScript on sites continues to grow. In this session you'll learn the latest techniques for measuring and improving the impact JavaScript on your site, including: using the User Timing Spec and Long Tasks API to track the CPU cost of JavaScript for real users, moving expensive JavaScript off the main thread, using code coverage tools to reduce your JavaScript, and understanding why defer is probably a better technique than async for loading JavaScript.
+conference:
 
-- title: It's My (Third) Party and I'll Cry If I Want To
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Harry Roberts
-      twitter: csswizardry
-      github:
-      website:
-  slides:
-    - https://speakerdeck.com/csswizardry/its-my-third-party-and-ill-cry-if-i-want-to
-  videos:
-    - https://youtu.be/bmIUYBNKja4
+  name: performance.now() 2018
+  url: https://perfnow.nl/
+  status: complete
+  date:
+    from: 2018-11-08
+    to: 2018-11-09
+  location:
+    country: Netherlands
+    city: Amsterdam
   description: |-
-    Like it or not, a huge part of modern web development involves the use of third-party providers: fonts, analytics, ads, tracking, and more all have an impact of performance, and can leave us (or, more worryingly, our visitors) susceptible to performance degradation. In this talk, we'll take a look at unruly or uninvited (third-)party guests: how to detect them, how to audit them, and how to manage them. We'll also look at the different tools available to help us stress-test and quantify the overhead these third parties bring, and what that means for users and businesses alike.
+    This is a single track conference with sixteen world-class speakers covering today’s most important web performance insights.
 
-- title: 'Fast but not Furious: Debugging User Interaction Performance Issues'
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Anna Migas
-      twitter: szynszyliszys
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/AnnaMigas1/performancenow-fast-but-not-furious
-  videos:
-    - https://youtu.be/JGdIzKcAEkI
-  description: |-
-    Perceived performance is not only about fast page loads and delivering the content as early as possible. It is also about all the interactions happening on an already loaded page. Even some of the most popular UI patterns can be a cause of frustration. Understanding what is happening under the browser's hood can help you delight users with a smooth experience and avoid potential performance issues. Let's demystify the rendering process and look into possible optimisations in order to achieve the best experience after the initial page load. During the talk you will learn: - what the browser rendering process looks like, - which UI patterns can be deadly to the website's performance when mixed with certain user interactions, - how we can help the browser with planning the optimisations ahead.
+talks:
 
-- title: How I optimized my JavaScript sheet music rendering engine
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Adrian Holovaty
-      twitter: adrianholovaty
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/XH5EtQge_Bg
-  description: |-
-    In this case study of soundslice.com, Adrian shares lots of performance tweaks he has used to make responsive sheet music layout perform well in web browsers.
+  - title: Make JavaScript Faster
+    lang: en
+    type: regular
+    level:
+    time: 2018-02-02
+    room:
+    authors:
+      - name: Steve Souders
+        twitter: souders
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/souders/make-javascript-faster
+    videos:
+      - https://youtu.be/RwSlubTBnew
+    description: |-
+      Everyone loves fast sites. While "make your site faster" is a simple mantra, the actual steps to achieve this can be daunting. Fortunately, we know where to start: JavaScript. JavaScript consumes twice as much CPU as loading, layout, and rendering combined. Byte-for-byte, JavaScript inflicts more delays on sites than any other resource, and yet the amount of JavaScript on sites continues to grow. In this session you'll learn the latest techniques for measuring and improving the impact JavaScript on your site, including: using the User Timing Spec and Long Tasks API to track the CPU cost of JavaScript for real users, moving expensive JavaScript off the main thread, using code coverage tools to reduce your JavaScript, and understanding why defer is probably a better technique than async for loading JavaScript.
 
-- title: The Five Whys of Web Font Loading Performance
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Zach Leatherman
-      twitter: zachleat
-      github:
-      website:
-  slides:
-    - https://noti.st/zachleat/KNaZEg/the-five-whys-of-web-font-loading-performance
-  videos:
-    - https://youtu.be/FbguhX3n3Uc
-  description: |-
+  - title: It's My (Third) Party and I'll Cry If I Want To
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Harry Roberts
+        twitter: csswizardry
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/csswizardry/its-my-third-party-and-ill-cry-if-i-want-to
+    videos:
+      - https://youtu.be/bmIUYBNKja4
+    description: |-
+      Like it or not, a huge part of modern web development involves the use of third-party providers: fonts, analytics, ads, tracking, and more all have an impact of performance, and can leave us (or, more worryingly, our visitors) susceptible to performance degradation. In this talk, we'll take a look at unruly or uninvited (third-)party guests: how to detect them, how to audit them, and how to manage them. We'll also look at the different tools available to help us stress-test and quantify the overhead these third parties bring, and what that means for users and businesses alike.
 
-- title: 'Down the line: Evolving HTTP and making things QUIC'
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Natasha Rooney
-      twitter: thisNatasha
-      github:
-      website:
-  slides:
-    - https://docs.google.com/presentation/d/1BU-5Od9TLWMaVgr0yZ6qdzMgqZE9UCurinjx9Q4pZGw
-  videos:
-    - https://youtu.be/WCwzKe4pKxY
-  description: |-
+  - title: 'Fast but not Furious: Debugging User Interaction Performance Issues'
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Anna Migas
+        twitter: szynszyliszys
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/AnnaMigas1/performancenow-fast-but-not-furious
+    videos:
+      - https://youtu.be/JGdIzKcAEkI
+    description: |-
+      Perceived performance is not only about fast page loads and delivering the content as early as possible. It is also about all the interactions happening on an already loaded page. Even some of the most popular UI patterns can be a cause of frustration. Understanding what is happening under the browser's hood can help you delight users with a smooth experience and avoid potential performance issues. Let's demystify the rendering process and look into possible optimisations in order to achieve the best experience after the initial page load. During the talk you will learn: - what the browser rendering process looks like, - which UI patterns can be deadly to the website's performance when mixed with certain user interactions, - how we can help the browser with planning the optimisations ahead.
 
-- title: Headers for Hackers
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Andrew Betts
-      twitter: triblondon
-      github:
-      website:
-  slides:
-    - https://speakerdeck.com/triblondon/headers-for-hackers
-  videos:
-    - https://youtu.be/k92ZbrY815c
-  description: |-
+  - title: How I optimized my JavaScript sheet music rendering engine
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Adrian Holovaty
+        twitter: adrianholovaty
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/XH5EtQge_Bg
+    description: |-
+      In this case study of soundslice.com, Adrian shares lots of performance tweaks he has used to make responsive sheet music layout perform well in web browsers.
 
-- title: How I learned to stop worrying and love UX metrics
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Tammy Everts
-      twitter: tameverts
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/tammyeverts/how-i-learned-to-stop-worrying-and-love-ux-metrics
-  videos:
-    - https://youtu.be/lLR_nGA5t5g
-  description: |-
+  - title: The Five Whys of Web Font Loading Performance
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Zach Leatherman
+        twitter: zachleat
+        github:
+        website:
+    slides:
+      - https://noti.st/zachleat/KNaZEg/the-five-whys-of-web-font-loading-performance
+    videos:
+      - https://youtu.be/FbguhX3n3Uc
+    description: |-
 
-- title: The Long-Tail of Performance
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Tim Kadlec
-      twitter: tkadlec
-      github:
-      website:
-  slides:
-    - https://noti.st/tkadlec/FAqr8X
-  videos:
-    - https://youtu.be/6vMvg38CXFk
-  description: |-
-    Successfully, and efficiently, delivering a site to visitors involves a lot of moving parts. The server has to spit something out, which gets passed over the network to the requesting device. The browser takes over from there, coordinating with the device to try and deliver the page as quickly as possible. When things go well, we barely notice and if we're not careful, neither do our metrics. But there is a lot of unpredictability involved and if even one step is out of sync—if the device is overtasked, the network spotty, the browser old or unexpected—the performance can suffer dramatically. Welcome to the long-tail of performance, where the real world happens. In this talk, we'll discuss what happens when the web bumps up against this less-than-ideal day to day reality. We'll zero in on these "long-tail" issues and explore how to ensure your sites perform well even when things go wrong. And as we address these issues, we'll end up making our sites more performant for everyone in the process.
+  - title: 'Down the line: Evolving HTTP and making things QUIC'
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Natasha Rooney
+        twitter: thisNatasha
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1BU-5Od9TLWMaVgr0yZ6qdzMgqZE9UCurinjx9Q4pZGw
+    videos:
+      - https://youtu.be/WCwzKe4pKxY
+    description: |-
 
-- title: Past, Present and Future of Resource Loading
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Yoav Weiss
-      twitter: yoavweiss
-      github:
-      website:
-  slides:
-    - https://yoavweiss.github.io/perfnow_resource_loading/
-  videos:
-    - https://youtu.be/XwEKGuq_e0o
-  description: |-
-    Loading resources on the Web has always been a performance hurdle. Late discovery, contention and bloat caused it to be the common performance bottleneck. In recent years advances in protocols, browser behaviour and performance APIs improved resource loading significantly, but there’s still room to make it even faster. In this talk we will go over resource loading improvements browsers have made in recent years, discuss related best practices and describe various innovations that are being worked on to improve resource loading even further.
+  - title: Headers for Hackers
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Andrew Betts
+        twitter: triblondon
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/triblondon/headers-for-hackers
+    videos:
+      - https://youtu.be/k92ZbrY815c
+    description: |-
 
-- title: Image Optimization
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Kornel Lesiński
-      twitter: kornelski
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/jTXhYj2aCDU
-  description: |-
+  - title: How I learned to stop worrying and love UX metrics
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Tammy Everts
+        twitter: tameverts
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/tammyeverts/how-i-learned-to-stop-worrying-and-love-ux-metrics
+    videos:
+      - https://youtu.be/lLR_nGA5t5g
+    description: |-
 
-- title: 'Raiders of the Fast Start: Frontend Performance Archeology'
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Katie Sylor-Miller
-      twitter: ksylor
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/KatrinaSylorMiller/raiders-of-the-fast-start-frontend-performance-archaeology-performancenow-conference
-  videos:
-    - https://youtu.be/qts9gPYoANU
-  description: |-
-    There are a lot of books, articles, and online tutorials out there with fantastic advice on how to make your websites performant. It all seems easy in theory, but applying best practices to real-world code is anything but straightforward. Diagnosing and fixing frontend performance issues on a large legacy codebase is like being an archaeologist excavating the remains of a lost civilization. You don’t know what you will find until you start digging! Pick up your trowels and come along with Etsy’s Frontend Systems team as we become archaeologists digging into frontend performance on our large, legacy mobile codebase. I’ll share real-life lessons you can use to guide your own excavations into legacy code: What tools and metrics we used to diagnose issues and track progress. How we went beyond server-driven best practices to focus on the client. Which fixes successfully increased conversion, and which didn’t. Our work, like all good archaeology, went beyond artifacts and unearthed new insights into our culture. We at Etsy pride ourselves on our culture of performance, but, like all cultures, it needs to adapt and reinvent itself to account for changes to the landscape. Based on what we’ve learned, we are making the case for a new, organization-wide, frontend-focused performance culture that will solve the problems we face today.
+  - title: The Long-Tail of Performance
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Tim Kadlec
+        twitter: tkadlec
+        github:
+        website:
+    slides:
+      - https://noti.st/tkadlec/FAqr8X
+    videos:
+      - https://youtu.be/6vMvg38CXFk
+    description: |-
+      Successfully, and efficiently, delivering a site to visitors involves a lot of moving parts. The server has to spit something out, which gets passed over the network to the requesting device. The browser takes over from there, coordinating with the device to try and deliver the page as quickly as possible. When things go well, we barely notice and if we're not careful, neither do our metrics. But there is a lot of unpredictability involved and if even one step is out of sync—if the device is overtasked, the network spotty, the browser old or unexpected—the performance can suffer dramatically. Welcome to the long-tail of performance, where the real world happens. In this talk, we'll discuss what happens when the web bumps up against this less-than-ideal day to day reality. We'll zero in on these "long-tail" issues and explore how to ensure your sites perform well even when things go wrong. And as we address these issues, we'll end up making our sites more performant for everyone in the process.
 
-- title: PWA Challenges
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Jason Grigsby
-      twitter: grigs
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/grigs/progressive-web-app-challenges
-  videos:
-    - https://youtu.be/1570FmnYtck
-  description: |-
+  - title: Past, Present and Future of Resource Loading
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Yoav Weiss
+        twitter: yoavweiss
+        github:
+        website:
+    slides:
+      - https://yoavweiss.github.io/perfnow_resource_loading/
+    videos:
+      - https://youtu.be/XwEKGuq_e0o
+    description: |-
+      Loading resources on the Web has always been a performance hurdle. Late discovery, contention and bloat caused it to be the common performance bottleneck. In recent years advances in protocols, browser behaviour and performance APIs improved resource loading significantly, but there’s still room to make it even faster. In this talk we will go over resource loading improvements browsers have made in recent years, discuss related best practices and describe various innovations that are being worked on to improve resource loading even further.
 
-- title: Move Fast & Don't Break Things
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Scott Jehl
-      twitter: scottjehl
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
-    Webpage performance is a high priority for any site of scale today, but it can be easier to build a fast site than it is to maintain one. As a site's features and design evolves, its performance is often threatened for a number of reasons, making it hard to ensure fast, broad access to services. In this session, Scott will consider common conflicts between performance and features such as advertising, personalization, A/B testing, CMSs, and JavaScript frameworks, and share some practices that have helped major sites defend their speed without compromises.
+  - title: Image Optimization
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Kornel Lesiński
+        twitter: kornelski
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/jTXhYj2aCDU
+    description: |-
 
-- title: Building a Foundation for Performance
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Michelle Vu
-      twitter: micvu
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/FBeR6QvroEQ
-  description: |-
-    Pinterest.com serves millions of requests per day internationally across a myriad of network conditions and devices. This is the story of how the web performance team tackled the task of gathering data, applied a strategic roadmap across the organization, prevented performance regression as developers shipped new features, executed on the best opportunities to improve the Pinterest experience for our users, and made performance a priority for the company.
+  - title: 'Raiders of the Fast Start: Frontend Performance Archeology'
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Katie Sylor-Miller
+        twitter: ksylor
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/KatrinaSylorMiller/raiders-of-the-fast-start-frontend-performance-archaeology-performancenow-conference
+    videos:
+      - https://youtu.be/qts9gPYoANU
+    description: |-
+      There are a lot of books, articles, and online tutorials out there with fantastic advice on how to make your websites performant. It all seems easy in theory, but applying best practices to real-world code is anything but straightforward. Diagnosing and fixing frontend performance issues on a large legacy codebase is like being an archaeologist excavating the remains of a lost civilization. You don’t know what you will find until you start digging! Pick up your trowels and come along with Etsy’s Frontend Systems team as we become archaeologists digging into frontend performance on our large, legacy mobile codebase. I’ll share real-life lessons you can use to guide your own excavations into legacy code: What tools and metrics we used to diagnose issues and track progress. How we went beyond server-driven best practices to focus on the client. Which fixes successfully increased conversion, and which didn’t. Our work, like all good archaeology, went beyond artifacts and unearthed new insights into our culture. We at Etsy pride ourselves on our culture of performance, but, like all cultures, it needs to adapt and reinvent itself to account for changes to the landscape. Based on what we’ve learned, we are making the case for a new, organization-wide, frontend-focused performance culture that will solve the problems we face today.
 
-- title: The Latest in Metrics & Measurement
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-09
-  room:
-  authors:
-    - name: Paul Irish
-      twitter: paul_irish
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/XvZ7-Uh0R4Q
-  description: |-
+  - title: PWA Challenges
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Jason Grigsby
+        twitter: grigs
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/grigs/progressive-web-app-challenges
+    videos:
+      - https://youtu.be/1570FmnYtck
+    description: |-
+
+  - title: Move Fast & Don't Break Things
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Scott Jehl
+        twitter: scottjehl
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Webpage performance is a high priority for any site of scale today, but it can be easier to build a fast site than it is to maintain one. As a site's features and design evolves, its performance is often threatened for a number of reasons, making it hard to ensure fast, broad access to services. In this session, Scott will consider common conflicts between performance and features such as advertising, personalization, A/B testing, CMSs, and JavaScript frameworks, and share some practices that have helped major sites defend their speed without compromises.
+
+  - title: Building a Foundation for Performance
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Michelle Vu
+        twitter: micvu
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/FBeR6QvroEQ
+    description: |-
+      Pinterest.com serves millions of requests per day internationally across a myriad of network conditions and devices. This is the story of how the web performance team tackled the task of gathering data, applied a strategic roadmap across the organization, prevented performance regression as developers shipped new features, executed on the best opportunities to improve the Pinterest experience for our users, and made performance a priority for the company.
+
+  - title: The Latest in Metrics & Measurement
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-09
+    room:
+    authors:
+      - name: Paul Irish
+        twitter: paul_irish
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/XvZ7-Uh0R4Q
+    description: |-

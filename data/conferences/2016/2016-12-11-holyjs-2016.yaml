@@ -1,353 +1,369 @@
-- title: "ECMAScript: latest and upcoming features"
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Axel Rauschmayer
-      twitter: rauschma
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/3Wtdonv1aoWq6GgMWsOmO0/aafff034449f44d200292cc7bcf161b3/Axel_Rauschmayer___ECMAScript_a_______latest_and_upcoming_features.pdf
-  videos:
-    - https://youtu.be/bIPiqN2YTiQ
-  description: |-
-    JavaScript Conference HolyJS 2016 Moscow December 11, 2016 In this talk, Axel will ECMAScript, the JavaScript language standard. He will also be added next.
+conference:
 
-- title: "Web applications: split monolith"
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Victor Grishchenko
-      twitter: gritzko
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/6b6yocEZqgkms0omC2EKU2/23a2b87c370059e86f0ceafec03ba161/holy-msk.pdf
-  videos:
+  name: HolyJS 2016
+  url: https://2016.holyjs-moscow.ru/
+  status: complete
+  date:
+    from: 2016-12-11
+    to: 2016-12-11
+  location:
+    country: Russian Federation
+    city: Moscow
   description: |-
+    Do not confuse HolyJS with frontend conferences - there are many such in Russia. But until 2016 there was not a single conference on the most popular in the world (according to GitHub and RedMonk) programming language - JavaScript, which is most often associated with the frontend.
 
-- title: Dr. Strangelove or How I Learned to Stop Worrying and Love the Serverless Chatbots
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Slobodan stojanovic
-      twitter: slobodan_
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/1WMFErbKO0muAmMwoOWGaA/c240315f0a44feff038cb94d67085732/SlobodanStojanovic_DrStrangeloveOrHowILearnedToStopWorryingAndLoveTheServerlessChatbots-2.pdf
-  videos:
-    - https://youtu.be/hRkK3xCYJ1g
-  description: |-
-    JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM
+talks:
 
-- title: Web mutation
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Pavel Kondratenko
-      twitter: mrgustarus
-      github:
-      website:
-  slides:
-    - https://downloads.ctfassets.net/nn534z2fqr9f/4o5NUKOz2gisoGgMKYGUgy/0dd1f1d9b5f5e6fd336e977791b5eb81/Pavel_Kondratenko-The_web_is_mutating.pdf
-  videos:
-  description: |-
-    JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM.
+  - title: "ECMAScript: latest and upcoming features"
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Axel Rauschmayer
+        twitter: rauschma
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/3Wtdonv1aoWq6GgMWsOmO0/aafff034449f44d200292cc7bcf161b3/Axel_Rauschmayer___ECMAScript_a_______latest_and_upcoming_features.pdf
+    videos:
+      - https://youtu.be/bIPiqN2YTiQ
+    description: |-
+      JavaScript Conference HolyJS 2016 Moscow December 11, 2016 In this talk, Axel will ECMAScript, the JavaScript language standard. He will also be added next.
 
-- title: How modern libraries and frameworks work with the DOM
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Vyacheslav Slinko
-      twitter: vslinko
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/1qpWqK0BF2aI0mSKmuqy86/63d68412bb4582ecde32482903065ef4/Viacheslav_Slinko_-_How_modern_libraries_and_frameworks_work_with_DOM.pdf
-  videos:
-    - https://youtu.be/P0XaHYtA1QE
-  description: |-
+  - title: "Web applications: split monolith"
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Victor Grishchenko
+        twitter: gritzko
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/6b6yocEZqgkms0omC2EKU2/23a2b87c370059e86f0ceafec03ba161/holy-msk.pdf
+    videos:
+    description: |-
 
-- title: Debugging Node.js in Production
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Thomas watson
-      twitter: wa7son
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/2UgTARoNfG6gYyw2y2A4SG/30ad30533cfd053f6f86548589c8c8b7/Thomas_Watson_-_Debugging_Node.js_in_Production.pdf
-  videos:
-    - https://youtu.be/briH-bfleIM
-  description: |-
+  - title: Dr. Strangelove or How I Learned to Stop Worrying and Love the Serverless Chatbots
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Slobodan stojanovic
+        twitter: slobodan_
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/1WMFErbKO0muAmMwoOWGaA/c240315f0a44feff038cb94d67085732/SlobodanStojanovic_DrStrangeloveOrHowILearnedToStopWorryingAndLoveTheServerlessChatbots-2.pdf
+    videos:
+      - https://youtu.be/hRkK3xCYJ1g
+    description: |-
+      JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM
 
-- title: Koa and middleware evolution
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Evgeny Pshenichny
-      twitter: pshenichnyy
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/7CSsUvLVxmCWogsMCYYmck/05cf14c3627ddef869355fa208d07e32/koa-evolution-pshenichnyy-holyjs.pdf
-  videos:
-    - https://youtu.be/uwlzpzZhlbE
-  description: |-
-    JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM
+  - title: Web mutation
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Pavel Kondratenko
+        twitter: mrgustarus
+        github:
+        website:
+    slides:
+      - https://downloads.ctfassets.net/nn534z2fqr9f/4o5NUKOz2gisoGgMKYGUgy/0dd1f1d9b5f5e6fd336e977791b5eb81/Pavel_Kondratenko-The_web_is_mutating.pdf
+    videos:
+    description: |-
+      JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM.
 
-- title: How to approach modern web applications
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Nikita Prokopov
-      twitter: nikitonsky
-      github:
-      website:
-  slides:
-    - https://downloads.ctfassets.net/nn534z2fqr9f/3OjrzqA0JymAUEMiEA4KIO/bc8fa61d56eb52f56092947b424838db/Nikita_Prokopov_-_Approaches_to_modern_web_applications.pdf
-  videos:
-    - https://youtu.be/x9yYlDNHI2Y
-  description: |-
-    JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM
+  - title: How modern libraries and frameworks work with the DOM
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Vyacheslav Slinko
+        twitter: vslinko
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/1qpWqK0BF2aI0mSKmuqy86/63d68412bb4582ecde32482903065ef4/Viacheslav_Slinko_-_How_modern_libraries_and_frameworks_work_with_DOM.pdf
+    videos:
+      - https://youtu.be/P0XaHYtA1QE
+    description: |-
 
-- title: Remote (dev) tools do it yourself
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Roman Dvornov
-      twitter: rdvornov
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/basisjs/remove-devtools
-  videos:
-    - https://youtu.be/yb22qyVUqTs
-  description: |-
-    JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM.
+  - title: Debugging Node.js in Production
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Thomas watson
+        twitter: wa7son
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/2UgTARoNfG6gYyw2y2A4SG/30ad30533cfd053f6f86548589c8c8b7/Thomas_Watson_-_Debugging_Node.js_in_Production.pdf
+    videos:
+      - https://youtu.be/briH-bfleIM
+    description: |-
 
-- title: Rich text editing with Draft.js
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Nikolaus Graf
-      twitter: nikgraf
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/1rVBvaJvpOAeimKOakC2sK/f54551db199543d2ef2d6cd1753f1674/Nikolaus_Graf__Rich_text_editing_with_Draft.js.pdf
-  videos:
-    - https://youtu.be/rHat0n1xBVc
-  description: |-
-    JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM.In this talk, Axel will give an overview of the latest features that were added to ECMAScript, the JavaScript language standard. He will also show what features will probably be added next.http://bit.ly/2P4jIYM.
+  - title: Koa and middleware evolution
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Evgeny Pshenichny
+        twitter: pshenichnyy
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/7CSsUvLVxmCWogsMCYYmck/05cf14c3627ddef869355fa208d07e32/koa-evolution-pshenichnyy-holyjs.pdf
+    videos:
+      - https://youtu.be/uwlzpzZhlbE
+    description: |-
+      JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM
 
-- title: Logux - a new way to connect client and server
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Andrey Sitnik
-      twitter: andrey_sitnik
-      github:
-      website:
-  slides:
-    - https://slides.com/ai/logux
-  videos:
-    - https://youtu.be/1RMhUPsVw2M
-  description: |-
-    JavaScript conference of HolyJS 2016 Moscow December 11, 2016 We created excellent frameworks for client JS and backend. But between them we use old AJAX and REST. They served us well before, but web applications are becoming more complex. Andrei Sitnik, creator of PostCSS and Autoprefixer, will consider new ideas in connection between the client and the server, which he wants to build in his new open-source project. How can we take the ideas of Relay and Swarm.js and develop them? How to synchronize the log of operations will reduce the amount of code and give out-of-the-box auto-update and offline editing support?
+  - title: How to approach modern web applications
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Nikita Prokopov
+        twitter: nikitonsky
+        github:
+        website:
+    slides:
+      - https://downloads.ctfassets.net/nn534z2fqr9f/3OjrzqA0JymAUEMiEA4KIO/bc8fa61d56eb52f56092947b424838db/Nikita_Prokopov_-_Approaches_to_modern_web_applications.pdf
+    videos:
+      - https://youtu.be/x9yYlDNHI2Y
+    description: |-
+      JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM
 
-- title: 3L3M3NT5
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Martin Kleppe
-      twitter: aemkei
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/66MGrpJhaE2YumkUeACowY/b245e84a8aee6c62ed984b1cafbb9cea/Martin-Kleppe_3L3M3NT5.pdf
-  videos:
-    - https://youtu.be/p0X9UlqarCU
-  description: |-
-    JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM
+  - title: Remote (dev) tools do it yourself
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Roman Dvornov
+        twitter: rdvornov
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/basisjs/remove-devtools
+    videos:
+      - https://youtu.be/yb22qyVUqTs
+    description: |-
+      JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM.
 
-- title: Building Interactive npm Command Line Modules
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Irina Shestak
-      twitter: _lrlna
-      github:
-      website:
-  slides:
-    - https://lrlna.github.io/holyjs-2016/#0
-  videos:
-    - https://youtu.be/X5f2_6jPoOc
-  description: |-
-    Here you are coding away, when you realize you are in desperate need of a quick shell script to get your project cleaned up. You are standing at a fork in the road: Bash or Node? You choose the road less travelled by (for some reason) — Node. Irina congratulates you on this decision. You have written it, you may have published it, and it certainly works. But what now? Is this all a command line module Node is good for: a project clean up and some data manipulation?JavaScript conference of HolyJS 2016 Moscow December 11, 2016 Sooner or later, there is a need for own tools for various reasons: either there are not enough ready-made tools, or there is some peculiarity in the project. Developing browser-based tools is a daunting task. The most difficult thing is for them to work remotely, off page. This is scary for many - you need to do a lot and understand a lot. But if most of the problems have already been solved, and you can focus only on the main function of the tool? What if such tools can work in an arbitrary WebView, be it embedded in a browser, editor, or other application on any device? In his report, Roman will tell about remote tools: what are the difficulties and how to get around them,http://bit.ly/2P4jIYM
+  - title: Rich text editing with Draft.js
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Nikolaus Graf
+        twitter: nikgraf
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/1rVBvaJvpOAeimKOakC2sK/f54551db199543d2ef2d6cd1753f1674/Nikolaus_Graf__Rich_text_editing_with_Draft.js.pdf
+    videos:
+      - https://youtu.be/rHat0n1xBVc
+    description: |-
+      JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM.In this talk, Axel will give an overview of the latest features that were added to ECMAScript, the JavaScript language standard. He will also show what features will probably be added next.http://bit.ly/2P4jIYM.
 
-- title: Offline is the new black
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Max stoiber
-      twitter: mxstbr
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/7JtLWND1QcS8AGKiyOMiwG/df1cc309d1ae6b7d60c885dd85ecab18/offline-is-then-new-black.pdf
-  videos:
-    - https://youtu.be/pjr6VJdDcHQ
-  description: |-
-    JavaScript Conference HolyJS 2016 Moscow December 11, 2016 In this talk, Axel will ECMAScript, the JavaScript language standard. He will also be added next. http://bit.ly/2P4jIYM.Max and listeners will examine the benefits of offline web applications, before jumping straight in and looking at AppCache and ServiceWorker. This talk is perfect for any developer with web development experience, as every website can be taken offline. It will be especially beneficial for single-page application developers, seeing as making those offline compatible is very easy.
+  - title: Logux - a new way to connect client and server
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Andrey Sitnik
+        twitter: andrey_sitnik
+        github:
+        website:
+    slides:
+      - https://slides.com/ai/logux
+    videos:
+      - https://youtu.be/1RMhUPsVw2M
+    description: |-
+      JavaScript conference of HolyJS 2016 Moscow December 11, 2016 We created excellent frameworks for client JS and backend. But between them we use old AJAX and REST. They served us well before, but web applications are becoming more complex. Andrei Sitnik, creator of PostCSS and Autoprefixer, will consider new ideas in connection between the client and the server, which he wants to build in his new open-source project. How can we take the ideas of Relay and Swarm.js and develop them? How to synchronize the log of operations will reduce the amount of code and give out-of-the-box auto-update and offline editing support?
 
-- title: Modular CSS
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Andrey Okonechnikov
-      twitter: okonetchnikov
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/6l0ov5ckpOUeaYOIAScuIc/ee1ccd4771084d490efb3a334a262417/Andrey_Okonetchnikov_-_Modular_CSS.pdf
-  videos:
-    - https://youtu.be/vYmSYsj-s5w
-  description: |-
-    JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM
+  - title: 3L3M3NT5
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Martin Kleppe
+        twitter: aemkei
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/66MGrpJhaE2YumkUeACowY/b245e84a8aee6c62ed984b1cafbb9cea/Martin-Kleppe_3L3M3NT5.pdf
+    videos:
+      - https://youtu.be/p0X9UlqarCU
+    description: |-
+      JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM
 
-- title: Why should you care about Elm?
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Tereza sokol
-      twitter: mishunov
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/3J6GgXC2PC8swuEAEi8aKK/737ee2d2b870ed56cc832938d8d3a208/Tereza_Sokol_-_A_little_closer_to_frontend_bliss_with_Elm.pdf
-  videos:
-    - https://youtu.be/sd3umr2Zg40
-  description: |-
-    Ensuring bug-free code in JavaScript is challenging, even when devoting considerable resources to testing, and this is partially due to fundamental elements of the JavaScript language design. As an alternative to JavaScript, the Elm language alleviates these issues by incorporating the essence of libraries like React and Redux while adding the advantages of pure functional programming and type inference. This results in code with increased reliability and maintainability, and furthermore yields an improved developer experience. Using own experience from months of building real world components, Tereza will explain why Elm’s design guides you towards well-architectured apps, sharing code and insights, so you can get an impression of the Elm life, while arming you for the gotchas you may encounter in the quest to make your life one too.
+  - title: Building Interactive npm Command Line Modules
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Irina Shestak
+        twitter: _lrlna
+        github:
+        website:
+    slides:
+      - https://lrlna.github.io/holyjs-2016/#0
+    videos:
+      - https://youtu.be/X5f2_6jPoOc
+    description: |-
+      Here you are coding away, when you realize you are in desperate need of a quick shell script to get your project cleaned up. You are standing at a fork in the road: Bash or Node? You choose the road less travelled by (for some reason) — Node. Irina congratulates you on this decision. You have written it, you may have published it, and it certainly works. But what now? Is this all a command line module Node is good for: a project clean up and some data manipulation?JavaScript conference of HolyJS 2016 Moscow December 11, 2016 Sooner or later, there is a need for own tools for various reasons: either there are not enough ready-made tools, or there is some peculiarity in the project. Developing browser-based tools is a daunting task. The most difficult thing is for them to work remotely, off page. This is scary for many - you need to do a lot and understand a lot. But if most of the problems have already been solved, and you can focus only on the main function of the tool? What if such tools can work in an arbitrary WebView, be it embedded in a browser, editor, or other application on any device? In his report, Roman will tell about remote tools: what are the difficulties and how to get around them,http://bit.ly/2P4jIYM
 
-- title: "Swan cancer and pike: how technology pulls the frontend to the bottom"
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Evgeny Gusev
-      twitter: bunopus
-      github:
-      website:
-  slides:
-    - https://bunopus.github.io/presentation-frontend-singularity/#/
-  videos:
-    - https://youtu.be/jPbqeSSDuug
-  description: |-
-    Max and listeners will examine the benefits of offline web applications, before jumping straight in and looking at AppCache and ServiceWorker. This talk is perfect for any developer with web development experience, as every website can be taken offline. It will be especially beneficial for single-page application developers, seeing as making those offline compatible is very easy.http://bit.ly/2P4jIYM.JavaScript conference of HolyJS 2016 Moscow December 11, 2016 Sooner or later, there is a need for own tools for various reasons: either there are not enough ready-made tools, or there is some peculiarity in the project. Developing browser-based tools is a daunting task. The most difficult thing is for them to work remotely, off page. This is scary for many - you need to do a lot and understand a lot. But if most of the problems have already been solved, and you can focus only on the main function of the tool? What if such tools can work in an arbitrary WebView, be it embedded in a browser, editor, or other application on any device? In his report, Roman will tell about remote tools: what are the difficulties and how to get around them,http://bit.ly/2P4jIYM
+  - title: Offline is the new black
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Max stoiber
+        twitter: mxstbr
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/7JtLWND1QcS8AGKiyOMiwG/df1cc309d1ae6b7d60c885dd85ecab18/offline-is-then-new-black.pdf
+    videos:
+      - https://youtu.be/pjr6VJdDcHQ
+    description: |-
+      JavaScript Conference HolyJS 2016 Moscow December 11, 2016 In this talk, Axel will ECMAScript, the JavaScript language standard. He will also be added next. http://bit.ly/2P4jIYM.Max and listeners will examine the benefits of offline web applications, before jumping straight in and looking at AppCache and ServiceWorker. This talk is perfect for any developer with web development experience, as every website can be taken offline. It will be especially beneficial for single-page application developers, seeing as making those offline compatible is very easy.
 
-- title: WebVR is the next frontier
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Martin splitt
-      twitter: g33konaut
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/3pqKcOn67uAmmcOooqOa6U/82fa7fb3dff4bb031fa1d3d7ff233fca/Martin_Splitt_-_WebVR_-_the_next_frontier.pdf
-  videos:
-    - https://youtu.be/39MiUkGSEks
-  description: |-
-    JavaScript conference of HolyJS 2016 Moscow December 11, 2016 Sooner or later, there is a need for own tools for various reasons: either there are not enough ready-made tools, or there is some peculiarity in the project. Developing browser-based tools is a daunting task. The most difficult thing is for them to work remotely, off page. This is scary for many - you need to do a lot and understand a lot. But if most of the problems have already been solved, and you can focus only on the main function of the tool? What if such tools can work in an arbitrary WebView, be it embedded in a browser, editor, or other application on any device? In his report, Roman will tell about remote tools: what are the difficulties and how to get around them,http://bit.ly/2P4jIYM
+  - title: Modular CSS
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Andrey Okonechnikov
+        twitter: okonetchnikov
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/6l0ov5ckpOUeaYOIAScuIc/ee1ccd4771084d490efb3a334a262417/Andrey_Okonetchnikov_-_Modular_CSS.pdf
+    videos:
+      - https://youtu.be/vYmSYsj-s5w
+    description: |-
+      JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.http://bit.ly/2P4jIYM
 
-- title: P2P shared folder powered by javascript
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Mathias buus madsen
-      twitter: mafintosh
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/1oAMAU2BducsGEkOaKsSE2/7d9bfb0d05d01e113716dbe393d6f31c/slides.pdf
-  videos:
-    - https://youtu.be/VGoWhHhYpQU
-  description: |-
-    JavaScript
+  - title: Why should you care about Elm?
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Tereza sokol
+        twitter: mishunov
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/3J6GgXC2PC8swuEAEi8aKK/737ee2d2b870ed56cc832938d8d3a208/Tereza_Sokol_-_A_little_closer_to_frontend_bliss_with_Elm.pdf
+    videos:
+      - https://youtu.be/sd3umr2Zg40
+    description: |-
+      Ensuring bug-free code in JavaScript is challenging, even when devoting considerable resources to testing, and this is partially due to fundamental elements of the JavaScript language design. As an alternative to JavaScript, the Elm language alleviates these issues by incorporating the essence of libraries like React and Redux while adding the advantages of pure functional programming and type inference. This results in code with increased reliability and maintainability, and furthermore yields an improved developer experience. Using own experience from months of building real world components, Tereza will explain why Elm’s design guides you towards well-architectured apps, sharing code and insights, so you can get an impression of the Elm life, while arming you for the gotchas you may encounter in the quest to make your life one too.
 
-- title: debugger
-  lang: en
-  type: regular
-  level:
-  time: 2016-12-11
-  room:
-  authors:
-    - name: Denis Mishunov
-      twitter: mishunov
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/VGoWhHhYpQU
-  description: |-
-    JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.
+  - title: "Swan cancer and pike: how technology pulls the frontend to the bottom"
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Evgeny Gusev
+        twitter: bunopus
+        github:
+        website:
+    slides:
+      - https://bunopus.github.io/presentation-frontend-singularity/#/
+    videos:
+      - https://youtu.be/jPbqeSSDuug
+    description: |-
+      Max and listeners will examine the benefits of offline web applications, before jumping straight in and looking at AppCache and ServiceWorker. This talk is perfect for any developer with web development experience, as every website can be taken offline. It will be especially beneficial for single-page application developers, seeing as making those offline compatible is very easy.http://bit.ly/2P4jIYM.JavaScript conference of HolyJS 2016 Moscow December 11, 2016 Sooner or later, there is a need for own tools for various reasons: either there are not enough ready-made tools, or there is some peculiarity in the project. Developing browser-based tools is a daunting task. The most difficult thing is for them to work remotely, off page. This is scary for many - you need to do a lot and understand a lot. But if most of the problems have already been solved, and you can focus only on the main function of the tool? What if such tools can work in an arbitrary WebView, be it embedded in a browser, editor, or other application on any device? In his report, Roman will tell about remote tools: what are the difficulties and how to get around them,http://bit.ly/2P4jIYM
+
+  - title: WebVR is the next frontier
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Martin splitt
+        twitter: g33konaut
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/3pqKcOn67uAmmcOooqOa6U/82fa7fb3dff4bb031fa1d3d7ff233fca/Martin_Splitt_-_WebVR_-_the_next_frontier.pdf
+    videos:
+      - https://youtu.be/39MiUkGSEks
+    description: |-
+      JavaScript conference of HolyJS 2016 Moscow December 11, 2016 Sooner or later, there is a need for own tools for various reasons: either there are not enough ready-made tools, or there is some peculiarity in the project. Developing browser-based tools is a daunting task. The most difficult thing is for them to work remotely, off page. This is scary for many - you need to do a lot and understand a lot. But if most of the problems have already been solved, and you can focus only on the main function of the tool? What if such tools can work in an arbitrary WebView, be it embedded in a browser, editor, or other application on any device? In his report, Roman will tell about remote tools: what are the difficulties and how to get around them,http://bit.ly/2P4jIYM
+
+  - title: P2P shared folder powered by javascript
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Mathias buus madsen
+        twitter: mafintosh
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/1oAMAU2BducsGEkOaKsSE2/7d9bfb0d05d01e113716dbe393d6f31c/slides.pdf
+    videos:
+      - https://youtu.be/VGoWhHhYpQU
+    description: |-
+      JavaScript
+
+  - title: debugger
+    lang: en
+    type: regular
+    level:
+    time: 2016-12-11
+    room:
+    authors:
+      - name: Denis Mishunov
+        twitter: mishunov
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/VGoWhHhYpQU
+    description: |-
+      JavaScript conference HolyJS 2016 Moscow December 11, 2016 What helps a developer to become a professional? Constant reading of articles, tweets and attend thematic conferences? Coding 24/7? Or maybe it is something else, not related to development in general? When viewers look at the work of a professional magician, they concentrate on one thing and do not notice that it is at this moment that the focus occurs - the main action hidden from the eyes. So the developers, being in the context of the tasks being solved at the moment, have neither the ability nor the desire to go beyond these tasks. Developers do not want to learn related disciplines, such as design and UX, do not want to hear about users and psychology at JavaScript conferences. Developers simply do not consider this necessary. The title of the report “debugger;” is not just a command, known to any javascript developer. This is not a breakpoint in the code. This is the opportunity to stop and understand the focus, finally see what is happening around. But unlike the code, a debugger will be launched in this report; for ourselves.

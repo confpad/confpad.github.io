@@ -1,135 +1,151 @@
-- title: Mentoring" Being the help you wish you'd had"
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Jo Franchetti
-      twitter: ThisIsJoFrank
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/D9d1WrARqvI
-  description: |-
-    The tech industry is suffering; from bad role models and unrealistic expectations, from anxiety and impostor syndrome and from a lack of diversity, empathy and ethical consideration. Everyone, no matter how junior, can mentor and be a hero for someone else, for the industry and for yourself.
+conference:
 
-- title: The Future of JavaScript & Machine Learning
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Eleanor Haproff
-      twitter: EleanorHaproff
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/eiHxns7e6EI
+  name: ffConf 2018
+  url: https://2018.ffconf.org/
+  status: complete
+  date:
+    from: 2018-11-08
+    to: 2018-11-09
+  location:
+    country: United Kingdom
+    city: Brington
   description: |-
-    Deep learning, computer vision, natural-language processing, robotics - there are many exciting things happening with ai and machine learning, but where does JavaScript fit in with all of this?
+    Amongst the best events for the web community, with consistent balance of educational and inspirational talks, and perfect for the end of your year, getting you ready for the new year.#ffconf was on my must-go list as I have found it to be the best in terms of balancing inspiration talks vs more educational / useful , plus the nice atmosphere and overall quality.
 
-- title: Practical Web Animation
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Lisi Linhart
-      twitter: lisi_linhart
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/31YlV-oMAw4
-  description: |-
-    Web Animation is an essential part of great user experience leveraging cognitive load and allowing us to provide user feedback. This talk examines Web Animation from a practical standpoint, answering when to use it, how to keep your animations performant from a browser standpoint and exploring the animation options we have on the web today.
+talks:
 
-- title: Is it possible to build a truly diverse community?
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Jenny Wong
-      twitter: miss_jwo
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/2BWp3QX0sNE
-  description: |-
-    Often in our industry, aiming to increase diversity has been about finding people and trying to make them fit the mould of your event, project or team. How about changing the goal to making environments that could accommodate people from all headspaces, including people we haven't met yet?
+  - title: Mentoring" Being the help you wish you'd had"
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Jo Franchetti
+        twitter: ThisIsJoFrank
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/D9d1WrARqvI
+    description: |-
+      The tech industry is suffering; from bad role models and unrealistic expectations, from anxiety and impostor syndrome and from a lack of diversity, empathy and ethical consideration. Everyone, no matter how junior, can mentor and be a hero for someone else, for the industry and for yourself.
 
-- title: Back to the future of JS the next features and amazing proposals
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Willian Martins
-      twitter: wmsbill
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/hQNjLrPA410
-  description: |-
-    Do you want to discover the next exciting JavaScript features that you didn’t even know you needed? Let me present you three proposals that may change the way you write code the same way the spread operator did.
+  - title: The Future of JavaScript & Machine Learning
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Eleanor Haproff
+        twitter: EleanorHaproff
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/eiHxns7e6EI
+    description: |-
+      Deep learning, computer vision, natural-language processing, robotics - there are many exciting things happening with ai and machine learning, but where does JavaScript fit in with all of this?
 
-- title: Dear Developer, the Web Isn't About You
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Charlie Owen
-      twitter: sonniesedge
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/WYXSck7TyVM
-  description: |-
-    What is the Web really about? Who do we develop our products for? Is it designed for Silicon Valley rock star 10x ninja frontend engineers to have fun coding on? Or is the Web a place for users from all walks of life, using all kinds of technologies, who might be using your product in the most stressful situations?
+  - title: Practical Web Animation
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Lisi Linhart
+        twitter: lisi_linhart
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/31YlV-oMAw4
+    description: |-
+      Web Animation is an essential part of great user experience leveraging cognitive load and allowing us to provide user feedback. This talk examines Web Animation from a practical standpoint, answering when to use it, how to keep your animations performant from a browser standpoint and exploring the animation options we have on the web today.
 
-- title: Using a Modern Web to Recreate 1980s Horribly Slow & Loud Loading Screens
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Remy Sharp
-      twitter: rem
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/lQMcZtiaD0A
-  description: |-
-    These days people chase the dream of high performance, fast loading slick web sites. But in the 1980s computers were ugly, slow and loud: let’s make that instead 👴👵💪
+  - title: Is it possible to build a truly diverse community?
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Jenny Wong
+        twitter: miss_jwo
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2BWp3QX0sNE
+    description: |-
+      Often in our industry, aiming to increase diversity has been about finding people and trying to make them fit the mould of your event, project or team. How about changing the goal to making environments that could accommodate people from all headspaces, including people we haven't met yet?
 
-- title: Weird Web & Curious Creation
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Tim Holman
-      twitter: twholman
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/-v-eSzgX9BU
-  description: |-
-    Code is for work, but also for play. We have so much power at our fingertips, it would be silly not to relax every now and then and make something weird. Hang with Tim, and get inspired to create!
+  - title: Back to the future of JS the next features and amazing proposals
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Willian Martins
+        twitter: wmsbill
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hQNjLrPA410
+    description: |-
+      Do you want to discover the next exciting JavaScript features that you didn’t even know you needed? Let me present you three proposals that may change the way you write code the same way the spread operator did.
+
+  - title: Dear Developer, the Web Isn't About You
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Charlie Owen
+        twitter: sonniesedge
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/WYXSck7TyVM
+    description: |-
+      What is the Web really about? Who do we develop our products for? Is it designed for Silicon Valley rock star 10x ninja frontend engineers to have fun coding on? Or is the Web a place for users from all walks of life, using all kinds of technologies, who might be using your product in the most stressful situations?
+
+  - title: Using a Modern Web to Recreate 1980s Horribly Slow & Loud Loading Screens
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Remy Sharp
+        twitter: rem
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lQMcZtiaD0A
+    description: |-
+      These days people chase the dream of high performance, fast loading slick web sites. But in the 1980s computers were ugly, slow and loud: let’s make that instead 👴👵💪
+
+  - title: Weird Web & Curious Creation
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Tim Holman
+        twitter: twholman
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-v-eSzgX9BU
+    description: |-
+      Code is for work, but also for play. We have so much power at our fingertips, it would be silly not to relax every now and then and make something weird. Hang with Tim, and get inspired to create!

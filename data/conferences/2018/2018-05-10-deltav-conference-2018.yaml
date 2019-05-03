@@ -1,379 +1,395 @@
-- title: Redefining Web Performance
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-10
-  room:
-  authors:
-    - name: Tim Kadlec
-      twitter: tkadlec
-      github:
-      website: https://timkadlec.com/
-  slides:
-    - https://noti.st/tkadlec/OOXqpJ/redefining-web-performance
-  videos:
-    - https://youtu.be/JJGxNjrIYVc
-  description: |-
-    Tim is a performance consultant, trainer and developer focused on building a web everyone can use. He is the author of High Performance Images (O'Reilly, 2016) and Implementing Responsive Design: Building sites for an anywhere, everywhere web (New Riders, 2012), and was a contributing author for Smashing Book #4: New Perspectives on Web Design (Smashing Magazine, 2013), and the Web Performance Daybook Volume 2 (O'Reilly, 2012). He writes about all things web at timkadlec.com. You can find him sharing his thoughts in a briefer format on Twitter at @tkadlec.
+conference:
 
-- title: Starting a Dedicated Web Performance Team the First Ten Months
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-10
-  room:
-  authors:
-    - name: Sarah Dapul-Weberman
-      twitter: sarahddubs
-      github:
-      website: http://sarahddubs.com/
-  slides:
-  videos:
-    - https://youtu.be/ne_UYfDmDYc
+  name: DeltaV Conference 2018
+  url: https://2018.deltavconf.com/
+  status: complete
+  date:
+    from: 2018-05-10
+    to: 2018-05-11
+  location:
+    country: United Kingdom
+    city: London
   description: |-
-    In July 2017, Pinterest formed its first-ever dedicated web performance team. In this talk I will discuss how the performance team got off the ground, set goals, built tools, and made performance a priority at Pinterest.Topics will include building a regression testing and investigation framework, finding the biggest optimization wins in our codebase, making customized metrics decisions by relating performance to engagement, and understanding what performance tooling developers need.
+    DeltaV is proud to be supporting the following good causes as part of the conference. A financial contribution will be made to support the fantastic work codebar, Code Club and CodeYourFuture are doing in the tech community.
 
-- title: Speeding up Without Slowing down
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-10
-  room:
-  authors:
-    - name: Rhys Evans
-      twitter: wheresrhys
-      github:
-      website: https://www.wheresrhys.co.uk/
-  slides:
-  videos:
-    - https://youtu.be/OS1fKsFXLKg
-  description: |-
-    At FT we built one of the world's fastest media websites, and release to production dozens of times a day. But the architectural and organisational decisions aimed at allowing us to deliver reliable features quickly and consistently don't always fit neatly with the desire to optimise performance.In this warts-and-all talk, you'll learn:how we build FT.comhow a highly componentised, microservices stack with a rapid release cycle can sometimes get in the way of performance.
+talks:
 
-- title: This is for Everyone
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-10
-  room:
-  authors:
-    - name: Seren Davies
-      twitter: ninjanails
-      github:
-      website: http://www.ninjanails.com/
-    - name: Bruce Lawson
-      twitter: brucel
-      github:
-      website: http://www.brucelawson.co.uk/
-  slides:
-  videos:
-    - https://youtu.be/o36RiEbI2IU
-  description: |-
-    As Timbo said, the web is supposed to be for everyone. So why isn't it, and how can we get the web to more people? Seren Davies and Bruce Lawson, the web's very own Harry and Meghan, will reveal more.
+  - title: Redefining Web Performance
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-10
+    room:
+    authors:
+      - name: Tim Kadlec
+        twitter: tkadlec
+        github:
+        website: https://timkadlec.com/
+    slides:
+      - https://noti.st/tkadlec/OOXqpJ/redefining-web-performance
+    videos:
+      - https://youtu.be/JJGxNjrIYVc
+    description: |-
+      Tim is a performance consultant, trainer and developer focused on building a web everyone can use. He is the author of High Performance Images (O'Reilly, 2016) and Implementing Responsive Design: Building sites for an anywhere, everywhere web (New Riders, 2012), and was a contributing author for Smashing Book #4: New Perspectives on Web Design (Smashing Magazine, 2013), and the Web Performance Daybook Volume 2 (O'Reilly, 2012). He writes about all things web at timkadlec.com. You can find him sharing his thoughts in a briefer format on Twitter at @tkadlec.
 
-- title: Chrome User Experience Report
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-10
-  room:
-  authors:
-    - name: Parameshwaran
-      twitter: everConfusedGuy
-      github:
-      website: https://dexecure.com/
-  slides:
-  videos:
-    - https://youtu.be/wVY3-acLIoI
-  description: |-
-    How do 3G and 4G connection speeds differ across countries? What is the effect of 301 redirect on user experience, and thus on conversion rate? These are some of the questions connecting web performance to UX and business metrics that we will be looking at in this talk.HTTP archive, although very useful, consists of data points that constitute what is known as synthetic measurement, since these numbers are obtained from pages loaded from a browser in a datacenter and not from actual users. That changes with the Chrome User Experience Report that Google launched last October. This Real User Monitoring (RUM) data for Google Chrome users include key user experience metrics for 10,000 websites from real users.We will analyse this data to answer these questions, our experience in digging through this dataset and potential pitfalls to avoid when analysing it.
+  - title: Starting a Dedicated Web Performance Team the First Ten Months
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-10
+    room:
+    authors:
+      - name: Sarah Dapul-Weberman
+        twitter: sarahddubs
+        github:
+        website: http://sarahddubs.com/
+    slides:
+    videos:
+      - https://youtu.be/ne_UYfDmDYc
+    description: |-
+      In July 2017, Pinterest formed its first-ever dedicated web performance team. In this talk I will discuss how the performance team got off the ground, set goals, built tools, and made performance a priority at Pinterest.Topics will include building a regression testing and investigation framework, finding the biggest optimization wins in our codebase, making customized metrics decisions by relating performance to engagement, and understanding what performance tooling developers need.
 
-- title: Web Performance @ NBrown It's a Business Affair
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-10
-  room:
-  authors:
-    - name: Nick Webb
-      twitter: jdwebops
-      github:
-      website:
-    - name: Laura Sheridan
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/z-mhV-pn68Q
-  description: |-
-    Web Performance has always been a term used in business that has many meanings. After finally being able to show a direct correlation between webpage load time and impact on e-commerce conversion Nbrown has brought web performance to the centre of the N brown road map. This talk will take you through our journey from an IT metric to a company-wide focus.
+  - title: Speeding up Without Slowing down
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-10
+    room:
+    authors:
+      - name: Rhys Evans
+        twitter: wheresrhys
+        github:
+        website: https://www.wheresrhys.co.uk/
+    slides:
+    videos:
+      - https://youtu.be/OS1fKsFXLKg
+    description: |-
+      At FT we built one of the world's fastest media websites, and release to production dozens of times a day. But the architectural and organisational decisions aimed at allowing us to deliver reliable features quickly and consistently don't always fit neatly with the desire to optimise performance.In this warts-and-all talk, you'll learn:how we build FT.comhow a highly componentised, microservices stack with a rapid release cycle can sometimes get in the way of performance.
 
-- title: Let's Build a Progressive Web App
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-10
-  room:
-  authors:
-    - name: uve
-      twitter: uveavanto
-      github:
-      website: https://uveavanto.com/#
-  slides:
-  videos:
-    - https://youtu.be/oCjDpObOZPM
-  description: |-
-    Let's break down what makes up a PWA (progressive web app). Then build one ourselves; looking at what tools we can use to help save time making them and what performance benefits they can bring us.
+  - title: This is for Everyone
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-10
+    room:
+    authors:
+      - name: Seren Davies
+        twitter: ninjanails
+        github:
+        website: http://www.ninjanails.com/
+      - name: Bruce Lawson
+        twitter: brucel
+        github:
+        website: http://www.brucelawson.co.uk/
+    slides:
+    videos:
+      - https://youtu.be/o36RiEbI2IU
+    description: |-
+      As Timbo said, the web is supposed to be for everyone. So why isn't it, and how can we get the web to more people? Seren Davies and Bruce Lawson, the web's very own Harry and Meghan, will reveal more.
 
-- title: Frontend Resilience
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-10
-  room:
-  authors:
-    - name: Ian Feather
-      twitter: ianfeather
-      github:
-      website: http://ianfeather.co.uk/
-  slides:
-    - https://www.slideshare.net/ianfeather/frontend-resilience
-  videos:
-    - https://youtu.be/iUfymdAZ1wI
-  description: |-
-    In a world of unreliable networks and vastly differing device capabilities how can we ensure that we always deliver a fully functional user experience? Let’s go beyond the theory and look at some practical techniques used at BuzzFeed to create resilient front-end systems.
+  - title: Chrome User Experience Report
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-10
+    room:
+    authors:
+      - name: Parameshwaran
+        twitter: everConfusedGuy
+        github:
+        website: https://dexecure.com/
+    slides:
+    videos:
+      - https://youtu.be/wVY3-acLIoI
+    description: |-
+      How do 3G and 4G connection speeds differ across countries? What is the effect of 301 redirect on user experience, and thus on conversion rate? These are some of the questions connecting web performance to UX and business metrics that we will be looking at in this talk.HTTP archive, although very useful, consists of data points that constitute what is known as synthetic measurement, since these numbers are obtained from pages loaded from a browser in a datacenter and not from actual users. That changes with the Chrome User Experience Report that Google launched last October. This Real User Monitoring (RUM) data for Google Chrome users include key user experience metrics for 10,000 websites from real users.We will analyse this data to answer these questions, our experience in digging through this dataset and potential pitfalls to avoid when analysing it.
 
-- title: A Rube Goldberg Machine and New Web Technology
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-10
-  room:
-  authors:
-    - name: Ada Rose Cannon
-      twitter: Lady_Ada_King
-      github:
-      website:
-  slides:
-    - https://ada.is/grid-slides/new-web/
-  videos:
-    - https://youtu.be/DCRN1cG7sOA
-  description: |-
-    There are some exciting new developments happening in the web platform right now. New APIs such as CSS Grid, Web Components, Custom CSS Properties and the Web Animation API. Each on their own is a complex topic worth getting to grips with but what this talk aims to show is how they can be used with each other when used together the result is greater than the sum of its parts. There is only a brief introduction to each topic so some prior knowledge for Web Animations, Custom Properties, CSS Grid and Web Components would help but is not required.
+  - title: Web Performance @ NBrown It's a Business Affair
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-10
+    room:
+    authors:
+      - name: Nick Webb
+        twitter: jdwebops
+        github:
+        website:
+      - name: Laura Sheridan
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/z-mhV-pn68Q
+    description: |-
+      Web Performance has always been a term used in business that has many meanings. After finally being able to show a direct correlation between webpage load time and impact on e-commerce conversion Nbrown has brought web performance to the centre of the N brown road map. This talk will take you through our journey from an IT metric to a company-wide focus.
 
-- title: Debugger; for Developers
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-10
-  room:
-  authors:
-    - name: Denys Mishunov
-      twitter: Denys Mishunov
-      github:
-      website:
-  slides:
-    - https://noti.st/mishunov/4DIwwS/debugger-for-developers
-  videos:
-    - https://youtu.be/seuOUunPUjw
-  description: |-
-    What’s common for Meryl Streep, Henry Ford and Albert Einstein? All of them suffered from different problems in their professional lives despite their success. This talk *is not about development*. Instead of code, this inspirational and motivational talk will set debugger on ourselves as humans to analyse the bugs most of us face in our day-to-day jobs as developers. Among others, we will be talking about:Perfectionism Imposter syndrome Overwork But these are not limited to developers and are applicable to a much wider audience. It will be about psychology, neuroscience, work-life balance, work quality and… us.
+  - title: Let's Build a Progressive Web App
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-10
+    room:
+    authors:
+      - name: uve
+        twitter: uveavanto
+        github:
+        website: https://uveavanto.com/#
+    slides:
+    videos:
+      - https://youtu.be/oCjDpObOZPM
+    description: |-
+      Let's break down what makes up a PWA (progressive web app). Then build one ourselves; looking at what tools we can use to help save time making them and what performance benefits they can bring us.
 
-- title: Hunting the Unicorn
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-11
-  room:
-  authors:
-    - name: Tammy Everts
-      twitter: tameverts
-      github:
-      website: https://speedcurve.com/
-  slides:
-    - https://www.slideshare.net/tammyeverts/the-hunt-for-the-unicorn-performance-metric-deltav-london-2018
-  videos:
-    - https://youtu.be/-PqL4qhvnE8
-  description: |-
-    There's a lot of competition to define the next big unicorn performance metric, but does this unicorn actually exist? In the past, we relied on metrics like page load time, start render, and time to first paint to measure user experience, but we now know that these metrics don't tell the full story.The key to a good user experience is quickly delivering the content your visitors care about the most. This is easy to say, but tricky to do. Every site has unique content and unique user engagement goals, which is why measuring how quickly critical content renders is a hugely challenging task.Tammy will walk through a brief history of UX and web performance research, highlighting landmark studies that helped connect the dots between performance and user experience. She'll also demystify the current state of performance metrics and help you understand what you need to focus on for your site and your users.
+  - title: Frontend Resilience
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-10
+    room:
+    authors:
+      - name: Ian Feather
+        twitter: ianfeather
+        github:
+        website: http://ianfeather.co.uk/
+    slides:
+      - https://www.slideshare.net/ianfeather/frontend-resilience
+    videos:
+      - https://youtu.be/iUfymdAZ1wI
+    description: |-
+      In a world of unreliable networks and vastly differing device capabilities how can we ensure that we always deliver a fully functional user experience? Let’s go beyond the theory and look at some practical techniques used at BuzzFeed to create resilient front-end systems.
 
-- title: Any Site can be a Progressive Web App
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-11
-  room:
-  authors:
-    - name: Jeremy Keith
-      twitter: adactio
-      github:
-      website: https://adactio.com/
-  slides:
-    - https://speaking.adactio.com/d1zSa7/any-site-can-be-a-progressive-web-app
-  videos:
-    - https://youtu.be/GXv4W94qsQ0
-  description: |-
-    There's a common misconception that making a Progressive Web App means creating a Single Page App with an app-shell architecture. But the truth is that literally any website can benefit from the performance boost that results from the combination of HTTPS + Service Worker + Web App Manifest.
+  - title: A Rube Goldberg Machine and New Web Technology
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-10
+    room:
+    authors:
+      - name: Ada Rose Cannon
+        twitter: Lady_Ada_King
+        github:
+        website:
+    slides:
+      - https://ada.is/grid-slides/new-web/
+    videos:
+      - https://youtu.be/DCRN1cG7sOA
+    description: |-
+      There are some exciting new developments happening in the web platform right now. New APIs such as CSS Grid, Web Components, Custom CSS Properties and the Web Animation API. Each on their own is a complex topic worth getting to grips with but what this talk aims to show is how they can be used with each other when used together the result is greater than the sum of its parts. There is only a brief introduction to each topic so some prior knowledge for Web Animations, Custom Properties, CSS Grid and Web Components would help but is not required.
 
-- title: Fast Fashion - How Missguided Revolutionised their Approach to Site Performance
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-11
-  room:
-  authors:
-    - name: Mark Leach
-      twitter:
-      github:
-      website: http://missguided.co.uk/
-    - name: Andy Davies
-      twitter: AndyDavies
-      github:
-      website: https://andydavies.me/
-  slides:
-    - https://www.slideshare.net/AndyDavies/
-  videos:
-    - https://youtu.be/mLzt23ZVGx0
-  description: |-
-    Missguided are one of the UK's most innovative and fast-moving fashion retailers but as with many other retailers, web performance hasn't always been our highest priority.In summer 2017 we started to make performance improvements and as a result, Android revenue increased significantly. Spurred on by this success we created a dedicated performance team and embarked on a journey to dramatically improve performance right across the site. All sites evolve over time and ours was no different, there was legacy code to be unpicked, new techniques to try and stakeholder needs to balance.In this talk, we'll share some of the approaches we took, the challenges we faced and the lessons we learned. We'll also talk about the performance and revenue gains, and as ultimately getting faster is about making customers happier, their reaction too.
+  - title: Debugger; for Developers
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-10
+    room:
+    authors:
+      - name: Denys Mishunov
+        twitter: Denys Mishunov
+        github:
+        website:
+    slides:
+      - https://noti.st/mishunov/4DIwwS/debugger-for-developers
+    videos:
+      - https://youtu.be/seuOUunPUjw
+    description: |-
+      What’s common for Meryl Streep, Henry Ford and Albert Einstein? All of them suffered from different problems in their professional lives despite their success. This talk *is not about development*. Instead of code, this inspirational and motivational talk will set debugger on ourselves as humans to analyse the bugs most of us face in our day-to-day jobs as developers. Among others, we will be talking about:Perfectionism Imposter syndrome Overwork But these are not limited to developers and are applicable to a much wider audience. It will be about psychology, neuroscience, work-life balance, work quality and… us.
 
-- title: How To Manage Performance Like a Product
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-11
-  room:
-  authors:
-    - name: Lauren Younger
-      twitter: llyounger
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/secret/N8DiIc06G2fYkN
-  videos:
-    - https://youtu.be/PhKPQPX4y-o
-  description: |-
-    It’s pretty widely accepted that performance impacts business success. So where do you start and how do you make sure you’re successful? It’s not just about making the slowest pages faster or having the fastest root cause analysis in a fire drill. We need to start to manage performance like a product and use data to gain clear prioritization of efforts and improve performance where it matters most.There will always be emergencies, but we can use product management strategies and data to help us work smarter; allowing us to identify and focus on the most impactful places to optimize. Maximize efforts and impact by making sure you and your team are focused on what matters most to your company, customers and bottom line. We’ll step through some of the keys of product management and how to apply them to performance and optimization projects.
+  - title: Hunting the Unicorn
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-11
+    room:
+    authors:
+      - name: Tammy Everts
+        twitter: tameverts
+        github:
+        website: https://speedcurve.com/
+    slides:
+      - https://www.slideshare.net/tammyeverts/the-hunt-for-the-unicorn-performance-metric-deltav-london-2018
+    videos:
+      - https://youtu.be/-PqL4qhvnE8
+    description: |-
+      There's a lot of competition to define the next big unicorn performance metric, but does this unicorn actually exist? In the past, we relied on metrics like page load time, start render, and time to first paint to measure user experience, but we now know that these metrics don't tell the full story.The key to a good user experience is quickly delivering the content your visitors care about the most. This is easy to say, but tricky to do. Every site has unique content and unique user engagement goals, which is why measuring how quickly critical content renders is a hugely challenging task.Tammy will walk through a brief history of UX and web performance research, highlighting landmark studies that helped connect the dots between performance and user experience. She'll also demystify the current state of performance metrics and help you understand what you need to focus on for your site and your users.
 
-- title: Improving Load Time for 100 Million Websites - Wix Case-Study
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-11
-  room:
-  authors:
-    - name: Dan Shappir
-      twitter: DanShappir
-      github:
-      website: https://www.wix.engineering/
-  slides:
-  videos:
-    - https://youtu.be/4QqlGgF8Y2I
-  description: |-
-    Wix is the leading DIY platform for building an online presence, hosting over 100 million websites. Providing high-performance service is of topmost importance to us, and is one of our main goals for the entire company. In this case-study I will review how we implemented a process of continuous performance improvement, the methodologies and technologies we used, the results we were able to achieve, and our plans for the future.
+  - title: Any Site can be a Progressive Web App
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-11
+    room:
+    authors:
+      - name: Jeremy Keith
+        twitter: adactio
+        github:
+        website: https://adactio.com/
+    slides:
+      - https://speaking.adactio.com/d1zSa7/any-site-can-be-a-progressive-web-app
+    videos:
+      - https://youtu.be/GXv4W94qsQ0
+    description: |-
+      There's a common misconception that making a Progressive Web App means creating a Single Page App with an app-shell architecture. But the truth is that literally any website can benefit from the performance boost that results from the combination of HTTPS + Service Worker + Web App Manifest.
 
-- title: QUIC, in Theory and Practice
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-11
-  room:
-  authors:
-    - name: Robin Marx
-      twitter: programmingart
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/B1SQFjIXJtc
-  description: |-
-    This talk will discuss the new QUIC protocol and why it is needed/important for web performance in particular. I will start by discussing the shortcomings of the current HTTP/2 setup and how QUIC aims to help solve them. I will discuss the bolder aspects of the new standard and the open challenges.The second part will detail our own experience in developing a QUIC implementation and from looking at other open source implementations. This will also incorporate some findings from related state of the art academic research on QUIC. We end by contemplating how quickly the new standard will evolve and what developers can do in preparation, especially if they have not yet transferred to HTTP/2 yet.
+  - title: Fast Fashion - How Missguided Revolutionised their Approach to Site Performance
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-11
+    room:
+    authors:
+      - name: Mark Leach
+        twitter:
+        github:
+        website: http://missguided.co.uk/
+      - name: Andy Davies
+        twitter: AndyDavies
+        github:
+        website: https://andydavies.me/
+    slides:
+      - https://www.slideshare.net/AndyDavies/
+    videos:
+      - https://youtu.be/mLzt23ZVGx0
+    description: |-
+      Missguided are one of the UK's most innovative and fast-moving fashion retailers but as with many other retailers, web performance hasn't always been our highest priority.In summer 2017 we started to make performance improvements and as a result, Android revenue increased significantly. Spurred on by this success we created a dedicated performance team and embarked on a journey to dramatically improve performance right across the site. All sites evolve over time and ours was no different, there was legacy code to be unpicked, new techniques to try and stakeholder needs to balance.In this talk, we'll share some of the approaches we took, the challenges we faced and the lessons we learned. We'll also talk about the performance and revenue gains, and as ultimately getting faster is about making customers happier, their reaction too.
 
-- title: There's more to Performance than meets the Eye
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-11
-  room:
-  authors:
-    - name: Léonie Watson
-      twitter: LeonieWatson
-      github:
-      website: https://tink.uk/
-  slides:
-  videos:
-    - https://youtu.be/n1sXj9oAXFU
-  description: |-
-    What does performant look like when you can't see the screen? The browser does more with the DOM than visually render content. It presents an accessibility tree that's queried using platform accessibility APIs. Different browser processing models mean that Assistive Technologies (AT) are changing the way they obtain accessibility information, but is that having an impact on performance, and what happens when we introduce a JavaScript accessibility API into the equation?
+  - title: How To Manage Performance Like a Product
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-11
+    room:
+    authors:
+      - name: Lauren Younger
+        twitter: llyounger
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/secret/N8DiIc06G2fYkN
+    videos:
+      - https://youtu.be/PhKPQPX4y-o
+    description: |-
+      It’s pretty widely accepted that performance impacts business success. So where do you start and how do you make sure you’re successful? It’s not just about making the slowest pages faster or having the fastest root cause analysis in a fire drill. We need to start to manage performance like a product and use data to gain clear prioritization of efforts and improve performance where it matters most.There will always be emergencies, but we can use product management strategies and data to help us work smarter; allowing us to identify and focus on the most impactful places to optimize. Maximize efforts and impact by making sure you and your team are focused on what matters most to your company, customers and bottom line. We’ll step through some of the keys of product management and how to apply them to performance and optimization projects.
 
-- title: It’s My (Third) Party and I'll Cry If I Want To
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-11
-  room:
-  authors:
-    - name: Harry Roberts
-      twitter: csswizardry
-      github:
-      website: https://csswizardry.com/
-  slides:
-    - https://speakerdeck.com/csswizardry/its-my-third-party-and-ill-cry-if-i-want-to
-  videos:
-    - https://youtu.be/rzMID7ES6q4
-  description: |-
-    Like it or not, a huge part of modern web development involves the use of third-party providers: fonts, analytics, ads, tracking, and more all have an impact of performance, and can leave us (or, more worryingly, our visitors) susceptible to performance degradation.In this talk, we’ll take a look at unruly or uninvited (third-)party guests: how to detect them, how to audit them, and how to manage them. We’ll also look at the different tools available to help us stress-test and quantify the overhead these third parties bring, and what that means for users and businesses alike.
+  - title: Improving Load Time for 100 Million Websites - Wix Case-Study
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-11
+    room:
+    authors:
+      - name: Dan Shappir
+        twitter: DanShappir
+        github:
+        website: https://www.wix.engineering/
+    slides:
+    videos:
+      - https://youtu.be/4QqlGgF8Y2I
+    description: |-
+      Wix is the leading DIY platform for building an online presence, hosting over 100 million websites. Providing high-performance service is of topmost importance to us, and is one of our main goals for the entire company. In this case-study I will review how we implemented a process of continuous performance improvement, the methodologies and technologies we used, the results we were able to achieve, and our plans for the future.
 
-- title: Where are the Women?
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-11
-  room:
-  authors:
-    - name: Dora Militaru
-      twitter: doramilitaru
-      github:
-      website: https://doramilitaru.com/
-  slides:
-    - https://speakerdeck.com/doramatadora/deltav-conference-2018-where-are-the-women
-  videos:
-    - https://youtu.be/LVGaVLJoIGY
-  description: |-
-    Inside and out of the technology sector, more people are talking about diversity than ever before. That means it matters to us as a society. That’s good, because I care deeply about diversity, and I need you and all of us to care.
+  - title: QUIC, in Theory and Practice
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-11
+    room:
+    authors:
+      - name: Robin Marx
+        twitter: programmingart
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/B1SQFjIXJtc
+    description: |-
+      This talk will discuss the new QUIC protocol and why it is needed/important for web performance in particular. I will start by discussing the shortcomings of the current HTTP/2 setup and how QUIC aims to help solve them. I will discuss the bolder aspects of the new standard and the open challenges.The second part will detail our own experience in developing a QUIC implementation and from looking at other open source implementations. This will also incorporate some findings from related state of the art academic research on QUIC. We end by contemplating how quickly the new standard will evolve and what developers can do in preparation, especially if they have not yet transferred to HTTP/2 yet.
 
-- title: 25% Faster Hotel Search. Web Performance? - Trivago.
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-11
-  room:
-  authors:
-    - name: Tobias Baldauf
-      twitter: tbaldauf
-      github:
-      website: https://who.tobias.is/
-  slides:
-    - https://speakerdeck.com/tbaldauf/25-percent-faster-hotel-search-web-performance-trivago
-  videos:
-    - https://youtu.be/9f2sjQmJCKY
-  description: |-
-    Every day the trivago hotel search website enables millions of users to find their ideal hotel in over 190 countries. With over 50 active locales and annual traffic growth of over 40%, maintaining optimal web performance is key to trivago's success as a business. In emerging markets, maintaining optimal web performance can become a challenge: varying network conditions and different device topology cause issues. Thanks to trivago's rigorous testing culture, we identified these issues in one of our key emerging markets. We ran comparative tests to improve performance, tied the resulting data to trivago's business metrics and correlated it to conversions, more page interactions and a significant increase in new users. In this talk, you'll learn how trivago measures performance, how we run complex multivariate tests to calculate the business value of engineering and how we optimised performance for one of our key emerging markets.
+  - title: There's more to Performance than meets the Eye
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-11
+    room:
+    authors:
+      - name: Léonie Watson
+        twitter: LeonieWatson
+        github:
+        website: https://tink.uk/
+    slides:
+    videos:
+      - https://youtu.be/n1sXj9oAXFU
+    description: |-
+      What does performant look like when you can't see the screen? The browser does more with the DOM than visually render content. It presents an accessibility tree that's queried using platform accessibility APIs. Different browser processing models mean that Assistive Technologies (AT) are changing the way they obtain accessibility information, but is that having an impact on performance, and what happens when we introduce a JavaScript accessibility API into the equation?
 
-- title: The Shape of the Web
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-11
-  room:
-  authors:
-    - name: Henri Helvetica
-      twitter: HenriHelvetica
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/9BadRPRQN70
-  description: |-
-    Somewhere on a university campus in the US midwest, a 20 some year old student was earning minimum-wage, writing code in the middle of the night that would forever change the world. Until 1992, the internet was largely textual, reserved almost exclusively to academia, with the charm of searching for library books via antiquated card catalogs. The sea change was a browser called: Mosaic. Marc Andreessen, the young minimum-wage earner, co-authored Mosaic and in 1993 it became the 1st consumer-friendly browser, described once as the “gateway to the riches of the internet”. 25 years later, these same internet riches have become richer content, browsing has become as quotidian as a cup of coffee though not without a touch of tumult. “The Shape Of The Web” is about both accomplishments and challenges that lay in past, present and future of the web, its technologies employed and its employed technologists.
+  - title: It’s My (Third) Party and I'll Cry If I Want To
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-11
+    room:
+    authors:
+      - name: Harry Roberts
+        twitter: csswizardry
+        github:
+        website: https://csswizardry.com/
+    slides:
+      - https://speakerdeck.com/csswizardry/its-my-third-party-and-ill-cry-if-i-want-to
+    videos:
+      - https://youtu.be/rzMID7ES6q4
+    description: |-
+      Like it or not, a huge part of modern web development involves the use of third-party providers: fonts, analytics, ads, tracking, and more all have an impact of performance, and can leave us (or, more worryingly, our visitors) susceptible to performance degradation.In this talk, we’ll take a look at unruly or uninvited (third-)party guests: how to detect them, how to audit them, and how to manage them. We’ll also look at the different tools available to help us stress-test and quantify the overhead these third parties bring, and what that means for users and businesses alike.
+
+  - title: Where are the Women?
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-11
+    room:
+    authors:
+      - name: Dora Militaru
+        twitter: doramilitaru
+        github:
+        website: https://doramilitaru.com/
+    slides:
+      - https://speakerdeck.com/doramatadora/deltav-conference-2018-where-are-the-women
+    videos:
+      - https://youtu.be/LVGaVLJoIGY
+    description: |-
+      Inside and out of the technology sector, more people are talking about diversity than ever before. That means it matters to us as a society. That’s good, because I care deeply about diversity, and I need you and all of us to care.
+
+  - title: 25% Faster Hotel Search. Web Performance? - Trivago.
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-11
+    room:
+    authors:
+      - name: Tobias Baldauf
+        twitter: tbaldauf
+        github:
+        website: https://who.tobias.is/
+    slides:
+      - https://speakerdeck.com/tbaldauf/25-percent-faster-hotel-search-web-performance-trivago
+    videos:
+      - https://youtu.be/9f2sjQmJCKY
+    description: |-
+      Every day the trivago hotel search website enables millions of users to find their ideal hotel in over 190 countries. With over 50 active locales and annual traffic growth of over 40%, maintaining optimal web performance is key to trivago's success as a business. In emerging markets, maintaining optimal web performance can become a challenge: varying network conditions and different device topology cause issues. Thanks to trivago's rigorous testing culture, we identified these issues in one of our key emerging markets. We ran comparative tests to improve performance, tied the resulting data to trivago's business metrics and correlated it to conversions, more page interactions and a significant increase in new users. In this talk, you'll learn how trivago measures performance, how we run complex multivariate tests to calculate the business value of engineering and how we optimised performance for one of our key emerging markets.
+
+  - title: The Shape of the Web
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-11
+    room:
+    authors:
+      - name: Henri Helvetica
+        twitter: HenriHelvetica
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9BadRPRQN70
+    description: |-
+      Somewhere on a university campus in the US midwest, a 20 some year old student was earning minimum-wage, writing code in the middle of the night that would forever change the world. Until 1992, the internet was largely textual, reserved almost exclusively to academia, with the charm of searching for library books via antiquated card catalogs. The sea change was a browser called: Mosaic. Marc Andreessen, the young minimum-wage earner, co-authored Mosaic and in 1993 it became the 1st consumer-friendly browser, described once as the “gateway to the riches of the internet”. 25 years later, these same internet riches have become richer content, browsing has become as quotidian as a cup of coffee though not without a touch of tumult. “The Shape Of The Web” is about both accomplishments and challenges that lay in past, present and future of the web, its technologies employed and its employed technologists.

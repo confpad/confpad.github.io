@@ -1,405 +1,421 @@
-- title: coffee.js? How I hacked my coffee machine
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Dominik Kundel
-      twitter: DKundel
-      github: dkundel
-      website:
-  slides:
-    - https://speakerdeck.com/dkundel/jsunconf-17-how-i-hacked-my-coffee-machine-with-javascript-1
-  videos:
-    - https://youtu.be/v02PMZherEI
-  description: |-
+conference:
 
-- title: vue.js and vuex, an introduction
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Christian Wlatschiha
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
+  name: JSUnconf 2017
+  url: https://2017.jsunconf.eu/
+  status: complete
+  date:
+    from: 2017-03-25
+    to: 2017-03-26
+  location:
+    country: Germany
+    city: Hamburg
   description: |-
+    The heart of JSUnconf is people. This guideline is meant to support a happy, productive and safe event experience that can welcome new ideas and inspiration for all attendees. Regardless of gender, sexual orientation, age, ability, ethnicity, socioeconomic status, and religion (or lack thereof). We gain strength from diversity, and actively seek participation from those who enhance it.
 
-- title: Alpha2048 - how I taught my computer to play 1024
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Lian Li
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/I8HIDRYlTb4
-  description: |-
+talks:
 
-- title: Styling React Components
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Felix Gnass
-      twitter: fgnass
-      github: fgnass
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: coffee.js? How I hacked my coffee machine
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Dominik Kundel
+        twitter: DKundel
+        github: dkundel
+        website:
+    slides:
+      - https://speakerdeck.com/dkundel/jsunconf-17-how-i-hacked-my-coffee-machine-with-javascript-1
+    videos:
+      - https://youtu.be/v02PMZherEI
+    description: |-
 
-- title: How to mess up talking on a stage
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Tobias Hartmann
-      twitter:
-      github:
-      website:
-  slides:
-    - http://slides.com/tobiashartmann/how-to-mess-up-talking#/
-  videos:
-  description: |-
+  - title: vue.js and vuex, an introduction
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Christian Wlatschiha
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Browser Security in 2017
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Johann Hofmann
-      twitter: johannh
-      github: johannhof
-      website:
-  slides:
-  videos:
-    - https://youtu.be/vvZRYUBFX-8
-  description: |-
+  - title: Alpha2048 - how I taught my computer to play 1024
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Lian Li
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/I8HIDRYlTb4
+    description: |-
 
-- title: React + Redux + TypeScript
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Dave Brotherstone
-      twitter: bruderstein
-      github: bruderstein
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Styling React Components
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Felix Gnass
+        twitter: fgnass
+        github: fgnass
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: How close is far aka working in a remote team
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Svetlana
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: How to mess up talking on a stage
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Tobias Hartmann
+        twitter:
+        github:
+        website:
+    slides:
+      - http://slides.com/tobiashartmann/how-to-mess-up-talking#/
+    videos:
+    description: |-
 
-- title: How browsers work?
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Kruno
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/0IsQqJ7pwhw
-  description: |-
+  - title: Browser Security in 2017
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Johann Hofmann
+        twitter: johannh
+        github: johannhof
+        website:
+    slides:
+    videos:
+      - https://youtu.be/vvZRYUBFX-8
+    description: |-
 
-- title: Micro Frontends - Building a modern webapp with multiple teams
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Michael Geers
-      twitter: naltatis
-      github: naltatis
-      website:
-  slides:
-    - https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams
-  videos:
-  description: |-
+  - title: React + Redux + TypeScript
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Dave Brotherstone
+        twitter: bruderstein
+        github: bruderstein
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Measuring Web Performance - Metrics & Tools
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Michael Geers
-      twitter: naltatis
-      github: naltatis
-      website:
-  slides:
-    - https://speakerdeck.com/naltatis/measuring-web-performance-metrics-and-tools
-  videos:
-    - https://youtu.be/FX8ORsF1tdM
-  description: |-
+  - title: How close is far aka working in a remote team
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Svetlana
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: 'React-Native: Tipps & Tricks for building your first native app'
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Anna Melzer
-      twitter: wellendonner
-      github: amelzer
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: How browsers work?
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Kruno
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0IsQqJ7pwhw
+    description: |-
 
-- title: Reactive Micro Services
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Alexander Thiel
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Micro Frontends - Building a modern webapp with multiple teams
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Michael Geers
+        twitter: naltatis
+        github: naltatis
+        website:
+    slides:
+      - https://speakerdeck.com/naltatis/micro-frontends-building-a-modern-webapp-with-multiple-teams
+    videos:
+    description: |-
 
-- title: 7 web technologies you might not know yet
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Robin Drexler
-      twitter: RobinDrexler
-      github: robin-drexler
-      website:
-  slides:
-  videos:
-    - https://youtu.be/4ev8zWpKhzI
-  description: |-
+  - title: Measuring Web Performance - Metrics & Tools
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Michael Geers
+        twitter: naltatis
+        github: naltatis
+        website:
+    slides:
+      - https://speakerdeck.com/naltatis/measuring-web-performance-metrics-and-tools
+    videos:
+      - https://youtu.be/FX8ORsF1tdM
+    description: |-
 
-- title: twist your head - RxJS
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Meno Abels
-      twitter: fastandfearless
-      github: mabels
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: 'React-Native: Tipps & Tricks for building your first native app'
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Anna Melzer
+        twitter: wellendonner
+        github: amelzer
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Awesome serverless JS cloud microservices
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-25
-  room:
-  authors:
-    - name: Gojko Adzic
-      twitter: gojkoadzic
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Reactive Micro Services
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Alexander Thiel
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Understanding Neural Networks with TensorFlow Playground
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-26
-  room:
-  authors:
-    - name: Oliver Zeigermann
-      twitter: DJCordhose
-      github: DJCordhose
-      website:
-  slides:
-  videos:
-    - https://youtu.be/WRuQQ9bwgGM
-  description: |-
+  - title: 7 web technologies you might not know yet
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Robin Drexler
+        twitter: RobinDrexler
+        github: robin-drexler
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4ev8zWpKhzI
+    description: |-
 
-- title: You too can build games
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-26
-  room:
-  authors:
-    - name: Anna Melzer
-      twitter: wellendonner
-      github: amelzer
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: twist your head - RxJS
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Meno Abels
+        twitter: fastandfearless
+        github: mabels
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Minesweeper, the obvious thing to build with a launchpad and WebMIDI
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-26
-  room:
-  authors:
-    - name: Jan Krutisch
-      twitter: halfbyte
-      github: halfbyte
-      website:
-  slides:
-  videos:
-    - https://youtu.be/pDPVDVzXTYE
-  description: |-
+  - title: Awesome serverless JS cloud microservices
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-25
+    room:
+    authors:
+      - name: Gojko Adzic
+        twitter: gojkoadzic
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Just another ECMAScript Trait Syntax Proposal
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-26
-  room:
-  authors:
-    - name: Peter Seliger
-      twitter: petsel
-      github: petsel
-      website:
-  slides:
-  videos:
-    - https://youtu.be/pDPVDVzXTYE
-  description: |-
+  - title: Understanding Neural Networks with TensorFlow Playground
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-26
+    room:
+    authors:
+      - name: Oliver Zeigermann
+        twitter: DJCordhose
+        github: DJCordhose
+        website:
+    slides:
+    videos:
+      - https://youtu.be/WRuQQ9bwgGM
+    description: |-
 
-- title: Just another ECMAScript Trait Syntax ProposalStop breaking the web and start building server-rendered web apps using next.js
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-26
-  room:
-  authors:
-    - name: Henrik Wenz
-      twitter:
-      github: HaNdTriX
-      website:
-  slides:
-  videos:
-    - https://youtu.be/uKN8Vyl_fBc
-  description: |-
+  - title: You too can build games
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-26
+    room:
+    authors:
+      - name: Anna Melzer
+        twitter: wellendonner
+        github: amelzer
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Comparing Redux and MobX by looking at code
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-26
-  room:
-  authors:
-    - name: Oliver Zeigermann
-      twitter: DJCordhose
-      github: DJCordhose
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Minesweeper, the obvious thing to build with a launchpad and WebMIDI
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-26
+    room:
+    authors:
+      - name: Jan Krutisch
+        twitter: halfbyte
+        github: halfbyte
+        website:
+    slides:
+    videos:
+      - https://youtu.be/pDPVDVzXTYE
+    description: |-
 
-- title: Wanna have an awesome team? Invest time
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-26
-  room:
-  authors:
-    - name: Nils Schnell
-      twitter: Schnellus
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Just another ECMAScript Trait Syntax Proposal
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-26
+    room:
+    authors:
+      - name: Peter Seliger
+        twitter: petsel
+        github: petsel
+        website:
+    slides:
+    videos:
+      - https://youtu.be/pDPVDVzXTYE
+    description: |-
 
-- title: There will be grid
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-26
-  room:
-  authors:
-    - name: Marco Pantaleo
-      twitter: peeofive
-      github:
-      website:
-  slides:
-    - https://speakerdeck.com/peeofive/there-will-be-grid-why-css-grid-layout-may-be-the-portal-into-a-new-world
-  videos:
-    - https://youtu.be/8wyJ_c2P6CM
-  description: |-
+  - title: Just another ECMAScript Trait Syntax ProposalStop breaking the web and start building server-rendered web apps using next.js
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-26
+    room:
+    authors:
+      - name: Henrik Wenz
+        twitter:
+        github: HaNdTriX
+        website:
+    slides:
+    videos:
+      - https://youtu.be/uKN8Vyl_fBc
+    description: |-
 
-- title: Testing Discussion. Demo of unexpected + unexpected react
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-26
-  room:
-  authors:
-    - name: Dave Brotherstone
-      twitter: bruderstein
-      github: bruderstein
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Comparing Redux and MobX by looking at code
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-26
+    room:
+    authors:
+      - name: Oliver Zeigermann
+        twitter: DJCordhose
+        github: DJCordhose
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Choosing a frontend framework - A business perspective
-  lang: en
-  type: regular
-  level:
-  time: 2017-03-26
-  room:
-  authors:
-    - name: Kai Kroker
-      twitter: nohypeActivist
-      github: kaikroker
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Wanna have an awesome team? Invest time
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-26
+    room:
+    authors:
+      - name: Nils Schnell
+        twitter: Schnellus
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: There will be grid
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-26
+    room:
+    authors:
+      - name: Marco Pantaleo
+        twitter: peeofive
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/peeofive/there-will-be-grid-why-css-grid-layout-may-be-the-portal-into-a-new-world
+    videos:
+      - https://youtu.be/8wyJ_c2P6CM
+    description: |-
+
+  - title: Testing Discussion. Demo of unexpected + unexpected react
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-26
+    room:
+    authors:
+      - name: Dave Brotherstone
+        twitter: bruderstein
+        github: bruderstein
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Choosing a frontend framework - A business perspective
+    lang: en
+    type: regular
+    level:
+    time: 2017-03-26
+    room:
+    authors:
+      - name: Kai Kroker
+        twitter: nohypeActivist
+        github: kaikroker
+        website:
+    slides:
+    videos:
+    description: |-

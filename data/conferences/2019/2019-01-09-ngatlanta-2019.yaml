@@ -1,322 +1,338 @@
-- title: From web to mobile with NativeScript and Angular
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-10 09:00:00
-  room:
-  authors:
-    - name: Stanimira Vlaeva
-      twitter: StanimiraVlaeva
-      github: sis0k0
-      website: https://nativescript.org/
-  slides:
-  videos:
-    - https://youtu.be/sJf-LTJYmuQ
-  description: |-
-    NativeScript opens up a whole new world for the Angular developers - a world where you can use your web skills to build truly native mobile apps that run both on Android and iOS. But we can go even further - what if I told you can extend your existing web application with a shiny mobile app? It is true - Angular's platform agnostic nature allows you to reuse your business logic across multiple platforms. Come and see it for yourself! Together we'll transform an Angular website into a multi-platform application running on the web, on Android, and on iOS.
+conference:
 
-- title: NGXS - State Management Made Simple
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-10 09:30:00
-  room:
-  authors:
-    - name: Jecelyn Yeen
-      twitter: jecelynyeen
-      github: chybie
-      website:
-  slides:
-  videos:
-    - https://youtu.be/0bhfUGjn0KA
+  name: ngAtlanta 2019
+  url: http://ng-atl.org/
+  status: complete
+  date:
+    from: 2019-01-09
+    to: 2019-01-12
+  location:
+    country: United States
+    city: Atlanta, GA
   description: |-
-    While NgRx seems like the de facto state management solution for Angular application, we have NgXS - designed to be simple & accessible, took many of the concepts of Redux but reimagined them for Angular. In this talk, we will talk why NgXS & its concepts.
+    Inspirational talks about Angular, Rxjs, NodeJS, AB Testing, Mobile, Tensorflow, and other modern cutting-edge technologies.
 
-- title: Wrapping It Up with Decorators
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-10 10:00:00
-  room:
-  authors:
-    - name: Nicole Oliver
-      twitter: nixallover
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/nVoDxho-Ahk
-  description: |-
-    As Angular developers we use decorators every day -- from class decorators such as @Component, @Module, and @Directive, to property decorators like @Input and @Output. These little accessories to our code can be powerful mechanisms for keeping our applications simple and easy to understand. Let's take a peek at how the core Angular decorators bring our code to life, and use that as a springboard for a discussion about creating our own magical wrappers in TypeScript.
+talks:
 
-- title: Debug Your Node.js Apps in VS Code
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-10 11:00:00
-  room:
-  authors:
-    - name: John Papa
-      twitter: john_papa
-      github: johnpapa
-      website: https://developer.microsoft.com/en-us/advocates/index.html
-  slides:
-  videos:
-    - https://youtu.be/18hHHXqzoGA
-  description: |-
-    Are you still console-logging all of your Node.js code? Would you like to learn to debug with zero configuration? How about debugging docker? Or logging messages without changing your code with console.log? Would you like an easier way to pair when you just need a second set of eyes to debug your app? Join me and learn how easy it can be to find and squash those bugs in your code!
+  - title: From web to mobile with NativeScript and Angular
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-10 09:00:00
+    room:
+    authors:
+      - name: Stanimira Vlaeva
+        twitter: StanimiraVlaeva
+        github: sis0k0
+        website: https://nativescript.org/
+    slides:
+    videos:
+      - https://youtu.be/sJf-LTJYmuQ
+    description: |-
+      NativeScript opens up a whole new world for the Angular developers - a world where you can use your web skills to build truly native mobile apps that run both on Android and iOS. But we can go even further - what if I told you can extend your existing web application with a shiny mobile app? It is true - Angular's platform agnostic nature allows you to reuse your business logic across multiple platforms. Come and see it for yourself! Together we'll transform an Angular website into a multi-platform application running on the web, on Android, and on iOS.
 
-- title: ng g talk-on-angular-console
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-10 11:30:00
-  room:
-  authors:
-    - name: Natasha Carlyon
-      twitter: nscarlyon
-      github: nscarlyon
-      website: https://www.greatersum.com/
-  slides:
-  videos:
-    - https://youtu.be/QsAA7heCMkg
-  description: |-
-    How many times have you googled an Angular CLI command or decided to just manually go through the steps instead of bothering with the CLI? The Angular CLI is a powerful tool, but we can only retain so much. Narwhal Technologies created the Angular Console - a graphical interface that helps developers utilize the CLI to its fullest potential. In this presentation, we will explore the Angular Console's features such as running custom scripts and generating code. By the end of this presentation, participants will walk away knowing how to get started with the Angular Console.
+  - title: NGXS - State Management Made Simple
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-10 09:30:00
+    room:
+    authors:
+      - name: Jecelyn Yeen
+        twitter: jecelynyeen
+        github: chybie
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0bhfUGjn0KA
+    description: |-
+      While NgRx seems like the de facto state management solution for Angular application, we have NgXS - designed to be simple & accessible, took many of the concepts of Redux but reimagined them for Angular. In this talk, we will talk why NgXS & its concepts.
 
-- title: 'Web components with Angular: The what, the why and the how.'
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-10 12:00:00
-  room:
-  authors:
-    - name: Ana Cidre
-      twitter: AnaCidre_
-      github:
-      website: https://ultimateangular.com/
-  slides:
-  videos:
-    - https://youtu.be/XhyoQjGMMnU
-  description: |-
-    In this talk, we are going to look at what web components are, why we need them and how we can construct them according to best practices. In order to do this we will see several examples, and each example will be tackled with its own approach. Through these examples we will be able to see the pros and cons of different ways of structuring web components. Then we will take a look at how we can construct these with Angular and Angular Elements. Thanks to the Angular team and their latest release (version 6) we can create Angular Elements more efficiently. In our code examples will with use version 6 because of this and show the best approach to creating Angular Elements.
+  - title: Wrapping It Up with Decorators
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-10 10:00:00
+    room:
+    authors:
+      - name: Nicole Oliver
+        twitter: nixallover
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/nVoDxho-Ahk
+    description: |-
+      As Angular developers we use decorators every day -- from class decorators such as @Component, @Module, and @Directive, to property decorators like @Input and @Output. These little accessories to our code can be powerful mechanisms for keeping our applications simple and easy to understand. Let's take a peek at how the core Angular decorators bring our code to life, and use that as a springboard for a discussion about creating our own magical wrappers in TypeScript.
 
-- title: Awesome Progressive Web Apps with Angular
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-10 14:00:00
-  room:
-  authors:
-    - name: Mike Hartington
-      twitter: mhartington
-      github:
-      website: http://ionicframework.com/
-  slides:
-  videos:
-    - https://youtu.be/_Es55c0qkjI
-  description: |-
-    Progressive Web Apps! We're constantly hearing about PWAs and why we should care about them. But when it comes to making one, we're often left to build out all the core features of a PWA, by hand. Thankfully, we have Angular, and have the right tools to help us out. We'll looks at patterns you can take in your Angular app to start to make it an Progressive Web App, and what tools are available to make sure our app is ready to be a PWA.
+  - title: Debug Your Node.js Apps in VS Code
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-10 11:00:00
+    room:
+    authors:
+      - name: John Papa
+        twitter: john_papa
+        github: johnpapa
+        website: https://developer.microsoft.com/en-us/advocates/index.html
+    slides:
+    videos:
+      - https://youtu.be/18hHHXqzoGA
+    description: |-
+      Are you still console-logging all of your Node.js code? Would you like to learn to debug with zero configuration? How about debugging docker? Or logging messages without changing your code with console.log? Would you like an easier way to pair when you just need a second set of eyes to debug your app? Join me and learn how easy it can be to find and squash those bugs in your code!
 
-- title: Angular in 2019 and Beyond
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-10 15:00:00
-  room:
-  authors:
-    - name: Brad Green
-      twitter: bradlygreen
-      github:
-      website: https://angular.io/
-  slides:
-  videos:
-    - https://youtu.be/N0eyJ_7wol0
-  description: |-
-    Covering the Angular Platform as it exists today plus our plans for making your life as a developer even better in the future.
+  - title: ng g talk-on-angular-console
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-10 11:30:00
+    room:
+    authors:
+      - name: Natasha Carlyon
+        twitter: nscarlyon
+        github: nscarlyon
+        website: https://www.greatersum.com/
+    slides:
+    videos:
+      - https://youtu.be/QsAA7heCMkg
+    description: |-
+      How many times have you googled an Angular CLI command or decided to just manually go through the steps instead of bothering with the CLI? The Angular CLI is a powerful tool, but we can only retain so much. Narwhal Technologies created the Angular Console - a graphical interface that helps developers utilize the CLI to its fullest potential. In this presentation, we will explore the Angular Console's features such as running custom scripts and generating code. By the end of this presentation, participants will walk away knowing how to get started with the Angular Console.
 
-- title: The Beauty of Service Workers
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-10 16:00:00
-  room:
-  authors:
-    - name: Troy Taylor
-      twitter:
-      github:
-      website: https://www.grapecity.com/
-  slides:
-  videos:
-    - https://youtu.be/5RceJDLkELg
-  description: |-
-    Service Workers are an essential part of a Progressive Web Application. When used properly, they can deliver great user experiences on any device. Developers love what ServiceWorkers can do for their users, but working with them is not so easy. In this talk we will cover how service workers can be used to maximize performance, increase user engagement and reduce testing and debugging costs.
+  - title: 'Web components with Angular: The what, the why and the how.'
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-10 12:00:00
+    room:
+    authors:
+      - name: Ana Cidre
+        twitter: AnaCidre_
+        github:
+        website: https://ultimateangular.com/
+    slides:
+    videos:
+      - https://youtu.be/XhyoQjGMMnU
+    description: |-
+      In this talk, we are going to look at what web components are, why we need them and how we can construct them according to best practices. In order to do this we will see several examples, and each example will be tackled with its own approach. Through these examples we will be able to see the pros and cons of different ways of structuring web components. Then we will take a look at how we can construct these with Angular and Angular Elements. Thanks to the Angular team and their latest release (version 6) we can create Angular Elements more efficiently. In our code examples will with use version 6 because of this and show the best approach to creating Angular Elements.
 
-- title: 'Recursion, Iteration & JavaScript: A love story'
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-10 16:30:00
-  room:
-  authors:
-    - name: Anjana Vakil
-      twitter: AnjanaVakil
-      github:
-      website: https://www.mapbox.com/
-  slides:
-  videos:
-    - https://youtu.be/WNzys1VXzo8
-  description: |-
-    Recursion and iteration usually seem like epic rivals, on opposite sides of a fundamental tradeoff between machine- and human-efficiency. Iteration's stateful repetition can be more performant, but many coders prefer to work with the self-referential abstraction of recursion. But in this talk we'll see that with a little love from JS, these apparently star-crossed paradigms can actually unite to improve each other: custom Iterables allow recursion to power more human-efficient iterative code, and tail call optimization uses iteration to make recursive code more machine-efficient.
+  - title: Awesome Progressive Web Apps with Angular
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-10 14:00:00
+    room:
+    authors:
+      - name: Mike Hartington
+        twitter: mhartington
+        github:
+        website: http://ionicframework.com/
+    slides:
+    videos:
+      - https://youtu.be/_Es55c0qkjI
+    description: |-
+      Progressive Web Apps! We're constantly hearing about PWAs and why we should care about them. But when it comes to making one, we're often left to build out all the core features of a PWA, by hand. Thankfully, we have Angular, and have the right tools to help us out. We'll looks at patterns you can take in your Angular app to start to make it an Progressive Web App, and what tools are available to make sure our app is ready to be a PWA.
 
-- title: 'Don''t worry, be happy: The best of Angular in Node'
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-10 17:30:00
-  room:
-  authors:
-    - name: Laura Ciro
-      twitter: ltciro
-      github:
-      website: https://www.yuxiglobal.com/
-  slides:
-  videos:
-    - https://youtu.be/KXvG2MBGMWE
-  description: |-
-    We have experienced a revolution in the Front-End with innovative ideas from Frameworks and libraries, however, how can our Back-End learn and benefit from this?, The architecture in Node can be a headache, Do not lose your mind!. Let's increase our technical skills and level of happiness, building robust applications in a simple, consistent and fast way, without losing the simplicity of Node with NestJS; a framework based on the Angular design that provides the best concepts for scalable systems. Additionally, NestJS is a short route for the approach of Angular developers to NodeJS
+  - title: Angular in 2019 and Beyond
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-10 15:00:00
+    room:
+    authors:
+      - name: Brad Green
+        twitter: bradlygreen
+        github:
+        website: https://angular.io/
+    slides:
+    videos:
+      - https://youtu.be/N0eyJ_7wol0
+    description: |-
+      Covering the Angular Platform as it exists today plus our plans for making your life as a developer even better in the future.
 
-- title: RxJS, Angular, and WebSockets - The Spy Life
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-11 09:00:00
-  room:
-  authors:
-    - name: Maham Boghani
-      twitter: mahamboghani
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/YpIBRSj-CTQ
-  description: |-
-    WebSockets are known to power real-time updates for usages such as chat applications. However, these WebSockets also double as spies! They can stealthily report back on how the user is interacting with your app to enable you to make informed decisions and guide the future of your app. In this talk, we'll start with some background on WebSockets and work our way into how they can be used to capture events from an Angular application and be streamed back to your server to provide real-time analytics on your application and visualized on a dashboard - all using the spy skills provided by WebSockets and Observables!
+  - title: The Beauty of Service Workers
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-10 16:00:00
+    room:
+    authors:
+      - name: Troy Taylor
+        twitter:
+        github:
+        website: https://www.grapecity.com/
+    slides:
+    videos:
+      - https://youtu.be/5RceJDLkELg
+    description: |-
+      Service Workers are an essential part of a Progressive Web Application. When used properly, they can deliver great user experiences on any device. Developers love what ServiceWorkers can do for their users, but working with them is not so easy. In this talk we will cover how service workers can be used to maximize performance, increase user engagement and reduce testing and debugging costs.
 
-- title: Profiling Bootstrap Performance of Angular Apps
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-11 09:30:00
-  room:
-  authors:
-    - name: Jeff Cross
-      twitter: jeffbcross
-      github: jeffbcross
-      website: http://nrwl.io/
-  slides:
-  videos:
-    - https://youtu.be/BEo4I21GkEE
-  description: |-
-    Everyone wants their apps to load fast and feel snappy. But if we're not focusing on app performance as part of our daily work, it's easy to end up with a janky, slow-loading app. In this talk, Jeff will talk about the techniques he utilizes to help enterprise teams quickly measure, analyze, and improve application performance using a combination of open source tools and Chrome Devtools.
+  - title: 'Recursion, Iteration & JavaScript: A love story'
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-10 16:30:00
+    room:
+    authors:
+      - name: Anjana Vakil
+        twitter: AnjanaVakil
+        github:
+        website: https://www.mapbox.com/
+    slides:
+    videos:
+      - https://youtu.be/WNzys1VXzo8
+    description: |-
+      Recursion and iteration usually seem like epic rivals, on opposite sides of a fundamental tradeoff between machine- and human-efficiency. Iteration's stateful repetition can be more performant, but many coders prefer to work with the self-referential abstraction of recursion. But in this talk we'll see that with a little love from JS, these apparently star-crossed paradigms can actually unite to improve each other: custom Iterables allow recursion to power more human-efficient iterative code, and tail call optimization uses iteration to make recursive code more machine-efficient.
 
-- title: Modern Development with Angular CLI & Nrwl Nx
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-11 10:00:00
-  room:
-  authors:
-    - name: Victor Savkin
-      twitter: victorsavkin
-      github:
-      website: https://nrwl.io/
-  slides:
-  videos:
-    - https://youtu.be/tE8sUAfKI3g
-  description: |-
-    Frontend development today gives you more choices than ever before. Apollo or REST? Cypress or Protractor? Jest or Karma? What about tools like Prettier and NestJS? In this talk, we will cover when you would want to use these innovative tools, and how to integrate them into your development workflow using Nrwl Nx and Angular CLI.
+  - title: 'Don''t worry, be happy: The best of Angular in Node'
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-10 17:30:00
+    room:
+    authors:
+      - name: Laura Ciro
+        twitter: ltciro
+        github:
+        website: https://www.yuxiglobal.com/
+    slides:
+    videos:
+      - https://youtu.be/KXvG2MBGMWE
+    description: |-
+      We have experienced a revolution in the Front-End with innovative ideas from Frameworks and libraries, however, how can our Back-End learn and benefit from this?, The architecture in Node can be a headache, Do not lose your mind!. Let's increase our technical skills and level of happiness, building robust applications in a simple, consistent and fast way, without losing the simplicity of Node with NestJS; a framework based on the Angular design that provides the best concepts for scalable systems. Additionally, NestJS is a short route for the approach of Angular developers to NodeJS
 
-- title: Leveraging Angular-Based Frameworks for AI-Driven Testing
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-11 11:00:00
-  room:
-  authors:
-    - name: Tariq King
-      twitter: tariq_king
-      github:
-      website: https://http//www.ultimatesoftware.com
-  slides:
-  videos:
-    - https://youtu.be/pCZ78WlNrqo
-  description: |-
-    A new age of automated software testing is upon us and Angular-based frameworks can play a key role in paving the way forward. AI-driven testing tools leverage machine learning to tackle difficult software testing challenges such as web UI discovery, modeling, test generation, and bug detection. Designing appropriate interfaces for these types of tools is a non-trivial problem, and machine learning in these types of systems can benefit greatly from instrumenting user interactions. In this talk, I will explain some of the interface design, user interaction, and visualization challenges of AI-driven testing, and show how Angular, Ionic and Angular Material were used to address them in a real-world AI testing project. Come share ideas and participate in the discussion on how Angular can help in enabling machines to learn from real users.
+  - title: RxJS, Angular, and WebSockets - The Spy Life
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-11 09:00:00
+    room:
+    authors:
+      - name: Maham Boghani
+        twitter: mahamboghani
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/YpIBRSj-CTQ
+    description: |-
+      WebSockets are known to power real-time updates for usages such as chat applications. However, these WebSockets also double as spies! They can stealthily report back on how the user is interacting with your app to enable you to make informed decisions and guide the future of your app. In this talk, we'll start with some background on WebSockets and work our way into how they can be used to capture events from an Angular application and be streamed back to your server to provide real-time analytics on your application and visualized on a dashboard - all using the spy skills provided by WebSockets and Observables!
 
-- title: 'Dependency Injection in Nest and Angular: Intersection & Mismatch'
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-11 11:30:00
-  room:
-  authors:
-    - name: Kamil Myśliwiec
-      twitter: kammysliwiec
-      github:
-      website: https://nestjs.com/
-  slides:
-  videos:
-    - https://youtu.be/UtbUCzdJ7b4
-  description: |-
-    Dependency Injection framework is a core and inherent feature of both Nest and Angular. DI simplifies creating scalable, testable, and maintainable applications by giving us flexible and efficient abstractions. However, did we ever think how this mechanism works underneath? In this talk, we’ll compare how Nest and Angular DI systems differ from each other as well as dive into the basics of the metadata reflection API in TypeScript.
+  - title: Profiling Bootstrap Performance of Angular Apps
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-11 09:30:00
+    room:
+    authors:
+      - name: Jeff Cross
+        twitter: jeffbcross
+        github: jeffbcross
+        website: http://nrwl.io/
+    slides:
+    videos:
+      - https://youtu.be/BEo4I21GkEE
+    description: |-
+      Everyone wants their apps to load fast and feel snappy. But if we're not focusing on app performance as part of our daily work, it's easy to end up with a janky, slow-loading app. In this talk, Jeff will talk about the techniques he utilizes to help enterprise teams quickly measure, analyze, and improve application performance using a combination of open source tools and Chrome Devtools.
 
-- title: GraphQL-Anywhere - How GraphQL can improve your work across all of your stack
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-11 12:00:00
-  room:
-  authors:
-    - name: Uri Goldshtein
-      twitter: urigoldshtein
-      github: urigo
-      website:
-  slides:
-  videos:
-    - https://youtu.be/479WD8OCTfs
-  description: |-
-    In this talk I will give a very short introduction about GraphQL and then dive deep into new use cases you probably haven't thought of where GraphQL fit in the picture and improve your developer life, even if you don't have a GraphQL backend at all!
+  - title: Modern Development with Angular CLI & Nrwl Nx
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-11 10:00:00
+    room:
+    authors:
+      - name: Victor Savkin
+        twitter: victorsavkin
+        github:
+        website: https://nrwl.io/
+    slides:
+    videos:
+      - https://youtu.be/tE8sUAfKI3g
+    description: |-
+      Frontend development today gives you more choices than ever before. Apollo or REST? Cypress or Protractor? Jest or Karma? What about tools like Prettier and NestJS? In this talk, we will cover when you would want to use these innovative tools, and how to integrate them into your development workflow using Nrwl Nx and Angular CLI.
 
-- title: Scale or Fail - The Secret to a Successful Career
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-11 13:30:00
-  room:
-  authors:
-    - name: Kayla Booth
-      twitter: kaylajeanbooth
-      github:
-      website: https://xebia.com/
-  slides:
-  videos:
-    - https://youtu.be/6mbJDyVwUh8
-  description: |-
-    The tech space is more competitive than ever so how do you keep up? Get ready to learn how to upgrade the trajectory of your career with the best tactics to add to your personal & professional repository. There’s a fine line between people who excel & those who get comfortable so don’t get left behind.
+  - title: Leveraging Angular-Based Frameworks for AI-Driven Testing
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-11 11:00:00
+    room:
+    authors:
+      - name: Tariq King
+        twitter: tariq_king
+        github:
+        website: https://http//www.ultimatesoftware.com
+    slides:
+    videos:
+      - https://youtu.be/pCZ78WlNrqo
+    description: |-
+      A new age of automated software testing is upon us and Angular-based frameworks can play a key role in paving the way forward. AI-driven testing tools leverage machine learning to tackle difficult software testing challenges such as web UI discovery, modeling, test generation, and bug detection. Designing appropriate interfaces for these types of tools is a non-trivial problem, and machine learning in these types of systems can benefit greatly from instrumenting user interactions. In this talk, I will explain some of the interface design, user interaction, and visualization challenges of AI-driven testing, and show how Angular, Ionic and Angular Material were used to address them in a real-world AI testing project. Come share ideas and participate in the discussion on how Angular can help in enabling machines to learn from real users.
 
-- title: 'A/B and see: Improving User Experience with Experimentation'
-  lang: en
-  type: regular
-  level:
-  time: 2019-01-11 17:00:00
-  room:
-  authors:
-    - name: Priyankaa Vijayakumar
-      twitter: priyankaavj
-      github:
-      website: https://www.netflix.com/
-  slides:
-  videos:
-    - https://youtu.be/Z4NQeBm6itY
-  description: |-
-    In this talk, I will give a quick introduction to online experimentation and A/B testing. To keep the talk self-contained, I will first give an overview of stats fundamentals needed to understand A/B testing. I will go over some of the pitfalls that are common when running experiments. You will also see how we built a scalable A/B testing framework at Netflix.
+  - title: 'Dependency Injection in Nest and Angular: Intersection & Mismatch'
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-11 11:30:00
+    room:
+    authors:
+      - name: Kamil Myśliwiec
+        twitter: kammysliwiec
+        github:
+        website: https://nestjs.com/
+    slides:
+    videos:
+      - https://youtu.be/UtbUCzdJ7b4
+    description: |-
+      Dependency Injection framework is a core and inherent feature of both Nest and Angular. DI simplifies creating scalable, testable, and maintainable applications by giving us flexible and efficient abstractions. However, did we ever think how this mechanism works underneath? In this talk, we’ll compare how Nest and Angular DI systems differ from each other as well as dive into the basics of the metadata reflection API in TypeScript.
+
+  - title: GraphQL-Anywhere - How GraphQL can improve your work across all of your stack
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-11 12:00:00
+    room:
+    authors:
+      - name: Uri Goldshtein
+        twitter: urigoldshtein
+        github: urigo
+        website:
+    slides:
+    videos:
+      - https://youtu.be/479WD8OCTfs
+    description: |-
+      In this talk I will give a very short introduction about GraphQL and then dive deep into new use cases you probably haven't thought of where GraphQL fit in the picture and improve your developer life, even if you don't have a GraphQL backend at all!
+
+  - title: Scale or Fail - The Secret to a Successful Career
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-11 13:30:00
+    room:
+    authors:
+      - name: Kayla Booth
+        twitter: kaylajeanbooth
+        github:
+        website: https://xebia.com/
+    slides:
+    videos:
+      - https://youtu.be/6mbJDyVwUh8
+    description: |-
+      The tech space is more competitive than ever so how do you keep up? Get ready to learn how to upgrade the trajectory of your career with the best tactics to add to your personal & professional repository. There’s a fine line between people who excel & those who get comfortable so don’t get left behind.
+
+  - title: 'A/B and see: Improving User Experience with Experimentation'
+    lang: en
+    type: regular
+    level:
+    time: 2019-01-11 17:00:00
+    room:
+    authors:
+      - name: Priyankaa Vijayakumar
+        twitter: priyankaavj
+        github:
+        website: https://www.netflix.com/
+    slides:
+    videos:
+      - https://youtu.be/Z4NQeBm6itY
+    description: |-
+      In this talk, I will give a quick introduction to online experimentation and A/B testing. To keep the talk self-contained, I will first give an overview of stats fundamentals needed to understand A/B testing. I will go over some of the pitfalls that are common when running experiments. You will also see how we built a scalable A/B testing framework at Netflix.

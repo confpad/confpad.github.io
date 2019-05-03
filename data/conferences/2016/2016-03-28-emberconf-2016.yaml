@@ -1,518 +1,533 @@
-- title: Opening Keynote
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Yehuda Katz
-      twitter: wycats
-      github:
-      website:
-    - name: Tom Dale
-      twitter: tomdale
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/OInJBwS8VDQ
-  description: |-
+conference:
 
-- title: Using Service Workers in Ember
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: John Kleinschmidt
-      twitter: jkleinsc
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/9YOvV4ZgDhU
+  name: EmberConf 2016
+  url: https://2016.emberconf.com/
+  status: complete
+  date:
+    from: 2016-03-28
+    to: 2016-03-30
+  location:
+    country: United States
+    city:  Portland, OR
   description: |-
-    Service Workers are now available in browsers but why should we as Ember developers care about them? In this talk we will examine some of the common use cases for Service Workers and patterns for implementing them in your Ember applications.
+    Ember is growing every day, and EmberConf is the best place to meet the folks behind the magic. You’ll hear from members of the Ember Core Team, top community contributors and users, and be the first to know what to expect for the future of Ember.
 
-- title: Cross-Pollinating Communities, We All Win
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Chris Ball
-      twitter: cball_
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/DDnN3Qnd3tw
-  description: |-
-    You may have heard the quote, "Good artists copy, great artists steal." Ember's origins were inspired by Cocoa. Ember has taken many cues from Rails, the biggest coming in the form of strong framework conventions. In 1.13, Ember's rendering engine was rewritten based on concepts pioneered by React. Instead of writing their own cli from the ground up, Angular has embraced ember-cli. Let's examine past and future benefits of sharing ideas, and what it means for our favorite framework and our industry as a whole.
+talks:
+  - title: Opening Keynote
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Yehuda Katz
+        twitter: wycats
+        github:
+        website:
+      - name: Tom Dale
+        twitter: tomdale
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OInJBwS8VDQ
+    description: |-
 
-- title: <select>ing Good Ember Patterns
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Brenna O'Brien
-      twitter: brnnbrn
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/yvvst_639oY
-  description: |-
-    What's in an Ember -select- element? For a long time, the answer was two-way data binding, observers, and an obscured DOM, along with the challenges and bugs that went with it. Today, we can move beyond the ((view “select”)) helper and render this common UI element using native DOM and one-way data flow. Through the lens of the select element, both as standalone code and a re-usable component, we’ll learn how and why to use good Ember patterns like data-down, actions up (DDAU), plus some handy new Ember features like closure actions and the mut and ((get)) helpers.
+  - title: Using Service Workers in Ember
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: John Kleinschmidt
+        twitter: jkleinsc
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9YOvV4ZgDhU
+    description: |-
+      Service Workers are now available in browsers but why should we as Ember developers care about them? In this talk we will examine some of the common use cases for Service Workers and patterns for implementing them in your Ember applications.
 
-- title: An Illustrated Guide to Ember
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Brigitte Warner
-      twitter: BrigitteWarner
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/-TB-u5QxjE4
-  description: |-
-    We'll approach Ember as an illustrated fairy tale: drawing upon the power of story telling to describe the creation of an Ember application through its inciting incident, caste of characters (object model), and the conflicts that arise and how our heroine overcomes them through wit and cleverness.
+  - title: Cross-Pollinating Communities, We All Win
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Chris Ball
+        twitter: cball_
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DDnN3Qnd3tw
+    description: |-
+      You may have heard the quote, "Good artists copy, great artists steal." Ember's origins were inspired by Cocoa. Ember has taken many cues from Rails, the biggest coming in the form of strong framework conventions. In 1.13, Ember's rendering engine was rewritten based on concepts pioneered by React. Instead of writing their own cli from the ground up, Angular has embraced ember-cli. Let's examine past and future benefits of sharing ideas, and what it means for our favorite framework and our industry as a whole.
 
-- title: Building Desktop Apps with Ember and Electron
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Felix Rieseberg
-      twitter: felixrieseberg
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/_uA5LZk2vmQ
-  description: |-
-    You may have seen apps like Slack, Visual Studio Code, or Docker's Kitematic: desktop applications written using Node.js and Chromium. You might be hoping to build something similar. Electron was originally built for the Atom editor, and enables developers to build beautiful cross-platform apps using the JavaScript we all love. When combined with Ember, you're looking at a fantastic desktop app development framework. Ember and Electron are a match made in heaven, and this talk will teach you all you need to know to get started building desktop apps with Ember.
+  - title: <select>ing Good Ember Patterns
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Brenna O'Brien
+        twitter: brnnbrn
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/yvvst_639oY
+    description: |-
+      What's in an Ember -select- element? For a long time, the answer was two-way data binding, observers, and an obscured DOM, along with the challenges and bugs that went with it. Today, we can move beyond the ((view “select”)) helper and render this common UI element using native DOM and one-way data flow. Through the lens of the select element, both as standalone code and a re-usable component, we’ll learn how and why to use good Ember patterns like data-down, actions up (DDAU), plus some handy new Ember features like closure actions and the mut and ((get)) helpers.
 
-- title: How I Learned to Love Ember
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Ju Liu
-      twitter: arkh4m
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/m2YD-wA5sAw
-  description: |-
-    "I’ve always been a backend guy. I love Ruby. Keep things simple. Oh no, not another JavaScript framework..." This was me a year ago. Now I don't feel like this anymore. Matter of fact, the other day I caught myself saying: "I can do everything in Ember!" In this talk, I will narrate the journey that turned a hardened Ruby Engineer into an Ember enthusiast. I will recount how I escaped from the "New to Ember" pits of despair, how I fought in the "Upgrade Wars" and ultimately how it changed my mind about all software development. As I learned Ember, I learned to love Ember.
+  - title: An Illustrated Guide to Ember
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Brigitte Warner
+        twitter: BrigitteWarner
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-TB-u5QxjE4
+    description: |-
+      We'll approach Ember as an illustrated fairy tale: drawing upon the power of story telling to describe the creation of an Ember application through its inciting incident, caste of characters (object model), and the conflicts that arise and how our heroine overcomes them through wit and cleverness.
 
-- title: Building Mobile Applications with Ember
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Alex Blom
-      twitter: alexblom
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Ry639hvWKbM
-  description: |-
-    It is possible to create performant mobile applications with Ember and Cordova, and to achieve this with your existing Ember application. But most peoples first hybrid experience is seeing serious performance issues and stop ("It doesn’t feel native"). This talk will serve beginner and intermediate Ember developers looking to extend their application to mobile. It will touch on both the best tools in the Ember ecosystem, and best practices for optimization and performance.
+  - title: Building Desktop Apps with Ember and Electron
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Felix Rieseberg
+        twitter: felixrieseberg
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_uA5LZk2vmQ
+    description: |-
+      You may have seen apps like Slack, Visual Studio Code, or Docker's Kitematic: desktop applications written using Node.js and Chromium. You might be hoping to build something similar. Electron was originally built for the Atom editor, and enables developers to build beautiful cross-platform apps using the JavaScript we all love. When combined with Ember, you're looking at a fantastic desktop app development framework. Ember and Electron are a match made in heaven, and this talk will teach you all you need to know to get started building desktop apps with Ember.
 
-- title: Living Style Guide Driven Development
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Chris LoPresto
-      twitter: chrislopresto
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Z1lL_Zo62h0
-  description: |-
-    Creating a living design system is essential to developing a cohesive experience for users over the lifetime of a product. Ember tooling and conventions make this easier than you might expect. By organizing your application functionality into Ember components, you can easily build a living style guide to showcase key features, design patterns, and user interactions. This fashion of style guide driven development enables a rapid implementation and feedback cycle, a comprehensive overview of key features, and the blissful feeling of providing order in a chaotic world.
+  - title: How I Learned to Love Ember
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Ju Liu
+        twitter: arkh4m
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/m2YD-wA5sAw
+    description: |-
+      "I’ve always been a backend guy. I love Ruby. Keep things simple. Oh no, not another JavaScript framework..." This was me a year ago. Now I don't feel like this anymore. Matter of fact, the other day I caught myself saying: "I can do everything in Ember!" In this talk, I will narrate the journey that turned a hardened Ruby Engineer into an Ember enthusiast. I will recount how I escaped from the "New to Ember" pits of despair, how I fought in the "Upgrade Wars" and ultimately how it changed my mind about all software development. As I learned Ember, I learned to love Ember.
 
-- title: Warp Speed Memory Management
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Kelly Senna
-      twitter: simplysenna
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/5goUZF45VCk
-  description: |-
-    In low level languages, primitives exist for memory management. Despite the C-like syntax, JavaScript is garbage collected, causing many front end developers to feel it does a great job of memory management for us. But how does it actually work and does it work how we think it does? This session will discuss memory management in JavaScript (compared to other languages) and what is really going on behind your browser. Using an Ember.js application, we will also discuss best practices to optimize our code, how JavaScript and Ember optimizes for us, and ways we can address common pain points.
+  - title: Building Mobile Applications with Ember
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Alex Blom
+        twitter: alexblom
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Ry639hvWKbM
+    description: |-
+      It is possible to create performant mobile applications with Ember and Cordova, and to achieve this with your existing Ember application. But most peoples first hybrid experience is seeing serious performance issues and stop ("It doesn’t feel native"). This talk will serve beginner and intermediate Ember developers looking to extend their application to mobile. It will touch on both the best tools in the Ember ecosystem, and best practices for optimization and performance.
 
-- title: Debugging Ember With Empathy
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Vaidehi Joshi
-      twitter: vaidehijoshi
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/CctE59nvXyw
-  description: |-
-    Denial, anger, bargaining, depression, acceptance. But I don't mean the five stages of grief—I'm talking about the five stages of debugging your first Ember app! Learning how to navigate the building blocks of Ember can be difficult, but the even trickier thing is knowing where to start debugging while you're still learning the framework. One approach that I use is to put myself into my code's shoes. In this talk, we'll connect with our objects to understand what's going on under the hood. Let's jump over some common first-time Ember hurdles together by debugging our code — with empathy.
+  - title: Living Style Guide Driven Development
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Chris LoPresto
+        twitter: chrislopresto
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Z1lL_Zo62h0
+    description: |-
+      Creating a living design system is essential to developing a cohesive experience for users over the lifetime of a product. Ember tooling and conventions make this easier than you might expect. By organizing your application functionality into Ember components, you can easily build a living style guide to showcase key features, design patterns, and user interactions. This fashion of style guide driven development enables a rapid implementation and feedback cycle, a comprehensive overview of key features, and the blissful feeling of providing order in a chaotic world.
 
-- title: Dissecting an Ember CLI Build
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Estelle DeBlois
-      twitter: edeblois
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/hNwgp9alwKg
-  description: |-
-    As the tooling ecosystem continues to evolve, developers nowadays can easily scaffold out a new Ember app and start being productive right away, without ever thinking of all the intricacies that go on behind a typical build command. But there comes a time when manipulating trees or nodes in Broccoli may be required to support a custom project architecture, or you may find yourself having to extend the build for specialized environments through addons. Whether you face any one of those scenarios, or you simply want to know more of what goes on behind the curtain, this talk is for you.
+  - title: Warp Speed Memory Management
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Kelly Senna
+        twitter: simplysenna
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/5goUZF45VCk
+    description: |-
+      In low level languages, primitives exist for memory management. Despite the C-like syntax, JavaScript is garbage collected, causing many front end developers to feel it does a great job of memory management for us. But how does it actually work and does it work how we think it does? This session will discuss memory management in JavaScript (compared to other languages) and what is really going on behind your browser. Using an Ember.js application, we will also discuss best practices to optimize our code, how JavaScript and Ember optimizes for us, and ways we can address common pain points.
 
-- title: Ember at Scale
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Chad Hietala
-      twitter: chadhietala
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/xvzM-v9xaEw
-  description: |-
-    Ember has primarily been known for allowing small teams extremely productive to ship ambitious applications to the web, what does this look like when you scale it out to hundreds of engineers and for a web property that has over 400 million users? In this talk I will show how we shipped our first Ember application and how we addressed everything from tooling to performance.
+  - title: Debugging Ember With Empathy
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Vaidehi Joshi
+        twitter: vaidehijoshi
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/CctE59nvXyw
+    description: |-
+      Denial, anger, bargaining, depression, acceptance. But I don't mean the five stages of grief—I'm talking about the five stages of debugging your first Ember app! Learning how to navigate the building blocks of Ember can be difficult, but the even trickier thing is knowing where to start debugging while you're still learning the framework. One approach that I use is to put myself into my code's shoes. In this talk, we'll connect with our objects to understand what's going on under the hood. Let's jump over some common first-time Ember hurdles together by debugging our code — with empathy.
 
-- title: You're Building a Distributed System!
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Mike Pack
-      twitter: mikepack_
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/-ecg0wPakWI
-  description: |-
-    Whether you know it or not, you're building a distributed system. This becomes painfully obvious when taking Ember apps into the developing world. Flaky network connections pose real challenges for developers building stateful applications in the browser. This talk is about my trials and tribulations taking Ember offline in Africa. We’ll look at the tools necessary to venture offline, how they apply to Ember specifically, and a little bit of theory to drive home the hard facts about how much fun you’ll have building a distributed system!
+  - title: Dissecting an Ember CLI Build
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Estelle DeBlois
+        twitter: edeblois
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hNwgp9alwKg
+    description: |-
+      As the tooling ecosystem continues to evolve, developers nowadays can easily scaffold out a new Ember app and start being productive right away, without ever thinking of all the intricacies that go on behind a typical build command. But there comes a time when manipulating trees or nodes in Broccoli may be required to support a custom project architecture, or you may find yourself having to extend the build for specialized environments through addons. Whether you face any one of those scenarios, or you simply want to know more of what goes on behind the curtain, this talk is for you.
 
-- title: The Tale of Two Teams
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-29
-  room:
-  authors:
-    - name: Ray Tiley
-      twitter: raytiley
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/82hCVrgqlrM
-  description: |-
-    So lets talk about two teams, both with old, messy, outdated code bases. One team chooses a framework, refactors behind the scenes, ships new features and one day have a shiny, modern code base. The other rewrites it all, from scratch, with sprinkles of JavaScript. How did these two teams fare? In this talk we'll find out. Spoiler alert... both teams are happily using Ember today.
+  - title: Ember at Scale
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Chad Hietala
+        twitter: chadhietala
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xvzM-v9xaEw
+    description: |-
+      Ember has primarily been known for allowing small teams extremely productive to ship ambitious applications to the web, what does this look like when you scale it out to hundreds of engineers and for a web property that has over 400 million users? In this talk I will show how we shipped our first Ember application and how we addressed everything from tooling to performance.
 
-- title: Ember CLI, The Next Generation
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Stefan Penner
-      twitter: stefanpenner
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/UMo9DHrRccI
-  description: |-
-    Ember CLI, The Next Generation by Stefan Penner
+  - title: You're Building a Distributed System!
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Mike Pack
+        twitter: mikepack_
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-ecg0wPakWI
+    description: |-
+      Whether you know it or not, you're building a distributed system. This becomes painfully obvious when taking Ember apps into the developing world. Flaky network connections pose real challenges for developers building stateful applications in the browser. This talk is about my trials and tribulations taking Ember offline in Africa. We’ll look at the tools necessary to venture offline, how they apply to Ember specifically, and a little bit of theory to drive home the hard facts about how much fun you’ll have building a distributed system!
 
-- title: Building a Game in Ember Starring Your Cat
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Matt McKenna
-      twitter: mattmckenna
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/t9v3CBowdxw
-  description: |-
-    Ember is generally used to build ambitious web applications, but what about ambitious web games starring your cat? In this talk, I'll go over how to use Ember to build, organize, and deploy HTML5-canvas based games. Using Ember to develop games shares the same benefits of using Ember to develop applications—both the toolchain and the conventions alleviate decision fatigue. For example, route-driven paths are great at handling levels, Liquid Fire provides lovely transitions for menus, and adapters provide a standard way to connect to backends for saving high scores.
+  - title: The Tale of Two Teams
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-29
+    room:
+    authors:
+      - name: Ray Tiley
+        twitter: raytiley
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/82hCVrgqlrM
+    description: |-
+      So lets talk about two teams, both with old, messy, outdated code bases. One team chooses a framework, refactors behind the scenes, ships new features and one day have a shiny, modern code base. The other rewrites it all, from scratch, with sprinkles of JavaScript. How did these two teams fare? In this talk we'll find out. Spoiler alert... both teams are happily using Ember today.
 
-- title: Compose Yourself with Ember and D3
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Ivan Vanderbyl
-      twitter: ivanderbyl
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/SOfwqwqWhMU
-  description: |-
-    Say you're building a chart, what's the most natural representation for specifying a visualization? A configurable chart component? Abstract components which can be used together to create something larger? Or low level primitives which can give you fine grained control over your presentation? In this talk I will introduce D3 Shape, and demonstrate how you can compose reusable Components which solve all of the above requirements for quickly visualizing information in Ember.
+  - title: Ember CLI, The Next Generation
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Stefan Penner
+        twitter: stefanpenner
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/UMo9DHrRccI
+    description: |-
+      Ember CLI, The Next Generation by Stefan Penner
 
-- title: Easy-Bake Testing
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Liz Baillie
-      twitter: infinite_math
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/9Wj01UrGtfs
-  description: |-
-    Mocha? Chai? Qunit? Jasmine? What's the difference? Which one is best for me? How do I use these new integration tests? What are mocks and stubs and how should I use them? With so many different testing frameworks, libraries, and addons, and so many different styles and approaches to testing your Ember apps, it can be daunting to get started building a test suite to meet your needs. Don't be scared! I'm here with my nonthreatening lightbulb-powered Easy-Bake testing guide to help you out!
+  - title: Building a Game in Ember Starring Your Cat
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Matt McKenna
+        twitter: mattmckenna
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/t9v3CBowdxw
+    description: |-
+      Ember is generally used to build ambitious web applications, but what about ambitious web games starring your cat? In this talk, I'll go over how to use Ember to build, organize, and deploy HTML5-canvas based games. Using Ember to develop games shares the same benefits of using Ember to develop applications—both the toolchain and the conventions alleviate decision fatigue. For example, route-driven paths are great at handling levels, Liquid Fire provides lovely transitions for menus, and adapters provide a standard way to connect to backends for saving high scores.
 
-- title: Idiomatic Ember, Sweet Spot of Performance and Productivity
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Lauren Elizabeth Tan
-      twitter: sugarpirate_
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/lP9ap-AKBAM
-  description: |-
-    With the release of Ember 2.0, many best practices established in the 1.x series are unfortunately no longer relevant. Lessons learnt from the React and Flux communities can help guide the path toward The Ember Way, with "Data Down, Actions Up" being one of the core philosophies. In this beginner-friendly talk, we'll discuss patterns and anti-patterns for bringing Ember applications into the 2.x paradigm, and discover how ideas from Functional Programming and game rendering engines can inform us. We will also look at the roads ahead to see what future versions of Ember will bring.
+  - title: Compose Yourself with Ember and D3
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Ivan Vanderbyl
+        twitter: ivanderbyl
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/SOfwqwqWhMU
+    description: |-
+      Say you're building a chart, what's the most natural representation for specifying a visualization? A configurable chart component? Abstract components which can be used together to create something larger? Or low level primitives which can give you fine grained control over your presentation? In this talk I will introduce D3 Shape, and demonstrate how you can compose reusable Components which solve all of the above requirements for quickly visualizing information in Ember.
 
-- title: The Ember Addon Community
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Katie Gengler
-      twitter: katiegengler
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/_FZw_cokIhc
-  description: |-
-    For nearly two years now, new Ember addons have been published daily. The availability of quality addons has grown to be a crucial part of the Ember experience. Let’s talk about how addon developers, Ember contributors, and end-users have contributed to this ecosystem, and how we can each do our part to make Ember’s addon community even better.
+  - title: Easy-Bake Testing
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Liz Baillie
+        twitter: infinite_math
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9Wj01UrGtfs
+    description: |-
+      Mocha? Chai? Qunit? Jasmine? What's the difference? Which one is best for me? How do I use these new integration tests? What are mocks and stubs and how should I use them? With so many different testing frameworks, libraries, and addons, and so many different styles and approaches to testing your Ember apps, it can be daunting to get started building a test suite to meet your needs. Don't be scared! I'm here with my nonthreatening lightbulb-powered Easy-Bake testing guide to help you out!
 
-- title: Immutability is for UI, You, and I
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Charles Lowell
-      twitter: cowboyd
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/r2Cq1mUlRk4
-  description: |-
-    Immutability. It may sound like an ominous something from the far-off galaxy of math, but in practice, it's one of the most pragmatic tools for thinking about UI. In this talk we'll explore the problems that an immutable style solves, and how you can use it as a thought-tool to both design and implement more powerful and composable components. Throughout we'll see just how deeply Ember supports this mode of thought at every step of the way.
+  - title: Idiomatic Ember, Sweet Spot of Performance and Productivity
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Lauren Elizabeth Tan
+        twitter: sugarpirate_
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lP9ap-AKBAM
+    description: |-
+      With the release of Ember 2.0, many best practices established in the 1.x series are unfortunately no longer relevant. Lessons learnt from the React and Flux communities can help guide the path toward The Ember Way, with "Data Down, Actions Up" being one of the core philosophies. In this beginner-friendly talk, we'll discuss patterns and anti-patterns for bringing Ember applications into the 2.x paradigm, and discover how ideas from Functional Programming and game rendering engines can inform us. We will also look at the roads ahead to see what future versions of Ember will bring.
 
-- title: Migrating an Existing App to Ember, Component After Component
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Xavier Cambar
-      twitter: xcambar
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/-iL8ME7Ux2k
-  description: |-
-    While Ember is designed for building ambitious applications, the documentation and public resources mostly focus on new applications, making lots of things simpler to write from scratch. This talk will share my experience migrating an existing application to Ember part after part. I'll share tips for how to avoid the unpopular "Big Bang rewrite" (minimizing the costs of adoption), and discuss the integration story and loose coupling of Ember.
+  - title: The Ember Addon Community
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Katie Gengler
+        twitter: katiegengler
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_FZw_cokIhc
+    description: |-
+      For nearly two years now, new Ember addons have been published daily. The availability of quality addons has grown to be a crucial part of the Ember experience. Let’s talk about how addon developers, Ember contributors, and end-users have contributed to this ecosystem, and how we can each do our part to make Ember’s addon community even better.
 
-- title: How to Build a Compiler
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: James Kyle
-      twitter: thejameskyle
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Tar4WgAfMr4
-  description: |-
-    Compilers are all around you: Babel, Handlebars/HTMLBars, Glimmer, Uglify, and more. In this talk we'll walk through every part of a compiler from the parser to the generator. Learn about visitors and traversal, paths, scopes, bindings, and everything else. By the end compilers shouldn't seem like magic, and maybe you'll even want to contribute back to them.
+  - title: Immutability is for UI, You, and I
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Charles Lowell
+        twitter: cowboyd
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/r2Cq1mUlRk4
+    description: |-
+      Immutability. It may sound like an ominous something from the far-off galaxy of math, but in practice, it's one of the most pragmatic tools for thinking about UI. In this talk we'll explore the problems that an immutable style solves, and how you can use it as a thought-tool to both design and implement more powerful and composable components. Throughout we'll see just how deeply Ember supports this mode of thought at every step of the way.
 
-- title: The Great Migration, Redesigning and Rewriting our App in Ember.js
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Jade Applegate
-      twitter: jadeapplegate
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/mbESxa_0PBs
-  description: |-
-    Many Embereños use the framework for their side projects, but have not yet had the opportunity to work on an Ember project in their professional lives. This talk will cover one team’s journey migrating a legacy codebase to Ember.js. Key topics will include the redesign and rewrite of a highly complex and detailed customer-facing user dashboard, challenges faced when porting an application to Ember, and the results of the migration project in terms of improved application speed, security, and overall performance.
+  - title: Migrating an Existing App to Ember, Component After Component
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Xavier Cambar
+        twitter: xcambar
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-iL8ME7Ux2k
+    description: |-
+      While Ember is designed for building ambitious applications, the documentation and public resources mostly focus on new applications, making lots of things simpler to write from scratch. This talk will share my experience migrating an existing application to Ember part after part. I'll share tips for how to avoid the unpopular "Big Bang rewrite" (minimizing the costs of adoption), and discuss the integration story and loose coupling of Ember.
 
-- title: The Future of Ember Templating
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Godfrey Chan
-      twitter: chancancode
-      github:
-      website:
-    - name: Yehuda Katz
-      twitter: wycats
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/dpx9P1cz37k
-  description: |-
-    This talk is a technical deep dive into the implementation of Glimmer 2, and what it will enable going forward. It will cover the basic architecture of Glimmer 2, how it integrates with Ember, and how it fits in with FastBoot, Progressive Web Apps, and Off Main Thread rendering.
+  - title: How to Build a Compiler
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: James Kyle
+        twitter: thejameskyle
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Tar4WgAfMr4
+    description: |-
+      Compilers are all around you: Babel, Handlebars/HTMLBars, Glimmer, Uglify, and more. In this talk we'll walk through every part of a compiler from the parser to the generator. Learn about visitors and traversal, paths, scopes, bindings, and everything else. By the end compilers shouldn't seem like magic, and maybe you'll even want to contribute back to them.
 
-- title: Interoperable Component Patterns
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Matthew Beale
-      twitter: mixonic
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/fFbns_4YR28
-  description: |-
-    Though component and custom element patterns have become the standard for web application architecture, communicating from one solution to another remains fogged by guesswork and opinion. How should you write a web component that needs to be compatible with Ember and other frameworks? Where are the tradeoffs between purity of design and ergonomics? In a talk touching on libraries and standards, come learn how to write component code useful across many environments.
+  - title: The Great Migration, Redesigning and Rewriting our App in Ember.js
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Jade Applegate
+        twitter: jadeapplegate
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mbESxa_0PBs
+    description: |-
+      Many Embereños use the framework for their side projects, but have not yet had the opportunity to work on an Ember project in their professional lives. This talk will cover one team’s journey migrating a legacy codebase to Ember.js. Key topics will include the redesign and rewrite of a highly complex and detailed customer-facing user dashboard, challenges faced when porting an application to Ember, and the results of the migration project in terms of improved application speed, security, and overall performance.
 
-- title: EmberConf MiniTalks
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Leah Silber
-      twitter: wifelette
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: The Future of Ember Templating
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Godfrey Chan
+        twitter: chancancode
+        github:
+        website:
+      - name: Yehuda Katz
+        twitter: wycats
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/dpx9P1cz37k
+    description: |-
+      This talk is a technical deep dive into the implementation of Glimmer 2, and what it will enable going forward. It will cover the basic architecture of Glimmer 2, how it integrates with Ember, and how it fits in with FastBoot, Progressive Web Apps, and Off Main Thread rendering.
 
-- title: Ember Between Design and Development
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Lisa Gringl
-      twitter: kringal
-      github:
-      website:
-    - name: Francesco Novy
-      twitter: _fnovy
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/mIpwlxdqLcU
-  description: |-
-    The bigger a project gets, the more important communication and consistency across the whole team becomes. In order to achieve this, it is critical to establish an integrated workflow with all team members. In this talk, a designer and a developer who worked together on various Ember projects will present an effective way of handling these challenges. Three levels of documentation will be presented: A living styleguide for designers, a component guide for designers & developers and a JavaScript documentation for developers.
+  - title: Interoperable Component Patterns
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Matthew Beale
+        twitter: mixonic
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/fFbns_4YR28
+    description: |-
+      Though component and custom element patterns have become the standard for web application architecture, communicating from one solution to another remains fogged by guesswork and opinion. How should you write a web component that needs to be compatible with Ember and other frameworks? Where are the tradeoffs between purity of design and ergonomics? In a talk touching on libraries and standards, come learn how to write component code useful across many environments.
 
-- title: Closing Keynote" Reversing the River"
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-30
-  room:
-  authors:
-    - name: Oren Teich
-      twitter: kringalteich
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/EZT9ndgOE6U
-  description: |-
-    There have been some amazing, audacious public projects. Chicago in the second half of the 19th century is up there at the top. There are a ton of lessons to be learned from 163 year old public works projects in building software today.
+  - title: EmberConf MiniTalks
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Leah Silber
+        twitter: wifelette
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Ember Between Design and Development
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Lisa Gringl
+        twitter: kringal
+        github:
+        website:
+      - name: Francesco Novy
+        twitter: _fnovy
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mIpwlxdqLcU
+    description: |-
+      The bigger a project gets, the more important communication and consistency across the whole team becomes. In order to achieve this, it is critical to establish an integrated workflow with all team members. In this talk, a designer and a developer who worked together on various Ember projects will present an effective way of handling these challenges. Three levels of documentation will be presented: A living styleguide for designers, a component guide for designers & developers and a JavaScript documentation for developers.
+
+  - title: Closing Keynote" Reversing the River"
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-30
+    room:
+    authors:
+      - name: Oren Teich
+        twitter: kringalteich
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/EZT9ndgOE6U
+    description: |-
+      There have been some amazing, audacious public projects. Chicago in the second half of the 19th century is up there at the top. There are a ton of lessons to be learned from 163 year old public works projects in building software today.

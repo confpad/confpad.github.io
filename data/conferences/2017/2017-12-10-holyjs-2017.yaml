@@ -1,492 +1,508 @@
-- title: The Post JavaScript Apocalypse
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-10
-  room:
-  authors:
-    - name: Douglas Crockford
-      twitter:
-      github: douglascrockford
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Njn65eyRM0g
-  description: |-
-    This talk speculates about the next language the after JavaScript, and what to do in the mean time about some of the new features in ES6. There will be an emphasis on simplicity and quality. The web is cluttered and full of errors. Will talk to HBO.
+conference:
 
-- title: Faster Angular applications
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-10
-  room:
-  authors:
-    - name: Minko Gechev
-      twitter: mgechev
-      github:
-      website:
-  slides:
-    - https://downloads.ctfassets.net/nn534z2fqr9f/1oYh7ZdcaQMiq0AumccsaO/a8a49b03f7aabc27a00a5ce45c9e1dfe/minko-gechev-faster-angular-applications.pdf
-  videos:
-    - https://youtu.be/P-OOg9z4OUg
+  name: HolyJS 2017
+  url: https://2017.holyjs-moscow.ru/
+  status: complete
+  date:
+    from: 2017-12-10
+    to: 2017-12-11
+  location:
+    country: Russian Federation
+    city: Moscow
   description: |-
-    This talk speculates about the next language the after JavaScript, and what to do in the mean time about some of the new features in ES6. There will be an emphasis on simplicity and quality. The web is cluttered and full of errors. Will talk to HBO.http://bit.ly/2P4jIYM At one time, shaders turned the world of gaming graphics and became the technology behind all visual effects in computer games. Now they are ready to shake the web. Shaders are small programs in C-like GLSL (OpenGL Shading Language), which allow you to describe the state of vertices (vertex shaders) or pixels (pixel shaders) in the context of OpenGL (or WebGL) using mathematical functions. GLSL is compiled and executed on a GPU with unprecedented HTML / CSS performance. As a rule, shaders are used to develop games and computer graphics, and using them in UI components is unfairly bypassed. This report covers the experience of using GLSL in developing web applications.
+    HolyJS is a specialized conference for JavaScript developers conducted by the JUG.ru Group. More than 600 JS developers gather under one roof to discuss the news of a rapidly developing ecosystem, fresh tools, frameworks, patterns and hundreds of changes with experts from around the world and hear dozens of reports on the frontend and not only. We are talking about backend, and about the desktop.
 
-- title: Architectural etudes" how not to ruin the architecture of your project"
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-10
-  room:
-  authors:
-    - name: Alexey Zolotykh
-      twitter: zolotyh
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/328nas1n9SKa8CkekcISmm/3188f125e9ae120307ec5bae560e1a23/Zolotyh.pdf
-  videos:
-  description: |-
+talks:
 
-- title: Yarn, npm v5 or pnpm - who is cooler?
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-10
-  room:
-  authors:
-    - name: Mikhail Bashurov
-      twitter: SaitoNakamura
-      github: saitonakamura
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/4GcxD9yQnY4sQ6IO8Ge06g/6163c60b2cc5ced1274345f8d6e94fb6/Michael_Bashurov_Yarn_npm_v5_or_pnpm_whats_better.pdf
-  videos:
-    - https://youtu.be/hq-gIihAs5A
-  description: |-
-    One of the main reasons for the popularity of web technologies today is their security and privacy. We do not hesitate to enter our passwords and credit card numbers on the protocol-protected TLS pages, without fear that they will be intercepted by a third party. This is largely due to the simple and reliable RSA protocol, which was proposed as early as the 1970s. But today, this protocol can theoretically be hacked by a new type of computer - a quantum computer. The report will tell you what a quantum computer is and how it can break the entire Internet, how modern browsers will try to prevent such problems, and how we can protect user data right now. It will be about encryption algorithms like SIDH, which cannot be cracked at the moment by a quantum computer, and using them in a browser with WASM. Come, it will be very interesting!
+  - title: The Post JavaScript Apocalypse
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-10
+    room:
+    authors:
+      - name: Douglas Crockford
+        twitter:
+        github: douglascrockford
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Njn65eyRM0g
+    description: |-
+      This talk speculates about the next language the after JavaScript, and what to do in the mean time about some of the new features in ES6. There will be an emphasis on simplicity and quality. The web is cluttered and full of errors. Will talk to HBO.
 
-- title: Security" your application's vulnerabilities"
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-10
-  room:
-  authors:
-    - name: Alexey Bogachuk
-      twitter:
-      github:
-      website:
-  slides:
-    - https://downloads.ctfassets.net/nn534z2fqr9f/28uqyOE0Wo4wooiICwS0Go/4c2d2af039ab5b564fe5feb746f336e2/Aliaksei_Bahachuk_-_Vulnerabilities.pdf
-  videos:
-    - https://youtu.be/2gthjl2Lks4
-  description: |-
-    At one time, shaders turned the world of gaming graphics and became the technology behind all visual effects in computer games. Now they are ready to shake the web. Shaders are small programs in C-like GLSL (OpenGL Shading Language), which allow you to describe the state of vertices (vertex shaders) or pixels (pixel shaders) in the context of OpenGL (or WebGL) using mathematical functions. GLSL is compiled and executed on a GPU with unprecedented HTML / CSS performance. As a rule, shaders are used to develop games and computer graphics, and using them in UI components is unfairly bypassed. This report covers the experience of using GLSL in developing web applications.http://bit.ly/2P4jIYM.In the spring of this year, we decided to conduct an experiment and partially shift the development of the Yandex.Money mobile application to frontenders. To do this, we decided to cross our native applications with screens written in React Native. We’ll tell you what we managed to find out during this experiment and what secrets are hidden in React Native: why sometimes the interfaces work quickly and sometimes they slow down how to put the bundle in the native application and what is the catch in the Android version.
+  - title: Faster Angular applications
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-10
+    room:
+    authors:
+      - name: Minko Gechev
+        twitter: mgechev
+        github:
+        website:
+    slides:
+      - https://downloads.ctfassets.net/nn534z2fqr9f/1oYh7ZdcaQMiq0AumccsaO/a8a49b03f7aabc27a00a5ce45c9e1dfe/minko-gechev-faster-angular-applications.pdf
+    videos:
+      - https://youtu.be/P-OOg9z4OUg
+    description: |-
+      This talk speculates about the next language the after JavaScript, and what to do in the mean time about some of the new features in ES6. There will be an emphasis on simplicity and quality. The web is cluttered and full of errors. Will talk to HBO.http://bit.ly/2P4jIYM At one time, shaders turned the world of gaming graphics and became the technology behind all visual effects in computer games. Now they are ready to shake the web. Shaders are small programs in C-like GLSL (OpenGL Shading Language), which allow you to describe the state of vertices (vertex shaders) or pixels (pixel shaders) in the context of OpenGL (or WebGL) using mathematical functions. GLSL is compiled and executed on a GPU with unprecedented HTML / CSS performance. As a rule, shaders are used to develop games and computer graphics, and using them in UI components is unfairly bypassed. This report covers the experience of using GLSL in developing web applications.
 
-- title: UI components on pixel shaders, we write your first shader
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-10
-  room:
-  authors:
-    - name: Denis Radin
-      twitter: PixelsCommander
-      github:
-      website:
-  slides:
-    - https://downloads.ctfassets.net/nn534z2fqr9f/28uqyOE0Wo4wooiICwS0Go/4c2d2af039ab5b564fe5feb746f336e2/Aliaksei_Bahachuk_-_Vulnerabilities.pdf
-  videos:
-    - https://youtu.be/P-OOg9z4OUg
-  description: |-
-    At one time, shaders turned the world of gaming graphics and became the technology behind all visual effects in computer games. Now they are ready to shake the web. Shaders are small programs in C-like GLSL (OpenGL Shading Language), which allow you to describe the state of vertices (vertex shaders) or pixels (pixel shaders) in the context of OpenGL (or WebGL) using mathematical functions. GLSL is compiled and executed on a GPU with unprecedented HTML / CSS performance. As a rule, shaders are used to develop games and computer graphics, and using them in UI components is unfairly bypassed. This report covers the experience of using GLSL in developing web applications.
+  - title: Architectural etudes" how not to ruin the architecture of your project"
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-10
+    room:
+    authors:
+      - name: Alexey Zolotykh
+        twitter: zolotyh
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/328nas1n9SKa8CkekcISmm/3188f125e9ae120307ec5bae560e1a23/Zolotyh.pdf
+    videos:
+    description: |-
 
-- title: Real-world applications of hash functions
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-10
-  room:
-  authors:
-    - name: Emil Bay
-      twitter: emilbayes
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/sTkWBIUH3Eo
-  description: |-
-    In this talk we will showcase how anyone can take advantage of the properties of hash functions, without knowing the mathematics or implementation details, to build exciting applications that only hash functions allow. We will cover how to build a deduplicating file uploader, document similarity search engine, and combat online voting fraud. All in pure JavaScript, with a sprinkle of WASM for blazing fast performance, and heaps of demos so everyone can follow along.
+  - title: Yarn, npm v5 or pnpm - who is cooler?
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-10
+    room:
+    authors:
+      - name: Mikhail Bashurov
+        twitter: SaitoNakamura
+        github: saitonakamura
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/4GcxD9yQnY4sQ6IO8Ge06g/6163c60b2cc5ced1274345f8d6e94fb6/Michael_Bashurov_Yarn_npm_v5_or_pnpm_whats_better.pdf
+    videos:
+      - https://youtu.be/hq-gIihAs5A
+    description: |-
+      One of the main reasons for the popularity of web technologies today is their security and privacy. We do not hesitate to enter our passwords and credit card numbers on the protocol-protected TLS pages, without fear that they will be intercepted by a third party. This is largely due to the simple and reliable RSA protocol, which was proposed as early as the 1970s. But today, this protocol can theoretically be hacked by a new type of computer - a quantum computer. The report will tell you what a quantum computer is and how it can break the entire Internet, how modern browsers will try to prevent such problems, and how we can protect user data right now. It will be about encryption algorithms like SIDH, which cannot be cracked at the moment by a quantum computer, and using them in a browser with WASM. Come, it will be very interesting!
 
-- title: Headless browsers" what, how and why"
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-10
-  room:
-  authors:
-    - name: Vitaly Slobodin
-      twitter: Vitalliumm
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/kkP0PFeRJdQ
-  description: |-
-    Headless browsers have long been an indispensable tool for developers. With their help, you can test the code, check the quality and compliance of the layout and more. But the problem is that the developers know little about how their tool works and works. We will tell about these tools and how they work.
+  - title: Security" your application's vulnerabilities"
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-10
+    room:
+    authors:
+      - name: Alexey Bogachuk
+        twitter:
+        github:
+        website:
+    slides:
+      - https://downloads.ctfassets.net/nn534z2fqr9f/28uqyOE0Wo4wooiICwS0Go/4c2d2af039ab5b564fe5feb746f336e2/Aliaksei_Bahachuk_-_Vulnerabilities.pdf
+    videos:
+      - https://youtu.be/2gthjl2Lks4
+    description: |-
+      At one time, shaders turned the world of gaming graphics and became the technology behind all visual effects in computer games. Now they are ready to shake the web. Shaders are small programs in C-like GLSL (OpenGL Shading Language), which allow you to describe the state of vertices (vertex shaders) or pixels (pixel shaders) in the context of OpenGL (or WebGL) using mathematical functions. GLSL is compiled and executed on a GPU with unprecedented HTML / CSS performance. As a rule, shaders are used to develop games and computer graphics, and using them in UI components is unfairly bypassed. This report covers the experience of using GLSL in developing web applications.http://bit.ly/2P4jIYM.In the spring of this year, we decided to conduct an experiment and partially shift the development of the Yandex.Money mobile application to frontenders. To do this, we decided to cross our native applications with screens written in React Native. We’ll tell you what we managed to find out during this experiment and what secrets are hidden in React Native: why sometimes the interfaces work quickly and sometimes they slow down how to put the bundle in the native application and what is the catch in the Android version.
 
-- title: HyperDB - a scalable key-value store
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-10
-  room:
-  authors:
-    - name: Mathias Buus Madsen
-      twitter: mafintosh
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: UI components on pixel shaders, we write your first shader
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-10
+    room:
+    authors:
+      - name: Denis Radin
+        twitter: PixelsCommander
+        github:
+        website:
+    slides:
+      - https://downloads.ctfassets.net/nn534z2fqr9f/28uqyOE0Wo4wooiICwS0Go/4c2d2af039ab5b564fe5feb746f336e2/Aliaksei_Bahachuk_-_Vulnerabilities.pdf
+    videos:
+      - https://youtu.be/P-OOg9z4OUg
+    description: |-
+      At one time, shaders turned the world of gaming graphics and became the technology behind all visual effects in computer games. Now they are ready to shake the web. Shaders are small programs in C-like GLSL (OpenGL Shading Language), which allow you to describe the state of vertices (vertex shaders) or pixels (pixel shaders) in the context of OpenGL (or WebGL) using mathematical functions. GLSL is compiled and executed on a GPU with unprecedented HTML / CSS performance. As a rule, shaders are used to develop games and computer graphics, and using them in UI components is unfairly bypassed. This report covers the experience of using GLSL in developing web applications.
 
-- title: How to beat a quantum computer using WebAssembly?
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-10
-  room:
-  authors:
-    - name: Vladimir Dashukevich
-      twitter: life__777
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/4_lVq1-lr8g
-  description: |-
-    One of the main reasons for the popularity of web technologies today is their security and privacy. We do not hesitate to enter our passwords and credit card numbers on the protocol-protected TLS pages, without fear that they will be intercepted by a third party. This is largely due to the simple and reliable RSA protocol, which was proposed as early as the 1970s. But today, this protocol can theoretically be hacked by a new type of computer - a quantum computer. The report will tell you what a quantum computer is and how it can break the entire Internet, how modern browsers will try to prevent such problems, and how we can protect user data right now. It will be about encryption algorithms like SIDH, which cannot be cracked at the moment by a quantum computer, and using them in a browser with WASM. Come, it will be very interesting!
+  - title: Real-world applications of hash functions
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-10
+    room:
+    authors:
+      - name: Emil Bay
+        twitter: emilbayes
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/sTkWBIUH3Eo
+    description: |-
+      In this talk we will showcase how anyone can take advantage of the properties of hash functions, without knowing the mathematics or implementation details, to build exciting applications that only hash functions allow. We will cover how to build a deduplicating file uploader, document similarity search engine, and combat online voting fraud. All in pure JavaScript, with a sprinkle of WASM for blazing fast performance, and heaps of demos so everyone can follow along.
 
-- title: Troubleshooting Node.js Applications Under the Hood
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-10
-  room:
-  authors:
-    - name: Nikolay Matvienko
-      twitter: matvi3nko
-      github: matvi3nko
-      website:
-  slides:
-  videos:
-    - https://youtu.be/_qzFJ2MPVWQ
-  description: |-
-    Since the advent of Node.js, application diagnostics have been improved in several stages, from debugging applications to deep performance analysis. Modern diagnostic tools depend on upgrading versions of the V8 engine. As a result, most tools do not support the latest, faster versions of Node.js. The report describes strategies for using tools such as core dump debuggers, flame graphs, GC and Event Loop tracers, which help in finding and fixing performance problems, production errors, and memory leaks at different levels of analysis.
+  - title: Headless browsers" what, how and why"
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-10
+    room:
+    authors:
+      - name: Vitaly Slobodin
+        twitter: Vitalliumm
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/kkP0PFeRJdQ
+    description: |-
+      Headless browsers have long been an indispensable tool for developers. With their help, you can test the code, check the quality and compliance of the layout and more. But the problem is that the developers know little about how their tool works and works. We will tell about these tools and how they work.
 
-- title: Inter Windows Communication, or How to build a full-featured RPC in the browser
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-10
-  room:
-  authors:
-    - name: Michael Udalov
-      twitter:
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/2xgcdLIDG4WWWy0ai4ySyO/e8ddb12c228eae67c1b6c9ef267a351b/Udalov_HolyJS_v3.pdf
-  videos:
-  description: |-
+  - title: HyperDB - a scalable key-value store
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-10
+    room:
+    authors:
+      - name: Mathias Buus Madsen
+        twitter: mafintosh
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Testing serverless applications
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-10
-  room:
-  authors:
-    - name: Slobodan Stojanovic
-      twitter: slobodan_
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: How to beat a quantum computer using WebAssembly?
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-10
+    room:
+    authors:
+      - name: Vladimir Dashukevich
+        twitter: life__777
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4_lVq1-lr8g
+    description: |-
+      One of the main reasons for the popularity of web technologies today is their security and privacy. We do not hesitate to enter our passwords and credit card numbers on the protocol-protected TLS pages, without fear that they will be intercepted by a third party. This is largely due to the simple and reliable RSA protocol, which was proposed as early as the 1970s. But today, this protocol can theoretically be hacked by a new type of computer - a quantum computer. The report will tell you what a quantum computer is and how it can break the entire Internet, how modern browsers will try to prevent such problems, and how we can protect user data right now. It will be about encryption algorithms like SIDH, which cannot be cracked at the moment by a quantum computer, and using them in a browser with WASM. Come, it will be very interesting!
 
-- title: New Adventures in Responsive Web Design
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-10
-  room:
-  authors:
-    - name: Vitaly Friedman
-      twitter: vitalyf
-      github:
-      website:
-  slides:
-    - https://downloads.ctfassets.net/nn534z2fqr9f/1xNCNjP5xm2i4QAUeiOCuE/1ea6008676818ad1afbe8c0e281796ed/vitaly-friedman-new-adventures-in-responsive-design.pdf
-  videos:
-    - https://youtu.be/rgHLV2fe-2I
-  description: |-
-    With HTTP/2, Service Workers, Responsive Images, Flexbox, SVG and Font Loading API now available in browsers, we all are still trying to figure out just the right strategy for designing and buildings responsive websites just in time. We want to use all of these technologies, but how can we use them efficiently, and how do we achieve it within a reasonable amount of time? In this talk, Vitaly Friedman, editor-in-chief of Smashing Magazine, will be looking into a strategy for crafting fast, resilient and flexible responsive design systems by utilizing all of those wonderful shiny web technologies we have available today. We'll also talk about dealing with legacy browsers and will cover a few dirty little techniques that might ensure that your responsive websites will stay relevant, flexible and accessible in the years to come.
+  - title: Troubleshooting Node.js Applications Under the Hood
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-10
+    room:
+    authors:
+      - name: Nikolay Matvienko
+        twitter: matvi3nko
+        github: matvi3nko
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_qzFJ2MPVWQ
+    description: |-
+      Since the advent of Node.js, application diagnostics have been improved in several stages, from debugging applications to deep performance analysis. Modern diagnostic tools depend on upgrading versions of the V8 engine. As a result, most tools do not support the latest, faster versions of Node.js. The report describes strategies for using tools such as core dump debuggers, flame graphs, GC and Event Loop tracers, which help in finding and fixing performance problems, production errors, and memory leaks at different levels of analysis.
 
-- title: You don't know node
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-11
-  room:
-  authors:
-    - name: Azat Mardan
-      twitter:
-      github:
-      website:
-  slides:
-    - https://downloads.ctfassets.net/nn534z2fqr9f/eyLFJRfVAcUiYsOQGygo4/cae154ec898cf60ebf09554be4132985/Azat_Mardan__You_Don_t_Know_Node__Version_2.pdf
-  videos:
-  description: |-
+  - title: Inter Windows Communication, or How to build a full-featured RPC in the browser
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-10
+    room:
+    authors:
+      - name: Michael Udalov
+        twitter:
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/2xgcdLIDG4WWWy0ai4ySyO/e8ddb12c228eae67c1b6c9ef267a351b/Udalov_HolyJS_v3.pdf
+    videos:
+    description: |-
 
-- title: TypeScript, or Why is it so difficult
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-11
-  room:
-  authors:
-    - name: Anton Lobov
-      twitter: zhuravlik26
-      github:
-      website:
-  slides:
-    - https://downloads.ctfassets.net/nn534z2fqr9f/6GXN8QUDq8i0UKqqOOEIug/680e937f96133dc75d41c3a202b63ab9/Anton_Lobov_TypeScript_why_so_complicated_upd.pdf
-  videos:
-  description: |-
+  - title: Testing serverless applications
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-10
+    room:
+    authors:
+      - name: Slobodan Stojanovic
+        twitter: slobodan_
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Fatal Node.js flaw
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-11
-  room:
-  authors:
-    - name: Alexey Okhrimenko
-      twitter: Ai_boy
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Lrs6puJ4G2Q
-  description: |-
-    Node.js has a fatal flaw (not the one you thought about). Fasten your seat belts, for we will try to correct this deficiency.
+  - title: New Adventures in Responsive Web Design
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-10
+    room:
+    authors:
+      - name: Vitaly Friedman
+        twitter: vitalyf
+        github:
+        website:
+    slides:
+      - https://downloads.ctfassets.net/nn534z2fqr9f/1xNCNjP5xm2i4QAUeiOCuE/1ea6008676818ad1afbe8c0e281796ed/vitaly-friedman-new-adventures-in-responsive-design.pdf
+    videos:
+      - https://youtu.be/rgHLV2fe-2I
+    description: |-
+      With HTTP/2, Service Workers, Responsive Images, Flexbox, SVG and Font Loading API now available in browsers, we all are still trying to figure out just the right strategy for designing and buildings responsive websites just in time. We want to use all of these technologies, but how can we use them efficiently, and how do we achieve it within a reasonable amount of time? In this talk, Vitaly Friedman, editor-in-chief of Smashing Magazine, will be looking into a strategy for crafting fast, resilient and flexible responsive design systems by utilizing all of those wonderful shiny web technologies we have available today. We'll also talk about dealing with legacy browsers and will cover a few dirty little techniques that might ensure that your responsive websites will stay relevant, flexible and accessible in the years to come.
 
-- title: Big Bang Redesign" Smashing Magazine's 2017 Relaunch, a Case Study"
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-11
-  room:
-  authors:
-    - name: Vitaly Friedman
-      twitter: vitalyf
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/rgHLV2fe-2I
-  description: |-
-    With HTTP/2, Service Workers, Responsive Images, Flexbox, SVG and Font Loading API now available in browsers, we all are still trying to figure out just the right strategy for designing and buildings responsive websites just in time. We want to use all of these technologies, but how can we use them efficiently, and how do we achieve it within a reasonable amount of time? In this talk, Vitaly Friedman, editor-in-chief of Smashing Magazine, will be looking into a strategy for crafting fast, resilient and flexible responsive design systems by utilizing all of those wonderful shiny web technologies we have available today. We'll also talk about dealing with legacy browsers and will cover a few dirty little techniques that might ensure that your responsive websites will stay relevant, flexible and accessible in the years to come.
+  - title: You don't know node
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-11
+    room:
+    authors:
+      - name: Azat Mardan
+        twitter:
+        github:
+        website:
+    slides:
+      - https://downloads.ctfassets.net/nn534z2fqr9f/eyLFJRfVAcUiYsOQGygo4/cae154ec898cf60ebf09554be4132985/Azat_Mardan__You_Don_t_Know_Node__Version_2.pdf
+    videos:
+    description: |-
 
-- title: Managing Asynchronicity with RQ
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-11
-  room:
-  authors:
-    - name: Douglas crockford
-      twitter:
-      github: douglascrockford
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Njn65eyRM0g
-  description: |-
-    This talk speculates about the next language the after JavaScript, and what to do in the mean time about some of the new features in ES6. There will be an emphasis on simplicity and quality. The web is cluttered and full of errors. Will talk to HBO.
+  - title: TypeScript, or Why is it so difficult
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-11
+    room:
+    authors:
+      - name: Anton Lobov
+        twitter: zhuravlik26
+        github:
+        website:
+    slides:
+      - https://downloads.ctfassets.net/nn534z2fqr9f/6GXN8QUDq8i0UKqqOOEIug/680e937f96133dc75d41c3a202b63ab9/Anton_Lobov_TypeScript_why_so_complicated_upd.pdf
+    videos:
+    description: |-
 
-- title: The game "Heroes of Might and Magic in the browser long, difficult and unbearably interesting"
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-11
-  room:
-  authors:
-    - name: Alexander Korotaev
-      twitter:
-      github:
-      website:
-  slides:
-    - http://lekzd.ru/holyHeroes/
-  videos:
-    - https://youtu.be/9Ep-1GTQ2hQ
-  description: |-
-    The history of the formation of a programmer through the development of a "dream game". This report will open the window to the world of fans of their business and point the way to the development of large games in the browser. Personal experience of the war with performance and the search for the right path, solutions to pressing problems and incredible discoveries in the world of JS. The report discusses useful case studies of the JS game developer: techniques for efficient data storage, drawing the UI on the Canvas, and ways to approach the parsing of binary files.
+  - title: Fatal Node.js flaw
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-11
+    room:
+    authors:
+      - name: Alexey Okhrimenko
+        twitter: Ai_boy
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Lrs6puJ4G2Q
+    description: |-
+      Node.js has a fatal flaw (not the one you thought about). Fasten your seat belts, for we will try to correct this deficiency.
 
-- title: How many frontenders do you need to write a mobile app?
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-11
-  room:
-  authors:
-    - name: Andrey Melikhov
-      twitter: amel_true
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/1WCKJVqYeMakkUEKqwYEgu/0510ae7d09caf1e70e377e44642f8be5/Andrey_Melikhov_How_many_front-end_developers_does_it_take_to_create_a_mobile_app.pdf
-  videos:
-    - https://youtu.be/lYnk7nxEeOk
-  description: |-
-    In the spring of this year, we decided to conduct an experiment and partially shift the development of the Yandex.Money mobile application to frontenders. To do this, we decided to cross our native applications with screens written in React Native. We’ll tell you what we managed to find out during this experiment and what secrets are hidden in React Native: why sometimes the interfaces work quickly and sometimes they slow down how to put the bundle in the native application and what is the catch in the Android version.
+  - title: Big Bang Redesign" Smashing Magazine's 2017 Relaunch, a Case Study"
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-11
+    room:
+    authors:
+      - name: Vitaly Friedman
+        twitter: vitalyf
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/rgHLV2fe-2I
+    description: |-
+      With HTTP/2, Service Workers, Responsive Images, Flexbox, SVG and Font Loading API now available in browsers, we all are still trying to figure out just the right strategy for designing and buildings responsive websites just in time. We want to use all of these technologies, but how can we use them efficiently, and how do we achieve it within a reasonable amount of time? In this talk, Vitaly Friedman, editor-in-chief of Smashing Magazine, will be looking into a strategy for crafting fast, resilient and flexible responsive design systems by utilizing all of those wonderful shiny web technologies we have available today. We'll also talk about dealing with legacy browsers and will cover a few dirty little techniques that might ensure that your responsive websites will stay relevant, flexible and accessible in the years to come.
 
-- title: GraphQL - we conclude a profitable contract between the server and the client
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-11
-  room:
-  authors:
-    - name: Pavel Chertorogov
-      twitter: nodkz
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/5zTslHVxlY6e2wAkMQMceS/d4024a20ab5cea77a9198d5d520ef970/Pavel_Chertorogov_GraphQL_the_holy_contract-between_client_and_server_v11.pdf
-  videos:
-    - https://youtu.be/F4vHSHzpO1g
-  description: |-
-    GraphQL replaces the REST API. What is GraphQL and what are the main parts of it. How do back-tenders describe the capabilities of their server, and front-end vendors declare their data needs? We will touch on the topic of static analysis of GraphQL queries on the client and how it allows you to track errors and changes in the API. Let's go through the main problems of building and generating a GraphQL scheme on the backend.
+  - title: Managing Asynchronicity with RQ
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-11
+    room:
+    authors:
+      - name: Douglas crockford
+        twitter:
+        github: douglascrockford
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Njn65eyRM0g
+    description: |-
+      This talk speculates about the next language the after JavaScript, and what to do in the mean time about some of the new features in ES6. There will be an emphasis on simplicity and quality. The web is cluttered and full of errors. Will talk to HBO.
 
-- title: Bending time with Schedulers and RxJS 5
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-11
-  room:
-  authors:
-    - name: Gerard Sans
-      twitter: gerardsans
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/AL8dG1tuH40
-  description: |-
-    Observables have been very popular because of their many qualities: asynchronous processing, composition, performance, powerful operators. But usually there's a less covered feature that lies beneath. That is: Schedulers. In this talk we are going to cover Schedulers in depth, going from the basic APIs to more obscure features to bend time to our will!
+  - title: The game "Heroes of Might and Magic in the browser long, difficult and unbearably interesting"
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-11
+    room:
+    authors:
+      - name: Alexander Korotaev
+        twitter:
+        github:
+        website:
+    slides:
+      - http://lekzd.ru/holyHeroes/
+    videos:
+      - https://youtu.be/9Ep-1GTQ2hQ
+    description: |-
+      The history of the formation of a programmer through the development of a "dream game". This report will open the window to the world of fans of their business and point the way to the development of large games in the browser. Personal experience of the war with performance and the search for the right path, solutions to pressing problems and incredible discoveries in the world of JS. The report discusses useful case studies of the JS game developer: techniques for efficient data storage, drawing the UI on the Canvas, and ways to approach the parsing of binary files.
 
-- title: (--We steal--) Get data from the Internet
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-11
-  room:
-  authors:
-    - name: Egor Malkevich
-      twitter: wegorelax
-      github: wegorich
-      website:
-  slides:
-    - https://downloads.ctfassets.net/nn534z2fqr9f/2HZJwOFN1KcWaKE8MYcm86/5fb66d24428853dc89614bdd2fccd55d/egor-presentation-one.pdf
-  videos:
-    - https://youtu.be/Nn75sRAOlIY
-  description: |-
-    This report is an incredible tour of the depths of the Internet in search of data. Egor will tell you about the easiest ways to steal data from the site, as well as the most complex and highly obscure at first glance. The report will be interesting to those who would like to make a useful application, but constantly postponed this task for later. That's because getting data from the internet is great!
+  - title: How many frontenders do you need to write a mobile app?
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-11
+    room:
+    authors:
+      - name: Andrey Melikhov
+        twitter: amel_true
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/1WCKJVqYeMakkUEKqwYEgu/0510ae7d09caf1e70e377e44642f8be5/Andrey_Melikhov_How_many_front-end_developers_does_it_take_to_create_a_mobile_app.pdf
+    videos:
+      - https://youtu.be/lYnk7nxEeOk
+    description: |-
+      In the spring of this year, we decided to conduct an experiment and partially shift the development of the Yandex.Money mobile application to frontenders. To do this, we decided to cross our native applications with screens written in React Native. We’ll tell you what we managed to find out during this experiment and what secrets are hidden in React Native: why sometimes the interfaces work quickly and sometimes they slow down how to put the bundle in the native application and what is the catch in the Android version.
 
-- title: Unit testing with screenshots" breaking the sound barrier"
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-11
-  room:
-  authors:
-    - name: Roman Dvornov
-      twitter: rdvornov
-      github:
-      website:
-  slides:
-    - https://assets.ctfassets.net/nn534z2fqr9f/Eh5ZljJm48kwmU2CAQ86A/d359c0bf649f52dff71d16069f97b022/Roman_Dvornov_-_Blazing_fast_unit-testing_with_screenshots.pdf
-  videos:
-    - https://youtu.be/ULwdj_Vr_WA
-  description: |-
-    It is fashionable to test the layout recourse with screenshots, this will not surprise anyone. We have long wanted to introduce this type of testing at home. All the while confused questions of ease of support and application, but to a greater extent the question of the bandwidth of solutions (performance). I wanted a solution that is easy to use and quick to use. Ready solutions did not fit, and we undertook to make our own. In the report we will tell you what came of it, what tasks were solved and how we achieved that screening testing practically did not affect the total time for passing the tests.
+  - title: GraphQL - we conclude a profitable contract between the server and the client
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-11
+    room:
+    authors:
+      - name: Pavel Chertorogov
+        twitter: nodkz
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/5zTslHVxlY6e2wAkMQMceS/d4024a20ab5cea77a9198d5d520ef970/Pavel_Chertorogov_GraphQL_the_holy_contract-between_client_and_server_v11.pdf
+    videos:
+      - https://youtu.be/F4vHSHzpO1g
+    description: |-
+      GraphQL replaces the REST API. What is GraphQL and what are the main parts of it. How do back-tenders describe the capabilities of their server, and front-end vendors declare their data needs? We will touch on the topic of static analysis of GraphQL queries on the client and how it allows you to track errors and changes in the API. Let's go through the main problems of building and generating a GraphQL scheme on the backend.
 
-- title: Round table - JS everywhere silver bullet or curse?
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-11
-  room:
-  authors:
-    - name: Andrey Melikhov
-      twitter: amel_true
-      github:
-      website:
-    - name: Denis Mishunov
-      twitter:
-      github:
-      website:
-    - name: Nikolay Matvienko
-      twitter: matvi3nko
-      github: matvi3nko
-      website:
-    - name: Nikolay Matvienko
-      twitter: matvi3nko
-      github: matvi3nko
-      website:
-    - name: Vladimir Dashukevich
-      twitter: life__777
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: Bending time with Schedulers and RxJS 5
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-11
+    room:
+    authors:
+      - name: Gerard Sans
+        twitter: gerardsans
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/AL8dG1tuH40
+    description: |-
+      Observables have been very popular because of their many qualities: asynchronous processing, composition, performance, powerful operators. But usually there's a less covered feature that lies beneath. That is: Schedulers. In this talk we are going to cover Schedulers in depth, going from the basic APIs to more obscure features to bend time to our will!
 
-- title: Animations in the world of states
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-11
-  room:
-  authors:
-    - name: Alexey Taktarov
-      twitter: mlfrg
-      github:
-      website:
-  slides:
-    - https://molefrog.github.io/stateful-animations/
-  videos:
-    - https://youtu.be/Ug_dwJa07Os
-  description: |-
-    We have already learned how to build clean interfaces and write “undo-redo” in a few lines. But what about animation? They are often bypassed, and they do not always fit into the (state) DOM approach. There are great solutions like React Motion, but what if you need to do complex animations or work with Canvas using the physics engine? In his report, Alexey will tell how he works with animations in React-applications, compares several approaches (D3, React-Motion, “dirty components”) and will illustrate this with many interactive demos. Also tells how he "launches" animations in Redux-applications. This report is a part of the research, the purpose of which is to arrive at a pure and declarative way of defining animations in React applications.
+  - title: (--We steal--) Get data from the Internet
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-11
+    room:
+    authors:
+      - name: Egor Malkevich
+        twitter: wegorelax
+        github: wegorich
+        website:
+    slides:
+      - https://downloads.ctfassets.net/nn534z2fqr9f/2HZJwOFN1KcWaKE8MYcm86/5fb66d24428853dc89614bdd2fccd55d/egor-presentation-one.pdf
+    videos:
+      - https://youtu.be/Nn75sRAOlIY
+    description: |-
+      This report is an incredible tour of the depths of the Internet in search of data. Egor will tell you about the easiest ways to steal data from the site, as well as the most complex and highly obscure at first glance. The report will be interesting to those who would like to make a useful application, but constantly postponed this task for later. That's because getting data from the internet is great!
 
-- title: / Reg (exp) {2} lained / Demystifying Regular Expressions
-  lang: en
-  type: regular
-  level:
-  time: 2017-12-11
-  room:
-  authors:
-    - name: Lea verou
-      twitter: LeaVerou
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/M7vDtxaD7ZU
-  description: |-
-    Quick, what does this do: /(\/*?\/)|\/\/.*?(\r?\n|$)/g? If you're like many developers, you just averted your eyes, and your heart is now in your throat. Symptoms included sweaty palms and recurring nightmares with blood-thirsty ASCII symbols. But don't worry, this condition doesn't have to be chronic. A cure is right around the corner.As with many developers, you're familiar with the power of regular expressions, but anything beyond the basics scares the crap out of you. Fear no more young padawan! In this talk, we'll start with the basics and progressively enhance your knowledge until you're coding regular expressions like a champ. Everything will be demonstrated live with visual examples that ensure maximum comprehension.
+  - title: Unit testing with screenshots" breaking the sound barrier"
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-11
+    room:
+    authors:
+      - name: Roman Dvornov
+        twitter: rdvornov
+        github:
+        website:
+    slides:
+      - https://assets.ctfassets.net/nn534z2fqr9f/Eh5ZljJm48kwmU2CAQ86A/d359c0bf649f52dff71d16069f97b022/Roman_Dvornov_-_Blazing_fast_unit-testing_with_screenshots.pdf
+    videos:
+      - https://youtu.be/ULwdj_Vr_WA
+    description: |-
+      It is fashionable to test the layout recourse with screenshots, this will not surprise anyone. We have long wanted to introduce this type of testing at home. All the while confused questions of ease of support and application, but to a greater extent the question of the bandwidth of solutions (performance). I wanted a solution that is easy to use and quick to use. Ready solutions did not fit, and we undertook to make our own. In the report we will tell you what came of it, what tasks were solved and how we achieved that screening testing practically did not affect the total time for passing the tests.
+
+  - title: Round table - JS everywhere silver bullet or curse?
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-11
+    room:
+    authors:
+      - name: Andrey Melikhov
+        twitter: amel_true
+        github:
+        website:
+      - name: Denis Mishunov
+        twitter:
+        github:
+        website:
+      - name: Nikolay Matvienko
+        twitter: matvi3nko
+        github: matvi3nko
+        website:
+      - name: Nikolay Matvienko
+        twitter: matvi3nko
+        github: matvi3nko
+        website:
+      - name: Vladimir Dashukevich
+        twitter: life__777
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Animations in the world of states
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-11
+    room:
+    authors:
+      - name: Alexey Taktarov
+        twitter: mlfrg
+        github:
+        website:
+    slides:
+      - https://molefrog.github.io/stateful-animations/
+    videos:
+      - https://youtu.be/Ug_dwJa07Os
+    description: |-
+      We have already learned how to build clean interfaces and write “undo-redo” in a few lines. But what about animation? They are often bypassed, and they do not always fit into the (state) DOM approach. There are great solutions like React Motion, but what if you need to do complex animations or work with Canvas using the physics engine? In his report, Alexey will tell how he works with animations in React-applications, compares several approaches (D3, React-Motion, “dirty components”) and will illustrate this with many interactive demos. Also tells how he "launches" animations in Redux-applications. This report is a part of the research, the purpose of which is to arrive at a pure and declarative way of defining animations in React applications.
+
+  - title: / Reg (exp) {2} lained / Demystifying Regular Expressions
+    lang: en
+    type: regular
+    level:
+    time: 2017-12-11
+    room:
+    authors:
+      - name: Lea verou
+        twitter: LeaVerou
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/M7vDtxaD7ZU
+    description: |-
+      Quick, what does this do: /(\/*?\/)|\/\/.*?(\r?\n|$)/g? If you're like many developers, you just averted your eyes, and your heart is now in your throat. Symptoms included sweaty palms and recurring nightmares with blood-thirsty ASCII symbols. But don't worry, this condition doesn't have to be chronic. A cure is right around the corner.As with many developers, you're familiar with the power of regular expressions, but anything beyond the basics scares the crap out of you. Fear no more young padawan! In this talk, we'll start with the basics and progressively enhance your knowledge until you're coding regular expressions like a champ. Everything will be demonstrated live with visual examples that ensure maximum comprehension.

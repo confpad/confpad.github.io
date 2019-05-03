@@ -1,360 +1,376 @@
-- title: V8 INTERNALS FOR JS DEVELOPERS
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-27
-  room:
-  authors:
-    - name: Mathias Bynens
-      twitter: mathias
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/HULaOA5oJMY
-  description: |-
-    This presentation takes you on an adventure outside of the “JavaScript developer” comfort zone and explains how some parts of V8 work internally. Understanding the basics of JavaScript engine internals offers deep insights into how code gets executed and optimized, allowing us to more easily identify performance pitfalls in our scripts.
+conference:
 
-- title: JS IN STRANGE PLACES
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-27
-  room:
-  authors:
-    - name: Kassandra Perch
-      twitter: nodebotanist
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/nSMIAIVmxhM
+  name: NodeConf Argentina 2017
+  url: https://2017.nodeconf.com.ar/
+  status: complete
+  date:
+    from: 2017-10-26
+    to: 2017-10-28
+  location:
+    country: Argentina
+    city: Buenos Aires
   description: |-
-    JS, and, stands to reason, Node, are starting to turn up in places we didn't think possible as little as 3 years ago. From small JS engines running on tiny microcontrollers, to technologies moving to embrace the web, we'll take a look at the odd nooks and crannies that JS has worked its way into, and discuss what this means for the future of Node.
+    Argentina is among the first international Node.js conferences taking place in Latin American territory, and a not-for-profit community effort to push Node.js forward in Argentina and Latin America as a whole. This year’s conference will be a three–day event in sunny Buenos Aires, Argentina, held during October 26th, 27th & 28th. Both action-packed days will be comprised of internationally acclaimed, regional, and local speakers. We are expecting Noders, JavaScripters, front-enders, and other programmers from all over the world. Our topmost concern is to guarantee the most enjoyable experience to our attendees, while providing a safe and welcoming environment for everyone.
 
-- title: THE NYC SPACE/TIME DIRECTORY
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-27
-  room:
-  authors:
-    - name: Bert Spaan
-      twitter: bertspaan
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/xBenesIG0wE
-  description: |-
-    The NYC Space/Time Directory is a project of The New York Public Library which turns historical maps, street photos, city directories and other geographic sources from the Library's collection into a digital time-travel service for New York City. How did my street look in the 1920s? Who lived on 150 Bowery in 1850? Are there maps of Long Island City in 1900? The NYC Space/Time Directory will make answering questions like this easier, using open data, search APIs, data visualizations, and crowdsourcing tools.
+talks:
 
-- title: “THERE IS NO SPOON” - BUILDING VR EXPERIENCES IN THE BROWSER (WITH JS)
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-27
-  room:
-  authors:
-    - name: Felipe Torres
-      twitter: fforres
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/wvQRymHxYqE
-  description: |-
-    Virtual reality enables the creation of powerful immersive experiences for games, environments, and content display, but the expensive headsets and complicated frameworks needed to create, distribute, and access VR are anything but appealing to the web developer —or the masses—. But worry not, for JavaScript comes to the rescue!! WebVR is the developing open standard that makes it possible to create and experience VR using just a browser. Its goal, to make VR experiences accessible for everyone, regardless of which device they might have. All that’s required is a cell phone (or headset), a browser, and JavaScript. In this talk, we'll go through the state of WebVR, its current and future plans, technical support, and show a few entertaining use cases. We will introduce A-frame as a declarative, entity-component based framework for creating awesome and compelling experiences with JS, and finish by demoing a couple of interactive WebVR experiences for the audience to participate in.
+  - title: V8 INTERNALS FOR JS DEVELOPERS
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-27
+    room:
+    authors:
+      - name: Mathias Bynens
+        twitter: mathias
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/HULaOA5oJMY
+    description: |-
+      This presentation takes you on an adventure outside of the “JavaScript developer” comfort zone and explains how some parts of V8 work internally. Understanding the basics of JavaScript engine internals offers deep insights into how code gets executed and optimized, allowing us to more easily identify performance pitfalls in our scripts.
 
-- title: DATA STORED EVERYWHERE AND NOWHERE - BUILDING APPLICATIONS ON THE DISTRIBUTED WEB
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-27
-  room:
-  authors:
-    - name: Karissa McKelvey
-      twitter: okdistribute
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/NcHzbwcFr6k
-  description: |-
-    In the past few years, peer-to-peer distributed infrastructure has become more viable in Node.js. WebTorrent, for example, opened up the possibility for streaming BitTorrent files in the browser, where every person who watched a video would be contributing a piece of their bandwidth to improve speed for everyone else watching the video. However, this kind of technology goes far beyond streaming videos. In this talk, I introduce Dat, a peer-to-peer data sharing protocol that updates data over time. This means that we can build websites, applications, and collaborate on documents in a way that is resilient against censorship and Internet shutdown. Audience members will be able to understand the Dat protocol, how it works, and how to build a website using Dat.
+  - title: JS IN STRANGE PLACES
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-27
+    room:
+    authors:
+      - name: Kassandra Perch
+        twitter: nodebotanist
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/nSMIAIVmxhM
+    description: |-
+      JS, and, stands to reason, Node, are starting to turn up in places we didn't think possible as little as 3 years ago. From small JS engines running on tiny microcontrollers, to technologies moving to embrace the web, we'll take a look at the odd nooks and crannies that JS has worked its way into, and discuss what this means for the future of Node.
 
-- title: KEEPING YOUR STACK FRESH WITH AOT
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-27
-  room:
-  authors:
-    - name: Daniel Gimenez
-      twitter: idanielgimenez
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/OkJLTOOZ9vM
-  description: |-
-    When developing long lasting software products, keeping the tech stack aligned with the latest paradigms is often a great challenge that may require large costs. In this talk, I'll show real-life examples where some of the most recent technologies were adopted without rewriting code. We'll look at how HATEOAS APIs allow for automatic generation of a GraphQL server, which in turn enables more Autogeneration of Things.
+  - title: THE NYC SPACE/TIME DIRECTORY
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-27
+    room:
+    authors:
+      - name: Bert Spaan
+        twitter: bertspaan
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xBenesIG0wE
+    description: |-
+      The NYC Space/Time Directory is a project of The New York Public Library which turns historical maps, street photos, city directories and other geographic sources from the Library's collection into a digital time-travel service for New York City. How did my street look in the 1920s? Who lived on 150 Bowery in 1850? Are there maps of Long Island City in 1900? The NYC Space/Time Directory will make answering questions like this easier, using open data, search APIs, data visualizations, and crowdsourcing tools.
 
-- title: AST A LA VISTA, BABY
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-27
-  room:
-  authors:
-    - name: Leonardo Crespo
-      twitter: leogcrespo
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/mbbZ3LktluE
-  description: |-
-    Tools like Babel, ESlint, JScodeshift, Prettier all seem to work magically for us. Since they relate to subjects such as "compilers" and "parsers", we never even dare to look inside and understand what they do. How do they work? We'll see the fundamental piece of the puzzle, the Abstract Syntax Tree, or AST. What it is, what it is for, and how can we use it to ease our work and make us more productive while keeping our code optimized, or even do crazy things we never thought of. After this talk you'll no longer be afraid of the AST, and you'll know enough to go and write your own plugins!
+  - title: “THERE IS NO SPOON” - BUILDING VR EXPERIENCES IN THE BROWSER (WITH JS)
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-27
+    room:
+    authors:
+      - name: Felipe Torres
+        twitter: fforres
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/wvQRymHxYqE
+    description: |-
+      Virtual reality enables the creation of powerful immersive experiences for games, environments, and content display, but the expensive headsets and complicated frameworks needed to create, distribute, and access VR are anything but appealing to the web developer —or the masses—. But worry not, for JavaScript comes to the rescue!! WebVR is the developing open standard that makes it possible to create and experience VR using just a browser. Its goal, to make VR experiences accessible for everyone, regardless of which device they might have. All that’s required is a cell phone (or headset), a browser, and JavaScript. In this talk, we'll go through the state of WebVR, its current and future plans, technical support, and show a few entertaining use cases. We will introduce A-frame as a declarative, entity-component based framework for creating awesome and compelling experiences with JS, and finish by demoing a couple of interactive WebVR experiences for the audience to participate in.
 
-- title: NODE.JS & BLOCKCHAIN
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-27
-  room:
-  authors:
-    - name: Julian Duque
-      twitter: julian_duque
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/iq48GcfBqGE
-  description: |-
-    Blockchain is becoming a very relevant technology, some people say it is the future, or even, the new web (Web 3.0). In this talk we are going to have an Introduction to Blockchain.
+  - title: DATA STORED EVERYWHERE AND NOWHERE - BUILDING APPLICATIONS ON THE DISTRIBUTED WEB
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-27
+    room:
+    authors:
+      - name: Karissa McKelvey
+        twitter: okdistribute
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/NcHzbwcFr6k
+    description: |-
+      In the past few years, peer-to-peer distributed infrastructure has become more viable in Node.js. WebTorrent, for example, opened up the possibility for streaming BitTorrent files in the browser, where every person who watched a video would be contributing a piece of their bandwidth to improve speed for everyone else watching the video. However, this kind of technology goes far beyond streaming videos. In this talk, I introduce Dat, a peer-to-peer data sharing protocol that updates data over time. This means that we can build websites, applications, and collaborate on documents in a way that is resilient against censorship and Internet shutdown. Audience members will be able to understand the Dat protocol, how it works, and how to build a website using Dat.
 
-- title: AFTER YEARS OF NODE IN PRODUCTION, WE STILL BLOCK THE EVENT LOOP
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-27
-  room:
-  authors:
-    - name: Yamil Asusta
-      twitter: Yamil Asusta
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/jkKH0HUnAis
-  description: |-
-    You constantly read 'you shouldn't block the event loop' around the node community. How do you know if/when it's blocked? Can you assess the impact of a block spike? Understanding how every operation affects the event loop marks the difference in the reliability and the performance of any application. We will look at finding and solving not-so-obvious examples such database queries, memory leaks, GC pauses, 3rd party modules.
+  - title: KEEPING YOUR STACK FRESH WITH AOT
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-27
+    room:
+    authors:
+      - name: Daniel Gimenez
+        twitter: idanielgimenez
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OkJLTOOZ9vM
+    description: |-
+      When developing long lasting software products, keeping the tech stack aligned with the latest paradigms is often a great challenge that may require large costs. In this talk, I'll show real-life examples where some of the most recent technologies were adopted without rewriting code. We'll look at how HATEOAS APIs allow for automatic generation of a GraphQL server, which in turn enables more Autogeneration of Things.
 
-- title: THE STORY OF NODE-CHAKRACORE
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-28
-  room:
-  authors:
-    - name: Arunesh Chandra
-      twitter: AruneshC
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Bgptx4k2tzc
-  description: |-
-    This session will provide a complete progress update on the Node-ChakraCore project. Also, learn about the story behind this project and how it is growing the Node.js ecosystem and advancing the state of the art in variety of ways, including N-API and cutting edge innovations to improve Node.js diagnostics via Time-Travel Debugging.
+  - title: AST A LA VISTA, BABY
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-27
+    room:
+    authors:
+      - name: Leonardo Crespo
+        twitter: leogcrespo
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mbbZ3LktluE
+    description: |-
+      Tools like Babel, ESlint, JScodeshift, Prettier all seem to work magically for us. Since they relate to subjects such as "compilers" and "parsers", we never even dare to look inside and understand what they do. How do they work? We'll see the fundamental piece of the puzzle, the Abstract Syntax Tree, or AST. What it is, what it is for, and how can we use it to ease our work and make us more productive while keeping our code optimized, or even do crazy things we never thought of. After this talk you'll no longer be afraid of the AST, and you'll know enough to go and write your own plugins!
 
-- title: HOW TO SORT YOUR SOCKS USING JAVASCRIPT
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-28
-  room:
-  authors:
-    - name: Claudia Hernández
-      twitter: koste4
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/qR2gZICTKdA
-  description: |-
-    No matter your experience in JS, you have probably came across the Array#sort method at some point. Do you remember the first time you tried sorting numbers? You were probably astonished that the sort method does not sort things out quite as we might expect. Believe it or not, there is actually much more going on than meets the eye! Let’s get our computer science hat on and explore some useful sorting algorithms currently implemented by JS engines used by Node such as Chrome's V8 and Microsoft's Chakra. As a developer, learning how these algorithms work, why and when to use them will help you create more performant and consistent applications!
+  - title: NODE.JS & BLOCKCHAIN
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-27
+    room:
+    authors:
+      - name: Julian Duque
+        twitter: julian_duque
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/iq48GcfBqGE
+    description: |-
+      Blockchain is becoming a very relevant technology, some people say it is the future, or even, the new web (Web 3.0). In this talk we are going to have an Introduction to Blockchain.
 
-- title: THE LONG ROAD TO ASYNC/AWAIT IN JAVASCRIPT
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-28
-  room:
-  authors:
-    - name: Thomas Hunter II
-      twitter: tlhunter
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/LHozOB1pPlU
-  description: |-
-    This is a comparison of different methods for performing asynchronous control flow in JavaScript, specifically Callbacks, Promises, Generators / Yields (ES2015), and Async / Await (ES2016). We will explore a simple code example as it applies to each of these different "phases" of asynchronous control flow. Finally we'll examine how Async functions are just Promises under the hood and that the two are interoperable.
+  - title: AFTER YEARS OF NODE IN PRODUCTION, WE STILL BLOCK THE EVENT LOOP
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-27
+    room:
+    authors:
+      - name: Yamil Asusta
+        twitter: Yamil Asusta
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/jkKH0HUnAis
+    description: |-
+      You constantly read 'you shouldn't block the event loop' around the node community. How do you know if/when it's blocked? Can you assess the impact of a block spike? Understanding how every operation affects the event loop marks the difference in the reliability and the performance of any application. We will look at finding and solving not-so-obvious examples such database queries, memory leaks, GC pauses, 3rd party modules.
 
-- title: THE UNBEARABLE LIGHTNESS OF NODE MODULES
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-28
-  room:
-  authors:
-    - name: Michelle Garrett
-      twitter: msmichellegar
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/paaUjShgeCA
-  description: |-
-    Being a Node programmer means creeping ever-closer to a state of epic project dependencies. Is it worth letting go of your favourite packages? Michelle road-tested a bunch of lightweight alternatives to popular Node modules so you don’t have to, and built some cute interactive applications along the way. She’ll be sharing strategies for reducing the size of your node_modules directory, and pondering how to evaluate the right package for a project (beyond the number of stars on GitHub).
+  - title: THE STORY OF NODE-CHAKRACORE
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-28
+    room:
+    authors:
+      - name: Arunesh Chandra
+        twitter: AruneshC
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Bgptx4k2tzc
+    description: |-
+      This session will provide a complete progress update on the Node-ChakraCore project. Also, learn about the story behind this project and how it is growing the Node.js ecosystem and advancing the state of the art in variety of ways, including N-API and cutting edge innovations to improve Node.js diagnostics via Time-Travel Debugging.
 
-- title: PACKAGE QUEST
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-27
-  room:
-  authors:
-    - name: Jeff Lembeck
-      twitter: jefflembeck
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/UMzD53l2QvQ
-  description: |-
-    Ever wonder what happens when you `npm install` something? Follow an odyssey across the wires as our hero client embarks on an adventure to bring you the software that you need, right when you ask for it. After this talk you'll have a better understanding of the course a package takes - helping you understand architecture that works at scale as well as being able to troubleshoot package installation problems.
+  - title: HOW TO SORT YOUR SOCKS USING JAVASCRIPT
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-28
+    room:
+    authors:
+      - name: Claudia Hernández
+        twitter: koste4
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qR2gZICTKdA
+    description: |-
+      No matter your experience in JS, you have probably came across the Array#sort method at some point. Do you remember the first time you tried sorting numbers? You were probably astonished that the sort method does not sort things out quite as we might expect. Believe it or not, there is actually much more going on than meets the eye! Let’s get our computer science hat on and explore some useful sorting algorithms currently implemented by JS engines used by Node such as Chrome's V8 and Microsoft's Chakra. As a developer, learning how these algorithms work, why and when to use them will help you create more performant and consistent applications!
 
-- title: '"PARÁ LA PELOTA": HOW YOU CAN GROW WITHOUT GETTING BURNT OUT'
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-28
-  room:
-  authors:
-    - name: Ravi Kolli
-      twitter: raviskolli
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/1XUe_xQ6Ras
-  description: |-
-    "Pará la pelota" in Spanish means "Stop the ball". A common phrase in soccer, signifying to stop and think. With exciting progress in technologies we use, we tackling more and more complex problems everyday as we are racing to change the world. In this rush, often people burn out if they are not careful and it's easy to not realize while it is happening. I will share what I have learnt over years to grow and how you can handle it.
+  - title: THE LONG ROAD TO ASYNC/AWAIT IN JAVASCRIPT
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-28
+    room:
+    authors:
+      - name: Thomas Hunter II
+        twitter: tlhunter
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LHozOB1pPlU
+    description: |-
+      This is a comparison of different methods for performing asynchronous control flow in JavaScript, specifically Callbacks, Promises, Generators / Yields (ES2015), and Async / Await (ES2016). We will explore a simple code example as it applies to each of these different "phases" of asynchronous control flow. Finally we'll examine how Async functions are just Promises under the hood and that the two are interoperable.
 
-- title: 'NPM 5: BRINGING PACKAGE MANAGEMENT TO THE FUTURE'
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-28
-  room:
-  authors:
-    - name: Kat Marchán
-      twitter: maybekatz
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/e1ixcGlQ9Jo
-  description: |-
-    This talk will give an overview of the big changes that came along with the release of version 5 of the npm CLI -- the main package manager for the JavaScript community. Learn about the neat new features, the breaking changes and why they happened, and get a glimpse of the exciting future of JS package management!
+  - title: THE UNBEARABLE LIGHTNESS OF NODE MODULES
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-28
+    room:
+    authors:
+      - name: Michelle Garrett
+        twitter: msmichellegar
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/paaUjShgeCA
+    description: |-
+      Being a Node programmer means creeping ever-closer to a state of epic project dependencies. Is it worth letting go of your favourite packages? Michelle road-tested a bunch of lightweight alternatives to popular Node modules so you don’t have to, and built some cute interactive applications along the way. She’ll be sharing strategies for reducing the size of your node_modules directory, and pondering how to evaluate the right package for a project (beyond the number of stars on GitHub).
 
-- title: EVERYTHING I THOUGHT I KNEW ABOUT THE EVENT LOOP WAS WRONG
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-28
-  room:
-  authors:
-    - name: Daniel Khan
-      twitter: dkhan
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/gl9qHml-mKc
-  description: |-
-    "Node.js is an event-based platform. This means that everything that happens in Node is the reaction to an event. A transaction passing through Node traverses a cascade of callbacks. Abstracted away from the developer, this is all handled by a library called libuv which provides a mechanism called an event loop. This event loop is maybe the most misunderstood concept of the platform, yet understanding it is vital to really grasp what Node.js is all about. In this talk I will cover the learnings from digging into the event loop to get some actionable performance metrics out of it."
+  - title: PACKAGE QUEST
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-27
+    room:
+    authors:
+      - name: Jeff Lembeck
+        twitter: jefflembeck
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/UMzD53l2QvQ
+    description: |-
+      Ever wonder what happens when you `npm install` something? Follow an odyssey across the wires as our hero client embarks on an adventure to bring you the software that you need, right when you ask for it. After this talk you'll have a better understanding of the course a package takes - helping you understand architecture that works at scale as well as being able to troubleshoot package installation problems.
 
-- title: THE ROAD TO NODE
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-28
-  room:
-  authors:
-    - name: Guillermo Paz
-      twitter: pazguille
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/huH_TyPDBpU
-  description: |-
-    En Mercado Libre empezamos a usar Node + React para la construcción de los nuevos frontends. Es por eso que queremos contarte algunas decisiones, vivencias y problemas que surgieron en el camino que tuvimos que atravesar.
+  - title: '"PARÁ LA PELOTA": HOW YOU CAN GROW WITHOUT GETTING BURNT OUT'
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-28
+    room:
+    authors:
+      - name: Ravi Kolli
+        twitter: raviskolli
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1XUe_xQ6Ras
+    description: |-
+      "Pará la pelota" in Spanish means "Stop the ball". A common phrase in soccer, signifying to stop and think. With exciting progress in technologies we use, we tackling more and more complex problems everyday as we are racing to change the world. In this rush, often people burn out if they are not careful and it's easy to not realize while it is happening. I will share what I have learnt over years to grow and how you can handle it.
 
-- title: NODE.JS <=> MACHINE LEARNING
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-28
-  room:
-  authors:
-    - name: Anshul Bhagi
-      twitter: anshulbhagi
-      github:
-      website:
-    - name: Nikhila Ravi
-      twitter: nikhilaravi
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/kytNKngz0yU
-  description: |-
-    Machine Learning (ML) and Artificial Intelligence are becoming ubiquitous in websites, chatbots and mobile apps. While Node.js may not be the language of choice for building and training ML models, it is an excellent option for building the user-facing server layer that brings ML product to life. In this talk learn about the ways that Node and ML can work together whether it’s through running ML models in the browser (using WebAssembly and WebGPU) or writing a node server for an ML chatbot. She’ll show you how to take a pre-trained ML model built on any library (e.g. TensorFlow, Torch) and any language (python, lua), and build and deploy a node server for a Facebook messenger bot that interfaces with the model.
+  - title: 'NPM 5: BRINGING PACKAGE MANAGEMENT TO THE FUTURE'
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-28
+    room:
+    authors:
+      - name: Kat Marchán
+        twitter: maybekatz
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/e1ixcGlQ9Jo
+    description: |-
+      This talk will give an overview of the big changes that came along with the release of version 5 of the npm CLI -- the main package manager for the JavaScript community. Learn about the neat new features, the breaking changes and why they happened, and get a glimpse of the exciting future of JS package management!
 
-- title: NODE.JS ADDONS FOR HIGH PERFORMANCE NUMERIC COMPUTING
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-28
-  room:
-  authors:
-    - name: Athan Reines
-      twitter: kgryte
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/mnvfej28vjk
-  description: |-
-    Node.js add-ons allow native code to be run from the Node.js runtime. In this talk, Athan will discuss how to utilize native add-ons for high performance numeric computing and machine learning in Node.js applications. He will first provide an overview of add-ons and their associated toolchain. Next, he will walk through an example which involves compiling basic linear algebra subroutines (BLAS), a suite of libraries which are a core foundation of most modern numeric computing environments, as native add-ons. While Node.js add-ons are oriented toward C and C++, he will show how to extend compilation support to Fortran libraries in order to maximize computational performance. Throughout the talk, Athan will offer lessons learned and other insights gained while writing add-ons and demonstrate why Node.js is an excellent environment for high performance numeric computing and machine learning.
+  - title: EVERYTHING I THOUGHT I KNEW ABOUT THE EVENT LOOP WAS WRONG
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-28
+    room:
+    authors:
+      - name: Daniel Khan
+        twitter: dkhan
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/gl9qHml-mKc
+    description: |-
+      "Node.js is an event-based platform. This means that everything that happens in Node is the reaction to an event. A transaction passing through Node traverses a cascade of callbacks. Abstracted away from the developer, this is all handled by a library called libuv which provides a mechanism called an event loop. This event loop is maybe the most misunderstood concept of the platform, yet understanding it is vital to really grasp what Node.js is all about. In this talk I will cover the learnings from digging into the event loop to get some actionable performance metrics out of it."
 
-- title: HOW TO BUILD THE STATUS APIS OF YOUR MICROSERVICES ECOSYSTEM
-  lang: en
-  type: regular
-  level:
-  time: 2017-10-27
-  room:
-  authors:
-    - name: Mariano Vazquez
-      twitter: nanovazquez87
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/vBa3e2TcXkc
-  description: |-
-    There are a number of things you need to know after your service goes to Production. The most simple and important one: is it working? And if it's not, where is the problem? Since these questions apply to all the services in your ecosystem and how they interact with each other, you might want to know this quickly and easily. But, more importantly, you want to design & implement this in a simple and secure way. In this talk, I'm going to talk about real-life examples that made us realize why this is important. And some of the tools we are using (and building) to know this real-time.
+  - title: THE ROAD TO NODE
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-28
+    room:
+    authors:
+      - name: Guillermo Paz
+        twitter: pazguille
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/huH_TyPDBpU
+    description: |-
+      En Mercado Libre empezamos a usar Node + React para la construcción de los nuevos frontends. Es por eso que queremos contarte algunas decisiones, vivencias y problemas que surgieron en el camino que tuvimos que atravesar.
+
+  - title: NODE.JS <=> MACHINE LEARNING
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-28
+    room:
+    authors:
+      - name: Anshul Bhagi
+        twitter: anshulbhagi
+        github:
+        website:
+      - name: Nikhila Ravi
+        twitter: nikhilaravi
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/kytNKngz0yU
+    description: |-
+      Machine Learning (ML) and Artificial Intelligence are becoming ubiquitous in websites, chatbots and mobile apps. While Node.js may not be the language of choice for building and training ML models, it is an excellent option for building the user-facing server layer that brings ML product to life. In this talk learn about the ways that Node and ML can work together whether it’s through running ML models in the browser (using WebAssembly and WebGPU) or writing a node server for an ML chatbot. She’ll show you how to take a pre-trained ML model built on any library (e.g. TensorFlow, Torch) and any language (python, lua), and build and deploy a node server for a Facebook messenger bot that interfaces with the model.
+
+  - title: NODE.JS ADDONS FOR HIGH PERFORMANCE NUMERIC COMPUTING
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-28
+    room:
+    authors:
+      - name: Athan Reines
+        twitter: kgryte
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mnvfej28vjk
+    description: |-
+      Node.js add-ons allow native code to be run from the Node.js runtime. In this talk, Athan will discuss how to utilize native add-ons for high performance numeric computing and machine learning in Node.js applications. He will first provide an overview of add-ons and their associated toolchain. Next, he will walk through an example which involves compiling basic linear algebra subroutines (BLAS), a suite of libraries which are a core foundation of most modern numeric computing environments, as native add-ons. While Node.js add-ons are oriented toward C and C++, he will show how to extend compilation support to Fortran libraries in order to maximize computational performance. Throughout the talk, Athan will offer lessons learned and other insights gained while writing add-ons and demonstrate why Node.js is an excellent environment for high performance numeric computing and machine learning.
+
+  - title: HOW TO BUILD THE STATUS APIS OF YOUR MICROSERVICES ECOSYSTEM
+    lang: en
+    type: regular
+    level:
+    time: 2017-10-27
+    room:
+    authors:
+      - name: Mariano Vazquez
+        twitter: nanovazquez87
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/vBa3e2TcXkc
+    description: |-
+      There are a number of things you need to know after your service goes to Production. The most simple and important one: is it working? And if it's not, where is the problem? Since these questions apply to all the services in your ecosystem and how they interact with each other, you might want to know this quickly and easily. But, more importantly, you want to design & implement this in a simple and secure way. In this talk, I'm going to talk about real-life examples that made us realize why this is important. And some of the tools we are using (and building) to know this real-time.

@@ -1,543 +1,559 @@
-- title: How the web ecosystem shaped Angular 2
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Igor Minar
-      twitter: IgorMinor
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/41ffY2whXoU
-  description: |-
-    How the web ecosystem shaped Angular 2.No open source software is developed in a vacuum these days. We are all part of a larger ecosystem where ideas and solutions to problems are shared, improved upon, and shared again. In this talk, we'll look at what Angular learned from its past as well as other libraries and frameworks like React, Polymer, and Ember, and which ideas influenced the design of Angular 2.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+conference:
 
-- title: Testing the way it should be
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Brian Mann
-      twitter: be_mann
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/lK_ihqnQQEM
+  name: ReactiveConf 2016
+  url: https://reactiveconf.com/2016
+  status: complete
+  date:
+    from: 2016-10-27
+    to: 2016-10-28
+  location:
+    country: Slovakia
+    city: Bratislava
   description: |-
-    Testing the way it should be Testing is the essential bedrock of software, and we can all agree it's a must­have. There are many testing tools for the front end, but most (if not all) suffer from some crippling problems. We’ll explore these problems and the solutions Cypress.io offers to take the pain out of testing.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+    World-class mobile and web innovators get together for three days in one town.Join them from October 26th to 28th in Bratislava, Slovakia!
 
-- title: The Age of Reason(ML)
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Sean Grove
-      twitter: sgrove
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/8LCmLQ1-YqQ
-  description: |-
-    Living in an async world of React NativeReason is a new developer experience by Facebook built and championed by the same people behind React. Based on OCaml, it offers powerful type-checking, incredible tooling, fantastic performance, and truly unbelievable reach (as in you'll be sceptical that it's possibly true).Let's look at the range of practical capabilities of Reason - building universal apps that output browser-targeted code indistinguishable from hand-written Javascript but also compiles down to ARM64 assembly for native iOS apps, or replaces 15 *million* lines of memory and type unsafe operating-system code to create unikernel servers that boot in 50 milliseconds and weigh between 200KB-10MB, all from the same codebase - to the more philosophical, such as how Reason is the first language ever to separate syntax and semantics, and all of the resulting implications - and even the more whimsical, like Reason's relentless focus on developer simplicity and joy.Full-stack apps in one language, from hypervisor unikernel to clients written in React (or ReactNative) - As easy as JavaScript, as delightful as Elm, as powerful as native, and with unprecedented reach - we're finally entering into an age of Reason.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+talks:
 
-- title: Living in an async world of React Native
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Krzysztof Magiera
-      twitter: kzzzf
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/-Izgons3mec
-  description: |-
-    Living in an async world of React NativeReact Native’s asynchronous model of bridging between UI code written in JS and the UI thread that runs most of the native code has many advantages to the app users. But in same cases it may become a developer’s nightmare to deal with, especially when it comes to complex touch interactions, animations or "that damned AsyncStorage". In my talk I’ll be giving some tips on how to not get lost in the asynchronous world of React Native app development. We will discuss some common mistakes and important app and library design principles that are imposed by the asynchronous nature of the bridge.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: How the web ecosystem shaped Angular 2
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Igor Minar
+        twitter: IgorMinor
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/41ffY2whXoU
+    description: |-
+      How the web ecosystem shaped Angular 2.No open source software is developed in a vacuum these days. We are all part of a larger ecosystem where ideas and solutions to problems are shared, improved upon, and shared again. In this talk, we'll look at what Angular learned from its past as well as other libraries and frameworks like React, Polymer, and Ember, and which ideas influenced the design of Angular 2.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: What's Next? Exploring the future of React
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Guillermo Rauch
-      twitter: rauchg
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/lYt2_N31bGM
-  description: |-
-    What's Next? Exploring the future of ReactThis talk will explore future directions for the creation of reactive applications.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Testing the way it should be
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Brian Mann
+        twitter: be_mann
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lK_ihqnQQEM
+    description: |-
+      Testing the way it should be Testing is the essential bedrock of software, and we can all agree it's a must­have. There are many testing tools for the front end, but most (if not all) suffer from some crippling problems. We’ll explore these problems and the solutions Cypress.io offers to take the pain out of testing.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Speed up app development with prefabricated, extensible, open-source backends
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Michael Glukhovsky
-      twitter: mglukhovsky
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/uaDYba7-U2c
-  description: |-
-    Those the change! World-renowned mobile and web innovators got together for three days in one town.ReactiveConf, October 26 - 28 2016, Bratislava, Slovakia,Building modern apps requires a lot of boilerplate backend code - setting up server endpoints, forwarding requests to the database, and performing authentication are examples of code developers have to write over and over again. In this talk you'll learn how to dramatically cut down development time by using prefabricated, open-source backends like loopback.io and deepstream.io, and how to extend these backends with custom code once your application outgrows the functionality available out of the box. We'll also talk about how prefabricated backends are changing application architectures, and the impact end-to-end event driven application development is making on end-user experience. We’ll also talk about our journey through the process of solving these problems in RethinkDB and Horizon, and how we see the future of web development unfold. Horizon is an open-source developer platform for building realtime, scalable web apps. It is built on top of RethinkDB, and allows app developers to get started with building modern, engaging apps without writing any backend code.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: The Age of Reason(ML)
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Sean Grove
+        twitter: sgrove
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/8LCmLQ1-YqQ
+    description: |-
+      Living in an async world of React NativeReason is a new developer experience by Facebook built and championed by the same people behind React. Based on OCaml, it offers powerful type-checking, incredible tooling, fantastic performance, and truly unbelievable reach (as in you'll be sceptical that it's possibly true).Let's look at the range of practical capabilities of Reason - building universal apps that output browser-targeted code indistinguishable from hand-written Javascript but also compiles down to ARM64 assembly for native iOS apps, or replaces 15 *million* lines of memory and type unsafe operating-system code to create unikernel servers that boot in 50 milliseconds and weigh between 200KB-10MB, all from the same codebase - to the more philosophical, such as how Reason is the first language ever to separate syntax and semantics, and all of the resulting implications - and even the more whimsical, like Reason's relentless focus on developer simplicity and joy.Full-stack apps in one language, from hypervisor unikernel to clients written in React (or ReactNative) - As easy as JavaScript, as delightful as Elm, as powerful as native, and with unprecedented reach - we're finally entering into an age of Reason.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Paradigms for dealing with asynchrony
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Jared Forsyth
-      twitter: jaredforsyth;
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/FSJEbFhjPHk
-  description: |-
-    Those World-renowned mobile and web innovators got together for three days in one town.ReactiveConf, October 26 - 28 2016, Bratislava, Slovakia,Jared Forsyth: Paradigms for dealing with asynchronyState changing over time is a frequent cause of bugs, confusion, and general hair-pulling, and we've developed a number of ways of trying to tame it—observables, concurrent sequential processes, continuation passing style, and async/await. Learn how each of these paradigms work, hear about the advantages and disadvantages of each, and more importantly, discover what they have in common, because they might be more similar than you think.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Living in an async world of React Native
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Krzysztof Magiera
+        twitter: kzzzf
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-Izgons3mec
+    description: |-
+      Living in an async world of React NativeReact Native’s asynchronous model of bridging between UI code written in JS and the UI thread that runs most of the native code has many advantages to the app users. But in same cases it may become a developer’s nightmare to deal with, especially when it comes to complex touch interactions, animations or "that damned AsyncStorage". In my talk I’ll be giving some tips on how to not get lost in the asynchronous world of React Native app development. We will discuss some common mistakes and important app and library design principles that are imposed by the asynchronous nature of the bridge.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Optimistic updates in a pessimistic world
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Daniel Woelfel
-      twitter: DanielWoelfel
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/cgJyI1BKmHQ
-  description: |-
-    Those driving the change! World-renowned mobile and web innovators got together for three days in one town.ReactiveConf, October 26 - 28 2016, Bratislava, Slovakia,Daniel Woelfel: Optimistic updates in a pessimistic world Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: What's Next? Exploring the future of React
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Guillermo Rauch
+        twitter: rauchg
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lYt2_N31bGM
+    description: |-
+      What's Next? Exploring the future of ReactThis talk will explore future directions for the creation of reactive applications.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Past and future of client-side routing
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Thomas Roch
-      twitter: tcroch
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/hblXdstrAg0
-  description: |-
-    Those change! World-renowned mobile and web innovators got together for three days in one town.Thomas Roch: Past and future of client-side routing MVC frameworks made single page applications a lot more accessible to front end developers. Routing is a key feature of MVC frameworks, enabling view and URL changes without a full page reload. It has shaped a vision of routing which is specific to MVC frameworks. Nowadays, with functional and reactive programming influences, dedicated view libraries, and more runtime environments available (server-side rendering and native apps), routing is starting to look a lot different. This talk will give an overview of how routing used to look, and how it is likely to look like going ahead.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Speed up app development with prefabricated, extensible, open-source backends
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Michael Glukhovsky
+        twitter: mglukhovsky
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/uaDYba7-U2c
+    description: |-
+      Those the change! World-renowned mobile and web innovators got together for three days in one town.ReactiveConf, October 26 - 28 2016, Bratislava, Slovakia,Building modern apps requires a lot of boilerplate backend code - setting up server endpoints, forwarding requests to the database, and performing authentication are examples of code developers have to write over and over again. In this talk you'll learn how to dramatically cut down development time by using prefabricated, open-source backends like loopback.io and deepstream.io, and how to extend these backends with custom code once your application outgrows the functionality available out of the box. We'll also talk about how prefabricated backends are changing application architectures, and the impact end-to-end event driven application development is making on end-user experience. We’ll also talk about our journey through the process of solving these problems in RethinkDB and Horizon, and how we see the future of web development unfold. Horizon is an open-source developer platform for building realtime, scalable web apps. It is built on top of RethinkDB, and allows app developers to get started with building modern, engaging apps without writing any backend code.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Elm and React in production
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Richard Feldman
-      twitter: rtfeldman
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/3FNKaGm3gk0
-  description: |-
-    Those change! World-renowned mobile and web innovators got together for three days in one town.ReactiveConf, October 26 - 28 2016, Bratislava, Slovakia,Richard Feldman: Elm and React in production At NoRedInk, we've been heavily using Elm and React side-by-side in production for over a year. After 35,000 lines of Elm code and about the same for React, we've learned a lot about how well these powerful technologies coexist in a code base that's been battle-tested by students who have used it to answer over a billion questions. This talk will be a deep dive into Elm and React from a production perspective—what's familiar, what's different, and how they can work together. We'll start with initial adoption, continue on to shipping new features, and progress all the way through maintenance and scaling. We'll also look at the nontechnical impact of each: hiring, onboarding, and managing technical debt. Come see how two of the most revolutionary front end technologies on the planet can work together!
+  - title: Paradigms for dealing with asynchrony
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Jared Forsyth
+        twitter: jaredforsyth;
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/FSJEbFhjPHk
+    description: |-
+      Those World-renowned mobile and web innovators got together for three days in one town.ReactiveConf, October 26 - 28 2016, Bratislava, Slovakia,Jared Forsyth: Paradigms for dealing with asynchronyState changing over time is a frequent cause of bugs, confusion, and general hair-pulling, and we've developed a number of ways of trying to tame it—observables, concurrent sequential processes, continuation passing style, and async/await. Learn how each of these paradigms work, hear about the advantages and disadvantages of each, and more importantly, discover what they have in common, because they might be more similar than you think.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Reducing Redux Boilerplate
-  lang: en
-  type: lightning
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Peter Perešíni
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/BaBq48tvPB8
-  description: |-
-    Those change! World-renowned mobile and web innovators got together for three days in one town.ReactiveConf, October 26 - 28 2016, Bratislava, Slovakia,For inspiration, look at one of the most-starred Lightning Talks proposals for ReactiveConf 2016.Peter Perešíni: Reducing Redux Boilerplate.Redux is a predictable state container for Javascript (and React) that is becoming more and more popular.In this lightning talk, I will show you that while Redux is great, it contains too much boilerplate for small-to-medium sized applications.To alleviate this problem, I will demonstrate how to keep Redux but customize it and bend it so that you can keep most of its useful properties and, at the same time, reduce the boilerplate.Hopefully, this will show that you should not take Redux out-of-the-box, but rather think about how to customize it to fit your project.Do you see yourself on the ReactiveConf stage? Do you want to become the next  you think you have a great idea everybody in the community should know about, join Lightning Talks, and share the spotlight with the best React experts at ReactiveConf next year!All you need to do to become a part of them is to submit your proposal to Gist and leave the rest to the community.The ten most-starred proposals will join our line-up, and the top three ones will get a free ReactiveConf ticket with an invitation to an exclusive dinner with our speakers and VIP guests.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Optimistic updates in a pessimistic world
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Daniel Woelfel
+        twitter: DanielWoelfel
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cgJyI1BKmHQ
+    description: |-
+      Those driving the change! World-renowned mobile and web innovators got together for three days in one town.ReactiveConf, October 26 - 28 2016, Bratislava, Slovakia,Daniel Woelfel: Optimistic updates in a pessimistic world Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: An API search engine in Elm for Elm
-  lang: en
-  type: lightning
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Jonas Coch
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/OVlEEm_la8g
-  description: |-
-    Typed functional language that compiles to JavaScript. It’s well-known for its developer experience: the compiler provides nice error messages, the package system enforces semantic versioning for all published packages and makes sure every exposed value or type has some documentation and type annotations.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Past and future of client-side routing
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Thomas Roch
+        twitter: tcroch
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hblXdstrAg0
+    description: |-
+      Those change! World-renowned mobile and web innovators got together for three days in one town.Thomas Roch: Past and future of client-side routing MVC frameworks made single page applications a lot more accessible to front end developers. Routing is a key feature of MVC frameworks, enabling view and URL changes without a full page reload. It has shaped a vision of routing which is specific to MVC frameworks. Nowadays, with functional and reactive programming influences, dedicated view libraries, and more runtime environments available (server-side rendering and native apps), routing is starting to look a lot different. This talk will give an overview of how routing used to look, and how it is likely to look like going ahead.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: React is the new Lego - how we deal with a lot of components
-  lang: en
-  type: lightning
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Ondřej Bartas
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Dqq1p9aIPQQ
-  description: |-
-    Blueberry, we’ve been frustrated with maintaining and getting oriented in our React components and their props. That’s why we made a tool for automatically generating a component library from a project’s components. We named it BlueKit and released it as open-source.Developers, designers, and other project members can use the generated library to browse through components in a project, tweak their props, and see a live preview of these changes. I’ll talk about the problems that inspired us to make BlueKit and how it can help React devs with their projects.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.
+  - title: Elm and React in production
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Richard Feldman
+        twitter: rtfeldman
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3FNKaGm3gk0
+    description: |-
+      Those change! World-renowned mobile and web innovators got together for three days in one town.ReactiveConf, October 26 - 28 2016, Bratislava, Slovakia,Richard Feldman: Elm and React in production At NoRedInk, we've been heavily using Elm and React side-by-side in production for over a year. After 35,000 lines of Elm code and about the same for React, we've learned a lot about how well these powerful technologies coexist in a code base that's been battle-tested by students who have used it to answer over a billion questions. This talk will be a deep dive into Elm and React from a production perspective—what's familiar, what's different, and how they can work together. We'll start with initial adoption, continue on to shipping new features, and progress all the way through maintenance and scaling. We'll also look at the nontechnical impact of each: hiring, onboarding, and managing technical debt. Come see how two of the most revolutionary front end technologies on the planet can work together!
 
-- title: Rich text editing with DraftJS Plugins
-  lang: en
-  type: lightning
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Nik Graf
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/YoUlRLnb1Eg
-  description: |-
-    This Facebook open sourced its React based rich text editing framework Draft.js. At Facebook it powers status updates, comments & notes. Others used it to build editors matching Medium’s experience.Do you see yourself on the ReactiveConf stage? Do you want to become the next ReactJS superstar? If you think you have a great idea everybody in the community should know about, join Lightning Talks, and share the spotlight with the best React experts at ReactiveConf next year!Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Reducing Redux Boilerplate
+    lang: en
+    type: lightning
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Peter Perešíni
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/BaBq48tvPB8
+    description: |-
+      Those change! World-renowned mobile and web innovators got together for three days in one town.ReactiveConf, October 26 - 28 2016, Bratislava, Slovakia,For inspiration, look at one of the most-starred Lightning Talks proposals for ReactiveConf 2016.Peter Perešíni: Reducing Redux Boilerplate.Redux is a predictable state container for Javascript (and React) that is becoming more and more popular.In this lightning talk, I will show you that while Redux is great, it contains too much boilerplate for small-to-medium sized applications.To alleviate this problem, I will demonstrate how to keep Redux but customize it and bend it so that you can keep most of its useful properties and, at the same time, reduce the boilerplate.Hopefully, this will show that you should not take Redux out-of-the-box, but rather think about how to customize it to fit your project.Do you see yourself on the ReactiveConf stage? Do you want to become the next  you think you have a great idea everybody in the community should know about, join Lightning Talks, and share the spotlight with the best React experts at ReactiveConf next year!All you need to do to become a part of them is to submit your proposal to Gist and leave the rest to the community.The ten most-starred proposals will join our line-up, and the top three ones will get a free ReactiveConf ticket with an invitation to an exclusive dinner with our speakers and VIP guests.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: A Life on a Commandline
-  lang: en
-  type: lightning
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Patrick Stapfer
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/zyLpvEyv7l0
-  description: |-
-    JavaScript developer, could you imagine using something else than Atom, Sublime or other IDE-like text-editors? In their daily work, people wrangle a lot with different applications, editors, windows, browsers and loose a lot of time because tools getting in their way.A lot of people are using the terminal already. So why not just leverage it to its full extent? In this lightning talk, I will present how I will do regular JS / React programming just in one terminal window.All you need to do to become a part of them is to submit your proposal to Gist and leave the rest to the community.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: An API search engine in Elm for Elm
+    lang: en
+    type: lightning
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Jonas Coch
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OVlEEm_la8g
+    description: |-
+      Typed functional language that compiles to JavaScript. It’s well-known for its developer experience: the compiler provides nice error messages, the package system enforces semantic versioning for all published packages and makes sure every exposed value or type has some documentation and type annotations.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Reconceptualize your entire app as a function
-  lang: en
-  type: lightning
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Adam Terlson
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/5rtbSYl70ak
-  description: |-
-    I will articulate what I have come to find to be a superior approach to building React applications — treating them as functions, not templates.I will introduce how to:- Separate the application you’re building and the platform its on from the components you write (Hey, that’s this one! Read on!). Inject state into your application, and what a “container” aka “connected” aka “smart” component really is.mplement more complex features by leveraging Higher Order Components and a compose function — it’s awesome.Make your application UI understandable by looking at a single file, not dozensMake your codebase flat without sacrificing grokability.
+  - title: React is the new Lego - how we deal with a lot of components
+    lang: en
+    type: lightning
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Ondřej Bartas
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Dqq1p9aIPQQ
+    description: |-
+      Blueberry, we’ve been frustrated with maintaining and getting oriented in our React components and their props. That’s why we made a tool for automatically generating a component library from a project’s components. We named it BlueKit and released it as open-source.Developers, designers, and other project members can use the generated library to browse through components in a project, tweak their props, and see a live preview of these changes. I’ll talk about the problems that inspired us to make BlueKit and how it can help React devs with their projects.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.
 
-- title: Thinking metrics on React applications
-  lang: en
-  type: lightning
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Jean Carlo Emer
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/9PhQ0ML4t-8
-  description: |-
-    In regular websites, it is common to sent multiple events to track users clicks. Single Page Applications change the way you look at metrics. This talk is about a simple framework we created at Globo.com to manage a metrics layer for http://globoplay.globo.com. The talk will cover how to track user flow using Google Analytics and other services. The challenges we solve were tying metrics and components, keeping information across pages and having global data. Also some React, React Router and React Side Effects concepts like context, higher order components, history state will be covered.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Rich text editing with DraftJS Plugins
+    lang: en
+    type: lightning
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Nik Graf
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/YoUlRLnb1Eg
+    description: |-
+      This Facebook open sourced its React based rich text editing framework Draft.js. At Facebook it powers status updates, comments & notes. Others used it to build editors matching Medium’s experience.Do you see yourself on the ReactiveConf stage? Do you want to become the next ReactJS superstar? If you think you have a great idea everybody in the community should know about, join Lightning Talks, and share the spotlight with the best React experts at ReactiveConf next year!Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Styling in React
-  lang: en
-  type: lightning
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Javi Velasco
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Ibr3bNIcr_M
-  description: |-
-    Recently I wrote a small package called react-css-themr, which allows you to separate styles from components, plus an easy API to compose and inject styles. Currently I’m migrating React Toolbox to this approach and, although I don’t know yet how this will it work, I’m sure it’s gonna change how we handle styling for vendor components, making easier to customize this and any other library.I would like to tell you how it went in a lighning talk at Reactive 2016, dropping some thoughts about styling components in React. Star this gist if you want to give your support!If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: A Life on a Commandline
+    lang: en
+    type: lightning
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Patrick Stapfer
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zyLpvEyv7l0
+    description: |-
+      JavaScript developer, could you imagine using something else than Atom, Sublime or other IDE-like text-editors? In their daily work, people wrangle a lot with different applications, editors, windows, browsers and loose a lot of time because tools getting in their way.A lot of people are using the terminal already. So why not just leverage it to its full extent? In this lightning talk, I will present how I will do regular JS / React programming just in one terminal window.All you need to do to become a part of them is to submit your proposal to Gist and leave the rest to the community.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Markdown + React = 💙
-  lang: en
-  type: lightning
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Kristjian Ristovski
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/MM0XgD89Tr8
-  description: |-
-    [I'm going o talk about] writing a markdown editor which will output customizable React components, and also accept custom syntax for rendering custom React components.The talk is going to explain the following things:Writing a markdown editor in ReactHow to render the markdown syntax as React componentsHow to customize the rendered React componentsHow to plug-in custom syntax for rendering custom React componentshe final result will look like this 👉 👻 spoiler alert 👻If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Reconceptualize your entire app as a function
+    lang: en
+    type: lightning
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Adam Terlson
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/5rtbSYl70ak
+    description: |-
+      I will articulate what I have come to find to be a superior approach to building React applications — treating them as functions, not templates.I will introduce how to:- Separate the application you’re building and the platform its on from the components you write (Hey, that’s this one! Read on!). Inject state into your application, and what a “container” aka “connected” aka “smart” component really is.mplement more complex features by leveraging Higher Order Components and a compose function — it’s awesome.Make your application UI understandable by looking at a single file, not dozensMake your codebase flat without sacrificing grokability.
 
-- title: Road from UndefinedLand
-  lang: en
-  type: lightning
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Gregory Shehet
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/_fvzOpBhk_I
-  description: |-
-    Gregory Shehet: Road from UndefinedLand I work at Grammarly. We like React and happily use it in our applications. However, sometimes something goes wrong and bugs creep into the code. Here comes testing. It helps make us confident about the quality of our code.Do you see yourself on the ReactiveConf stage? Do you want to become the next ReactJS superstar? If you think you have a great idea everybody in the community should know about, join Lightning Talks, and share the spotlight with the best React experts at ReactiveConf next year!If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Thinking metrics on React applications
+    lang: en
+    type: lightning
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Jean Carlo Emer
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9PhQ0ML4t-8
+    description: |-
+      In regular websites, it is common to sent multiple events to track users clicks. Single Page Applications change the way you look at metrics. This talk is about a simple framework we created at Globo.com to manage a metrics layer for http://globoplay.globo.com. The talk will cover how to track user flow using Google Analytics and other services. The challenges we solve were tying metrics and components, keeping information across pages and having global data. Also some React, React Router and React Side Effects concepts like context, higher order components, history state will be covered.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: With good naming convention, CSS works pretty well
-  lang: en
-  type: lightning
-  level:
-  time: 2016-10-27
-  room:
-  authors:
-    - name: Aleksey Kulikov
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/S3sdJdJhr7o
-  description: |-
-    Recently CSS has got a lot of negativity. But I would like to defend it and show, that with good naming convention CSS works pretty well.My 3 developers team has just developed React.js application with 6561 lines of CSS (and just 5 !important). During one year of development we had 0 issues with CSS. No refactoring typos, no style leaks, no performance problems, possibly, it is the most stable part of our application.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Styling in React
+    lang: en
+    type: lightning
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Javi Velasco
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Ibr3bNIcr_M
+    description: |-
+      Recently I wrote a small package called react-css-themr, which allows you to separate styles from components, plus an easy API to compose and inject styles. Currently I’m migrating React Toolbox to this approach and, although I don’t know yet how this will it work, I’m sure it’s gonna change how we handle styling for vendor components, making easier to customize this and any other library.I would like to tell you how it went in a lighning talk at Reactive 2016, dropping some thoughts about styling components in React. Star this gist if you want to give your support!If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: 'Styled-components: Styled-components Enforcing best practices'
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-28
-  room:
-  authors:
-    - name: Max Stoiber
-      twitter: mxstbr
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/jaqDA7Btm3c
-  description: |-
-    Max Stoiber: Styled-components: Enforcing best practices.Building user interfaces on the web is hard, because the web, and thus CSS, was inherently made for documents. Because UIs fundamentally are not documents, we've seen a mindset shift towards building them as component-based system – we are now in the component age. The rise of JavaScript frameworks like React, Ember and recently Angular 2, the effort of the W3C to standardize a web-native component system, pattern libraries and styleguides being considered 'the right way to build web applications' and many other things have illuminated this revolution. With that, and a few more things, in mind, Glen Maddern (CSS Modules creator) and I sat down and started thinking about styling in this new era. We took the best of CSS and the web to build a new way to style react applications. Let's talk about what we thought about and why we arrived where we did – 💅 styled-components.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Markdown + React = 💙
+    lang: en
+    type: lightning
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Kristjian Ristovski
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/MM0XgD89Tr8
+    description: |-
+      [I'm going o talk about] writing a markdown editor which will output customizable React components, and also accept custom syntax for rendering custom React components.The talk is going to explain the following things:Writing a markdown editor in ReactHow to render the markdown syntax as React componentsHow to customize the rendered React componentsHow to plug-in custom syntax for rendering custom React componentshe final result will look like this 👉 👻 spoiler alert 👻If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Building validated forms with great UX in React
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-28
-  room:
-  authors:
-    - name: Marcela Hrda
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/DfRKc3XUFTk
-  description: |-
-    Marcela Hrda: Building validated forms with great UX in React.Creating validated forms that provide great user experience can be much trickier than you think. I will show you what problems you might encounter... and the answer to these problems.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Road from UndefinedLand
+    lang: en
+    type: lightning
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Gregory Shehet
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_fvzOpBhk_I
+    description: |-
+      Gregory Shehet: Road from UndefinedLand I work at Grammarly. We like React and happily use it in our applications. However, sometimes something goes wrong and bugs creep into the code. Here comes testing. It helps make us confident about the quality of our code.Do you see yourself on the ReactiveConf stage? Do you want to become the next ReactJS superstar? If you think you have a great idea everybody in the community should know about, join Lightning Talks, and share the spotlight with the best React experts at ReactiveConf next year!If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: The Universality of Static Sites
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-28
-  room:
-  authors:
-    - name: Mark Dalgleish
-      twitter: markdalgleish
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ovIrOMBbWrc
-  description: |-
-    Mark Dalgleish: The Universality of Static Sites.React played a pivotal role in the widespread emergence of universal/isomorphic apps, rendering on both the server and client. However, many applications continue to render purely on the client, and for good reason—running a React server in production doesn't come without significant challenges. Typically we find ourselves having to choose between these two competing approaches, but there's a lesser-known third option—using React to pre-render our sites at build time, whether partially or fully. In this talk we'll cover why you'd want to do this in the first place, and how modern tooling can help us achieve it.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: With good naming convention, CSS works pretty well
+    lang: en
+    type: lightning
+    level:
+    time: 2016-10-27
+    room:
+    authors:
+      - name: Aleksey Kulikov
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/S3sdJdJhr7o
+    description: |-
+      Recently CSS has got a lot of negativity. But I would like to defend it and show, that with good naming convention CSS works pretty well.My 3 developers team has just developed React.js application with 6561 lines of CSS (and just 5 !important). During one year of development we had 0 issues with CSS. No refactoring typos, no style leaks, no performance problems, possibly, it is the most stable part of our application.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Visualizing the data flow with Cycle.js
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-28
-  room:
-  authors:
-    - name: André Staltz
-      twitter: andrestaltz
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/3a98OPJWFPY
-  description: |-
-    What if instead of building your own mental model of how data flows through your application, you could actually see the data flowing in real time? In this talk, we will explore functional and reactive streams as a building block in JavaScript applications with tools like RxJS, Cycle.js, or xstream which enable DevTools from the future.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: 'Styled-components: Styled-components Enforcing best practices'
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-28
+    room:
+    authors:
+      - name: Max Stoiber
+        twitter: mxstbr
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/jaqDA7Btm3c
+    description: |-
+      Max Stoiber: Styled-components: Enforcing best practices.Building user interfaces on the web is hard, because the web, and thus CSS, was inherently made for documents. Because UIs fundamentally are not documents, we've seen a mindset shift towards building them as component-based system – we are now in the component age. The rise of JavaScript frameworks like React, Ember and recently Angular 2, the effort of the W3C to standardize a web-native component system, pattern libraries and styleguides being considered 'the right way to build web applications' and many other things have illuminated this revolution. With that, and a few more things, in mind, Glen Maddern (CSS Modules creator) and I sat down and started thinking about styling in this new era. We took the best of CSS and the web to build a new way to style react applications. Let's talk about what we thought about and why we arrived where we did – 💅 styled-components.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Writing Sound Asynchronous Code with Coroutines
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-28
-  room:
-  authors:
-    - name: Tomaš Kulich
-      twitter: tomas_kulich
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/gZz-1OaMpqg
-  description: |-
-    Tomaš Kulich: Writing Sound Asynchronous Code with Coroutines abstrakt.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Building validated forms with great UX in React
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-28
+    room:
+    authors:
+      - name: Marcela Hrda
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DfRKc3XUFTk
+    description: |-
+      Marcela Hrda: Building validated forms with great UX in React.Creating validated forms that provide great user experience can be much trickier than you think. I will show you what problems you might encounter... and the answer to these problems.Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Immer-mutable state management
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-28
-  room:
-  authors:
-    - name: Michel Weststrate
-      twitter: mweststrate
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Ql8KUUUOHNc
-  description: |-
-    Michel Weststrate: Immer-mutable state management.Mutable or immutable based state management. That is the question. But what if we could have both? In this talk we will explore an opinionated state container that serves both worlds. A single coin with two different sides. Mutable properties, instance methods, immutable trees, structural sharing, replay-able actions, time travelling, derived values, patches.. etc. This what next-gen state management might look like.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: The Universality of Static Sites
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-28
+    room:
+    authors:
+      - name: Mark Dalgleish
+        twitter: markdalgleish
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ovIrOMBbWrc
+    description: |-
+      Mark Dalgleish: The Universality of Static Sites.React played a pivotal role in the widespread emergence of universal/isomorphic apps, rendering on both the server and client. However, many applications continue to render purely on the client, and for good reason—running a React server in production doesn't come without significant challenges. Typically we find ourselves having to choose between these two competing approaches, but there's a lesser-known third option—using React to pre-render our sites at build time, whether partially or fully. In this talk we'll cover why you'd want to do this in the first place, and how modern tooling can help us achieve it.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Building Universal Windows Apps with React Native
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-28
-  room:
-  authors:
-    - name: Ryan J. Salva
-      twitter: ryanjsalva
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/OmuOWbsQLmc
-  description: |-
-    Ryan J. Salva: Building Universal Windows Apps with React Native abstrakt Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Visualizing the data flow with Cycle.js
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-28
+    room:
+    authors:
+      - name: André Staltz
+        twitter: andrestaltz
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3a98OPJWFPY
+    description: |-
+      What if instead of building your own mental model of how data flows through your application, you could actually see the data flowing in real time? In this talk, we will explore functional and reactive streams as a building block in JavaScript applications with tools like RxJS, Cycle.js, or xstream which enable DevTools from the future.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Building better mobile apps with GraphQL
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-28
-  room:
-  authors:
-    - name: Martijn Walraven
-      twitter: martijnwalraven
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/SWiegnVtYzM
-  description: |-
-    Martijn Walraven: Building better mobile apps with GraphQL If you’ve used the Facebook iOS or Android app in the last four years, you’ve used a mobile app powered by GraphQL. In fact, development of GraphQL started in 2012 as part of Facebook’s effort to move from web-based to truly native mobile apps, and it is now a core part of the Facebook infrastructure. It is no surprise GraphQL was first conceived to serve the needs of mobile developers, and so comes with many benefits. We'll talk about all of them, and also why you should get a grasp of GraphQL in the near future if you haven't done so, whether you develop mobile apps using web technologies, React Native, native iOS or Android.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Writing Sound Asynchronous Code with Coroutines
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-28
+    room:
+    authors:
+      - name: Tomaš Kulich
+        twitter: tomas_kulich
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/gZz-1OaMpqg
+    description: |-
+      Tomaš Kulich: Writing Sound Asynchronous Code with Coroutines abstrakt.In 2016, more than 700 attendees from all over the world spent three days in Bratislava getting inspired, sharing amazing new ideas, and meeting more than 30 awesome speakers from companies such as Google, Cognitect, NoRedInk, RethinkDB, Airbnb, Microsoft, Facebook, and the list could go on forever.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: 'Bridging the Gap: How to use React Native in existing large native code bases'
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-28
-  room:
-  authors:
-    - name: Leland Richardson
-      twitter: intelligibabble
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/npwa3ZmG9VQ
-  description: |-
-    React Native does a lot out of the box, but also provides very powerful abstraction layers that can enable you to get React Native to work for your use case, even if it's not supported out of the box. The bridge, Native Modules, and Native Components are a big part of this. When integrating with large existing native code bases, this becomes more and more important.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Immer-mutable state management
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-28
+    room:
+    authors:
+      - name: Michel Weststrate
+        twitter: mweststrate
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Ql8KUUUOHNc
+    description: |-
+      Michel Weststrate: Immer-mutable state management.Mutable or immutable based state management. That is the question. But what if we could have both? In this talk we will explore an opinionated state container that serves both worlds. A single coin with two different sides. Mutable properties, instance methods, immutable trees, structural sharing, replay-able actions, time travelling, derived values, patches.. etc. This what next-gen state management might look like.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: No Xcode, Android Studio, Java, Swift, Objective C - how far can JavaScript get you?
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-28
-  room:
-  authors:
-    - name: Brent Vatne
-      twitter: notbrent
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/kpeoddFXWfc
-  description: |-
-    React Native is a flexible & pragmatic tool that lets you mix JavaScript and native code with minimal friction. But for some large subset of apps, there is no need for any app-specific native code, as long as a rich library of native APIs are exposed. If we are explicit about constraining our environment to only JavaScript, our apps gain some very useful properties. Just look at how easy it is to throw together a simple app and share it on the web. Let’s look at how far just JavaScript can get us with mobile apps, building on top of React Native.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Building Universal Windows Apps with React Native
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-28
+    room:
+    authors:
+      - name: Ryan J. Salva
+        twitter: ryanjsalva
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OmuOWbsQLmc
+    description: |-
+      Ryan J. Salva: Building Universal Windows Apps with React Native abstrakt Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
 
-- title: Through the Looking Glass
-  lang: en
-  type: regular
-  level:
-  time: 2016-10-28
-  room:
-  authors:
-    - name: David Nolen
-      twitter: swannodette
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/lkh4hjyHdWA
-  description: |-
-    Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+  - title: Building better mobile apps with GraphQL
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-28
+    room:
+    authors:
+      - name: Martijn Walraven
+        twitter: martijnwalraven
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/SWiegnVtYzM
+    description: |-
+      Martijn Walraven: Building better mobile apps with GraphQL If you’ve used the Facebook iOS or Android app in the last four years, you’ve used a mobile app powered by GraphQL. In fact, development of GraphQL started in 2012 as part of Facebook’s effort to move from web-based to truly native mobile apps, and it is now a core part of the Facebook infrastructure. It is no surprise GraphQL was first conceived to serve the needs of mobile developers, and so comes with many benefits. We'll talk about all of them, and also why you should get a grasp of GraphQL in the near future if you haven't done so, whether you develop mobile apps using web technologies, React Native, native iOS or Android.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+
+  - title: 'Bridging the Gap: How to use React Native in existing large native code bases'
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-28
+    room:
+    authors:
+      - name: Leland Richardson
+        twitter: intelligibabble
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/npwa3ZmG9VQ
+    description: |-
+      React Native does a lot out of the box, but also provides very powerful abstraction layers that can enable you to get React Native to work for your use case, even if it's not supported out of the box. The bridge, Native Modules, and Native Components are a big part of this. When integrating with large existing native code bases, this becomes more and more important.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+
+  - title: No Xcode, Android Studio, Java, Swift, Objective C - how far can JavaScript get you?
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-28
+    room:
+    authors:
+      - name: Brent Vatne
+        twitter: notbrent
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/kpeoddFXWfc
+    description: |-
+      React Native is a flexible & pragmatic tool that lets you mix JavaScript and native code with minimal friction. But for some large subset of apps, there is no need for any app-specific native code, as long as a rich library of native APIs are exposed. If we are explicit about constraining our environment to only JavaScript, our apps gain some very useful properties. Just look at how easy it is to throw together a simple app and share it on the web. Let’s look at how far just JavaScript can get us with mobile apps, building on top of React Native.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!
+
+  - title: Through the Looking Glass
+    lang: en
+    type: regular
+    level:
+    time: 2016-10-28
+    room:
+    authors:
+      - name: David Nolen
+        twitter: swannodette
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lkh4hjyHdWA
+    description: |-
+      Have you heard about ReactiveConf? According to tech superstars such as David Nolen, Richard Feldman, or Brent Vatne, it’s the best conference on web and mobile app development! It focuses on all things React and beyond and takes place annually in Bratislava, Slovakia.If you want to be part of the next event, get your tickets now at https://reactiveconf.com, and React with us!

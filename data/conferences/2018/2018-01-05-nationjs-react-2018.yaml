@@ -1,169 +1,185 @@
-- title: Demystify the V DOM
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-05
-  room:
-  authors:
-    - name: Nir Kaufman
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/gR3vQmd34S8
-  description: |-
-    The virtual DOM is the beating heart of React (and many other modern frontend frameworks today). While the concept of how it works is straightforward, the only way to really understand it is to build one! During this talk, I will code a tiny lightweight React clone from scratch and explore the idea and concepts behind the virtual DOM. Nir Kaufman is a Google Developer Expert in web technologies, worldwide conference speaker, workshop mentor and tech community activist as the organizer of the ReactNYC meetup group Principal Frontend Consultant at 500Tech, a front-end consultancy in NYC.
+conference:
 
-- title: Making Games With React and Redux
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-05
-  room:
-  authors:
-    - name: Mike Lazer-Walker
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/uHrLvCRiSrs
+  name: NationJS React 2018
+  url: http://nationjs.com/
+  status: complete
+  date:
+    from: 2018-01-05
+    to: 2018-01-05
+  location:
+    country: United States
+    city: Washington, DC
   description: |-
-    Making Real-Time Networked Multiplayer Games With React and Redux by Mike Lazer-Walker Ever wanted to make a game, but wished you could use the web stack you already know and love? We’ll discuss how to make HTML5 games using React and the DOM, as well as how we can use WebSockets and WebRTC in conjunction with Redux to make real-time multiplayer games. Mike Lazer-Walker is a Berlin-based artist/engineer who makes interactive art, experimental games, and software tools. Most of his work focuses on using nontraditional interfaces to reframe everyday objects and spaces as playful experiences. He’s built projects as far-flung as a site-specific generative poetry walk, a game played on 19th century telegraph hardware, and a commercial board game that uses Amazon Alexa. In the past, he’s worked at companies like Pivotal Labs and Etsy, on beloved games and apps such as Words With Friends and Timehop, and as a researcher in the MIT Media Lab’s Playful Systems research group.
+    The Mid-Atlantic's JavaScript and full web stack conference series!
 
-- title: BFF - GraphQL Backend-for-Frontend with React UI
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-05
-  room:
-  authors:
-    - name: Chienyi Cheri Hung
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/vVdmNgQNIGk
-  description: |-
-    BFF - GraphQL Backend-for-Frontend with React UI by Chienyi Cheri Hung Ever spend hours/days on your UI layer molding the data from services only to have it break when the response shapes change? Ever end up splitting a general API into specific APIs to serve multiple UIs? Let’s tackle these problems once and for all with a middle layer, a GraphQL Backend-for-Frontend. Chienyi Cheri Hung is a software engineer specializing in Frontend development with a love for UX design. She has worked on softwares in many problem spaces, including news media/data visualization, geographic information application, restaurant management system and banking servicing applications. She is currently a Master Software Engineer at Capital One in Virginia. (And in a previous life, she was a photojournalist by trade.)
+talks:
 
-- title: Translating React
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-05
-  room:
-  authors:
-    - name: Jennifer Wong
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/SDA0gmnLYDE
-  description: |-
-    We often use React and write JSX without thinking about the syntax. But what’s React actually doing under the hood? What’s that JavaScript look like? Let’s translate React into JavaScript then transpile that and see what we get. Let’s pick apart what React is really doing. Jennifer Wong is a self-taught software engineer at Eventbrite where she spends her days making the web a prettier and more user-friendly place. She has written for Net Magazine and had projects covered by Mashable, Engadget, Gizmodo, and more. Jenn is an avid conference speaker and loves eating, coding, and sleeping.
+  - title: Demystify the V DOM
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-05
+    room:
+    authors:
+      - name: Nir Kaufman
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/gR3vQmd34S8
+    description: |-
+      The virtual DOM is the beating heart of React (and many other modern frontend frameworks today). While the concept of how it works is straightforward, the only way to really understand it is to build one! During this talk, I will code a tiny lightweight React clone from scratch and explore the idea and concepts behind the virtual DOM. Nir Kaufman is a Google Developer Expert in web technologies, worldwide conference speaker, workshop mentor and tech community activist as the organizer of the ReactNYC meetup group Principal Frontend Consultant at 500Tech, a front-end consultancy in NYC.
 
-- title: Fight the Power - React and Solid
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-05
-  room:
-  authors:
-    - name: Sean McBride
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/G46a6MFLMyY
-  description: |-
-    Fight the Power: Building Decentralized Social Apps with React and Solid by Sean McBride Tim Berners-Lee, inventor of the Web, is concerned that powerful centralized social networks harm society by eroding individual date rights and privacy. To restore the decentralized Web, Tim and a band of MIT hackers built Solid: tools for decentralized social apps. As of late 2018, the prototype implementation of the Solid specification is complete, and the platform is ready for experimentation and side projects. This talk is going to focus on answering the following questions: * What are the advantages and disadvantages of decentralized social apps? * What does Solid look like and how does it work? * How can a React developer build a decentralized social app using Solid? While a concept like the decentralized web might sound unattainable, this talk will demonstrate that building a React-powered Solid app is more accessible than you think. We will walk through the process from planning to deployment and allow users to interact with each other using a deployed version of the demo app. At the end of this talk, you will understand the importance of reducing centralization in the web and be equipped with the knowledge needed to join the decentralized insurgency and start building your own Solid apps. Sean McBride grew up in Northern California, but not the affluent Bay Area that might come to mind. His first home was a trailer, his first crib was a Jack Daniels crate, and his childhood was a different universe from suburban upper-middle-class neighborhoods. Sean joined the Army after September 11th, which provided him structure and positive role models and altered the trajectory of his life. After leaving service in 2008, Sean used his GI Bill and moved into tech. In his daily life, he tries to live his personal motto to “code with honor, defend the right, and pursue lofty undertakings.” In his day job, Sean is a Fullstack web developer at Decipher Tech Studios, a startup in Old Town Alexandria that is building a microservices framework. In his spare time, he leads the DC Chapter of Operation Code, a nonprofit that helps military, veterans, and military spouses learn to code, break into the DC tech community, and code the future through open-source contributions to nonprofits and government digital services teams.
+  - title: Making Games With React and Redux
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-05
+    room:
+    authors:
+      - name: Mike Lazer-Walker
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/uHrLvCRiSrs
+    description: |-
+      Making Real-Time Networked Multiplayer Games With React and Redux by Mike Lazer-Walker Ever wanted to make a game, but wished you could use the web stack you already know and love? We’ll discuss how to make HTML5 games using React and the DOM, as well as how we can use WebSockets and WebRTC in conjunction with Redux to make real-time multiplayer games. Mike Lazer-Walker is a Berlin-based artist/engineer who makes interactive art, experimental games, and software tools. Most of his work focuses on using nontraditional interfaces to reframe everyday objects and spaces as playful experiences. He’s built projects as far-flung as a site-specific generative poetry walk, a game played on 19th century telegraph hardware, and a commercial board game that uses Amazon Alexa. In the past, he’s worked at companies like Pivotal Labs and Etsy, on beloved games and apps such as Words With Friends and Timehop, and as a researcher in the MIT Media Lab’s Playful Systems research group.
 
-- title: Leveling up through Code Reviews
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-05
-  room:
-  authors:
-    - name: Elisheba Anderson
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/0YkNVkSjDIc
-  description: |-
-    Leveling up through Code Reviews by Elisheba Anderson Are you new to your career, and you want to know a new way to level up? You’ve tried side projects, going to meetups, listening to presentations, but you want something more? Well, this talk is for you! What if there was another way to get better? I’ve found that through completing code reviews, I’ve learned about what to look for in my own code and how React works. Join me as we walk through those concepts together. Elisheba Anderson is a Software Engineer working on the modernization of the US Immigration System with Geocent. When she’s not working on that, she’s working on side projects aimed at comedy, real estate or any fun thing the desires. Bottom line, this girl loves to program and learn more about technology. Also, she’s an avid Washingtonian doing and eating everything that the city has the offer.
+  - title: BFF - GraphQL Backend-for-Frontend with React UI
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-05
+    room:
+    authors:
+      - name: Chienyi Cheri Hung
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/vVdmNgQNIGk
+    description: |-
+      BFF - GraphQL Backend-for-Frontend with React UI by Chienyi Cheri Hung Ever spend hours/days on your UI layer molding the data from services only to have it break when the response shapes change? Ever end up splitting a general API into specific APIs to serve multiple UIs? Let’s tackle these problems once and for all with a middle layer, a GraphQL Backend-for-Frontend. Chienyi Cheri Hung is a software engineer specializing in Frontend development with a love for UX design. She has worked on softwares in many problem spaces, including news media/data visualization, geographic information application, restaurant management system and banking servicing applications. She is currently a Master Software Engineer at Capital One in Virginia. (And in a previous life, she was a photojournalist by trade.)
 
-- title: Managing Reusable Logic in React
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-05
-  room:
-  authors:
-    - name: Valerie Woolard Srinivasan
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Usdj-aoJ4Cw
-  description: |-
-    Mixing with HOCs, RenderProps, and Mixins: Managing Reusable Logic in React by Valerie Woolard Srinivasan React provides many possibilities for managing shared logic and concerns between components. This talk will delve into the implementation, advantages, and drawbacks of three possible approaches to this common issue: mixins, higher-order components, and render props. Valerie Woolard Srinivasan is the software engineering team lead for Panoply’s publishing platform, Megaphone. She loves podcasts, language, running, and vegetarian food. She leads Women Who Code DC’s algorithms meetup and teaches classes with Girl Develop It DC.
+  - title: Translating React
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-05
+    room:
+    authors:
+      - name: Jennifer Wong
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/SDA0gmnLYDE
+    description: |-
+      We often use React and write JSX without thinking about the syntax. But what’s React actually doing under the hood? What’s that JavaScript look like? Let’s translate React into JavaScript then transpile that and see what we get. Let’s pick apart what React is really doing. Jennifer Wong is a self-taught software engineer at Eventbrite where she spends her days making the web a prettier and more user-friendly place. She has written for Net Magazine and had projects covered by Mashable, Engadget, Gizmodo, and more. Jenn is an avid conference speaker and loves eating, coding, and sleeping.
 
-- title: React, the future & you
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-05
-  room:
-  authors:
-    - name: Jenn Creighton
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/js-y5H5wxvI
-  description: |-
-    React, the future & you by Jenn Creighton Fiber, a new Context API, new lifecycle methods, Suspense, an experimental Profiler, memoized function components — it’s been a huge year for React. In this talk, we’ll rewind to the release of 16.0 — why did it matter and what’s happened since. I’ll share how to prepare for the upcoming lifecycle changes and what Suspense will mean for your application. Jenn Creighton is a senior front end engineer at ClassPass where she writes code between workouts. She is likely to talk your ear off about React, JavaScript, or her hatred of CSS floats. She lives in New York City with her 2 cats & 1 dog & a handful of succulents. Say hello to her @gurlcode!
+  - title: Fight the Power - React and Solid
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-05
+    room:
+    authors:
+      - name: Sean McBride
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/G46a6MFLMyY
+    description: |-
+      Fight the Power: Building Decentralized Social Apps with React and Solid by Sean McBride Tim Berners-Lee, inventor of the Web, is concerned that powerful centralized social networks harm society by eroding individual date rights and privacy. To restore the decentralized Web, Tim and a band of MIT hackers built Solid: tools for decentralized social apps. As of late 2018, the prototype implementation of the Solid specification is complete, and the platform is ready for experimentation and side projects. This talk is going to focus on answering the following questions: * What are the advantages and disadvantages of decentralized social apps? * What does Solid look like and how does it work? * How can a React developer build a decentralized social app using Solid? While a concept like the decentralized web might sound unattainable, this talk will demonstrate that building a React-powered Solid app is more accessible than you think. We will walk through the process from planning to deployment and allow users to interact with each other using a deployed version of the demo app. At the end of this talk, you will understand the importance of reducing centralization in the web and be equipped with the knowledge needed to join the decentralized insurgency and start building your own Solid apps. Sean McBride grew up in Northern California, but not the affluent Bay Area that might come to mind. His first home was a trailer, his first crib was a Jack Daniels crate, and his childhood was a different universe from suburban upper-middle-class neighborhoods. Sean joined the Army after September 11th, which provided him structure and positive role models and altered the trajectory of his life. After leaving service in 2008, Sean used his GI Bill and moved into tech. In his daily life, he tries to live his personal motto to “code with honor, defend the right, and pursue lofty undertakings.” In his day job, Sean is a Fullstack web developer at Decipher Tech Studios, a startup in Old Town Alexandria that is building a microservices framework. In his spare time, he leads the DC Chapter of Operation Code, a nonprofit that helps military, veterans, and military spouses learn to code, break into the DC tech community, and code the future through open-source contributions to nonprofits and government digital services teams.
 
-- title: React Explained, Explained
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-05
-  room:
-  authors:
-    - name: Joshua Nelson
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/9GesiCMCYvI
-  description: |-
-    Some people think React is easy to understand, and some people thing it’s super difficult. How can both be true? I’ll go over different approaches for explaining React, techniques for explaining more effectively, and some gotchas and pitfalls that people often experience (which might surprise you!) Joshua Nelson is a developer at Atlassian, and has spent his time honing a UI platform that lets developers quickly create user experiences that are consistent and well designed across the suite of Atlassian products. He cares deeply about enabling developers to improve user’s experience in Atlassian products. Through many successes and failures, he has learnt what works (and what doesn’t!) and is looking forward to sharing these lessons with you. Our apologies for the bad sound. We had the other speakers all wear a pocket recorder, which gave us much better sound.
+  - title: Leveling up through Code Reviews
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-05
+    room:
+    authors:
+      - name: Elisheba Anderson
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0YkNVkSjDIc
+    description: |-
+      Leveling up through Code Reviews by Elisheba Anderson Are you new to your career, and you want to know a new way to level up? You’ve tried side projects, going to meetups, listening to presentations, but you want something more? Well, this talk is for you! What if there was another way to get better? I’ve found that through completing code reviews, I’ve learned about what to look for in my own code and how React works. Join me as we walk through those concepts together. Elisheba Anderson is a Software Engineer working on the modernization of the US Immigration System with Geocent. When she’s not working on that, she’s working on side projects aimed at comedy, real estate or any fun thing the desires. Bottom line, this girl loves to program and learn more about technology. Also, she’s an avid Washingtonian doing and eating everything that the city has the offer.
 
-- title: Demystifying React Performance
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-05
-  room:
-  authors:
-    - name: Steve Kinney
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/p4xby21rMkg
-  description: |-
-    React is fast! Yea. But, any application that grows begins to develop its own edge cases that require us to do detective work to get the best performance. We’ll take a look at some of the common pitfalls React applications, how to diagnose them, & how to measure the effectiveness of your solutions. Steve Kinney is a principal engineer at SendGrid where he works on creating a rich WYSIWYG editor for building HTML emails using modern web technologies. Previously, he was the director of the front-end engineering program at the Turing School of Software and Design in Denver, Colorado where he taught JavaScript and other technologies to aspiring developers from across the country. He is a recovering New York City public school teacher and recently learned how to drive a car.
+  - title: Managing Reusable Logic in React
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-05
+    room:
+    authors:
+      - name: Valerie Woolard Srinivasan
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Usdj-aoJ4Cw
+    description: |-
+      Mixing with HOCs, RenderProps, and Mixins: Managing Reusable Logic in React by Valerie Woolard Srinivasan React provides many possibilities for managing shared logic and concerns between components. This talk will delve into the implementation, advantages, and drawbacks of three possible approaches to this common issue: mixins, higher-order components, and render props. Valerie Woolard Srinivasan is the software engineering team lead for Panoply’s publishing platform, Megaphone. She loves podcasts, language, running, and vegetarian food. She leads Women Who Code DC’s algorithms meetup and teaches classes with Girl Develop It DC.
+
+  - title: React, the future & you
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-05
+    room:
+    authors:
+      - name: Jenn Creighton
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/js-y5H5wxvI
+    description: |-
+      React, the future & you by Jenn Creighton Fiber, a new Context API, new lifecycle methods, Suspense, an experimental Profiler, memoized function components — it’s been a huge year for React. In this talk, we’ll rewind to the release of 16.0 — why did it matter and what’s happened since. I’ll share how to prepare for the upcoming lifecycle changes and what Suspense will mean for your application. Jenn Creighton is a senior front end engineer at ClassPass where she writes code between workouts. She is likely to talk your ear off about React, JavaScript, or her hatred of CSS floats. She lives in New York City with her 2 cats & 1 dog & a handful of succulents. Say hello to her @gurlcode!
+
+  - title: React Explained, Explained
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-05
+    room:
+    authors:
+      - name: Joshua Nelson
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9GesiCMCYvI
+    description: |-
+      Some people think React is easy to understand, and some people thing it’s super difficult. How can both be true? I’ll go over different approaches for explaining React, techniques for explaining more effectively, and some gotchas and pitfalls that people often experience (which might surprise you!) Joshua Nelson is a developer at Atlassian, and has spent his time honing a UI platform that lets developers quickly create user experiences that are consistent and well designed across the suite of Atlassian products. He cares deeply about enabling developers to improve user’s experience in Atlassian products. Through many successes and failures, he has learnt what works (and what doesn’t!) and is looking forward to sharing these lessons with you. Our apologies for the bad sound. We had the other speakers all wear a pocket recorder, which gave us much better sound.
+
+  - title: Demystifying React Performance
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-05
+    room:
+    authors:
+      - name: Steve Kinney
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/p4xby21rMkg
+    description: |-
+      React is fast! Yea. But, any application that grows begins to develop its own edge cases that require us to do detective work to get the best performance. We’ll take a look at some of the common pitfalls React applications, how to diagnose them, & how to measure the effectiveness of your solutions. Steve Kinney is a principal engineer at SendGrid where he works on creating a rich WYSIWYG editor for building HTML emails using modern web technologies. Previously, he was the director of the front-end engineering program at the Turing School of Software and Design in Denver, Colorado where he taught JavaScript and other technologies to aspiring developers from across the country. He is a recovering New York City public school teacher and recently learned how to drive a car.

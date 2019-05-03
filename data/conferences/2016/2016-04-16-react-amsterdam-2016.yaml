@@ -1,219 +1,235 @@
-- title: React Native Architecture Overview
-  lang: en
-  type: regular
-  level:
-  time: 2016-04-16
-  room:
-  authors:
-    - name: Tadeu Zagallo
-      twitter: tadeuzagallo
-      github: tadeuzagallo
-      website:
-  slides:
-    - https://speakerdeck.com/reactamsterdam/tadeu-zagallo-facebook-london-react-native-architecture-overview
-  videos:
-    - https://youtu.be/Ah2qNbI40vE
-  description: |-
-    Software Engineer at Facebook who works on React Native performance. He will talk about React Native architecture and best practices to get all the benefits of using the platform.
+conference:
 
-- title: Migrating Safely to React
-  lang: en
-  type: regular
-  level:
-  time: 2016-04-16
-  room:
-  authors:
-    - name: Jamis Charles
-      twitter: jamischarles
-      github: jamischarles
-      website:
-  slides:
-    - https://speakerdeck.com/reactamsterdam/jamis-charles-paypal-san-jose-migrating-safely-to-react
-  videos:
-    - https://youtu.be/sXDZBxbRRag
+  name: React Amsterdam 2016
+  url: https://react.amsterdam/2016/
+  status: complete
+  date:
+    from: 2016-04-16
+    to: 2016-04-16
+  location:
+    country: Netherlands
+    city: Amsterdam
   description: |-
-    You love React. You want to rewrite your whole app in React right now. But you have millions of paying users, and maintaining a stable app is absolutely critical. How do you migrate now and optimise for future change?
+    React Amsterdam is a celebration of good things coming together: React.JS that rocks and spring in Amsterdam that blossoms. Event will take place in the neighbourhood of abandoned shipbuilding factory in 10 minutes by ferry from Amsterdam Central station in the venue named Pllek (The Place in Dutch).
 
-- title: Building Reactive GraphQL Apps With Apollo
-  lang: en
-  type: regular
-  level:
-  time: 2016-04-16
-  room:
-  authors:
-    - name: Martijn Walraven
-      twitter: martijnwalraven
-      github: martijnwalraven
-      website:
-  slides:
-    - https://speakerdeck.com/reactamsterdam/martijn-walraven-meteor-amsterdam-building-reactive-graphql-apps-with-apollo
-  videos:
-    - https://youtu.be/1Dgt691lXhs
-  description: |-
-    Martijn Walraven, Meteor, Amsterdam on Building Reactive GraphQL Apps With Apollo.In this talk, I’ll introduce our efforts to design a reactive system to automatically re-run GraphQL queries when the underlying data changes. You will see how to make the collaborative parts of your app update in real time with little extra code, how to integrate with a SQL database or REST API, and how this works in concert with GraphQL’s best features to simplify your app’s data management while being predictable and maintainable.
+talks:
 
-- title: Mastering Server-rendered Apps
-  lang: en
-  type: regular
-  level:
-  time: 2016-04-16
-  room:
-  authors:
-    - name: Sven Anders Robbestad
-      twitter: svenardocom
-      github: svenanders
-      website:
-  slides:
-    - https://speakerdeck.com/reactamsterdam/sven-anders-robbestad-inmeta-consulting-as-oslo-mastering-server-rendered-apps
-  videos:
-    - https://youtu.be/tlysAZSd45k
-  description: |-
-    Sven Anders Robbestad, Inmeta Consulting AS, Oslo on Mastering Server-rendered Apps,Creating a fully server-rendered app is perhaps the most intimidating challenge a React dev faces. This talk will show you how to wrap your mind around the React, Express, shared routing and data flow Redux and come out the other end with a fully realised server-rendered app.
+  - title: React Native Architecture Overview
+    lang: en
+    type: regular
+    level:
+    time: 2016-04-16
+    room:
+    authors:
+      - name: Tadeu Zagallo
+        twitter: tadeuzagallo
+        github: tadeuzagallo
+        website:
+    slides:
+      - https://speakerdeck.com/reactamsterdam/tadeu-zagallo-facebook-london-react-native-architecture-overview
+    videos:
+      - https://youtu.be/Ah2qNbI40vE
+    description: |-
+      Software Engineer at Facebook who works on React Native performance. He will talk about React Native architecture and best practices to get all the benefits of using the platform.
 
-- title: Testing React Applications
-  lang: en
-  type: regular
-  level:
-  time: 2016-04-16
-  room:
-  authors:
-    - name: Jack Franklin
-      twitter: jack_franklin
-      github: jackfranklin
-      website:
-  slides:
-    - https://speakerdeck.com/reactamsterdam/jack-franklin-pusher-london-testing-react-applications
-  videos:
-    - https://youtu.be/KBhHsYlF4mQ
-  description: |-
-    Jack Franklin, Pusher, London on Testing React Applications,We'll discuss the best tooling and approaches for building ReactJS applications in the NodeJS environment and in the browser using React TestUtils and other third party libraries that make it easy to test your components. We'll see how to build components in a way that makes them more maintainable, testable and easier to work with.
+  - title: Migrating Safely to React
+    lang: en
+    type: regular
+    level:
+    time: 2016-04-16
+    room:
+    authors:
+      - name: Jamis Charles
+        twitter: jamischarles
+        github: jamischarles
+        website:
+    slides:
+      - https://speakerdeck.com/reactamsterdam/jamis-charles-paypal-san-jose-migrating-safely-to-react
+    videos:
+      - https://youtu.be/sXDZBxbRRag
+    description: |-
+      You love React. You want to rewrite your whole app in React right now. But you have millions of paying users, and maintaining a stable app is absolutely critical. How do you migrate now and optimise for future change?
 
-- title: React For Game Development
-  lang: en
-  type: regular
-  level:
-  time: 2016-04-16
-  room:
-  authors:
-    - name: Johannes Stein
-      twitter: frostney_
-      github: frostney
-      website:
-  slides:
-    - https://speakerdeck.com/reactamsterdam/johannes-stein-freelance-berlin-react-for-game-development
-  videos:
-    - https://youtu.be/JaK-RrYPPRk
-  description: |-
-    Johannes Stein, freelancer, Berlin on React For Game Development.Using React for game development may not seem like an obvious choice at first. With React itself being compared to the Doom 3 game engine at F8 2014, we may not find ourselves in such a bad spot. We will take a look at how games are usually structured. Then we will examine different concepts in game development such as the entity-component pattern, object pools, and how we can implement them in React. At the end, we'll put it all together into a React-powered game.
+  - title: Building Reactive GraphQL Apps With Apollo
+    lang: en
+    type: regular
+    level:
+    time: 2016-04-16
+    room:
+    authors:
+      - name: Martijn Walraven
+        twitter: martijnwalraven
+        github: martijnwalraven
+        website:
+    slides:
+      - https://speakerdeck.com/reactamsterdam/martijn-walraven-meteor-amsterdam-building-reactive-graphql-apps-with-apollo
+    videos:
+      - https://youtu.be/1Dgt691lXhs
+    description: |-
+      Martijn Walraven, Meteor, Amsterdam on Building Reactive GraphQL Apps With Apollo.In this talk, I’ll introduce our efforts to design a reactive system to automatically re-run GraphQL queries when the underlying data changes. You will see how to make the collaborative parts of your app update in real time with little extra code, how to integrate with a SQL database or REST API, and how this works in concert with GraphQL’s best features to simplify your app’s data management while being predictable and maintainable.
 
-- title: Javascript Style Sheets
-  lang: en
-  type: regular
-  level:
-  time: 2016-04-16
-  room:
-  authors:
-    - name: Oleg Slobodskoi
-      twitter: oleg008
-      github: kof
-      website:
-  slides:
-    - https://speakerdeck.com/reactamsterdam/oleg-slobodskoi-chatgrape-berlin-javascript-style-sheets
-  videos:
-    - https://youtu.be/BI4frdqSBY4
-  description: |-
-    Oleg Slobodskoi, Chatgrape, Berlin on Javascript Style Sheets About the good parts of writing styles in javascript using JSS. Comparison to other existing CSS solutions and points about negative aspects got so far.
+  - title: Mastering Server-rendered Apps
+    lang: en
+    type: regular
+    level:
+    time: 2016-04-16
+    room:
+    authors:
+      - name: Sven Anders Robbestad
+        twitter: svenardocom
+        github: svenanders
+        website:
+    slides:
+      - https://speakerdeck.com/reactamsterdam/sven-anders-robbestad-inmeta-consulting-as-oslo-mastering-server-rendered-apps
+    videos:
+      - https://youtu.be/tlysAZSd45k
+    description: |-
+      Sven Anders Robbestad, Inmeta Consulting AS, Oslo on Mastering Server-rendered Apps,Creating a fully server-rendered app is perhaps the most intimidating challenge a React dev faces. This talk will show you how to wrap your mind around the React, Express, shared routing and data flow Redux and come out the other end with a fully realised server-rendered app.
 
-- title: Introducing and Implementing React at Coolblue
-  lang: en
-  type: regular
-  level:
-  time: 2016-04-16
-  room:
-  authors:
-    - name: Paul van Dam
-      twitter:
-      github: pcvandamcb
-      website:
-  slides:
-    - https://speakerdeck.com/reactamsterdam/paul-van-dam-coolblue-rotterdam-introducing-and-implementing-react-at-coolblue
-  videos:
-    - https://youtu.be/3aHCYceqOrU
-  description: |-
-    Paul van Dam, Coolblue, Rotterdam on Introducing and Implementing React at Coolblue,At Coolblue we want to keep our employees as happy as possible. That means handing them tools that are fast and easy to work with. Last year we started building new tooling using React. How did we come to this decision and how does it suit a fast growing, dynamic organisation? In this talk I will take you on a trip through the research and decision making that was part of coming to our current development stack.
+  - title: Testing React Applications
+    lang: en
+    type: regular
+    level:
+    time: 2016-04-16
+    room:
+    authors:
+      - name: Jack Franklin
+        twitter: jack_franklin
+        github: jackfranklin
+        website:
+    slides:
+      - https://speakerdeck.com/reactamsterdam/jack-franklin-pusher-london-testing-react-applications
+    videos:
+      - https://youtu.be/KBhHsYlF4mQ
+    description: |-
+      Jack Franklin, Pusher, London on Testing React Applications,We'll discuss the best tooling and approaches for building ReactJS applications in the NodeJS environment and in the browser using React TestUtils and other third party libraries that make it easy to test your components. We'll see how to build components in a way that makes them more maintainable, testable and easier to work with.
 
-- title: Building Loveable UIs
-  lang: en
-  type: regular
-  level:
-  time: 2016-04-16
-  room:
-  authors:
-    - name: Henrique Alves
-      twitter: healves82
-      github: henriquea
-      website:
-  slides:
-    - https://speakerdeck.com/reactamsterdam/henrique-alves-dadi-plus-london-building-loveable-uis
-  videos:
-    - https://youtu.be/rbtmCqBEYpg
-  description: |-
-    Henrique Alves, DADI+, London on Building Loveable UIs,Sharing my experience building loveable UIs. Talking about presentational components and pattern types for build scalable web apps in React.
+  - title: React For Game Development
+    lang: en
+    type: regular
+    level:
+    time: 2016-04-16
+    room:
+    authors:
+      - name: Johannes Stein
+        twitter: frostney_
+        github: frostney
+        website:
+    slides:
+      - https://speakerdeck.com/reactamsterdam/johannes-stein-freelance-berlin-react-for-game-development
+    videos:
+      - https://youtu.be/JaK-RrYPPRk
+    description: |-
+      Johannes Stein, freelancer, Berlin on React For Game Development.Using React for game development may not seem like an obvious choice at first. With React itself being compared to the Doom 3 game engine at F8 2014, we may not find ourselves in such a bad spot. We will take a look at how games are usually structured. Then we will examine different concepts in game development such as the entity-component pattern, object pools, and how we can implement them in React. At the end, we'll put it all together into a React-powered game.
 
-- title: State Management is Easy
-  lang: en
-  type: regular
-  level:
-  time: 2016-04-16
-  room:
-  authors:
-    - name: Michel Weststrate
-      twitter: mweststrate
-      github: mweststrate
-      website:
-  slides:
-    - https://speakerdeck.com/reactamsterdam/michel-weststrate-mendix-rotterdam-state-management-is-easy
-  videos:
-    - https://youtu.be/ApmSsu3qnf0
-  description: |-
-    Michel Weststrate, Mendix, Rotterdam on State Management is Easy State is the heart of each application and there is no quicker way to create buggy, unmanageable applications then by producing inconsistent state. Hence many state management solutions try to restrict the ways in which you can modify state, for example by making state immutable. But this introduces new problems; data needs to be normalised, referential integrity can no longer be guaranteed and it becomes next to impossible to use powerful concepts like prototypes.At Mendix these restrictions where unacceptable and so MobX was born. MobX makes state management simple again by addressing the root issue: it makes it impossible to produce an inconsistent state. This makes state management simple and scalable again.
+  - title: Javascript Style Sheets
+    lang: en
+    type: regular
+    level:
+    time: 2016-04-16
+    room:
+    authors:
+      - name: Oleg Slobodskoi
+        twitter: oleg008
+        github: kof
+        website:
+    slides:
+      - https://speakerdeck.com/reactamsterdam/oleg-slobodskoi-chatgrape-berlin-javascript-style-sheets
+    videos:
+      - https://youtu.be/BI4frdqSBY4
+    description: |-
+      Oleg Slobodskoi, Chatgrape, Berlin on Javascript Style Sheets About the good parts of writing styles in javascript using JSS. Comparison to other existing CSS solutions and points about negative aspects got so far.
 
-- title: The React Native Playground
-  lang: en
-  type: regular
-  level:
-  time: 2016-04-16
-  room:
-  authors:
-    - name: Joshua Sierles
-      twitter: jsierles
-      github: jsierles
-      website:
-  slides:
-    - https://speakerdeck.com/reactamsterdam/joshua-sierles-freelance-sevilla-the-react-native-playground
-  videos:
-    - https://youtu.be/fN3AVJuxMIc
-  description: |-
-    Joshua Sierles, freelancer, Sevilla on The React Native Playground.The React Native Playground breaks down barriers to mobile development by making it easy to write React Native apps right in the browser, and test them across platforms and devices.
+  - title: Introducing and Implementing React at Coolblue
+    lang: en
+    type: regular
+    level:
+    time: 2016-04-16
+    room:
+    authors:
+      - name: Paul van Dam
+        twitter:
+        github: pcvandamcb
+        website:
+    slides:
+      - https://speakerdeck.com/reactamsterdam/paul-van-dam-coolblue-rotterdam-introducing-and-implementing-react-at-coolblue
+    videos:
+      - https://youtu.be/3aHCYceqOrU
+    description: |-
+      Paul van Dam, Coolblue, Rotterdam on Introducing and Implementing React at Coolblue,At Coolblue we want to keep our employees as happy as possible. That means handing them tools that are fast and easy to work with. Last year we started building new tooling using React. How did we come to this decision and how does it suit a fast growing, dynamic organisation? In this talk I will take you on a trip through the research and decision making that was part of coming to our current development stack.
 
-- title: Solving a Tooling Problem For React Native
-  lang: en
-  type: regular
-  level:
-  time: 2016-04-16
-  room:
-  authors:
-    - name: Alexey Kureev
-      twitter: Kureevalexey
-      github: Kureev
-      website:
-    - name: Mike Grabowski
-      twitter: grabbou
-      github: grabbou
-      website:
-  slides:
-    - https://speakerdeck.com/reactamsterdam/wroclaw-solving-a-tooling-problem-for-react-native
-  videos:
-    - https://youtu.be/iF6lNtqFLKY
-  description: |-
-    Alexey Kureev from Publitas, Amsterdam, and Mike Grabowski from Callstack.io, Wroclaw, on Solving a Tooling Problem For React Native.Unfortunately, React Native, being open-sourced last year, still suffers from the lack of great unified tooling. Managing native dependencies, adding custom fonts, just to name few, are the most common things that require you to know a lot of Objective-C and Java. This talk addresses to solve React Native tooling problems.
+  - title: Building Loveable UIs
+    lang: en
+    type: regular
+    level:
+    time: 2016-04-16
+    room:
+    authors:
+      - name: Henrique Alves
+        twitter: healves82
+        github: henriquea
+        website:
+    slides:
+      - https://speakerdeck.com/reactamsterdam/henrique-alves-dadi-plus-london-building-loveable-uis
+    videos:
+      - https://youtu.be/rbtmCqBEYpg
+    description: |-
+      Henrique Alves, DADI+, London on Building Loveable UIs,Sharing my experience building loveable UIs. Talking about presentational components and pattern types for build scalable web apps in React.
+
+  - title: State Management is Easy
+    lang: en
+    type: regular
+    level:
+    time: 2016-04-16
+    room:
+    authors:
+      - name: Michel Weststrate
+        twitter: mweststrate
+        github: mweststrate
+        website:
+    slides:
+      - https://speakerdeck.com/reactamsterdam/michel-weststrate-mendix-rotterdam-state-management-is-easy
+    videos:
+      - https://youtu.be/ApmSsu3qnf0
+    description: |-
+      Michel Weststrate, Mendix, Rotterdam on State Management is Easy State is the heart of each application and there is no quicker way to create buggy, unmanageable applications then by producing inconsistent state. Hence many state management solutions try to restrict the ways in which you can modify state, for example by making state immutable. But this introduces new problems; data needs to be normalised, referential integrity can no longer be guaranteed and it becomes next to impossible to use powerful concepts like prototypes.At Mendix these restrictions where unacceptable and so MobX was born. MobX makes state management simple again by addressing the root issue: it makes it impossible to produce an inconsistent state. This makes state management simple and scalable again.
+
+  - title: The React Native Playground
+    lang: en
+    type: regular
+    level:
+    time: 2016-04-16
+    room:
+    authors:
+      - name: Joshua Sierles
+        twitter: jsierles
+        github: jsierles
+        website:
+    slides:
+      - https://speakerdeck.com/reactamsterdam/joshua-sierles-freelance-sevilla-the-react-native-playground
+    videos:
+      - https://youtu.be/fN3AVJuxMIc
+    description: |-
+      Joshua Sierles, freelancer, Sevilla on The React Native Playground.The React Native Playground breaks down barriers to mobile development by making it easy to write React Native apps right in the browser, and test them across platforms and devices.
+
+  - title: Solving a Tooling Problem For React Native
+    lang: en
+    type: regular
+    level:
+    time: 2016-04-16
+    room:
+    authors:
+      - name: Alexey Kureev
+        twitter: Kureevalexey
+        github: Kureev
+        website:
+      - name: Mike Grabowski
+        twitter: grabbou
+        github: grabbou
+        website:
+    slides:
+      - https://speakerdeck.com/reactamsterdam/wroclaw-solving-a-tooling-problem-for-react-native
+    videos:
+      - https://youtu.be/iF6lNtqFLKY
+    description: |-
+      Alexey Kureev from Publitas, Amsterdam, and Mike Grabowski from Callstack.io, Wroclaw, on Solving a Tooling Problem For React Native.Unfortunately, React Native, being open-sourced last year, still suffers from the lack of great unified tooling. Managing native dependencies, adding custom fonts, just to name few, are the most common things that require you to know a lot of Objective-C and Java. This talk addresses to solve React Native tooling problems.

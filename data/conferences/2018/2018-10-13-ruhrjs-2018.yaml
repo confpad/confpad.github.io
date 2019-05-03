@@ -1,248 +1,264 @@
-- title: Opening and Welcoming
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-13
-  room:
-  authors:
-  slides:
-  videos:
-    - https://youtu.be/CqPO6b6UYcg
-  description: |-
+conference:
 
-- title: Building a ray tracing engine with JS
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-13
-  room:
-  authors:
-    - name: Madlaina Kalunder
-      twitter: anialdam
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/KxwgdnkQvWs
+  name: RuhrJS 2018
+  url: https://2018.ruhrjs.de/
+  status: complete
+  date:
+    from: 2018-10-13
+    to: 2018-10-14
+  location:
+    country: Germany
+    city: Bochum
   description: |-
-    In this talk we learn about the basics of real time 3D graphics and what we need in order to produce realistic looking 3D graphics in the browser by building a very simple ray tracing render engine. Breaking a complex concept down inspires web developers to get creative and enhance their web products with 3D and webVR. We will look at practical techniques and performance tips for browser-based 3D.
+    The RuhrJS is an annual, community-driven JavaScript conference and the first of its kind in the metropolitan Ruhr Area in Germany. First held in 2016, the RuhrJS brings together an international line-up of renowned speakers with 200 JavaScript developers from all over the globe, creating a forum for developers to connect with companies and one another. We aim to foster a vibrant developer community and thereby strengthen our region's role in the tech industry. Our vision is to contribute to the digital transition of the Ruhr Area. We want to do our bit in making the region more attractive for everyone who is enthusiastic about JavaScript programming. We take particular pride in our diversity program. With the help of our sponsors, we can provide around 20% of our tickets to people from underrepresented groups every year. We are happy to welcome you in October, 13th and 14th in Bochum!
 
-- title: 2018 - The Year of Web Components
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-13
-  room:
-  authors:
-    - name: Dominik Kundel
-      twitter: dkundel
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/qaHAVwVloUQ
-  description: |-
-    Every view library or framework seems to be based on components these days. But these components are typically not cross-compatible. In this talk we'll look at how to solve the problem with web components and the tools that we can use to build shareable, compatible, standards based components.
+talks:
 
-- title: Creative experiments with WebGL shaders in JavaScript
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-13
-  room:
-  authors:
-    - name: Martin Splitt
-      twitter: g33konaut
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/t4BnyWfK9FA
-  description: |-
-    Creative experiments with WebGL shaders in JavaScript Browser and JavaScript are a wonderful platform to create pretty cool graphical effects and do creative coding - in this talk we will go on adventure of shader programming with WebGL. We will throw away all of the weird terms and go step by step from what's a GPU, what's a shader and then see what we can do, for instance Instagram-like filters, psychodelic lavalamp-like animations and the like
+  - title: Opening and Welcoming
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-13
+    room:
+    authors:
+    slides:
+    videos:
+      - https://youtu.be/CqPO6b6UYcg
+    description: |-
 
-- title: Humanizing Your Documentation
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-13
-  room:
-  authors:
-    - name: Carolyn Stransky
-      twitter: carolstran
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/CGliehOOCKQ
-  description: |-
-    It’s no secret that people don’t usually read technical documentation for pleasure. Users often come to your docs when they are frustrated, disappointed and at their lowest. In this talk, we’ll discuss how the language we use affects our users, as well as the first steps towards writing accessible, approachable and use case-driven docs.
+  - title: Building a ray tracing engine with JS
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-13
+    room:
+    authors:
+      - name: Madlaina Kalunder
+        twitter: anialdam
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/KxwgdnkQvWs
+    description: |-
+      In this talk we learn about the basics of real time 3D graphics and what we need in order to produce realistic looking 3D graphics in the browser by building a very simple ray tracing render engine. Breaking a complex concept down inspires web developers to get creative and enhance their web products with 3D and webVR. We will look at practical techniques and performance tips for browser-based 3D.
 
-- title: Haute Codeture
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-13
-  room:
-  authors:
-    - name: Stephanie Nemeth
-      twitter: stephaniecodes
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/TK_QuFCNSAU
-  description: |-
-    What if, instead going for practicality, we used IoT to create fleeting moments of interaction and beauty? What would happen if others could interact with my clothing via a web app? I’ll share my story of how I got started with hardware and how it’s evolved into using fashion to create interactive, artistic experiences with strangers.
+  - title: 2018 - The Year of Web Components
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-13
+    room:
+    authors:
+      - name: Dominik Kundel
+        twitter: dkundel
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qaHAVwVloUQ
+    description: |-
+      Every view library or framework seems to be based on components these days. But these components are typically not cross-compatible. In this talk we'll look at how to solve the problem with web components and the tools that we can use to build shareable, compatible, standards based components.
 
-- title: Build highly dynamic apps with Vue.js
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-13
-  room:
-  authors:
-    - name: Norbert Frank
-      twitter: norbertdfrank
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/pBdFsD-R7r4
-  description: |-
-    Vue.js is so lightweight that it can be used just like jQuery. But what about really complex web applications? Vue has got you covered here as well! In this talk, we’ll look into design principles and architecture of complex Vue apps. Let me share my experience with this great framework, the power of Vuex, Higher-Order Components and render functions and how to build reusable custom plugins.
+  - title: Creative experiments with WebGL shaders in JavaScript
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-13
+    room:
+    authors:
+      - name: Martin Splitt
+        twitter: g33konaut
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/t4BnyWfK9FA
+    description: |-
+      Creative experiments with WebGL shaders in JavaScript Browser and JavaScript are a wonderful platform to create pretty cool graphical effects and do creative coding - in this talk we will go on adventure of shader programming with WebGL. We will throw away all of the weird terms and go step by step from what's a GPU, what's a shader and then see what we can do, for instance Instagram-like filters, psychodelic lavalamp-like animations and the like
 
-- title: webpack and the challenge of WebAssembly
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-13
-  room:
-  authors:
-    - name: Tobias Koppers
-      twitter: wSokra
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/k86Z_6_BJy0
-  description: |-
-    In this talk I'll tell the story about how WebAssembly came into webpack and the challenges we encountered during this journey. Notes: We will also have a panel discussion for 30 Minutes together with Tobias.
+  - title: Humanizing Your Documentation
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-13
+    room:
+    authors:
+      - name: Carolyn Stransky
+        twitter: carolstran
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/CGliehOOCKQ
+    description: |-
+      It’s no secret that people don’t usually read technical documentation for pleasure. Users often come to your docs when they are frustrated, disappointed and at their lowest. In this talk, we’ll discuss how the language we use affects our users, as well as the first steps towards writing accessible, approachable and use case-driven docs.
 
-- title: Extending JavaScript with Rust
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-14
-  room:
-  authors:
-    - name: Dan Callahan
-      twitter: callahad
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/PagxhBN2ACw
-  description: |-
-    Use the best tool for the job" doesn't work on the Web. Even if you pick a different tool--CoffeeScript, TypeScript, or even Elm--you're really using JavaScript. And JavaScript, like any high level language, has strong opinions about what your code can do and how it's going to do it. WebAssembly ("WASM") changes everything by transforming the Web into a low level platform that can support other programming languages. This talk dives into one of those languages, Rust, and looks at the new and exciting things that it enables. If you want to experiment with WASM, there's no better place to start.
+  - title: Haute Codeture
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-13
+    room:
+    authors:
+      - name: Stephanie Nemeth
+        twitter: stephaniecodes
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/TK_QuFCNSAU
+    description: |-
+      What if, instead going for practicality, we used IoT to create fleeting moments of interaction and beauty? What would happen if others could interact with my clothing via a web app? I’ll share my story of how I got started with hardware and how it’s evolved into using fashion to create interactive, artistic experiences with strangers.
 
-- title: The how's and why's of flexible React components
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-14
-  room:
-  authors:
-    - name: Jenn Creighton
-      twitter: gurlcode
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/L38FYURPHDo
-  description: |-
-    React is a well-loved framework. It gives front end engineers the tools to create component-based views. But we're still discovering the best practices for component architecture. Follow me as I refactor real components from a real codebase that are real complex into simple, flexible code.
+  - title: Build highly dynamic apps with Vue.js
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-13
+    room:
+    authors:
+      - name: Norbert Frank
+        twitter: norbertdfrank
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/pBdFsD-R7r4
+    description: |-
+      Vue.js is so lightweight that it can be used just like jQuery. But what about really complex web applications? Vue has got you covered here as well! In this talk, we’ll look into design principles and architecture of complex Vue apps. Let me share my experience with this great framework, the power of Vuex, Higher-Order Components and render functions and how to build reusable custom plugins.
 
-- title: Scalable Angular Architecture
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-14
-  room:
-  authors:
-    - name: Bartosz Pietrucha
-      twitter: pietrucha
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Rc-xMHMYw_M
-  description: |-
-    When we think about scalable front-end application, we can think of increasing complexity, growing amount of data and large teams. From proper abstractions between layers, modular design and lazy loading to unidirectional flow and state management you will see how those help to scale Angular apps.
+  - title: webpack and the challenge of WebAssembly
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-13
+    room:
+    authors:
+      - name: Tobias Koppers
+        twitter: wSokra
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/k86Z_6_BJy0
+    description: |-
+      In this talk I'll tell the story about how WebAssembly came into webpack and the challenges we encountered during this journey. Notes: We will also have a panel discussion for 30 Minutes together with Tobias.
 
-- title: Build the API you want to see in the world
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-14
-  room:
-  authors:
-    - name: Michelle Garret
-      twitter: msmichellegar
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/OCUzs6AxzEY
-  description: |-
-    Build the API you want to see in the world Have you ever used a third party API, and hated it? You don't have to live with it! I'll be sharing my experience transforming ugly JSON into the GraphQL API of my dreams. I'll speak about how GraphQL helped me get the data I wanted, and share some strategies for designing schema you'll love. By the end of this talk, you'll understand how GraphQL can improve the quality of your data, and life.
+  - title: Extending JavaScript with Rust
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-14
+    room:
+    authors:
+      - name: Dan Callahan
+        twitter: callahad
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/PagxhBN2ACw
+    description: |-
+      Use the best tool for the job" doesn't work on the Web. Even if you pick a different tool--CoffeeScript, TypeScript, or even Elm--you're really using JavaScript. And JavaScript, like any high level language, has strong opinions about what your code can do and how it's going to do it. WebAssembly ("WASM") changes everything by transforming the Web into a low level platform that can support other programming languages. This talk dives into one of those languages, Rust, and looks at the new and exciting things that it enables. If you want to experiment with WASM, there's no better place to start.
 
-- title: Use ReasonML in your React applications
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-14
-  room:
-  authors:
-    - name: David Kopal
-      twitter: coding_lawyer
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/g6wHQrrqCgk
-  description: |-
-    Reason is a syntax on top of Ocaml that compiles not only to JavaScript but to native and bitecode as well. Join me, and discover the power of the built-in type system and functional programming features. You’ll see for yourself how easy it is to build a React app using Reason and how you can incorporate it into your existing React code. In doing so, you’ll learn Reason’s core principles as well.
+  - title: The how's and why's of flexible React components
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-14
+    room:
+    authors:
+      - name: Jenn Creighton
+        twitter: gurlcode
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/L38FYURPHDo
+    description: |-
+      React is a well-loved framework. It gives front end engineers the tools to create component-based views. But we're still discovering the best practices for component architecture. Follow me as I refactor real components from a real codebase that are real complex into simple, flexible code.
 
-- title: Building Cross Platform Desktop Apps With Electron
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-14
-  room:
-  authors:
-    - name: Vanessa Yuen
-      twitter: vanessayuenn
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Qaa7E6-XOJ4
-  description: |-
+  - title: Scalable Angular Architecture
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-14
+    room:
+    authors:
+      - name: Bartosz Pietrucha
+        twitter: pietrucha
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Rc-xMHMYw_M
+    description: |-
+      When we think about scalable front-end application, we can think of increasing complexity, growing amount of data and large teams. From proper abstractions between layers, modular design and lazy loading to unidirectional flow and state management you will see how those help to scale Angular apps.
 
-- title: Make the Web Brighter with the CSS Paint API
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-14
-  room:
-  authors:
-    - name: Vitalii Bobrov
-      twitter: bobrov1989
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/yPP6YCuJ29w
-  description: |-
-    CSS Paint API allows you to programmatically generate an image for any CSS property that can use pictures. As the part of the Houdini project, it gives you access to CSS engine internals. With few lines of JavaScript, you could create and register own CSS functions similar to linear-gradient. Why is this feature so cool? This talk will answer this question through amazing practical examples.
+  - title: Build the API you want to see in the world
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-14
+    room:
+    authors:
+      - name: Michelle Garret
+        twitter: msmichellegar
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OCUzs6AxzEY
+    description: |-
+      Build the API you want to see in the world Have you ever used a third party API, and hated it? You don't have to live with it! I'll be sharing my experience transforming ugly JSON into the GraphQL API of my dreams. I'll speak about how GraphQL helped me get the data I wanted, and share some strategies for designing schema you'll love. By the end of this talk, you'll understand how GraphQL can improve the quality of your data, and life.
+
+  - title: Use ReasonML in your React applications
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-14
+    room:
+    authors:
+      - name: David Kopal
+        twitter: coding_lawyer
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/g6wHQrrqCgk
+    description: |-
+      Reason is a syntax on top of Ocaml that compiles not only to JavaScript but to native and bitecode as well. Join me, and discover the power of the built-in type system and functional programming features. You’ll see for yourself how easy it is to build a React app using Reason and how you can incorporate it into your existing React code. In doing so, you’ll learn Reason’s core principles as well.
+
+  - title: Building Cross Platform Desktop Apps With Electron
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-14
+    room:
+    authors:
+      - name: Vanessa Yuen
+        twitter: vanessayuenn
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Qaa7E6-XOJ4
+    description: |-
+
+  - title: Make the Web Brighter with the CSS Paint API
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-14
+    room:
+    authors:
+      - name: Vitalii Bobrov
+        twitter: bobrov1989
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/yPP6YCuJ29w
+    description: |-
+      CSS Paint API allows you to programmatically generate an image for any CSS property that can use pictures. As the part of the Houdini project, it gives you access to CSS engine internals. With few lines of JavaScript, you could create and register own CSS functions similar to linear-gradient. Why is this feature so cool? This talk will answer this question through amazing practical examples.

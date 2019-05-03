@@ -1,345 +1,361 @@
-- title: The state of React
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-17
-  room:
-  authors:
-    - name: Ken Wheeler
-      twitter: ken_wheeler
-      github: kenwheeler
-      website:
-  slides:
-  videos:
-    - https://youtu.be/QFk6YwMz8nc
-  description: |-
-    Ken is the Director of Open Source at Formidable, the author of several popular open source libraries, and a frequent conference speaker often focusing on alternative uses of React. He is the creator of libraries such as Spectacle, urql, react-music, react-game-kit and Webpack Dashboard. He also maintains a healthy Twitter presence, and enjoys red meat, whiskey and recreational archery.
+conference:
 
-- title: The Case for Whimsy
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-17
-  room:
-  authors:
-    - name: Joshua Comeau
-      twitter: joshWcomeau
-      github: joshwcomeau
-      website:
-  slides:
-    - https://github.com/joshwcomeau/react-europe-talk-2018
-  videos:
-    - https://youtu.be/Z2d9rw9RwyE
+  name: ReactEurope 2018
+  url: https://2018.react-europe.org/
+  status: complete
+  date:
+    from: 2018-05-17
+    to: 2018-05-18
+  location:
+    country: France
+    city: Paris
   description: |-
-    This talk explores various ways that we, as front-end developers, can make our products more delightful to use. While it’s design’s job to give us static mock-ups, it’s our job to bring those designs to life.
+    After changing the way we think about state management in JavaScript applications, the way we write native mobile apps with React Native, how we interact with remote data with GraphQL or even how we manage CSS, the React community keeps innovating and its ecosystem growing.At this conference, you will learn how new projects such as ReasonML will bring web and mobile React Native apps to the next level and how projects such as React Native Web, React Primitive and Expo make it easy to write, deploy and share code on all platforms quickly. The conference aims to give talks that inspire and explore new futuristic ideas dealing with all the techs we enjoy from the React ecosystem such as React.js, React Native, GraphQL, Relay, Universal apps, ReasonML, Webpack, inline CSS and more.
 
-- title: Subtyping is Overrated
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-17
-  room:
-  authors:
-    - name: Caleb Meredith
-      twitter: calebmer
-      github: calebmer
-      website:
-  slides:
-  videos:
-    - https://youtu.be/M6MsDBFwa6Y
-  description: |-
-    Let’s play a game. What’s the biggest difference between type systems for JavaScript and an ML inspired language like OCaml or Haskell? Subtyping! Subtyping allows runtime values of some type to be used as a different type, and how a language designer chooses to address subtyping deeply affects every other design decision in the language. From the way values are represented in the runtime, to how effective type inference algorithms are, to the supported polymorphic code patterns. Implicit runtime subtyping is common in today’s most popular languages like JavaScript, Java, C#, and Ruby but the tradeoffs aren’t well understood. Subtyping is useful, but in today’s programming environment subtyping is overrated.
+talks:
 
-- title: Declarative future of gestures and animations in React Native
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-17
-  room:
-  authors:
-    - name: Krzysztof Magiera
-      twitter: kzzzf
-      github: kmagiera
-      website:
-  slides:
-  videos:
-    - https://youtu.be/kdq4z2708VM
-  description: |-
-    Animations and touch related interactions are the secret ingredients that can make a good app an awesome app. Apparently, they are also the elements most sensitive to frame drops, which degrades the great experience they ought to provide. We will learn what the challenges are when building performant and responsive UI on mobile, and get to know how declarative APIs let us deal with these problems.
+  - title: The state of React
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-17
+    room:
+    authors:
+      - name: Ken Wheeler
+        twitter: ken_wheeler
+        github: kenwheeler
+        website:
+    slides:
+    videos:
+      - https://youtu.be/QFk6YwMz8nc
+    description: |-
+      Ken is the Director of Open Source at Formidable, the author of several popular open source libraries, and a frequent conference speaker often focusing on alternative uses of React. He is the creator of libraries such as Spectacle, urql, react-music, react-game-kit and Webpack Dashboard. He also maintains a healthy Twitter presence, and enjoys red meat, whiskey and recreational archery.
 
-- title: A Journey Through React Apollo
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-17
-  room:
-  authors:
-    - name: Peggy Rayzis
-      twitter: peggyrayzis
-      github: peggyrayzis
-      website:
-  slides:
-  videos:
-    - https://youtu.be/fCXYA3lZTbo
-  description: |-
-    Exploring the world through code, travel, and music.Open Source Engineer @apollographql
+  - title: The Case for Whimsy
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-17
+    room:
+    authors:
+      - name: Joshua Comeau
+        twitter: joshWcomeau
+        github: joshwcomeau
+        website:
+    slides:
+      - https://github.com/joshwcomeau/react-europe-talk-2018
+    videos:
+      - https://youtu.be/Z2d9rw9RwyE
+    description: |-
+      This talk explores various ways that we, as front-end developers, can make our products more delightful to use. While it’s design’s job to give us static mock-ups, it’s our job to bring those designs to life.
 
-- title: Replicated Redux
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-17
-  room:
-  authors:
-    - name: Jim Purbrick
-      twitter: JimPurbrick
-      github: jimpurbrick
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Fr3vp0C22H0
-  description: |-
-    Redux’s reified events, serializable actions and state, middleware, side effect free functional reducers and time travel super powers make it well suited for building simple, networked, testable decoupled simulations. This talk shows how to put those pieces together to build networked ReactVR applications and how it might be useful in a wide variety of other domains.
+  - title: Subtyping is Overrated
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-17
+    room:
+    authors:
+      - name: Caleb Meredith
+        twitter: calebmer
+        github: calebmer
+        website:
+    slides:
+    videos:
+      - https://youtu.be/M6MsDBFwa6Y
+    description: |-
+      Let’s play a game. What’s the biggest difference between type systems for JavaScript and an ML inspired language like OCaml or Haskell? Subtyping! Subtyping allows runtime values of some type to be used as a different type, and how a language designer chooses to address subtyping deeply affects every other design decision in the language. From the way values are represented in the runtime, to how effective type inference algorithms are, to the supported polymorphic code patterns. Implicit runtime subtyping is common in today’s most popular languages like JavaScript, Java, C#, and Ruby but the tradeoffs aren’t well understood. Subtyping is useful, but in today’s programming environment subtyping is overrated.
 
-- title: Bridging React Native Back to its Roots
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-17
-  room:
-  authors:
-    - name: Vincent Riemer
-      twitter: vincentriemer
-      github: vincentriemer
-      website: http://vincentriemer.com/
-  slides:
-  videos:
-    - https://youtu.be/aOWIJ4Mgb2k
-  description: |-
-    React Native has come a long way since its announcement 3 years ago, but what if its future meant looking even further into its past?
+  - title: Declarative future of gestures and animations in React Native
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-17
+    room:
+    authors:
+      - name: Krzysztof Magiera
+        twitter: kzzzf
+        github: kmagiera
+        website:
+    slides:
+    videos:
+      - https://youtu.be/kdq4z2708VM
+    description: |-
+      Animations and touch related interactions are the secret ingredients that can make a good app an awesome app. Apparently, they are also the elements most sensitive to frame drops, which degrades the great experience they ought to provide. We will learn what the challenges are when building performant and responsive UI on mobile, and get to know how declarative APIs let us deal with these problems.
 
-- title: Do the Right (to Left) Thing Directional Content in React
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-17
-  room:
-  authors:
-    - name: Maja Wichrowska
-      twitter: majapw
-      github: majapw
-      website:
-  slides:
-  videos:
-    - https://youtu.be/dZ9vQYSNVyo
-  description: |-
-    RIn 2017, Airbnb supported 27 languages and had developed robust translation tools that made it easy to add more. We launched Croatian in May with little overhead beyond setting up the new domain and translating phrases. However, this was not true for all new languages; our next most requested language, Hebrew, posed a unique challenge. Because it reads right-to-left, the entire Hebrew UI must be flipped. Browsers only handle reversing the DOM structure, but styling and interactions must be coded manually.This talk covers the journey of enabling right-to-left languages on airbnb.com. Recently, Airbnb has moved to a React frontend and away from Sass to a CSS-in-JS paradigm. We developed a performant and cross-browser solution for RTL that leveraged a CSS-in-JS abstraction layer to isolate the logic from our codebase. Our efforts led us most of the way to launching in Arabic and Hebrew while requiring little effort from our product engineers and with minimal disruption to their work.
+  - title: A Journey Through React Apollo
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-17
+    room:
+    authors:
+      - name: Peggy Rayzis
+        twitter: peggyrayzis
+        github: peggyrayzis
+        website:
+    slides:
+    videos:
+      - https://youtu.be/fCXYA3lZTbo
+    description: |-
+      Exploring the world through code, travel, and music.Open Source Engineer @apollographql
 
-- title: The fun of runtime type systems (Or "Funtime type systems")
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-17
-  room:
-  authors:
-    - name: Michel Weststrate
-      twitter: mweststrate
-      github: mweststrate
-      website:
-  slides:
-  videos:
-    - https://youtu.be/010daBQPFmw
-  description: |-
-    The React prop-types package is a simple runtime type system that is used for property validation. But runtime type systems can do many more things than just data validation. Because they are very flexible (as you can basically reuse the entire hosting language to express your types) it will be much less likely that you will run into structures that cannot be expressed in the type system. You can generate runtime types on the fly from other sources (json-schema, graphql etc) or compose them together.In this talk I will walk you through some runtime type systems, like prop-types, tcomb and mobx-state-tree. But also show you how runtime- and compile-time type systems like TypeScript or Flow can co-exist and leverage each other.If you thought so far Higher Order Components or render callbacks where cool, in this talk I will show you that these patterns can be applied in general to any data structure you have.
+  - title: Replicated Redux
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-17
+    room:
+    authors:
+      - name: Jim Purbrick
+        twitter: JimPurbrick
+        github: jimpurbrick
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Fr3vp0C22H0
+    description: |-
+      Redux’s reified events, serializable actions and state, middleware, side effect free functional reducers and time travel super powers make it well suited for building simple, networked, testable decoupled simulations. This talk shows how to put those pieces together to build networked ReactVR applications and how it might be useful in a wide variety of other domains.
 
-- title: Up and Running with Universal Components
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-17
-  room:
-  authors:
-    - name: Kurtis Kemple
-      twitter: kurtiskemple
-      github: kkemple
-      website:
-    - name: Samantha Bretous
-      twitter: samanthabretous
-      github: samanthabretous
-      website:
-  slides:
-  videos:
-    - https://youtu.be/D1NkyO-J6B0
-  description: |-
-    Creating universal components isn’t just about reusability. Its about creating a development strategy. Without careful planning, your team can quickly end up in some pretty nasty spots. Join Samantha and Kurt as they walk through what universal components are, some best practices, and most importantly, some pitfalls to avoid!
+  - title: Bridging React Native Back to its Roots
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-17
+    room:
+    authors:
+      - name: Vincent Riemer
+        twitter: vincentriemer
+        github: vincentriemer
+        website: http://vincentriemer.com/
+    slides:
+    videos:
+      - https://youtu.be/aOWIJ4Mgb2k
+    description: |-
+      React Native has come a long way since its announcement 3 years ago, but what if its future meant looking even further into its past?
 
-- title: ReasonReact and local state
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-18
-  room:
-  authors:
-    - name: Cristiano Calcagno
-      twitter: ccrisccris
-      github: cristianoc
-      website:
-  slides:
-  videos:
-    - https://youtu.be/qJnP-Vatp3M
-  description: |-
-    The talk introduces ReasonReact and the way it operates on the state of React components. This is illustrated by introducing the notion of local state presented via a series of examples. State is changed by means of reducers, that can operate directly on the current component, or on distant components via remote actions. Further examples illustrate how certain animations can be considered instances of local state that can be easily composed.
+  - title: Do the Right (to Left) Thing Directional Content in React
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-17
+    room:
+    authors:
+      - name: Maja Wichrowska
+        twitter: majapw
+        github: majapw
+        website:
+    slides:
+    videos:
+      - https://youtu.be/dZ9vQYSNVyo
+    description: |-
+      RIn 2017, Airbnb supported 27 languages and had developed robust translation tools that made it easy to add more. We launched Croatian in May with little overhead beyond setting up the new domain and translating phrases. However, this was not true for all new languages; our next most requested language, Hebrew, posed a unique challenge. Because it reads right-to-left, the entire Hebrew UI must be flipped. Browsers only handle reversing the DOM structure, but styling and interactions must be coded manually.This talk covers the journey of enabling right-to-left languages on airbnb.com. Recently, Airbnb has moved to a React frontend and away from Sass to a CSS-in-JS paradigm. We developed a performant and cross-browser solution for RTL that leveraged a CSS-in-JS abstraction layer to isolate the logic from our codebase. Our efforts led us most of the way to launching in Arabic and Hebrew while requiring little effort from our product engineers and with minimal disruption to their work.
 
-- title: Full Stack React Navigation
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-18
-  room:
-  authors:
-    - name: Eric Vicenti
-      twitter: EricVicenti
-      github: ericvicenti
-      website:
-  slides:
-  videos:
-    - https://youtu.be/GzbravzRrBM
-  description: |-
-    Navigation works in a wildly different way on Mobile apps than it does on the web. Why is that? We will explore how navigation state and URL handling tends to vary between the environments, and introduce a model that manages the complexity of both use-cases. Then, we will dive into the API of React Navigation to see how easy it can be to implement an app with fully-featured navigation on iOS, Android, browser apps, and server-rendered React sites!
+  - title: The fun of runtime type systems (Or "Funtime type systems")
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-17
+    room:
+    authors:
+      - name: Michel Weststrate
+        twitter: mweststrate
+        github: mweststrate
+        website:
+    slides:
+    videos:
+      - https://youtu.be/010daBQPFmw
+    description: |-
+      The React prop-types package is a simple runtime type system that is used for property validation. But runtime type systems can do many more things than just data validation. Because they are very flexible (as you can basically reuse the entire hosting language to express your types) it will be much less likely that you will run into structures that cannot be expressed in the type system. You can generate runtime types on the fly from other sources (json-schema, graphql etc) or compose them together.In this talk I will walk you through some runtime type systems, like prop-types, tcomb and mobx-state-tree. But also show you how runtime- and compile-time type systems like TypeScript or Flow can co-exist and leverage each other.If you thought so far Higher Order Components or render callbacks where cool, in this talk I will show you that these patterns can be applied in general to any data structure you have.
 
-- title: A year of CodeSandbox
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-18
-  room:
-  authors:
-    - name: Ives van Hoorne
-      twitter: CompuIves
-      github: CompuIves
-      website:
-  slides:
-  videos:
-    - https://youtu.be/qURPenhndYA
-  description: |-
-    CodeSandbox recently turned one year old, Ives tells all about what happened along the way and what he's learned from building CodeSandbox.
+  - title: Up and Running with Universal Components
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-17
+    room:
+    authors:
+      - name: Kurtis Kemple
+        twitter: kurtiskemple
+        github: kkemple
+        website:
+      - name: Samantha Bretous
+        twitter: samanthabretous
+        github: samanthabretous
+        website:
+    slides:
+    videos:
+      - https://youtu.be/D1NkyO-J6B0
+    description: |-
+      Creating universal components isn’t just about reusability. Its about creating a development strategy. Without careful planning, your team can quickly end up in some pretty nasty spots. Join Samantha and Kurt as they walk through what universal components are, some best practices, and most importantly, some pitfalls to avoid!
 
-- title: Immutable Application Architecture
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-18
-  room:
-  authors:
-    - name: Lee Byron
-      twitter: leeb
-      github: leebyron
-      website:
-  slides:
-  videos:
-    - https://youtu.be/oTcDmnAXZ4E
-  description: |-
-    I want to talk about building apps (of all kinds), the kind of problems we often confront, and how we can embrace immutability to rethink established best practices. This is a sort of sequel-in-spirit to my 2015 talk about Immutable.js. Come for the gifs and over-eager ravings of a bowtie-wearing know-it-all; stay for the deep-dive on algorithmic techniques, musings on the origins of architecture and the human psychology of people who make things; leave with a new way of building high quality apps.
+  - title: ReasonReact and local state
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-18
+    room:
+    authors:
+      - name: Cristiano Calcagno
+        twitter: ccrisccris
+        github: cristianoc
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qJnP-Vatp3M
+    description: |-
+      The talk introduces ReasonReact and the way it operates on the state of React components. This is illustrated by introducing the notion of local state presented via a series of examples. State is changed by means of reducers, that can operate directly on the current component, or on distant components via remote actions. Further examples illustrate how certain animations can be considered instances of local state that can be easily composed.
 
-- title: WebAssembly becoming the biggest platform
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-18
-  room:
-  authors:
-    - name: Sven Sauleau
-      twitter: svensauleau
-      github: xtuc
-      website:
-  slides:
-  videos:
-    - https://youtu.be/zc31ES1KZtY
-  description: |-
-    WebAssembly is still very young but is very promising. It outperforms the current web in many ways. Some says that it will replace JavaScript, but don’t worry it will not happen.
+  - title: Full Stack React Navigation
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-18
+    room:
+    authors:
+      - name: Eric Vicenti
+        twitter: EricVicenti
+        github: ericvicenti
+        website:
+    slides:
+    videos:
+      - https://youtu.be/GzbravzRrBM
+    description: |-
+      Navigation works in a wildly different way on Mobile apps than it does on the web. Why is that? We will explore how navigation state and URL handling tends to vary between the environments, and introduce a model that manages the complexity of both use-cases. Then, we will dive into the API of React Navigation to see how easy it can be to implement an app with fully-featured navigation on iOS, Android, browser apps, and server-rendered React sites!
 
-- title: Beyond React
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-18
-  room:
-  authors:
-    - name: Devin Abbott
-      twitter: dvnabbott
-      github: dabbott
-      website:
-  slides:
-  videos:
-    - https://youtu.be/HVwLOcllTfI
-  description: |-
-    React fundamentally changed how we build UI in JavaScript, yet the principles behind React are equally powerful outside the JavaScript ecosystem. What if we could build a design tool based on these principles, allowing us to design flexible, composable component systems? What if we could transpile these components into any language on any platform, such as a Swift components on iOS, or Kotlin components on Android?In this talk, he demonstrates how React could fundamentally alter design and native development, just like it did for JavaScript.
+  - title: A year of CodeSandbox
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-18
+    room:
+    authors:
+      - name: Ives van Hoorne
+        twitter: CompuIves
+        github: CompuIves
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qURPenhndYA
+    description: |-
+      CodeSandbox recently turned one year old, Ives tells all about what happened along the way and what he's learned from building CodeSandbox.
 
-- title: Stop writing code
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-18
-  room:
-  authors:
-    - name: Sunil Pai
-      twitter: threepointone
-      github: threepointone
-      website:
-  slides:
-  videos:
-    - https://youtu.be/WYWVGQKnz5M
-  description: |-
-    Mad scientist at Facebook. Built websites for myntra, yahoo, visa, and others. Plays a blue guitar. Author of glamor.
+  - title: Immutable Application Architecture
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-18
+    room:
+    authors:
+      - name: Lee Byron
+        twitter: leeb
+        github: leebyron
+        website:
+    slides:
+    videos:
+      - https://youtu.be/oTcDmnAXZ4E
+    description: |-
+      I want to talk about building apps (of all kinds), the kind of problems we often confront, and how we can embrace immutability to rethink established best practices. This is a sort of sequel-in-spirit to my 2015 talk about Immutable.js. Come for the gifs and over-eager ravings of a bowtie-wearing know-it-all; stay for the deep-dive on algorithmic techniques, musings on the origins of architecture and the human psychology of people who make things; leave with a new way of building high quality apps.
 
-- title: Using lit APIs to make dope games with Expo
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-18
-  room:
-  authors:
-    - name: Evan Bacon
-      twitter: Baconbrix
-      github: EvanBacon
-      website:
-  slides:
-  videos:
-    - https://youtu.be/oHBGhHlVOI0
-  description: |-
-    In this expo symposium (exposium) 🎙 we shall cordially discuss the usage of recreational cyber-gaming frameworks and their place in the native development environment.
+  - title: WebAssembly becoming the biggest platform
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-18
+    room:
+    authors:
+      - name: Sven Sauleau
+        twitter: svensauleau
+        github: xtuc
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zc31ES1KZtY
+    description: |-
+      WebAssembly is still very young but is very promising. It outperforms the current web in many ways. Some says that it will replace JavaScript, but don’t worry it will not happen.
 
-- title: SVGR or how a simple problem became a 2K stars library
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-18
-  room:
-  authors:
-    - name: Greg Berge
-      twitter: neoziro
-      github: neoziro
-      website:
-  slides:
-  videos:
-    - https://youtu.be/geKCzi7ZPkA
-  description: |-
-    I am a JavaScript and React lover, I am passionate about the web and I like coding projects. Recently I co-founded Smooth Code in Paris where I give React, JavaScript and GraphQL trainings. I am author of several successful libraries like Shipit or SVGR. I am also maintaining React Hot Loader.
+  - title: Beyond React
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-18
+    room:
+    authors:
+      - name: Devin Abbott
+        twitter: dvnabbott
+        github: dabbott
+        website:
+    slides:
+    videos:
+      - https://youtu.be/HVwLOcllTfI
+    description: |-
+      React fundamentally changed how we build UI in JavaScript, yet the principles behind React are equally powerful outside the JavaScript ecosystem. What if we could build a design tool based on these principles, allowing us to design flexible, composable component systems? What if we could transpile these components into any language on any platform, such as a Swift components on iOS, or Kotlin components on Android?In this talk, he demonstrates how React could fundamentally alter design and native development, just like it did for JavaScript.
 
-- title: Type-safe React Native with ReasonML
-  lang: en
-  type: regular
-  level:
-  time: 2018-05-18
-  room:
-  authors:
-    - name: Jared Forsyth
-      twitter: jaredforsyth
-      github: jaredly
-      website:
-  slides:
-  videos:
-    - https://youtu.be/mXvgZpgRJ6Y
-  description: |-
-    Types can be invaluable when working on a large project, by making refactoring less error-prone, enabling better coordinating between teammates, and improving readability. Reason gives you a powerful, battle-tested type system with cross-file inference, macros, and excellent JavaScript interop. Learn how you can start using Reason right now to bring more safety and maintainability to your React Native codebase, and catch a glimpse of a future where Reason can bypass JavaScript entirely to make your react app truly native.
+  - title: Stop writing code
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-18
+    room:
+    authors:
+      - name: Sunil Pai
+        twitter: threepointone
+        github: threepointone
+        website:
+    slides:
+    videos:
+      - https://youtu.be/WYWVGQKnz5M
+    description: |-
+      Mad scientist at Facebook. Built websites for myntra, yahoo, visa, and others. Plays a blue guitar. Author of glamor.
+
+  - title: Using lit APIs to make dope games with Expo
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-18
+    room:
+    authors:
+      - name: Evan Bacon
+        twitter: Baconbrix
+        github: EvanBacon
+        website:
+    slides:
+    videos:
+      - https://youtu.be/oHBGhHlVOI0
+    description: |-
+      In this expo symposium (exposium) 🎙 we shall cordially discuss the usage of recreational cyber-gaming frameworks and their place in the native development environment.
+
+  - title: SVGR or how a simple problem became a 2K stars library
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-18
+    room:
+    authors:
+      - name: Greg Berge
+        twitter: neoziro
+        github: neoziro
+        website:
+    slides:
+    videos:
+      - https://youtu.be/geKCzi7ZPkA
+    description: |-
+      I am a JavaScript and React lover, I am passionate about the web and I like coding projects. Recently I co-founded Smooth Code in Paris where I give React, JavaScript and GraphQL trainings. I am author of several successful libraries like Shipit or SVGR. I am also maintaining React Hot Loader.
+
+  - title: Type-safe React Native with ReasonML
+    lang: en
+    type: regular
+    level:
+    time: 2018-05-18
+    room:
+    authors:
+      - name: Jared Forsyth
+        twitter: jaredforsyth
+        github: jaredly
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mXvgZpgRJ6Y
+    description: |-
+      Types can be invaluable when working on a large project, by making refactoring less error-prone, enabling better coordinating between teammates, and improving readability. Reason gives you a powerful, battle-tested type system with cross-file inference, macros, and excellent JavaScript interop. Learn how you can start using Reason right now to bring more safety and maintainability to your React Native codebase, and catch a glimpse of a future where Reason can bypass JavaScript entirely to make your react app truly native.
 

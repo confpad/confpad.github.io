@@ -1,196 +1,212 @@
-- title: Breaking the norm with creative CSS
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Aga Naplocha
-      twitter: aganaplocha
-      github: aganaplocha
-      website:
-  slides:
-    - https://www.slideshare.net/aganaplocha/breaking-the-norm-with-creative-css-124703506
-  videos:
-    - https://youtu.be/UdvnuPs6_dk
-  description: |-
-    Feeling uninspired and tired of constantly building the same layouts? Let’s leverage the CSS superpowers you might have heard about before, but haven’t already used. Let’s explore new CSS features that give us a great set of tools and enable to do amazing things on the web! The future of web graphics and CSS as a design language is bright, and finally it will make us less dependent on the image editors. We’re entering the new era with in-browser designing. Don’t stay behind and get your creative juices flowing!
+conference:
 
-- title: Make your website accessible for everyone
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Hugues Tennier
-      twitter: huguestennier
-      github:
-      website:
-  slides:
-    - https://noti.st/huguestennier/09Ww5r/make-your-website-accessible-for-everyone
-  videos:
-    - https://youtu.be/mRc5Dz6ymxs
+  name: dotCSS 2018
+  url: https://www.dotcss.io/
+  status: complete
+  date:
+    from: 2018-11-08
+    to: 2018-11-08
+  location:
+    country: France
+    city: Paris
   description: |-
-    Hugues shares five simple tips that can make or break a web experience for a lot of users: color contrast, resizable text, semantic HTML, focus states and keyboard interactions.
+    Come see the best developers worldwide speak on the most beautiful stages Paris has to offer.
 
-- title: What CSS taught me
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Dan Cederholm
-      twitter: simplebits
-      github: simplebits
-      website:
-  slides:
-  videos:
-    - https://youtu.be/kBtDHWrRZ3Q
-  description: |-
-    Reflecting on 20 years building websites, Dan shares what CSS taught him. Often, it had little to do with CSS itself, but everything to do with making mistakes, teaching while you're still learning, and that everything we create on the web will eventually disappear. And that's ok.
+talks:
 
-- title: Variable Fonts and the Future of Web Design
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Mandy Michael
-      twitter: mandy_kerr
-      github: mandymichael
-      website:
-  slides:
-    - https://drive.google.com/file/d/1o8v8IBKYSzNEymfgE1SzCSymudoPS4Uu/view
-  videos:
-    - https://youtu.be/luAqYCd_TC8
-  description: |-
-    The web is entering a new era of design opportunities with the introduction of CSS Grid, Photoshop like effects such as filters and blend modes and importantly the increasing support for Variable Fonts. Variable fonts can offer practical and creative opportunities for web design. We can combine them with pre-existing technologies to improve our font performance, design, accessibility and usability of our websites. We can also begin to explore new and exciting creative opportunities for story telling, design and expression in ways standard fonts could never provide us. This is just the beginning of our journey to discover what we can do with variable fonts.
+  - title: Breaking the norm with creative CSS
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Aga Naplocha
+        twitter: aganaplocha
+        github: aganaplocha
+        website:
+    slides:
+      - https://www.slideshare.net/aganaplocha/breaking-the-norm-with-creative-css-124703506
+    videos:
+      - https://youtu.be/UdvnuPs6_dk
+    description: |-
+      Feeling uninspired and tired of constantly building the same layouts? Let’s leverage the CSS superpowers you might have heard about before, but haven’t already used. Let’s explore new CSS features that give us a great set of tools and enable to do amazing things on the web! The future of web graphics and CSS as a design language is bright, and finally it will make us less dependent on the image editors. We’re entering the new era with in-browser designing. Don’t stay behind and get your creative juices flowing!
 
-- title: Don't write HTML the way George Lucas wrote Star Wars
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Fabien Zibi
-      twitter: _faz
-      github:
-      website:
-  slides:
-    - https://github.com/dahfazz/dotcss-2018-lightning/
-  videos:
-    - https://youtu.be/f9DV0CRopJk
-  description: |-
-    Fabien focuses on one of the links between CSS and Accessibility. In the short term, whatever you want to do with CSS, your HTML should always be written in the exact order you want it to be read.
+  - title: Make your website accessible for everyone
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Hugues Tennier
+        twitter: huguestennier
+        github:
+        website:
+    slides:
+      - https://noti.st/huguestennier/09Ww5r/make-your-website-accessible-for-everyone
+    videos:
+      - https://youtu.be/mRc5Dz6ymxs
+    description: |-
+      Hugues shares five simple tips that can make or break a web experience for a lot of users: color contrast, resizable text, semantic HTML, focus states and keyboard interactions.
 
-- title: 'i18n: A Brief Primer of Web Internationalization'
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Elika J. Etemad
-      twitter: fantasai
-      github: fantasai
-      website:
-  slides:
-    - http://fantasai.inkedblade.net/style/talks/i18n-primer/
-  videos:
-    - https://youtu.be/3c9Ard9Ffxc
-  description: |-
-    Elika ('fantasai') does a rapid review of internationalization and localization, the Web platform features that facilitate it, and how to use them.
+  - title: What CSS taught me
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Dan Cederholm
+        twitter: simplebits
+        github: simplebits
+        website:
+    slides:
+    videos:
+      - https://youtu.be/kBtDHWrRZ3Q
+    description: |-
+      Reflecting on 20 years building websites, Dan shares what CSS taught him. Often, it had little to do with CSS itself, but everything to do with making mistakes, teaching while you're still learning, and that everything we create on the web will eventually disappear. And that's ok.
 
-- title: CSS at the Intersection
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Natalya Shelburne
-      twitter: natalyathree
-      github: tallys
-      website:
-  slides:
-    - https://docs.google.com/presentation/embed?id=1Cj67a-wU1xDIUiBSx9T5ojzMGXTskA8mvx1DslYBCjg&start=false&loop=false&
-  videos:
-    - https://youtu.be/MJVRKmA83LU
-  description: |-
-    CSS exists at an intersection between mental models. How do we know? Because we keep hearing the same endless debate: "Is CSS broken or awesome?" Instead, we should work on building tools for collaboration - enabling teams to communicate by creating interfaces to accommodate different mental models.
+  - title: Variable Fonts and the Future of Web Design
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Mandy Michael
+        twitter: mandy_kerr
+        github: mandymichael
+        website:
+    slides:
+      - https://drive.google.com/file/d/1o8v8IBKYSzNEymfgE1SzCSymudoPS4Uu/view
+    videos:
+      - https://youtu.be/luAqYCd_TC8
+    description: |-
+      The web is entering a new era of design opportunities with the introduction of CSS Grid, Photoshop like effects such as filters and blend modes and importantly the increasing support for Variable Fonts. Variable fonts can offer practical and creative opportunities for web design. We can combine them with pre-existing technologies to improve our font performance, design, accessibility and usability of our websites. We can also begin to explore new and exciting creative opportunities for story telling, design and expression in ways standard fonts could never provide us. This is just the beginning of our journey to discover what we can do with variable fonts.
 
-- title: Not your usual CSS counters
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Roman Komarov
-      twitter: kizmarh
-      github:
-      website:
-  slides:
-    - https://www.kizu.ru/counters/
-  videos:
-    - https://youtu.be/9OH45755NKs
-  description: |-
-    Not a lot of people use CSS counters, especially for something which is not an ordered list, but as Roman explains, this unique set of properties can be very powerful if you'll know where to look.
+  - title: Don't write HTML the way George Lucas wrote Star Wars
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Fabien Zibi
+        twitter: _faz
+        github:
+        website:
+    slides:
+      - https://github.com/dahfazz/dotcss-2018-lightning/
+    videos:
+      - https://youtu.be/f9DV0CRopJk
+    description: |-
+      Fabien focuses on one of the links between CSS and Accessibility. In the short term, whatever you want to do with CSS, your HTML should always be written in the exact order you want it to be read.
 
-- title: Line breaking
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Florian Rivoal
-      twitter: frivoal
-      github: frivoal
-      website:
-  slides:
-    - https://florian.rivoal.net/talks/line-breaking/
-  videos:
-    - https://youtu.be/r5PLrAoyhv0
-  description: |-
-    Florian goes over a set of confusingly named properties and values from the css-text-3 specification that control what happens to white spaces when laying out text, and how line breaking works. He explains the logic of the system, different ways the properties can be used to achieve various results, and looks into some of the complication caused by incomplete implementations.
+  - title: 'i18n: A Brief Primer of Web Internationalization'
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Elika J. Etemad
+        twitter: fantasai
+        github: fantasai
+        website:
+    slides:
+      - http://fantasai.inkedblade.net/style/talks/i18n-primer/
+    videos:
+      - https://youtu.be/3c9Ard9Ffxc
+    description: |-
+      Elika ('fantasai') does a rapid review of internationalization and localization, the Web platform features that facilitate it, and how to use them.
 
-- title: Read color hex codes
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: David DeSandro
-      twitter: desandro
-      github: desandro
-      website:
-  slides:
-    - https://speakerdeck.com/desandro/read-color-hex-codes
-  videos:
-    - https://youtu.be/eqZqx6lRPe0
-  description: |-
-    How does a colorblind designer work with color? Not with his eyes! Instead David relies on reading color hex codes. He shares his process into understanding those six-digit codes and related insights into human vision, computer history, and digital color.
+  - title: CSS at the Intersection
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Natalya Shelburne
+        twitter: natalyathree
+        github: tallys
+        website:
+    slides:
+      - https://docs.google.com/presentation/embed?id=1Cj67a-wU1xDIUiBSx9T5ojzMGXTskA8mvx1DslYBCjg&start=false&loop=false&
+    videos:
+      - https://youtu.be/MJVRKmA83LU
+    description: |-
+      CSS exists at an intersection between mental models. How do we know? Because we keep hearing the same endless debate: "Is CSS broken or awesome?" Instead, we should work on building tools for collaboration - enabling teams to communicate by creating interfaces to accommodate different mental models.
 
-- title: 'SVG Filters: A Mini Crash Course'
-  lang: en
-  type: regular
-  level:
-  time: 2018-11-08
-  room:
-  authors:
-    - name: Sara Soueidan
-      twitter: SaraSoueidan
-      github: SaraSoueidan
-      website:
-  slides:
-    - https://sarasoueidan.com/slides/SVG-Filters-Crash-Course.pdf
-  videos:
-    - https://youtu.be/PHKLzpt-syI
-  description: |-
-    Sara gives you a crash course on SVG filters — why they are awesome, how they work, and examples of powerful effects you can create with them, in a friendly, easy-to-follow approach. Brace yourself, and get ready to set your imagination free and expand your creativity for what's possible on the Web today. When it comes to graphical effects on the Web, CSS has already come a long way in the last few years, with the introduction of CSS filters and blend modes a few years back. However, when compared to effects available in graphics editors such as Photoshop and the likes, CSS is still behind, by far. But SVG, on the other hand, is not that far behind. SVG comes with a set of filter primitives that enable you to recreate Photoshop-grade effects in the browser, using a few lines of code. While the syntax and attributes of these filters may seem intimidating and not very friendly at first, once you get a grasp of how they work, you'll have a very powerful tool in your arsenal, that allows you to push the boundaries of what is possible on the Web.
+  - title: Not your usual CSS counters
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Roman Komarov
+        twitter: kizmarh
+        github:
+        website:
+    slides:
+      - https://www.kizu.ru/counters/
+    videos:
+      - https://youtu.be/9OH45755NKs
+    description: |-
+      Not a lot of people use CSS counters, especially for something which is not an ordered list, but as Roman explains, this unique set of properties can be very powerful if you'll know where to look.
+
+  - title: Line breaking
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Florian Rivoal
+        twitter: frivoal
+        github: frivoal
+        website:
+    slides:
+      - https://florian.rivoal.net/talks/line-breaking/
+    videos:
+      - https://youtu.be/r5PLrAoyhv0
+    description: |-
+      Florian goes over a set of confusingly named properties and values from the css-text-3 specification that control what happens to white spaces when laying out text, and how line breaking works. He explains the logic of the system, different ways the properties can be used to achieve various results, and looks into some of the complication caused by incomplete implementations.
+
+  - title: Read color hex codes
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: David DeSandro
+        twitter: desandro
+        github: desandro
+        website:
+    slides:
+      - https://speakerdeck.com/desandro/read-color-hex-codes
+    videos:
+      - https://youtu.be/eqZqx6lRPe0
+    description: |-
+      How does a colorblind designer work with color? Not with his eyes! Instead David relies on reading color hex codes. He shares his process into understanding those six-digit codes and related insights into human vision, computer history, and digital color.
+
+  - title: 'SVG Filters: A Mini Crash Course'
+    lang: en
+    type: regular
+    level:
+    time: 2018-11-08
+    room:
+    authors:
+      - name: Sara Soueidan
+        twitter: SaraSoueidan
+        github: SaraSoueidan
+        website:
+    slides:
+      - https://sarasoueidan.com/slides/SVG-Filters-Crash-Course.pdf
+    videos:
+      - https://youtu.be/PHKLzpt-syI
+    description: |-
+      Sara gives you a crash course on SVG filters — why they are awesome, how they work, and examples of powerful effects you can create with them, in a friendly, easy-to-follow approach. Brace yourself, and get ready to set your imagination free and expand your creativity for what's possible on the Web today. When it comes to graphical effects on the Web, CSS has already come a long way in the last few years, with the introduction of CSS filters and blend modes a few years back. However, when compared to effects available in graphics editors such as Photoshop and the likes, CSS is still behind, by far. But SVG, on the other hand, is not that far behind. SVG comes with a set of filter primitives that enable you to recreate Photoshop-grade effects in the browser, using a few lines of code. While the syntax and attributes of these filters may seem intimidating and not very friendly at first, once you get a grasp of how they work, you'll have a very powerful tool in your arsenal, that allows you to push the boundaries of what is possible on the Web.

@@ -1,231 +1,247 @@
-- title: End to End Encryption for Mobile Developers
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-29
-  room:
-  authors:
-    - name: Hugues Bernet-Rollande
-      twitter: rompelstilchen
-      github: huguesbr
-      website:
-  slides:
-    - https://speakerdeck.com/huguesbr/end-to-end-encryption-for-mobile-developers
-  videos:
-    - https://youtu.be/CKzCFI6iNv0
-  description: |-
-    Hugues shares his learnings working on an end to end encrypted app. After a quick introduction of why you should use E2EE how it works, he goes over its biggest challenges on mobile, describing the shift of computation from your server to your mobile and the difference between security and safety, plus its UX/UI implications.
+conference:
 
-- title: 'Accessibility: A line of code can be many things'
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-29
-  room:
-  authors:
-    - name: Sally Shepard
-      twitter: mostgood
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/KUl3BxcvF-Q
+  name: dotSwift 2018
+  url: https://2018.dotswift.io/
+  status: complete
+  date:
+    from: 2018-01-29
+    to: 2018-01-29
+  location:
+    country: France
+    city: Paris
   description: |-
-    Accessibility is a complex problem. In this talk Sally looks underneath this ‘umbrella’ term, talks about making something usable by everyone and how complex vision is. She references a personal story of visual impairment, demonstrates how to recreate that impairment using GPUImage2 on the iPhone, then how to reverse it and discusses how powerful that can be in both testing your apps and in compensating for real impairments.
+    Come see the best developers worldwide speak on the most beautiful stages Paris has to offer.
 
-- title: Intro to ARKit
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-29
-  room:
-  authors:
-    - name: Bruno Muniz
-      twitter:
-      github: brunomunizaf
-      website:
-  slides:
-    - https://www.slideshare.net/BrunoMuniz11/intro-to-arkit-bruno-muniz-dotswift-18
-  videos:
-    - https://youtu.be/37i1TEYE59g
-  description: |-
-    Bruno demonstrates how to bootstrap a project with the ARKit framework with easy examples written in Swift and resources included. Starting from scratch, he covers setting up the environment and adding nodes, geometries & actions to the scene.
+talks:
 
-- title: Protocols All The Way Down
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-29
-  room:
-  authors:
-    - name: Ellen Shapiro
-      twitter: designatednerd
-      github: designatednerd
-      website:
-  slides:
-    - https://speakerdeck.com/designatednerd/protocols-all-the-way-down-dotswift-paris-january-2018
-  videos:
-    - https://youtu.be/a0m0acpM8II
-  description: |-
-    Ellen talks about the benefits and drawbacks of Protocol Oriented Programming, and protocols with default implementations.
+  - title: End to End Encryption for Mobile Developers
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-29
+    room:
+    authors:
+      - name: Hugues Bernet-Rollande
+        twitter: rompelstilchen
+        github: huguesbr
+        website:
+    slides:
+      - https://speakerdeck.com/huguesbr/end-to-end-encryption-for-mobile-developers
+    videos:
+      - https://youtu.be/CKzCFI6iNv0
+    description: |-
+      Hugues shares his learnings working on an end to end encrypted app. After a quick introduction of why you should use E2EE how it works, he goes over its biggest challenges on mobile, describing the shift of computation from your server to your mobile and the difference between security and safety, plus its UX/UI implications.
 
-- title: Extending the Standard Library
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-29
-  room:
-  authors:
-    - name: Ben Cohen
-      twitter: AirspeedSwift
-      github: airspeedswift
-      website:
-  slides:
-  videos:
-    - https://youtu.be/e18uipMmEoo
-  description: |-
-    You can play a part in making Swift a more expressive language! Ben talks about enhancing the Swift standard library, which is the basic vocabulary for writing programs in Swift. Have you ever wanted to make a contribution to the Swift project? The Swift standard library is written entirely in Swift, and if you have an idea to improve it, you could pitch an enhancement of your own. Ben takes you though the process of designing an addition to the standard library, and some of the things you need to consider when making an evolution proposal.
+  - title: 'Accessibility: A line of code can be many things'
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-29
+    room:
+    authors:
+      - name: Sally Shepard
+        twitter: mostgood
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/KUl3BxcvF-Q
+    description: |-
+      Accessibility is a complex problem. In this talk Sally looks underneath this ‘umbrella’ term, talks about making something usable by everyone and how complex vision is. She references a personal story of visual impairment, demonstrates how to recreate that impairment using GPUImage2 on the iPhone, then how to reverse it and discusses how powerful that can be in both testing your apps and in compensating for real impairments.
 
-- title: Object-Oriented Programming in Functional Programming in Swift
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-29
-  room:
-  authors:
-    - name: Graham Lee
-      twitter: iwasleeg
-      github: iamleeg
-      website:
-  slides:
-    - https://www.slideshare.net/iamleeg/objectoriented-programming-in-functional-programming-in-swift
-  videos:
-    - https://youtu.be/IQl1EmR9Hus
-  description: |-
-    Far from being mutually exclusive ways to write software, OOP and functional programming are two useful mental toolsets for designing software. Graham explores how the two are related to find out more about each.
+  - title: Intro to ARKit
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-29
+    room:
+    authors:
+      - name: Bruno Muniz
+        twitter:
+        github: brunomunizaf
+        website:
+    slides:
+      - https://www.slideshare.net/BrunoMuniz11/intro-to-arkit-bruno-muniz-dotswift-18
+    videos:
+      - https://youtu.be/37i1TEYE59g
+    description: |-
+      Bruno demonstrates how to bootstrap a project with the ARKit framework with easy examples written in Swift and resources included. Starting from scratch, he covers setting up the environment and adding nodes, geometries & actions to the scene.
 
-- title: Finally Solving the Expression Problem
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-29
-  room:
-  authors:
-    - name: Brandon Kase
-      twitter: bkase_
-      github: bkase
-      website:
-  slides:
-    - https://bkase.github.io/slides/no-problemo/#/
-  videos:
-    - https://youtu.be/EsanJ7_U89A
-  description: |-
-    How can we define some data type (for example a view layout) such that (1) we can later add new variants (new views) and (2) we can add new behavior (rendering to AppKit in addition to UIKit) without losing type safety or touching the first bit of code? This is known as the Expression Problem. Will Brandon find a way to solve it? Subclassing solves (1), but we can’t add new rendering logic to a base-class from outside that module. Swift’s enum solves (2), but we can’t add new cases later without modifying the enum. Swift 5’s Non-exhaustive-enums won’t work either. The Final Tagless Interpreter approach solves (1) and (2) taking advantage of Swift’s powerful Self type inside protocols. Data is defined with a protocol, new variants are added with protocol inheritance, and new behavior is added by providing a new protocol instance. Expressions are declared with generic functions and evaluated with identity functions. It’s wild! What’s unique about the Final Tagless approach is the clean separation both between any item and any possible evaluation of those items. This encourages an ecosystem of independent lego-block-like libraries from independent authors that can be glued together in ways neither author anticipated. Brandon believes Final Tagless Interpreters are a hidden gem as they are simple to understand and extremely powerful for solving all sorts of problems in our Swift code!
+  - title: Protocols All The Way Down
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-29
+    room:
+    authors:
+      - name: Ellen Shapiro
+        twitter: designatednerd
+        github: designatednerd
+        website:
+    slides:
+      - https://speakerdeck.com/designatednerd/protocols-all-the-way-down-dotswift-paris-january-2018
+    videos:
+      - https://youtu.be/a0m0acpM8II
+    description: |-
+      Ellen talks about the benefits and drawbacks of Protocol Oriented Programming, and protocols with default implementations.
 
-- title: How to make a successful ARKit app?
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-29
-  room:
-  authors:
-    - name: Oscar Falmer
-      twitter: osfalmer
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/OscarFalmer/how-to-make-a-successful-arkit-app
-  videos:
-    - https://youtu.be/JSUj3wbHil8
-  description: |-
-    ARKit is a glimpse of what is to come with AR Glasses. It's the perfect time for iOS developers to create or integrate ARKit in their apps to craft amazing user experiences. Based on his experience with TweetReality, Oscar shares his four main ingredients for a successful AR app: AR ideas, Timing, User Experience and how to integrate it in your app.
+  - title: Extending the Standard Library
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-29
+    room:
+    authors:
+      - name: Ben Cohen
+        twitter: AirspeedSwift
+        github: airspeedswift
+        website:
+    slides:
+    videos:
+      - https://youtu.be/e18uipMmEoo
+    description: |-
+      You can play a part in making Swift a more expressive language! Ben talks about enhancing the Swift standard library, which is the basic vocabulary for writing programs in Swift. Have you ever wanted to make a contribution to the Swift project? The Swift standard library is written entirely in Swift, and if you have an idea to improve it, you could pitch an enhancement of your own. Ben takes you though the process of designing an addition to the standard library, and some of the things you need to consider when making an evolution proposal.
 
-- title: Supporting Objective-C in a Swift codebase
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-29
-  room:
-  authors:
-    - name: Guy Daher
-      twitter: guydaher
-      github: spinach
-      website:
-  slides:
-    - https://drive.google.com/file/d/1AIz-r_bTng726TYmwsNFQHycAFN9REfO/view
-  videos:
-    - https://youtu.be/h4z7VZY34p0
-  description: |-
-    Objective-C and Swift are both widely used by developers. Apple went into a lot of effort to “bridge” those two languages. The problems arise when there is no equal notion in Objective-C for what you are trying to express in Swift. Guy showcases tips on ways to get around the unbridgeable features. Objective-C has been the main programming language for Apple platforms since the release of iOS. However, Apple recently introduced Swift which is rising in popularity. Both have pros and cons, and the good news is that Apple went into a lot of effort to “bridge” Objective-C and Swift as seamlessly as possible. The problems arise when the magic falls short. This happens when there is no equal notion in Objective-C for what you are trying to express in Swift. For example, optional value types and advanced enumerations are unbridgeable. The goal of this talk is to showcase tips on ways to get around those unbridgeable features. In that way, you can ensure a seamless interoperability between Objective-C and Swift.
+  - title: Object-Oriented Programming in Functional Programming in Swift
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-29
+    room:
+    authors:
+      - name: Graham Lee
+        twitter: iwasleeg
+        github: iamleeg
+        website:
+    slides:
+      - https://www.slideshare.net/iamleeg/objectoriented-programming-in-functional-programming-in-swift
+    videos:
+      - https://youtu.be/IQl1EmR9Hus
+    description: |-
+      Far from being mutually exclusive ways to write software, OOP and functional programming are two useful mental toolsets for designing software. Graham explores how the two are related to find out more about each.
 
-- title: Binary Frameworks in Swift
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-29
-  room:
-  authors:
-    - name: Peter Steinberger
-      twitter: steipete
-      github: steipete
-      website:
-  slides:
-    - https://speakerdeck.com/steipete/binary-frameworks-in-swift
-  videos:
-    - https://youtu.be/jWaO3rsNZU0
-  description: |-
-    Binary frameworks? Without ABI? In Swift? What’s the deal with Swift Modules? In his talk, Peter discusses binary frameworks and stability, when and why ABI matters, and why his team writes in Objective-C. Learn more about what you can do right now, what other companies are doing, common pitfalls, and the future.
+  - title: Finally Solving the Expression Problem
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-29
+    room:
+    authors:
+      - name: Brandon Kase
+        twitter: bkase_
+        github: bkase
+        website:
+    slides:
+      - https://bkase.github.io/slides/no-problemo/#/
+    videos:
+      - https://youtu.be/EsanJ7_U89A
+    description: |-
+      How can we define some data type (for example a view layout) such that (1) we can later add new variants (new views) and (2) we can add new behavior (rendering to AppKit in addition to UIKit) without losing type safety or touching the first bit of code? This is known as the Expression Problem. Will Brandon find a way to solve it? Subclassing solves (1), but we can’t add new rendering logic to a base-class from outside that module. Swift’s enum solves (2), but we can’t add new cases later without modifying the enum. Swift 5’s Non-exhaustive-enums won’t work either. The Final Tagless Interpreter approach solves (1) and (2) taking advantage of Swift’s powerful Self type inside protocols. Data is defined with a protocol, new variants are added with protocol inheritance, and new behavior is added by providing a new protocol instance. Expressions are declared with generic functions and evaluated with identity functions. It’s wild! What’s unique about the Final Tagless approach is the clean separation both between any item and any possible evaluation of those items. This encourages an ecosystem of independent lego-block-like libraries from independent authors that can be glued together in ways neither author anticipated. Brandon believes Final Tagless Interpreters are a hidden gem as they are simple to understand and extremely powerful for solving all sorts of problems in our Swift code!
 
-- title: How to turn an onion into a snake?
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-29
-  room:
-  authors:
-    - name: Grégoire Lhotellier
-      twitter: greg3z
-      github: greg3z
-      website:
-  slides:
-    - https://speakerdeck.com/greg3z/how-to-turn-an-onion-into-a-snake
-  videos:
-    - https://youtu.be/F_A4ES3Lew0
-  description: |-
-    There are 2 very important things before writing any line of Swift: Names and Architectures. And Architecture Names. Grégoire dives very seriously in these topics and tries to see how we can master them in a classy and 2018-ish way. This is an emoji-free talk 😐
+  - title: How to make a successful ARKit app?
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-29
+    room:
+    authors:
+      - name: Oscar Falmer
+        twitter: osfalmer
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/OscarFalmer/how-to-make-a-successful-arkit-app
+    videos:
+      - https://youtu.be/JSUj3wbHil8
+    description: |-
+      ARKit is a glimpse of what is to come with AR Glasses. It's the perfect time for iOS developers to create or integrate ARKit in their apps to craft amazing user experiences. Based on his experience with TweetReality, Oscar shares his four main ingredients for a successful AR app: AR ideas, Timing, User Experience and how to integrate it in your app.
 
-- title: Elements of Functional Programming
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-29
-  room:
-  authors:
-    - name: Paul Hudson
-      twitter: twostraws
-      github: twostraws
-      website:
-  slides:
-    - https://speakerdeck.com/twostraws/elements-of-functional-programming
-  videos:
-    - https://youtu.be/OgU8d_E1K14
-  description: |-
-    Functional programming might seem scary at first, but with some hands-on examples you will soon find you can use map(), flatMap(), filter(), and more in your own projects and see some real benefits.
+  - title: Supporting Objective-C in a Swift codebase
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-29
+    room:
+    authors:
+      - name: Guy Daher
+        twitter: guydaher
+        github: spinach
+        website:
+    slides:
+      - https://drive.google.com/file/d/1AIz-r_bTng726TYmwsNFQHycAFN9REfO/view
+    videos:
+      - https://youtu.be/h4z7VZY34p0
+    description: |-
+      Objective-C and Swift are both widely used by developers. Apple went into a lot of effort to “bridge” those two languages. The problems arise when there is no equal notion in Objective-C for what you are trying to express in Swift. Guy showcases tips on ways to get around the unbridgeable features. Objective-C has been the main programming language for Apple platforms since the release of iOS. However, Apple recently introduced Swift which is rising in popularity. Both have pros and cons, and the good news is that Apple went into a lot of effort to “bridge” Objective-C and Swift as seamlessly as possible. The problems arise when the magic falls short. This happens when there is no equal notion in Objective-C for what you are trying to express in Swift. For example, optional value types and advanced enumerations are unbridgeable. The goal of this talk is to showcase tips on ways to get around those unbridgeable features. In that way, you can ensure a seamless interoperability between Objective-C and Swift.
 
-- title: Buckets of Code
-  lang: en
-  type: regular
-  level:
-  time: 2018-01-29
-  room:
-  authors:
-    - name: Ben Scheirman
-      twitter: subdigital
-      github: subdigital
-      website:
-  slides:
-    - https://speakerdeck.com/subdigital/buckets-of-code
-  videos:
-    - https://youtu.be/GUwjlWx7ud8
-  description: |-
-    Model View Controller is the pervasive design pattern that rules iOS development. Often, however, we try to fit everything we write into either a model, a view, or a controller. This can lead to complicated controllers that do too much and are difficult to understand, test, and change. Ben explain how we can introduce our own objects, introduce new actors, and move logic to more appropriate places. By giving each object a job, we can reduce the problem of bloated view controllers and create more maintainable software.
+  - title: Binary Frameworks in Swift
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-29
+    room:
+    authors:
+      - name: Peter Steinberger
+        twitter: steipete
+        github: steipete
+        website:
+    slides:
+      - https://speakerdeck.com/steipete/binary-frameworks-in-swift
+    videos:
+      - https://youtu.be/jWaO3rsNZU0
+    description: |-
+      Binary frameworks? Without ABI? In Swift? What’s the deal with Swift Modules? In his talk, Peter discusses binary frameworks and stability, when and why ABI matters, and why his team writes in Objective-C. Learn more about what you can do right now, what other companies are doing, common pitfalls, and the future.
+
+  - title: How to turn an onion into a snake?
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-29
+    room:
+    authors:
+      - name: Grégoire Lhotellier
+        twitter: greg3z
+        github: greg3z
+        website:
+    slides:
+      - https://speakerdeck.com/greg3z/how-to-turn-an-onion-into-a-snake
+    videos:
+      - https://youtu.be/F_A4ES3Lew0
+    description: |-
+      There are 2 very important things before writing any line of Swift: Names and Architectures. And Architecture Names. Grégoire dives very seriously in these topics and tries to see how we can master them in a classy and 2018-ish way. This is an emoji-free talk 😐
+
+  - title: Elements of Functional Programming
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-29
+    room:
+    authors:
+      - name: Paul Hudson
+        twitter: twostraws
+        github: twostraws
+        website:
+    slides:
+      - https://speakerdeck.com/twostraws/elements-of-functional-programming
+    videos:
+      - https://youtu.be/OgU8d_E1K14
+    description: |-
+      Functional programming might seem scary at first, but with some hands-on examples you will soon find you can use map(), flatMap(), filter(), and more in your own projects and see some real benefits.
+
+  - title: Buckets of Code
+    lang: en
+    type: regular
+    level:
+    time: 2018-01-29
+    room:
+    authors:
+      - name: Ben Scheirman
+        twitter: subdigital
+        github: subdigital
+        website:
+    slides:
+      - https://speakerdeck.com/subdigital/buckets-of-code
+    videos:
+      - https://youtu.be/GUwjlWx7ud8
+    description: |-
+      Model View Controller is the pervasive design pattern that rules iOS development. Often, however, we try to fit everything we write into either a model, a view, or a controller. This can lead to complicated controllers that do too much and are difficult to understand, test, and change. Ben explain how we can introduce our own objects, introduce new actors, and move logic to more appropriate places. By giving each object a job, we can reduce the problem of bloated view controllers and create more maintainable software.

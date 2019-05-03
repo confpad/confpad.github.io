@@ -1,284 +1,300 @@
-- title: When Fast is Faster Than Fastest
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Daniel Clifford
-      twitter: expatdanno
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/4M5VK-RfP0E
-  description:
+conference:
 
-- title: Your Algorithm isn't neutral...
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Ivana McConnell
-      twitter: IvanaMcConnell
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/As5fhzBY5xk
-  description:
+  name: .concat() 2018
+  url: https://2018.conc.at/
+  status: complete
+  date:
+    from: 2018-03-03
+    to: 2018-03-03
+  location:
+    country: Austria
+    city: Salzburg
+  description: |-
+    The web development and UX conference in Salzburg. One day, two tracks, 19 amazing speakers.
 
-- title: Server-Side Swift from Scratch
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Brandon Williams
-      twitter: mbrandonw
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Qh3acxkzT8M
-  description:
+talks:
 
-- title: 'When Old meets New: Codebases'
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Ursula Sarracini
-      twitter: ursulasarracini
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/J5Z-UUoWg60
-  description:
+  - title: When Fast is Faster Than Fastest
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Daniel Clifford
+        twitter: expatdanno
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4M5VK-RfP0E
+    description:
 
-- title: 'Let''s save the internet: How to make browsers…'
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Ola Gasidlo
-      twitter: misprintedtype
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/lH581sCW57w
-  description:
+  - title: Your Algorithm isn't neutral...
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Ivana McConnell
+        twitter: IvanaMcConnell
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/As5fhzBY5xk
+    description:
 
-- title: 'Bringing GraphQL to the Enterprise: When IBM met Apollo'
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Ryan Mackey
-      twitter: ReadOnlyMackey
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/DXKZHV-BHmM
-  description:
+  - title: Server-Side Swift from Scratch
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Brandon Williams
+        twitter: mbrandonw
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Qh3acxkzT8M
+    description:
 
-- title: Build bridges, not walls – Design for users across cultures
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Jenny Shen
-      twitter: jennyshen
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ER3534JJucc
-  description:
+  - title: 'When Old meets New: Codebases'
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Ursula Sarracini
+        twitter: ursulasarracini
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/J5Z-UUoWg60
+    description:
 
-- title: PHP in 2018
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Rasmus Lerdorf
-      twitter: rasmus
-      github:
-      website:
-  slides:
-      - http://talks.php.net/concat18
-  videos:
-    - https://youtu.be/umxGUWYmiSw
-  description:
+  - title: 'Let''s save the internet: How to make browsers…'
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Ola Gasidlo
+        twitter: misprintedtype
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lH581sCW57w
+    description:
 
-- title: Designing Great Progressive Web Apps
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Nicole Saidy
-      twitter: nicolesaidy
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/2NZc4C7uNcU
-  description:
+  - title: 'Bringing GraphQL to the Enterprise: When IBM met Apollo'
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Ryan Mackey
+        twitter: ReadOnlyMackey
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DXKZHV-BHmM
+    description:
 
-- title: Thinking PRPL
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Houssein Djirdeh
-      twitter: hdjirdeh
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/RcHWKieBslk
-  description:
+  - title: Build bridges, not walls – Design for users across cultures
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Jenny Shen
+        twitter: jennyshen
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ER3534JJucc
+    description:
 
-- title: Fast. Simple. Accessible.
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Estelle Weyl
-      twitter: estellevw
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Zk4X_AmPsoU
-  description:
+  - title: PHP in 2018
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Rasmus Lerdorf
+        twitter: rasmus
+        github:
+        website:
+    slides:
+        - http://talks.php.net/concat18
+    videos:
+      - https://youtu.be/umxGUWYmiSw
+    description:
 
-- title: 'Live and let die: Untangling the web of objects'
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Michael Lippautz
-      twitter: mlippautz
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/qETWAqrhUL4
-  description:
+  - title: Designing Great Progressive Web Apps
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Nicole Saidy
+        twitter: nicolesaidy
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2NZc4C7uNcU
+    description:
 
-- title: The strategy guide to CSS Custom Properties
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Mike Riethmuller
-      twitter: MikeRiethmuller
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/Zg8f0fNekp4
-  description:
+  - title: Thinking PRPL
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Houssein Djirdeh
+        twitter: hdjirdeh
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RcHWKieBslk
+    description:
 
-- title: 'Psychological safety: How to become a team that learns'
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Georg Sorst
-      twitter: piefke_schorsch
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ybD7ge-TU5k
-  description:
+  - title: Fast. Simple. Accessible.
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Estelle Weyl
+        twitter: estellevw
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Zk4X_AmPsoU
+    description:
 
-- title: Remote device sign-in – Authenticating without a keyboard
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Tiffany Conroy
-      twitter: theophani
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/KdJ6j-1tPVE
-  description:
+  - title: 'Live and let die: Untangling the web of objects'
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Michael Lippautz
+        twitter: mlippautz
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qETWAqrhUL4
+    description:
 
-- title: Mathematics of Animation
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Varun Vachhar
-      twitter: winkerVSbecks
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/o59ioaZ6x3g
-  description:
+  - title: The strategy guide to CSS Custom Properties
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Mike Riethmuller
+        twitter: MikeRiethmuller
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Zg8f0fNekp4
+    description:
 
-- title: Styled Components
-  lang: en
-  type: regular
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-    - name: Max Stoiber
-      twitter: mxstbr
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/1AuEnDiuRs4
-  description:
+  - title: 'Psychological safety: How to become a team that learns'
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Georg Sorst
+        twitter: piefke_schorsch
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ybD7ge-TU5k
+    description:
 
-- title: Lightning talks
-  lang: en
-  type: lightning
-  level:
-  time: 2018-03-03
-  room:
-  authors:
-  slides:
-  videos:
-    - https://youtu.be/-i58z7H7emg
-  description:
+  - title: Remote device sign-in – Authenticating without a keyboard
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Tiffany Conroy
+        twitter: theophani
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/KdJ6j-1tPVE
+    description:
+
+  - title: Mathematics of Animation
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Varun Vachhar
+        twitter: winkerVSbecks
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/o59ioaZ6x3g
+    description:
+
+  - title: Styled Components
+    lang: en
+    type: regular
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+      - name: Max Stoiber
+        twitter: mxstbr
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1AuEnDiuRs4
+    description:
+
+  - title: Lightning talks
+    lang: en
+    type: lightning
+    level:
+    time: 2018-03-03
+    room:
+    authors:
+    slides:
+    videos:
+      - https://youtu.be/-i58z7H7emg
+    description:

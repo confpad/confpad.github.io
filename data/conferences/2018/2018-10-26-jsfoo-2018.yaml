@@ -1,471 +1,487 @@
-- title: Demystifying web application security
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-26
-  room:
-  authors:
-    - name: Shyam Seshadri
-      twitter:
-      github:
-      website:
-  slides:
-    - https://www.slideshare.net/shyamsesh/demystifying-web-application-security-jsfoo-2018
-  videos:
-    - https://youtu.be/wEt47UycHf4
-  description: |-
-    Web Application security has generally been focused aroud OWASP, and terms like XSS, CSRF and the like are generally thrown around. In this talk, the aim is to change the mind-map of how we think about and approach security, and outline a methodology that allows you to think about security in a holistic, comprehensive manner. This talk will not specifically talk about security hole A or B, but rather a mindset that we can adopt while developing applications.Shyam is the CEO of ReStok, his own startup right not, and has been a Googler, and an Amazonian in the past. He has run both his own startup and headed the engineering of large e-commerce startups as well. He has also been a Security Reviewer at Amazon and helped certify many applications before launch to ensure they adhere to the best security practices.
+conference:
 
-- title: What makes JSON Web Tokens (JWT) secure?
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-26
-  room:
-  authors:
-    - name: Siddharth Kshetrapal
-      twitter: siddharthkp
-      github: siddharthkp
-      website:
-  slides:
-    - https://sid.studio/jwt/
-  videos:
-    - https://youtu.be/rCkDE2me_qk
+  name: JSFoo 2018
+  url: https://jsfoo.in/2018/
+  status: complete
+  date:
+    from: 2018-10-26
+    to: 2018-10-27
+  location:
+    country: India
+    city: Banglore
   description: |-
-    There’s a lot you have to think about when building frontend applications - routing, performance, animations, etc. Security often takes the back seat (not cool!).Between cookies, tokens, keeping users authenticated, and handling resource access, security can become quite tricky. Let’s look at the implementation detail and usage of the popular methods of authorization: JWT(JSON web tokens) and see what makes it secure in the first place?
+    With JavaScript being used as much as it is talked about, JSFoo is certainly the most needed conference this year! The reasons for its popularity are also the reasons for its vulnerability (security-wise). Hence this edition will focus broadly on JavaScript and security.HasGeek hosted the first edition of JSFoo in 2011 to address the growing needs of a niche community working with Javascript. Since then, our JS community has grown tremendously. And this year, we’re meeting again on 26 – 27 October to explore new ideas and developments, to implement innovative solutions, and to learn from others’ experiences. Want to see the quality and topics of talks at last year’s conference? You can watch the JSFoo 2017 videos or the related ReactFoo 2017 videos to see what was on trend. Or check out the 2017 conference website.
 
-- title: 'Authentication done right: consuming (and serving) Oauth2.0'
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-26
-  room:
-  authors:
-    - name: Arnav Gupta
-      twitter: championswimmer
-      github: championswimme
-      website:
-  slides:
-  videos:
-    - https://youtu.be/wAlLe7uvOxc
-  description: |-
-    Your brand has multiple products on the web. They all need authentication. But obviously, you’d maintain a common authentication and user database.Also, in this age, you cannot make a login system without Login with [Facebook|Google|Twitter|...]For the second thing, you need to consume Oauth2.0 (the industry standard now), for the first thing, you need to make your own Oauth server.And you want all of this to happen securely (so yeah, little to no frontend JS)This talk is nothing but my journey of building oneauthEven before we had a tech team, I knew we’d be building at least 2 very disconnected products, but having a common authentication mechanism. My search for a reference took me to HasGeek’s own - Lastser
+talks:
 
-- title: Building a secure BFF at Postman
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-26
-  room:
-  authors:
-    - name: Ankit Muchhala
-      twitter: ankit_muchhala
-      github: ankit-m
-      website:
-  slides:
-    - https://www.slideshare.net/AnkitMuchhala/building-a-secure-bff-at-postman
-  videos:
-    - https://youtu.be/JexwKAlbJ6o
-  description: |-
-    Introduce audience to security implications while writing application code for public facing gateway services. The talk will not be a tutorial on security best practices. Instead, it will focus on building an understanding for developing secure applications and outline ways to do so.How to build secure APIs, Understand security challenges while building BFF (Backend For Frontend).Security should be a part of writing code - not a separate.Ankit is a Software Developer at Postman. He has been developing web applications for the past 4 years. Currently, he spends his time building, optimizing and maintaining the web products of Postman.
+  - title: Demystifying web application security
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-26
+    room:
+    authors:
+      - name: Shyam Seshadri
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/shyamsesh/demystifying-web-application-security-jsfoo-2018
+    videos:
+      - https://youtu.be/wEt47UycHf4
+    description: |-
+      Web Application security has generally been focused aroud OWASP, and terms like XSS, CSRF and the like are generally thrown around. In this talk, the aim is to change the mind-map of how we think about and approach security, and outline a methodology that allows you to think about security in a holistic, comprehensive manner. This talk will not specifically talk about security hole A or B, but rather a mindset that we can adopt while developing applications.Shyam is the CEO of ReStok, his own startup right not, and has been a Googler, and an Amazonian in the past. He has run both his own startup and headed the engineering of large e-commerce startups as well. He has also been a Security Reviewer at Amazon and helped certify many applications before launch to ensure they adhere to the best security practices.
 
-- title: 'Joint Q&A: Web application security'
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-26
-  room:
-  authors:
-    - name: Shyam Seshadri
-      twitter:
-      github:
-      website:
-    - name: Siddharth Kshetrapal
-      twitter: siddharthkp
-      github: siddharthkp
-      website:
-    - name: Arnav Gupta
-      twitter: championswimmer
-      github: championswimme
-      website:
-    - name: Ankit Muchhala
-      twitter: ankit_muchhala
-      github: ankit-m
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: What makes JSON Web Tokens (JWT) secure?
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-26
+    room:
+    authors:
+      - name: Siddharth Kshetrapal
+        twitter: siddharthkp
+        github: siddharthkp
+        website:
+    slides:
+      - https://sid.studio/jwt/
+    videos:
+      - https://youtu.be/rCkDE2me_qk
+    description: |-
+      There’s a lot you have to think about when building frontend applications - routing, performance, animations, etc. Security often takes the back seat (not cool!).Between cookies, tokens, keeping users authenticated, and handling resource access, security can become quite tricky. Let’s look at the implementation detail and usage of the popular methods of authorization: JWT(JSON web tokens) and see what makes it secure in the first place?
 
-- title: Using Service Workers to improve dynamic image delivery in the browser
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-26
-  room:
-  authors:
-    - name: Rahul Nanwani
-      twitter: rnanwani
-      github:
-      website:
-  slides:
-    - https://docs.google.com/presentation/d/1yvIGsgX7Ga9YMqFc8FlfehxDJZGC-roaMb7KSahSodY/edit
-  videos:
-    - https://youtu.be/t3jVvB58cV0
-  description: |-
-    As mobile data and mobile devices become more and more accessible in India, we need to build experiences not just for the high-end users but also vary our content dynamically to cater to users with slower devices or poor network connectivity. Images being the single largest contributor to page size provide a great, yet simple, opportunity to optimize for a faster experience to all the users.Key Takeaways - Using service workers to dynamically adapt image content on a web page on the basis of network speed - Important points to consider while using this technique - An inexpensive way to achieve capabilities that are usually restricted to expensive infrastructure providers.Intended Audience - Front-end developers keen on using modern technology to deliver a faster user experience for their website’s users,Rahul is the Co-founder at ImageKit.io. He has worked in the past with PayPal and ixigo.com as a backend and a frontend/full-stack developer respectively. Currently, he mostly deals with technology-related stuff at ImageKit.io. Passionate about delivering high-performance user experience on websites.
+  - title: 'Authentication done right: consuming (and serving) Oauth2.0'
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-26
+    room:
+    authors:
+      - name: Arnav Gupta
+        twitter: championswimmer
+        github: championswimme
+        website:
+    slides:
+    videos:
+      - https://youtu.be/wAlLe7uvOxc
+    description: |-
+      Your brand has multiple products on the web. They all need authentication. But obviously, you’d maintain a common authentication and user database.Also, in this age, you cannot make a login system without Login with [Facebook|Google|Twitter|...]For the second thing, you need to consume Oauth2.0 (the industry standard now), for the first thing, you need to make your own Oauth server.And you want all of this to happen securely (so yeah, little to no frontend JS)This talk is nothing but my journey of building oneauthEven before we had a tech team, I knew we’d be building at least 2 very disconnected products, but having a common authentication mechanism. My search for a reference took me to HasGeek’s own - Lastser
 
-- title: VueJS at Olacabs
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-26
-  room:
-  authors:
-    - name: Ashrith Kulai
-      twitter: ashrith_kulai
-      github: ashrithkulai
-      website:
-  slides:
-    - https://docs.google.com/presentation/d/1yvIGsgX7Ga9YMqFc8FlfehxDJZGC-roaMb7KSahSodY/edit
-  videos:
-    - https://youtu.be/Ho7y6WUaBSE
-  description: |-
-    How we chose a framework for entire org of Olacabs.com. What frameworks did we consider? Why Did we chose VueJs? One Web - The wrapper around VueJS that helps us use it at scale.Ashrith Kulai is one of the core contributors to the Olacabs PWA and One Web Library.OlaCabs is the first ride hailing app in the APAC region to build a PWA.The PWA he built was showcased at Google IO 2017 and JSFOO 2017.Currently he is leading the Consumer Web platform for Olacabs.com.Previously he worked for Flipkart’s Seller Platform UI.
+  - title: Building a secure BFF at Postman
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-26
+    room:
+    authors:
+      - name: Ankit Muchhala
+        twitter: ankit_muchhala
+        github: ankit-m
+        website:
+    slides:
+      - https://www.slideshare.net/AnkitMuchhala/building-a-secure-bff-at-postman
+    videos:
+      - https://youtu.be/JexwKAlbJ6o
+    description: |-
+      Introduce audience to security implications while writing application code for public facing gateway services. The talk will not be a tutorial on security best practices. Instead, it will focus on building an understanding for developing secure applications and outline ways to do so.How to build secure APIs, Understand security challenges while building BFF (Backend For Frontend).Security should be a part of writing code - not a separate.Ankit is a Software Developer at Postman. He has been developing web applications for the past 4 years. Currently, he spends his time building, optimizing and maintaining the web products of Postman.
 
-- title: 'Birds Of Feather session: AngularJS users'
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-26
-  room:
-  authors:
-    - name: Vinci Rufus
-      twitter: Areai51
-      github: areai51
-      website:
-    - name: Arjuna Suresh
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: 'Joint Q&A: Web application security'
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-26
+    room:
+    authors:
+      - name: Shyam Seshadri
+        twitter:
+        github:
+        website:
+      - name: Siddharth Kshetrapal
+        twitter: siddharthkp
+        github: siddharthkp
+        website:
+      - name: Arnav Gupta
+        twitter: championswimmer
+        github: championswimme
+        website:
+      - name: Ankit Muchhala
+        twitter: ankit_muchhala
+        github: ankit-m
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Architecture of scalable and resilient NodeJS apps with GraphQL & event-driven serverless
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-26
-  room:
-  authors:
-    - name: Shahidh K Muhammed
-      twitter: shahidh_k
-      github: shahidhk
-      website:
-  slides:
-  videos:
-    - https://youtu.be/22xPS_hXSlo
-  description: |-
-    The true power of GraphQL lies not just in its syntax but the fact that it makes it possible to reason about applications in ways we have never thought of before. The realtime bits of the GraphQL spec is one such horizons-widening abstraction when we use it as a tool to think about architecting an asynchronous, event-driven backend.Architecting the frontend of applications to consume a fundamentally async backend is still a challenge. GraphQL subscriptions and live-queries offer an opportunity to design a “reactive” contract between the backend and the frontend. In this model, an app makes a GraphQL mutation and then runs a GraphQL subscription to get updates as they happen. The business logic in serverless functions gets triggered automatically after the mutation and app gets success/error updates as and when they happen.With serverless functions, we get an auto-scalable, resilient backend which is perfect for processing asynchronous actions and stateless workloads. Such tasks include sending emails/push notifications, ETL, long running business logic etc. With no servers to provision and zero ops-tasks, it is very easy for a front-end developer to write and deploy these complex logic as functions in NodeJS etc.To draw on the Redux analogy, GraphQL mutations are actions, datastore is the “state”, asynchronous business logic are the “reducers”, and GraphQL subscriptions/live-queries become the state update glue. In this talk, I will talk about how we can use GraphQL and event-driven serverless functions to reason about the data-flow in an application.
+  - title: Using Service Workers to improve dynamic image delivery in the browser
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-26
+    room:
+    authors:
+      - name: Rahul Nanwani
+        twitter: rnanwani
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1yvIGsgX7Ga9YMqFc8FlfehxDJZGC-roaMb7KSahSodY/edit
+    videos:
+      - https://youtu.be/t3jVvB58cV0
+    description: |-
+      As mobile data and mobile devices become more and more accessible in India, we need to build experiences not just for the high-end users but also vary our content dynamically to cater to users with slower devices or poor network connectivity. Images being the single largest contributor to page size provide a great, yet simple, opportunity to optimize for a faster experience to all the users.Key Takeaways - Using service workers to dynamically adapt image content on a web page on the basis of network speed - Important points to consider while using this technique - An inexpensive way to achieve capabilities that are usually restricted to expensive infrastructure providers.Intended Audience - Front-end developers keen on using modern technology to deliver a faster user experience for their website’s users,Rahul is the Co-founder at ImageKit.io. He has worked in the past with PayPal and ixigo.com as a backend and a frontend/full-stack developer respectively. Currently, he mostly deals with technology-related stuff at ImageKit.io. Passionate about delivering high-performance user experience on websites.
 
-- title: 'Birds Of Feather session: Vue in production -- user stories'
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-26
-  room:
-  authors:
-    - name: Vidya Ramakrishna
-      twitter:
-      github:
-      website:
-    - name: Ashrith Kulai
-      twitter:
-      github:
-      website:
-    - name: Swapnil Agarwal
-      twitter:
-      github:
-      website:
-    - name: Rahul Kadyan
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: VueJS at Olacabs
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-26
+    room:
+    authors:
+      - name: Ashrith Kulai
+        twitter: ashrith_kulai
+        github: ashrithkulai
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1yvIGsgX7Ga9YMqFc8FlfehxDJZGC-roaMb7KSahSodY/edit
+    videos:
+      - https://youtu.be/Ho7y6WUaBSE
+    description: |-
+      How we chose a framework for entire org of Olacabs.com. What frameworks did we consider? Why Did we chose VueJs? One Web - The wrapper around VueJS that helps us use it at scale.Ashrith Kulai is one of the core contributors to the Olacabs PWA and One Web Library.OlaCabs is the first ride hailing app in the APAC region to build a PWA.The PWA he built was showcased at Google IO 2017 and JSFOO 2017.Currently he is leading the Consumer Web platform for Olacabs.com.Previously he worked for Flipkart’s Seller Platform UI.
 
-- title: The art of writing mature tests
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-26
-  room:
-  authors:
-    - name: Deepak Pathania
-      twitter: pathaniadeepak7
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/eKLeUyNxvqA
-  description: |-
-    As developers, we are all well aware of the importance of writing tests. Whether it is the safeguard against letting silly bugs slide in production code or enforcing certain styles and practices for everyone involved in contributing to the code base, we can all agree that writing tests is an important part of the development lifecycle.And you get the idea. We went back and forth with a lot of different test strategies and a few things finally clicked and made sense. This is an attempt to share all those learnings with developers who have faced the issues mentioned above during writing or fixing tests, in the hope that these can be used as standards moving forward to save you and your team from hours of frustration.Product Engineer @Postman. Full stack web developer with a keen eye for building elegant interfaces and a proven record of writing scalable backend code. Loves everything javascript. Speaks at conferences, meetups, hackathons and generally all the time. Likes open source, startups, and people.
+  - title: 'Birds Of Feather session: AngularJS users'
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-26
+    room:
+    authors:
+      - name: Vinci Rufus
+        twitter: Areai51
+        github: areai51
+        website:
+      - name: Arjuna Suresh
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Rethink Async
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-26
-  room:
-  authors:
-    - name: Hemanth HM
-      twitter: GNUmanth
-      github: hemanth
-      website:
-  slides:
-  videos:
-    - https://youtu.be/h8QQP--97HU
-  description: |-
-    Callback hell?Promises?Hmm, they are old, let us talk about async-await?!A computer polyglot CLI, web and unix philosophy ❤️’r.Contributes to FOSS via Github and is a part of the Yeoman, Webpack team.Curators Node Module Of The Week.Coordinates BangaloreJS meetups.Mentor at GeeksKool
+  - title: Architecture of scalable and resilient NodeJS apps with GraphQL & event-driven serverless
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-26
+    room:
+    authors:
+      - name: Shahidh K Muhammed
+        twitter: shahidh_k
+        github: shahidhk
+        website:
+    slides:
+    videos:
+      - https://youtu.be/22xPS_hXSlo
+    description: |-
+      The true power of GraphQL lies not just in its syntax but the fact that it makes it possible to reason about applications in ways we have never thought of before. The realtime bits of the GraphQL spec is one such horizons-widening abstraction when we use it as a tool to think about architecting an asynchronous, event-driven backend.Architecting the frontend of applications to consume a fundamentally async backend is still a challenge. GraphQL subscriptions and live-queries offer an opportunity to design a “reactive” contract between the backend and the frontend. In this model, an app makes a GraphQL mutation and then runs a GraphQL subscription to get updates as they happen. The business logic in serverless functions gets triggered automatically after the mutation and app gets success/error updates as and when they happen.With serverless functions, we get an auto-scalable, resilient backend which is perfect for processing asynchronous actions and stateless workloads. Such tasks include sending emails/push notifications, ETL, long running business logic etc. With no servers to provision and zero ops-tasks, it is very easy for a front-end developer to write and deploy these complex logic as functions in NodeJS etc.To draw on the Redux analogy, GraphQL mutations are actions, datastore is the “state”, asynchronous business logic are the “reducers”, and GraphQL subscriptions/live-queries become the state update glue. In this talk, I will talk about how we can use GraphQL and event-driven serverless functions to reason about the data-flow in an application.
 
-- title: 'Birds Of Feather session: GraphQL'
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-26
-  room:
-  authors:
-    - name: Kiran Abburi
-      twitter: kiran_abburi
-      github:
-      website:
-    - name: Shahidh K Muhammed
-      twitter: shahidh_k
-      github: shahidhk
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: 'Birds Of Feather session: Vue in production -- user stories'
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-26
+    room:
+    authors:
+      - name: Vidya Ramakrishna
+        twitter:
+        github:
+        website:
+      - name: Ashrith Kulai
+        twitter:
+        github:
+        website:
+      - name: Swapnil Agarwal
+        twitter:
+        github:
+        website:
+      - name: Rahul Kadyan
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Everything you need to know about client-side malicious code execution
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-27
-  room:
-  authors:
-    - name: Lavakumar Kuppan
-      twitter: lavakumark
-      github: Lavakumar
-      website:
-  slides:
-  videos:
-    - https://youtu.be/tsxjmh9Sbw0
-  description: |-
-    Malicious Code Execution is considered to be one of the most serious security issues across any technology. This has plagued client-side JavaScript in the form of Cross-site Scripting. Though this issue has been around since the early days of the web, its variations, prevention techniques and detection mechanisms have evolved over time. This talk will cover everything a modern developer absolutely must know about on client-side malicious code execution.Lavakumar Kuppan is the founder of Ironwasp Security. He is a security researcher and a product developer. He has done extensive research on web security with special focus on JavaScript security. He has discovered several novel attacks vectors and vulnerabilities and has spoken about his research in several international conferences.He has also done extensive work on developing open source tools to discover security issues in JavaScript, through both static and dynamic analysis.
+  - title: The art of writing mature tests
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-26
+    room:
+    authors:
+      - name: Deepak Pathania
+        twitter: pathaniadeepak7
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/eKLeUyNxvqA
+    description: |-
+      As developers, we are all well aware of the importance of writing tests. Whether it is the safeguard against letting silly bugs slide in production code or enforcing certain styles and practices for everyone involved in contributing to the code base, we can all agree that writing tests is an important part of the development lifecycle.And you get the idea. We went back and forth with a lot of different test strategies and a few things finally clicked and made sense. This is an attempt to share all those learnings with developers who have faced the issues mentioned above during writing or fixing tests, in the hope that these can be used as standards moving forward to save you and your team from hours of frustration.Product Engineer @Postman. Full stack web developer with a keen eye for building elegant interfaces and a proven record of writing scalable backend code. Loves everything javascript. Speaks at conferences, meetups, hackathons and generally all the time. Likes open source, startups, and people.
 
-- title: The audit-driven approach to security design
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-27
-  room:
-  authors:
-    - name: Dominic Tarr
-      twitter: dominictarr
-      github: dominictarr
-      website:
-  slides:
-  videos:
-    - https://youtu.be/8TJ0YY0dPXw
-  description: |-
-    Secure Software is more import“Audit Driven Security” is a software engineering methodology, inspired by Test Driven Development, that you can learn to use to produce secure software.Dominic Tarr works as a developer and protocol designer on secure-scuttlebutt and as a security auditor for least authority. He lives on a sailboat in New Zealand.ant than ever, yet there is very little guidance available on how to go about producing secure software.“Audit Driven Security” is a software engineering methodology, inspired by Test Driven Development, that you can learn to use to produce secure software.Dominic Tarr works as a developer and protocol designer on secure-scuttlebutt and as a security auditor for least authority. He lives on a sailboat in New Zealand.
+  - title: Rethink Async
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-26
+    room:
+    authors:
+      - name: Hemanth HM
+        twitter: GNUmanth
+        github: hemanth
+        website:
+    slides:
+    videos:
+      - https://youtu.be/h8QQP--97HU
+    description: |-
+      Callback hell?Promises?Hmm, they are old, let us talk about async-await?!A computer polyglot CLI, web and unix philosophy ❤️’r.Contributes to FOSS via Github and is a part of the Yeoman, Webpack team.Curators Node Module Of The Week.Coordinates BangaloreJS meetups.Mentor at GeeksKool
 
-- title: Joint Q&A" data leakages and privacy on the web"
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-27
-  room:
-  authors:
-    - name: Dominic Tarr
-      twitter: dominictarr
-      github: dominictarr
-      website:
-    - name: Lavakumar Kuppan
-      twitter: lavakumark
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: 'Birds Of Feather session: GraphQL'
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-26
+    room:
+    authors:
+      - name: Kiran Abburi
+        twitter: kiran_abburi
+        github:
+        website:
+      - name: Shahidh K Muhammed
+        twitter: shahidh_k
+        github: shahidhk
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: ReasonML" Strict, powerful, and forgiving."
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-27
-  room:
-  authors:
-    - name: Hari Gopal
-      twitter: harigopal
-      github: harigopal
-      website:
-  slides:
-  videos:
-    - https://youtu.be/3tWExsIae8g
-  description: |-
-    As a developer, I’ve worked for over 9 years with dynamically typed languages, and for the past year, I’ve been learning and working with a new language called ReasonML - a statically typed functional “language” which, in reality, is a brand new syntax for OCaml. And it compiles to Javascript! I’ve been using ReasonML to build a password manager for teams, and I’d like to share a few insights that I’ve gained during the process.The gist of the talk is that while getting started with ReasonML is really simple, the true value of adopting a language like ReasonML does not lie in its obvious features. There are patterns and complex capabilities that are made possible by the strong type system that can elevate our ability, as developers, to accurately describe our intent when writing programs. It also gives tools and techniques to deal with our unfortunate tendency to make mistakes.Hari is the Engineering lead at SV.CO, and has been a professional programmer since 2009. He has worked on a variety of products using a range of programming languages, including PHP, Python, Java, Ruby, and JavaScript. He is currently building an open-source password management tool called Turaku.
+  - title: Everything you need to know about client-side malicious code execution
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-27
+    room:
+    authors:
+      - name: Lavakumar Kuppan
+        twitter: lavakumark
+        github: Lavakumar
+        website:
+    slides:
+    videos:
+      - https://youtu.be/tsxjmh9Sbw0
+    description: |-
+      Malicious Code Execution is considered to be one of the most serious security issues across any technology. This has plagued client-side JavaScript in the form of Cross-site Scripting. Though this issue has been around since the early days of the web, its variations, prevention techniques and detection mechanisms have evolved over time. This talk will cover everything a modern developer absolutely must know about on client-side malicious code execution.Lavakumar Kuppan is the founder of Ironwasp Security. He is a security researcher and a product developer. He has done extensive research on web security with special focus on JavaScript security. He has discovered several novel attacks vectors and vulnerabilities and has spoken about his research in several international conferences.He has also done extensive work on developing open source tools to discover security issues in JavaScript, through both static and dynamic analysis.
 
-- title: 'Birds Of Feather session: Sensitive data leakage, data protection and privacy'
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-27
-  room:
-  authors:
-    - name: Lavakumar Kuppan
-      twitter: lavakumark
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: The audit-driven approach to security design
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-27
+    room:
+    authors:
+      - name: Dominic Tarr
+        twitter: dominictarr
+        github: dominictarr
+        website:
+    slides:
+    videos:
+      - https://youtu.be/8TJ0YY0dPXw
+    description: |-
+      Secure Software is more import“Audit Driven Security” is a software engineering methodology, inspired by Test Driven Development, that you can learn to use to produce secure software.Dominic Tarr works as a developer and protocol designer on secure-scuttlebutt and as a security auditor for least authority. He lives on a sailboat in New Zealand.ant than ever, yet there is very little guidance available on how to go about producing secure software.“Audit Driven Security” is a software engineering methodology, inspired by Test Driven Development, that you can learn to use to produce secure software.Dominic Tarr works as a developer and protocol designer on secure-scuttlebutt and as a security auditor for least authority. He lives on a sailboat in New Zealand.
 
-- title: Building robust applications using Elm
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-27
-  room:
-  authors:
-    - name: Ritesh Pillai
-      twitter:
-      github:
-      website:
-  slides:
-    - https://drive.google.com/file/d/1w9yVL1sli-QXG9sxBjOlHy5BSlRmcPWV/view
-  videos:
-    - https://youtu.be/3tWExsIae8g
-  description: |-
-    At BigBinary, we are in the process of building AceHelp with the aim to provide contexutal help docs for websites and webapps. Contextual help takes into account which page the user is on and what help doc might be most relevant for the user.We are building the frontend for AceHelp using Elm, a functional programing language to build frontend applications. In this talk, I will be giving the audiance an introduction to the language and why we chose it. I will also be talking about our journey in building a full fledged frontend application using the language.We dive into the language, exploring its syntax and more importantly its architecture. We will look at the good parts and the challenges that we faced while building a real world application through Elm.Thereby through this talk I hope to inspire the audience to explore languages like Elm to build robust frontend applications with more maintainable code and better determinism.Ritesh works as a Senior Software Developer at BigBinary. He has around 9 years of experience in Software Engineering. Past: Frontend Architect at Bonzai.
+  - title: Joint Q&A" data leakages and privacy on the web"
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-27
+    room:
+    authors:
+      - name: Dominic Tarr
+        twitter: dominictarr
+        github: dominictarr
+        website:
+      - name: Lavakumar Kuppan
+        twitter: lavakumark
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: Sponsored talk" MySQL 8 loves JavaScript"
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-27
-  room:
-  authors:
-    - name: Sanjay Manwani
-      twitter:
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/SKi5K231klU
-  description: |-
-    MySQL 8.0 which has recently gone GA is now a fully functioning NoSQL and SQL database.The newly introduced X-Shell allows users to create interactive JavaScript programs for DevOps, Database Management and applications. The new Node.JS connector is also aware that it is interacting with a cluster of MySQL Servers e.g. it is also capable of performing an auto failover.This session will also introduce the new CRUD based JavaScript functions which allow MySQL 8.0 to be a fully compatible NoSQL database.We also illustrate how the new MySQL Node.JS connector leverages the new X DevAPI to interact with native JSON documents.Sanjay has been a speaker most recently at GIDS2018 besides that he has spoken at Open Source India as well as at Oracle open world. He also attends a open community MySQL meetup every quarter.His core interests are in open source and he has been working in open source databases since the last 13 years.
+  - title: ReasonML" Strict, powerful, and forgiving."
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-27
+    room:
+    authors:
+      - name: Hari Gopal
+        twitter: harigopal
+        github: harigopal
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3tWExsIae8g
+    description: |-
+      As a developer, I’ve worked for over 9 years with dynamically typed languages, and for the past year, I’ve been learning and working with a new language called ReasonML - a statically typed functional “language” which, in reality, is a brand new syntax for OCaml. And it compiles to Javascript! I’ve been using ReasonML to build a password manager for teams, and I’d like to share a few insights that I’ve gained during the process.The gist of the talk is that while getting started with ReasonML is really simple, the true value of adopting a language like ReasonML does not lie in its obvious features. There are patterns and complex capabilities that are made possible by the strong type system that can elevate our ability, as developers, to accurately describe our intent when writing programs. It also gives tools and techniques to deal with our unfortunate tendency to make mistakes.Hari is the Engineering lead at SV.CO, and has been a professional programmer since 2009. He has worked on a variety of products using a range of programming languages, including PHP, Python, Java, Ruby, and JavaScript. He is currently building an open-source password management tool called Turaku.
 
-- title: Web Workers " a graphical introduction"
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-27
-  room:
-  authors:
-    - name: Ritesh Kumar
-      twitter: Ritesh Kumar
-      github: ritz078
-      website:
-  slides:
-    - https://speakerdeck.com/ritz078/web-workers-a-musical-intro
-  videos:
-    - https://youtu.be/1RSUfWAKQ_M
-  description: |-
-    Thanks to the introduction of PWAs, the web is getting faster. But they can be improved further. This talk will focus on how we can use the power of web workers and improve the performance of our websites.I am a Lead Software Engineer @ Anarock.Before this, I worked at Housing.com where I was involved in the development of its PWA and the React Native App.I love working on open source projects and performance. I have made open source projects like https://transform.now.sh, embed.js and snape.
+  - title: 'Birds Of Feather session: Sensitive data leakage, data protection and privacy'
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-27
+    room:
+    authors:
+      - name: Lavakumar Kuppan
+        twitter: lavakumark
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
 
-- title: New kids in browserland
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-27
-  room:
-  authors:
-    - name: Swapnil Agarwal
-      twitter:
-      github: swapagarwal
-      website:
-  slides:
-    - https://gitpitch.com/swapagarwal/new-kids-in-browserland
-  videos:
-    - https://youtu.be/9Z-6fHeVOQM
-  description: |-
-    Swapnil will talk about some of the recent wonderful APIs that have been added to the browser such as,Intersection Observer API,Credential Management API,Network Information API,Web Share API,Device Memory API,Concurrent Hardware API,Payment Request APISwapnil is a Senior Software Engineer at Meesho (ex-Amazon), and a co-organizer of Vue.JS
+  - title: Building robust applications using Elm
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-27
+    room:
+    authors:
+      - name: Ritesh Pillai
+        twitter:
+        github:
+        website:
+    slides:
+      - https://drive.google.com/file/d/1w9yVL1sli-QXG9sxBjOlHy5BSlRmcPWV/view
+    videos:
+      - https://youtu.be/3tWExsIae8g
+    description: |-
+      At BigBinary, we are in the process of building AceHelp with the aim to provide contexutal help docs for websites and webapps. Contextual help takes into account which page the user is on and what help doc might be most relevant for the user.We are building the frontend for AceHelp using Elm, a functional programing language to build frontend applications. In this talk, I will be giving the audiance an introduction to the language and why we chose it. I will also be talking about our journey in building a full fledged frontend application using the language.We dive into the language, exploring its syntax and more importantly its architecture. We will look at the good parts and the challenges that we faced while building a real world application through Elm.Thereby through this talk I hope to inspire the audience to explore languages like Elm to build robust frontend applications with more maintainable code and better determinism.Ritesh works as a Senior Software Developer at BigBinary. He has around 9 years of experience in Software Engineering. Past: Frontend Architect at Bonzai.
 
-- title: Quick fixes to improve page load time
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-27
-  room:
-  authors:
-    - name: Tejas Dinkar
-      twitter: tdinkar
-      github: gja
-      website:
-  slides:
-  videos:
-    - https://youtu.be/ifioC5EcIE4
-  description: |-
-    This talk will be a beginner-mid level talk about quick wins you can do to improve your JS performance.The talk will be covering a bunch of common mistakes1) enable dead code elimination2) dont include lodash entirely3) css modules because youll forget to delete thing4) avoid moment5) use script type=application/json6) put rel headers7) billions of others8) React.hydrate, dont render
+  - title: Sponsored talk" MySQL 8 loves JavaScript"
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-27
+    room:
+    authors:
+      - name: Sanjay Manwani
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/SKi5K231klU
+    description: |-
+      MySQL 8.0 which has recently gone GA is now a fully functioning NoSQL and SQL database.The newly introduced X-Shell allows users to create interactive JavaScript programs for DevOps, Database Management and applications. The new Node.JS connector is also aware that it is interacting with a cluster of MySQL Servers e.g. it is also capable of performing an auto failover.This session will also introduce the new CRUD based JavaScript functions which allow MySQL 8.0 to be a fully compatible NoSQL database.We also illustrate how the new MySQL Node.JS connector leverages the new X DevAPI to interact with native JSON documents.Sanjay has been a speaker most recently at GIDS2018 besides that he has spoken at Open Source India as well as at Oracle open world. He also attends a open community MySQL meetup every quarter.His core interests are in open source and he has been working in open source databases since the last 13 years.
 
-- title: Complex Features Made Easy With RxJS
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-27
-  room:
-  authors:
-    - name: Ben Lesh
-      twitter: benlesh
-      github:
-      website:
-  slides:
-  videos:
-    - https://youtu.be/B-nFj2o03i8
-  description: |-
-    In this talk we will add a set of complex features to an existing angular application. these features will have to coordinate animations, user events, and HTTP to improve the UX of the application.Ben Lesh is the Lead on RxJS, and works on the Angular Team at Google. He’s dedicated to spreading the love and understanding of reactive programming to the web development works.
+  - title: Web Workers " a graphical introduction"
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-27
+    room:
+    authors:
+      - name: Ritesh Kumar
+        twitter: Ritesh Kumar
+        github: ritz078
+        website:
+    slides:
+      - https://speakerdeck.com/ritz078/web-workers-a-musical-intro
+    videos:
+      - https://youtu.be/1RSUfWAKQ_M
+    description: |-
+      Thanks to the introduction of PWAs, the web is getting faster. But they can be improved further. This talk will focus on how we can use the power of web workers and improve the performance of our websites.I am a Lead Software Engineer @ Anarock.Before this, I worked at Housing.com where I was involved in the development of its PWA and the React Native App.I love working on open source projects and performance. I have made open source projects like https://transform.now.sh, embed.js and snape.
 
-- title: One code to rule them all - developing native Android / iOS app + Web App with a common codebase
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-27
-  room:
-  authors:
-    - name: Shyam Seshadri
-      twitter: shyamseshadri
-      github:
-      website:
-  slides:
-  videos:
-  description: |-
+  - title: New kids in browserland
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-27
+    room:
+    authors:
+      - name: Swapnil Agarwal
+        twitter:
+        github: swapagarwal
+        website:
+    slides:
+      - https://gitpitch.com/swapagarwal/new-kids-in-browserland
+    videos:
+      - https://youtu.be/9Z-6fHeVOQM
+    description: |-
+      Swapnil will talk about some of the recent wonderful APIs that have been added to the browser such as,Intersection Observer API,Credential Management API,Network Information API,Web Share API,Device Memory API,Concurrent Hardware API,Payment Request APISwapnil is a Senior Software Engineer at Meesho (ex-Amazon), and a co-organizer of Vue.JS
 
-- title: Writing the HasGeek app with NativeScript
-  lang: en
-  type: regular
-  level:
-  time: 2018-10-27
-  room:
-  authors:
-    - name: Arnav Gupta
-      twitter: championswimmer
-      github: championswimmer
-      website:
-  slides:
-  videos:
-    - https://youtu.be/nsgvhmTnJck
-  description: |-
-    Arnav Gupta, Co-Founder At Coding Blocks
+  - title: Quick fixes to improve page load time
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-27
+    room:
+    authors:
+      - name: Tejas Dinkar
+        twitter: tdinkar
+        github: gja
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ifioC5EcIE4
+    description: |-
+      This talk will be a beginner-mid level talk about quick wins you can do to improve your JS performance.The talk will be covering a bunch of common mistakes1) enable dead code elimination2) dont include lodash entirely3) css modules because youll forget to delete thing4) avoid moment5) use script type=application/json6) put rel headers7) billions of others8) React.hydrate, dont render
+
+  - title: Complex Features Made Easy With RxJS
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-27
+    room:
+    authors:
+      - name: Ben Lesh
+        twitter: benlesh
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/B-nFj2o03i8
+    description: |-
+      In this talk we will add a set of complex features to an existing angular application. these features will have to coordinate animations, user events, and HTTP to improve the UX of the application.Ben Lesh is the Lead on RxJS, and works on the Angular Team at Google. He’s dedicated to spreading the love and understanding of reactive programming to the web development works.
+
+  - title: One code to rule them all - developing native Android / iOS app + Web App with a common codebase
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-27
+    room:
+    authors:
+      - name: Shyam Seshadri
+        twitter: shyamseshadri
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Writing the HasGeek app with NativeScript
+    lang: en
+    type: regular
+    level:
+    time: 2018-10-27
+    room:
+    authors:
+      - name: Arnav Gupta
+        twitter: championswimmer
+        github: championswimmer
+        website:
+    slides:
+    videos:
+      - https://youtu.be/nsgvhmTnJck
+    description: |-
+      Arnav Gupta, Co-Founder At Coding Blocks
