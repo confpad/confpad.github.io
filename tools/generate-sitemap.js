@@ -1,20 +1,21 @@
 const fs = require('fs');
+const path = require('path');
 
+const glob = require('glob');
 const jsyaml = require('js-yaml');
 
 const utils = require('../js/utils/utils-node');
 
 const SITEMAP_FILE = './sitemap.txt';
-const CONFERENCES_FILE = './data/conferences.yaml';
-const TALKS_DIR = './data/conferences';
+const CONFERENCES_GLOB_PATTERN = './data/conferences/*/*.yaml';
 const BASE_URL = 'https://confpad.io/';
 
-const buildUrl = (conf, talkIndex, talk) => {
+const buildUrl = (conferenceId, talkIndex, talk) => {
   if (talkIndex && talk) {
-    return `${BASE_URL}${conf.id}/${talkIndex}-${utils.slugifyTitle(talk.title)}`;
+    return `${BASE_URL}${conferenceId}/${talkIndex}-${utils.slugifyTitle(talk.title)}`;
   }
 
-  return `${BASE_URL}${conf.id}`;
+  return `${BASE_URL}${conferenceId}`;
 };
 
 let getJSON = file => {
@@ -30,19 +31,21 @@ let getJSON = file => {
   }
 };
 
-let conferences = getJSON(CONFERENCES_FILE);
+let conferenceFiles = glob.sync(CONFERENCES_GLOB_PATTERN);
 
 // Build sitemap
 let stream = fs.createWriteStream(SITEMAP_FILE);
 stream.once('open', () => {
-  conferences.forEach(conference => {
+  conferenceFiles.forEach(conferenceFile => {
+    let conferenceId = path.parse(conferenceFile).name;
+
     // Conference root
-    stream.write(`${buildUrl(conference)}\n`);
+    stream.write(`${buildUrl(conferenceId)}\n`);
 
     // Conference talks
-    let talks = getJSON(`${TALKS_DIR}/${conference.id.substr(0, 4)}/${conference.id}.yaml`);
-    talks.forEach((talk, index) => {
-      stream.write(`${buildUrl(conference, index + 1, talk)}\n`);
+    let conference = getJSON(conferenceFile);
+    conference.talks.forEach((talk, index) => {
+      stream.write(`${buildUrl(conferenceId, index + 1, talk)}\n`);
     });
 
   });

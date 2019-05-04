@@ -1,5 +1,5 @@
 .PHONY: build-netlify
-build-netlify: test-netlify tools-generate-sitemap-netlify
+build-netlify: prepare-netlify test-netlify tools-generate-sitemap-netlify
 
 .PHONY: test
 test: build-test-image
@@ -11,12 +11,15 @@ test: build-test-image
 	  -v `pwd`/js/utils:/app/js/utils\
 	  confpad-test
 
-.PHONY: test-netlify
-test-netlify:
+.PHONY: prepare-netlify
+prepare-netlify:
 	npm install -g jest
 	npm install glob
 	npm install js-yaml
 	npm install slugify
+
+.PHONY: test-netlify
+test-netlify:
 	jest test
 
 .PHONY: tools-simple-list

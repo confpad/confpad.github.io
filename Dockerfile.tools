@@ -2,6 +2,7 @@ FROM node:11-alpine
 
 WORKDIR /app
 
+RUN yarn add glob
 RUN yarn add js-yaml
 RUN yarn add slugify
 
