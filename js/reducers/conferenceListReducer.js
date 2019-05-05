@@ -21,6 +21,20 @@ const sortByDateFrom = (a, b) => {
   return 0;
 };
 
+/**
+ * Parse string date.{from,to} to Date object
+ *  - also strips Z from "2019-01-10T00:00:00.000Z" so `new Date()` treats it as local date, not UTC
+ *
+ * @param {Object} conf
+ * @returns {Object}
+ */
+const parseDates = conf => {
+  conf.date.from = new Date(conf.date.from.slice(0, -1));
+  conf.date.to = new Date(conf.date.to.slice(0, -1));
+
+  return conf;
+};
+
 const isOlderThanToday = conf => conf.date.from < TODAY;
 
 const isComplete = conf => conf.status === 'complete';
@@ -38,9 +52,10 @@ const reducer = (state = INITIAL_STATE, action) => {
         ...state,
         isFetching: false,
         data: action.payload
-          .sort(sortByDateFrom)
+          .filter(isComplete)
+          .map(parseDates)
           .filter(isOlderThanToday)
-          .filter(isComplete),
+          .sort(sortByDateFrom),
         error: null,
       };
     case ACTION_CONFERENCE_LIST_ERROR:

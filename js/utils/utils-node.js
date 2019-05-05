@@ -1,4 +1,7 @@
+const fs = require('fs');
+
 const slugify = require('slugify');
+const jsyaml = require('js-yaml');
 
 // SYNC_REGEX_URL_YOUTUBE
 module.exports.REGEX_URL_YOUTUBE =
@@ -15,3 +18,22 @@ module.exports.slugifyTitle = title => slugify(title, { lower: true })
   .replace(/-/g, ' ')
   .trim()
   .replace(/ /g, '-');
+
+
+/**
+ * Parse YAML to JS object
+ *
+ * @param {string} file
+ * @returns {Object}
+ */
+module.exports.getJSON = file => {
+  // Read YAML configs
+  let conferencesYamlString = fs.readFileSync(file, 'utf8');
+
+  // Convert YAML to JS object
+  try {
+    return jsyaml.safeLoad(conferencesYamlString);
+  } catch (error) {
+    console.error(error.message);
+  }
+};

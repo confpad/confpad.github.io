@@ -2,7 +2,6 @@ const fs = require('fs');
 const path = require('path');
 
 const glob = require('glob');
-const jsyaml = require('js-yaml');
 
 const utils = require('../js/utils/utils-node');
 
@@ -18,19 +17,6 @@ const buildUrl = (conferenceId, talkIndex, talk) => {
   return `${BASE_URL}${conferenceId}`;
 };
 
-let getJSON = file => {
-  // Read YAML configs
-  let conferencesYamlString = fs.readFileSync(file, 'utf8');
-
-// Convert YAML to JS object
-  try {
-    return jsyaml.safeLoad(conferencesYamlString);
-  } catch (error) {
-    console.error(error.message);
-    return;
-  }
-};
-
 let conferenceFiles = glob.sync(CONFERENCES_GLOB_PATTERN);
 
 // Build sitemap
@@ -43,7 +29,7 @@ stream.once('open', () => {
     stream.write(`${buildUrl(conferenceId)}\n`);
 
     // Conference talks
-    let conference = getJSON(conferenceFile);
+    let conference = utils.getJSON(conferenceFile);
     conference.talks.forEach((talk, index) => {
       stream.write(`${buildUrl(conferenceId, index + 1, talk)}\n`);
     });

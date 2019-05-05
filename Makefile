@@ -1,5 +1,5 @@
 .PHONY: build-netlify
-build-netlify: prepare-netlify test-netlify tools-generate-sitemap-netlify
+build-netlify: prepare-netlify test-netlify tools-generate-conferences-json-netlify tools-generate-sitemap-netlify
 
 .PHONY: test
 test: build-test-image
@@ -9,7 +9,7 @@ test: build-test-image
 	  -v `pwd`/data:/app/data \
 	  -v `pwd`/examples:/app/examples \
 	  -v `pwd`/js/utils:/app/js/utils\
-	  confpad-test
+	  confpad-test jest --bail --expand /app/test
 
 .PHONY: prepare-netlify
 prepare-netlify:
@@ -44,6 +44,21 @@ tools-generate-sitemap: build-tools-image
 .PHONY: tools-generate-sitemap-netlify
 tools-generate-sitemap-netlify:
 	node ./tools/generate-sitemap.js
+
+.PHONY: tools-generate-conferences-json
+tools-generate-conferences-json: build-tools-image
+	> data/conferences.json
+	docker run -t --rm \
+	  -v `pwd`/tools:/app/tools \
+	  -v `pwd`/data:/app/data \
+	  -v `pwd`/js/utils:/app/js/utils\
+	  -v `pwd`/data/conferences.json:/app/data/conferences.json \
+	  confpad-tools \
+	  node ./tools/generate-conferences-json.js
+
+.PHONY: tools-generate-conferences-json-netlify
+tools-generate-conferences-json-netlify:
+	node ./tools/generate-conferences-json.js
 
 .PHONY: build-test-image
 build-test-image:
