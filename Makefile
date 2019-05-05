@@ -4,11 +4,22 @@ build-netlify: prepare-netlify test-netlify tools-generate-conferences-json-netl
 .PHONY: test
 test: build-test-image
 	docker run -t --rm \
+	  -v `pwd`/jest.config.js:/app/jest.config.js \
 	  -v `pwd`/test:/app/test \
 	  -v `pwd`/data:/app/data \
 	  -v `pwd`/examples:/app/examples \
 	  -v `pwd`/js/utils:/app/js/utils\
 	  confpad-test jest --silent --bail --expand /app/test
+
+.PHONY: test-single
+test-single: build-test-image
+	docker run -t --rm \
+	  -v `pwd`/jest.config.js:/app/jest.config.js \
+	  -v `pwd`/test:/app/test \
+	  -v `pwd`/data:/app/data \
+	  -v `pwd`/examples:/app/examples \
+	  -v `pwd`/js/utils:/app/js/utils\
+	  confpad-test jest --expand /app/test ${TESTFILE}
 
 .PHONY: prepare-netlify
 prepare-netlify:

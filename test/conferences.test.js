@@ -23,7 +23,17 @@ const TALK_AUTHOR_KEYS = ['name', 'twitter', 'github', 'website'];
 const TALK_TYPES = ['regular', 'lightning', 'workshop'];
 const TALK_LEVELS = ['beginner', 'intermediate', 'advanced'];
 
-glob.sync('{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conference.yaml}').forEach(file => {
+let year;
+let testGlob = '{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conference.yaml}';
+
+// Single file test?
+let testFile = process.argv.pop();
+if (testFile.match(REGEX_FILENAME) !== null) {
+  year = testFile.substr(0, 4);
+  testGlob = `./data/conferences/${year}/${testFile}`;
+}
+
+glob.sync(testGlob).forEach(file => {
   let data = getJSON(file);
   let conference = data.conference;
   let talks = data.talks;
