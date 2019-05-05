@@ -8,7 +8,7 @@ const { getJSON, REGEX_URL_YOUTUBE, REGEX_URL_VIMEO } = require('../js/utils/uti
 
 // Common
 const REGEX_FILENAME = /^[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+\.yaml$/;
-const REGEX_URL = /^http[s]?:\/\//;
+const REGEX_URL = /^http[s]?:\/\/[a-z0-9-\.]+\.[a-z]{2,}/;
 
 // Conference info
 const INFO_ROOT_KEYS = ['name', 'url', 'status', 'date', 'location', 'description'];
