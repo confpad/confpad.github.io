@@ -2,6 +2,7 @@ conference:
 
   name: performance.now() 2018
   status: complete
+  series: perfnow.nl
   link:
     twitter:
     youtube:

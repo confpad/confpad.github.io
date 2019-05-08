@@ -2,10 +2,11 @@ conference:
 
   name: ngAtlanta Conf 2018
   status: complete
+  series: ng-atl.org
   link:
     twitter:
     youtube:
-    website: https://ngatl.github.io/2018/
+    website: https://2018.ng-atl.org/
   date:
     from: 2018-01-30
     to: 2018-02-02

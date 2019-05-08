@@ -1,6 +1,7 @@
 conference:
   name: <React.NotAConf /> 2019
   status: incomplete
+  series: react-not-a-conf.com
   link:
     twitter:
     youtube:

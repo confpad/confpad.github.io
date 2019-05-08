@@ -2,6 +2,7 @@ conference:
 
   name: PyCon 2018
   status: complete
+  series: us.pycon.org
   link:
     twitter:
     youtube:

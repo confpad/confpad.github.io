@@ -2,6 +2,7 @@ conference:
 
   name: VueConf US 2018
   status: complete
+  series: us.vuejs.org
   link:
     twitter:
     youtube:

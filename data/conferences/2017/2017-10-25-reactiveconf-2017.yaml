@@ -2,10 +2,11 @@ conference:
 
   name: ReactiveConf 2017
   status: complete
+  series: reactiveconf.com
   link:
     twitter:
     youtube:
-    website: https://reactiveconf.com/2017
+    website: https://2017.reactiveconf.com/
   date:
     from: 2017-10-25
     to: 2017-10-27

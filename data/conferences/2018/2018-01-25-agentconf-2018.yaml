@@ -2,6 +2,7 @@ conference:
 
   name: AgentConf 2018
   status: complete
+  series: agent.sh
   link:
     twitter:
     youtube:

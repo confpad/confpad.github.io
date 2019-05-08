@@ -2,6 +2,7 @@ conference:
 
   name: EmberConf 2017
   status: complete
+  series: emberconf.com
   link:
     twitter:
     youtube:
@@ -13,7 +14,7 @@ conference:
     country: United States
     city:  Portland OR
   description: |-
-    Ember is growing every day, and EmberConf is the best place to meet the folks behind the magic. You’ll hear from members of the Ember Core Team, top community contributors and users, and be the first to know what to expect for the future of Ember.https://2017.emberconf.com/
+    Ember is growing every day, and EmberConf is the best place to meet the folks behind the magic. You’ll hear from members of the Ember Core Team, top community contributors and users, and be the first to know what to expect for the future of Ember.
 
 talks:
 

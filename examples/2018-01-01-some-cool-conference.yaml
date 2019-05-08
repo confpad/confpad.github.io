@@ -2,6 +2,7 @@ conference:
 
   name: Awesome Conference
   status: complete # [complete, incomplete] - might be marked as complete after videos are added
+  series: awesome-conf.com # Stripped domain name, used to match other seasons
   link:
     twitter:
     youtube:

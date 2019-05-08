@@ -2,6 +2,7 @@ conference:
 
   name: JSConf US 2018
   status: complete
+  series: jsconf.us
   link:
     twitter:
     youtube:

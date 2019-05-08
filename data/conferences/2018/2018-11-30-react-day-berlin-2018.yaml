@@ -2,10 +2,11 @@ conference:
 
   name: React Day Berlin 2018
   status: complete
+  series: reactday.berlin
   link:
     twitter:
     youtube:
-    website: https://reactday.berlin/
+    website: https://reactday.berlin/2018/
   date:
     from: 2018-11-30
     to: 2018-11-30

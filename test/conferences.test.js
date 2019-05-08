@@ -11,7 +11,7 @@ const REGEX_FILENAME = /^[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+\.yaml$/;
 const REGEX_URL = /^http[s]?:\/\/[a-z0-9-\.]+\.[a-z]{2,}/;
 
 // Conference info
-const INFO_ROOT_KEYS = ['name', 'status', 'link', 'date', 'location', 'description'];
+const INFO_ROOT_KEYS = ['name', 'status', 'series', 'link', 'date', 'location', 'description'];
 const INFO_STATUS_VALUES = ['complete', 'incomplete'];
 const INFO_LINK_KEYS = ['twitter', 'youtube', 'website'];
 const INFO_DATE_KEYS = ['from', 'to'];
@@ -59,6 +59,11 @@ glob.sync(testGlob).forEach(file => {
     // Status
     it('contains valid status', () => {
       expect(INFO_STATUS_VALUES).toContain(conference.status);
+    });
+
+    // Series
+    it('contains valid series', () => {
+      expect(conference.series).not.toBeNull();
     });
 
     // Link
