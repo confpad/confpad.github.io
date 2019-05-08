@@ -19,7 +19,7 @@ talks:
     type: regular # Mandatory, [regular, lightning, workshop]
     level: beginner # [beginner, intermediate, advanced]
     time: 2018-09-03 09:30:00 # Mandatory, 2018-09-03 or 2018-09-03 09:30:00
-    room: # Room number or room name
+    room: Room A # Room/hall/auditorium name
     authors:
       - name: John Doe
         twitter: johndoe
