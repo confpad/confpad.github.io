@@ -40,10 +40,10 @@ class ConferenceListView extends Component {
         
         ${conferenceList.data && html`
           <ul class="list ma0 pa0">
-            ${conferenceList.data.map(data => html`
-              <div class="mv4">
-                <${ConferenceInfo} ...${data} showTitle=${true} />
-              </div>
+            ${conferenceList.data.map(conference => html`
+              <li class="mv4">
+                <${ConferenceInfo} conference=${conference} showFullDescription=${false} />
+              </li>
             `)}
           </ul>
         `}

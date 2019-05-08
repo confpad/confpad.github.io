@@ -5,7 +5,7 @@ const html = htm.bind(h);
 
 const CLASS_LINE_MV = 'mv1';
 
-const Navigation = ({conferenceId, conferenceData, talkData}) => {
+const Navigation = ({ conference, talk }) => {
   let items = [];
 
   // Root
@@ -14,27 +14,27 @@ const Navigation = ({conferenceId, conferenceData, talkData}) => {
   `;
 
   // Conference
-  if (conferenceData && !talkData) {
+  if (conference && !talk) {
     items[items.length] = html`
       <h2 class="ma0 f4 fw6">
-        ${conferenceData.name}
+        ${conference.name}
       </h2>
     `;
-  } else if (conferenceData) {
+  } else if (conference) {
     items[items.length] = html`
       <h2 class="ma0 f4 fw6">
-        <a href="/${conferenceId}" class="link underline-hover">
-          ${conferenceData.name}
+        <a href="/${conference.id}" class="link underline-hover">
+          ${conference.name}
         </a>
       </h2>
     `;
   }
 
   // Talk
-  if (talkData) {
+  if (talk) {
     items[items.length] = html`
       <h2 class="ma0 f4 fw6">
-        ${talkData.title}
+        ${talk.title}
       </h2>
     `;
   }

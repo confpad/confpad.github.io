@@ -11,15 +11,13 @@ const CLASS_LINE_MV = 'mv1';
 const CLASS_LINE_INFO_MR = 'mr2';
 const CLASS_LINE_INFO_DISPLAY = 'db dib-l';
 
-const getTitle = (conferenceName, link, showTitle) => {
-  return html`
+const getTitle = (conferenceName, link, showTitle) => html`
     <h2 class="mv1 f4 fw6 ${!showTitle && 'dn'}">
       <a href="${link}" class="link underline-hover" itemprop="url">
         <span itemprop="name">${conferenceName}</span>
       </a>
     </h2>
-  `
-};
+  `;
 
 const getDate = (from, to) => {
   let fromDate = from && from.toISOString().split('T')[0];
@@ -57,9 +55,9 @@ const getLink = url => html`
   </div>
 `;
 
-const getDescription = (description, isDetail) => {
+const getDescription = (description, showFullDescription) => {
   let descriptionShort = description.substr(0, DESCRIPTION_LIMIT);
-  let useShort = !isDetail && descriptionShort.length < description.length;
+  let useShort = !showFullDescription && descriptionShort.length < description.length;
 
   return html`
     <div class="mv1 ${CLASS_LINE_MV} gray" itemprop="description">
@@ -68,18 +66,18 @@ const getDescription = (description, isDetail) => {
   `;
 };
 
-const ConferenceInfo = props => {
-  let link = getConferenceDetailLink(props.id);
+const ConferenceInfo = ({ conference, showTitle = true, showFullDescription = true }) => {
+  let link = getConferenceDetailLink(conference.id);
 
   return html`
     <div itemscope itemtype="http://schema.org/Event">
-      ${getTitle(props.name, link, props.showTitle)}
+      ${getTitle(conference.name, link, showTitle)}
       <div class="truncate">
-        ${props.date && getDate(props.date.from, props.date.to)}
-        ${props.location && getLocation(props.location)}
-        ${props.link.website && getLink(props.link.website)}
+        ${conference.date && getDate(conference.date.from, conference.date.to)}
+        ${conference.location && getLocation(conference.location)}
+        ${conference.link.website && getLink(conference.link.website)}
       </div>
-      ${getDescription(props.description, props.isDetail)}
+      ${getDescription(conference.description, showFullDescription)}
     </div>`
 };
 

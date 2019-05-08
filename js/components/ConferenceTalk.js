@@ -29,8 +29,8 @@ const getTypeEmoji = type => {
   }
 };
 
-const getTitle = (title, type, link, isTalk) => html`
-  <h3 class="${CLASS_LINE_MV} f4 fw6 ${isTalk && 'dn'}">
+const getTitle = (title, type, link, showTitle) => html`
+  <h3 class="${CLASS_LINE_MV} f4 fw6 ${!showTitle && 'dn'}">
     ${getTypeEmoji(type)}
     <a href="${link}" class="link underline-hover" itemprop="url">
       <span itemprop="name">${title}</span>
@@ -111,16 +111,15 @@ const getDescription = (description, isTalk) => {
   `;
 };
 
-const ConferenceTalk = props => {
-  let elTag = props.isTalk ? 'div' : 'li';
-  let link = getConferenceTalkLink(props.conferenceId, props.id);
+const ConferenceTalk = ({ conference, talk, showTitle = true, showFullDescription = true }) => {
+  let link = getConferenceTalkLink(conference.id, talk.id);
 
   return html`
-    <${elTag} class="mv4" itemscope itemtype="http://schema.org/Article">
-      ${getTitle(props.title, props.type, link, props.isTalk)}
+    <div itemscope itemtype="http://schema.org/Article">
+      ${getTitle(talk.title, talk.type, link, showTitle)}
       <div class="bl ml2 pl2 bw1 b--light-gray">
-        ${getTime(props.time)}
-        ${props.authors && props.authors.map(author => html`
+        ${getTime(talk.time)}
+        ${talk.authors && talk.authors.map(author => html`
           <ul class="list ma0 pa0 truncate" itemprop="author" itemscope itemtype="http://schema.org/Person">
             ${author.name && getAuthorName(author.name)}
             ${author.twitter && getAuthorTwitter(author.twitter)}
@@ -128,11 +127,11 @@ const ConferenceTalk = props => {
             ${author.website && getAuthorWebsite(author.website)}
           </ul>
         `)}
-        ${props.slides && props.slides.map(slides => getSlides(slides))}
-        ${props.videos && props.videos.map(video => getVideo(video))}
-        ${props.description && getDescription(props.description, props.isTalk)}
+        ${talk.slides && talk.slides.map(slides => getSlides(slides))}
+        ${talk.videos && talk.videos.map(video => getVideo(video))}
+        ${talk.description && getDescription(talk.description, showFullDescription)}
       </div>
-    </${elTag}>`
+    </div>`
 };
 
 export default ConferenceTalk;

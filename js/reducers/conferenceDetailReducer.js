@@ -7,7 +7,9 @@ import {
   ACTION_CONFERENCE_DETAIL_ERROR,
 } from '../actions/conferenceDetailActions.js';
 
-const addSlugifiedId = talks => talks.map(
+const addConferenceId = (conference, conferenceId) => ({ id: conferenceId, ...conference });
+
+const addSlugifiedTalkId = talks => talks.map(
   (talk, index) => {
     let slug = slugifyTitle(talk.title);
 
@@ -37,13 +39,14 @@ const reducer = (state = INITIAL_STATE, action) => {
         error: null,
       };
     case ACTION_CONFERENCE_DETAIL_FETCHED:
-      let conference = action.payload.data.conference;
-      let talks = addSlugifiedId(action.payload.data.talks);
+      let conferenceId = action.payload.conferenceId;
+      let conference = addConferenceId(action.payload.data.conference, conferenceId);
+      let talks = addSlugifiedTalkId(action.payload.data.talks);
 
       return {
         ...state,
         isFetching: false,
-        cache: { ...state.cache, [action.payload.conferenceId]: { conference, talks } },
+        cache: { ...state.cache, [conferenceId]: { conference, talks } },
         conference: conference,
         talks: talks,
         error: null,

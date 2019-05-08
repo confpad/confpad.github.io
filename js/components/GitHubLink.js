@@ -3,9 +3,7 @@ const htm = window.htm;
 
 const html = htm.bind(h);
 
-const GitHubLink = props => {
-  let { conferenceId } = props;
-
+const GitHubLink = ({ conferenceId }) => {
   let year = conferenceId.substr(0, 4);
   let link = `https://github.com/confpad/confpad.github.io/blob/master/data/conferences/${year}/${conferenceId}.yaml`;
 

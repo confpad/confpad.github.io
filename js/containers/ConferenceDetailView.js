@@ -17,29 +17,26 @@ const html = htm.bind(h);
 class ConferenceDetailView extends Component {
 
   componentDidMount() {
-    this.props.fetchDetail(this.props.conferenceId);
+    this.props.fetchDetail(this.props.matches.conferenceId);
 
     window.scrollTo(0, 0);
   }
 
   render(props) {
-    let { conferenceId, conferenceDetail } = props;
-    let conferenceData = conferenceDetail.conference;
+    let { conferenceDetail } = props;
+    let conference = conferenceDetail.conference;
 
-    if (conferenceData) {
-      updateMetaUrls(`https://confpad.io/${conferenceId}`);
-      updateMetaTitles(`${conferenceData.name} | ConfPad`);
-      updateMetaDescriptions(conferenceData.description);
-      updateMetaImages('https://confpad.io/img/logo.png');
-    }
-
-    return html`
+    if (conference) {
+      updateMetaUrls(`https://confpad.io/${conference.id}`);
+      updateMetaTitles(`${conference.name} | ConfPad`);
+      updateMetaDescriptions(conference.description);
+      return html`
       <main class="mt4">
-        ${conferenceData && html`
+        ${conference && html`
             <div>
-              <${Navigation} conferenceId=${conferenceId} conferenceData=${conferenceData} />
-              <${ConferenceInfo} ...${conferenceData} isDetail=${true} />
-              <${GitHubLink} conferenceId=${conferenceId} />
+              <${Navigation} conference=${conference} />
+              <${ConferenceInfo} conference=${conference} showTitle=${false} />
+              <${GitHubLink} conferenceId=${conference.id} />
             </div>
          `}
         
@@ -49,8 +46,10 @@ class ConferenceDetailView extends Component {
         
         ${conferenceDetail.talks && html`
           <ul class="list ma0 pa0">
-            ${conferenceDetail.talks.map(data => html`
-              <${ConferenceTalk} ...${data} conferenceId=${conferenceId} />
+            ${conferenceDetail.talks.map(talk => html`
+              <li class="mv4">
+                <${ConferenceTalk} conference=${conference} talk=${talk} showFullDescription=${false} />
+              </li>
             `)}
           </ul>
         `}
@@ -60,6 +59,9 @@ class ConferenceDetailView extends Component {
         `}
       </main>
     `;
+      updateMetaImages('https://confpad.io/img/logo.png');
+
+    }
   }
 
 }

@@ -19,43 +19,45 @@ const html = htm.bind(h);
 class ConferenceTalkView extends Component {
 
   componentDidMount() {
-    this.props.fetchDetail(this.props.conferenceId);
+    this.props.fetchDetail(this.props.matches.conferenceId);
 
     window.scrollTo(0, 0);
   }
 
   render({ conferenceId, talkId, conferenceDetail }) {
-    let conferenceData = conferenceDetail.conference;
-    let talkData = conferenceDetail.talks.find(item => item.id === talkId);
+    let conference = conferenceDetail.conference;
+    let talk = conferenceDetail.talks.find(item => item.id === talkId);
 
-    if (conferenceData && talkData) {
-      updateMetaUrls(`https://confpad.io/${conferenceId}/${talkData.id}`);
-      updateMetaTitles(`${talkData.title} | ${conferenceData.name} | ConfPad`);
-      updateMetaDescriptions(talkData.description);
-      updateMetaImages(talkData && talkData.videos && getVideoImage(talkData.videos[0]) || 'https://confpad.io/img/logo.png');
+    if (conference && talk) {
+      updateMetaUrls(`https://confpad.io/${conference.id}/${talk.id}`);
+      updateMetaTitles(`${talk.title} | ${conference.name} | ConfPad`);
+      updateMetaDescriptions(talk.description);
+      updateMetaImages(talk && talk.videos && getVideoImage(talk.videos[0]) || 'https://confpad.io/img/logo.png');
     }
 
     return html`
       <main class="mt4">
-        <${Navigation} conferenceId=${conferenceId} conferenceData=${conferenceData} talkData=${talkData} />
+        <${Navigation} conference=${conference} talk=${talk} />
         
         ${conferenceDetail.isFetching && html`
           <${LoadingSpinner} />
         `}
         
-        ${talkData && talkData.videos && talkData.videos.map(url => {
+        ${talk && talk.videos && talk.videos.map(url => {
           return html`<${ConferenceTalkVideo} url=${url} />`;
         })}
         
-        ${conferenceDetail.talks && html`
-          <${ConferenceTalk} ...${talkData} conferenceId=${conferenceId} isTalk=${true} />
+        ${talk && html`
+          <${ConferenceTalk} conference=${conference} talk=${talk} showTitle=${false} />
         `}
         
         ${conferenceDetail.error && html`
           <${ErrorMessage} message="${conferenceDetail.error}" />
         `}
         
-        <${GitHubLink} conferenceId=${conferenceId} />
+        ${talk && html`
+          <${GitHubLink} conferenceId=${conference.id} />
+        `}
       </main>
     `;
   };
