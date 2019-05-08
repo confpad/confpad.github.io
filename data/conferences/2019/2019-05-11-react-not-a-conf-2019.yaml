@@ -1,0 +1,164 @@
+conference:
+  name: <React.NotAConf /> 2019
+  url: http://react-not-a-conf.com
+  status: incomplete
+  date:
+    from: 2018-05-11
+    to: 2018-05-11
+  location:
+    country: Bulgaria
+    city: Sofia
+  description: |-
+    <React.NotAConf /> is an initiative brought to live by <React.Sofia /> meetup - a community of 700+ React enthusiasts. ⚛️ In 2018, we successfully shipped the first edition of the conference. 🚀 In 2019 we are planning something even better. 🤩
+
+talks:
+  - title: Opening
+    lang: en
+    type: regular
+    level:
+    time: 2019-05-11
+    room:
+    authors:
+      - name: "Janet Todorova"
+        twitter: janettodorova
+        github: janettt
+        website:
+    slides:
+    videos:
+    description:
+
+  - title: "The evolution of React APIs"
+    lang: en
+    type: regular
+    level:
+    time: 2019-05-11
+    room:
+    authors:
+      - name: "Mihail Mikov"
+        twitter: debelbot
+        github: debel
+        website:
+    slides:
+    videos:
+    description:
+
+  - title: "An SVG’s Tale"
+    lang: en
+    type: regular
+    level:
+    time: 2019-05-11
+    room:
+    authors:
+      - name: "Elizabet Oliveira"
+        twitter: miuki_miu
+        github: miukimiu
+        website:
+    slides:
+    videos:
+    description:
+
+  - title: "Conversational sign up with chatbot-like experience with React and Redux"
+    lang: en
+    type: regular
+    level:
+    time: 2019-05-11
+    room:
+    authors:
+      - name: "Ilona Demidenko"
+        twitter: ilonacodes
+        github: ilonacodes
+        website:
+    slides:
+    videos:
+    description:
+
+  - title: "Write better React with ReasonML"
+    lang: en
+    type: regular
+    level:
+    time: 2019-05-11
+    room:
+    authors:
+      - name: "David Kopal"
+        twitter: coding_lawyer
+        github: codinglawyer
+        website:
+    slides:
+    videos:
+    description:
+
+  - title: "How not to hate your life when dealing with forms"
+    lang: en
+    type: regular
+    level:
+    time: 2019-05-11
+    room:
+    authors:
+      - name: "Radoslav Stankov"
+        twitter: rstankov
+        github: rstankov
+        website: "http://rstankov.com"
+    slides:
+    videos:
+    description:
+
+  - title: "Serverless - a backend thing that gives superpowers to frontend developers"
+    lang: en
+    type: regular
+    level:
+    time: 2019-05-11
+    room:
+    authors:
+      - name: "Slobodan Stojanović"
+        twitter: slobodan_
+        github: stojanovic
+        website:
+    slides:
+    videos:
+    description:
+
+  - title: "Building resilient frontend architecture"
+    lang: en
+    type: regular
+    level:
+    time: 2019-05-11
+    room:
+    authors:
+      - name: "Monica Lent"
+        twitter: monicalent
+        github: mlent
+        website:
+    slides:
+    videos:
+    description:
+
+  - title: "Architecting React plugins"
+    lang: en
+    type: regular
+    level:
+    time: 2019-05-11
+    room:
+    authors:
+      - name: "Martin Chaov"
+        twitter:
+        github: mchaov
+        website:
+    slides:
+    videos:
+    description:
+
+  - title: "Nadcast Panel"
+    lang: en
+    type: regular
+    level:
+    time: 2019-05-11
+    room:
+    authors:
+      - name: "Krasimir Tsonev"
+        twitter: KrasimirTsonev
+        github: krasimir
+        website: "http://krasimirtsonev.com"
+    slides:
+    videos:
+    description:
+
