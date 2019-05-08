@@ -7,7 +7,6 @@ const htm = window.htm;
 
 import { getVideoImage } from '../utils/utils.js';
 import { fetchDetail } from '../actions/conferenceDetailActions.js';
-import { fetchList } from '../actions/conferenceListActions.js';
 import Navigation from '../components/Navigation.js';
 import ConferenceTalk from "../components/ConferenceTalk.js";
 import GitHubLink from "../components/GitHubLink.js";
@@ -20,18 +19,17 @@ const html = htm.bind(h);
 class ConferenceTalkView extends Component {
 
   componentDidMount() {
-    this.props.fetchList();
     this.props.fetchDetail(this.props.conferenceId);
 
     window.scrollTo(0, 0);
   }
 
-  render({ conferenceId, talkId, conferenceDetail, conferenceList }) {
-    let conferenceData = conferenceList.data.find(item => item.id === conferenceId);
-    let talkData = conferenceDetail.data.find(item => item.id === talkId);
+  render({ conferenceId, talkId, conferenceDetail }) {
+    let conferenceData = conferenceDetail.conference;
+    let talkData = conferenceDetail.talks.find(item => item.id === talkId);
 
     if (conferenceData && talkData) {
-      updateMetaUrls(`https://confpad.io/${conferenceData.id}/${talkData.id}`);
+      updateMetaUrls(`https://confpad.io/${conferenceId}/${talkData.id}`);
       updateMetaTitles(`${talkData.title} | ${conferenceData.name} | ConfPad`);
       updateMetaDescriptions(talkData.description);
       updateMetaImages(talkData && talkData.videos && getVideoImage(talkData.videos[0]) || 'https://confpad.io/img/logo.png');
@@ -39,15 +37,7 @@ class ConferenceTalkView extends Component {
 
     return html`
       <main class="mt4">
-        ${conferenceList.isFetching && html`
-          <${LoadingSpinner} />
-        `}
-        
-        <${Navigation} conferenceData=${conferenceData} talkData=${talkData} />
-        
-        ${conferenceList.error && !conferenceData && html`
-          <${ErrorMessage} message=${conferenceList.error} >
-        `}
+        <${Navigation} conferenceId=${conferenceId} conferenceData=${conferenceData} talkData=${talkData} />
         
         ${conferenceDetail.isFetching && html`
           <${LoadingSpinner} />
@@ -57,7 +47,7 @@ class ConferenceTalkView extends Component {
           return html`<${ConferenceTalkVideo} url=${url} />`;
         })}
         
-        ${conferenceDetail.data && html`
+        ${conferenceDetail.talks && html`
           <${ConferenceTalk} ...${talkData} conferenceId=${conferenceId} isTalk=${true} />
         `}
         
@@ -74,13 +64,12 @@ class ConferenceTalkView extends Component {
 
 const mapStateToProps = state => {
   return {
-    conferenceList: state.conferenceList,
     conferenceDetail: state.conferenceDetail,
   }
 };
 
 const mapDispatchToProps = dispatch => {
-  return bindActionCreators({ fetchList, fetchDetail }, dispatch);
+  return bindActionCreators({ fetchDetail }, dispatch);
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(ConferenceTalkView);

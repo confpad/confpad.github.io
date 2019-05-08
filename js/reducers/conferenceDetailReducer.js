@@ -7,19 +7,20 @@ import {
   ACTION_CONFERENCE_DETAIL_ERROR,
 } from '../actions/conferenceDetailActions.js';
 
-const addSlugifiedId = data => data.map(
+const addSlugifiedId = talks => talks.map(
   (talk, index) => {
     let slug = slugifyTitle(talk.title);
 
     return {
-      ...talk,
       id: `${index + 1}-${slug}`,
+      ...talk,
     }
   }
 );
 
 const INITIAL_STATE = {
-  data: [],
+  conference: null,
+  talks: [],
   cache: {},
   isFetching: false,
   error: null,
@@ -30,31 +31,36 @@ const reducer = (state = INITIAL_STATE, action) => {
     case ACTION_CONFERENCE_DETAIL_IS_FETCHING:
       return {
         ...state,
-        data: [],
+        conference: null,
+        talks: [],
         isFetching: true,
         error: null,
       };
     case ACTION_CONFERENCE_DETAIL_FETCHED:
-      let data = addSlugifiedId(action.payload.data.talks);
+      let conference = action.payload.data.conference;
+      let talks = addSlugifiedId(action.payload.data.talks);
 
       return {
         ...state,
         isFetching: false,
-        cache: { ...state.cache, [action.payload.conferenceId]: data },
-        data: data,
+        cache: { ...state.cache, [action.payload.conferenceId]: { conference, talks } },
+        conference: conference,
+        talks: talks,
         error: null,
       };
     case ACTION_CONFERENCE_DETAIL_LOAD_FROM_CACHE:
       return {
         ...state,
-        data: state.cache[action.payload],
+        conference: state.cache[action.payload].conference,
+        talks: state.cache[action.payload].talks,
         error: null,
       };
     case ACTION_CONFERENCE_DETAIL_ERROR:
       return {
         ...state,
         isFetching: false,
-        data: [],
+        conference: null,
+        talks: [],
         error: action.payload,
       };
   }

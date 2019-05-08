@@ -5,7 +5,7 @@ const html = htm.bind(h);
 
 const CLASS_LINE_MV = 'mv1';
 
-const Navigation = ({conferenceData, talkData}) => {
+const Navigation = ({conferenceId, conferenceData, talkData}) => {
   let items = [];
 
   // Root
@@ -23,7 +23,7 @@ const Navigation = ({conferenceData, talkData}) => {
   } else if (conferenceData) {
     items[items.length] = html`
       <h2 class="ma0 f4 fw6">
-        <a href="/${conferenceData.id}" class="link underline-hover">
+        <a href="/${conferenceId}" class="link underline-hover">
           ${conferenceData.name}
         </a>
       </h2>
