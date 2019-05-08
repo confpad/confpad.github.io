@@ -1,8 +1,11 @@
 conference:
 
   name: Smashing Conference New York 2018
-  url: https://archive.smashingconf.com/ny-2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://archive.smashingconf.com/ny-2018/
   date:
     from: 2018-10-23
     to: 2018-10-24

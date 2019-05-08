@@ -1,8 +1,11 @@
 conference:
 
   name: dotJS 2018
-  url: https://www.dotjs.io/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://www.dotjs.io/
   date:
     from: 2018-11-09
     to: 2018-11-09

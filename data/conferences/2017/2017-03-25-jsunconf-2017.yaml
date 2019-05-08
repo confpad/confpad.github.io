@@ -1,8 +1,11 @@
 conference:
 
   name: JSUnconf 2017
-  url: https://2017.jsunconf.eu/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2017.jsunconf.eu/
   date:
     from: 2017-03-25
     to: 2017-03-26

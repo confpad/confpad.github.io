@@ -1,8 +1,11 @@
 conference:
 
   name: Flutter Live 2018
-  url: https://developers.google.com/events/flutter-live/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://developers.google.com/events/flutter-live/
   date:
     from: 2018-12-04
     to: 2018-12-04

@@ -1,8 +1,11 @@
 conference:
 
   name: NodeConf EU 2018
-  url: https://www.nodeconf.eu/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://www.nodeconf.eu/
   date:
     from: 2018-11-04
     to: 2018-11-07

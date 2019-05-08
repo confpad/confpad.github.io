@@ -1,8 +1,11 @@
 conference:
 
   name: NodeConf Argentina 2016
-  url: https://2016.nodeconf.com.ar/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2016.nodeconf.com.ar/
   date:
     from: 2016-11-17
     to: 2016-11-19

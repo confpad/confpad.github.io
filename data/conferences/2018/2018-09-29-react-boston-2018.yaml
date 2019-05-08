@@ -1,8 +1,11 @@
 conference:
 
   name: React Boston 2018
-  url: http://www.reactboston.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: http://www.reactboston.com/
   date:
     from: 2018-09-29
     to: 2018-09-30

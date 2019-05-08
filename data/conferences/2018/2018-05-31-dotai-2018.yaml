@@ -1,8 +1,11 @@
 conference:
 
   name: dotAI 2018
-  url: https://www.dotai.io/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://www.dotai.io/
   date:
     from: 2018-05-31
     to: 2018-05-31

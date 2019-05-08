@@ -1,8 +1,11 @@
 conference:
 
   name: PyCon 2018
-  url: https://us.pycon.org/2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://us.pycon.org/2018/
   date:
     from: 2018-05-11
     to: 2018-05-13

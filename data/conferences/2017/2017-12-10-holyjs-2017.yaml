@@ -1,8 +1,11 @@
 conference:
 
   name: HolyJS 2017
-  url: https://2017.holyjs-moscow.ru/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2017.holyjs-moscow.ru/
   date:
     from: 2017-12-10
     to: 2017-12-11

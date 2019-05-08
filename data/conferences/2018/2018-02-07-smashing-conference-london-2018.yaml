@@ -1,8 +1,11 @@
 conference:
 
   name: Smashing Conference London 2018
-  url: https://smashingconf.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://smashingconf.com/
   date:
     from: 2018-02-07
     to: 2018-02-08

@@ -1,8 +1,11 @@
 conference:
 
   name: JSCamp 2018
-  url: https://jscamp.tech/2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://jscamp.tech/2018/
   date:
     from: 2018-07-18
     to: 2018-07-20

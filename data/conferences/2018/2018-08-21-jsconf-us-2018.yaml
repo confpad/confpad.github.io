@@ -1,8 +1,11 @@
 conference:
 
   name: JSConf US 2018
-  url: https://2018.jsconf.us/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.jsconf.us/
   date:
     from: 2018-08-21
     to: 2018-08-23

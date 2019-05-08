@@ -1,8 +1,11 @@
 conference:
 
   name: Cold Front 2018
-  url: https://2018.coldfront.co/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.coldfront.co/
   date:
     from: 2018-11-13
     to: 2018-11-15

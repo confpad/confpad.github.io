@@ -1,8 +1,11 @@
 conference:
 
   name: React Day Berlin 2017
-  url: https://reactday.berlin/2017/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://reactday.berlin/2017/
   date:
     from: 2017-12-02
     to: 2017-12-02

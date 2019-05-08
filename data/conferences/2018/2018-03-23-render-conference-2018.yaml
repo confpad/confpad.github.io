@@ -1,8 +1,11 @@
 conference:
 
   name: Render Conference 2018
-  url: https://2018.render-conf.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.render-conf.com/
   date:
     from: 2018-03-23
     to: 2018-03-23

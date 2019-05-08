@@ -1,8 +1,11 @@
 conference:
 
   name: Angular Connect 2018
-  url: https://past.angularconnect.com/2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://past.angularconnect.com/2018/
   date:
     from: 2018-11-07
     to: 2018-11-09

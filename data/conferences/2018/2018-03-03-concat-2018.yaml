@@ -1,8 +1,11 @@
 conference:
 
   name: .concat() 2018
-  url: https://2018.conc.at/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.conc.at/
   date:
     from: 2018-03-03
     to: 2018-03-03

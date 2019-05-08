@@ -1,8 +1,11 @@
 conference:
 
   name: JSConf Iceland 2018
-  url: https://2018.jsconf.is/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.jsconf.is/
   date:
     from: 2018-03-01
     to: 2018-03-02

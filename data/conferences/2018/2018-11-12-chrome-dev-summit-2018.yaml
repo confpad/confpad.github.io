@@ -1,8 +1,11 @@
 conference:
 
   name: Chrome Dev Summit 2018
-  url: https://developer.chrome.com/devsummit/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://developer.chrome.com/devsummit/
   date:
     from: 2018-11-12
     to: 2018-11-13

@@ -1,8 +1,11 @@
 conference:
 
   name: JSFoo 2019
-  url: https://jsfoo.in/2019-pune/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://jsfoo.in/2019-pune/
   date:
     from: 2019-01-10
     to: 2019-01-10

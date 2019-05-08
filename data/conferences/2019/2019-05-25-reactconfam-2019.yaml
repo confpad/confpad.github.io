@@ -1,8 +1,11 @@
 conference:
 
   name: React Conf Armenia 2019
-  url: https://reactconf.am
   status: incomplete
+  link:
+    twitter:
+    youtube:
+    website: https://reactconf.am
   date:
     from: 2019-05-25
     to: 2019-05-25

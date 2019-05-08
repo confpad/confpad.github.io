@@ -1,8 +1,11 @@
 conference:
 
   name: Full Stack Fest 2018
-  url: https://2018.fullstackfest.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.fullstackfest.com/
   date:
     from: 2018-09-03
     to: 2018-09-07

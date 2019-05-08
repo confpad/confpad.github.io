@@ -1,8 +1,11 @@
 conference:
 
   name: dotScale 2018
-  url: https://www.dotscale.io/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://www.dotscale.io/
   date:
     from: 2018-06-01
     to: 2018-06-01

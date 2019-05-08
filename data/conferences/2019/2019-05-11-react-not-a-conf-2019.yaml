@@ -1,7 +1,10 @@
 conference:
   name: <React.NotAConf /> 2019
-  url: http://react-not-a-conf.com
   status: incomplete
+  link:
+    twitter:
+    youtube:
+    website: http://react-not-a-conf.com
   date:
     from: 2018-05-11
     to: 2018-05-11
@@ -12,6 +15,7 @@ conference:
     <React.NotAConf /> is an initiative brought to live by <React.Sofia /> meetup - a community of 700+ React enthusiasts. ⚛️ In 2018, we successfully shipped the first edition of the conference. 🚀 In 2019 we are planning something even better. 🤩
 
 talks:
+
   - title: Opening
     lang: en
     type: regular

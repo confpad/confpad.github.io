@@ -1,8 +1,11 @@
 conference:
 
   name: JSFoo 2018
-  url: https://jsfoo.in/2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://jsfoo.in/2018/
   date:
     from: 2018-10-26
     to: 2018-10-27

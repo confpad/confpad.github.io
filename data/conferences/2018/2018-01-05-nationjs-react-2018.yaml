@@ -1,8 +1,11 @@
 conference:
 
   name: NationJS React 2018
-  url: http://nationjs.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: http://nationjs.com/
   date:
     from: 2018-01-05
     to: 2018-01-05

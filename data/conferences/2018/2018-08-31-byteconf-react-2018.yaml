@@ -1,8 +1,11 @@
 conference:
 
   name: Byteconf React 2018
-  url: https://www.byteconf.com/react-2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://www.byteconf.com/react-2018/
   date:
     from: 2018-08-31
     to: 2018-08-31

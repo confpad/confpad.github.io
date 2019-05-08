@@ -1,8 +1,11 @@
 conference:
 
   name: ngVikings 2018
-  url: https://2018.ngvikings.org/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.ngvikings.org/
   date:
     from: 2018-03-01
     to: 2018-03-02

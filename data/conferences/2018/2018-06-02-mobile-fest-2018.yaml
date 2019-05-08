@@ -1,8 +1,11 @@
 conference:
 
   name: Mobile Fest 2018
-  url: http://mobilefest.com.ua/indexe.html
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: http://mobilefest.com.ua/indexe.html
   date:
     from: 2018-06-02
     to: 2018-06-02

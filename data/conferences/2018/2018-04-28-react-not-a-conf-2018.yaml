@@ -1,8 +1,11 @@
 conference:
 
   name: <React.NotAConf /> 2018
-  url: http://react-not-a-conf.com/archive/2018
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: http://react-not-a-conf.com/archive/2018
   date:
     from: 2018-04-28
     to: 2018-04-28

@@ -1,8 +1,11 @@
 conference:
 
   name: Smashing Conference Toronto 2018
-  url: https://archive.smashingconf.com/toronto-2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://archive.smashingconf.com/toronto-2018/
   date:
     from: 2018-06-26
     to: 2018-06-27

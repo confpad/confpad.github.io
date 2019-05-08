@@ -1,8 +1,11 @@
 conference:
 
   name: Nordic.js 2018
-  url: https://nordicjs.com/2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://nordicjs.com/2018/
   date:
     from: 2018-10-06
     to: 2018-10-07

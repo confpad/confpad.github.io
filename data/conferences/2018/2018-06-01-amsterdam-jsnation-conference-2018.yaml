@@ -1,8 +1,11 @@
 conference:
 
   name: Amsterdam JSNation Conference 2018
-  url: https://amsterdamjs.com/2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://amsterdamjs.com/2018/
   date:
     from: 2018-06-01
     to: 2018-06-02

@@ -1,8 +1,11 @@
 conference:
 
   name: VueConf US 2018
-  url: https://us.vuejs.org/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://us.vuejs.org/
   date:
     from: 2018-03-26
     to: 2018-03-28

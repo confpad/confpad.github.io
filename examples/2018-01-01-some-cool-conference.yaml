@@ -1,8 +1,11 @@
 conference:
 
   name: Awesome Conference
-  url: https://www.awesome-conf.com/
   status: complete # [complete, incomplete] - might be marked as complete after videos are added
+  link:
+    twitter:
+    youtube:
+    website: https://www.awesome-conf.com/
   date:
     from: 2018-01-01
     to: 2018-01-05

@@ -1,8 +1,11 @@
 conference:
 
   name: JSConfCO 2018
-  url: https://jsconf.co/#home
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://jsconf.co/#home
   date:
     from: 2018-11-16
     to: 2018-11-17

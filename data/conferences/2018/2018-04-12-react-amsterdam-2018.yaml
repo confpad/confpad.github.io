@@ -1,8 +1,11 @@
 conference:
 
   name: React Amsterdam 2018
-  url: https://react.amsterdam/2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://react.amsterdam/2018/
   date:
     from: 2018-04-12
     to: 2018-04-14

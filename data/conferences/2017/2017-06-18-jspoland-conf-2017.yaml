@@ -1,8 +1,11 @@
 conference:
 
   name: JSPoland Conf 2017
-  url: https://js-poland.pl/2017/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://js-poland.pl/2017/
   date:
     from: 2017-06-18
     to: 2017-06-18

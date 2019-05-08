@@ -1,8 +1,11 @@
 conference:
 
   name: Pixel Pioneers Bristol 2017
-  url: https://pixelpioneers.co/events/bristol-2017
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://pixelpioneers.co/events/bristol-2017
   date:
     from: 2017-06-22
     to: 2017-06-22

@@ -1,8 +1,11 @@
 conference:
 
   name: React London 2017
-  url: https://react.london/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://react.london/
   date:
     from: 2017-03-28
     to: 2017-03-28

@@ -1,8 +1,11 @@
 conference:
 
   name: Uphill Conf 2018
-  url: https://uphillconf.com/archive/2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://uphillconf.com/archive/2018/
   date:
     from: 2018-04-26
     to: 2018-04-27

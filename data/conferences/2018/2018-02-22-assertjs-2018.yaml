@@ -1,8 +1,11 @@
 conference:
 
   name: Assert(js) 2018
-  url: https://www.assertjs.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://www.assertjs.com/
   date:
     from: 2018-02-22
     to: 2018-02-22

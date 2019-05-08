@@ -1,8 +1,11 @@
 conference:
 
   name: Øredev 2018
-  url: http://oredev.org/2018
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: http://oredev.org/2018
   date:
     from: 2018-11-19
     to: 2018-11-22

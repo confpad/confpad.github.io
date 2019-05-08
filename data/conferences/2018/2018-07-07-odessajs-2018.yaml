@@ -1,8 +1,11 @@
 conference:
 
   name: OdessaJS 2018
-  url: http://odessajs.org/2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: http://odessajs.org/2018/
   date:
     from: 2018-07-07
     to: 2018-07-08

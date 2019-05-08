@@ -1,8 +1,11 @@
 conference:
 
   name: JavaScript Conference Armenia 2018
-  url: https://jsconf.am/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://jsconf.am/
   date:
     from: 2018-11-03
     to: 2018-11-03

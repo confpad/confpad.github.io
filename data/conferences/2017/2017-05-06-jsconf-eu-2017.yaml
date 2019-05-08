@@ -1,8 +1,11 @@
 conference:
 
   name: JSConf EU 2017
-  url: https://2017.jsconf.eu/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2017.jsconf.eu/
   date:
     from: 2017-05-06
     to: 2017-05-07

@@ -1,8 +1,11 @@
 conference:
 
   name: ffConf 2018
-  url: https://2018.ffconf.org/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.ffconf.org/
   date:
     from: 2018-11-08
     to: 2018-11-09

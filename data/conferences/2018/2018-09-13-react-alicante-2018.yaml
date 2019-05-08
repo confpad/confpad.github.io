@@ -1,8 +1,11 @@
 conference:
 
   name: React Alicante 2018
-  url: http://reactalicante.es/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: http://reactalicante.es/
   date:
     from: 2018-09-13
     to: 2018-09-15

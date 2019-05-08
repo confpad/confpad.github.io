@@ -1,8 +1,11 @@
 conference:
 
   name: React Loop
-  url: https://reactloop.com/
   status: incomplete
+  link:
+    twitter:
+    youtube:
+    website: https://reactloop.com/
   date:
     from: 2019-06-21
     to: 2019-06-21

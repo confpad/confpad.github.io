@@ -1,8 +1,11 @@
 conference:
 
   name: dotSwift 2018
-  url: https://2018.dotswift.io/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.dotswift.io/
   date:
     from: 2018-01-29
     to: 2018-01-29

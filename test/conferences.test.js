@@ -4,15 +4,16 @@ const glob = require('glob');
 
 const LANGS = require('./iso-639-1');
 const COUNTRIES = require('./countries');
-const { getJSON, REGEX_URL_YOUTUBE, REGEX_URL_VIMEO } = require('../js/utils/utils-node');
+const { getJSON, REGEX_URL_YOUTUBE, REGEX_URL_YOUTUBE_CHANNEL, REGEX_URL_VIMEO } = require('../js/utils/utils-node');
 
 // Common
 const REGEX_FILENAME = /^[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+\.yaml$/;
 const REGEX_URL = /^http[s]?:\/\/[a-z0-9-\.]+\.[a-z]{2,}/;
 
 // Conference info
-const INFO_ROOT_KEYS = ['name', 'url', 'status', 'date', 'location', 'description'];
+const INFO_ROOT_KEYS = ['name', 'status', 'link', 'date', 'location', 'description'];
 const INFO_STATUS_VALUES = ['complete', 'incomplete'];
+const INFO_LINK_KEYS = ['twitter', 'youtube', 'website'];
 const INFO_DATE_KEYS = ['from', 'to'];
 const INFO_LOCATION_KEYS = ['country', 'city'];
 
@@ -55,27 +56,34 @@ glob.sync(testGlob).forEach(file => {
       expect(Object.keys(conference)).toEqual(INFO_ROOT_KEYS);
     });
 
+    // Status
     it('contains valid status', () => {
       expect(INFO_STATUS_VALUES).toContain(conference.status);
     });
 
+    // Link
+    it('contains link entry with all fields in correct order', () => {
+      expect(Object.keys(conference.link)).toEqual(INFO_LINK_KEYS);
+    });
+
+    it('contains valid Twitter account ID', () => {
+      conference.link.twitter && expect(conference.link.twitter.match(REGEX_URL)).not.toBeNull();
+      conference.link.twitter && expect(conference.link.twitter.includes('@')).toEqual(false);
+      conference.link.twitter && expect(conference.link.twitter.includes('http')).toEqual(false);
+    });
+
+    it('contains valid YouTube channel URL', () => {
+      conference.link.youtube && expect(conference.link.youtube.match(REGEX_URL_YOUTUBE_CHANNEL)).not.toBeNull();
+    });
+
+    it('contains valid website URL', () => {
+      conference.link.website && expect(conference.link.website.match(REGEX_URL)).not.toBeNull();
+    });
+
+    // Date
     it('contains date entry with all fields in correct order', () => {
       expect(Object.keys(conference.date)).toEqual(INFO_DATE_KEYS);
       conference.location && expect(Object.keys(conference.location)).toEqual(INFO_LOCATION_KEYS);
-    });
-
-    it('contains description on one line only if any', () => {
-      expect(conference.description.includes('\n')).toEqual(false);
-    });
-
-    it('contains valid country and city', () => {
-      conference.location && expect(COUNTRIES).toContain(conference.location.country);
-      conference.location && expect(typeof conference.location.country).toBe('string');
-      conference.location && expect(typeof conference.location.city).toBe('string');
-    });
-
-    it('contains URL starting with http(s) if any', () => {
-      conference.url && expect(conference.url.match(REGEX_URL)).not.toBeNull();
     });
 
     it('contains valid date from/to', () => {
@@ -83,6 +91,18 @@ glob.sync(testGlob).forEach(file => {
         expect(date).toBeInstanceOf(Date);
         expect(typeof date.getFullYear()).toBe('number');
       });
+    });
+
+    // Location
+    it('contains valid country and city', () => {
+      conference.location && expect(COUNTRIES).toContain(conference.location.country);
+      conference.location && expect(typeof conference.location.country).toBe('string');
+      conference.location && expect(typeof conference.location.city).toBe('string');
+    });
+
+    // Description
+    it('contains description on one line only if any', () => {
+      expect(conference.description.includes('\n')).toEqual(false);
     });
 
   });

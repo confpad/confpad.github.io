@@ -1,8 +1,11 @@
 conference:
 
   name: ReactFoo Pune 2018
-  url: https://reactfoo.in/2018-pune/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://reactfoo.in/2018-pune/
   date:
     from: 2018-01-19
     to: 2018-01-20

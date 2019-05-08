@@ -1,8 +1,11 @@
 conference:
 
   name: International Javascript Conference 2018 London
-  url: https://javascript-conference.com/archiv/ijs-2018-london/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://javascript-conference.com/archiv/ijs-2018-london/
   date:
     from: 2018-04-11
     to: 2018-04-13

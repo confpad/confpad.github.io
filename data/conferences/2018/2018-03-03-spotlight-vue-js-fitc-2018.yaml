@@ -1,8 +1,11 @@
 conference:
 
   name: Spotlight Vue.js FITC 2018
-  url: https://fitc.ca/event/vue/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://fitc.ca/event/vue/
   date:
     from: 2018-03-03
     to: 2018-03-03

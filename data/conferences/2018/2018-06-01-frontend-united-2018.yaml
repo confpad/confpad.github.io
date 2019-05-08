@@ -1,8 +1,11 @@
 conference:
 
   name: Frontend United 2018
-  url: https://2018.frontendunited.org/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.frontendunited.org/
   date:
     from: 2018-06-01
     to: 2018-06-02

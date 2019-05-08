@@ -1,8 +1,11 @@
 conference:
 
   name: Beyond Tellerrand Munich 2018
-  url: https://beyondtellerrand.com/events/munich-2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://beyondtellerrand.com/events/munich-2018/
   date:
     from: 2018-01-15
     to: 2018-01-17

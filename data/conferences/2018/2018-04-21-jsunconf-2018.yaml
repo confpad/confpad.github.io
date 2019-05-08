@@ -1,8 +1,11 @@
 conference:
 
   name: JSUnconf 2018
-  url: https://2018.jsunconf.eu/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.jsunconf.eu/
   date:
     from: 2018-04-21
     to: 2018-04-22

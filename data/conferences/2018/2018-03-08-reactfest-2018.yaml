@@ -1,8 +1,11 @@
 conference:
 
   name: ReactFest 2018
-  url: https://reactfest.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://reactfest.com/
   date:
     from: 2018-03-08
     to: 2018-03-09

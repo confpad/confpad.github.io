@@ -1,8 +1,11 @@
 conference:
 
   name: RuhrJS 2018
-  url: https://2018.ruhrjs.de/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.ruhrjs.de/
   date:
     from: 2018-10-13
     to: 2018-10-14

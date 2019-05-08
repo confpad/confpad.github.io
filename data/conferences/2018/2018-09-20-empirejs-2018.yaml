@@ -1,8 +1,11 @@
 conference:
 
   name: EmpireJS 2018
-  url: https://2018.empirejs.org/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.empirejs.org/
   date:
     from: 2018-09-20
     to: 2018-09-21

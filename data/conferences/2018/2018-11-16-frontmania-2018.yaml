@@ -1,8 +1,11 @@
 conference:
 
   name: FrontMania 2018
-  url: https://www.frontmania.com/conference
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://www.frontmania.com/conference
   date:
     from: 2018-11-16
     to: 2018-11-16

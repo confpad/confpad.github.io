@@ -1,8 +1,11 @@
 conference:
 
   name: VueConf TO 2018
-  url: https://vuetoronto.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://vuetoronto.com/
   date:
     from: 2018-11-14
     to: 2018-11-16

@@ -1,8 +1,11 @@
 conference:
 
   name: EmberConf 2015
-  url: https://2015.emberconf.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2015.emberconf.com/
   date:
     from: 2015-03-03
     to: 2015-03-04

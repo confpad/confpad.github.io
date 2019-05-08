@@ -1,8 +1,11 @@
 conference:
 
   name: React Conf 2018
-  url: https://conf.reactjs.org/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://conf.reactjs.org/
   date:
     from: 2018-10-24
     to: 2018-10-26

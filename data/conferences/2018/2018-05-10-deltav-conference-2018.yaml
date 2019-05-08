@@ -1,8 +1,11 @@
 conference:
 
   name: DeltaV Conference 2018
-  url: https://2018.deltavconf.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.deltavconf.com/
   date:
     from: 2018-05-10
     to: 2018-05-11

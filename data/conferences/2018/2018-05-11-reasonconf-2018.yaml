@@ -1,8 +1,11 @@
 conference:
 
   name: ReasonConf 2018
-  url: https://2018.reason-conf.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.reason-conf.com/
   date:
     from: 2018-05-11
     to: 2018-05-13

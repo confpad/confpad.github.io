@@ -1,8 +1,11 @@
 conference:
 
   name: Smashing Conference San Francisco 2018
-  url: https://archive.smashingconf.com/sf-2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://archive.smashingconf.com/sf-2018/
   date:
     from: 2018-04-17
     to: 2018-04-18

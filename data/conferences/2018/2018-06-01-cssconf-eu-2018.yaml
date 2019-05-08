@@ -1,8 +1,11 @@
 conference:
 
   name: CSSconf EU 2018
-  url: https://2018.cssconf.eu/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.cssconf.eu/
   date:
     from: 2018-06-01
     to: 2018-06-01

@@ -1,8 +1,11 @@
 conference:
 
   name: JS Fest 2018
-  url: http://jsfest.com.ua/jsfest2018/indexe.html
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: http://jsfest.com.ua/jsfest2018/indexe.html
   date:
     from: 2018-03-30
     to: 2018-03-31

@@ -1,8 +1,11 @@
 conference:
 
   name: ng-europe 2018
-  url: https://ngeurope.org/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://ngeurope.org/
   date:
     from: 2018-02-01
     to: 2018-02-02

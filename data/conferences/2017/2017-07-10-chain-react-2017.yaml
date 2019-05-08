@@ -1,8 +1,11 @@
 conference:
 
   name: Chain React 2017
-  url: https://infinite.red/ChainReactConf/2017
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://infinite.red/ChainReactConf/2017
   date:
     from: 2017-07-10
     to: 2017-07-11

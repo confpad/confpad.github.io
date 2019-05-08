@@ -1,8 +1,11 @@
 conference:
 
   name: You Gotta Love Frontend Conference 2018
-  url: http://yglf.com.ua/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: http://yglf.com.ua/
   date:
     from: 2018-05-24
     to: 2018-05-25

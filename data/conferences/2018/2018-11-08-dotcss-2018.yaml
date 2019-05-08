@@ -1,8 +1,11 @@
 conference:
 
   name: dotCSS 2018
-  url: https://www.dotcss.io/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://www.dotcss.io/
   date:
     from: 2018-11-08
     to: 2018-11-08

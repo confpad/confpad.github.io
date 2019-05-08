@@ -1,8 +1,11 @@
 conference:
 
   name: JSConf.Asia 2018
-  url: https://2018.jsconf.asia/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.jsconf.asia/
   date:
     from: 2018-01-25
     to: 2018-01-27

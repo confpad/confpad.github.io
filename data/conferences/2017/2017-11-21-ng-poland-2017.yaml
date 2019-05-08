@@ -1,8 +1,11 @@
 conference:
 
   name: Ng-Poland 2017
-  url: https://ng-poland.pl/index2017.html
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://ng-poland.pl/index2017.html
   date:
     from: 2017-11-21
     to: 2017-11-21

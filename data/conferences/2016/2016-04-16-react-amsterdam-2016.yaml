@@ -1,8 +1,11 @@
 conference:
 
   name: React Amsterdam 2016
-  url: https://react.amsterdam/2016/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://react.amsterdam/2016/
   date:
     from: 2016-04-16
     to: 2016-04-16

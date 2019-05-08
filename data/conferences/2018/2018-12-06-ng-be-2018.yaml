@@ -1,8 +1,11 @@
 conference:
 
   name: NG-BE 2018
-  url: https://ng-be.org/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://ng-be.org/
   date:
     from: 2018-12-06
     to: 2018-12-07

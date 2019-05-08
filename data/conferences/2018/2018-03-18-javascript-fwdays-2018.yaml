@@ -1,8 +1,11 @@
 conference:
 
   name: JavaScript fwdays'18
-  url: https://fwdays.com/en/event/js-fwdays-2018
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://fwdays.com/en/event/js-fwdays-2018
   date:
     from: 2018-03-18
     to: 2018-03-18

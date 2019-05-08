@@ -1,8 +1,11 @@
 conference:
 
   name: Frontend Conference Zurich 2018
-  url: https://frontendconf.ch/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://frontendconf.ch/
   date:
     from: 2018-08-30
     to: 2018-08-31

@@ -1,8 +1,11 @@
 conference:
 
   name: Smashing Conference Freiburg 2018
-  url: https://smashingconf.com/freiburg-2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://smashingconf.com/freiburg-2018/
   date:
     from: 2018-09-10
     to: 2018-09-11

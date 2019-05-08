@@ -1,8 +1,11 @@
 conference:
 
   name: React Rally 2018
-  url: http://www.reactrally.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: http://www.reactrally.com/
   date:
     from: 2018-08-16
     to: 2018-08-17

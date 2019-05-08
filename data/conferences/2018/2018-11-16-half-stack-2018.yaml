@@ -1,8 +1,11 @@
 conference:
 
   name: Half Stack 2018
-  url: https://halfstackconf.com/halfstackconf2018.html
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://halfstackconf.com/halfstackconf2018.html
   date:
     from: 2018-11-16
     to: 2018-11-16

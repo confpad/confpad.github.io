@@ -1,8 +1,11 @@
 conference:
 
   name: React.js Conf 2016
-  url: https://conf2016.reactjs.org/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://conf2016.reactjs.org/
   date:
     from: 2016-02-22
     to: 2015-02-23

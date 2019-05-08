@@ -1,8 +1,11 @@
 conference:
 
   name: EmberConf 2017
-  url: https://2017.emberconf.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2017.emberconf.com/
   date:
     from: 2017-03-28
     to: 2017-03-29

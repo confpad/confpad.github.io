@@ -1,8 +1,11 @@
 conference:
 
   name: ConfrontJS 2018
-  url: https://confrontjs.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://confrontjs.com/
   date:
     from: 2018-10-29
     to: 2018-10-29

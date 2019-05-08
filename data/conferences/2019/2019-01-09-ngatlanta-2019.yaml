@@ -1,8 +1,11 @@
 conference:
 
   name: ngAtlanta 2019
-  url: http://ng-atl.org/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: http://ng-atl.org/
   date:
     from: 2019-01-09
     to: 2019-01-12

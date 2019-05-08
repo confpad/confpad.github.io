@@ -77,7 +77,7 @@ const ConferenceInfo = props => {
       <div class="truncate">
         ${props.date && getDate(props.date.from, props.date.to)}
         ${props.location && getLocation(props.location)}
-        ${props.url && getLink(props.url)}
+        ${props.link.website && getLink(props.link.website)}
       </div>
       ${getDescription(props.description, props.isDetail)}
     </div>`

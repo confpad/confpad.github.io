@@ -1,8 +1,11 @@
 conference:
 
   name: ReactiveConf 2016
-  url: https://reactiveconf.com/2016
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://reactiveconf.com/2016
   date:
     from: 2016-10-27
     to: 2016-10-28

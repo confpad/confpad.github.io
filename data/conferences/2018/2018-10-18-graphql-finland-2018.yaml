@@ -1,8 +1,11 @@
 conference:
 
   name: GraphQL Finland 2018
-  url: https://graphql-finland.fi/2018/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://graphql-finland.fi/2018/
   date:
     from: 2018-10-18
     to: 2018-10-19

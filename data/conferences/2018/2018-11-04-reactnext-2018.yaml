@@ -1,8 +1,11 @@
 conference:
 
   name: ReactNext 2018
-  url: https://2018.react-next.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.react-next.com/
   date:
     from: 2018-11-04
     to: 2018-11-04

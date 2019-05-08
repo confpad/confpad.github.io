@@ -1,8 +1,11 @@
 conference:
 
   name: ReactEurope 2018
-  url: https://2018.react-europe.org/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.react-europe.org/
   date:
     from: 2018-05-17
     to: 2018-05-18

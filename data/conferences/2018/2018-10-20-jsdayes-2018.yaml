@@ -1,8 +1,11 @@
 conference:
 
   name: JSDayES 2018
-  url: https://2018.jsday.es/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://2018.jsday.es/
   date:
     from: 2018-10-20
     to: 2018-10-20

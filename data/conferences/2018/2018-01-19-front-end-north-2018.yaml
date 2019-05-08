@@ -1,8 +1,11 @@
 conference:
 
   name: Front End North 2018
-  url: https://frontendnorth.com/
   status: complete
+  link:
+    twitter:
+    youtube:
+    website: https://frontendnorth.com/
   date:
     from: 2018-01-19
     to: 2018-01-19
