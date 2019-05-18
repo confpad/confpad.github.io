@@ -30,38 +30,39 @@ class ConferenceDetailView extends Component {
       updateMetaUrls(`https://confpad.io/${conference.id}`);
       updateMetaTitles(`${conference.name} | ConfPad`);
       updateMetaDescriptions(conference.description);
-      return html`
-      <main class="mt4">
-        ${conference && html`
-            <div>
-              <${Navigation} conference=${conference} />
-              <${ConferenceInfo} conference=${conference} showTitle=${false} />
-              <${GitHubLink} conferenceId=${conference.id} />
-            </div>
-         `}
-        
-        ${conferenceDetail.isFetching && html`
-          <${LoadingSpinner} />
-        `}
-        
-        ${conferenceDetail.talks && html`
-          <ul class="list ma0 pa0">
-            ${conferenceDetail.talks.map(talk => html`
-              <li class="mv4">
-                <${ConferenceTalk} conference=${conference} talk=${talk} showFullDescription=${false} />
-              </li>
-            `)}
-          </ul>
-        `}
-        
-        ${conferenceDetail.error && html`
-          <${ErrorMessage} message="${conferenceDetail.error}" />
-        `}
-      </main>
-    `;
       updateMetaImages('https://confpad.io/img/logo.png');
-
     }
+
+    return html`
+    <main class="mt4">
+      ${conferenceDetail.isFetching && html`
+        <${LoadingSpinner} />
+      `}
+      
+      ${conference && html`
+          <div>
+            <${Navigation} conference=${conference} />
+            <${ConferenceInfo} conference=${conference} showTitle=${false} />
+            <${GitHubLink} conferenceId=${conference.id} />
+          </div>
+       `}
+      
+      ${conferenceDetail.talks && html`
+        <ul class="list ma0 pa0">
+          ${conferenceDetail.talks.map(talk => html`
+            <li class="mv4">
+              <${ConferenceTalk} conference=${conference} talk=${talk} showFullDescription=${false} />
+            </li>
+          `)}
+        </ul>
+      `}
+      
+      ${conferenceDetail.error && html`
+        <${ErrorMessage} message="${conferenceDetail.error}" />
+      `}
+    </main>
+  `;
+
   }
 
 }
