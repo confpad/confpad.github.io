@@ -1,79 +1,56 @@
-.PHONY: build-netlify
-build-netlify: prepare-netlify test-netlify tools-generate-conferences-json-netlify tools-generate-sitemap-netlify
+TARGET_DIR := /app/src
+IMAGE_NAME := confpad
 
+# Main development target
+.PHONY: develop
+develop: generate-conferences-json
+	docker run -ti --rm \
+	  --workdir $(TARGET_DIR) \
+	  --mount type=bind,source=$(CURDIR),target=$(TARGET_DIR) \
+	  --publish 127.0.0.1:8080:80 \
+	  php:7.3-cli-alpine \
+	  php -S 0.0.0.0:80
+
+# Run tests
 .PHONY: test
-test: build-test-image
+test: build-image
 	docker run -t --rm \
-	  -v `pwd`/jest.config.js:/app/jest.config.js \
-	  -v `pwd`/test:/app/test \
-	  -v `pwd`/data:/app/data \
-	  -v `pwd`/examples:/app/examples \
-	  -v `pwd`/js/utils:/app/js/utils\
-	  confpad-test jest --silent --bail --expand /app/test
+	  --workdir $(TARGET_DIR) \
+	  --mount type=bind,source=$(CURDIR),target=$(TARGET_DIR) \
+	  $(IMAGE_NAME) \
+	  jest --silent --bail --expand ./test
 
+# Run tests for single conference
+# Example: `make test-single TESTFILE=2018-06-02-jsconf-eu-2018.yaml`
 .PHONY: test-single
-test-single: build-test-image
+test-single: build-image
 	docker run -t --rm \
-	  -v `pwd`/jest.config.js:/app/jest.config.js \
-	  -v `pwd`/test:/app/test \
-	  -v `pwd`/data:/app/data \
-	  -v `pwd`/examples:/app/examples \
-	  -v `pwd`/js/utils:/app/js/utils\
-	  confpad-test jest --expand /app/test ${TESTFILE}
+	  --workdir $(TARGET_DIR) \
+	  --mount type=bind,source=$(CURDIR),target=$(TARGET_DIR) \
+	  $(IMAGE_NAME) \
+	  jest --expand ./test ${TESTFILE}
 
-.PHONY: prepare-netlify
-prepare-netlify:
-	npm install -g jest
-	npm install glob
-	npm install js-yaml
-	npm install slugify
-
-.PHONY: test-netlify
-test-netlify:
-	jest --silent --bail --expand test
-
-.PHONY: tools-simple-list
-tools-simple-list: build-tools-image
-	docker run -t --rm \
-	  -v `pwd`/tools:/app/tools \
-	  -v `pwd`/data:/app/data \
-	  confpad-tools \
-	  node ./tools/simple-list.js $$FILE
-
-.PHONY: tools-generate-sitemap
-tools-generate-sitemap: build-tools-image
+# Genereate /sitemap.txt
+.PHONY: generate-sitemap
+generate-sitemap: build-image
 	> sitemap.txt
 	docker run -t --rm \
-	  -v `pwd`/tools:/app/tools \
-	  -v `pwd`/data:/app/data \
-	  -v `pwd`/js/utils:/app/js/utils\
-	  -v `pwd`/sitemap.txt:/app/sitemap.txt \
-	  confpad-tools \
+	  --workdir $(TARGET_DIR) \
+	  --mount type=bind,source=$(CURDIR),target=$(TARGET_DIR) \
+	  $(IMAGE_NAME) \
 	  node ./tools/generate-sitemap.js
 
-.PHONY: tools-generate-sitemap-netlify
-tools-generate-sitemap-netlify:
-	node ./tools/generate-sitemap.js
-
-.PHONY: tools-generate-conferences-json
-tools-generate-conferences-json: build-tools-image
+# Generate /data/conferences.json
+.PHONY: generate-conferences-json
+generate-conferences-json: build-image
 	> data/conferences.json
 	docker run -t --rm \
-	  -v `pwd`/tools:/app/tools \
-	  -v `pwd`/data:/app/data \
-	  -v `pwd`/js/utils:/app/js/utils\
-	  -v `pwd`/data/conferences.json:/app/data/conferences.json \
-	  confpad-tools \
+	  --workdir $(TARGET_DIR) \
+	  --mount type=bind,source=$(CURDIR),target=$(TARGET_DIR) \
+	  $(IMAGE_NAME) \
 	  node ./tools/generate-conferences-json.js
 
-.PHONY: tools-generate-conferences-json-netlify
-tools-generate-conferences-json-netlify:
-	node ./tools/generate-conferences-json.js
-
-.PHONY: build-test-image
-build-test-image:
-	docker build -f Dockerfile.test -t confpad-test .
-
-.PHONY: build-tools-image
-build-tools-image:
-	docker build -f Dockerfile.tools -t confpad-tools .
+# Build Docker image for tests and tooling
+.PHONY: build-image
+build-image:
+	docker build -f Dockerfile -t $(IMAGE_NAME) .

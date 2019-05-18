@@ -1,0 +1,26 @@
+# Main build target
+.PHONY: build
+build: pre-build test generate-conferences-json generate-sitemap
+
+# Instal node packages
+.PHONY: pre-build
+pre-build:
+	npm install -g jest
+	npm install glob
+	npm install js-yaml
+	npm install slugify
+
+# Run tests
+.PHONY: test
+test:
+	jest --silent --bail --expand test
+
+# Genereate /sitemap.txt
+.PHONY: generate-sitemap
+generate-sitemap:
+	node ./tools/generate-sitemap.js
+
+# Generate /data/conferences.json
+.PHONY: generate-conferences-json
+generate-conferences-json:
+	node ./tools/generate-conferences-json.js
