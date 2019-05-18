@@ -21,7 +21,6 @@ talks:
   - title: Keynote Simply React
     lang: en
     type: regular
-    level:
     time: 2018-07-12
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: All Together Now
     lang: en
     type: regular
-    level:
     time: 2018-07-12
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Debugging and Beyond with Reactotron
     lang: en
     type: regular
-    level:
     time: 2018-07-12
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: From Sketch to Code Designing a Component Kit
     lang: en
     type: regular
-    level:
     time: 2018-07-12
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Detox A year in. Building it, Testing with it
     lang: en
     type: regular
-    level:
     time: 2018-07-12
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Learning React Native as a Junior Engineer
     lang: en
     type: regular
-    level:
     time: 2018-07-12
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Machine Learning And React Native
     lang: en
     type: regular
-    level:
     time: 2018-07-12
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Customize Your Boilerplate to Speed Up Development with Ignite
     lang: en
     type: regular
-    level:
     time: 2018-07-12
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: React Native at Eaze Marijuana Delivered
     lang: en
     type: regular
-    level:
     time: 2018-07-12
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: How TypeScript Ruined My Life (In a Good Way)
     lang: en
     type: regular
-    level:
     time: 2018-07-12
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: ReasonML and You - A Fireside Chat with Mike
     lang: en
     type: regular
-    level:
     time: 2018-07-12
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: Be a React Native A11
     lang: en
     type: regular
-    level:
     time: 2018-07-12
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: Organizing Code for Cross-Platform Web and Mobile Development
     lang: en
     type: regular
-    level:
     time: 2018-07-12
     room:
     authors:
@@ -242,7 +229,6 @@ talks:
   - title: Reactive Programming Demystified Drink the Kool-Aid
     lang: en
     type: regular
-    level:
     time: 2018-07-13
     room:
     authors:
@@ -259,7 +245,6 @@ talks:
   - title: The State of React Native
     lang: en
     type: regular
-    level:
     time: 2018-07-13
     room:
     authors:
@@ -276,7 +261,6 @@ talks:
   - title: GraphQL State Management for React Native
     lang: en
     type: regular
-    level:
     time: 2018-07-13
     room:
     authors:
@@ -292,7 +276,6 @@ talks:
   - title: Strategies For Using React Native In A Brownfield App
     lang: en
     type: regular
-    level:
     time: 2018-07-13
     room:
     authors:
@@ -309,7 +292,6 @@ talks:
   - title: WebXR A New Dimension For The Web
     lang: en
     type: regular
-    level:
     time: 2018-07-13
     room:
     authors:
@@ -326,7 +308,6 @@ talks:
   - title: Panel
     lang: en
     type: regular
-    level:
     time: 2018-07-13
     room:
     authors:
@@ -342,7 +323,6 @@ talks:
   - title: Building AR Apps with React Native
     lang: en
     type: regular
-    level:
     time: 2018-07-13
     room:
     authors:
@@ -359,7 +339,6 @@ talks:
   - title: Using SVG in React Native
     lang: en
     type: regular
-    level:
     time: 2018-07-13
     room:
     authors:
@@ -376,7 +355,6 @@ talks:
   - title: Good Enough Still Isn't Good Enough
     lang: en
     type: regular
-    level:
     time: 2018-07-13
     room:
     authors:

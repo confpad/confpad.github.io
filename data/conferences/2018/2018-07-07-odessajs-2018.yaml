@@ -21,7 +21,6 @@ talks:
   - title: Advanced State Management using ngrx v5
     lang: en
     type: regular
-    level:
     time: 2018-07-07 09:30:00
     room: Hall A
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: What I have to do at OdessaJS Conference
     lang: en
     type: regular
-    level:
     time: 2018-07-07 09:30:00
     room: Hall B
     authors:
@@ -54,7 +52,6 @@ talks:
   - title: The New Media and What It Takes to Create a News Website in 2018
     lang: uk
     type: regular
-    level:
     time: 2018-07-07 10:10:00
     room: Hall A
     authors:
@@ -75,7 +72,6 @@ talks:
   - title: Copy paste detector for 150+ languages on JavaScript
     lang: ru
     type: regular
-    level:
     time: 2018-07-07 10:10:00
     room: Hall B
     authors:
@@ -92,7 +88,6 @@ talks:
   - title: Serverless - the way microservices should be
     lang: en
     type: regular
-    level:
     time: 2018-07-07 10:50:00
     room: Hall A
     authors:
@@ -109,7 +104,6 @@ talks:
   - title: 'Mutilation and suffering: How I decided to create a project using only Web Components without any framework'
     lang: uk
     type: regular
-    level:
     time: 2018-07-07 10:50:00
     room: Hall B
     authors:
@@ -126,7 +120,6 @@ talks:
   - title: 'Algorithms in Front End: from V8 to VDOM'
     lang: ru
     type: regular
-    level:
     time: 2018-07-07 11:35:00
     room: Hall A
     authors:
@@ -143,7 +136,6 @@ talks:
   - title: 'Estimates: is there a silver bullet?'
     lang: ru
     type: regular
-    level:
     time: 2018-07-07 11:35:00
     room: Hall B
     authors:
@@ -160,7 +152,6 @@ talks:
   - title: Get started with Reason and ReasonReact
     lang: en
     type: regular
-    level:
     time: 2018-07-07 12:25:00
     room: Hall A
     authors:
@@ -176,7 +167,6 @@ talks:
   - title: Architecture evolution of Microsoft To-Do web app
     lang: ru
     type: regular
-    level:
     time: 2018-07-07 12:25:00
     room: Hall B
     authors:
@@ -193,7 +183,6 @@ talks:
   - title: Unleash your web skills on native
     lang: en
     type: regular
-    level:
     time: 2018-07-07 13:05:00
     room: Hall A
     authors:
@@ -210,7 +199,6 @@ talks:
   - title: 'Bot Building: channels, platforms, NLU'
     lang: ru
     type: regular
-    level:
     time: 2018-07-07 13:05:00
     room: Hall B
     authors:
@@ -235,7 +223,6 @@ talks:
   - title: Redux-cornell
     lang: en
     type: regular
-    level:
     time: 2018-07-07 14:45:00
     room: Hall A
     authors:
@@ -251,7 +238,6 @@ talks:
   - title: Excuse me, I have to assemble Frontend
     lang: ru
     type: regular
-    level:
     time: 2018-07-07 14:45:00
     room: Hall B
     authors:
@@ -268,7 +254,6 @@ talks:
   - title: Houdini - css which is JavaScript
     lang: ru
     type: regular
-    level:
     time: 2018-07-07 15:25:00
     room: Hall A
     authors:
@@ -286,7 +271,6 @@ talks:
   - title: OK Google. What's next?
     lang: ru
     type: regular
-    level:
     time: 2018-07-07 15:25:00
     room: Hall B
     authors:
@@ -303,7 +287,6 @@ talks:
   - title: JavaScript without javascript
     lang: en
     type: regular
-    level:
     time: 2018-07-07 16:15:00
     room: Hall A
     authors:
@@ -319,7 +302,6 @@ talks:
   - title: Unleash the power of the higher-order components
     lang: en
     type: regular
-    level:
     time: 2018-07-07 16:55:00
     room: Hall A
     authors:
@@ -336,7 +318,6 @@ talks:
   - title: Real-world application of computer vision and machine
     lang: ru
     type: regular
-    level:
     time: 2018-07-07 16:55:00
     room: Hall B
     authors:
@@ -353,7 +334,6 @@ talks:
   - title: Advanced React-Native
     lang: ru
     type: regular
-    level:
     time: 2018-07-07 17:45:00
     room: Hall A
     authors:
@@ -370,7 +350,6 @@ talks:
   - title: Cloud Native Observability
     lang: ru
     type: regular
-    level:
     time: 2018-07-07 17:45:00
     room: Hall B
     authors:
@@ -387,7 +366,6 @@ talks:
   - title: The ABC of Coded Style Guides
     lang: en
     type: regular
-    level:
     time: 2018-07-07 18:25:00
     room: Hall A
     authors:
@@ -404,7 +382,6 @@ talks:
   - title: Automating GitHub workflow with probot
     lang: uk
     type: regular
-    level:
     time: 2018-07-07 18:25:00
     room: Hall B
     authors:
@@ -422,7 +399,6 @@ talks:
   - title: WebRTC talk for OdessaJS
     lang: en
     type: regular
-    level:
     time: 2018-07-08
     room: Hall A 09:30:00
     authors:
@@ -439,7 +415,6 @@ talks:
   - title: WebAssembly powered Machine Learning
     lang: ru
     type: regular
-    level:
     time: 2018-07-08
     room: Hall B 09:30:00
     authors:
@@ -456,7 +431,6 @@ talks:
   - title: How to create a VR application with React
     lang: en
     type: regular
-    level:
     time: 2018-07-08 10:20:00
     room: Hall A
     authors:
@@ -472,7 +446,6 @@ talks:
   - title: Evolution of Web Performance
     lang: ru
     type: regular
-    level:
     time: 2018-07-08
     room: Hall B
     authors:
@@ -489,7 +462,6 @@ talks:
   - title: Introduction to Micro Frontends
     lang: en
     type: regular
-    level:
     time: 2018-07-08 11:00:00
     room: Hall A
     authors:
@@ -506,7 +478,6 @@ talks:
   - title: W.T.F. is GraphQL
     lang: uk
     type: regular
-    level:
     time: 2018-07-08 11:00:00
     room: Hall B
     authors:
@@ -523,7 +494,6 @@ talks:
   - title: From monolith web app to micro-frontends – How we extended microservices architecture to frontend
     lang: en
     type: regular
-    level:
     time: 2018-07-08 11:55:00
     room: Hall A
     authors:
@@ -544,7 +514,6 @@ talks:
   - title: Chrome Dev Tools. New & Tips
     lang: ru
     type: regular
-    level:
     time: 2018-07-08 11:55:00
     room: Hall B
     authors:
@@ -561,7 +530,6 @@ talks:
   - title: Creating magic with houdini
     lang: en
     type: regular
-    level:
     time: 2018-07-08 12:35:00
     room: Hall A
     authors:
@@ -578,7 +546,6 @@ talks:
   - title: 'Flow typing: your path from experiments to final implementation in an enterprise project'
     lang: uk
     type: regular
-    level:
     time: 2018-07-08 12:35:00
     room: Hall B
     authors:
@@ -595,7 +562,6 @@ talks:
   - title: How to scale an SPA to 1M views for $1?
     lang: en
     type: regular
-    level:
     time: 2018-07-08 13:15:00
     room: Hall A
     authors:
@@ -612,7 +578,6 @@ talks:
   - title: 'Development standards: a step-by-step guide to implement it without pain'
     lang: ru
     type: regular
-    level:
     time: 2018-07-08 14:45:00
     room: Hall A
     authors:
@@ -630,7 +595,6 @@ talks:
   - title: The existential crisis in a blockchain era
     lang: ru
     type: regular
-    level:
     time: 2018-07-08 14:45:00
     room: Hall B
     authors:
@@ -647,7 +611,6 @@ talks:
   - title: Passing strings using (in)finite-state-machine and prepack
     lang: ru
     type: regular
-    level:
     time: 2018-07-08 15:25:00
     room: Hall A
     authors:
@@ -664,7 +627,6 @@ talks:
   - title: 'WebAssembly vs JavaScript: What is faster?'
     lang: ru
     type: regular
-    level:
     time: 2018-07-08 15:25:00
     room: Hall B
     authors:
@@ -681,7 +643,6 @@ talks:
   - title: React Refactoring Patterns
     lang: en
     type: regular
-    level:
     time: 2018-07-08 16:10:00
     room: Hall A
     authors:
@@ -698,7 +659,6 @@ talks:
   - title: RxJS in React, RxJS in Angular and why we all should be friends
     lang: ru
     type: regular
-    level:
     time: 2018-07-08 16:10:00
     room: Hall B
     authors:
@@ -716,7 +676,6 @@ talks:
   - title: You’re probably making an API client
     lang: en
     type: regular
-    level:
     time: 2018-07-08
     room: Hall A 16:50:00
     authors:
@@ -735,7 +694,6 @@ talks:
   - title: Mining crypto in browser_ GPU, WebAssembly and all the good things to try
     lang: ru
     type: regular
-    level:
     time: 2018-07-08 17:30:00
     room: Hall A
     authors:
@@ -751,7 +709,6 @@ talks:
   - title: What happens when you don't write the code. What advises would I like to take 10 years ago
     lang: en
     type: regular
-    level:
     time: 2018-07-08 18:10:00
     room: Hall A
     authors:

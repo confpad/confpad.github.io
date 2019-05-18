@@ -21,7 +21,6 @@ talks:
   - title: When Fast is Faster Than Fastest
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: Your Algorithm isn't neutral...
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -53,7 +51,6 @@ talks:
   - title: Server-Side Swift from Scratch
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -69,7 +66,6 @@ talks:
   - title: 'When Old meets New: Codebases'
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -85,7 +81,6 @@ talks:
   - title: 'Let''s save the internet: How to make browsers…'
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -101,7 +96,6 @@ talks:
   - title: 'Bringing GraphQL to the Enterprise: When IBM met Apollo'
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -117,7 +111,6 @@ talks:
   - title: Build bridges, not walls – Design for users across cultures
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -133,7 +126,6 @@ talks:
   - title: PHP in 2018
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -150,7 +142,6 @@ talks:
   - title: Designing Great Progressive Web Apps
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -166,7 +157,6 @@ talks:
   - title: Thinking PRPL
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -182,7 +172,6 @@ talks:
   - title: Fast. Simple. Accessible.
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -198,7 +187,6 @@ talks:
   - title: 'Live and let die: Untangling the web of objects'
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -214,7 +202,6 @@ talks:
   - title: The strategy guide to CSS Custom Properties
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -230,7 +217,6 @@ talks:
   - title: 'Psychological safety: How to become a team that learns'
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -246,7 +232,6 @@ talks:
   - title: Remote device sign-in – Authenticating without a keyboard
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -262,7 +247,6 @@ talks:
   - title: Mathematics of Animation
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -278,7 +262,6 @@ talks:
   - title: Styled Components
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -294,7 +277,6 @@ talks:
   - title: Lightning talks
     lang: en
     type: lightning
-    level:
     time: 2018-03-03
     room:
     authors:

@@ -21,7 +21,6 @@ talks:
   - title: 'Adapting from Spark to Dask: what to expect'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom A
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: 'All in the timing: How side channel attacks work'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom B
     authors:
@@ -59,7 +57,6 @@ talks:
   - title: 'Analyzing Data: What pandas and SQL Taught Me About Taking an Average'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Global Center Ballroom AB
     authors:
@@ -77,7 +74,6 @@ talks:
   - title: Augmenting Human Decision Making with Data Science
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom A
     authors:
@@ -94,7 +90,6 @@ talks:
   - title: Behavior-Driven Python
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom A
     authors:
@@ -112,7 +107,6 @@ talks:
   - title: 'Beyond scraping: how to use machine learning when you''re not sure where to start'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom B
     authors:
@@ -129,7 +123,6 @@ talks:
   - title: 'Beyond Unit Tests: Taking Your Testing to the Next Level'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Room 26A/B/C
     authors:
@@ -147,7 +140,6 @@ talks:
   - title: Birding with Python and Machine Learning
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom C
     authors:
@@ -164,7 +156,6 @@ talks:
   - title: 'Bowerbirds of Technology: Architecture and Teams at Less-than-Google Scale'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Global Center Ballroom AB
     authors:
@@ -182,7 +173,6 @@ talks:
   - title: Building a Data Pipeline with Testing in Mind
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Room 26A/B/C
     authors:
@@ -200,7 +190,6 @@ talks:
   - title: Build Teams as an Engineer
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom C
     authors:
@@ -218,7 +207,6 @@ talks:
   - title: 'Code like an accountant: Designing data systems for accuracy, resilience and auditability'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Global Center Ballroom AB
     authors:
@@ -235,7 +223,6 @@ talks:
   - title: Code Reviews Using Art Critique Principles
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom A
     authors:
@@ -253,7 +240,6 @@ talks:
   - title: Coding through Adversity
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom B
     authors:
@@ -270,7 +256,6 @@ talks:
   - title: 'CuPy: A NumPy-compatible Library for GPU'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Global Center Ballroom AB
     authors:
@@ -288,7 +273,6 @@ talks:
   - title: Debugging PySpark -- Or trying to make sense of a JVM stack trace when you were minding your own bus
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom A
     authors:
@@ -305,7 +289,6 @@ talks:
   - title: Deconstructing the US Patent Database
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom B
     authors:
@@ -322,7 +305,6 @@ talks:
   - title: Demystifying the Patch Function
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom B
     authors:
@@ -339,7 +321,6 @@ talks:
   - title: Elegant Solutions For Everyday Python Problems
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Room 26A/B/C
     authors:
@@ -356,7 +337,6 @@ talks:
   - title: Exploring Deep Learning Framework PyTorch
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom A
     authors:
@@ -373,7 +353,6 @@ talks:
   - title: 'Flourishing FLOSS: Making Your Project Successful'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom B
     authors:
@@ -391,7 +370,6 @@ talks:
   - title: How we designed an inclusivity-first conference on a shoestring budget and short timeline
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Room 26A/B/C
     authors:
@@ -416,7 +394,6 @@ talks:
   - title: 'import time_travel: A Primer on Timezones in Python'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom C
     authors:
@@ -434,7 +411,6 @@ talks:
   - title: 'Listen, Attend, and Walk : Interpreting natural language navigational instructions'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom B
     authors:
@@ -452,7 +428,6 @@ talks:
   - title: Love your bugs
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom C
     authors:
@@ -469,7 +444,6 @@ talks:
   - title: 'Performance Python: Seven Strategies for Optimizing Your Numerical Code'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom C
     authors:
@@ -487,7 +461,6 @@ talks:
   - title: Python for the quantum computing age
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Room 26A/B/C
     authors:
@@ -503,7 +476,6 @@ talks:
   - title: 'Randomness in Python: Controlled Chaos in an Ordered Machine'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Room 26A/B/C
     authors:
@@ -520,7 +492,6 @@ talks:
   - title: Reactive Programming with RxPy
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Global Center Ballroom AB
     authors:
@@ -538,7 +509,6 @@ talks:
   - title: 'Software Library APIs: Lessons Learned from scikit-learn'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom A
     authors:
@@ -556,7 +526,6 @@ talks:
   - title: Strategies to Edit Production Data
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Room 26A/B/C
     authors:
@@ -573,7 +542,6 @@ talks:
   - title: Taking Django Async
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom C
     authors:
@@ -590,7 +558,6 @@ talks:
   - title: The AST and Me
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom B
     authors:
@@ -607,7 +574,6 @@ talks:
   - title: Trust the data to speak for itself
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Room 26A/B/C
     authors:
@@ -623,7 +589,6 @@ talks:
   - title: Thinking Outside the GIL with AsyncIO and Multiprocessing
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Global Center Ballroom AB
     authors:
@@ -640,7 +605,6 @@ talks:
   - title: 'Trio: Async concurrency for mere mortals'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom C
     authors:
@@ -657,7 +621,6 @@ talks:
   - title: Using Python to build an AI to play and win SNES StreetFighter II
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom C
     authors:
@@ -678,7 +641,6 @@ talks:
   - title: Visual Testing with PyCharm and pytest
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Grand Ballroom A
     authors:
@@ -700,7 +662,6 @@ talks:
   - title: '"WHAT IS THIS MESS?" - Writing tests for pre-existing code bases'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Global Center Ballroom AB
     authors:
@@ -718,7 +679,6 @@ talks:
   - title: 'Win back lovely API: GraphQL in Python'
     lang: en
     type: regular
-    level:
     time: 2018-05-11
     room: Global Center Ballroom AB
     authors:
@@ -734,7 +694,6 @@ talks:
   - title: 'A Bit about Bytes: Understanding Python Bytecode'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom B
     authors:
@@ -751,7 +710,6 @@ talks:
   - title: Bayesian Non-parametric Models for Data Science using PyMC3
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Global Center Ballroom AB
     authors:
@@ -768,7 +726,6 @@ talks:
   - title: Building a cross-platform native app with BeeWare
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom C
     authors:
@@ -785,7 +742,6 @@ talks:
   - title: 'By the Numbers: Python Community Trends in 2017/2018'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Room 26A/B/C
     authors:
@@ -806,7 +762,6 @@ talks:
   - title: Colossal Cave Adventure in Python... in the browser!
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom B
     authors:
@@ -824,7 +779,6 @@ talks:
   - title: 'Controlling apples with snakes: Automating mobile apps with Appium'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom A
     authors:
@@ -842,7 +796,6 @@ talks:
   - title: 'Counter, Gauge, Upper 90 - Oh my!'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom B
     authors:
@@ -860,7 +813,6 @@ talks:
   - title: 'Dataclasses: The code generator to end all code generators'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom C
     authors:
@@ -877,7 +829,6 @@ talks:
   - title: Data Visualization in Mixed Reality with Python
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom B
     authors:
@@ -894,7 +845,6 @@ talks:
   - title: Democratizing Distributed Computing with Dask and JupyterHub
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Room 26A/B/C
     authors:
@@ -911,7 +861,6 @@ talks:
   - title: 'Don''t Look Back in Anger: Wildman Whitehouse and the Great Failure of 1858'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom C
     authors:
@@ -928,7 +877,6 @@ talks:
   - title: Easy 2D Game Creation With Arcade
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Room 26A/B/C
     authors:
@@ -946,7 +894,6 @@ talks:
   - title: Fighting Gerrymandering with PyMC3
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom B
     authors:
@@ -968,7 +915,6 @@ talks:
   - title: 'Fighting the Good Fight: Python 3 in your organization'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom B
     authors:
@@ -985,7 +931,6 @@ talks:
   - title: 'Get your resources faster, with importlib.resources'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom C
     authors:
@@ -1003,7 +948,6 @@ talks:
   - title: 'Graph Databases: Talking about your Data Relationships with Python'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom A
     authors:
@@ -1020,7 +964,6 @@ talks:
   - title: How Netflix does failovers in 7 minutes flat
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Global Center Ballroom AB
     authors:
@@ -1037,7 +980,6 @@ talks:
   - title: HOWTO Write a Function
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Room 26A/B/C
     authors:
@@ -1054,7 +996,6 @@ talks:
   - title: How to Write Deployment-friendly Applications
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom A
     authors:
@@ -1071,7 +1012,6 @@ talks:
   - title: 'Inside the Cheeseshop: How Python Packaging Works'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Room 26A/B/C
     authors:
@@ -1088,7 +1028,6 @@ talks:
   - title: One weird trick to becoming a better software developer
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Global Center Ballroom AB
     authors:
@@ -1105,7 +1044,6 @@ talks:
   - title: Oops! I Committed My Password To GitHub!
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom C
     authors:
@@ -1123,7 +1061,6 @@ talks:
   - title: 'Pipenv: The Future of Python Dependency Management'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Global Center Ballroom AB
     authors:
@@ -1141,7 +1078,6 @@ talks:
   - title: Practical Sphinx
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom A
     authors:
@@ -1158,7 +1094,6 @@ talks:
   - title: Programming microbes using Python
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom A
     authors:
@@ -1176,7 +1111,6 @@ talks:
   - title: 'Python 2 to 3: How to Upgrade and What Features to Start Using'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom C
     authors:
@@ -1193,7 +1127,6 @@ talks:
   - title: 'Python 3: ten years later'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom B
     authors:
@@ -1210,7 +1143,6 @@ talks:
   - title: 'Python across the USA: This is the Bus.'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom A
     authors:
@@ -1227,7 +1159,6 @@ talks:
   - title: Python Data Sonification for Science and Discovery
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Global Center Ballroom AB
     authors:
@@ -1244,7 +1175,6 @@ talks:
   - title: 'Python, Locales and Writing Systems'
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Global Center Ballroom AB
     authors:
@@ -1262,7 +1192,6 @@ talks:
   - title: Python Performance Investigation by Example
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Room 26A/B/C
     authors:
@@ -1279,7 +1208,6 @@ talks:
   - title: Reinventing the Parser Generator
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom C
     authors:
@@ -1296,7 +1224,6 @@ talks:
   - title: Secrets of a WSGI master.
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Room 26A/B/C
     authors:
@@ -1314,7 +1241,6 @@ talks:
   - title: Solve Your Problem With Sloppy Python
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom C
     authors:
@@ -1331,7 +1257,6 @@ talks:
   - title: Surviving (and thriving!) when you are overloaded
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Global Center Ballroom AB
     authors:
@@ -1349,7 +1274,6 @@ talks:
   - title: The human nature of failure & resiliency
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Room 26A/B/C
     authors:
@@ -1366,7 +1290,6 @@ talks:
   - title: The Journey Over the Intermediate Gap
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom A
     authors:
@@ -1384,7 +1307,6 @@ talks:
   - title: Visualizing Algorithms with Python and Programmable LEDs
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom A
     authors:
@@ -1401,7 +1323,6 @@ talks:
   - title: What is a Python Core Developer?
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Global Center Ballroom AB
     authors:
@@ -1419,7 +1340,6 @@ talks:
   - title: You're an expert. Here's how to teach like one.
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room: Grand Ballroom B
     authors:
@@ -1437,7 +1357,6 @@ talks:
   - title: A practical guide to Singular Value Decomposition in Python
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Room 26A/B/C
     authors:
@@ -1455,7 +1374,6 @@ talks:
   - title: Automating Code Quality
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Grand Ballroom A
     authors:
@@ -1473,7 +1391,6 @@ talks:
   - title: 'Big-O: How Code Slows as Data Grows'
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Grand Ballroom C
     authors:
@@ -1490,7 +1407,6 @@ talks:
   - title: 'Clearer Code at Scale: Static Types at Zulip and Dropbox'
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Grand Ballroom B
     authors:
@@ -1507,7 +1423,6 @@ talks:
   - title: Efficient shared memory data structures
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Grand Ballroom B
     authors:
@@ -1525,7 +1440,6 @@ talks:
   - title: 'Effortless Logging: A deep dive into the logging module'
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Room 26A/B/C
     authors:
@@ -1542,7 +1456,6 @@ talks:
   - title: How We Do Identity Wrong
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Global Center Ballroom AB
     authors:
@@ -1559,7 +1472,6 @@ talks:
   - title: 'Learning From Failure: Post Mortems'
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Grand Ballroom C
     authors:
@@ -1576,7 +1488,6 @@ talks:
   - title: Pumping up Python modules using Rust
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Global Center Ballroom AB
     authors:
@@ -1594,7 +1505,6 @@ talks:
   - title: 'Systemd: why you should care as a Python developer'
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Grand Ballroom C
     authors:
@@ -1611,7 +1521,6 @@ talks:
   - title: 'The Hare Wins the Race: Getting the most out of RabbitMQ in distributed applications'
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Grand Ballroom A
     authors:
@@ -1628,7 +1537,6 @@ talks:
   - title: 'There and Back Again: Disable and re-enable garbage collector at Instagram'
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Grand Ballroom A
     authors:
@@ -1646,7 +1554,6 @@ talks:
   - title: Type-checked Python in the real world
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Global Center Ballroom AB
     authors:
@@ -1664,7 +1571,6 @@ talks:
   - title: 'Types, Deeper Static Analysis, and you'
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Room 26A/B/C
     authors:
@@ -1681,7 +1587,6 @@ talks:
   - title: User focused API Design
     lang: en
     type: regular
-    level:
     time: 2018-05-13
     room: Grand Ballroom B
     authors:

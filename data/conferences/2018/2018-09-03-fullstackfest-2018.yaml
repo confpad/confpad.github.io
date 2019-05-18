@@ -21,7 +21,6 @@ talks:
   - title: Reinvent the social web
     lang: en
     type: regular
-    level:
     time: 2018-09-03
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: Open Gateway - Decentralized IoT
     lang: en
     type: regular
-    level:
     time: 2018-09-03
     room:
     authors:
@@ -53,7 +51,6 @@ talks:
   - title: Build and deploy a Blockchain web-app with Hyperledger Fabric and Hyperledger Composer
     lang: en
     type: regular
-    level:
     time: 2018-09-03
     room:
     authors:
@@ -70,7 +67,6 @@ talks:
   - title: 'A Game of Theories: Why languages do what they do '
     lang: en
     type: regular
-    level:
     time: 2018-09-03
     room:
     authors:
@@ -86,7 +82,6 @@ talks:
   - title: The Future of ChatBots in the Travel Industry
     lang: en
     type: regular
-    level:
     time: 2018-09-03
     room:
     authors:
@@ -102,7 +97,6 @@ talks:
   - title: Avoiding Digital Bias
     lang: en
     type: regular
-    level:
     time: 2018-09-03
     room:
     authors:
@@ -118,7 +112,6 @@ talks:
   - title: Everything I always wanted to know about crypto, but never thought I'd understand
     lang: en
     type: regular
-    level:
     time: 2018-09-03
     room:
     authors:
@@ -134,7 +127,6 @@ talks:
   - title: 'Onion adventures: how to use onion services and the Tor network in your web endeavors'
     lang: en
     type: regular
-    level:
     time: 2018-09-03
     room:
     authors:
@@ -150,7 +142,6 @@ talks:
   - title: 'Observability for Emerging Infra: What Got You Here Won''t Get You There'
     lang: en
     type: regular
-    level:
     time: 2018-09-04
     room:
     authors:
@@ -166,7 +157,6 @@ talks:
   - title: Do you need a Service Mesh?
     lang: en
     type: regular
-    level:
     time: 2018-09-04
     room:
     authors:
@@ -182,7 +172,6 @@ talks:
   - title: HTTP and JSON for your gRPC Services
     lang: en
     type: regular
-    level:
     time: 2018-09-04
     room:
     authors:
@@ -198,7 +187,6 @@ talks:
   - title: Software Engineering - A philosophical activity
     lang: en
     type: regular
-    level:
     time: 2018-09-04
     room:
     authors:
@@ -214,7 +202,6 @@ talks:
   - title: Take a (Client) Hint!
     lang: en
     type: regular
-    level:
     time: 2018-09-04
     room:
     authors:
@@ -230,7 +217,6 @@ talks:
   - title: Lost in transaction? Strategies to deal with (in-)consistency in distributed systems
     lang: en
     type: regular
-    level:
     time: 2018-09-04
     room:
     authors:
@@ -246,7 +232,6 @@ talks:
   - title: Lightning talks - backend
     lang: en
     type: lightning
-    level:
     time: 2018-09-04
     room:
     authors:
@@ -258,7 +243,6 @@ talks:
   - title: Cats, The Musical! Algorithmic Song Meow-ification
     lang: en
     type: regular
-    level:
     time: 2018-09-04
     room:
     authors:
@@ -274,7 +258,6 @@ talks:
   - title: Building peer-to-peer apps with the Beaker Browser
     lang: en
     type: regular
-    level:
     time: 2018-09-06
     room:
     authors:
@@ -290,7 +273,6 @@ talks:
   - title: To push, or not to push?! - The future of HTTP/2 server push
     lang: en
     type: regular
-    level:
     time: 2018-09-06
     room:
     authors:
@@ -306,7 +288,6 @@ talks:
   - title: The Future of Front-End Performance
     lang: en
     type: regular
-    level:
     time: 2018-09-06
     room:
     authors:
@@ -322,7 +303,6 @@ talks:
   - title: Native JavaScript modules- import {Browsers, NodeJs}; export {production};
     lang: en
     type: regular
-    level:
     time: 2018-09-06
     room:
     authors:
@@ -338,7 +318,6 @@ talks:
   - title: Unity + HTML5 = Isomorphic Game Engine?
     lang: en
     type: regular
-    level:
     time: 2018-09-06
     room:
     authors:
@@ -354,7 +333,6 @@ talks:
   - title: State of the Art Web User Interfaces with State Machines
     lang: en
     type: regular
-    level:
     time: 2018-09-06
     room:
     authors:
@@ -370,7 +348,6 @@ talks:
   - title: A Front-end dev's hobbyist approach into Machine Learning
     lang: en
     type: regular
-    level:
     time: 2018-09-06
     room:
     authors:
@@ -386,7 +363,6 @@ talks:
   - title: Building a Modern Memex
     lang: en
     type: regular
-    level:
     time: 2018-09-06
     room:
     authors:
@@ -402,7 +378,6 @@ talks:
   - title: Accessibility vs latest Web APIs. Can’t we just get along?
     lang: en
     type: regular
-    level:
     time: 2018-09-07
     room:
     authors:
@@ -418,7 +393,6 @@ talks:
   - title: The Web Authentication API - Imagine a World Without Passwords
     lang: en
     type: regular
-    level:
     time: 2018-09-07
     room:
     authors:
@@ -434,7 +408,6 @@ talks:
   - title: 'Killing the checkout or: How I learned to stop worrying and love Payment Request'
     lang: en
     type: regular
-    level:
     time: 2018-09-07
     room:
     authors:
@@ -450,7 +423,6 @@ talks:
   - title: A Real World PWA
     lang: en
     type: regular
-    level:
     time: 2018-09-07
     room:
     authors:
@@ -466,7 +438,6 @@ talks:
   - title: Purifying Typescript
     lang: en
     type: regular
-    level:
     time: 2018-09-07
     room:
     authors:
@@ -482,7 +453,6 @@ talks:
   - title: 'Dynamic CSS: Layouts & Beyond'
     lang: en
     type: regular
-    level:
     time: 2018-09-07
     room:
     authors:
@@ -498,7 +468,6 @@ talks:
   - title: WebXR, if X = how?
     lang: en
     type: regular
-    level:
     time: 2018-09-07
     room:
     authors:
@@ -518,7 +487,6 @@ talks:
   - title: Lightning talks - frontend
     lang: en
     type: lightning
-    level:
     time: 2018-09-07
     room:
     authors:

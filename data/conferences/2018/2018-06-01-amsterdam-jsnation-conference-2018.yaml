@@ -21,7 +21,6 @@ talks:
   - title: 'Keynote: The Power of the Paradigm'
     lang: en
     type: regular
-    level:
     time: 2018-06-01 09:30:00
     room: Priests Hall
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: Bringing Mobile Web back to Life
     lang: en
     type: regular
-    level:
     time: 2018-06-01 10:00:00
     room: Priests Hall
     authors:
@@ -54,7 +52,6 @@ talks:
   - title: Vue JS Best Practices
     lang: en
     type: regular
-    level:
     time: 2018-06-01 10:30:00
     room: Priests Hall
     authors:
@@ -71,7 +68,6 @@ talks:
   - title: console.log(brain)
     lang: en
     type: regular
-    level:
     time: 2018-06-01 11:30:00
     room: Priests Hall
     authors:
@@ -88,7 +84,6 @@ talks:
   - title: TypeScript Ruined My Life (In a Good Way)
     lang: en
     type: regular
-    level:
     time: 2018-06-01 12:00:00
     room: Priests Hall
     authors:
@@ -105,7 +100,6 @@ talks:
   - title: How to sort your socks using Javascript
     lang: en
     type: regular
-    level:
     time: 2018-06-01 12:30:00
     room: Priests Hall
     authors:
@@ -122,7 +116,6 @@ talks:
   - title: Look ma! No hands!
     lang: en
     type: regular
-    level:
     time: 2018-06-01 14:40:00
     room: Priests Hall
     authors:
@@ -139,7 +132,6 @@ talks:
   - title: Callback heaven
     lang: en
     type: regular
-    level:
     time: 2018-06-01 15:10:00
     room: Priests Hall
     authors:
@@ -156,7 +148,6 @@ talks:
   - title: How to scale an SPA?
     lang: en
     type: regular
-    level:
     time: 2018-06-01 15:40:00
     room: Priests Hall
     authors:
@@ -173,7 +164,6 @@ talks:
   - title: Persistence Cycle - A Successful Structure for Isomorphic Apps
     lang: en
     type: regular
-    level:
     time: 2018-06-01 16:10:00
     room: Priests Hall
     authors:
@@ -190,7 +180,6 @@ talks:
   - title: The dark ages of IoT
     lang: en
     type: regular
-    level:
     time: 2018-06-01 16:40:00
     room: Priests Hall
     authors:
@@ -207,7 +196,6 @@ talks:
   - title: Tales from the QA crypt
     lang: en
     type: regular
-    level:
     time: 2018-06-01 17:10:00
     room: Priests Hall
     authors:
@@ -224,7 +212,6 @@ talks:
   - title: Fun with Bluetooth
     lang: en
     type: regular
-    level:
     time: 2018-06-01 17:40:00
     room: Priests Hall
     authors:
@@ -241,7 +228,6 @@ talks:
   - title: Embrace Reactive Programming in React and Vue with RxJS
     lang: en
     type: regular
-    level:
     time: 2018-06-01 10:00:00
     room: Monks Hall
     authors:
@@ -258,7 +244,6 @@ talks:
   - title: Webpack + WebAssembly the future
     lang: en
     type: regular
-    level:
     time: 2018-06-01 10:30:00
     room: Monks Hall
     authors:
@@ -275,7 +260,6 @@ talks:
   - title: Accelerating Ethereum Development with Node.js and Docker
     lang: en
     type: regular
-    level:
     time: 2018-06-01 11:30:00
     room: Monks Hall
     authors:
@@ -292,7 +276,6 @@ talks:
   - title: 'Dart: the return'
     lang: en
     type: regular
-    level:
     time: 2018-06-01 12:00:00
     room: Monks Hall
     authors:
@@ -309,7 +292,6 @@ talks:
   - title: Legalize JavaScript for the Enterprise Now!
     lang: en
     type: regular
-    level:
     time: 2018-06-01 12:30:00
     room: Monks Hall
     authors:
@@ -325,7 +307,6 @@ talks:
   - title: 'ECMAScript Modules: Past, Present, and Future'
     lang: en
     type: regular
-    level:
     time: 2018-06-01 14:40:00
     room: Monks Hall
     authors:
@@ -342,7 +323,6 @@ talks:
   - title: 'Optimized Angular apps: smaller, faster, better'
     lang: en
     type: regular
-    level:
     time: 2018-06-01 15:10:00
     room: Monks Hall
     authors:
@@ -359,7 +339,6 @@ talks:
   - title: Building functional Front-ends with ClojureScript
     lang: en
     type: regular
-    level:
     time: 2018-06-01 15:40:00
     room: Monks Hall
     authors:
@@ -376,7 +355,6 @@ talks:
   - title: In the Ocean of Angular Web Applications
     lang: en
     type: regular
-    level:
     time: 2018-06-01 16:40:00
     room: Monks Hall
     authors:
@@ -393,7 +371,6 @@ talks:
   - title: Mock to start
     lang: en
     type: regular
-    level:
     time: 2018-06-01 17:10:00
     room: Monks Hall
     authors:
@@ -410,7 +387,6 @@ talks:
   - title: 'Optimizing assets for graphics heavy Web Applicatoins: tips and tricks from the game dev background'
     lang: en
     type: regular
-    level:
     time: 2018-06-01 17:40:00
     room: Monks Hall
     authors:

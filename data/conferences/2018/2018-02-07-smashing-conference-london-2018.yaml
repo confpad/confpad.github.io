@@ -21,7 +21,6 @@ talks:
   - title: In the loop
     lang: en
     type: regular
-    level:
     time: 2018-02-07
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Beyond the Basics of Image Optimization
     lang: en
     type: regular
-    level:
     time: 2018-02-07
     room:
     authors:
@@ -59,7 +57,6 @@ talks:
   - title: A Modern Front-End Workflow with DevTools
     lang: en
     type: regular
-    level:
     time: 2018-02-07
     room:
     authors:
@@ -76,7 +73,6 @@ talks:
   - title: Into the Weeds of CSS Layout
     lang: en
     type: regular
-    level:
     time: 2018-02-07
     room:
     authors:
@@ -93,7 +89,6 @@ talks:
   - title: A/B Testing, Ads and other 3rd Party Tags
     lang: en
     type: regular
-    level:
     time: 2018-02-07
     room:
     authors:
@@ -110,7 +105,6 @@ talks:
   - title: Building Performance for the Long Term
     lang: en
     type: regular
-    level:
     time: 2018-02-07
     room:
     authors:
@@ -127,7 +121,6 @@ talks:
   - title: Resource Loading - Past, Present & Future
     lang: en
     type: regular
-    level:
     time: 2018-02-07
     room:
     authors:
@@ -144,7 +137,6 @@ talks:
   - title: Performant Animations" Hitting 60fps"
     lang: en
     type: regular
-    level:
     time: 2018-02-07
     room:
     authors:
@@ -161,7 +153,6 @@ talks:
   - title: How’s the UX on the Web, Really?
     lang: en
     type: regular
-    level:
     time: 2018-02-08
     room:
     authors:
@@ -179,7 +170,6 @@ talks:
   - title: How fast is it?
     lang: en
     type: regular
-    level:
     time: 2018-02-08
     room:
     authors:
@@ -196,7 +186,6 @@ talks:
   - title: Improving Page Performance in Modern Web Apps
     lang: en
     type: regular
-    level:
     time: 2018-02-08
     room:
     authors:
@@ -213,7 +202,6 @@ talks:
   - title: Web Fonts are ▢▢▢ Rocket Science
     lang: en
     type: regular
-    level:
     time: 2018-02-08
     room:
     authors:
@@ -230,7 +218,6 @@ talks:
   - title: Making Platforms And Processes Promote Performance
     lang: en
     type: regular
-    level:
     time: 2018-02-08
     room:
     authors:
@@ -247,7 +234,6 @@ talks:
   - title: JavaScript engine internals for JavaScript developers
     lang: en
     type: regular
-    level:
     time: 2018-02-08
     room:
     authors:
@@ -264,7 +250,6 @@ talks:
   - title: Taking the Vile out of the Priviledge
     lang: en
     type: regular
-    level:
     time: 2018-02-08
     room:
     authors:

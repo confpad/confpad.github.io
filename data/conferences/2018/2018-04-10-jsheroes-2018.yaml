@@ -21,7 +21,6 @@ talks:
   - title: Sketching in the Browser
     lang: en
     type: regular
-    level:
     time: 2018-04-11
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: XSS, CSRF, CSP, JWT, WTF? IDK ¯\_(ツ)_/¯
     lang: en
     type: regular
-    level:
     time: 2018-04-11
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Fontastic web performance
     lang: en
     type: regular
-    level:
     time: 2018-04-11
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: A Guide to Instant Loading Angular Apps
     lang: en
     type: regular
-    level:
     time: 2018-04-11
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: What the v...DOM?
     lang: en
     type: regular
-    level:
     time: 2018-04-11
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: The exciting future of React
     lang: en
     type: regular
-    level:
     time: 2018-04-11
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Teleport your application
     lang: en
     type: regular
-    level:
     time: 2018-04-11
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Reasons to give React Native a(nother) try
     lang: en
     type: regular
-    level:
     time: 2018-04-11
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: Advanced Redux - Design Patterns and Practices
     lang: en
     type: regular
-    level:
     time: 2018-04-11
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: Meta Vue Framework
     lang: en
     type: regular
-    level:
     time: 2018-04-11
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: Vue.js and Serverless
     lang: en
     type: regular
-    level:
     time: 2018-04-11
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: A red LEGO brick is always red components on the web
     lang: en
     type: regular
-    level:
 
     time: 2018-04-12
     room:
@@ -226,7 +214,6 @@ talks:
   - title: The Dream of Styleguide Driven Development
     lang: en
     type: regular
-    level:
     time: 2018-04-12
     room:
     authors:
@@ -243,7 +230,6 @@ talks:
   - title: Getting the best out of web-based 2D graphics
     lang: en
     type: regular
-    level:
     time: 2018-04-12
     room:
     authors:
@@ -258,7 +244,6 @@ talks:
   - title: Recursion, Iteration, and JavaScript A Love Story
     lang: en
     type: regular
-    level:
     time: 2018-04-12
     room:
     authors:
@@ -275,7 +260,6 @@ talks:
   - title: V8 internals for JS developers
     lang: en
     type: regular
-    level:
     time: 2018-04-12
     room:
     authors:
@@ -292,7 +276,6 @@ talks:
   - title: How to make your LEDs better listeners
     lang: en
     type: regular
-    level:
     time: 2018-04-12
     room:
     authors:
@@ -309,7 +292,6 @@ talks:
   - title: Making The Terminal Great Again
     lang: en
     type: regular
-    level:
     time: 2018-04-12
     room:
     authors:
@@ -326,7 +308,6 @@ talks:
   - title: Full-Config-Jacket
     lang: en
     type: regular
-    level:
     time: 2018-04-12
     room:
     authors:
@@ -343,7 +324,6 @@ talks:
   - title: CodeSandbox
     lang: en
     type: regular
-    level:
     time: 2018-04-12
     room:
     authors:
@@ -360,7 +340,6 @@ talks:
   - title: Serving for the win - Deployments and hosting for the rest of us
     lang: en
     type: regular
-    level:
     time: 2018-04-12
     room:
     authors:
@@ -377,7 +356,6 @@ talks:
   - title: Virtual reality for every developer!
     lang: en
     type: regular
-    level:
     time: 2018-04-12
     room:
     authors:
@@ -394,7 +372,6 @@ talks:
   - title: Package Quest, the journey of a package from the npm registry to your computer.
     lang: en
     type: regular
-    level:
     time: 2018-04-12
     room:
     authors:

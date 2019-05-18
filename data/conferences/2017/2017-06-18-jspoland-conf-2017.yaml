@@ -21,7 +21,6 @@ talks:
   - title: Keynote, Progressive Web Apps
     lang: en
     type: regular
-    level:
     time: 2017-06-19
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Async Functions Awaiting You
     lang: en
     type: regular
-    level:
     time: 2017-06-19
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Functional Reactive Programming with Cycle.js
     lang: en
     type: regular
-    level:
     time: 2017-06-19
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Demystified Angular Directives
     lang: en
     type: regular
-    level:
     time: 2017-06-19
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Let the dinosaurs finally die out with a little help of a Service Work
     lang: en
     type: regular
-    level:
     time: 2017-06-19
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Progressive Web Apps with Angular and Firebase
     lang: en
     type: regular
-    level:
     time: 2017-06-19
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: React Native - Success case study
     lang: en
     type: regular
-    level:
     time: 2017-06-19
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Keep your skills sharp! Developer career in rapidly changing technology world.
     lang: en
     type: regular
-    level:
     time: 2017-06-19
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: The Mobile Web Second Edition" First-Class Citizen on Your Device Now"
     lang: en
     type: regular
-    level:
     time: 2017-06-19
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: RxJS all things!
     lang: en
     type: regular
-    level:
     time: 2017-06-19
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: DevTools Deep Dive
     lang: en
     type: regular
-    level:
     time: 2017-06-19
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: Angular is on Fire(base)!
     lang: en
     type: regular
-    level:
     time: 2017-06-19
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: JWT, WTF?
     lang: en
     type: regular
-    level:
     time: 2017-06-19
     room:
     authors:

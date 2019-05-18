@@ -21,7 +21,6 @@ talks:
   - title: The Redux Journey
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Native Navigation for Every Platform
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: A cartoon guide to performance in React
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: React Native <3 60FPS -- Improving React Native animations>
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Being Successful at Open Source
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: GraphQL at Facebook
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: A Deepdive Into Flow
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Debugging flux applications in production
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: On the Spectrum of Abstraction
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: React Redux Analytics
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: Leveraging React and Redux to Make Your App Write Tests For You
     lang: en
     type: lightning
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -207,7 +196,6 @@ talks:
   - title: Redux and Web Workers on the Frontend
     lang: en
     type: lightning
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -227,7 +215,6 @@ talks:
   - title: Going from 0 to full-time software engineer in 6 months
     lang: en
     type: lightning
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -244,7 +231,6 @@ talks:
   - title: CSS in JS without Compromise
     lang: en
     type: lightning
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -260,7 +246,6 @@ talks:
   - title: Solving a tooling problem for react-native
     lang: en
     type: lightning
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -276,7 +261,6 @@ talks:
   - title: Evolving the Visual Programming Environment with React
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -293,7 +277,6 @@ talks:
   - title: React Native Retrospective
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -310,7 +293,6 @@ talks:
   - title: The Evolution of React UI Development
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -331,7 +313,6 @@ talks:
   - title: Recomposing your React application
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -348,7 +329,6 @@ talks:
   - title: JavaScript, React Native and Performance
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -365,7 +345,6 @@ talks:
   - title: Falcor "One Model Everywhere"
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -382,7 +361,6 @@ talks:
   - title: Building li.st for Android with Exponent and React Native
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -399,7 +377,6 @@ talks:
   - title: GraphQL Future
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -420,7 +397,6 @@ talks:
   - title: Building native mobile apps with GraphQL
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -437,7 +413,6 @@ talks:
   - title: Tools shape our thinking.
     lang: en
     type: lightning
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -454,7 +429,6 @@ talks:
   - title: Shallow Rendering All The Way Down
     lang: en
     type: lightning
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -470,7 +444,6 @@ talks:
   - title: 'Subdivide: User Defined UI by Phil Holden'
     lang: en
     type: lightning
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -486,7 +459,6 @@ talks:
   - title: 'Subdivide: Understanding Your Component Ecosystem'
     lang: en
     type: lightning
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -502,7 +474,6 @@ talks:
   - title: 'Subdivide: Cross-platform charting with React & React Native'
     lang: en
     type: lightning
-    level:
     time: 2018-06-01
     room:
     authors:

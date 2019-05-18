@@ -21,7 +21,6 @@ talks:
   - title: Architecting the Reactive App with Flutter
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: 'CSS in JS: The Good & The Bad Parts'
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: AMA - David Nolen
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: The React Productivity Revolution
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Client and server need to talk
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: AMA - Gavin Doughtie
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Panel Discussion - Styling in CSS
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -159,7 +152,6 @@ talks:
   - title: GraphQL Subscriptions - Scaling real-time in the real world
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -176,7 +168,6 @@ talks:
   - title: Creative Hacking
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -193,7 +184,6 @@ talks:
   - title: Relay Modern or Apollo?
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -210,7 +200,6 @@ talks:
   - title: Jest as a Platform
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -227,7 +216,6 @@ talks:
   - title: AMA - Tiago Forte
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -244,7 +232,6 @@ talks:
   - title: Unique Value Proposition of CSSinJS and the Future
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -261,7 +248,6 @@ talks:
   - title: Let's Tree-shake it...
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -278,7 +264,6 @@ talks:
   - title: Build-time Optimizations in JavaScript Applications
     lang: en
     type: regular
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -295,7 +280,6 @@ talks:
   - title: 'RON: Replicated Object Notation'
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -312,7 +296,6 @@ talks:
   - title: Understanding webpack from inside out
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -328,7 +311,6 @@ talks:
   - title: D3 and React, Together
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -345,7 +327,6 @@ talks:
   - title: Lessons learned migrating complex software
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -362,7 +343,6 @@ talks:
   - title: CSS as Bytecode
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -379,7 +359,6 @@ talks:
   - title: ReactXP - How we rebuilt (almost) all skype clients
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -395,7 +374,6 @@ talks:
   - title: ReactXP - How we rebuilt (almost) all skype clients
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -412,7 +390,6 @@ talks:
   - title: Styling Components for React UI Kits
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -429,7 +406,6 @@ talks:
   - title: Property-based Testing for Godly Tests
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -446,7 +422,6 @@ talks:
   - title: AMA - Igor Minar
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -462,7 +437,6 @@ talks:
   - title: 'Reason: JavaScript-flavored OCaml'
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -479,7 +453,6 @@ talks:
   - title: Using Logux in Production
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -496,7 +469,6 @@ talks:
   - title: AMA - Richard Feldman
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -513,7 +485,6 @@ talks:
   - title: Secrets of the Glimmer VM
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -530,7 +501,6 @@ talks:
   - title: AMA - Jared Forsyth
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -547,7 +517,6 @@ talks:
   - title: Animating Vue
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -564,7 +533,6 @@ talks:
   - title: Reactive Programming with RxJS
     lang: en
     type: regular
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -581,7 +549,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -598,7 +565,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -615,7 +581,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -632,7 +597,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -649,7 +613,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -666,7 +629,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -683,7 +645,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -700,7 +661,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -717,7 +677,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -734,7 +693,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -751,7 +709,6 @@ talks:
   - title: The new GraphQL Codegen
     lang: en
     type: lightning
-    level:
     time: 2017-10-25
     room:
     authors:
@@ -768,7 +725,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -785,7 +741,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -802,7 +757,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2017-10-26
     room:
     authors:
@@ -819,7 +773,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2017-10-25
     room:
     authors:

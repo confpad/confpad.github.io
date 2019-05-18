@@ -21,7 +21,6 @@ talks:
   - title: "Announcing Flutter 1.0"
     lang: en
     type: regular
-    level:
     time: 2018-12-04
     room:
     authors:
@@ -42,7 +41,6 @@ talks:
   - title: "Flutter Design"
     lang: en
     type: regular
-    level:
     time: 2018-12-04
     room:
     authors:
@@ -63,7 +61,6 @@ talks:
   - title: "Flutter Development"
     lang: en
     type: regular
-    level:
     time: 2018-12-04
     room:
     authors:
@@ -88,7 +85,6 @@ talks:
   - title: "One More Thing"
     lang: en
     type: regular
-    level:
     time: 2018-12-04
     room:
     authors:

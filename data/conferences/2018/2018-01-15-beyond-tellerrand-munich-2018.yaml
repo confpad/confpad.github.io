@@ -21,7 +21,6 @@ talks:
   - title: A Tinker Story
     lang: en
     type: regular
-    level:
     time: 2018-01-16
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: 'Data Sketches: A Year of Exotic Data Visualisations'
     lang: en
     type: regular
-    level:
     time: 2018-01-16
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: From AI to robots, from apps to wearables – let’s design for everyone, OK?
     lang: en
     type: regular
-    level:
     time: 2018-01-16
     room:
     authors:
@@ -71,7 +68,6 @@ talks:
   - title: The Internet of Natural Things
     lang: en
     type: regular
-    level:
     time: 2018-01-16
     room:
     authors:
@@ -88,7 +84,6 @@ talks:
   - title: 'Robotics in Our Everyday Lives: A Product Designer''s Perspective'
     lang: en
     type: regular
-    level:
     time: 2018-01-16
     room:
     authors:
@@ -105,7 +100,6 @@ talks:
   - title: New Adventures in Responsive Web Design
     lang: en
     type: regular
-    level:
     time: 2018-01-16
     room:
     authors:
@@ -121,7 +115,6 @@ talks:
   - title: Sacrificing the golden calf of “coding”
     lang: en
     type: regular
-    level:
     time: 2018-01-16
     room:
     authors:
@@ -139,7 +132,6 @@ talks:
   - title: Interactive Email
     lang: en
     type: regular
-    level:
     time: 2018-01-16
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: Why Fast Matters
     lang: en
     type: regular
-    level:
     time: 2018-01-16
     room:
     authors:
@@ -175,7 +166,6 @@ talks:
   - title: Why Beauty Matters
     lang: en
     type: regular
-    level:
     time: 2018-01-16
     room:
     authors:
@@ -190,7 +180,6 @@ talks:
   - title: 'SVG Filters: The Crash Course'
     lang: en
     type: regular
-    level:
     time: 2018-01-16
     room:
     authors:
@@ -207,7 +196,6 @@ talks:
   - title: Radically Accessible Internet Applications 💯
     lang: en
     type: regular
-    level:
     time: 2018-01-16
     room:
     authors:
@@ -223,7 +211,6 @@ talks:
   - title: 'Sho Ha Hito Nari: Brushes, strokes and a reflection of self'
     lang: en
     type: regular
-    level:
     time: 2018-01-16
     room:
     authors:

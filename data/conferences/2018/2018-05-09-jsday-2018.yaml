@@ -21,7 +21,6 @@ talks:
   - title: My journey with WebGL
     lang: en
     type: regular
-    level:
     time: 2018-05-09
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: HTTP2, one frame at a time
     lang: en
     type: regular
-    level:
     time: 2018-05-09
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: 'ES Modules: The next revolution?'
     lang: en
     type: regular
-    level:
     time: 2018-05-09
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: The future will be Serverless
     lang: en
     type: regular
-    level:
     time: 2018-05-09
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: LDD PWA (Lighthouse Driven Development for Progressive Web Apps)
     lang: en
     type: regular
-    level:
     time: 2018-05-09
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Jest Testing Patterns
     lang: en
     type: regular
-    level:
     time: 2018-05-09
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Creating an Enterprise Frontend Library in 2018
     lang: en
     type: regular
-    level:
     time: 2018-05-09
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: My node.js process is on fire
     lang: en
     type: regular
-    level:
     time: 2018-05-09
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: The vanilla way
     lang: en
     type: regular
-    level:
     time: 2018-05-09
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: 'Chatbots in JS: Overview and implementation'
     lang: en
     type: regular
-    level:
     time: 2018-05-09
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: Coding The Fork app in React Native
     lang: en
     type: regular
-    level:
     time: 2018-05-09
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: TypeScript - JavaScript you are gonna love
     lang: en
     type: regular
-    level:
     time: 2018-05-09
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: 'Everything is awesome: the Lego approach to being an awesome coworker'
     lang: en
     type: regular
-    level:
     time: 2018-05-10
     room:
     authors:
@@ -242,7 +229,6 @@ talks:
   - title: 'StranglerApplication pattern: a legacy frontend use case'
     lang: en
     type: regular
-    level:
     time: 2018-05-10
     room:
     authors:
@@ -259,7 +245,6 @@ talks:
   - title: Node Microservices - the definitive guide
     lang: en
     type: workshop
-    level:
     time: 2018-05-10
     room:
     authors:
@@ -276,7 +261,6 @@ talks:
   - title: Web Payment APIs
     lang: en
     type: regular
-    level:
     time: 2018-05-10
     room:
     authors:
@@ -293,7 +277,6 @@ talks:
   - title: 'Finding Your Voice: Building Screenless Interfaces with Node.js'
     lang: en
     type: regular
-    level:
     time: 2018-05-10
     room:
     authors:
@@ -310,7 +293,6 @@ talks:
   - title: 'Do the Right (to Left) Thing: Directional Content in React'
     lang: en
     type: regular
-    level:
     time: 2018-05-10
     room:
     authors:
@@ -327,7 +309,6 @@ talks:
   - title: 'Node.js Security: Breaking The Loop'
     lang: en
     type: regular
-    level:
     time: 2018-05-10
     room:
     authors:
@@ -344,7 +325,6 @@ talks:
   - title: PWA as a new Cyber Attack Vector
     lang: en
     type: regular
-    level:
     time: 2018-05-10
     room:
     authors:
@@ -361,7 +341,6 @@ talks:
   - title: IPFS and how to distribute the web
     lang: en
     type: regular
-    level:
     time: 2018-05-10
     room:
     authors:
@@ -378,7 +357,6 @@ talks:
   - title: “The Upside Down” of the web, Video
     lang: en
     type: regular
-    level:
     time: 2018-05-10
     room:
     authors:
@@ -395,7 +373,6 @@ talks:
   - title: Server Side Rendering from the trenches
     lang: en
     type: regular
-    level:
     time: 2018-05-10
     room:
     authors:
@@ -412,7 +389,6 @@ talks:
   - title: '10KB or Bust: The Delicate Power of Webpack and Babel'
     lang: en
     type: regular
-    level:
     time: 2018-05-10
     room:
     authors:
@@ -429,7 +405,6 @@ talks:
   - title: Artificial Intelligence and Machine Learning in the browser
     lang: en
     type: regular
-    level:
     time: 2018-05-10
     room:
     authors:

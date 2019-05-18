@@ -21,7 +21,6 @@ talks:
   - title: Everything you need to know about client-side malicious code execution.
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -36,7 +35,6 @@ talks:
   - title: Array.map is more interesting than you probably think!
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -53,7 +51,6 @@ talks:
   - title: Building secure applications with keycloak (OIDC/JWT)
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -68,7 +65,6 @@ talks:
   - title: Fullstack JavaScript-based micro services for complete automation of higher education institutions
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -85,7 +81,6 @@ talks:
   - title: Joint Q&A" On DevSecOps"
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -100,7 +95,6 @@ talks:
   - title: SPAs are dead. Long live Microfrontends.
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -117,7 +111,6 @@ talks:
   - title: Moving a huge AngularJS App to React, progressively at Microsoft Scale
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -132,7 +125,6 @@ talks:
   - title: Joint Q&A" The pros and cons of micro-frontends paradigm for building web applications"
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -147,7 +139,6 @@ talks:
   - title: Cross Browser Add-ons and How to build one
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -164,7 +155,6 @@ talks:
   - title: A glimpse of GraphQL" Frontend developers’ life is easy now!"
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -181,7 +171,6 @@ talks:
   - title: Building Isomorphic JavaScript Apps Faster with Next.js
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -198,7 +187,6 @@ talks:
   - title: The vuetiful journey from AngularJS to Vue" migration of a SaaS product suite in phases"
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -213,7 +201,6 @@ talks:
   - title: 'Birds Of Feather session: Architecture and component choices in designing your webapp'
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -248,7 +235,6 @@ talks:
   - title: Navigating the labyrinth or how to profile your webapp on Chrome?
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -263,7 +249,6 @@ talks:
   - title: End-to-end testing made easy with Nightwatch
     lang: en
     type: lightning
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -278,7 +263,6 @@ talks:
   - title: Performance Feat. Webpack
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -295,7 +279,6 @@ talks:
   - title: Charting in 2018
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -310,7 +293,6 @@ talks:
   - title: 'Birds Of Feather session: On performance'
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -337,7 +319,6 @@ talks:
   - title: Create cross platform native mobile games with JavaScript
     lang: en
     type: lightning
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -352,7 +333,6 @@ talks:
   - title: Voice User Interfaces - How designing for the ear differs from designing for screens
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -367,7 +347,6 @@ talks:
   - title: Voice User Interfaces - How designing for the ear differs from designing for screens
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -382,7 +361,6 @@ talks:
   - title: Building an interactive learning service for native apps.
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:
@@ -397,7 +375,6 @@ talks:
   - title: 'Birds Of Feather session: Experience stories from engineers about building UX and UI flows for web applications'
     lang: en
     type: regular
-    level:
     time: 2018-01-10
     room:
     authors:

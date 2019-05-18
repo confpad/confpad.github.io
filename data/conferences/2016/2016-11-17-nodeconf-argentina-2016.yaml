@@ -21,7 +21,6 @@ talks:
   - title: JavaScript and Interactive Installations
     lang: en
     type: regular
-    level:
     time: 2016-11-18
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: RegExp.prototype.unicode
     lang: en
     type: regular
-    level:
     time: 2016-11-18
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: The code is data and vice versa
     lang: en
     type: regular
-    level:
     time: 2016-11-18
     room:
     authors:
@@ -71,7 +68,6 @@ talks:
   - title: Ethereum for node.js devs
     lang: en
     type: regular
-    level:
     time: 2016-11-18
     room:
     authors:
@@ -88,7 +84,6 @@ talks:
   - title: Nodejs microservices. From Zero to Hero.
     lang: en
     type: regular
-    level:
     time: 2016-11-18
     room:
     authors:
@@ -105,7 +100,6 @@ talks:
   - title: The dirty secrets of building large, highly available, scalable HTTP APIs
     lang: en
     type: regular
-    level:
     time: 2016-11-18
     room:
     authors:
@@ -122,7 +116,6 @@ talks:
   - title: 'Empathetic communication: why vulnerability is the key to collaboration'
     lang: en
     type: regular
-    level:
     time: 2016-11-18
     room:
     authors:
@@ -139,7 +132,6 @@ talks:
   - title: Memory Profiling for Mere Mortals
     lang: en
     type: regular
-    level:
     time: 2016-11-19
     room:
     authors:
@@ -156,7 +148,6 @@ talks:
   - title: Presence, Personality & Pulse - Enlivening Experiences With Ambient Data
     lang: en
     type: regular
-    level:
     time: 2016-11-19
     room:
     authors:
@@ -173,7 +164,6 @@ talks:
   - title: Now and Next.js - Deploying JavaScript unicorns
     lang: en
     type: regular
-    level:
     time: 2016-11-19
     room:
     authors:
@@ -188,7 +178,6 @@ talks:
   - title: On Writing Friendly and Welcoming Documentation
     lang: en
     type: regular
-    level:
     time: 2016-11-19
     room:
     authors:
@@ -205,7 +194,6 @@ talks:
   - title: 'Node on the Desktop: Building Apps with Electron v1'
     lang: en
     type: regular
-    level:
     time: 2016-11-19
     room:
     authors:
@@ -222,7 +210,6 @@ talks:
   - title: Kill all humans – Automate npm releases and dependency updates
     lang: en
     type: regular
-    level:
     time: 2016-11-19
     room:
     authors:
@@ -239,7 +226,6 @@ talks:
   - title: Internet of Peers
     lang: en
     type: regular
-    level:
     time: 2016-11-19
     room:
     authors:
@@ -256,7 +242,6 @@ talks:
   - title: Continuous Security
     lang: en
     type: regular
-    level:
     time: 2016-11-19
     room:
     authors:
@@ -273,7 +258,6 @@ talks:
   - title: 'Real world Electron: Building Cross-platform desktop apps with JavaScript'
     lang: en
     type: regular
-    level:
     time: 2016-11-19
     room:
     authors:
@@ -290,7 +274,6 @@ talks:
   - title: Micro(hapi)ness
     lang: en
     type: regular
-    level:
     time: 2016-11-19
     room:
     authors:
@@ -307,7 +290,6 @@ talks:
   - title: Hacking your Nintendo with JavaScript.
     lang: en
     type: regular
-    level:
     time: 2016-11-19
     room:
     authors:
@@ -324,7 +306,6 @@ talks:
   - title: Fun with webgl
     lang: en
     type: regular
-    level:
     time: 2016-11-19
     room:
     authors:

@@ -21,7 +21,6 @@ talks:
   - title: Keynote
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: ReasonReact and local state
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Building inclusive Open Source communities
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Down the WebAssembly rabbit hole
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: State of the Reason Editor integration
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Using Reason in traditional Enterprises
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Reason coming from F#
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Practical Interpretation of Code Formatting
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: Having your cake and eating it too — GraphQL in Reason
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: Building native Node.js addons in Reason
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: What’s not to love about Reason?
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: Why We’re Afraid of Change
     lang: en
     type: regular
-    level:
     time: 2018-05-12
     room:
     authors:

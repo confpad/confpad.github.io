@@ -21,7 +21,6 @@ talks:
   - title: Make JavaScript Faster
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: It's My (Third) Party and I'll Cry If I Want To
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: 'Fast but not Furious: Debugging User Interaction Performance Issues'
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -75,7 +72,6 @@ talks:
   - title: How I optimized my JavaScript sheet music rendering engine
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -92,7 +88,6 @@ talks:
   - title: The Five Whys of Web Font Loading Performance
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -109,7 +104,6 @@ talks:
   - title: 'Down the line: Evolving HTTP and making things QUIC'
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -126,7 +120,6 @@ talks:
   - title: Headers for Hackers
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -143,7 +136,6 @@ talks:
   - title: How I learned to stop worrying and love UX metrics
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -160,7 +152,6 @@ talks:
   - title: The Long-Tail of Performance
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -178,7 +169,6 @@ talks:
   - title: Past, Present and Future of Resource Loading
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -196,7 +186,6 @@ talks:
   - title: Image Optimization
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -212,7 +201,6 @@ talks:
   - title: 'Raiders of the Fast Start: Frontend Performance Archeology'
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -230,7 +218,6 @@ talks:
   - title: PWA Challenges
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -247,7 +234,6 @@ talks:
   - title: Move Fast & Don't Break Things
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -263,7 +249,6 @@ talks:
   - title: Building a Foundation for Performance
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -280,7 +265,6 @@ talks:
   - title: The Latest in Metrics & Measurement
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:

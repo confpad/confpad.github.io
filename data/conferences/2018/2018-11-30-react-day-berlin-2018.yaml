@@ -21,7 +21,6 @@ talks:
   - title: The New Hotness" An Exploration of Reacts Exciting New Features"
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Powering Code Reuse with Context and Render Props
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Feature Driven Architecture
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Secrets to a Successful Design System
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Tip Top Testing in JavaScript
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Navigating the Hype-Driven Frontend Development World Without Going Insane
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Writing Your Own React Renderer
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Structure Your App's Story With Sagas and Selectors
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: Optimizing the Critical Rendering Path in React
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: The Lonely and Dark Road to Styling in React
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:
@@ -242,7 +229,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:
@@ -259,7 +245,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: regular
-    level:
     time: 2018-11-30
     room:
     authors:

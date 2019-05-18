@@ -21,7 +21,6 @@ talks:
   - title: How to XYZ # Mandatory
     lang: en # Mandatory, ISO 639-1 language code in lowercase
     type: regular # Mandatory, [regular, lightning, workshop]
-    level: beginner # [beginner, intermediate, advanced]
     time: 2018-09-03 09:30:00 # Mandatory, 2018-09-03 or 2018-09-03 09:30:00
     room: Room A # Room/hall/auditorium name
     authors:

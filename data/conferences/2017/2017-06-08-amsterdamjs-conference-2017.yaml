@@ -21,7 +21,6 @@ talks:
   - title: JavaScript Is a Buffet, Not the Enemy
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: The Road to Web Performance in 3 Critical Steps
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -54,7 +52,6 @@ talks:
   - title: Javascript @ Uber
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -71,7 +68,6 @@ talks:
   - title: V8 and How It Listens to You
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -88,7 +84,6 @@ talks:
   - title: The Art of Keeping Your Application Safe
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -105,7 +100,6 @@ talks:
   - title: Browser Framework Fundamentals
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -121,7 +115,6 @@ talks:
   - title: Benefits of Virtual DOM
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -138,7 +131,6 @@ talks:
   - title: Are Service Workers Draining My Battery?
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -155,7 +147,6 @@ talks:
   - title: Changing Live Audio with the Web-Audio-Api
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -172,7 +163,6 @@ talks:
   - title: Automating Front-End Refactoring
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -189,7 +179,6 @@ talks:
   - title: WebAssembly - the Final Frontier
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -206,7 +195,6 @@ talks:
   - title: WebGL Practical Application
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -223,7 +211,6 @@ talks:
   - title: RxJS All Things
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -240,7 +227,6 @@ talks:
   - title: Makepad - Rethinking Web UI's with WebGL
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -257,7 +243,6 @@ talks:
   - title: Porting Web SDK from JS into TS
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -274,7 +259,6 @@ talks:
   - title: A Journey From Web to VR
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -290,7 +274,6 @@ talks:
   - title: Why You Should Care About Docker
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -307,7 +290,6 @@ talks:
   - title: The Hitchhiker's Guide to the Serverless Galaxy
     lang: en
     type: regular
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -324,7 +306,6 @@ talks:
   - title: Doctor Wombat
     lang: en
     type: lightning
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -340,7 +321,6 @@ talks:
   - title: Using Custom Vision API to make your own vision intelligence application
     lang: en
     type: lightning
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -356,7 +336,6 @@ talks:
   - title: Taming the async flow
     lang: en
     type: lightning
-    level:
     time: 2017-06-08
     room:
     authors:
@@ -372,7 +351,6 @@ talks:
   - title: Space as a Service, in JS
     lang: en
     type: lightning
-    level:
     time: 2017-06-08
     room:
     authors:

@@ -21,7 +21,6 @@ talks:
   - title: JavaScript, Day 4001
     lang: en
     type: regular
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: How to angulate on 5+
     lang: en
     type: regular
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Front-end Microservices Architecture
     lang: en
     type: regular
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Time, Numbers, Text
     lang: en
     type: regular
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: 'React: the road to enlightenment'
     lang: en
     type: regular
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Code Style and Violence
     lang: en
     type: regular
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: International Speakers' Corner
     lang: en
     type: regular
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -150,7 +143,6 @@ talks:
   - title: Creating virtual worlds in the browser
     lang: en
     type: regular
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -167,7 +159,6 @@ talks:
   - title: GraphQL - a new look at the API
     lang: en
     type: regular
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -184,7 +175,6 @@ talks:
   - title: We raise children. Or how did Ivan Vasilievich run the experiments?
     lang: en
     type: regular
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -201,7 +191,6 @@ talks:
   - title: Frontend testing for Wix viewer, case study
     lang: en
     type: regular
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -218,7 +207,6 @@ talks:
   - title: The Most Annoying Website (aka "The Power of the Web Platform")
     lang: en
     type: regular
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -235,7 +223,6 @@ talks:
   - title: Life outside javascript
     lang: en
     type: regular
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -252,7 +239,6 @@ talks:
   - title: JavaScript all the things
     lang: en
     type: regular
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -269,7 +255,6 @@ talks:
   - title: 99 ways to take away your ugly polyfills
     lang: en
     type: lightning
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -286,7 +271,6 @@ talks:
   - title: Use-case operator replyWhen from Rx.JS on the example of Angular application embedded via IFRAME
     lang: en
     type: lightning
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -303,7 +287,6 @@ talks:
   - title: Vue, webcomponents
     lang: en
     type: lightning
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -320,7 +303,6 @@ talks:
   - title: 600 seconds about async_hooks
     lang: en
     type: lightning
-    level:
     time: 2017-03-18
     room:
     authors:
@@ -337,7 +319,6 @@ talks:
   - title: Web Workers - add productivity to your Web applications
     lang: en
     type: lightning
-    level:
     time: 2017-03-18
     room:
     authors:

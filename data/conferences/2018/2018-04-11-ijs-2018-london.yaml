@@ -21,7 +21,6 @@ talks:
   - title: Why the fuss about serverless
     lang: en
     type: regular
-    level:
     time: 2018-04-11 09:00:00
     room: Auditorium
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: You don’t know MobX State Tree
     lang: en
     type: regular
-    level:
     time: 2018-04-11 10:00:00
     room: Room B
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: Angular architecture patterns starring NGRX
     lang: en
     type: regular
-    level:
     time: 2018-04-11 10:00:00
     room: Room A
     authors:
@@ -74,7 +71,6 @@ talks:
   - title: 'Better Paranoid than Offline: OWASP Top Ten 2017'
     lang: en
     type: regular
-    level:
     time: 2018-04-11 10:00:00
     room: Auditorium
     authors:
@@ -91,7 +87,6 @@ talks:
   - title: 'Asynchronicity: concurrency.'
     lang: en
     type: regular
-    level:
     time: 2018-04-11 11:15:00
     room: Auditorium
     authors:
@@ -108,7 +103,6 @@ talks:
   - title: Redux and Redux-saga to manage states in a large React app
     lang: en
     type: regular
-    level:
     time: 2018-04-11 11:15:00
     room: Room A
     authors:
@@ -130,7 +124,6 @@ talks:
   - title: 6 APPS ONE CODE WITH Ionic
     lang: en
     type: regular
-    level:
     time: 2018-04-11 11:15:00
     room: Room B
     authors:
@@ -146,7 +139,6 @@ talks:
   - title: Generating whole Angular Applications with the Angular CLI's and Schematics
     lang: en
     type: regular
-    level:
     time: 2018-04-11 12:15:00
     room: Room D
     authors:
@@ -163,7 +155,6 @@ talks:
   - title: Micro Frontends
     lang: en
     type: regular
-    level:
     time: 2018-04-11 12:15:00
     room: Auditorium
     authors:
@@ -183,7 +174,6 @@ talks:
   - title: 'VueX: Vue.js applications at scale'
     lang: en
     type: regular
-    level:
     time: 2018-04-11 12:15:00
     room: Room E+F
     authors:
@@ -200,7 +190,6 @@ talks:
   - title: JavaScript's new 'old school' programming - Let's TypeScript !
     lang: en
     type: regular
-    level:
     time: 2018-04-11 12:15:00
     room: Room A
     authors:
@@ -217,7 +206,6 @@ talks:
   - title: How to protect your API Infrastructure against cyber-attacks with Artificial Intelligence.
     lang: en
     type: regular
-    level:
     time: 2018-04-11 14:30:00
     room: Auditorium
     authors:
@@ -234,7 +222,6 @@ talks:
   - title: Hitchhikers Guide to Growing Your Tech Skills.
     lang: en
     type: regular
-    level:
     time: 2018-04-11 15:00:00
     room: Auditorium
     authors:
@@ -252,7 +239,6 @@ talks:
   - title: Make Node.js API's great with TypeScript
     lang: en
     type: regular
-    level:
     time: 2018-04-11 15:45:00
     room: Auditorium
     authors:
@@ -269,7 +255,6 @@ talks:
   - title: An in-depth look at debugging RxJS code
     lang: en
     type: regular
-    level:
     time: 2018-04-11 15:45:00
     room: Room B
     authors:
@@ -286,7 +271,6 @@ talks:
   - title: Introduction to stdlib-js
     lang: en
     type: regular
-    level:
     time: 2018-04-11 15:45:00
     room: Room C
     authors:
@@ -302,7 +286,6 @@ talks:
   - title: Hop on the serverless adventure with NodeJS
     lang: en
     type: regular
-    level:
     time: 2018-04-11 15:45:00
     room: Room A
     authors:
@@ -320,7 +303,6 @@ talks:
   - title: I Don't Care About Security (And Neither Should You)
     lang: en
     type: regular
-    level:
     time: 2018-04-11 15:45:00
     room: Room D
     authors:
@@ -337,7 +319,6 @@ talks:
   - title: Sharing Code Between Web and Native Mobile Apps with Angular
     lang: en
     type: regular
-    level:
     time: 2018-04-11 17:15:00
     room: Room A
     authors:
@@ -354,7 +335,6 @@ talks:
   - title: Streams, Streams, Streams
     lang: en
     type: regular
-    level:
     time: 2018-04-11 17:15:00
     room: Auditorium
     authors:
@@ -370,7 +350,6 @@ talks:
   - title: Service Workers & Cows — a love story
     lang: en
     type: regular
-    level:
     time: 2018-04-11 17:15:00
     room: Room E+F
     authors:
@@ -388,7 +367,6 @@ talks:
   - title: PouchDB – The perfect Offline-First Database for your Browser
     lang: en
     type: regular
-    level:
     time: 2018-04-11 18:15:00
     room: Auditorium
     authors:
@@ -405,7 +383,6 @@ talks:
   - title: 'Brain: The ultimate hack'
     lang: en
     type: regular
-    level:
     time: 2018-04-11 18:15:00
     room: Room E+F
     authors:
@@ -423,7 +400,6 @@ talks:
   - title: Boost Your Mobile Apps’ Emotional Intelligence with Machine Learning and NativeScript
     lang: en
     type: regular
-    level:
     time: 2018-04-11 18:15:00
     room: Room A
     authors:
@@ -441,7 +417,6 @@ talks:
   - title: Be the best You - One developers journey to fight the Imposter Syndrome
     lang: en
     type: regular
-    level:
     time: 2018-04-11 09:00:00
     room: Auditorium
     authors:
@@ -459,7 +434,6 @@ talks:
   - title: Learning Machine Learning
     lang: en
     type: regular
-    level:
     time: 2018-04-11 10:00:00
     room: Auditorium
     authors:
@@ -477,7 +451,6 @@ talks:
   - title: Managing asynchrony of the web with TypeScript
     lang: en
     type: regular
-    level:
     time: 2018-04-11 10:00:00
     room: Room A
     authors:
@@ -493,7 +466,6 @@ talks:
   - title: Production Hardened Services
     lang: en
     type: regular
-    level:
     time: 2018-04-11 10:00:00
     room: Room D
     authors:
@@ -510,7 +482,6 @@ talks:
   - title: A New DevOps Model for Achieving Market Agility
     lang: en
     type: regular
-    level:
     time: 2018-04-11 10:00:00
     room: Room E+F
     authors:
@@ -527,7 +498,6 @@ talks:
   - title: Unleash the Power of Angular Reactive Forms
     lang: en
     type: regular
-    level:
     time: 2018-04-11 11:30:00
     room: Room E+F
     authors:
@@ -543,7 +513,6 @@ talks:
   - title: GraphQL - where did all my endpoints go?
     lang: en
     type: regular
-    level:
     time: 2018-04-11 11:30:00
     room: Room A
     authors:
@@ -559,7 +528,6 @@ talks:
   - title: Building a Front end Pipeline
     lang: en
     type: regular
-    level:
     time: 2018-04-11 11:30:00
     room: Auditorium
     authors:
@@ -576,7 +544,6 @@ talks:
   - title: Node.js Add-ons for High Performance Numeric Computing
     lang: en
     type: regular
-    level:
     time: 2018-04-11 12:30:00
     room: Room E+F
     authors:
@@ -593,7 +560,6 @@ talks:
   - title: 'Stencil: The Time for Vanilla Web Components has arrived'
     lang: en
     type: regular
-    level:
     time: 2018-04-11 12:30:00
     room: Auditorium
     authors:
@@ -610,7 +576,6 @@ talks:
   - title: Angular with Maps? It’s Maptastic!
     lang: en
     type: regular
-    level:
     time: 2018-04-11 12:30:00
     room: Room A
     authors:
@@ -628,7 +593,6 @@ talks:
   - title: Looking At The API Life Cycle Through The Lens Of A Municipal Transit System
     lang: en
     type: regular
-    level:
     time: 2018-04-11 14:45:00
     room: Auditorium
     authors:
@@ -644,7 +608,6 @@ talks:
   - title: 'Functional Programming: What? Why? ... and How?'
     lang: en
     type: regular
-    level:
     time: 2018-04-11 16:00:00
     room: Auditorium
     authors:
@@ -661,7 +624,6 @@ talks:
   - title: 'Routing into the Sunset: Advanced Routing with Angular'
     lang: en
     type: regular
-    level:
     time: 2018-04-11 16:00:00
     room: Room C
     authors:
@@ -677,7 +639,6 @@ talks:
   - title: Build Your Own Redux!
     lang: en
     type: regular
-    level:
     time: 2018-04-11 16:00:00
     room: Room E+F
     authors:
@@ -693,7 +654,6 @@ talks:
   - title: Automatic Progressive Web Apps using Angular Service Worker
     lang: en
     type: regular
-    level:
     time: 2018-04-11 17:00:00
     room: Room A
     authors:
@@ -710,7 +670,6 @@ talks:
   - title: Reduxing your React
     lang: en
     type: regular
-    level:
     time: 2018-04-11 17:00:00
     room: Auditorium
     authors:
@@ -727,7 +686,6 @@ talks:
   - title: Building Reusable JavaScript Web Components
     lang: en
     type: regular
-    level:
     time: 2018-04-11 09:00:00
     room: Room C
     authors:
@@ -743,7 +701,6 @@ talks:
   - title: The JavaScript & Node.js Data Science Survival Kit
     lang: en
     type: regular
-    level:
     time: 2018-04-11 09:00:00
     room: Room D
     authors:
@@ -763,7 +720,6 @@ talks:
   - title: Progressive Web Apps using the Angular Service Worker
     lang: en
     type: regular
-    level:
     time: 2018-04-11 09:00:00
     room: Room A
     authors:
@@ -779,7 +735,6 @@ talks:
   - title: 'Angular: Architectures and Building-Blocks for modern Applications'
     lang: en
     type: regular
-    level:
     time: 2018-04-11 09:00:00
     room: Room F
     authors:
@@ -795,7 +750,6 @@ talks:
   - title: Real world Angular & Redux with NGRX
     lang: en
     type: regular
-    level:
     time: 2018-04-11 09:00:00
     room: Room B
     authors:

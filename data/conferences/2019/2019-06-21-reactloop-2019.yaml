@@ -21,7 +21,6 @@ talks:
   - title: TBD
     lang: en
     type: regular
-    level:
     time: 2019-06-21 09:00:00
     room:
     authors:
@@ -36,7 +35,6 @@ talks:
   - title: TBD
     lang: en
     type: regular
-    level:
     time: 2019-06-21 09:30:00
     room:
     authors:

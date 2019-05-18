@@ -21,7 +21,6 @@ talks:
   - title: Demystify the V DOM
     lang: en
     type: regular
-    level:
     time: 2018-01-05
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Making Games With React and Redux
     lang: en
     type: regular
-    level:
     time: 2018-01-05
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: BFF - GraphQL Backend-for-Frontend with React UI
     lang: en
     type: regular
-    level:
     time: 2018-01-05
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Translating React
     lang: en
     type: regular
-    level:
     time: 2018-01-05
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Fight the Power - React and Solid
     lang: en
     type: regular
-    level:
     time: 2018-01-05
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Leveling up through Code Reviews
     lang: en
     type: regular
-    level:
     time: 2018-01-05
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Managing Reusable Logic in React
     lang: en
     type: regular
-    level:
     time: 2018-01-05
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: React, the future & you
     lang: en
     type: regular
-    level:
     time: 2018-01-05
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: React Explained, Explained
     lang: en
     type: regular
-    level:
     time: 2018-01-05
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: Demystifying React Performance
     lang: en
     type: regular
-    level:
     time: 2018-01-05
     room:
     authors:

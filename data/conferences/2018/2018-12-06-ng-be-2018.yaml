@@ -21,7 +21,6 @@ talks:
   - title: Angular for the Visual Learner.
     lang: en
     type: regular
-    level:
     time: 2018-12-07
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Bringing Lighthouse to Angular
     lang: en
     type: regular
-    level:
     time: 2018-12-07
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: What's coming next in Angular
     lang: en
     type: regular
-    level:
     time: 2018-12-07
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Angular and the OWASP top 10
     lang: en
     type: regular
-    level:
     time: 2018-12-07
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Form of Art.
     lang: en
     type: regular
-    level:
     time: 2018-12-07
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Full stack development with Bazel, Angular and other friends.
     lang: en
     type: regular
-    level:
     time: 2018-12-07
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: The Need for Speed (aka Angular Performance).
     lang: en
     type: regular
-    level:
     time: 2018-12-07
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Building Decentralized Apps with Angular and Embark
     lang: en
     type: regular
-    level:
     time: 2018-12-07
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: 'Cypress: The future of E2E testing'
     lang: en
     type: regular
-    level:
     time: 2018-12-07
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: Optimize and Debug Change Detection Like a Pro
     lang: en
     type: regular
-    level:
     time: 2018-12-07
     room:
     authors:
@@ -190,7 +180,6 @@ talks:
   - title: Up-close with Structural Directives
     lang: en
     type: regular
-    level:
     time: 2018-12-07
     room:
     authors:
@@ -207,7 +196,6 @@ talks:
   - title: Angular in a Microservices World
     lang: en
     type: regular
-    level:
     time: 2018-12-07
     room:
     authors:
@@ -224,7 +212,6 @@ talks:
   - title: Platinum Sponsor - Ordina
     lang: en
     type: regular
-    level:
     time: 2018-12-07
     room:
     authors:

@@ -21,7 +21,6 @@ talks:
   - title: End to End Encryption for Mobile Developers
     lang: en
     type: regular
-    level:
     time: 2018-01-29
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: 'Accessibility: A line of code can be many things'
     lang: en
     type: regular
-    level:
     time: 2018-01-29
     room:
     authors:
@@ -56,7 +54,6 @@ talks:
   - title: Intro to ARKit
     lang: en
     type: regular
-    level:
     time: 2018-01-29
     room:
     authors:
@@ -74,7 +71,6 @@ talks:
   - title: Protocols All The Way Down
     lang: en
     type: regular
-    level:
     time: 2018-01-29
     room:
     authors:
@@ -92,7 +88,6 @@ talks:
   - title: Extending the Standard Library
     lang: en
     type: regular
-    level:
     time: 2018-01-29
     room:
     authors:
@@ -109,7 +104,6 @@ talks:
   - title: Object-Oriented Programming in Functional Programming in Swift
     lang: en
     type: regular
-    level:
     time: 2018-01-29
     room:
     authors:
@@ -127,7 +121,6 @@ talks:
   - title: Finally Solving the Expression Problem
     lang: en
     type: regular
-    level:
     time: 2018-01-29
     room:
     authors:
@@ -145,7 +138,6 @@ talks:
   - title: How to make a successful ARKit app?
     lang: en
     type: regular
-    level:
     time: 2018-01-29
     room:
     authors:
@@ -163,7 +155,6 @@ talks:
   - title: Supporting Objective-C in a Swift codebase
     lang: en
     type: regular
-    level:
     time: 2018-01-29
     room:
     authors:
@@ -181,7 +172,6 @@ talks:
   - title: Binary Frameworks in Swift
     lang: en
     type: regular
-    level:
     time: 2018-01-29
     room:
     authors:
@@ -199,7 +189,6 @@ talks:
   - title: How to turn an onion into a snake?
     lang: en
     type: regular
-    level:
     time: 2018-01-29
     room:
     authors:
@@ -217,7 +206,6 @@ talks:
   - title: Elements of Functional Programming
     lang: en
     type: regular
-    level:
     time: 2018-01-29
     room:
     authors:
@@ -235,7 +223,6 @@ talks:
   - title: Buckets of Code
     lang: en
     type: regular
-    level:
     time: 2018-01-29
     room:
     authors:

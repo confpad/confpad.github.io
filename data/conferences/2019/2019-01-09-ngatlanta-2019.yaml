@@ -21,7 +21,6 @@ talks:
   - title: From web to mobile with NativeScript and Angular
     lang: en
     type: regular
-    level:
     time: 2019-01-10 09:00:00
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: NGXS - State Management Made Simple
     lang: en
     type: regular
-    level:
     time: 2019-01-10 09:30:00
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Wrapping It Up with Decorators
     lang: en
     type: regular
-    level:
     time: 2019-01-10 10:00:00
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Debug Your Node.js Apps in VS Code
     lang: en
     type: regular
-    level:
     time: 2019-01-10 11:00:00
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: ng g talk-on-angular-console
     lang: en
     type: regular
-    level:
     time: 2019-01-10 11:30:00
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: 'Web components with Angular: The what, the why and the how.'
     lang: en
     type: regular
-    level:
     time: 2019-01-10 12:00:00
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Awesome Progressive Web Apps with Angular
     lang: en
     type: regular
-    level:
     time: 2019-01-10 14:00:00
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Angular in 2019 and Beyond
     lang: en
     type: regular
-    level:
     time: 2019-01-10 15:00:00
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: The Beauty of Service Workers
     lang: en
     type: regular
-    level:
     time: 2019-01-10 16:00:00
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: 'Recursion, Iteration & JavaScript: A love story'
     lang: en
     type: regular
-    level:
     time: 2019-01-10 16:30:00
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: 'Don''t worry, be happy: The best of Angular in Node'
     lang: en
     type: regular
-    level:
     time: 2019-01-10 17:30:00
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: RxJS, Angular, and WebSockets - The Spy Life
     lang: en
     type: regular
-    level:
     time: 2019-01-11 09:00:00
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: Profiling Bootstrap Performance of Angular Apps
     lang: en
     type: regular
-    level:
     time: 2019-01-11 09:30:00
     room:
     authors:
@@ -242,7 +229,6 @@ talks:
   - title: Modern Development with Angular CLI & Nrwl Nx
     lang: en
     type: regular
-    level:
     time: 2019-01-11 10:00:00
     room:
     authors:
@@ -259,7 +245,6 @@ talks:
   - title: Leveraging Angular-Based Frameworks for AI-Driven Testing
     lang: en
     type: regular
-    level:
     time: 2019-01-11 11:00:00
     room:
     authors:
@@ -276,7 +261,6 @@ talks:
   - title: 'Dependency Injection in Nest and Angular: Intersection & Mismatch'
     lang: en
     type: regular
-    level:
     time: 2019-01-11 11:30:00
     room:
     authors:
@@ -293,7 +277,6 @@ talks:
   - title: GraphQL-Anywhere - How GraphQL can improve your work across all of your stack
     lang: en
     type: regular
-    level:
     time: 2019-01-11 12:00:00
     room:
     authors:
@@ -310,7 +293,6 @@ talks:
   - title: Scale or Fail - The Secret to a Successful Career
     lang: en
     type: regular
-    level:
     time: 2019-01-11 13:30:00
     room:
     authors:
@@ -327,7 +309,6 @@ talks:
   - title: 'A/B and see: Improving User Experience with Experimentation'
     lang: en
     type: regular
-    level:
     time: 2019-01-11 17:00:00
     room:
     authors:

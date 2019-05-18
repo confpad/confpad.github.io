@@ -21,7 +21,6 @@ talks:
   - title: Mentoring" Being the help you wish you'd had"
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: The Future of JavaScript & Machine Learning
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Practical Web Animation
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Is it possible to build a truly diverse community?
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Back to the future of JS the next features and amazing proposals
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Dear Developer, the Web Isn't About You
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Using a Modern Web to Recreate 1980s Horribly Slow & Loud Loading Screens
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Weird Web & Curious Creation
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:

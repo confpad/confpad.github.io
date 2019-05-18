@@ -21,7 +21,6 @@ talks:
   - title: LET'S TEST THAT ADDON!
     lang: en
     type: regular
-    level:
     time: 2018-03-12 13:30:00
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: 'PIXEL BY PIXEL: VISUAL REGRESSION TESTING IN EMBER'
     lang: en
     type: regular
-    level:
     time: 2018-03-12 14:10:00
     room:
     authors:
@@ -53,7 +51,6 @@ talks:
   - title: FAIL AT MAINTAINING YOUR FIRST OSS PROJECT IN 3 EASY STEPS!
     lang: en
     type: regular
-    level:
     time: 2018-03-14 14:50:00
     room:
     authors:
@@ -69,7 +66,6 @@ talks:
   - title: PAIR PROGRAMMING AS A MECHANISM FOR GROWTH
     lang: en
     type: regular
-    level:
     time: 2018-03-14 15:30:00
     room:
     authors:
@@ -85,7 +81,6 @@ talks:
   - title: 'THE CHIRPOLITH: SUCCESSFULLY MIGRATING A MESSY APP TO EMBER'
     lang: en
     type: regular
-    level:
     time: 2018-03-14 16:10:00
     room:
     authors:
@@ -101,7 +96,6 @@ talks:
   - title: Opening Keynote
     lang: en
     type: regular
-    level:
     time: 2018-03-13 09:30:00
     room:
     authors:
@@ -122,7 +116,6 @@ talks:
   - title: 'Ambitious for All: Accessibility in Ember'
     lang: en
     type: regular
-    level:
     time: 2018-03-13 10:45:00
     room:
     authors:
@@ -139,7 +132,6 @@ talks:
   - title: Everything they didn’t tell you about the Ember Community
     lang: en
     type: regular
-    level:
     time: 2018-03-13 11:30:00
     room:
     authors:
@@ -156,7 +148,6 @@ talks:
   - title: The Next Generation of Testing
     lang: en
     type: regular
-    level:
     time: 2018-03-13 13:30:00
     room:
     authors:
@@ -173,7 +164,6 @@ talks:
   - title: Say More
     lang: en
     type: regular
-    level:
     time: 2018-03-13 14:15:00
     room:
     authors:
@@ -190,7 +180,6 @@ talks:
   - title: Who Moved My Cheese? Ember's New Filesystem
     lang: en
     type: regular
-    level:
     time: 2018-03-13 15:00:00
     room:
     authors:
@@ -207,7 +196,6 @@ talks:
   - title: Mastering the Art of Forms
     lang: en
     type: regular
-    level:
     time: 2018-03-13 16:00:00
     room:
     authors:
@@ -224,7 +212,6 @@ talks:
   - title: 'How To Build A Bonfire: On Training and Hiring New Devs'
     lang: en
     type: regular
-    level:
     time: 2018-03-13 16:45:00
     room:
     authors:
@@ -241,7 +228,6 @@ talks:
   - title: Living Animation
     lang: en
     type: regular
-    level:
     time: 2018-03-13 17:30:00
     room:
     authors:
@@ -258,7 +244,6 @@ talks:
   - title: The Future of Data in Ember
     lang: en
     type: regular
-    level:
     time: 2018-03-14 09:45:00
     room:
     authors:
@@ -275,7 +260,6 @@ talks:
   - title: Smartphone Symphony
     lang: en
     type: regular
-    level:
     time: 2018-03-14 10:45:00
     room:
     authors:
@@ -292,7 +276,6 @@ talks:
   - title: 'Reuse, Recycle: One Team’s Journey from Projects to Products'
     lang: en
     type: regular
-    level:
     time: 2018-03-14 11:30:00
     room:
     authors:
@@ -309,7 +292,6 @@ talks:
   - title: Deep Dive on Ember Events
     lang: en
     type: regular
-    level:
     time: 2018-03-14 13:30:00
     room:
     authors:
@@ -326,7 +308,6 @@ talks:
   - title: Building a Memex in Ember
     lang: en
     type: regular
-    level:
     time: 2018-03-14 14:15:00
     room:
     authors:
@@ -343,7 +324,6 @@ talks:
   - title: Prying Open the Black Box
     lang: en
     type: regular
-    level:
     time: 2018-03-14 15:00:00
     room:
     authors:
@@ -360,7 +340,6 @@ talks:
   - title: INTRODUCTIONS AND PREAMBLE
     lang: en
     type: lightning
-    level:
     time: 2018-03-14 16:00:00
     room:
     authors:
@@ -376,7 +355,6 @@ talks:
   - title: CONTRIBUTOR RALLY
     lang: en
     type: lightning
-    level:
     time: 2018-03-14 16:05:00
     room:
     authors:
@@ -393,7 +371,6 @@ talks:
   - title: TOYOTA'S SHARED COMPONENT LIBRARY
     lang: en
     type: lightning
-    level:
     time: 2018-03-14 16:10:00
     room:
     authors:
@@ -410,7 +387,6 @@ talks:
   - title: LIGHTING THOUGHTS ON LIGHTING DEPLOY
     lang: en
     type: lightning
-    level:
     time: 2018-03-14 16:15:00
     room:
     authors:
@@ -427,7 +403,6 @@ talks:
   - title: EMBER-CLI ADDONS
     lang: en
     type: lightning
-    level:
     time: 2018-03-14 16:20:00
     room:
     authors:
@@ -444,7 +419,6 @@ talks:
   - title: LET ME EMBER THIS FOR YOU
     lang: en
     type: lightning
-    level:
     time: 2018-03-14 16:25:00
     room:
     authors:
@@ -461,7 +435,6 @@ talks:
   - title: Creating fluid app-like experiences with Ember
     lang: en
     type: regular
-    level:
     time: 2018-03-14 16:45:00
     room:
     authors:
@@ -478,7 +451,6 @@ talks:
   - title: Closing Keynote
     lang: en
     type: regular
-    level:
     time: 2018-03-14 17:30:00
     room:
     authors:

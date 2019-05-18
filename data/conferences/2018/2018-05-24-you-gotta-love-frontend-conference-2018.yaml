@@ -21,7 +21,6 @@ talks:
   - title: KEYNOTE. EVEN MORE CSS SECRETS
     lang: en
     type: regular
-    level:
     time: 2018-05-24 11:30:00
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: JOURNEY THROUGH VR AND AR WITH REACT
     lang: en
     type: regular
-    level:
     time: 2018-05-24 12:30:00
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: GRAPHQL CLIENTS
     lang: en
     type: regular
-    level:
     time: 2018-05-24 13:40:00
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: 'EAST MEETS WEST: WEB TYPOGRAPHY AND MODERN LAYOUTS'
     lang: en
     type: regular
-    level:
     time: 2018-05-24 14:20:00
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: 'JAVASCRIPT: THE FAIRLY ODD PARTS'
     lang: en
     type: regular
-    level:
     time: 2018-05-24 16:30:00
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: CSS TRICKS YOU GOTTA LOVE
     lang: en
     type: regular
-    level:
     time: 2018-05-24 16:40:00
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: 100% KOTLIN FRONTEND
     lang: en
     type: regular
-    level:
     time: 2018-05-24 16:50:00
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: 'REACT NATIVE: NEW AGE HACK OR STONE AGE TOOL?'
     lang: en
     type: regular
-    level:
     time: 2018-05-24 17:00:00
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: USING NEW WEB APIS FOR YOUR OWN PLEASURE
     lang: en
     type: regular
-    level:
     time: 2018-05-24 17:10:00
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: WEBASSEMBLY AS CROSS-PLATFORM ARCHITECTURE
     lang: en
     type: regular
-    level:
     time: 2018-05-24 17:20:00
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: 'MINING CRYPTO IN BROWSER: GPU, WEBASSEMBLY, JAVASCRIPT AND ALL THE GOOD THINGS TO TRY'
     lang: en
     type: regular
-    level:
     time: 2018-05-24 18:30:00
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: CASE STUDY - REACT FINLAND
     lang: en
     type: regular
-    level:
     time: 2018-05-24 19:10:00
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: THE BUMPY ROAD TO UNIVERSAL JAVASCRIPT
     lang: en
     type: regular
-    level:
     time: 2018-05-25 11:20:00
     room:
     authors:
@@ -242,7 +229,6 @@ talks:
   - title: WRITING VIRTUAL AND AUGMENTED REALITY APPS WITH WEB TECHNOLOGY
     lang: en
     type: regular
-    level:
     time: 2018-05-25 12:00:00
     room:
     authors:
@@ -259,7 +245,6 @@ talks:
   - title: INTERVIEW SESSION WITH LEA VEROU
     lang: en
     type: regular
-    level:
     time: 2018-05-25 12:40:00
     room:
     authors:
@@ -275,7 +260,6 @@ talks:
   - title: BUILD YOUR OWN WEBPACK (LIVE CODING AN ULTRA-SIMPLIFIED EXAMPLE OF A MODERN MODULE BUNDLER IN JAVASCRIPT)
     lang: en
     type: regular
-    level:
     time: 2018-05-25 13:20:00
     room:
     authors:
@@ -292,7 +276,6 @@ talks:
   - title: 'BRAVE NEW WORLD: MOVING ON TO ES201X'
     lang: en
     type: regular
-    level:
     time: 2018-05-25 14:00:00
     room:
     authors:
@@ -309,7 +292,6 @@ talks:
   - title: INTERVIEW SESSION WITH VITALY FRIEDMAN
     lang: en
     type: regular
-    level:
     time: 2018-05-25 14:40:00
     room:
     authors:
@@ -325,7 +307,6 @@ talks:
   - title: WRITING BOTS FOR GITHUB
     lang: en
     type: regular
-    level:
     time: 2018-05-25 16:20:00
     room:
     authors:
@@ -342,7 +323,6 @@ talks:
   - title: 'PARCEL — BUNDLER: NEW KID ON THE BLOCK (ZERO CONFIG COMPARISON WITH WEBPACK 4)'
     lang: en
     type: regular
-    level:
     time: 2018-05-25 16:30:00
     room:
     authors:
@@ -359,7 +339,6 @@ talks:
   - title: DEVTOOLS TIPS AND TRICKS
     lang: en
     type: regular
-    level:
     time: 2018-05-25 16:40:00
     room:
     authors:
@@ -375,7 +354,6 @@ talks:
   - title: YOU GOTTA LOVE RX
     lang: en
     type: regular
-    level:
     time: 2018-05-25 16:50:00
     room:
     authors:
@@ -392,7 +370,6 @@ talks:
   - title: 'A COMMON DESIGN LANGUAGE: LET DESIGNERS & DEVELOPERS TALK TO EACH OTHER'
     lang: en
     type: regular
-    level:
     time: 2018-05-25 17:00:00
     room:
     authors:
@@ -409,7 +386,6 @@ talks:
   - title: INTERVIEW SESSION WITH HUI JING
     lang: en
     type: regular
-    level:
     time: 2018-05-25 17:40:00
     room:
     authors:
@@ -425,7 +401,6 @@ talks:
   - title: KEYNOTE. NEW ADVENTURES IN FRONT-END, SEASON 2
     lang: en
     type: regular
-    level:
     time: 2018-05-25 18:20:00
     room:
     authors:

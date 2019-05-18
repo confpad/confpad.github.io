@@ -21,7 +21,6 @@ talks:
   - title: Introduction to Web Security
     lang: en
     type: regular
-    level:
     time: 2018-04-21
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: Native Web Animation
     lang: en
     type: regular
-    level:
     time: 2018-04-21
     room:
     authors:
@@ -53,7 +51,6 @@ talks:
   - title: Micro Frontends
     lang: en
     type: regular
-    level:
     time: 2018-04-21
     room:
     authors:
@@ -73,7 +70,6 @@ talks:
   - title: preconnect, prefetch, preload, pre what? An intro to Resource Hints
     lang: en
     type: regular
-    level:
     time: 2018-04-21
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: How hard can it be! Practical uses of complexity theory
     lang: en
     type: regular
-    level:
     time: 2018-04-21
     room:
     authors:
@@ -105,7 +100,6 @@ talks:
   - title: Machine Learning in the Browser
     lang: en
     type: regular
-    level:
     time: 2018-04-21
     room:
     authors:
@@ -121,7 +115,6 @@ talks:
   - title: Down the SVG Rabbit Hole
     lang: en
     type: regular
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -137,7 +130,6 @@ talks:
   - title: Houdini the new CSS Magic
     lang: en
     type: regular
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -153,7 +145,6 @@ talks:
   - title: High Performance Web Fonts
     lang: en
     type: regular
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -169,7 +160,6 @@ talks:
   - title: Putting WebAssembly in your web app today!
     lang: en
     type: regular
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -185,7 +175,6 @@ talks:
   - title: The importance of taking a break
     lang: en
     type: lightning
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -201,7 +190,6 @@ talks:
   - title: AV1
     lang: en
     type: lightning
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -217,7 +205,6 @@ talks:
   - title: Hacking create react app to use preact
     lang: en
     type: lightning
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -233,7 +220,6 @@ talks:
   - title: Health, mental health and what not
     lang: en
     type: lightning
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -249,7 +235,6 @@ talks:
   - title: Punchcard coding with CSS
     lang: en
     type: lightning
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -265,7 +250,6 @@ talks:
   - title: The algorithmic beauty of plants
     lang: en
     type: lightning
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -281,7 +265,6 @@ talks:
   - title: A word from an organizer
     lang: en
     type: lightning
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -297,7 +280,6 @@ talks:
   - title: In app browsers
     lang: en
     type: lightning
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -313,7 +295,6 @@ talks:
   - title: Check your links with hyperlink
     lang: en
     type: lightning
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -329,7 +310,6 @@ talks:
   - title: The importance of cross cultural competency
     lang: en
     type: lightning
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -345,7 +325,6 @@ talks:
   - title: Think outside the box
     lang: en
     type: lightning
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -361,7 +340,6 @@ talks:
   - title: Turning wireframes into code
     lang: en
     type: regular
-    level:
     time: 2018-04-21
     room:
     authors:
@@ -377,7 +355,6 @@ talks:
   - title: World domination
     lang: en
     type: regular
-    level:
     time: 2018-04-21
     room:
     authors:
@@ -393,7 +370,6 @@ talks:
   - title: (Web) Hooked on a feeling with Serverless
     lang: en
     type: regular
-    level:
     time: 2018-04-21
     room:
     authors:
@@ -409,7 +385,6 @@ talks:
   - title: Accelerating talent through community bootcamps
     lang: en
     type: regular
-    level:
     time: 2018-04-21
     room:
     authors:
@@ -425,7 +400,6 @@ talks:
   - title: lerna - migrate your package zoo to a monorepo
     lang: en
     type: regular
-    level:
     time: 2018-04-21
     room:
     authors:
@@ -441,7 +415,6 @@ talks:
   - title: Web accessibility
     lang: en
     type: regular
-    level:
     time: 2018-04-21
     room:
     authors:
@@ -457,7 +430,6 @@ talks:
   - title: Screenshot Tests
     lang: en
     type: regular
-    level:
     time: 2018-04-22
     room:
     authors:
@@ -473,7 +445,6 @@ talks:
   - title: Handling and validating user input in a react app
     lang: en
     type: regular
-    level:
     time: 2018-04-22
     room:
     authors:

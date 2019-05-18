@@ -21,7 +21,6 @@ talks:
   - title: Keynote address
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: VS Code Can Do That
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -56,7 +54,6 @@ talks:
   - title: Automating UI development
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -78,7 +75,6 @@ talks:
   - title: How to save time & money by planning your ngUpgrade
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -95,7 +91,6 @@ talks:
   - title: RxJS schedulers in depth
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -113,7 +108,6 @@ talks:
   - title: How to AI in JS?
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -130,7 +124,6 @@ talks:
   - title: The good, the bad and the ugly - Component architecture at scale
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -152,7 +145,6 @@ talks:
   - title: You Might Not Need NgRx
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -169,7 +161,6 @@ talks:
   - title: Universally speaking
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -187,7 +178,6 @@ talks:
   - title: Upgrading to Angular without ngUpgrade
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -205,7 +195,6 @@ talks:
   - title: Optimize and debug change detection like a pro
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -222,7 +211,6 @@ talks:
   - title: Why you need a build system, and why it should be Bazel
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -239,7 +227,6 @@ talks:
   - title: Nest the backend for your Angular application
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -257,7 +244,6 @@ talks:
   - title: Testing Angular with Cypress.io
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -274,7 +260,6 @@ talks:
   - title: The differences between ElementRef, TemplateRef, ViewContainerRef
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -296,7 +281,6 @@ talks:
   - title: Building an Angular PWA Angular Service Worker or Workbox?
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -314,7 +298,6 @@ talks:
   - title: Location based immersive experiences with Angular and WebXR
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -331,7 +314,6 @@ talks:
   - title: Angular Testing In TDD - Writing a Feature Guided By a Responsible Maniac
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -348,7 +330,6 @@ talks:
   - title: Lightening Talk
     lang: en
     type: lightning
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -376,7 +357,6 @@ talks:
   - title: The theory of Angular Ivy
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -393,7 +373,6 @@ talks:
   - title: Angular Ivy by example
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -410,7 +389,6 @@ talks:
   - title: Automate G Suite with Apps Script and Angular
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -427,7 +405,6 @@ talks:
   - title: Migrating from AngularJS to Angular
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -444,7 +421,6 @@ talks:
   - title: Dynamic reactive forms with GraphQL
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -462,7 +438,6 @@ talks:
   - title: Climbing up injector trees
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -484,7 +459,6 @@ talks:
   - title: The life of an Angular pull request
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -502,7 +476,6 @@ talks:
   - title: Architectures for huge Angular based enterprise applications npm Packages, Monorepos and Micro Apps
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -519,7 +492,6 @@ talks:
   - title: White-labeling & A/B testing with interchangeable components
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -537,7 +509,6 @@ talks:
   - title: The CLI Roadmap
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -555,7 +526,6 @@ talks:
   - title: It’s alive! Dino-mic components in Angular
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -572,7 +542,6 @@ talks:
   - title: Runtime i18n with Ivy
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -590,7 +559,6 @@ talks:
   - title: Crossing Across Platforms
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:

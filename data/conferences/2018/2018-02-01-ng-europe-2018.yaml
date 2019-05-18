@@ -21,7 +21,6 @@ talks:
   - title: 'webpack 4: The most important update for Angular'
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: 'Through the Sound Barrier: High-Performance Apps with Angular'
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: 'Angular Architecture: From Patterns to Implementation'
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Rapid prototyping using Angular and Firebase
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: 'On the road to PWAs: building real cross-platform ng apps with Cordova & Electron'
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Progressive Web Apps with Angular and Firebase
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: How to hack an Angular app?
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Boost Your App's Emotional Intelligence w/ NativeScript, Angular & Machine Learning
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: Let's compose JavaScript and Reason
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: Creating Beautiful Experiences Fast with Angular Material
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: 'A look into the future: Angular Elements'
     lang: en
     type: lightning
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: 'Next Generation Ionic: Built for PWAs and interoperability'
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: Why I'm Excited About Angular for 2018 and 2038
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -241,7 +228,6 @@ talks:
   - title: 'When small is better: Brotli compression in a real case'
     lang: en
     type: lightning
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -257,7 +243,6 @@ talks:
   - title: To Vue or not Vue, that is the question
     lang: en
     type: lightning
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -273,7 +258,6 @@ talks:
   - title: '@angular/cli to install 3rd-party libraries'
     lang: en
     type: lightning
-    level:
     time: 2018-02-02
     room:
     authors:

@@ -21,7 +21,6 @@ talks:
   - title: A CSS Carol
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: FaCSSt—CSS and Performance
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: Data Sketches | A year of exotic data visualizations
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:
@@ -74,7 +71,6 @@ talks:
   - title: Let's Get Chatty with Conversational Interface in JavaScript
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:
@@ -92,7 +88,6 @@ talks:
   - title: Teach Your Bundler The Users' Habits
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:
@@ -110,7 +105,6 @@ talks:
   - title: How to hack a web app?
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:
@@ -127,7 +121,6 @@ talks:
   - title: Serving for the win - Deploys and hosting for the rest of us
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:
@@ -145,7 +138,6 @@ talks:
   - title: Reducing the friction of online payments
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:
@@ -163,7 +155,6 @@ talks:
   - title: Escaping the Sandbox with Puck.js
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:
@@ -180,7 +171,6 @@ talks:
   - title: Common ways we break accessibility and how to avoid them
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:
@@ -197,7 +187,6 @@ talks:
   - title: Creating IoT applications with Web Bluetooth
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:
@@ -215,7 +204,6 @@ talks:
   - title: Physical interfaces for digital applications
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:
@@ -232,7 +220,6 @@ talks:
   - title: WebAssembly as cross-platform architecture?!
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:
@@ -250,7 +237,6 @@ talks:
   - title: DevTools and Headless Chrome - The Automation Power-Couple
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:
@@ -268,7 +254,6 @@ talks:
   - title: Delivering fast and beautiful images and video
     lang: en
     type: regular
-    level:
     time: 2018-03-23
     room: Thames Hall
     authors:

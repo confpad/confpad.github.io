@@ -21,7 +21,6 @@ talks:
   - title: coffee.js? How I hacked my coffee machine
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: vue.js and vuex, an introduction
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -53,7 +51,6 @@ talks:
   - title: Alpha2048 - how I taught my computer to play 1024
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -69,7 +66,6 @@ talks:
   - title: Styling React Components
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -84,7 +80,6 @@ talks:
   - title: How to mess up talking on a stage
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -100,7 +95,6 @@ talks:
   - title: Browser Security in 2017
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -116,7 +110,6 @@ talks:
   - title: React + Redux + TypeScript
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -131,7 +124,6 @@ talks:
   - title: How close is far aka working in a remote team
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -146,7 +138,6 @@ talks:
   - title: How browsers work?
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -162,7 +153,6 @@ talks:
   - title: Micro Frontends - Building a modern webapp with multiple teams
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -178,7 +168,6 @@ talks:
   - title: Measuring Web Performance - Metrics & Tools
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -195,7 +184,6 @@ talks:
   - title: 'React-Native: Tipps & Tricks for building your first native app'
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -210,7 +198,6 @@ talks:
   - title: Reactive Micro Services
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -225,7 +212,6 @@ talks:
   - title: 7 web technologies you might not know yet
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -241,7 +227,6 @@ talks:
   - title: twist your head - RxJS
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -256,7 +241,6 @@ talks:
   - title: Awesome serverless JS cloud microservices
     lang: en
     type: regular
-    level:
     time: 2017-03-25
     room:
     authors:
@@ -271,7 +255,6 @@ talks:
   - title: Understanding Neural Networks with TensorFlow Playground
     lang: en
     type: regular
-    level:
     time: 2017-03-26
     room:
     authors:
@@ -287,7 +270,6 @@ talks:
   - title: You too can build games
     lang: en
     type: regular
-    level:
     time: 2017-03-26
     room:
     authors:
@@ -302,7 +284,6 @@ talks:
   - title: Minesweeper, the obvious thing to build with a launchpad and WebMIDI
     lang: en
     type: regular
-    level:
     time: 2017-03-26
     room:
     authors:
@@ -318,7 +299,6 @@ talks:
   - title: Just another ECMAScript Trait Syntax Proposal
     lang: en
     type: regular
-    level:
     time: 2017-03-26
     room:
     authors:
@@ -334,7 +314,6 @@ talks:
   - title: Just another ECMAScript Trait Syntax ProposalStop breaking the web and start building server-rendered web apps using next.js
     lang: en
     type: regular
-    level:
     time: 2017-03-26
     room:
     authors:
@@ -350,7 +329,6 @@ talks:
   - title: Comparing Redux and MobX by looking at code
     lang: en
     type: regular
-    level:
     time: 2017-03-26
     room:
     authors:
@@ -365,7 +343,6 @@ talks:
   - title: Wanna have an awesome team? Invest time
     lang: en
     type: regular
-    level:
     time: 2017-03-26
     room:
     authors:
@@ -380,7 +357,6 @@ talks:
   - title: There will be grid
     lang: en
     type: regular
-    level:
     time: 2017-03-26
     room:
     authors:
@@ -397,7 +373,6 @@ talks:
   - title: Testing Discussion. Demo of unexpected + unexpected react
     lang: en
     type: regular
-    level:
     time: 2017-03-26
     room:
     authors:
@@ -412,7 +387,6 @@ talks:
   - title: Choosing a frontend framework - A business perspective
     lang: en
     type: regular
-    level:
     time: 2017-03-26
     room:
     authors:

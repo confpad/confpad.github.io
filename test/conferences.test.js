@@ -19,10 +19,9 @@ const INFO_LOCATION_KEYS = ['country', 'city'];
 
 
 // Conference talk
-const TALK_ROOT_KEYS = ['title', 'lang', 'type', 'level', 'time', 'room', 'authors', 'slides', 'videos', 'description'];
+const TALK_ROOT_KEYS = ['title', 'lang', 'type', 'time', 'room', 'authors', 'slides', 'videos', 'description'];
 const TALK_AUTHOR_KEYS = ['name', 'twitter', 'github', 'website'];
 const TALK_TYPES = ['regular', 'lightning', 'workshop'];
-const TALK_LEVELS = ['beginner', 'intermediate', 'advanced'];
 
 let year;
 let testGlob = '{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conference.yaml}';
@@ -128,10 +127,6 @@ glob.sync(testGlob).forEach(file => {
 
       it('contains valid type', () => {
         expect(TALK_TYPES).toContain(talk.type);
-      });
-
-      it('contains valid level if any', () => {
-        talk.level && expect(TALK_LEVELS).toContain(talk.level);
       });
 
       it('contains valid time', () => {

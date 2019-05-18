@@ -21,7 +21,6 @@ talks:
   - title: Building Foundations of the Node.js Community
     lang: en
     type: regular
-    level:
     time: 2018-10-06 09:40:00
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: 'Fast but not furious: debugging user interaction performance issues'
     lang: en
     type: regular
-    level:
     time: 2018-10-06 10:10:00
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: WebAssembly as cross-platform architecture?!
     lang: en
     type: regular
-    level:
     time: 2018-10-06 11:10:00
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Magic Tricks with Houdini
     lang: en
     type: regular
-    level:
     time: 2018-10-06 11:40:00
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: regular
-    level:
     time: 2018-10-06 12:10:00
     room:
     authors:
@@ -105,7 +100,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: regular
-    level:
     time: 2018-10-06 12:15:00
     room:
     authors:
@@ -121,7 +115,6 @@ talks:
   - title: Can you tell me if your Node app is healthy?
     lang: en
     type: regular
-    level:
     time: 2018-10-06 13:45:00
     room:
     authors:
@@ -138,7 +131,6 @@ talks:
   - title: Manage your styles as it's 2018
     lang: en
     type: regular
-    level:
     time: 2018-10-06 14:15:00
     room:
     authors:
@@ -155,7 +147,6 @@ talks:
   - title: Corrections and Constructive Criticism
     lang: en
     type: regular
-    level:
     time: 2018-10-06 15:00:00
     room:
     authors:
@@ -172,7 +163,6 @@ talks:
   - title: Building a Design System in React
     lang: en
     type: regular
-    level:
     time: 2018-10-06 15:15:00
     room:
     authors:
@@ -189,7 +179,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: regular
-    level:
     time: 2018-10-06 15:45:00
     room:
     authors:
@@ -205,7 +194,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: regular
-    level:
     time: 2018-10-06 15:50:00
     room:
     authors:
@@ -221,7 +209,6 @@ talks:
   - title: Look mum, no hands!
     lang: en
     type: regular
-    level:
     time: 2018-10-06 16:30:00
     room:
     authors:
@@ -238,7 +225,6 @@ talks:
   - title: Powerful Automation with the Chrome DevTools Protocol
     lang: en
     type: regular
-    level:
     time: 2018-10-06 17:00:00
     room:
     authors:
@@ -255,7 +241,6 @@ talks:
   - title: 'Node.js: The Road to Workers'
     lang: en
     type: regular
-    level:
     time: 2018-10-07 09:40:00
     room:
     authors:
@@ -272,7 +257,6 @@ talks:
   - title: 'The Matrix is Everywhere: A Primer on Projections in Web Graphics'
     lang: en
     type: regular
-    level:
     time: 2018-10-07 10:10:00
     room:
     authors:
@@ -289,7 +273,6 @@ talks:
   - title: Accessible by law! Generating colors with JS and CSS Custom Properties
     lang: en
     type: regular
-    level:
     time: 2018-10-07 11:10:00
     room:
     authors:
@@ -306,7 +289,6 @@ talks:
   - title: Why we built another framework
     lang: en
     type: regular
-    level:
     time: 2018-10-07 11:25:00
     room:
     authors:
@@ -323,7 +305,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: regular
-    level:
     time: 2018-10-07 11:55:00
     room:
     authors:
@@ -339,7 +320,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: regular
-    level:
     time: 2018-10-07 12:00:00
     room:
     authors:
@@ -355,7 +335,6 @@ talks:
   - title: Achieving Secure Software through Redesign
     lang: en
     type: regular
-    level:
     time: 2018-10-07 13:20:00
     room:
     authors:
@@ -372,7 +351,6 @@ talks:
   - title: Using TypeScript with Redux Architecture
     lang: en
     type: regular
-    level:
     time: 2018-10-07 13:50:00
     room:
     authors:
@@ -389,7 +367,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: regular
-    level:
     time: 2018-10-07 14:20:00
     room:
     authors:
@@ -405,7 +382,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: regular
-    level:
     time: 2018-10-07 14:25:00
     room:
     authors:
@@ -421,7 +397,6 @@ talks:
   - title: 'Empathy Driven Development: Boosting performance by implementing for unfavorable conditions'
     lang: en
     type: regular
-    level:
     time: 2018-10-07 15:00:00
     room:
     authors:
@@ -438,7 +413,6 @@ talks:
   - title: Headers for Hackers
     lang: en
     type: regular
-    level:
     time: 2018-10-07 15:30:00
     room:
     authors:
@@ -455,7 +429,6 @@ talks:
   - title: Connecting JavaScript to the Blockchain
     lang: en
     type: regular
-    level:
     time: 2018-10-07 16:00:00
     room:
     authors:
@@ -472,7 +445,6 @@ talks:
   - title: The Life of a JavaScript Feature in V8 ft. TypedArrays
     lang: en
     type: regular
-    level:
     time: 2018-10-07 17:10:00
     room:
     authors:

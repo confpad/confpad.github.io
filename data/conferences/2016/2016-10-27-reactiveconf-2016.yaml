@@ -21,7 +21,6 @@ talks:
   - title: How the web ecosystem shaped Angular 2
     lang: en
     type: regular
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Testing the way it should be
     lang: en
     type: regular
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: The Age of Reason(ML)
     lang: en
     type: regular
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Living in an async world of React Native
     lang: en
     type: regular
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: What's Next? Exploring the future of React
     lang: en
     type: regular
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Speed up app development with prefabricated, extensible, open-source backends
     lang: en
     type: regular
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Paradigms for dealing with asynchrony
     lang: en
     type: regular
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Optimistic updates in a pessimistic world
     lang: en
     type: regular
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: Past and future of client-side routing
     lang: en
     type: regular
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: Elm and React in production
     lang: en
     type: regular
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: Reducing Redux Boilerplate
     lang: en
     type: lightning
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: An API search engine in Elm for Elm
     lang: en
     type: lightning
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: React is the new Lego - how we deal with a lot of components
     lang: en
     type: lightning
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -242,7 +229,6 @@ talks:
   - title: Rich text editing with DraftJS Plugins
     lang: en
     type: lightning
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -259,7 +245,6 @@ talks:
   - title: A Life on a Commandline
     lang: en
     type: lightning
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -276,7 +261,6 @@ talks:
   - title: Reconceptualize your entire app as a function
     lang: en
     type: lightning
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -293,7 +277,6 @@ talks:
   - title: Thinking metrics on React applications
     lang: en
     type: lightning
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -310,7 +293,6 @@ talks:
   - title: Styling in React
     lang: en
     type: lightning
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -327,7 +309,6 @@ talks:
   - title: Markdown + React = 💙
     lang: en
     type: lightning
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -344,7 +325,6 @@ talks:
   - title: Road from UndefinedLand
     lang: en
     type: lightning
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -361,7 +341,6 @@ talks:
   - title: With good naming convention, CSS works pretty well
     lang: en
     type: lightning
-    level:
     time: 2016-10-27
     room:
     authors:
@@ -378,7 +357,6 @@ talks:
   - title: 'Styled-components: Styled-components Enforcing best practices'
     lang: en
     type: regular
-    level:
     time: 2016-10-28
     room:
     authors:
@@ -395,7 +373,6 @@ talks:
   - title: Building validated forms with great UX in React
     lang: en
     type: regular
-    level:
     time: 2016-10-28
     room:
     authors:
@@ -412,7 +389,6 @@ talks:
   - title: The Universality of Static Sites
     lang: en
     type: regular
-    level:
     time: 2016-10-28
     room:
     authors:
@@ -429,7 +405,6 @@ talks:
   - title: Visualizing the data flow with Cycle.js
     lang: en
     type: regular
-    level:
     time: 2016-10-28
     room:
     authors:
@@ -446,7 +421,6 @@ talks:
   - title: Writing Sound Asynchronous Code with Coroutines
     lang: en
     type: regular
-    level:
     time: 2016-10-28
     room:
     authors:
@@ -463,7 +437,6 @@ talks:
   - title: Immer-mutable state management
     lang: en
     type: regular
-    level:
     time: 2016-10-28
     room:
     authors:
@@ -480,7 +453,6 @@ talks:
   - title: Building Universal Windows Apps with React Native
     lang: en
     type: regular
-    level:
     time: 2016-10-28
     room:
     authors:
@@ -497,7 +469,6 @@ talks:
   - title: Building better mobile apps with GraphQL
     lang: en
     type: regular
-    level:
     time: 2016-10-28
     room:
     authors:
@@ -514,7 +485,6 @@ talks:
   - title: 'Bridging the Gap: How to use React Native in existing large native code bases'
     lang: en
     type: regular
-    level:
     time: 2016-10-28
     room:
     authors:
@@ -531,7 +501,6 @@ talks:
   - title: No Xcode, Android Studio, Java, Swift, Objective C - how far can JavaScript get you?
     lang: en
     type: regular
-    level:
     time: 2016-10-28
     room:
     authors:
@@ -548,7 +517,6 @@ talks:
   - title: Through the Looking Glass
     lang: en
     type: regular
-    level:
     time: 2016-10-28
     room:
     authors:

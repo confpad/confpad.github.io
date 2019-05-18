@@ -21,7 +21,6 @@ talks:
   - title: The First Minutes of Design
     lang: en
     type: regular
-    level:
     time: 2018-06-26 09:50:00
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: CSS (Variable) Secrets
     lang: en
     type: regular
-    level:
     time: 2018-06-26 10:40:00
     room:
     authors:
@@ -54,7 +52,6 @@ talks:
   - title: Building an SVG Animation from Start to Finish
     lang: en
     type: regular
-    level:
     time: 2018-06-26 12:00:00
     room:
     authors:
@@ -71,7 +68,6 @@ talks:
   - title: Performance Audit (Live)
     lang: en
     type: regular
-    level:
     time: 2018-06-26 12:50:00
     room:
     authors:
@@ -88,7 +84,6 @@ talks:
   - title: Applying Psychology And 13 Years Of UX To Get The Details Right And Leapfrog The Competition
     lang: en
     type: regular
-    level:
     time: 2018-06-26 15:10:00
     room:
     authors:
@@ -105,7 +100,6 @@ talks:
   - title: on You can sketch. (You might just not know it yet.)
     lang: en
     type: regular
-    level:
     time: 2018-06-26 16:00:00
     room:
     authors:
@@ -122,7 +116,6 @@ talks:
   - title: Designing Across Cultures
     lang: en
     type: regular
-    level:
     time: 2018-06-26 17:20:00
     room:
     authors:
@@ -139,7 +132,6 @@ talks:
   - title: Things That Don't Have A Thing To Do With Graphic Design
     lang: en
     type: regular
-    level:
     time: 2018-06-26 18:10:00
     room:
     authors:
@@ -155,7 +147,6 @@ talks:
   - title: Third-Party Performance Auditing
     lang: en
     type: regular
-    level:
     time: 2018-06-27 09:40:00
     room:
     authors:
@@ -172,7 +163,6 @@ talks:
   - title: From Icon Fonts To SVG; Workflow, Tools, Techniques And Everything In Between
     lang: en
     type: regular
-    level:
     time: 2018-06-27 10:30:00
     room:
     authors:
@@ -188,7 +178,6 @@ talks:
   - title: Accessibility Audit (Live)
     lang: en
     type: regular
-    level:
     time: 2018-06-27 11:50:00
     room:
     authors:
@@ -205,7 +194,6 @@ talks:
   - title: Beyond Fonts, Elevating Lettering to Art
     lang: en
     type: regular
-    level:
     time: 2018-06-27 12:40:00
     room:
     authors:
@@ -221,7 +209,6 @@ talks:
   - title: Creating An Effective & Beautiful Data Visualization From Scratch
     lang: en
     type: regular
-    level:
     time: 2018-06-27 15:00:00
     room:
     authors:
@@ -238,7 +225,6 @@ talks:
   - title: Pattern Library First, An Approach For Managing CSS
     lang: en
     type: regular
-    level:
     time: 2018-06-27 15:50:00
     room:
     authors:
@@ -255,7 +241,6 @@ talks:
   - title: JavaScript Graphics and Animation (live)
     lang: en
     type: regular
-    level:
     time: 2018-06-27 17:10:00
     room:
     authors:

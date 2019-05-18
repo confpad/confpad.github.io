@@ -21,7 +21,6 @@ talks:
   - title: Design in the Era of the Algorithm
     lang: en
     type: regular
-    level:
     time: 2018-08-30 10:00:00
     room: FL 1 Folium
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: New Adventures In Front-End, Season 2
     lang: en
     type: regular
-    level:
     time: 2018-08-30 11:00:00
     room: FL 1 Folium
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Designing the Future, with Voice
     lang: en
     type: regular
-    level:
     time: 2018-08-30 11:00:00
     room: FL 2 Papiersaal
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Closing the gap between design and code
     lang: en
     type: regular
-    level:
     time: 2018-08-30 13:00:00
     room: FL 1 Folium
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Unlocking the Power of CSS Grid Layout
     lang: en
     type: regular
-    level:
     time: 2018-08-30 13:00:00
     room: FL 2 Papiersaal
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Serverless, backend thing that gives superpowers to frontend developers
     lang: en
     type: regular
-    level:
     time: 2018-08-30 14:00:00
     room: FL 1 Folium
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Design without interface - the future of experience design
     lang: en
     type: regular
-    level:
     time: 2018-08-30 14:00:00
     room: FL 2 Papiersaal
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Surrounded by self-styled UX experts. The challenges of UX professionals in large enterprises
     lang: en
     type: regular
-    level:
     time: 2018-08-30 15:30:00
     room: FL 1 Folium
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: Embrace Reactive Programming in React and Vue with RxJS
     lang: en
     type: regular
-    level:
     time: 2018-08-30 15:30:00
     room: FL 2 Papiersaal
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: Building Offline-first Progressive Web Apps
     lang: en
     type: regular
-    level:
     time: 2018-08-30 16:30:00
     room: FL 1 Folium
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: Conquer Variable Web Typography
     lang: en
     type: regular
-    level:
     time: 2018-08-30 16:30:00
     room: FL 2 Papiersaal
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: Lightning talks (Folium)
     lang: en
     type: lightning
-    level:
     time: 2018-08-30 17:30:00
     room: FL 1 Folium
     authors:
@@ -237,7 +225,6 @@ talks:
   - title: Lightning talks (Papiersaal)
     lang: en
     type: lightning
-    level:
     time: 2018-08-30 17:30:00
     room: FL 2 Papiersaal
     authors:
@@ -266,7 +253,6 @@ talks:
   - title: The three stages of leadership
     lang: en
     type: regular
-    level:
     time: 2018-08-31 09:00:00
     room: FL 1 Folium
     authors:
@@ -282,7 +268,6 @@ talks:
   - title: The Geek’s Guide to Leading Teams
     lang: en
     type: regular
-    level:
     time: 2018-08-31 09:00:00
     room: FL 2 Papiersaal
     authors:
@@ -299,7 +284,6 @@ talks:
   - title: Muddling Through The Middle Bits, what comes after Junior and before Senior
     lang: en
     type: regular
-    level:
     time: 2018-08-31 10:00:00
     room: FL 1 Folium
     authors:
@@ -316,7 +300,6 @@ talks:
   - title: Impostor Syndrome and Individual Competence
     lang: en
     type: regular
-    level:
     time: 2018-08-31 10:00:00
     room: FL 2 Papiersaal
     authors:
@@ -333,7 +316,6 @@ talks:
   - title: It Takes a Village to Raise a Bot
     lang: en
     type: regular
-    level:
     time: 2018-08-31 11:00:00
     room: FL 1 Folium
     authors:
@@ -350,7 +332,6 @@ talks:
   - title: The New Mobile Reality
     lang: en
     type: regular
-    level:
     time: 2018-08-31 11:00:00
     room: FL 2 Papiersaal
     authors:
@@ -367,7 +348,6 @@ talks:
   - title: Hey! You got your code in my art!
     lang: en
     type: regular
-    level:
     time: 2018-08-31 13:00:00
     room: FL 1 Folium
     authors:
@@ -384,7 +364,6 @@ talks:
   - title: Community based design
     lang: en
     type: regular
-    level:
     time: 2018-08-31 13:00:00
     room: FL 2 Papiersaal
     authors:
@@ -401,7 +380,6 @@ talks:
   - title: Great Design, Despite Agile, How to Get the Best Out of Your Design Team in Agile Projects
     lang: en
     type: regular
-    level:
     time: 2018-08-31 14:00:00
     room: FL 1 Folium
     authors:
@@ -418,7 +396,6 @@ talks:
   - title: Humanizing your documentation
     lang: en
     type: regular
-    level:
     time: 2018-08-31 14:00:00
     room: FL 2 Papiersaal
     authors:
@@ -435,7 +412,6 @@ talks:
   - title: Better, Fearless Feedback for Software Teams
     lang: en
     type: regular
-    level:
     time: 2018-08-31 15:30:00
     room: FL 1 Folium
     authors:
@@ -452,7 +428,6 @@ talks:
   - title: Designing Teamwork
     lang: en
     type: regular
-    level:
     time: 2018-08-31 15:30:00
     room: FL 2 Papiersaal
     authors:
@@ -468,7 +443,6 @@ talks:
   - title: How to Be Good
     lang: en
     type: regular
-    level:
     time: 2018-08-31 16:30:00
     room: FL 1 Folium
     authors:

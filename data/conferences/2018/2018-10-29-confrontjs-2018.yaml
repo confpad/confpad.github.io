@@ -21,7 +21,6 @@ talks:
   - title: Scalable Best Practices for Your Development Team
     lang: en
     type: regular
-    level:
     time: 2018-10-29
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Algebraic Data Types
     lang: en
     type: regular
-    level:
     time: 2018-10-29
     room:
     authors:
@@ -56,7 +54,6 @@ talks:
   - title: Build your own test runner
     lang: en
     type: regular
-    level:
     time: 2018-10-29
     room:
     authors:
@@ -74,7 +71,6 @@ talks:
   - title: Taste the Future with Functional Web Components
     lang: en
     type: regular
-    level:
     time: 2018-10-29
     room:
     authors:
@@ -92,7 +88,6 @@ talks:
   - title: Migrating from Monolith to Microfrontends
     lang: en
     type: regular
-    level:
     time: 2018-10-29
     room:
     authors:
@@ -110,7 +105,6 @@ talks:
   - title: Making internets great again - a story of working with legacy code
     lang: en
     type: regular
-    level:
     time: 2018-10-29
     room:
     authors:
@@ -128,7 +122,6 @@ talks:
   - title: The Front-end TDD challenge
     lang: en
     type: regular
-    level:
     time: 2018-10-29
     room:
     authors:
@@ -146,7 +139,6 @@ talks:
   - title: When Push Comes to Web
     lang: en
     type: regular
-    level:
     time: 2018-10-29
     room:
     authors:
@@ -164,7 +156,6 @@ talks:
   - title: You've been doing CSS wrong
     lang: en
     type: regular
-    level:
     time: 2018-10-29
     room:
     authors:
@@ -182,7 +173,6 @@ talks:
   - title: Moving from Anarchy to Sustainability
     lang: en
     type: regular
-    level:
     time: 2018-10-29
     room:
     authors:

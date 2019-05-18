@@ -21,7 +21,6 @@ talks:
   - title: The Future of Vue.js in 5 Minutes
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -34,7 +33,6 @@ talks:
   - title: State of Vue
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -51,7 +49,6 @@ talks:
   - title: How We Do Vue At GitLab
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -68,7 +65,6 @@ talks:
   - title: Vue in Motion
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -85,7 +81,6 @@ talks:
   - title: Testing Vue Apps
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -102,7 +97,6 @@ talks:
   - title: Serverless Functions and Vue.js
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -119,7 +113,6 @@ talks:
   - title: VueRx
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -136,7 +129,6 @@ talks:
   - title: Create an Engaging Native Mobile App with Vue and NativeScript
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -153,7 +145,6 @@ talks:
   - title: 7 secret patterns Vue consultants don't want you to know
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -170,7 +161,6 @@ talks:
   - title: Agile Design Systems in Vue
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -187,7 +177,6 @@ talks:
   - title: Vue & TypeScript Up and Running
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -204,7 +193,6 @@ talks:
   - title: A React Point of Vue
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -221,7 +209,6 @@ talks:
   - title: 'Vue & SSR: The best practices'
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -238,7 +225,6 @@ talks:
   - title: A Short Synopsis of Vue Storybook
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -255,7 +241,6 @@ talks:
   - title: Prototyping with Vue Single File Component
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -272,7 +257,6 @@ talks:
   - title: Build a MiniFlix Clone with Vue Contest
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -289,7 +273,6 @@ talks:
   - title: Dynamic Store Modules with Vuex
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -306,7 +289,6 @@ talks:
   - title: Code Splitting Patterns with Vue
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -323,7 +305,6 @@ talks:
   - title: Beyond HTML with Vue
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -340,7 +321,6 @@ talks:
   - title: 40 Hour Plan For UX Proficiency
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -357,7 +337,6 @@ talks:
   - title: Vue with AWS Lambda
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -374,7 +353,6 @@ talks:
   - title: Ionic and Vue
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:
@@ -391,7 +369,6 @@ talks:
   - title: OverVue of Vuetify.js
     lang: en
     type: regular
-    level:
     time: 2018-03-27
     room:
     authors:

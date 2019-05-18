@@ -21,7 +21,6 @@ talks:
   - title: Keynote - Understand NGRX by building a Store
     lang: en
     type: regular
-    level:
     time: 2017-11-21
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: High-Performance Applications with Angular
     lang: en
     type: regular
-    level:
     time: 2017-11-21
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Login and Access Control in Angular
     lang: en
     type: regular
-    level:
     time: 2017-11-21
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Understanding High Order Observables
     lang: en
     type: regular
-    level:
     time: 2017-11-21
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Sharing Code between Web and Native Apps with Angular and NativeScript.
     lang: en
     type: regular
-    level:
     time: 2017-11-21
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Building Angular2 & Firebase application
     lang: en
     type: regular
-    level:
     time: 2017-11-21
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Angular 5 has arrived
     lang: en
     type: regular
-    level:
     time: 2017-11-21
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Separate your concerns with router's resolver
     lang: en
     type: regular
-    level:
     time: 2017-11-21
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: 'Form of Art: Validation in Angular Forms'
     lang: en
     type: regular
-    level:
     time: 2017-11-21
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: How to use Functional Programming with Angular and why it’s a good idea
     lang: en
     type: regular
-    level:
     time: 2017-11-21
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: Packages for Angular
     lang: en
     type: regular
-    level:
     time: 2017-11-21
     room:
     authors:
@@ -207,7 +196,6 @@ talks:
   - title: A few words about task management
     lang: en
     type: regular
-    level:
     time: 2017-11-21
     room:
     authors:

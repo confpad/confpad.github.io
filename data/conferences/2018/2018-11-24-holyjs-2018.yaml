@@ -21,7 +21,6 @@ talks:
   - title: State management beyond the libraries
     lang: en
     type: regular
-    level:
     time: 2017-11-24
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: JavaScript ❤ binary data
     lang: en
     type: regular
-    level:
     time: 2017-11-24
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Naked truth about files at Web
     lang: en
     type: regular
-    level:
     time: 2017-11-24
     room:
     authors:
@@ -71,7 +68,6 @@ talks:
   - title: 'Revealing framework fundamentals: NestJS behind the curtain'
     lang: en
     type: regular
-    level:
     time: 2017-11-24
     room:
     authors:
@@ -87,7 +83,6 @@ talks:
   - title: 'Service Worker: Using gathered experience and looking into the future'
     lang: en
     type: regular
-    level:
     time: 2017-11-24
     room:
     authors:
@@ -103,7 +98,6 @@ talks:
   - title: Diving deep into webpack
     lang: en
     type: regular
-    level:
     time: 2017-11-24
     room:
     authors:
@@ -119,7 +113,6 @@ talks:
   - title: An introduction to distributed tracing
     lang: en
     type: regular
-    level:
     time: 2017-11-24
     room:
     authors:
@@ -135,7 +128,6 @@ talks:
   - title: Building GraphQL Server
     lang: en
     type: regular
-    level:
     time: 2017-11-24
     room:
     authors:
@@ -151,7 +143,6 @@ talks:
   - title: Paranoid Service Worker
     lang: en
     type: regular
-    level:
     time: 2017-11-24
     room:
     authors:
@@ -167,7 +158,6 @@ talks:
   - title: Bringing mixed reality to the web
     lang: en
     type: regular
-    level:
     time: 2017-11-24
     room:
     authors:
@@ -183,7 +173,6 @@ talks:
   - title: JS battle" How I wrote my own eval()"
     lang: en
     type: regular
-    level:
     time: 2017-11-24
     room:
     authors:
@@ -199,7 +188,6 @@ talks:
   - title: Asynchronous zero
     lang: en
     type: regular
-    level:
     time: 2017-11-24
     room:
     authors:
@@ -215,7 +203,6 @@ talks:
   - title: A11Y IRL (Accessibility in real life)
     lang: en
     type: regular
-    level:
     time: 2017-11-24
     room:
     authors:
@@ -231,7 +218,6 @@ talks:
   - title: Surviving death by complexity (*offline only)
     lang: en
     type: regular
-    level:
     time: 2017-11-24
     room:
     authors:
@@ -246,7 +232,6 @@ talks:
   - title: Decentralized web
     lang: en
     type: regular
-    level:
     time: 2017-11-25
     room:
     authors:

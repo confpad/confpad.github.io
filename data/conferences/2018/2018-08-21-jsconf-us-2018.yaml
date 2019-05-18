@@ -21,7 +21,6 @@ talks:
   - title: 'LEARNING THROUGH ART: AN INTRODUCTION TO VR'
     lang: en
     type: regular
-    level:
     time: 2018-08-21 09:30:00
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: 'HOT GARBAGE: CLEAN CODE IS DEAD'
     lang: en
     type: regular
-    level:
     time: 2018-08-21 09:30:00
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: 'CIVICHACKING.JS: HELPING YOUR COMMUNITY USING JAVASCRIPT'
     lang: en
     type: regular
-    level:
     time: 2018-08-21 10:15:00
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: BROWSER EXTENSIONS
     lang: en
     type: regular
-    level:
     time: 2018-08-21 10:15:00
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: 'I SEE: OVERCOMING CHALLENGES IN SOFTWARE DEVELOPMENT'
     lang: en
     type: regular
-    level:
     time: 2018-08-21 11:00:00
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: HACKING WITH MY ANXIETY
     lang: en
     type: regular
-    level:
     time: 2018-08-21 11:00:00
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: THE MOST ANNOYING WEBSITE (AKA "THE POWER OF THE WEB PLATFORM")
     lang: en
     type: regular
-    level:
     time: 2018-08-21 12:45:00
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: NO TIME FOR TYPES
     lang: en
     type: regular
-    level:
     time: 2018-08-21 12:45:00
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: PACKAGE REPUTATION TRACKING
     lang: en
     type: regular
-    level:
     time: 2018-08-21 13:30:00
     room:
     authors:
@@ -173,7 +164,6 @@ talks:
   - title: I LIKE MY TESTS, LIKE I LIKE MY FRIENDS, RELIABLE AND FLAKE-FREE
     lang: en
     type: regular
-    level:
     time: 2018-08-21 13:30:00
     room:
     authors:
@@ -190,7 +180,6 @@ talks:
   - title: NPM AND THE FUTURE OF JAVASCRIPT
     lang: en
     type: regular
-    level:
     time: 2018-08-21 14:15:00
     room:
     authors:
@@ -207,7 +196,6 @@ talks:
   - title: TESTING BIG IN JAVASCRIPT
     lang: en
     type: regular
-    level:
     time: 2018-08-21 14:15:00
     room:
     authors:
@@ -224,7 +212,6 @@ talks:
   - title: JOURNEY INTO IMAGINATION 💫
     lang: en
     type: regular
-    level:
     time: 2018-08-21 15:00:00
     room:
     authors:
@@ -241,7 +228,6 @@ talks:
   - title: WHAT'S IN YOUR JS?
     lang: en
     type: regular
-    level:
     time: 2018-08-21 15:00:00
     room:
     authors:
@@ -258,7 +244,6 @@ talks:
   - title: JAVASCRIPT CONCURRENCY AND THE DOM
     lang: en
     type: regular
-    level:
     time: 2018-08-21 16:15:00
     room:
     authors:
@@ -279,7 +264,6 @@ talks:
   - title: ES6 IN PRACTICE
     lang: en
     type: regular
-    level:
     time: 2018-08-21 16:15:00
     room:
     authors:
@@ -296,7 +280,6 @@ talks:
   - title: 'A QUEST TO BE A (WEB)MASTER: HOW DO YOU GO FROM SIMPLE CODE TO BUILDING GREAT WEB EXPERIENCE?'
     lang: en
     type: regular
-    level:
     time: 2018-08-21 17:00:00
     room:
     authors:
@@ -313,7 +296,6 @@ talks:
   - title: WE'RE THE SAME YOU AND ME - A NEW WAY ☯ TO ALIGN PROGRAMMING PARADIGMS ACROSS CLIENT & SERVER(LESS)
     lang: en
     type: regular
-    level:
     time: 2018-08-21 17:00:00
     room:
     authors:
@@ -330,7 +312,6 @@ talks:
   - title: PLEASE DON'T MOCK ME
     lang: en
     type: regular
-    level:
     time: 2018-08-21 17:45:00
     room:
     authors:
@@ -347,7 +328,6 @@ talks:
   - title: UNLOCK THE POWER OF FEATURE BASED JS DEVELOPMENT
     lang: en
     type: regular
-    level:
     time: 2018-08-21 17:45:00
     room:
     authors:
@@ -364,7 +344,6 @@ talks:
   - title: literally everything is pixel art
     lang: en
     type: regular
-    level:
     time: 2018-08-23 09:30:00
     room:
     authors:
@@ -381,7 +360,6 @@ talks:
   - title: 'THE LOADER IS A LIE: HOW TO ELEGANTLY LOAD A MILLION OR MORE DATA POINTS'
     lang: en
     type: regular
-    level:
     time: 2018-08-23 09:30:00
     room:
     authors:
@@ -402,7 +380,6 @@ talks:
   - title: 'COMPILERS: THE NEXT FRONTIER IN WEB PERFORMANCE'
     lang: en
     type: regular
-    level:
     time: 2018-08-23 10:15:00
     room:
     authors:
@@ -419,7 +396,6 @@ talks:
   - title: 'WE LIVE IN MEMORY: MAKING Λ AND GRAPHQL RESPOND IN 70MS'
     lang: en
     type: regular
-    level:
     time: 2018-08-23 10:15:00
     room:
     authors:
@@ -436,7 +412,6 @@ talks:
   - title: DATA-DRIVEN CSS WITH GRID & CUSTOM PROPERTIES
     lang: en
     type: regular
-    level:
     time: 2018-08-23 11:00:00
     room:
     authors:
@@ -453,7 +428,6 @@ talks:
   - title: THE JOY OF MENTORING BY TAKING THE PRESSURE OFF OF IT
     lang: en
     type: regular
-    level:
     time: 2018-08-23 11:00:00
     room:
     authors:
@@ -470,7 +444,6 @@ talks:
   - title: SMARTPHONE SYMPHONY
     lang: en
     type: regular
-    level:
     time: 2018-08-23 12:45:00
     room:
     authors:
@@ -487,7 +460,6 @@ talks:
   - title: UNIVERSAL REACT APPLICATIONS WITH REDUX
     lang: en
     type: regular
-    level:
     time: 2018-08-23 12:45:00
     room:
     authors:
@@ -504,7 +476,6 @@ talks:
   - title: 'RXJS: A BETTER WAY TO WRITE FRONTEND APPLICATIONS'
     lang: en
     type: regular
-    level:
     time: 2018-08-23 13:30:00
     room:
     authors:
@@ -521,7 +492,6 @@ talks:
   - title: PATTERN MATCHING IN JS
     lang: en
     type: regular
-    level:
     time: 2018-08-23 13:30:00
     room:
     authors:
@@ -538,7 +508,6 @@ talks:
   - title: HOW TO BE AN A11Y - CREATING ACCESSIBLE REACT APPS
     lang: en
     type: regular
-    level:
     time: 2018-08-23 14:15:00
     room:
     authors:
@@ -555,7 +524,6 @@ talks:
   - title: REACT ALREADY DID THAT - DEVELOPER ERGONOMICS IN 2018
     lang: en
     type: regular
-    level:
     time: 2018-08-23 14:15:00
     room:
     authors:
@@ -572,7 +540,6 @@ talks:
   - title: ADVENTURES IN ETHICAL COMPUTING
     lang: en
     type: regular
-    level:
     time: 2018-08-23 15:00:00
     room:
     authors:
@@ -589,7 +556,6 @@ talks:
   - title: DEMOCRATIZING AUGMENTED REALITY
     lang: en
     type: regular
-    level:
     time: 2018-08-23 15:00:00
     room:
     authors:
@@ -606,7 +572,6 @@ talks:
   - title: THE BUTTERFLY.JS EFFECT
     lang: en
     type: regular
-    level:
     time: 2018-08-23 16:15:00
     room:
     authors:
@@ -627,7 +592,6 @@ talks:
   - title: EXPLORING WEBUSB AND ITS EXCITING POTENTIAL
     lang: en
     type: regular
-    level:
     time: 2018-08-23 16:15:00
     room:
     authors:
@@ -644,7 +608,6 @@ talks:
   - title: BUILDING A JAVASCRIPT VIDEO SYNTHESIZER FOR LIVE PERFORMANCE
     lang: en
     type: regular
-    level:
     time: 2018-08-23 17:00:00
     room:
     authors:
@@ -661,7 +624,6 @@ talks:
   - title: 'A TALE OF TWO BUNDLES: A LESSON IN MENTORSHIP'
     lang: en
     type: regular
-    level:
     time: 2018-08-23 17:00:00
     room:
     authors:
@@ -678,7 +640,6 @@ talks:
   - title: DISCOVERING THE TRUE IDENTITY OF @HORSE_JS USING MACHINE LEARNING
     lang: en
     type: regular
-    level:
     time: 2018-08-23 17:45:00
     room:
     authors:

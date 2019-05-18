@@ -21,7 +21,6 @@ talks:
   - title: Opening Keynote
     lang: en
     type: regular
-    level:
     time: 2018-03-29
     room:
     authors:
@@ -41,7 +40,6 @@ talks:
   - title: Ember.js Performance
     lang: en
     type: regular
-    level:
     time: 2018-03-29
     room:
     authors:
@@ -58,7 +56,6 @@ talks:
   - title: Designing for Ember Apps
     lang: en
     type: regular
-    level:
     time: 2018-03-29
     room:
     authors:
@@ -75,7 +72,6 @@ talks:
   - title: Hijacking Hacker News with Ember.js
     lang: en
     type: regular
-    level:
     time: 2018-03-29
     room:
     authors:
@@ -92,7 +88,6 @@ talks:
   - title: The Art of Ember Deployment
     lang: en
     type: regular
-    level:
     time: 2018-03-29
     room:
     authors:
@@ -109,7 +104,6 @@ talks:
   - title: Ambitious UX for Ambitious Apps
     lang: en
     type: regular
-    level:
     time: 2018-03-29
     room:
     authors:
@@ -126,7 +120,6 @@ talks:
   - title: Bring Sanity to Frontend Infrastructure with Ember
     lang: en
     type: regular
-    level:
     time: 2018-03-29
     room:
     authors:
@@ -143,7 +136,6 @@ talks:
   - title: Dynamic Graphic Composition in Ember
     lang: en
     type: regular
-    level:
     time: 2018-03-29
     room:
     authors:
@@ -160,7 +152,6 @@ talks:
   - title: Closing Keynote
     lang: en
     type: regular
-    level:
     time: 2018-03-29
     room:
     authors:
@@ -176,7 +167,6 @@ talks:
   - title: Fault Tolerant UX
     lang: en
     type: regular
-    level:
     time: 2018-03-30
     room:
     authors:
@@ -193,7 +183,6 @@ talks:
   - title: Aligning Ember with Web Standards
     lang: en
     type: regular
-    level:
     time: 2018-03-30
     room:
     authors:
@@ -210,7 +199,6 @@ talks:
   - title: Growing Ember One Tomster at a Time
     lang: en
     type: regular
-    level:
     time: 2018-03-30
     room:
     authors:
@@ -227,7 +215,6 @@ talks:
   - title: Interaction Design with Ember 2.0 and Polymer
     lang: en
     type: regular
-    level:
     time: 2018-03-30
     room:
     authors:
@@ -244,7 +231,6 @@ talks:
   - title: Building Custom Apps with Ember CLI
     lang: en
     type: regular
-    level:
     time: 2018-03-30
     room:
     authors:
@@ -261,7 +247,6 @@ talks:
   - title: Building Real-Time Applications with Ember
     lang: en
     type: regular
-    level:
     time: 2018-03-30
     room:
     authors:
@@ -278,7 +263,6 @@ talks:
   - title: MiniTalks
     lang: en
     type: regular
-    level:
     time: 2018-03-30
     room:
     authors:
@@ -294,7 +278,6 @@ talks:
   - title: Physical Design
     lang: en
     type: regular
-    level:
     time: 2018-03-30
     room:
     authors:
@@ -311,7 +294,6 @@ talks:
   - title: Closing Keynote
     lang: en
     type: regular
-    level:
     time: 2018-03-30
     room:
     authors:

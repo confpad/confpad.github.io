@@ -20,7 +20,6 @@ talks:
   - title: Opening
     lang: en
     type: regular
-    level:
     time: 2019-05-11
     room:
     authors:
@@ -35,7 +34,6 @@ talks:
   - title: "The evolution of React APIs"
     lang: en
     type: regular
-    level:
     time: 2019-05-11
     room:
     authors:
@@ -50,7 +48,6 @@ talks:
   - title: "An SVG’s Tale"
     lang: en
     type: regular
-    level:
     time: 2019-05-11
     room:
     authors:
@@ -65,7 +62,6 @@ talks:
   - title: "Conversational sign up with chatbot-like experience with React and Redux"
     lang: en
     type: regular
-    level:
     time: 2019-05-11
     room:
     authors:
@@ -80,7 +76,6 @@ talks:
   - title: "Write better React with ReasonML"
     lang: en
     type: regular
-    level:
     time: 2019-05-11
     room:
     authors:
@@ -95,7 +90,6 @@ talks:
   - title: "How not to hate your life when dealing with forms"
     lang: en
     type: regular
-    level:
     time: 2019-05-11
     room:
     authors:
@@ -110,7 +104,6 @@ talks:
   - title: "Serverless - a backend thing that gives superpowers to frontend developers"
     lang: en
     type: regular
-    level:
     time: 2019-05-11
     room:
     authors:
@@ -125,7 +118,6 @@ talks:
   - title: "Building resilient frontend architecture"
     lang: en
     type: regular
-    level:
     time: 2019-05-11
     room:
     authors:
@@ -140,7 +132,6 @@ talks:
   - title: "Architecting React plugins"
     lang: en
     type: regular
-    level:
     time: 2019-05-11
     room:
     authors:
@@ -155,7 +146,6 @@ talks:
   - title: "Nadcast Panel"
     lang: en
     type: regular
-    level:
     time: 2019-05-11
     room:
     authors:

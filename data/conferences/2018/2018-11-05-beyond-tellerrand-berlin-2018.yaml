@@ -21,7 +21,6 @@ talks:
   - title: The Accidental (Design) Leader
     lang: en
     type: regular
-    level:
     time: 2018-11-05
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: Box Alignment
     lang: en
     type: regular
-    level:
     time: 2018-11-05
     room:
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: The New Design Material
     lang: en
     type: regular
-    level:
     time: 2018-11-05
     room:
     authors:
@@ -75,7 +72,6 @@ talks:
   - title: Extreme Typography on the Web
     lang: en
     type: regular
-    level:
     time: 2018-11-05
     room:
     authors:
@@ -92,7 +88,6 @@ talks:
   - title: Conquer Variable Web Typography
     lang: en
     type: regular
-    level:
     time: 2018-11-05
     room:
     authors:
@@ -110,7 +105,6 @@ talks:
   - title: Build Bridges, Not Walls – Design for Users Across Cultures
     lang: en
     type: regular
-    level:
     time: 2018-11-05
     room:
     authors:
@@ -127,7 +121,6 @@ talks:
   - title: Prismatic
     lang: en
     type: regular
-    level:
     time: 2018-11-05
     room:
     authors:
@@ -144,7 +137,6 @@ talks:
   - title: I, Human
     lang: en
     type: regular
-    level:
     time: 2018-11-05
     room:
     authors:
@@ -162,7 +154,6 @@ talks:
   - title: The Abridged History Of Having Fun \/\/ith Keyboards
     lang: en
     type: regular
-    level:
     time: 2018-11-05
     room:
     authors:
@@ -179,7 +170,6 @@ talks:
   - title: Warmup - Bifrost
     lang: en
     type: regular
-    level:
     time: 2018-11-05
     room:
     authors:
@@ -196,7 +186,6 @@ talks:
   - title: Warmup - From Print to Screen
     lang: en
     type: regular
-    level:
     time: 2018-11-05
     room:
     authors:
@@ -213,7 +202,6 @@ talks:
   - title: Warmup - Lockpicking
     lang: en
     type: regular
-    level:
     time: 2018-11-05
     room:
     authors:

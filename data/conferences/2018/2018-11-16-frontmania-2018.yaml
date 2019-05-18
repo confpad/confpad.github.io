@@ -21,7 +21,6 @@ talks:
   - title: BFF (Backend For Frontend)
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: Beyond alert(1); cross-site scripting attacks in 2018
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -52,7 +50,6 @@ talks:
   - title: EME? CDM? DRM? CENC? IDK!
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -67,7 +64,6 @@ talks:
   - title: End-to-end testing from rookie to pro
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -82,7 +78,6 @@ talks:
   - title: How React Native, Appium and me made each other shine!
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -97,7 +92,6 @@ talks:
   - title: Even More CSS Secrets
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -113,7 +107,6 @@ talks:
   - title: Profunctor Optics for state management
     lang: en
     type: regular
-    level:
     time: 2018-03-29
     room:
     authors:
@@ -129,7 +122,6 @@ talks:
   - title: JavaScript for Artists
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -144,7 +136,6 @@ talks:
   - title: Browser APIs" the unknown Super Heroes"
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -159,7 +150,6 @@ talks:
   - title: Inside React"Then and Now"
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -174,7 +164,6 @@ talks:
   - title: Instant XR. Just add browser.
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -190,7 +179,6 @@ talks:
   - title: Crafting Web Comics with Ember
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -205,7 +193,6 @@ talks:
   - title: Wait the web can do that
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -220,7 +207,6 @@ talks:
   - title: CSS Fonts 4
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -236,7 +222,6 @@ talks:
   - title: Fun with Neural Networks using Tensorflow.js
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -251,7 +236,6 @@ talks:
   - title: WTF Are Serverless Apps?
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -266,7 +250,6 @@ talks:
   - title: Frontend transformation"leverage the power of serverless to become a fullstack developer"
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -281,7 +264,6 @@ talks:
   - title: The Future of Work Begins with Us
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -297,7 +279,6 @@ talks:
   - title: Senses 2.0 - Rabobank's new platform for Frontend development
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -312,7 +293,6 @@ talks:
   - title: Components and Styles Scoping
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:

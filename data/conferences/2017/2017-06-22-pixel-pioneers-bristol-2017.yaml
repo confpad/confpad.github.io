@@ -21,7 +21,6 @@ talks:
   - title: Evaluating Technology
     lang: en
     type: regular
-    level:
     time: 2017-06-22
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Email Code Can Be Cool, Honest
     lang: en
     type: regular
-    level:
     time: 2017-06-22
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: How to Present Ideas So That Your Client Will Listen
     lang: en
     type: regular
-    level:
     time: 2017-06-22
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: What Can User Experience Learn from Service Design?
     lang: en
     type: regular
-    level:
     time: 2017-06-22
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: UX, Psychology, and the Power of 100
     lang: en
     type: regular
-    level:
     time: 2017-06-22
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Automating Access to Development
     lang: en
     type: regular
-    level:
     time: 2017-06-22
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Hacking the Visual Norm
     lang: en
     type: regular
-    level:
     time: 2017-06-22
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Meaningful Motion in Design
     lang: en
     type: regular
-    level:
     time: 2017-06-22
     room:
     authors:

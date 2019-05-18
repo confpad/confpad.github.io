@@ -21,7 +21,6 @@ talks:
   - title: Opening Remarks
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: Angular as strategy for collaboration and scale
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -54,7 +52,6 @@ talks:
   - title: Modern Testing Strategies for Reactive Applications
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -71,7 +68,6 @@ talks:
   - title: Contributing to the Angular Docs
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -87,7 +83,6 @@ talks:
   - title: Emotional Intelligence for Engineers
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -104,7 +99,6 @@ talks:
   - title: Reactive Brain Waves
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -120,7 +114,6 @@ talks:
   - title: NativeScript and CodeSharing
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -137,7 +130,6 @@ talks:
   - title: Breaking Down Reactive Forms
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -158,7 +150,6 @@ talks:
   - title: JavaScript is the new metal the cloud vs the browser
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: NBA + Angular = Game Detail
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -190,7 +180,6 @@ talks:
   - title: Logging, and Errors, and Metrics Oh My!
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -206,7 +195,6 @@ talks:
   - title: Dissecting the architectural process for creating reusable Angular components
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -222,7 +210,6 @@ talks:
   - title: 'Webpack: Your New BFF'
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -239,7 +226,6 @@ talks:
   - title: Faster Angular Applications
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -255,7 +241,6 @@ talks:
   - title: Beyond the Angular CLI
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -272,7 +257,6 @@ talks:
   - title: Angular's User Authentication Tool Belt
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -292,7 +276,6 @@ talks:
   - title: PWA All The Things!
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -309,7 +292,6 @@ talks:
   - title: The parable of the blender
     lang: en
     type: regular
-    level:
     time: 2018-02-01
     room:
     authors:
@@ -326,7 +308,6 @@ talks:
   - title: Deploying angular to the cloud
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -342,7 +323,6 @@ talks:
   - title: Recursive Forms, CVAs & Components
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -358,7 +338,6 @@ talks:
   - title: Universal Power Women
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -378,7 +357,6 @@ talks:
   - title: Try not to lose your marbles with RXJS
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -394,7 +372,6 @@ talks:
   - title: Smart Angular Elements An Experiment
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -410,7 +387,6 @@ talks:
   - title: Building VR Interfaces with Angular
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -426,7 +402,6 @@ talks:
   - title: 3x3 Fresh Code Delivered, Three Times a Day
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -442,7 +417,6 @@ talks:
   - title: Service Workers & Cows — a love story
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -458,7 +432,6 @@ talks:
   - title: The dark side of tuning Angular performance
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -474,7 +447,6 @@ talks:
   - title: Machine Learning & Angular Testing w Dozn
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -494,7 +466,6 @@ talks:
   - title: Live App Updates Without The App Store
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -510,7 +481,6 @@ talks:
   - title: It's Not Dark Magic, Pulling Back the Curtains From Your Stylesheets
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -527,7 +497,6 @@ talks:
   - title: Reactive Programming Future Proof Your Code
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -543,7 +512,6 @@ talks:
   - title: I Don’t Do Non Technical Talks
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -559,7 +527,6 @@ talks:
   - title: State management with ngrx
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -575,7 +542,6 @@ talks:
   - title: 'End the Test Engineer role: how cross functionality leads to a better engineering'
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:
@@ -591,7 +557,6 @@ talks:
   - title: Speakers Panel
     lang: en
     type: regular
-    level:
     time: 2018-02-02
     room:
     authors:

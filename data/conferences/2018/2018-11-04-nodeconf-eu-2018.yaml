@@ -21,7 +21,6 @@ talks:
   - title: HOLDING ON TO YOUR PERFORMANCE PROMISES
     lang: en
     type: regular
-    level:
     time: 2018-11-05 09:00:00
     room:
     authors:
@@ -42,7 +41,6 @@ talks:
   - title: 'GOING FAASTER: FUNCTION AS A SERVICE AT NETFLIX'
     lang: en
     type: regular
-    level:
     time: 2018-11-05 09:30:00
     room:
     authors:
@@ -59,7 +57,6 @@ talks:
   - title: LET'S BUILD A DOPPELGANGER GAME!
     lang: en
     type: regular
-    level:
     time: 2018-11-05 10:00:00
     room:
     authors:
@@ -76,7 +73,6 @@ talks:
   - title: PREDICTING THE INTERNET OF THINGS WITH TENSORFLOW.JS
     lang: en
     type: regular
-    level:
     time: 2018-11-05 11:00:00
     room:
     authors:
@@ -93,7 +89,6 @@ talks:
   - title: GRAPHQL - ACCELERATED
     lang: en
     type: regular
-    level:
     time: 2018-11-05 11:30:00
     room:
     authors:
@@ -114,7 +109,6 @@ talks:
   - title: BUILD THE API YOU WANT TO SEE IN THE WORLD
     lang: en
     type: regular
-    level:
     time: 2018-11-05 12:00:00
     room:
     authors:
@@ -131,7 +125,6 @@ talks:
   - title: NODE ES MODULES - SOMETHING ALMOST, BUT NOT QUITE ENTIRELY UNLIKE COMMONJS
     lang: en
     type: regular
-    level:
     time: 2018-11-05 12:30:00
     room:
     authors:
@@ -148,7 +141,6 @@ talks:
   - title: THE STATE OF NODE.JS CORE
     lang: en
     type: regular
-    level:
     time: 2018-11-06 09:00:00
     room:
     authors:
@@ -165,7 +157,6 @@ talks:
   - title: THE SERVERLESS REVOLUTION
     lang: en
     type: regular
-    level:
     time: 2018-11-06 09:30:00
     room:
     authors:
@@ -182,7 +173,6 @@ talks:
   - title: HEALTHY AND FIT WOMBATS FOR THE GREATER GOOD!
     lang: en
     type: regular
-    level:
     time: 2018-11-06 10:00:00
     room:
     authors:
@@ -199,7 +189,6 @@ talks:
   - title: START YOUR NODE.JS CONTRIBUTION BY WRITING UNIT TESTS QUICKLY WITH VSCODE
     lang: en
     type: regular
-    level:
     time: 2018-11-06 11:00:00
     room:
     authors:
@@ -216,7 +205,6 @@ talks:
   - title: 'NODE.JS MODULE: I CHOOSE YOU!'
     lang: en
     type: regular
-    level:
     time: 2018-11-06 11:30:00
     room:
     authors:
@@ -233,7 +221,6 @@ talks:
   - title: 'SEEING YOUR PLACE IN A NEW WAY: UTILIZING YARN PACKAGE MANAGEMENT IN A REACT SPA MAP VIEWER'
     lang: en
     type: regular
-    level:
     time: 2018-11-06 12:00:00
     room:
     authors:
@@ -250,7 +237,6 @@ talks:
   - title: 'ORINOCO: THE NEW V8 GARBAGE COLLECTOR'
     lang: en
     type: regular
-    level:
     time: 2018-11-06 12:30:00
     room:
     authors:
@@ -267,7 +253,6 @@ talks:
   - title: EFFECTIVE DOCUMENTATION FOR OPEN SOURCE PROJECTS
     lang: en
     type: regular
-    level:
     time: 2018-11-07 09:00:00
     room:
     authors:
@@ -284,7 +269,6 @@ talks:
   - title: DIAGNOSTIC TOOLING - BE READY WHEN THINGS GO WRONG IN PRODUCTION
     lang: en
     type: regular
-    level:
     time: 2018-11-07 09:30:00
     room:
     authors:
@@ -305,7 +289,6 @@ talks:
   - title: 'COMMONS HOST: BUILDING A CDN WITH NODE.JS FOR THE REST OF THE WORLD'
     lang: en
     type: regular
-    level:
     time: 2018-11-07 10:00:00
     room:
     authors:
@@ -322,7 +305,6 @@ talks:
   - title: 'NODE.JS: THE ROAD TO WORKERS'
     lang: en
     type: regular
-    level:
     time: 2018-11-07 11:00:00
     room:
     authors:
@@ -339,7 +321,6 @@ talks:
   - title: ISTIO FOR NODE DEVELOPERS
     lang: en
     type: regular
-    level:
     time: 2018-11-07 11:30:00
     room:
     authors:
@@ -356,7 +337,6 @@ talks:
   - title: DASHBOARDING OUR WAY TO THE FUTURE
     lang: en
     type: regular
-    level:
     time: 2018-11-07 12:00:00
     room:
     authors:
@@ -373,7 +353,6 @@ talks:
   - title: ENTERPRISES, NODE.JS AND OPEN SOURCE, THE GOOD, THE BAD AND THE UGLY.
     lang: en
     type: regular
-    level:
     time: 2018-11-07 12:30:00
     room:
     authors:

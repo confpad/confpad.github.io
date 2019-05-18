@@ -21,7 +21,6 @@ talks:
   - title: CSS Blend Modes, Because...
     lang: en
     type: regular
-    level:
     time: 2018-01-25 09:30:00
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Performing Dynamic Analysis of JS Apps
     lang: en
     type: regular
-    level:
     time: 2018-01-25 10:40:00
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Write Perfect Code with Standard and ESLint
     lang: en
     type: regular
-    level:
     time: 2018-01-25 11:10:00
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: 'Be a No-Mouse Ninja: How People with Visual Impairment use Websites'
     lang: en
     type: regular
-    level:
     time: 2018-01-25 11:30:00
     room:
     authors:
@@ -93,7 +89,6 @@ talks:
   - title: 'data sketch|es: a year of exotic data visualizations'
     lang: en
     type: regular
-    level:
     time: 2018-01-25 13:00:00
     room:
     authors:
@@ -114,7 +109,6 @@ talks:
   - title: 'Micro Frontend: a microservice architecture from your frontend web apps'
     lang: en
     type: regular
-    level:
     time: 2018-01-25 13:30:00
     room:
     authors:
@@ -131,7 +125,6 @@ talks:
   - title: Serverless Apps with Node.JS in OpenWhisk and Adobe I/O Runtime
     lang: en
     type: regular
-    level:
     time: 2018-01-25 14:00:00
     room:
     authors:
@@ -148,7 +141,6 @@ talks:
   - title: Honey, I Shrunk the Scripts! — the secret life of JS on microcontrollers
     lang: en
     type: regular
-    level:
     time: 2018-01-25 14:15:00
     room:
     authors:
@@ -165,7 +157,6 @@ talks:
   - title: Evolving DBS Frontend
     lang: en
     type: regular
-    level:
     time: 2018-01-25 15:30:00
     room:
     authors:
@@ -182,7 +173,6 @@ talks:
   - title: 'When East meets West: web typography and how it can inspire modern layouts'
     lang: en
     type: regular
-    level:
     time: 2018-01-25 15:45:00
     room:
     authors:
@@ -199,7 +189,6 @@ talks:
   - title: My Node.js process is on fire
     lang: en
     type: regular
-    level:
     time: 2018-01-25 16:15:00
     room:
     authors:
@@ -216,7 +205,6 @@ talks:
   - title: Enabling New Web Experiences
     lang: en
     type: regular
-    level:
     time: 2018-01-25 16:30:00
     room:
     authors:
@@ -233,7 +221,6 @@ talks:
   - title: WebVR with A-Frame - Getting started
     lang: en
     type: workshop
-    level:
     time: 2018-01-25 09:00:00
     room:
     authors:
@@ -250,7 +237,6 @@ talks:
   - title: Enliven UX with React/Redux
     lang: en
     type: regular
-    level:
     time: 2018-01-25 09:00:00
     room:
     authors:
@@ -267,7 +253,6 @@ talks:
   - title: CSS Grid is the new black
     lang: en
     type: workshop
-    level:
     time: 2018-01-25 09:00:00
     room:
     authors:
@@ -284,7 +269,6 @@ talks:
   - title: Ethereum and Javascript - what's the big deal?
     lang: en
     type: regular
-    level:
     time: 2018-01-25 13:30:00
     room:
     authors:
@@ -305,7 +289,6 @@ talks:
   - title: 'Coding Blindly: Intro to Web A11Y'
     lang: en
     type: regular
-    level:
     time: 2018-01-25 13:30:00
     room:
     authors:
@@ -322,7 +305,6 @@ talks:
   - title: Creative Data Visualizations with SVG and D3.js
     lang: en
     type: workshop
-    level:
     time: 2018-01-25 13:30:00
     room:
     authors:
@@ -343,7 +325,6 @@ talks:
   - title: PUSHing web app performance with HTTP/2
     lang: en
     type: workshop
-    level:
     time: 2018-01-25 13:30:00
     room:
     authors:
@@ -364,7 +345,6 @@ talks:
   - title: Virtual Reality in your browser
     lang: en
     type: regular
-    level:
     time: 2018-01-25 09:00:00
     room:
     authors:
@@ -381,7 +361,6 @@ talks:
   - title: In the loop
     lang: en
     type: regular
-    level:
     time: 2018-01-25 09:30:00
     room:
     authors:
@@ -398,7 +377,6 @@ talks:
   - title: How To Do Augmented Reality On The Web — The AR.js Open-Source Project
     lang: en
     type: regular
-    level:
     time: 2018-01-25 11:10:00
     room:
     authors:
@@ -415,7 +393,6 @@ talks:
   - title: Jolly JS Journeys
     lang: en
     type: regular
-    level:
     time: 2018-01-25 13:20:00
     room:
     authors:
@@ -432,7 +409,6 @@ talks:
   - title: Smells in React apps
     lang: en
     type: regular
-    level:
     time: 2018-01-25 13:45:00
     room:
     authors:
@@ -449,7 +425,6 @@ talks:
   - title: Accessibility and You
     lang: en
     type: regular
-    level:
     time: 2018-01-25 14:15:00
     room:
     authors:
@@ -466,7 +441,6 @@ talks:
   - title: Automating User Journey Testing Is A Piece Of Cake
     lang: en
     type: lightning
-    level:
     time: 2018-01-25 14:45:00
     room:
     authors:
@@ -482,7 +456,6 @@ talks:
   - title: Boarding The Choo Train
     lang: en
     type: lightning
-    level:
     time: 2018-01-25 14:45:00
     room:
     authors:
@@ -498,7 +471,6 @@ talks:
   - title: For The Love Of Web Assembly
     lang: en
     type: lightning
-    level:
     time: 2018-01-25 14:45:00
     room:
     authors:
@@ -514,7 +486,6 @@ talks:
   - title: CSS Pranks
     lang: en
     type: lightning
-    level:
     time: 2018-01-25 14:45:00
     room:
     authors:
@@ -530,7 +501,6 @@ talks:
   - title: JavaScript Pranks
     lang: en
     type: lightning
-    level:
     time: 2018-01-25 14:45:00
     room:
     authors:
@@ -546,7 +516,6 @@ talks:
   - title: Using SVG Circles For Charting
     lang: en
     type: lightning
-    level:
     time: 2018-01-25 14:45:00
     room:
     authors:
@@ -562,7 +531,6 @@ talks:
   - title: What writing about frontend dev taught me about communicating with the world
     lang: en
     type: regular
-    level:
     time: 2018-01-25 15:45:00
     room:
     authors:
@@ -579,7 +547,6 @@ talks:
   - title: Storytelling with Performance Observers
     lang: en
     type: regular
-    level:
     time: 2018-01-25 16:00:00
     room:
     authors:
@@ -596,7 +563,6 @@ talks:
   - title: If you're going out of San Francisco, be sure to wear Web Standards in your hair
     lang: en
     type: regular
-    level:
     time: 2018-01-25 16:30:00
     room:
     authors:

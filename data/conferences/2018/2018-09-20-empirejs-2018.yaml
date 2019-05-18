@@ -21,7 +21,6 @@ talks:
   - title: THE UNTOLD BENEFITS OF ETHICAL DESIGN
     lang: en
     type: regular
-    level:
     time: 2018-09-20 09:30:00
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: JavaScript Diversity
     lang: en
     type: regular
-    level:
     time: 2018-09-20 10:00:00
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: 12 Factor Frontend Apps through Dockerization
     lang: en
     type: regular
-    level:
     time: 2018-09-20 10:30:00
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: 404 Fire Alarm Not Found
     lang: en
     type: regular
-    level:
     time: 2018-09-20 11:15:00
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: What Tamagotchis Can Teach You About ES6 Generators
     lang: en
     type: regular
-    level:
     time: 2018-09-20 11:45:00
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: TensorFlow.js + Node
     lang: en
     type: regular
-    level:
     time: 2018-09-20 12:15:00
     room:
     authors:
@@ -127,7 +121,6 @@ talks:
   - title: Internationalisation is a Piece of Cake
     lang: en
     type: regular
-    level:
     time: 2018-09-20 14:15:00
     room:
     authors:
@@ -144,7 +137,6 @@ talks:
   - title: Be the Ally You Think You Are
     lang: en
     type: regular
-    level:
     time: 2018-09-20 14:45:00
     room:
     authors:
@@ -161,7 +153,6 @@ talks:
   - title: How Does JavaScript Math?
     lang: en
     type: regular
-    level:
     time: 2018-09-20 15:15:00
     room:
     authors:
@@ -178,7 +169,6 @@ talks:
   - title: Why You Had a Bad Time With Microservices
     lang: en
     type: regular
-    level:
     time: 2018-09-20 16:00:00
     room:
     authors:
@@ -195,7 +185,6 @@ talks:
   - title: Love Thy Keyboard
     lang: en
     type: regular
-    level:
     time: 2018-09-20 16:30:00
     room:
     authors:
@@ -212,7 +201,6 @@ talks:
   - title: Do You Read Me? — Better Communication for Stronger Teams
     lang: en
     type: regular
-    level:
     time: 2018-09-20 17:00:00
     room:
     authors:
@@ -229,7 +217,6 @@ talks:
   - title: An Oral History of Modern Web Development
     lang: en
     type: regular
-    level:
     time: 2018-09-21 09:30:00
     room:
     authors:
@@ -246,7 +233,6 @@ talks:
   - title: WordPress is JavaScript
     lang: en
     type: regular
-    level:
     time: 2018-09-21 10:00:00
     room:
     authors:
@@ -263,7 +249,6 @@ talks:
   - title: Try, Raise, Exception
     lang: en
     type: regular
-    level:
     time: 2018-09-21 10:30:00
     room:
     authors:
@@ -280,7 +265,6 @@ talks:
   - title: WebAssembly for Performant Interactivity
     lang: en
     type: regular
-    level:
     time: 2018-09-21 11:15:00
     room:
     authors:
@@ -297,7 +281,6 @@ talks:
   - title: Slides About Slides
     lang: en
     type: regular
-    level:
     time: 2018-09-21 11:45:00
     room:
     authors:
@@ -314,7 +297,6 @@ talks:
   - title: CRDT and other new ideas for client-server communication
     lang: en
     type: regular
-    level:
     time: 2018-09-21 12:15:00
     room:
     authors:
@@ -331,7 +313,6 @@ talks:
   - title: The Wide World of Serverless
     lang: en
     type: regular
-    level:
     time: 2018-09-21 14:15:00
     room:
     authors:
@@ -348,7 +329,6 @@ talks:
   - title: The Pharos Of PWA, Deconstructing a Lighthouse Audit
     lang: en
     type: regular
-    level:
     time: 2018-09-21 14:45:00
     room:
     authors:
@@ -365,7 +345,6 @@ talks:
   - title: Diasporas, Data, D3.js, Oh My!
     lang: en
     type: regular
-    level:
     time: 2018-09-21 15:15:00
     room:
     authors:
@@ -382,7 +361,6 @@ talks:
   - title: Living with Legacy JavaScript, Event Proxies, App Seams, and Chunking Rewrites
     lang: en
     type: regular
-    level:
     time: 2018-09-21 16:00:00
     room:
     authors:
@@ -399,7 +377,6 @@ talks:
   - title: Make Your Own ORM - A Guide to When and How
     lang: en
     type: regular
-    level:
     time: 2018-09-21 16:30:00
     room:
     authors:
@@ -420,7 +397,6 @@ talks:
   - title: Recreating Retro Art with JS!
     lang: en
     type: regular
-    level:
     time: 2018-09-21 17:00:00
     room:
     authors:

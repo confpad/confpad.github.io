@@ -21,7 +21,6 @@ talks:
   - title: Design Systems for React Developers type
     lang: en
     type: workshop
-    level:
     time: 2018-04-24
     room: Paasitorni Congress Hall, Paasivuorenkatu 5 A, Helsinki
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: Make linting great again!
     lang: en
     type: regular
-    level:
     time: 2018-04-25 16:45:00
     room:
     authors:
@@ -54,7 +52,6 @@ talks:
   - title: Declarative state and side effects
     lang: en
     type: regular
-    level:
     time: 2018-04-25 10:00:00
     room:
     authors:
@@ -71,7 +68,6 @@ talks:
   - title: Reactive State Machines and Statecharts
     lang: en
     type: regular
-    level:
     time: 2018-04-26 12:30:00
     room:
     authors:
@@ -88,7 +84,6 @@ talks:
   - title: There's always a better way to handle localization
     lang: en
     type: regular
-    level:
     time: 2018-04-25 11:20:00
     room:
     authors:
@@ -105,7 +100,6 @@ talks:
   - title: Why I YAML
     lang: en
     type: regular
-    level:
     time: 2018-04-25 17:15:00
     room:
     authors:
@@ -121,7 +115,6 @@ talks:
   - title: React Native Ignite
     lang: en
     type: regular
-    level:
     time: 2018-04-26 15:45:00
     room:
     authors:
@@ -138,7 +131,6 @@ talks:
   - title: The New Best Practices
     lang: en
     type: regular
-    level:
     time: 2018-04-25 09:15:00
     room:
     authors:
@@ -155,7 +147,6 @@ talks:
   - title: Static Websites - The Final Frontier
     lang: en
     type: regular
-    level:
     time: 2018-04-26 09:45:00
     room:
     authors:
@@ -172,7 +163,6 @@ talks:
   - title: Styled Components, SSR, and Theming
     lang: en
     type: regular
-    level:
     time: 2018-04-25 12:30:00
     room:
     authors:
@@ -189,7 +179,6 @@ talks:
   - title: How React changed everything
     lang: en
     type: regular
-    level:
     time: 2018-04-26 09:15:00
     room:
     authors:
@@ -206,7 +195,6 @@ talks:
   - title: World Class experience with React Native
     lang: en
     type: regular
-    level:
     time: 2018-04-26 14:45:00
     room:
     authors:
@@ -223,7 +211,6 @@ talks:
   - title: Immer Immutability made easy
     lang: en
     type: regular
-    level:
     time: 2018-04-25
     room:
     authors:
@@ -239,7 +226,6 @@ talks:
   - title: Get started with Reason
     lang: en
     type: regular
-    level:
     time: 2018-04-26 10:15:00
     room:
     authors:
@@ -256,7 +242,6 @@ talks:
   - title: Making Unreasonable States Impossible
     lang: en
     type: regular
-    level:
     time: 2018-04-26 11:00:00
     room:
     authors:
@@ -273,7 +258,6 @@ talks:
   - title: Get Rich Quick With React Context
     lang: en
     type: regular
-    level:
     time: 2018-04-25 11:10:00
     room:
     authors:
@@ -290,7 +274,6 @@ talks:
   - title: Detox A year in. Building it, Testing with it
     lang: en
     type: regular
-    level:
     time: 2018-04-25 15:45:00
     room:
     authors:
@@ -307,7 +290,6 @@ talks:
   - title: State Management in React Apps with Apollo Client
     lang: en
     type: regular
-    level:
     time: 2018-04-25 14:45:00
     room:
     authors:
@@ -324,7 +306,6 @@ talks:
   - title: ReactVR
     lang: en
     type: regular
-    level:
     time: 2018-04-26 13:30:00
     room:
     authors:
@@ -341,7 +322,6 @@ talks:
   - title: Universal React Apps Using Next.js
     lang: en
     type: regular
-    level:
     time: 2018-04-25 13:30:00
     room:
     authors:
@@ -358,7 +338,6 @@ talks:
   - title: Understanding the differences is accepting
     lang: en
     type: regular
-    level:
     time: 2018-04-25 17:00:00
     room:
     authors:
@@ -375,7 +354,6 @@ talks:
   - title: React Finland App - Lessons learned
     lang: en
     type: regular
-    level:
     time: 2018-04-26 15:15:00
     room:
     authors:
@@ -392,7 +370,6 @@ talks:
   - title: How to use React, webpack and other buzzwords if there is no need
     lang: en
     type: regular
-    level:
     time: 2018-04-26 16:45:00
     room:
     authors:

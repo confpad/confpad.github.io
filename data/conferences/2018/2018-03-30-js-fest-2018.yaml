@@ -21,7 +21,6 @@ talks:
   - title: The Power of the Paradigm
     lang: en
     type: regular
-    level:
     time: 2018-03-30 10:00:00
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: WebAssembly vs JavaScript
     lang: ru
     type: regular
-    level:
     time: 2018-03-30 11:05:00
     room:
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: Features in creating React/Redux Cordova IOS/Android Mobile Apps
     lang: ru
     type: regular
-    level:
     time: 2018-03-30 11:05:00
     room:
     authors:
@@ -75,7 +72,6 @@ talks:
   - title: Microservice Architecture with Reusable Components
     lang: ru
     type: regular
-    level:
     time: 2018-03-30 12:10:00
     room:
     authors:
@@ -93,7 +89,6 @@ talks:
   - title: 'Distributed Data: Conflict-free Data Structures in JS'
     lang: ru
     type: regular
-    level:
     time: 2018-03-30 12:10:00
     room:
     authors:
@@ -111,7 +106,6 @@ talks:
   - title: Running JS engine on a microcontroller (UK)
     lang: en
     type: regular
-    level:
     time: 2018-03-30 14:05:00
     room:
     authors:
@@ -129,7 +123,6 @@ talks:
   - title: Mutation Testing in JavaScript
     lang: ru
     type: regular
-    level:
     time: 2018-03-30 14:05:00
     room:
     authors:
@@ -147,7 +140,6 @@ talks:
   - title: W.T.F. is GraphQL? (UK)
     lang: en
     type: regular
-    level:
     time: 2018-03-30 14:05:00
     room:
     authors:
@@ -165,7 +157,6 @@ talks:
   - title: 'React-Native: Introduction'
     lang: ru
     type: regular
-    level:
     time: 2018-03-30 15:10:00
     room:
     authors:
@@ -183,7 +174,6 @@ talks:
   - title: How to make mobile web app better with Browser APIs
     lang: ru
     type: regular
-    level:
     time: 2018-03-30 15:10:00
     room:
     authors:
@@ -201,7 +191,6 @@ talks:
   - title: The Better Parts
     lang: en
     type: regular
-    level:
     time: 2018-03-30 16:35:00
     room:
     authors:
@@ -219,7 +208,6 @@ talks:
   - title: Pixel shaders based UI components + let`s write your first pixel shader
     lang: en
     type: regular
-    level:
     time: 2018-03-30 16:35:00
     room:
     authors:
@@ -236,7 +224,6 @@ talks:
   - title: How Microsoft To-Do Uses React
     lang: ru
     type: regular
-    level:
     time: 2018-03-30 17:40:00
     room:
     authors:
@@ -254,7 +241,6 @@ talks:
   - title: 'FaCSSt: CSS & Performance'
     lang: en
     type: regular
-    level:
     time: 2018-03-30
     room:
     authors:
@@ -271,7 +257,6 @@ talks:
   - title: $ecret
     lang: en
     type: regular
-    level:
     time: 2018-03-30
     room:
     authors:
@@ -288,7 +273,6 @@ talks:
   - title: Why Fast Matters
     lang: en
     type: regular
-    level:
     time: 2018-03-31 10:00:00
     room:
     authors:
@@ -306,7 +290,6 @@ talks:
   - title: Warm up your engine! or I know what you did last summer to V8 (UK)
     lang: en
     type: regular
-    level:
     time: 2018-03-31 11:05:00
     room:
     authors:
@@ -324,7 +307,6 @@ talks:
   - title: How to Write a Compass Plugin
     lang: en
     type: regular
-    level:
     time: 2018-03-31 11:05:00
     room:
     authors:
@@ -342,7 +324,6 @@ talks:
   - title: SSE vs WebSockets vs Long Polling
     lang: en
     type: regular
-    level:
     time: 2018-03-31 13:00:00
     room:
     authors:
@@ -360,7 +341,6 @@ talks:
   - title: GraphQL - usable API or just another hype?
     lang: ru
     type: regular
-    level:
     time: 2018-03-31 13:00:00
     room:
     authors:
@@ -378,7 +358,6 @@ talks:
   - title: Useful tools and utils for JS development
     lang: ru
     type: regular
-    level:
     time: 2018-03-31 13:00:00
     room:
     authors:
@@ -396,7 +375,6 @@ talks:
   - title: E2E-testing front-end with Hermione
     lang: ru
     type: regular
-    level:
     time: 2018-03-31 14:05:00
     room:
     authors:
@@ -414,7 +392,6 @@ talks:
   - title: Just Vue it
     lang: ru
     type: regular
-    level:
     time: 2018-03-31 14:05:00
     room:
     authors:
@@ -431,7 +408,6 @@ talks:
   - title: Building interactive command line applications
     lang: en
     type: regular
-    level:
     time: 2018-03-31 14:05:00
     room:
     authors:
@@ -449,7 +425,6 @@ talks:
   - title: ES X
     lang: ru
     type: regular
-    level:
     time: 2018-03-31 15:30:00
     room:
     authors:
@@ -467,7 +442,6 @@ talks:
   - title: NodeJS Microservices + CQRS + Event Sourcing - Why do I do this?
     lang: ru
     type: regular
-    level:
     time: 2018-03-31 15:30:00
     room:
     authors:
@@ -485,7 +459,6 @@ talks:
   - title: A glimpse into the future of React
     lang: ru
     type: regular
-    level:
     time: 2018-03-31 16:35:00
     room:
     authors:
@@ -503,7 +476,6 @@ talks:
   - title: 'Game "Heroes of Might and Magic" in browser: long, difficult and incredibly interesting'
     lang: ru
     type: regular
-    level:
     time: 2018-03-31 16:35:00
     room:
     authors:

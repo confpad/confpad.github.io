@@ -21,7 +21,6 @@ talks:
   - title: Demystifying web application security
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: What makes JSON Web Tokens (JWT) secure?
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: 'Authentication done right: consuming (and serving) Oauth2.0'
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -74,7 +71,6 @@ talks:
   - title: Building a secure BFF at Postman
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -92,7 +88,6 @@ talks:
   - title: 'Joint Q&A: Web application security'
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -119,7 +114,6 @@ talks:
   - title: Using Service Workers to improve dynamic image delivery in the browser
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -137,7 +131,6 @@ talks:
   - title: VueJS at Olacabs
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -155,7 +148,6 @@ talks:
   - title: 'Birds Of Feather session: AngularJS users'
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -174,7 +166,6 @@ talks:
   - title: Architecture of scalable and resilient NodeJS apps with GraphQL & event-driven serverless
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -191,7 +182,6 @@ talks:
   - title: 'Birds Of Feather session: Vue in production -- user stories'
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -218,7 +208,6 @@ talks:
   - title: The art of writing mature tests
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -235,7 +224,6 @@ talks:
   - title: Rethink Async
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -252,7 +240,6 @@ talks:
   - title: 'Birds Of Feather session: GraphQL'
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -271,7 +258,6 @@ talks:
   - title: Everything you need to know about client-side malicious code execution
     lang: en
     type: regular
-    level:
     time: 2018-10-27
     room:
     authors:
@@ -288,7 +274,6 @@ talks:
   - title: The audit-driven approach to security design
     lang: en
     type: regular
-    level:
     time: 2018-10-27
     room:
     authors:
@@ -305,7 +290,6 @@ talks:
   - title: Joint Q&A" data leakages and privacy on the web"
     lang: en
     type: regular
-    level:
     time: 2018-10-27
     room:
     authors:
@@ -324,7 +308,6 @@ talks:
   - title: ReasonML" Strict, powerful, and forgiving."
     lang: en
     type: regular
-    level:
     time: 2018-10-27
     room:
     authors:
@@ -341,7 +324,6 @@ talks:
   - title: 'Birds Of Feather session: Sensitive data leakage, data protection and privacy'
     lang: en
     type: regular
-    level:
     time: 2018-10-27
     room:
     authors:
@@ -356,7 +338,6 @@ talks:
   - title: Building robust applications using Elm
     lang: en
     type: regular
-    level:
     time: 2018-10-27
     room:
     authors:
@@ -374,7 +355,6 @@ talks:
   - title: Sponsored talk" MySQL 8 loves JavaScript"
     lang: en
     type: regular
-    level:
     time: 2018-10-27
     room:
     authors:
@@ -391,7 +371,6 @@ talks:
   - title: Web Workers " a graphical introduction"
     lang: en
     type: regular
-    level:
     time: 2018-10-27
     room:
     authors:
@@ -409,7 +388,6 @@ talks:
   - title: New kids in browserland
     lang: en
     type: regular
-    level:
     time: 2018-10-27
     room:
     authors:
@@ -427,7 +405,6 @@ talks:
   - title: Quick fixes to improve page load time
     lang: en
     type: regular
-    level:
     time: 2018-10-27
     room:
     authors:
@@ -444,7 +421,6 @@ talks:
   - title: Complex Features Made Easy With RxJS
     lang: en
     type: regular
-    level:
     time: 2018-10-27
     room:
     authors:
@@ -461,7 +437,6 @@ talks:
   - title: One code to rule them all - developing native Android / iOS app + Web App with a common codebase
     lang: en
     type: regular
-    level:
     time: 2018-10-27
     room:
     authors:
@@ -476,7 +451,6 @@ talks:
   - title: Writing the HasGeek app with NativeScript
     lang: en
     type: regular
-    level:
     time: 2018-10-27
     room:
     authors:

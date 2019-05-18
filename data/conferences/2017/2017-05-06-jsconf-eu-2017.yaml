@@ -21,7 +21,6 @@ talks:
   - title: The Browser Hackers Guide To Instantly Loading Everything
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: What's new in Netscape Navigator 2.0
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Immutable data structures for functional JS
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: 'NESpectre: The Massively Multi-Haunted NES'
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -93,7 +89,6 @@ talks:
   - title: YES, your site too can (and should) be accessible. Lessons learned from building FT.com
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -110,7 +105,6 @@ talks:
   - title: Maintaining an OSS Project (Babel)
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -128,7 +122,6 @@ talks:
   - title: How To Be A Web A/V Artist
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -145,7 +138,6 @@ talks:
   - title: 'Pavlov’s Dog & Foucault’s Panopticon: Hacking My Anxiety With Open-Source Technology'
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -162,7 +154,6 @@ talks:
   - title: Building High-Quality JavaScript Tools
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -179,7 +170,6 @@ talks:
   - title: knock-knock-who-there-file-compression-TALK-FINAL-4.tar.trz.bz2.gz
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -196,7 +186,6 @@ talks:
   - title: Dynamic video in the browser
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -213,7 +202,6 @@ talks:
   - title: Keeping passwords safe in 2017
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -230,7 +218,6 @@ talks:
   - title: You don't need AMP for that
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -247,7 +234,6 @@ talks:
   - title: Weakest Link
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -264,7 +250,6 @@ talks:
   - title: Sequential Art, Comics & SVGs
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -281,7 +266,6 @@ talks:
   - title: Sociolinguistics and the Javascript community, a love story
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -298,7 +282,6 @@ talks:
   - title: Emoji, Web Components, and Art
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -315,7 +298,6 @@ talks:
   - title: Barriers to Entry in the JavaScript Community
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -330,7 +312,6 @@ talks:
   - title: Can You Read Me? Creative JavaScript to Make Computer Science Fun
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -351,7 +332,6 @@ talks:
   - title: 'How to Break an API: How Community Values Influence Practices'
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -368,7 +348,6 @@ talks:
   - title: A Brief History of Modularity
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -386,7 +365,6 @@ talks:
   - title: How Does Javascript Math?
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -401,7 +379,6 @@ talks:
   - title: 'Making the Jump: How Desktop-Era Frameworks Can Thrive on Mobile'
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -418,7 +395,6 @@ talks:
   - title: Keep the Internet Weird
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -435,7 +411,6 @@ talks:
   - title: How It's Made, opening jsconf.eu
     lang: en
     type: regular
-    level:
     time: 2017-05-06
     room:
     authors:
@@ -452,7 +427,6 @@ talks:
   - title: Applying NASA coding standards to JavaScript
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -469,7 +443,6 @@ talks:
   - title: 'From Advocacy to Innovation: How JS Developers will shape the future of Internet Security, Privacy, and Trust'
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -486,7 +459,6 @@ talks:
   - title: JavaScript engines how do they even?
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -503,7 +475,6 @@ talks:
   - title: The Past, Present, and Future of JavaScript Date and Time APIs
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -520,7 +491,6 @@ talks:
   - title: Parsing JavaScript - better lazy than eager?
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -537,7 +507,6 @@ talks:
   - title: Source maps through the looking glass
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -554,7 +523,6 @@ talks:
   - title: The Ethics of the Internet of Things
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -571,7 +539,6 @@ talks:
   - title: Let's go big
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -588,7 +555,6 @@ talks:
   - title: A Cartoon Intro to WebAssembly
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -605,7 +571,6 @@ talks:
   - title: 'My gender is emoji pizza unicorn: shipping expanded gender options'
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -622,7 +587,6 @@ talks:
   - title: 'Down the Rabbit Hole: Javascript in Wonderland'
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -639,7 +603,6 @@ talks:
   - title: Sharing is Caring - Patterns for JavaScript Library Design
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -656,7 +619,6 @@ talks:
   - title: 'Preact: Into the void 0'
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -673,7 +635,6 @@ talks:
   - title: 'Invisible Code: Building JavaScript Libraries For Non-Technical People'
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -690,7 +651,6 @@ talks:
   - title: 'Real world connectivity: Beyond the bubble'
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -707,7 +667,6 @@ talks:
   - title: 'Two Problems: Regular Expressions for Revolutionaries'
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -724,7 +683,6 @@ talks:
   - title: Go Offline First to Save The World
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -741,7 +699,6 @@ talks:
   - title: Aesthetics of code.
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -758,7 +715,6 @@ talks:
   - title: Calendar / Kalender / تقويم (aka, the fun of locali[zs]ation)
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -775,7 +731,6 @@ talks:
   - title: Shared Memory & Parallel Programming with JavaScript
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -792,7 +747,6 @@ talks:
   - title: 'Outbreak: index-sw-9a4c43b4b4778e7d1ca619eaaf5ac1db.js'
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -809,7 +763,6 @@ talks:
   - title: 'Bringing Back the 1990s: The Revenge of JavaScript Style Sheets'
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:
@@ -826,7 +779,6 @@ talks:
   - title: The Legacy of the JavaScript Community
     lang: en
     type: regular
-    level:
     time: 2017-05-07
     room:
     authors:

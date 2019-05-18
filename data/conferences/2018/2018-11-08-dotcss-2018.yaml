@@ -21,7 +21,6 @@ talks:
   - title: Breaking the norm with creative CSS
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: Make your website accessible for everyone
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: What CSS taught me
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -74,7 +71,6 @@ talks:
   - title: Variable Fonts and the Future of Web Design
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -92,7 +88,6 @@ talks:
   - title: Don't write HTML the way George Lucas wrote Star Wars
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -110,7 +105,6 @@ talks:
   - title: 'i18n: A Brief Primer of Web Internationalization'
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -128,7 +122,6 @@ talks:
   - title: CSS at the Intersection
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -146,7 +139,6 @@ talks:
   - title: Not your usual CSS counters
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -164,7 +156,6 @@ talks:
   - title: Line breaking
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -182,7 +173,6 @@ talks:
   - title: Read color hex codes
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:
@@ -200,7 +190,6 @@ talks:
   - title: 'SVG Filters: A Mini Crash Course'
     lang: en
     type: regular
-    level:
     time: 2018-11-08
     room:
     authors:

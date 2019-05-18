@@ -21,7 +21,6 @@ talks:
   - title: Keynote
     lang: en
     type: regular
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: React "What Lies Ahead"
     lang: en
     type: regular
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -54,7 +52,6 @@ talks:
   - title: Rich Text Editing with React
     lang: en
     type: regular
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -71,7 +68,6 @@ talks:
   - title: A Cartoon Guide to the Wilds of Data Handling
     lang: en
     type: regular
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -88,7 +84,6 @@ talks:
   - title: Demystifying Tech Recruiting
     lang: en
     type: regular
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -105,7 +100,6 @@ talks:
   - title: Web-like Release Agility for Native Apps
     lang: en
     type: regular
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -122,7 +116,6 @@ talks:
   - title: React, Meet Virtual Reality
     lang: en
     type: regular
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -139,7 +132,6 @@ talks:
   - title: Building a Progressive Web App
     lang: en
     type: regular
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -156,7 +148,6 @@ talks:
   - title: How To Use React In A Wedding Gift Without Being A Bad Friend
     lang: en
     type: regular
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -173,7 +164,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -189,7 +179,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -205,7 +194,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -221,7 +209,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -237,7 +224,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -253,7 +239,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -269,7 +254,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -285,7 +269,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -301,7 +284,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -317,7 +299,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-22
     room:
     authors:
@@ -333,7 +314,6 @@ talks:
   - title: Team × Technology
     lang: en
     type: regular
-    level:
     time: 2016-02-23
     room:
     authors:
@@ -350,7 +330,6 @@ talks:
   - title: Universal GL Effects for Web and Native
     lang: en
     type: regular
-    level:
     time: 2016-02-23
     room:
     authors:
@@ -367,7 +346,6 @@ talks:
   - title: Redux, Re-frame, Relay, Om/next, oh my!
     lang: en
     type: regular
-    level:
     time: 2016-02-23
     room:
     authors:
@@ -384,7 +362,6 @@ talks:
   - title: Performance Without Compromise
     lang: en
     type: regular
-    level:
     time: 2016-02-23
     room:
     authors:
@@ -401,7 +378,6 @@ talks:
   - title: A GraphQL Framework in Non-JS Servers
     lang: en
     type: regular
-    level:
     time: 2016-02-23
     room:
     authors:
@@ -418,7 +394,6 @@ talks:
   - title: Speeding up Startup for Large React Apps
     lang: en
     type: regular
-    level:
     time: 2016-02-23
     room:
     authors:
@@ -435,7 +410,6 @@ talks:
   - title: Rethinking All Practices "Building Applications in Elm"
     lang: en
     type: regular
-    level:
     time: 2016-02-23
     room:
     authors:
@@ -452,7 +426,6 @@ talks:
   - title: Optimising React Native "Tools and Tips"
     lang: en
     type: regular
-    level:
     time: 2016-02-23
     room:
     authors:
@@ -469,7 +442,6 @@ talks:
   - title: Back to React
     lang: en
     type: regular
-    level:
     time: 2016-02-23
     room:
     authors:
@@ -486,7 +458,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-23
     room:
     authors:
@@ -502,7 +473,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-23
     room:
     authors:
@@ -518,7 +488,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-23
     room:
     authors:
@@ -534,7 +503,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-23
     room:
     authors:
@@ -550,7 +518,6 @@ talks:
   - title: Lightning talk
     lang: en
     type: lightning
-    level:
     time: 2016-02-23
     room:
     authors:

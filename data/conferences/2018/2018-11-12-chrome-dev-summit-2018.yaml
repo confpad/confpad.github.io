@@ -21,7 +21,6 @@ talks:
   - title: Day 1 Keynote
     lang: en
     type: regular
-    level:
     time: 2018-11-12
     room:
     authors:
@@ -42,7 +41,6 @@ talks:
   - title: 'Get Down to Business: Why the Web Matters'
     lang: en
     type: regular
-    level:
     time: 2018-11-12
     room:
     authors:
@@ -71,7 +69,6 @@ talks:
   - title: State of the Union for Speed Tooling
     lang: en
     type: regular
-    level:
     time: 2018-11-12
     room:
     authors:
@@ -92,7 +89,6 @@ talks:
   - title: 'Speed Essentials: Key Techniques for Fast Websites'
     lang: en
     type: regular
-    level:
     time: 2018-11-12
     room:
     authors:
@@ -114,7 +110,6 @@ talks:
       Deep Dive'
     lang: en
     type: regular
-    level:
     time: 2018-11-12
     room:
     authors:
@@ -135,7 +130,6 @@ talks:
   - title: 'Smooth Moves: Rendering at the Speed of Right ®'
     lang: en
     type: regular
-    level:
     time: 2018-11-12
     room:
     authors:
@@ -156,7 +150,6 @@ talks:
   - title: Complex JS-heavy Web Apps, Avoiding the Slow
     lang: en
     type: regular
-    level:
     time: 2018-11-12
     room:
     authors:
@@ -177,7 +170,6 @@ talks:
   - title: 'Building Modern Web Media Experiences: Picture-in-Picture and AV1'
     lang: en
     type: regular
-    level:
     time: 2018-11-12
     room:
     authors:
@@ -198,7 +190,6 @@ talks:
   - title: Modern Websites for E-commerce in the Real World
     lang: en
     type: regular
-    level:
     time: 2018-11-12
     room:
     authors:
@@ -219,7 +210,6 @@ talks:
   - title: Progressive Content Management Systems
     lang: en
     type: regular
-    level:
     time: 2018-11-12
     room:
     authors:
@@ -240,7 +230,6 @@ talks:
   - title: Making Modern Web Content Discoverable for Search
     lang: en
     type: regular
-    level:
     time: 2018-11-12
     room:
     authors:
@@ -261,7 +250,6 @@ talks:
   - title: Day 2 Keynote
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -282,7 +270,6 @@ talks:
   - title: Feature Policy & the Well-Lit Path for Web Development
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -299,7 +286,6 @@ talks:
   - title: 'virtual-scroller: Let there be less (DOM)'
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -316,7 +302,6 @@ talks:
   - title: 'A Quest to Guarantee Responsiveness: Scheduling On and Off the Main Thread'
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -337,7 +322,6 @@ talks:
   - title: Architecting Web Apps - Lights, Camera, Action!
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -358,7 +342,6 @@ talks:
   - title: From Low Friction to Zero Friction with Web Packaging and Portals
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -387,7 +370,6 @@ talks:
   - title: State of Houdini
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -404,7 +386,6 @@ talks:
   - title: Building Engaging Immersive Experiences
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -425,7 +406,6 @@ talks:
   - title: Using WebAssembly and Threads
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -446,7 +426,6 @@ talks:
   - title: 'The Virtue of Laziness: Leveraging Incrementality for Faster Web UI'
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -463,7 +442,6 @@ talks:
   - title: 'Chrome OS: Ready for Web Development'
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:

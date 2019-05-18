@@ -21,7 +21,6 @@ talks:
   - title: Books, Walking, and the Ethics of Scale
     lang: en
     type: regular
-    level:
     time: 2018-09-10
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: 'The Small Things That Add Up: How to Find What Design Factors Influence Conversion Rates'
     lang: en
     type: regular
-    level:
     time: 2018-09-10
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Building Resilient Frontend Systems
     lang: en
     type: regular
-    level:
     time: 2018-09-10
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Designing for Global Audiences
     lang: en
     type: regular
-    level:
     time: 2018-09-10
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: I Thought we Were Building World Peace - Using Tech Ethics to Build Better Futures
     lang: en
     type: regular
-    level:
     time: 2018-09-10
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Hack to the Future
     lang: en
     type: regular
-    level:
     time: 2018-09-10
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: 'The Future of Travel: How Mixed Method Research Helped Shape Airbnb Experiences'
     lang: en
     type: regular
-    level:
     time: 2018-09-11
     room:
     authors:
@@ -139,7 +132,6 @@ talks:
   - title: Designing for Kids is not a Game
     lang: en
     type: regular
-    level:
     time: 2018-09-11
     room:
     authors:
@@ -156,7 +148,6 @@ talks:
   - title: Taking Back Control Over Third-party Content
     lang: en
     type: regular
-    level:
     time: 2018-09-11
     room:
     authors:
@@ -173,7 +164,6 @@ talks:
   - title: 'A Word to the Wise: Writing Product Copy to Transform Your User Experience'
     lang: en
     type: regular
-    level:
     time: 2018-09-11
     room:
     authors:
@@ -190,7 +180,6 @@ talks:
   - title: Design in the Era of the Algorithm
     lang: en
     type: regular
-    level:
     time: 2018-09-11
     room:
     authors:

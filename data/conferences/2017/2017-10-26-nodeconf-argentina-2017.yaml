@@ -21,7 +21,6 @@ talks:
   - title: V8 INTERNALS FOR JS DEVELOPERS
     lang: en
     type: regular
-    level:
     time: 2017-10-27
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: JS IN STRANGE PLACES
     lang: en
     type: regular
-    level:
     time: 2017-10-27
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: THE NYC SPACE/TIME DIRECTORY
     lang: en
     type: regular
-    level:
     time: 2017-10-27
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: “THERE IS NO SPOON” - BUILDING VR EXPERIENCES IN THE BROWSER (WITH JS)
     lang: en
     type: regular
-    level:
     time: 2017-10-27
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: DATA STORED EVERYWHERE AND NOWHERE - BUILDING APPLICATIONS ON THE DISTRIBUTED WEB
     lang: en
     type: regular
-    level:
     time: 2017-10-27
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: KEEPING YOUR STACK FRESH WITH AOT
     lang: en
     type: regular
-    level:
     time: 2017-10-27
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: AST A LA VISTA, BABY
     lang: en
     type: regular
-    level:
     time: 2017-10-27
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: NODE.JS & BLOCKCHAIN
     lang: en
     type: regular
-    level:
     time: 2017-10-27
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: AFTER YEARS OF NODE IN PRODUCTION, WE STILL BLOCK THE EVENT LOOP
     lang: en
     type: regular
-    level:
     time: 2017-10-27
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: THE STORY OF NODE-CHAKRACORE
     lang: en
     type: regular
-    level:
     time: 2017-10-28
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: HOW TO SORT YOUR SOCKS USING JAVASCRIPT
     lang: en
     type: regular
-    level:
     time: 2017-10-28
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: THE LONG ROAD TO ASYNC/AWAIT IN JAVASCRIPT
     lang: en
     type: regular
-    level:
     time: 2017-10-28
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: THE UNBEARABLE LIGHTNESS OF NODE MODULES
     lang: en
     type: regular
-    level:
     time: 2017-10-28
     room:
     authors:
@@ -242,7 +229,6 @@ talks:
   - title: PACKAGE QUEST
     lang: en
     type: regular
-    level:
     time: 2017-10-27
     room:
     authors:
@@ -259,7 +245,6 @@ talks:
   - title: '"PARÁ LA PELOTA": HOW YOU CAN GROW WITHOUT GETTING BURNT OUT'
     lang: en
     type: regular
-    level:
     time: 2017-10-28
     room:
     authors:
@@ -276,7 +261,6 @@ talks:
   - title: 'NPM 5: BRINGING PACKAGE MANAGEMENT TO THE FUTURE'
     lang: en
     type: regular
-    level:
     time: 2017-10-28
     room:
     authors:
@@ -293,7 +277,6 @@ talks:
   - title: EVERYTHING I THOUGHT I KNEW ABOUT THE EVENT LOOP WAS WRONG
     lang: en
     type: regular
-    level:
     time: 2017-10-28
     room:
     authors:
@@ -310,7 +293,6 @@ talks:
   - title: THE ROAD TO NODE
     lang: en
     type: regular
-    level:
     time: 2017-10-28
     room:
     authors:
@@ -327,7 +309,6 @@ talks:
   - title: NODE.JS <=> MACHINE LEARNING
     lang: en
     type: regular
-    level:
     time: 2017-10-28
     room:
     authors:
@@ -348,7 +329,6 @@ talks:
   - title: NODE.JS ADDONS FOR HIGH PERFORMANCE NUMERIC COMPUTING
     lang: en
     type: regular
-    level:
     time: 2017-10-28
     room:
     authors:
@@ -365,7 +345,6 @@ talks:
   - title: HOW TO BUILD THE STATUS APIS OF YOUR MICROSERVICES ECOSYSTEM
     lang: en
     type: regular
-    level:
     time: 2017-10-27
     room:
     authors:

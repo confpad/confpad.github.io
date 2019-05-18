@@ -21,7 +21,6 @@ talks:
   - title: Styling React/ReactNative Applications
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: How Pinterest switched their template rendering engine to React
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: A Real-World GraphQL Application in Production
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Fun With Fiber Custom Renderers
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Pushing Bugs to Prod Responsibly with React and Redux
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Test Like It's 2017
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Introduction to ReactVR
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Complexity"Divide and Conquer!"
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: Flow Typing a React Codebase
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: Sequencing Audio Using React and the Web Audio API
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -194,7 +184,6 @@ talks:
   - title: Coding Mobile with the Pros
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -211,7 +200,6 @@ talks:
   - title: Web Like Release Agility for React Native Apps
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -228,7 +216,6 @@ talks:
   - title: Asynchronous & Offline Magic Tricks on React Native
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -245,7 +232,6 @@ talks:
   - title: Universal React
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -262,7 +248,6 @@ talks:
   - title: Performance Limitations of React Native and How to Overcome Them
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -279,7 +264,6 @@ talks:
   - title: React Native Touch & Gesture
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -296,7 +280,6 @@ talks:
   - title: Navigating React Native Navigation
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -313,7 +296,6 @@ talks:
   - title: Testing & React Native"Lessons from the Battlefield"
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -330,7 +312,6 @@ talks:
   - title: Demystifying GraphQL Clients
     lang: en
     type: regular
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -347,7 +328,6 @@ talks:
   - title: Advanced SSR Caching with React
     lang: en
     type: lightning
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -364,7 +344,6 @@ talks:
   - title: Make Linting Great Again
     lang: en
     type: lightning
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -381,7 +360,6 @@ talks:
   - title: Generating your client validation rules
     lang: en
     type: lightning
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -397,7 +375,6 @@ talks:
   - title: Building Applications for the Studio in the Cloud at Netflix
     lang: en
     type: lightning
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -414,7 +391,6 @@ talks:
   - title: Practical Performance Tips Building Progressive Web Apps
     lang: en
     type: lightning
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -431,7 +407,6 @@ talks:
   - title: Creating a Pixel-Art Editor Using React and Redux
     lang: en
     type: lightning
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -446,7 +421,6 @@ talks:
   - title: Large scale in-store promotions with React
     lang: en
     type: lightning
-    level:
     time: 2017-04-21
     room:
     authors:
@@ -461,7 +435,6 @@ talks:
   - title: React and Redux Love Web APIs
     lang: en
     type: lightning
-    level:
     time: 2017-04-21
     room:
     authors:

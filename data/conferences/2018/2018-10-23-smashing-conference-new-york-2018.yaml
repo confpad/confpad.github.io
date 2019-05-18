@@ -21,7 +21,6 @@ talks:
   - title: Til Launch Do Us Part
     lang: en
     type: regular
-    level:
     time: 2018-10-23 09:50:00
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Building Inclusive Experiences with CSS and SVG
     lang: en
     type: regular
-    level:
     time: 2018-10-23 10:40:00
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: The Long Tail of Performance
     lang: en
     type: regular
-    level:
     time: 2018-10-23 12:00:00
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: New Adventures in Front-End
     lang: en
     type: regular
-    level:
     time: 2018-10-23 12:50:00
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Designing Progressive Web Apps
     lang: en
     type: regular
-    level:
     time: 2018-10-23 15:10:00
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: The Shape of Thoughts
     lang: en
     type: regular
-    level:
     time: 2018-10-23 16:00:00
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Why We Brand, Why We Buy
     lang: en
     type: regular
-    level:
     time: 2018-10-23 17:20:00
     room:
     authors:
@@ -139,7 +132,6 @@ talks:
   - title: And so the Mystery Begins…
     lang: en
     type: regular
-    level:
     time: 2018-10-24 09:40:00
     room:
     authors:
@@ -155,7 +147,6 @@ talks:
   - title: Serverless Functions and Vue.js
     lang: en
     type: regular
-    level:
     time: 2018-10-24 10:30:00
     room:
     authors:
@@ -172,7 +163,6 @@ talks:
   - title: Designing for Augmented Reality
     lang: en
     type: regular
-    level:
     time: 2018-10-24 11:50:00
     room:
     authors:
@@ -189,7 +179,6 @@ talks:
   - title: Bet you Didn't Think Your Browser Could do That
     lang: en
     type: regular
-    level:
     time: 2018-10-24 12:40:00
     room:
     authors:
@@ -206,7 +195,6 @@ talks:
   - title: Encouraging Clicks - How to Encourage Action Without Alienating People
     lang: en
     type: regular
-    level:
     time: 2018-10-24 15:00:00
     room:
     authors:
@@ -223,7 +211,6 @@ talks:
   - title: Design in the Era of the Algorithm
     lang: en
     type: regular
-    level:
     time: 2018-10-24 15:50:00
     room:
     authors:

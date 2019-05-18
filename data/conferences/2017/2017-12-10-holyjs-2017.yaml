@@ -21,7 +21,6 @@ talks:
   - title: The Post JavaScript Apocalypse
     lang: en
     type: regular
-    level:
     time: 2017-12-10
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Faster Angular applications
     lang: en
     type: regular
-    level:
     time: 2017-12-10
     room:
     authors:
@@ -56,7 +54,6 @@ talks:
   - title: Architectural etudes" how not to ruin the architecture of your project"
     lang: en
     type: regular
-    level:
     time: 2017-12-10
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Yarn, npm v5 or pnpm - who is cooler?
     lang: en
     type: regular
-    level:
     time: 2017-12-10
     room:
     authors:
@@ -90,7 +86,6 @@ talks:
   - title: Security" your application's vulnerabilities"
     lang: en
     type: regular
-    level:
     time: 2017-12-10
     room:
     authors:
@@ -108,7 +103,6 @@ talks:
   - title: UI components on pixel shaders, we write your first shader
     lang: en
     type: regular
-    level:
     time: 2017-12-10
     room:
     authors:
@@ -126,7 +120,6 @@ talks:
   - title: Real-world applications of hash functions
     lang: en
     type: regular
-    level:
     time: 2017-12-10
     room:
     authors:
@@ -143,7 +136,6 @@ talks:
   - title: Headless browsers" what, how and why"
     lang: en
     type: regular
-    level:
     time: 2017-12-10
     room:
     authors:
@@ -160,7 +152,6 @@ talks:
   - title: HyperDB - a scalable key-value store
     lang: en
     type: regular
-    level:
     time: 2017-12-10
     room:
     authors:
@@ -175,7 +166,6 @@ talks:
   - title: How to beat a quantum computer using WebAssembly?
     lang: en
     type: regular
-    level:
     time: 2017-12-10
     room:
     authors:
@@ -192,7 +182,6 @@ talks:
   - title: Troubleshooting Node.js Applications Under the Hood
     lang: en
     type: regular
-    level:
     time: 2017-12-10
     room:
     authors:
@@ -209,7 +198,6 @@ talks:
   - title: Inter Windows Communication, or How to build a full-featured RPC in the browser
     lang: en
     type: regular
-    level:
     time: 2017-12-10
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: Testing serverless applications
     lang: en
     type: regular
-    level:
     time: 2017-12-10
     room:
     authors:
@@ -240,7 +227,6 @@ talks:
   - title: New Adventures in Responsive Web Design
     lang: en
     type: regular
-    level:
     time: 2017-12-10
     room:
     authors:
@@ -258,7 +244,6 @@ talks:
   - title: You don't know node
     lang: en
     type: regular
-    level:
     time: 2017-12-11
     room:
     authors:
@@ -274,7 +259,6 @@ talks:
   - title: TypeScript, or Why is it so difficult
     lang: en
     type: regular
-    level:
     time: 2017-12-11
     room:
     authors:
@@ -290,7 +274,6 @@ talks:
   - title: Fatal Node.js flaw
     lang: en
     type: regular
-    level:
     time: 2017-12-11
     room:
     authors:
@@ -307,7 +290,6 @@ talks:
   - title: Big Bang Redesign" Smashing Magazine's 2017 Relaunch, a Case Study"
     lang: en
     type: regular
-    level:
     time: 2017-12-11
     room:
     authors:
@@ -324,7 +306,6 @@ talks:
   - title: Managing Asynchronicity with RQ
     lang: en
     type: regular
-    level:
     time: 2017-12-11
     room:
     authors:
@@ -341,7 +322,6 @@ talks:
   - title: The game "Heroes of Might and Magic in the browser long, difficult and unbearably interesting"
     lang: en
     type: regular
-    level:
     time: 2017-12-11
     room:
     authors:
@@ -359,7 +339,6 @@ talks:
   - title: How many frontenders do you need to write a mobile app?
     lang: en
     type: regular
-    level:
     time: 2017-12-11
     room:
     authors:
@@ -377,7 +356,6 @@ talks:
   - title: GraphQL - we conclude a profitable contract between the server and the client
     lang: en
     type: regular
-    level:
     time: 2017-12-11
     room:
     authors:
@@ -395,7 +373,6 @@ talks:
   - title: Bending time with Schedulers and RxJS 5
     lang: en
     type: regular
-    level:
     time: 2017-12-11
     room:
     authors:
@@ -412,7 +389,6 @@ talks:
   - title: (--We steal--) Get data from the Internet
     lang: en
     type: regular
-    level:
     time: 2017-12-11
     room:
     authors:
@@ -430,7 +406,6 @@ talks:
   - title: Unit testing with screenshots" breaking the sound barrier"
     lang: en
     type: regular
-    level:
     time: 2017-12-11
     room:
     authors:
@@ -448,7 +423,6 @@ talks:
   - title: Round table - JS everywhere silver bullet or curse?
     lang: en
     type: regular
-    level:
     time: 2017-12-11
     room:
     authors:
@@ -479,7 +453,6 @@ talks:
   - title: Animations in the world of states
     lang: en
     type: regular
-    level:
     time: 2017-12-11
     room:
     authors:
@@ -497,7 +470,6 @@ talks:
   - title: / Reg (exp) {2} lained / Demystifying Regular Expressions
     lang: en
     type: regular
-    level:
     time: 2017-12-11
     room:
     authors:

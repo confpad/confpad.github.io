@@ -21,7 +21,6 @@ talks:
   - title: Simplicity is Vuetiful
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: 7 Secret Patterns Vue Consultants Don’t Want You to Know
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Building Mobile Apps with Vue and Framework7
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -73,7 +70,6 @@ talks:
   - title: Vue PWA to Hybrid with Corber
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -90,7 +86,6 @@ talks:
   - title: The Importance of State Management in Vue
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:
@@ -107,7 +102,6 @@ talks:
   - title: Create an Engaging Native Mobile App with Vue and NativeScript
     lang: en
     type: regular
-    level:
     time: 2018-03-03
     room:
     authors:

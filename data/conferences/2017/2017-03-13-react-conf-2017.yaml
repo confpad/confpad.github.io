@@ -21,7 +21,6 @@ talks:
   - title: Keynote Part 1
     lang: en
     type: regular
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: 'Keynote Part 2: Incrementally Adopting React Native at Facebook and not just Keynote'
     lang: en
     type: regular
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -53,7 +51,6 @@ talks:
   - title: 'Keynote Part 3: React Performance End to End (React Fiber)'
     lang: en
     type: regular
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -69,7 +66,6 @@ talks:
   - title: A Cartoon Intro to Fiber
     lang: en
     type: regular
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -86,7 +82,6 @@ talks:
   - title: Next.js "Universal React Made Easy and Simple"
     lang: en
     type: regular
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -103,7 +98,6 @@ talks:
   - title: React + ES.next = ♥
     lang: en
     type: regular
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -120,7 +114,6 @@ talks:
   - title: 'MobX vs Redux: Comparing the Opposing Paradigms'
     lang: en
     type: regular
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -137,7 +130,6 @@ talks:
   - title: Type Systems Will Make You a Better JavaScript Developer
     lang: en
     type: regular
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -154,7 +146,6 @@ talks:
   - title: React Native in the "Brown Field"
     lang: en
     type: regular
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -171,7 +162,6 @@ talks:
   - title: Moving Beyond Animations to User Interactions at 60 FPS in React Native
     lang: en
     type: regular
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -188,7 +178,6 @@ talks:
   - title: Moving Fast with Nuclide and Flow
     lang: en
     type: lightning
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -205,7 +194,6 @@ talks:
   - title: AWS Lambda + AWS Gateway + React = AWEsome
     lang: en
     type: lightning
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -222,7 +210,6 @@ talks:
   - title: React to Code
     lang: en
     type: lightning
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -239,7 +226,6 @@ talks:
   - title: The Road to Styled Components
     lang: en
     type: lightning
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -256,7 +242,6 @@ talks:
   - title: Building Applications for a Studio in the Cloud at Netflix
     lang: en
     type: lightning
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -273,7 +258,6 @@ talks:
   - title: You Don't Need a Fancy Framework to Use GraphQL with React
     lang: en
     type: lightning
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -290,7 +274,6 @@ talks:
   - title: Cross-Platform Data Visualization with React and React Native
     lang: en
     type: lightning
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -307,7 +290,6 @@ talks:
   - title: Using React for Anything but Websites
     lang: en
     type: lightning
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -324,7 +306,6 @@ talks:
   - title: React Everything, Render Everywhere
     lang: en
     type: lightning
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -341,7 +322,6 @@ talks:
   - title: Create React Native App "5 Minutes to, Hello, World!"
     lang: en
     type: lightning
-    level:
     time: 2017-03-13
     room:
     authors:
@@ -358,7 +338,6 @@ talks:
   - title: Goodbye Flatland! An introduction to ReactVR and what it means for web developers
     lang: en
     type: regular
-    level:
     time: 2017-03-14
     room:
     authors:
@@ -375,7 +354,6 @@ talks:
   - title: Realtime React Apps with GraphQL
     lang: en
     type: regular
-    level:
     time: 2017-03-14
     room:
     authors:
@@ -392,7 +370,6 @@ talks:
   - title: Jest Snapshots and Beyond
     lang: en
     type: regular
-    level:
     time: 2017-03-14
     room:
     authors:
@@ -409,7 +386,6 @@ talks:
   - title: A Beginner's Guide to Code Splitting Your React App
     lang: en
     type: regular
-    level:
     time: 2017-03-14
     room:
     authors:
@@ -426,7 +402,6 @@ talks:
   - title: Web-Like Development and Release Agility for React Native
     lang: en
     type: regular
-    level:
     time: 2017-03-14
     room:
     authors:
@@ -443,7 +418,6 @@ talks:
   - title: React-Storybook"Design, Develop, Document and Debug your React UI components"
     lang: en
     type: regular
-    level:
     time: 2017-03-14
     room:
     authors:
@@ -460,7 +434,6 @@ talks:
   - title: Extensible React
     lang: en
     type: regular
-    level:
     time: 2017-03-14
     room:
     authors:
@@ -477,7 +450,6 @@ talks:
   - title: Building React Communities Outside of Your Circle
     lang: en
     type: lightning
-    level:
     time: 2017-03-14
     room:
     authors:
@@ -494,7 +466,6 @@ talks:
   - title: A Prettier Printer
     lang: en
     type: lightning
-    level:
     time: 2017-03-14
     room:
     authors:
@@ -511,7 +482,6 @@ talks:
   - title: How to React in the Slow Lane
     lang: en
     type: lightning
-    level:
     time: 2017-03-14
     room:
     authors:
@@ -528,7 +498,6 @@ talks:
   - title: The Great Convergence with React
     lang: en
     type: lightning
-    level:
     time: 2017-03-14
     room:
     authors:
@@ -545,7 +514,6 @@ talks:
   - title: Learn Once, Route Anywhere
     lang: en
     type: lightning
-    level:
     time: 2017-03-14
     room:
     authors:
@@ -562,7 +530,6 @@ talks:
   - title: Taming the Meta-Language
     lang: en
     type: regular
-    level:
     time: 2017-03-14
     room:
     authors:

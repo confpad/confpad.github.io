@@ -21,7 +21,6 @@ talks:
   - title: At scale, everything is hard
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: Kubernetes 101
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: Just-Right Consistency
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -75,7 +72,6 @@ talks:
   - title: Demonstrating your Architecture
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -93,7 +89,6 @@ talks:
   - title: Distributions and package management in the containers era
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -111,7 +106,6 @@ talks:
   - title: Git as a continuous manager
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -129,7 +123,6 @@ talks:
   - title: 'Nano-node: Intelligent Hard Drives in Large Storage Infrastructures'
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -147,7 +140,6 @@ talks:
   - title: Serverless, Revealed!
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -164,7 +156,6 @@ talks:
   - title: Observability tips with HAProxy
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -182,7 +173,6 @@ talks:
   - title: Three heretical opinions about the future of time-series data
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -200,7 +190,6 @@ talks:
   - title: The Data of Infrastructures
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -217,7 +206,6 @@ talks:
   - title: Data Cartography
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -235,7 +223,6 @@ talks:
   - title: Designing Scalable and Extendable Data Pipeline for Call of Duty Games
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:
@@ -253,7 +240,6 @@ talks:
   - title: Istio, we have a problem! Understanding and fixing bugs with a service-mesh
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room:
     authors:

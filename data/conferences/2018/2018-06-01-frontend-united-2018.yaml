@@ -21,7 +21,6 @@ talks:
   - title: FaCSSt—CSS and Performance
     lang: en
     type: regular
-    level:
     time: 2018-06-01 09:00:00
     room: Justlease room
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Vue.js deep dive, looking to the future
     lang: en
     type: regular
-    level:
     time: 2018-06-01 10:00:00
     room: Justlease room
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: 'Beyond the DOM: what’s in the accessibility tree for you?'
     lang: en
     type: regular
-    level:
     time: 2018-06-01 10:00:00
     room: 1xINTERNET room
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: PWAs, are we there yet?!
     lang: en
     type: regular
-    level:
     time: 2018-06-01 11:20:00
     room: Justlease room
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Designing for product-service ecosystems
     lang: en
     type: regular
-    level:
     time: 2018-06-01 11:20:00
     room: 1xINTERNET room
     authors:
@@ -105,7 +100,6 @@ talks:
   - title: Breaking the norm with creative CSS
     lang: en
     type: regular
-    level:
     time: 2018-06-01 12:20:00
     room: Justlease room
     authors:
@@ -122,7 +116,6 @@ talks:
   - title: Debunking the Imposter Syndrome Myth
     lang: en
     type: regular
-    level:
     time: 2018-06-01 12:20:00
     room: 1xINTERNET room
     authors:
@@ -139,7 +132,6 @@ talks:
   - title: 'Talk over text: Conversational interface design and usability'
     lang: en
     type: regular
-    level:
     time: 2018-06-01 13:45:00
     room: Justlease room
     authors:
@@ -156,7 +148,6 @@ talks:
   - title: We need to talk about Preact
     lang: en
     type: regular
-    level:
     time: 2018-06-01 13:45:00
     room: 1xINTERNET room
     authors:
@@ -173,7 +164,6 @@ talks:
   - title: Debugging, Profiling, & Rocking Out with Browser-Based Developer Tools!
     lang: en
     type: regular
-    level:
     time: 2018-06-01 14:45:00
     room: Justlease room
     authors:
@@ -190,7 +180,6 @@ talks:
   - title: Decrease your conversions – common ways to lock people out
     lang: en
     type: regular
-    level:
     time: 2018-06-01 14:45:00
     room: 1xINTERNET room
     authors:
@@ -207,7 +196,6 @@ talks:
   - title: A practical guide to style guide driven development
     lang: en
     type: regular
-    level:
     time: 2018-06-01 16:05:00
     room: Justlease room
     authors:
@@ -228,7 +216,6 @@ talks:
   - title: Exploring the new Drupal front-end with JavaScript 🌈🦄
     lang: en
     type: regular
-    level:
     time: 2018-06-01
     room: Justlease room
     authors:
@@ -245,7 +232,6 @@ talks:
   - title: Privacy, data protection, and open source development
     lang: en
     type: regular
-    level:
     time: 2018-06-02 09:00:00
     room: Justlease room
     authors:
@@ -262,7 +248,6 @@ talks:
   - title: Visual Studio Code can do that?
     lang: en
     type: regular
-    level:
     time: 2018-06-02 10:00:00
     room: Justlease room
     authors:
@@ -279,7 +264,6 @@ talks:
   - title: The web is ready for great graphic design
     lang: en
     type: regular
-    level:
     time: 2018-06-02 10:00:00
     room: 1xINTERNET room
     authors:
@@ -296,7 +280,6 @@ talks:
   - title: I’ve built a SPA, now what?
     lang: en
     type: regular
-    level:
     time: 2018-06-02 11:20:00
     room: Justlease room
     authors:
@@ -313,7 +296,6 @@ talks:
   - title: Atomic design in responsive design
     lang: en
     type: regular
-    level:
     time: 2018-06-02 11:20:00
     room: 1xINTERNET room
     authors:
@@ -330,7 +312,6 @@ talks:
   - title: In Defence of CSS and the Cascade
     lang: en
     type: regular
-    level:
     time: 2018-06-02 12:20:00
     room: Justlease room
     authors:
@@ -347,7 +328,6 @@ talks:
   - title: What Can We Learn With JavaScript Fatigue?
     lang: en
     type: regular
-    level:
     time: 2018-06-02 12:20:00
     room: 1xINTERNET room
     authors:
@@ -364,7 +344,6 @@ talks:
   - title: Creating daily art with code
     lang: en
     type: regular
-    level:
     time: 2018-06-02 13:45:00
     room: Justlease room
     authors:
@@ -381,7 +360,6 @@ talks:
   - title: Ambitious Editorial Experiences with Headless Drupal
     lang: en
     type: regular
-    level:
     time: 2018-06-02 13:45:00
     room: 1xINTERNET room
     authors:
@@ -398,7 +376,6 @@ talks:
   - title: Fun with Bluetooth
     lang: en
     type: regular
-    level:
     time: 2018-06-02 14:45:00
     room: Justlease room
     authors:
@@ -415,7 +392,6 @@ talks:
   - title: Responsive Images and Art Direction
     lang: en
     type: regular
-    level:
     time: 2018-06-02 14:45:00
     room: 1xINTERNET room
     authors:
@@ -432,7 +408,6 @@ talks:
   - title: Building a component based library with React
     lang: en
     type: regular
-    level:
     time: 2018-06-02 16:05:00
     room: Justlease room
     authors:
@@ -449,7 +424,6 @@ talks:
   - title: Designing Anticipated User Experiences
     lang: en
     type: regular
-    level:
     time: 2018-06-02 16:05:00
     room: 1xINTERNET room
     authors:
@@ -466,7 +440,6 @@ talks:
   - title: Get Your Priorities Straight
     lang: en
     type: regular
-    level:
     time: 2018-06-02 17:05:00
     room: Justlease room
     authors:

@@ -21,7 +21,6 @@ talks:
   - title: Vue 3.0 Updates
     lang: en
     type: regular
-    level:
     time: 2018-11-15
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Vuetify, The Path to 2.0
     lang: en
     type: regular
-    level:
     time: 2018-11-15
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Visualizations using SVG, Canvas, and WebGL in Vue
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: 'Vue and Vuex: The good, the bad and the ugly'
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Light, lazy asynchronous patterns for Vue Apps
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Nuxt.js 2.0
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Augmenting Shopify with Vue.js
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: A Token Walks Into a SPA
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: Easy 3D Graphics with Vue
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: Design Systems in Vue
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: Enhancing Cart Customization with Vue
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: Vue Instance & Communication with the Outside World
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: nextTick Down to Business
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -242,7 +229,6 @@ talks:
   - title: The Performance Alphabet
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -259,7 +245,6 @@ talks:
   - title: Vuetify, The Path to 2.0
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:

@@ -21,7 +21,6 @@ talks:
   - title: Deep Learning in JS
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: 10 Things I Regret About Node.js
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -54,7 +52,6 @@ talks:
   - title: Aggressive Web Apps
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -71,7 +68,6 @@ talks:
   - title: Nested Loops opening
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -95,7 +91,6 @@ talks:
   - title: 'Live:js opening'
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -124,7 +119,6 @@ talks:
   - title: Exploring Augmented Reality on the Web
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -141,7 +135,6 @@ talks:
   - title: TC39 Panel
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -158,7 +151,6 @@ talks:
   - title: Look mum, no hands! — Brain controlled JavaScript
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -175,7 +167,6 @@ talks:
   - title: 'Unintended Consequences: How to Reduce Exclusionary Practices (…)'
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -192,7 +183,6 @@ talks:
   - title: 'JavaScript Engines: The Good Parts™'
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -213,7 +203,6 @@ talks:
   - title: To push, or not to push?! - The future of HTTP/2 server push
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -230,7 +219,6 @@ talks:
   - title: 'From You Can''t to You Can: The Welcoming Nature of Javascript'
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -247,7 +235,6 @@ talks:
   - title: Computer, build me an app
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -264,7 +251,6 @@ talks:
   - title: 'Baby’s First Rust+WebAssembly module: Say hi to JSConf EU!'
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -280,7 +266,6 @@ talks:
   - title: TCP - A story about hope, (pkg) loss && the missing link
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -297,7 +282,6 @@ talks:
   - title: Journey of JS community from 2 to 2k members
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -314,7 +298,6 @@ talks:
   - title: Existential Engineering or How Ethics Precedes Error Handling
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -331,7 +314,6 @@ talks:
   - title: Hand-crafting WebAssembly
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -348,7 +330,6 @@ talks:
   - title: Further Adventures of the Event Loop
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -365,7 +346,6 @@ talks:
   - title: Empathy-Driven Development
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -382,7 +362,6 @@ talks:
   - title: 'Metro: Scaling JavaScript Build Systems'
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -399,7 +378,6 @@ talks:
   - title: The Etymology of Programming
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -416,7 +394,6 @@ talks:
   - title: Metaphors We Compute By
     lang: en
     type: regular
-    level:
     time: 2018-06-02
     room:
     authors:
@@ -433,7 +410,6 @@ talks:
   - title: 'Please wait... loading: a tale of two loaders'
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -450,7 +426,6 @@ talks:
   - title: Visualising Enterprise Data with D3
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -467,7 +442,6 @@ talks:
   - title: 'Asynchrony: Under the Hood'
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -484,7 +458,6 @@ talks:
   - title: 'Time travel debugging: A step-by-step guide'
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -501,7 +474,6 @@ talks:
   - title: 'Haute Codeture: Clothing as a Canvas'
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -518,7 +490,6 @@ talks:
   - title: 'Native BigInts in JavaScript: A Case Study in TC39'
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -535,7 +506,6 @@ talks:
   - title: Securing your site like it's 1999
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -552,7 +522,6 @@ talks:
   - title: 'Tales From the Trenches: Fingerprints on the Web'
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -569,7 +538,6 @@ talks:
   - title: About Coding Kids and Screaming Carrots
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -586,7 +554,6 @@ talks:
   - title: Quirks and surprises of webdev in China
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -603,7 +570,6 @@ talks:
   - title: Improving Low-Connectivity Experiences on the Web
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -620,7 +586,6 @@ talks:
   - title: 'Kablooie: A History of Errors & a Future of Solutions'
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -637,7 +602,6 @@ talks:
   - title: Breaking Changes
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -654,7 +618,6 @@ talks:
   - title: Build Advanced Search Experiences with a Custom Query Language
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -671,7 +634,6 @@ talks:
   - title: 'When Chomsky Met JavaScript: Exploring the Linguistics(...)'
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -688,7 +650,6 @@ talks:
   - title: Hey you, do you even design ?
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -705,7 +666,6 @@ talks:
   - title: Photorealistic Real Time Computer Graphics with Javascript
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -722,7 +682,6 @@ talks:
   - title: A Node.js Security Roadmap
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -739,7 +698,6 @@ talks:
   - title: Formalizing user rights on the Web
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -756,7 +714,6 @@ talks:
   - title: 'Imagine This: A Web Without Servers'
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -773,7 +730,6 @@ talks:
   - title: 'From Rabbi to Coder: How To Prepare for the Technical Interview'
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:
@@ -790,7 +746,6 @@ talks:
   - title: Using a modern web to recreate 1980s horribly slow & loud loading screens
     lang: en
     type: regular
-    level:
     time: 2018-06-03
     room:
     authors:

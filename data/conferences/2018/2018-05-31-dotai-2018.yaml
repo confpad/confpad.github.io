@@ -21,7 +21,6 @@ talks:
   - title: All AI Roads Lead to Distribution
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: Processing 100+ million images per month with deep learning
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: Machine Learning on Source Code
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -75,7 +72,6 @@ talks:
   - title: 'Logistics and data: towards a decision support tool'
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -93,7 +89,6 @@ talks:
   - title: Software 2.0, a Babel fish for deep learning?
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -111,7 +106,6 @@ talks:
   - title: Traps to avoid when working with AI
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -129,7 +123,6 @@ talks:
   - title: Deep Learning in the Wild
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -147,7 +140,6 @@ talks:
   - title: Knowledge Graphs & Deep Learning at YouTube
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -165,7 +157,6 @@ talks:
   - title: 'Crowdsourcing Artificial Intelligence for Science: YOU can do a lot!'
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -183,7 +174,6 @@ talks:
   - title: Using structure to select features in high dimension
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -201,7 +191,6 @@ talks:
   - title: Model Serving for Deep Learning
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:
@@ -219,7 +208,6 @@ talks:
   - title: Building Trust through Explainable AI
     lang: en
     type: regular
-    level:
     time: 2018-05-31
     room:
     authors:

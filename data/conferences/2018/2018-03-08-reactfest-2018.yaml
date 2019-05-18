@@ -21,7 +21,6 @@ talks:
   - title: Zero Config GraphQL State Management
     lang: en
     type: regular
-    level:
     time: 2018-03-09
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: Suspense
     lang: en
     type: regular
-    level:
     time: 2018-03-09
     room:
     authors:
@@ -56,7 +54,6 @@ talks:
   - title: The Dark and Lonely Road to Styling in React
     lang: en
     type: regular
-    level:
     time: 2018-03-09
     room:
     authors:
@@ -74,7 +71,6 @@ talks:
   - title: State Management in a GraphQL Era
     lang: en
     type: regular
-    level:
     time: 2018-03-09
     room:
     authors:
@@ -92,7 +88,6 @@ talks:
   - title: Productive React Development
     lang: en
     type: regular
-    level:
     time: 2018-03-09
     room:
     authors:
@@ -109,7 +104,6 @@ talks:
   - title: How to Draw an Owl
     lang: en
     type: regular
-    level:
     time: 2018-03-09
     room:
     authors:
@@ -127,7 +121,6 @@ talks:
   - title: You Have No Excuse!
     lang: en
     type: regular
-    level:
     time: 2018-03-09
     room:
     authors:
@@ -144,7 +137,6 @@ talks:
   - title: Wait, What Happens When My React Native Application Starts?
     lang: en
     type: regular
-    level:
     time: 2018-03-09
     room:
     authors:
@@ -161,7 +153,6 @@ talks:
   - title: An Introduction to Redux Saga
     lang: en
     type: regular
-    level:
     time: 2018-03-09
     room:
     authors:
@@ -179,7 +170,6 @@ talks:
   - title: We Need To Talk About Our Frontend Workflow
     lang: en
     type: regular
-    level:
     time: 2018-03-09
     room:
     authors:
@@ -196,7 +186,6 @@ talks:
   - title: Journey Through VR and AR with React
     lang: en
     type: regular
-    level:
     time: 2018-03-09
     room:
     authors:
@@ -214,7 +203,6 @@ talks:
   - title: GraphQL Servers in the Browser
     lang: en
     type: regular
-    level:
     time: 2018-03-09
     room:
     authors:
@@ -232,7 +220,6 @@ talks:
   - title: Taming the Beast How to Tame React and GraphQL
     lang: en
     type: regular
-    level:
     time: 2018-03-09
     room:
     authors:
@@ -250,7 +237,6 @@ talks:
   - title: Garbage Collection in Modern Web Applications
     lang: en
     type: regular
-    level:
     time: 2018-03-09
     room:
     authors:

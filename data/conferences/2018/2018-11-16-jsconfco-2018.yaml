@@ -21,7 +21,6 @@ talks:
   - title: Interferencia
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -40,7 +39,6 @@ talks:
   - title: 10KB or Bust" The Delicate Power of Webpack and Babel"
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: Shipyard" summarize, navigate and explore multidimensional data without coding"
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Creating Your Own Image Format in the Browser
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: El error en dar un error por hecho
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Linear Algebra for FE Developers
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Finding and debugging memory leaks in Node.js
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -138,7 +131,6 @@ talks:
   - title: Migrating Pinterest profiles to React
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -155,7 +147,6 @@ talks:
   - title: Una historia de amor entre JavaScript y C++
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -172,7 +163,6 @@ talks:
   - title: Teaching Programming to Kids - by a 13 year old
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -189,7 +179,6 @@ talks:
   - title: Web & Mobile Convergence @Univision
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -206,7 +195,6 @@ talks:
   - title: The Lost Art of MIDI – Bringing < bgsound> Back to the Web
     lang: en
     type: regular
-    level:
     time: 2018-11-16
     room:
     authors:
@@ -223,7 +211,6 @@ talks:
   - title: Muses Code JS or How Communities Change People
     lang: en
     type: regular
-    level:
     time: 2018-11-17
     room:
     authors:
@@ -238,7 +225,6 @@ talks:
   - title: IA para videojuegos con JS
     lang: en
     type: regular
-    level:
     time: 2018-11-17
     room:
     authors:
@@ -255,7 +241,6 @@ talks:
   - title: How I started mocking my GraphQL Schema
     lang: en
     type: regular
-    level:
     time: 2018-11-17
     room:
     authors:
@@ -272,7 +257,6 @@ talks:
   - title: There is a Bluebird in my talk that wants to get out
     lang: en
     type: regular
-    level:
     time: 2018-11-17
     room:
     authors:
@@ -287,7 +271,6 @@ talks:
   - title: Preprocessors, Components, and CSS in JS or" How I Learned to Stop Worrying and Love the Website"
     lang: en
     type: regular
-    level:
     time: 2018-11-17
     room:
     authors:
@@ -302,7 +285,6 @@ talks:
   - title: De 2D a 3D" cómo diseñar interfaces de usuario en Realidad Virtual"
     lang: en
     type: regular
-    level:
     time: 2018-11-17
     room:
     authors:
@@ -319,7 +301,6 @@ talks:
   - title: Programming Visual Art
     lang: en
     type: regular
-    level:
     time: 2018-11-17
     room:
     authors:
@@ -334,7 +315,6 @@ talks:
   - title: Tracing Node. The Open Source Edition
     lang: en
     type: regular
-    level:
     time: 2018-11-17
     room:
     authors:
@@ -349,7 +329,6 @@ talks:
   - title: Automated Testing for the Modern Web
     lang: en
     type: regular
-    level:
     time: 2018-11-17
     room:
     authors:
@@ -364,7 +343,6 @@ talks:
   - title: How I ended up automating my curtains and shouting at my laptop
     lang: en
     type: regular
-    level:
     time: 2018-11-17
     room:
     authors:
@@ -379,7 +357,6 @@ talks:
   - title: To see what others can not... You must climb the mountain, A Introduction to Load Testing
     lang: en
     type: regular
-    level:
     time: 2018-11-17
     room:
     authors:
@@ -394,7 +371,6 @@ talks:
   - title: Speed, Speed, Speed" JavaScript vs C++ vs WebAssembly"
     lang: en
     type: regular
-    level:
     time: 2018-11-17
     room:
     authors:

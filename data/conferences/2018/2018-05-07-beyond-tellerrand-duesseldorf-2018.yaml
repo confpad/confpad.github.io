@@ -21,7 +21,6 @@ talks:
   - title: A Tinker Story
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: 'Web Annotation: The Web’s Conversation Layer'
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: From World War 1 to Fast & Furious Live
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: In the Brink of Consciousness
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Broad Band – What History’s Female Internet Pioneers can Teach us about Tomorrow
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: 'Hidden in plain view: Bleeding edge accessibility so good you never noticed'
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: The Importance of Failing Successfully
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: No Effing Failure
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: The Dangers of Being a Web Developer
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: How to Build an Atomic Bomb
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: Design for Non-Designers
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: Don't Use My Grid System (or any others)
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: Generative Spaces
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -241,7 +228,6 @@ talks:
   - title: 'Warm-Up Talk: ARIA Serious?'
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -258,7 +244,6 @@ talks:
   - title: 'Warm-Up Talk: Reanimating the Web'
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -275,7 +260,6 @@ talks:
   - title: 'Warm-Up Talk: Perceptions of Pair Programming'
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:
@@ -292,7 +276,6 @@ talks:
   - title: 'Warm-Up Talk: Browser APIs – the unknown Super Heroes'
     lang: en
     type: regular
-    level:
     time: 2018-05-08
     room:
     authors:

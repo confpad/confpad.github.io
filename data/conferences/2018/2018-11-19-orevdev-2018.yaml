@@ -21,7 +21,6 @@ talks:
   - title: Hacking the World with Digital Biology
     lang: en
     type: regular
-    level:
     time: 2018-11-19 09:00:00
     room: Epigenetic Gardens
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Building Mixed Reality Apps
     lang: en
     type: regular
-    level:
     time: 2018-11-19 10:30:00
     room: Bionic Square
     authors:
@@ -54,7 +52,6 @@ talks:
   - title: '12-Factor, Cloud Native Enterprise Java Applications'
     lang: en
     type: regular
-    level:
     time: 2018-11-19 10:30:00
     room: CRISPR Corner
     authors:
@@ -71,7 +68,6 @@ talks:
   - title: Building Evolutionary Architectures
     lang: en
     type: regular
-    level:
     time: 2018-11-19 10:30:00
     room: Cryogenic Chamber
     authors:
@@ -88,7 +84,6 @@ talks:
   - title: What's New in CSS?
     lang: en
     type: regular
-    level:
     time: 2018-11-19 10:30:00
     room: Epigenetic Gardens
     authors:
@@ -105,7 +100,6 @@ talks:
   - title: Building Performant Backends with Elixir
     lang: en
     type: regular
-    level:
     time: 2018-11-19 10:30:00
     room: Neosense Beach
     authors:
@@ -122,7 +116,6 @@ talks:
   - title: 'ASP.NET Core in Production: Lessons Learned'
     lang: en
     type: regular
-    level:
     time: 2018-11-19 10:30:00
     room: Nootropic Market
     authors:
@@ -139,7 +132,6 @@ talks:
   - title: Stop Building Useless Software
     lang: en
     type: regular
-    level:
     time: 2018-11-19 10:30:00
     room: Senescence Forest
     authors:
@@ -156,7 +148,6 @@ talks:
   - title: GDPR Compliance for Your Datastore
     lang: en
     type: regular
-    level:
     time: 2018-11-19 11:30:00
     room: Bionic Square
     authors:
@@ -172,7 +163,6 @@ talks:
   - title: Having Your Cake and Eating It Too — GraphQL in Reason
     lang: en
     type: regular
-    level:
     time: 2018-11-19 11:30:00
     room: CRISPR Corner
     authors:
@@ -189,7 +179,6 @@ talks:
   - title: The New Paradigm For Leading Teams in the Digital Age
     lang: en
     type: regular
-    level:
     time: 2018-11-19 11:30:00
     room: Cryogenic Chamber
     authors:
@@ -210,7 +199,6 @@ talks:
   - title: Dissecting the stdlib
     lang: en
     type: regular
-    level:
     time: 2018-11-19 11:30:00
     room: Epigenetic Gardens
     authors:
@@ -227,7 +215,6 @@ talks:
   - title: Reality is Becoming Virtual
     lang: en
     type: regular
-    level:
     time: 2018-11-19 11:30:00
     room: Neosense Beach
     authors:
@@ -243,7 +230,6 @@ talks:
   - title: Functional Patterns for the Object Oriented
     lang: en
     type: regular
-    level:
     time: 2018-11-19 11:30:00
     room: Nootropic Market
     authors:
@@ -260,7 +246,6 @@ talks:
   - title: Designing Distributed Systems with TLA+
     lang: en
     type: regular
-    level:
     time: 2018-11-19 11:30:00
     room: Senescence Forest
     authors:
@@ -277,7 +262,6 @@ talks:
   - title: 'TDD on Android: Why and how?'
     lang: en
     type: regular
-    level:
     time: 2018-11-19 12:50:00
     room: Bionic Square
     authors:
@@ -293,7 +277,6 @@ talks:
   - title: Practice Safe Networking
     lang: en
     type: regular
-    level:
     time: 2018-11-19 12:50:00
     room: CRISPR Corner
     authors:
@@ -310,7 +293,6 @@ talks:
   - title: Crafting Faster in the Dark
     lang: en
     type: regular
-    level:
     time: 2018-11-19 12:50:00
     room: Cryogenic Chamber
     authors:
@@ -327,7 +309,6 @@ talks:
   - title: 'Behind the Scenes at Gapminder: A Story about Data and Visualizations'
     lang: en
     type: regular
-    level:
     time: 2018-11-19 12:50:00
     room: Epigenetic Gardens
     authors:
@@ -344,7 +325,6 @@ talks:
   - title: The Future of QA in the Age of AI
     lang: en
     type: regular
-    level:
     time: 2018-11-19 12:50:00
     room: Neosense Beach
     authors:
@@ -360,7 +340,6 @@ talks:
   - title: 'Blazor, a New .NET Single Page Application Framework'
     lang: en
     type: regular
-    level:
     time: 2018-11-19 12:50:00
     room: Nootropic Market
     authors:
@@ -377,7 +356,6 @@ talks:
   - title: How to Be a High Performing Distributed Agile Team
     lang: en
     type: regular
-    level:
     time: 2018-11-19 12:50:00
     room: Senescence Forest
     authors:
@@ -394,7 +372,6 @@ talks:
   - title: Java with a Clojure Mindset
     lang: en
     type: regular
-    level:
     time: 2018-11-19 13:50:00
     room: Bionic Square
     authors:
@@ -410,7 +387,6 @@ talks:
   - title: 'Functional Programming in the Cloud: Simpler Application Development with Datomic Cloud'
     lang: en
     type: regular
-    level:
     time: 2018-11-19 13:50:00
     room: CRISPR Corner
     authors:
@@ -427,7 +403,6 @@ talks:
   - title: Science based Design Decision Making for Virtual Reality
     lang: en
     type: regular
-    level:
     time: 2018-11-19 13:50:00
     room: Cryogenic Chamber
     authors:
@@ -444,7 +419,6 @@ talks:
   - title: 'Hackers Gonna Hack: Identifying and Fixing Vulnerabilities Proactively'
     lang: en
     type: regular
-    level:
     time: 2018-11-19 13:50:00
     room: Epigenetic Gardens
     authors:
@@ -461,7 +435,6 @@ talks:
   - title: Building cross-platform mobile apps with Flutter.io
     lang: en
     type: regular
-    level:
     time: 2018-11-19 13:50:00
     room: Neosense Beach
     authors:
@@ -477,7 +450,6 @@ talks:
   - title: Client Library Design Stories
     lang: en
     type: regular
-    level:
     time: 2018-11-19 13:50:00
     room: Nootropic Market
     authors:
@@ -494,7 +466,6 @@ talks:
   - title: Lean vs Agile vs Design Thinking
     lang: en
     type: regular
-    level:
     time: 2018-11-19 13:50:00
     room: Senescence Forest
     authors:
@@ -511,7 +482,6 @@ talks:
   - title: Designing Intuitive Tools
     lang: en
     type: regular
-    level:
     time: 2018-11-19 15:10:00
     room: Bionic Square
     authors:
@@ -527,7 +497,6 @@ talks:
   - title: Tuckman was Wrong — Dynamic Teaming
     lang: en
     type: regular
-    level:
     time: 2018-11-19 15:10:00
     room: CRISPR Corner
     authors:
@@ -544,7 +513,6 @@ talks:
   - title: 10 Surprises for a JVM Engineer in Real Life Java Development
     lang: en
     type: regular
-    level:
     time: 2018-11-19 15:10:00
     room: Cryogenic Chamber
     authors:
@@ -561,7 +529,6 @@ talks:
   - title: Oops! OOP's not what I thought
     lang: en
     type: regular
-    level:
     time: 2018-11-19 15:10:00
     room: Epigenetic Gardens
     authors:
@@ -578,7 +545,6 @@ talks:
   - title: Nailing down bugs in distributed systems
     lang: en
     type: regular
-    level:
     time: 2018-11-19 15:10:00
     room: Neosense Beach
     authors:
@@ -594,7 +560,6 @@ talks:
   - title: 'C# 8 and Beyond'
     lang: en
     type: regular
-    level:
     time: 2018-11-19 15:10:00
     room: Nootropic Market
     authors:
@@ -611,7 +576,6 @@ talks:
   - title: A New Model for Software Development
     lang: en
     type: regular
-    level:
     time: 2018-11-19 15:10:00
     room: Senescence Forest
     authors:
@@ -627,7 +591,6 @@ talks:
   - title: 'Future of VR Cinematography: Photogrammetry, Volumetric Videos, Mocap Animations'
     lang: en
     type: regular
-    level:
     time: 2018-11-19 16:10:00
     room: Bionic Square
     authors:
@@ -643,7 +606,6 @@ talks:
   - title: 'Istio on Kubernetes: Chaos, Canaries, Dark Launches'
     lang: en
     type: regular
-    level:
     time: 2018-11-19 16:10:00
     room: CRISPR Corner
     authors:
@@ -660,7 +622,6 @@ talks:
   - title: 'Compiler Errors in rustc: A UX Perspective'
     lang: en
     type: regular
-    level:
     time: 2018-11-19 16:10:00
     room: Cryogenic Chamber
     authors:
@@ -677,7 +638,6 @@ talks:
   - title: Hyped About Hyperapp
     lang: en
     type: regular
-    level:
     time: 2018-11-19 16:10:00
     room: Epigenetic Gardens
     authors:
@@ -694,7 +654,6 @@ talks:
   - title: Safe Interaction with Java through Eta's FFI
     lang: en
     type: regular
-    level:
     time: 2018-11-19 16:10:00
     room: Neosense Beach
     authors:
@@ -710,7 +669,6 @@ talks:
   - title: Mapping Well-Designed Domain Models with EF Core 2.1
     lang: en
     type: regular
-    level:
     time: 2018-11-19 16:10:00
     room: Nootropic Market
     authors:
@@ -727,7 +685,6 @@ talks:
   - title: Turn Up the Good
     lang: en
     type: regular
-    level:
     time: 2018-11-19 16:10:00
     room: Senescence Forest
     authors:
@@ -744,7 +701,6 @@ talks:
   - title: Diving into Functional Programming — Beyond the Basics
     lang: en
     type: regular
-    level:
     time: 2018-11-19 17:10:00
     room: Bionic Square
     authors:
@@ -760,7 +716,6 @@ talks:
   - title: Intro to Web Graphics with HTML5 Canvas
     lang: en
     type: regular
-    level:
     time: 2018-11-19 17:10:00
     room: CRISPR Corner
     authors:
@@ -777,7 +732,6 @@ talks:
   - title: 'The Good, The Bad and The Ugly - An Event Sourcing Retrospective'
     lang: en
     type: regular
-    level:
     time: 2018-11-19 17:10:00
     room: Cryogenic Chamber
     authors:
@@ -794,7 +748,6 @@ talks:
   - title: History of the Occult and Technology -Downloading Paganism
     lang: en
     type: regular
-    level:
     time: 2018-11-19 17:10:00
     room: Epigenetic Gardens
     authors:
@@ -811,7 +764,6 @@ talks:
   - title: Brain-Computer Interfaces — Science Fiction or Reality?
     lang: en
     type: regular
-    level:
     time: 2018-11-19 17:10:00
     room: Neosense Beach
     authors:
@@ -827,7 +779,6 @@ talks:
   - title: 'Writing Allocation Free Code in C#'
     lang: en
     type: regular
-    level:
     time: 2018-11-19 17:10:00
     room: Nootropic Market
     authors:
@@ -844,7 +795,6 @@ talks:
   - title: Getting Them To Get It
     lang: en
     type: regular
-    level:
     time: 2018-11-19 17:10:00
     room: Senescence Forest
     authors:
@@ -861,7 +811,6 @@ talks:
   - title: Hacking a Cat — Going Beyond Traditional Attack Vectors
     lang: en
     type: regular
-    level:
     time: 2018-11-19 18:20:00
     room: Epigenetic Gardens
     authors:
@@ -878,7 +827,6 @@ talks:
   - title: Designing Compassionate Systems
     lang: en
     type: regular
-    level:
     time: 2018-11-20 09:00:00
     room: Epigenetic Gardens
     authors:
@@ -895,7 +843,6 @@ talks:
   - title: Multifaceted Visualization
     lang: en
     type: regular
-    level:
     time: 2018-11-20 10:30:00
     room: Bionic Square
     authors:
@@ -911,7 +858,6 @@ talks:
   - title: 'Serverless or Serverfull with Kubernetes: Microservices & Functions'
     lang: en
     type: regular
-    level:
     time: 2018-11-20 10:30:00
     room: CRISPR Corner
     authors:
@@ -927,7 +873,6 @@ talks:
   - title: Next generation message driven systems with Akka
     lang: en
     type: regular
-    level:
     time: 2018-11-20 10:30:00
     room: Cryogenic Chamber
     authors:
@@ -944,7 +889,6 @@ talks:
   - title: The Psychology of Social Engineering
     lang: en
     type: regular
-    level:
     time: 2018-11-20 10:30:00
     room: Epigenetic Gardens
     authors:
@@ -960,7 +904,6 @@ talks:
   - title: 'Deep Oracles: Multiplying the Value of Automated Tests'
     lang: en
     type: regular
-    level:
     time: 2018-11-20 10:30:00
     room: Neosense Beach
     authors:
@@ -976,7 +919,6 @@ talks:
   - title: Managing the Conversation Flow within a Bot
     lang: en
     type: regular
-    level:
     time: 2018-11-20 10:30:00
     room: Nootropic Market
     authors:
@@ -993,7 +935,6 @@ talks:
   - title: Managing Distributed Teams
     lang: en
     type: regular
-    level:
     time: 2018-11-20 10:30:00
     room: Senescence Forest
     authors:
@@ -1010,7 +951,6 @@ talks:
   - title: Testing in DevOps for Engineers
     lang: en
     type: regular
-    level:
     time: 2018-11-20 11:30:00
     room: Bionic Square
     authors:
@@ -1026,7 +966,6 @@ talks:
   - title: 'Headers for Hackers: Wrangling HTTP Like a Pro'
     lang: en
     type: regular
-    level:
     time: 2018-11-20 11:30:00
     room: CRISPR Corner
     authors:
@@ -1042,7 +981,6 @@ talks:
   - title: 'Beyond Conway''s Law: Meet the Social Side of Your Code'
     lang: en
     type: regular
-    level:
     time: 2018-11-20 11:30:00
     room: Cryogenic Chamber
     authors:
@@ -1058,7 +996,6 @@ talks:
   - title: Your 2019 CSS Layout Toolkit
     lang: en
     type: regular
-    level:
     time: 2018-11-20 11:30:00
     room: Epigenetic Gardens
     authors:
@@ -1074,7 +1011,6 @@ talks:
   - title: In-depth path morphing w/ Shape Shifter
     lang: en
     type: regular
-    level:
     time: 2018-11-20 11:30:00
     room: Neosense Beach
     authors:
@@ -1090,7 +1026,6 @@ talks:
   - title: Security in ASP.NET Core 2.1
     lang: en
     type: regular
-    level:
     time: 2018-11-20 11:30:00
     room: Nootropic Market
     authors:
@@ -1107,7 +1042,6 @@ talks:
   - title: Overcoming the Difficulties of Remote Meetings
     lang: en
     type: regular
-    level:
     time: 2018-11-20 11:30:00
     room: Senescence Forest
     authors:
@@ -1124,7 +1058,6 @@ talks:
   - title: Navigating to the Navigation Architecture Component
     lang: en
     type: regular
-    level:
     time: 2018-11-20 12:50:00
     room: Bionic Square
     authors:
@@ -1140,7 +1073,6 @@ talks:
   - title: 'TimescaleDB: Re-engineering PostgreSQL as a time-series database'
     lang: en
     type: regular
-    level:
     time: 2018-11-20 12:50:00
     room: CRISPR Corner
     authors:
@@ -1157,7 +1089,6 @@ talks:
   - title: Staging Systems are Overrated - Docker-Based System Testing
     lang: en
     type: regular
-    level:
     time: 2018-11-20 12:50:00
     room: Cryogenic Chamber
     authors:
@@ -1174,7 +1105,6 @@ talks:
   - title: Well Tested Software
     lang: en
     type: regular
-    level:
     time: 2018-11-20 12:50:00
     room: Epigenetic Gardens
     authors:
@@ -1190,7 +1120,6 @@ talks:
   - title: From Overnight to Always-On
     lang: en
     type: regular
-    level:
     time: 2018-11-20 12:50:00
     room: Neosense Beach
     authors:
@@ -1206,7 +1135,6 @@ talks:
   - title: 'Sociotechnical Architecture: Aligning Teams and Software for Continuous Delivery'
     lang: en
     type: regular
-    level:
     time: 2018-11-20 12:50:00
     room: Nootropic Market
     authors:
@@ -1223,7 +1151,6 @@ talks:
   - title: Escape Velocity - Better Metrics for Software Teams
     lang: en
     type: regular
-    level:
     time: 2018-11-20 12:50:00
     room: Senescence Forest
     authors:
@@ -1240,7 +1167,6 @@ talks:
   - title: How We Support Informed Decisions at IKEA IT
     lang: en
     type: regular
-    level:
     time: 2018-11-20 13:50:00
     room: Bionic Square
     authors:
@@ -1256,7 +1182,6 @@ talks:
   - title: 'Vue and Vuex: Structure your app with centralized state management'
     lang: en
     type: regular
-    level:
     time: 2018-11-20 13:50:00
     room: CRISPR Corner
     authors:
@@ -1273,7 +1198,6 @@ talks:
   - title: Idiomatic Interop with Kotlin
     lang: en
     type: regular
-    level:
     time: 2018-11-20 13:50:00
     room: Cryogenic Chamber
     authors:
@@ -1290,7 +1214,6 @@ talks:
   - title: Attacking "Modern" Web Technologies
     lang: en
     type: regular
-    level:
     time: 2018-11-20 13:50:00
     room: Epigenetic Gardens
     authors:
@@ -1306,7 +1229,6 @@ talks:
   - title: Escape from Flatland! How to design captivating 3D experiences
     lang: en
     type: regular
-    level:
     time: 2018-11-20 13:50:00
     room: Neosense Beach
     authors:
@@ -1322,7 +1244,6 @@ talks:
   - title: Working with Dates and Times (It's Possible!)
     lang: en
     type: regular
-    level:
     time: 2018-11-20 13:50:00
     room: Nootropic Market
     authors:
@@ -1339,7 +1260,6 @@ talks:
   - title: Development X Design - From Chaos to Cosmos
     lang: en
     type: regular
-    level:
     time: 2018-11-20 13:50:00
     room: Senescence Forest
     authors:
@@ -1356,7 +1276,6 @@ talks:
   - title: 'Understanding Blockchain : A Developers View of How Blockchain Works'
     lang: en
     type: regular
-    level:
     time: 2018-11-20 15:10:00
     room: Bionic Square
     authors:
@@ -1372,7 +1291,6 @@ talks:
   - title: Sniffing Out the Strange — A Look at Anomaly Detection
     lang: en
     type: regular
-    level:
     time: 2018-11-20 15:10:00
     room: CRISPR Corner
     authors:
@@ -1389,7 +1307,6 @@ talks:
   - title: Design Tools and Design Handoffs — Closing the Gap Between Design and Development
     lang: en
     type: regular
-    level:
     time: 2018-11-20 15:10:00
     room: Cryogenic Chamber
     authors:
@@ -1406,7 +1323,6 @@ talks:
   - title: APIs on the Scale of Decades
     lang: en
     type: regular
-    level:
     time: 2018-11-20 15:10:00
     room: Epigenetic Gardens
     authors:
@@ -1422,7 +1338,6 @@ talks:
   - title: Machine Learning on mobile with MLKit
     lang: en
     type: regular
-    level:
     time: 2018-11-20 15:10:00
     room: Neosense Beach
     authors:
@@ -1438,7 +1353,6 @@ talks:
   - title: The Code Behind The Vulnerability
     lang: en
     type: regular
-    level:
     time: 2018-11-20 15:10:00
     room: Nootropic Market
     authors:
@@ -1455,7 +1369,6 @@ talks:
   - title: Leading Lasting Learning
     lang: en
     type: regular
-    level:
     time: 2018-11-20 15:10:00
     room: Senescence Forest
     authors:
@@ -1472,7 +1385,6 @@ talks:
   - title: 'Discussion Panel: Security'
     lang: en
     type: regular
-    level:
     time: 2018-11-20 16:10:00
     room: Bionic Square
     authors:
@@ -1488,7 +1400,6 @@ talks:
   - title: DevTools and Headless Chrome - The Automation Power-Couple
     lang: en
     type: regular
-    level:
     time: 2018-11-20 16:10:00
     room: CRISPR Corner
     authors:
@@ -1505,7 +1416,6 @@ talks:
   - title: Communicating in Types
     lang: en
     type: regular
-    level:
     time: 2018-11-20 16:10:00
     room: Cryogenic Chamber
     authors:
@@ -1522,7 +1432,6 @@ talks:
   - title: Finding your service boundaries - a practical guide
     lang: en
     type: regular
-    level:
     time: 2018-11-20 16:10:00
     room: Epigenetic Gardens
     authors:
@@ -1538,7 +1447,6 @@ talks:
   - title: Functional Reactive Programming on Android with Eta
     lang: en
     type: regular
-    level:
     time: 2018-11-20 16:10:00
     room: Neosense Beach
     authors:
@@ -1554,7 +1462,6 @@ talks:
   - title: Serverless Data APIs with Azure Functions and Cosmos DB
     lang: en
     type: regular
-    level:
     time: 2018-11-20 16:10:00
     room: Nootropic Market
     authors:
@@ -1571,7 +1478,6 @@ talks:
   - title: 'Ghost in the Machine: The Unexpected Results of Not Understanding Your Users'
     lang: en
     type: regular
-    level:
     time: 2018-11-20 16:10:00
     room: Senescence Forest
     authors:
@@ -1588,7 +1494,6 @@ talks:
   - title: Natural Born Cyborgs
     lang: en
     type: regular
-    level:
     time: 2018-11-20 17:10:00
     room: Bionic Square
     authors:
@@ -1604,7 +1509,6 @@ talks:
   - title: Programming with Math
     lang: en
     type: regular
-    level:
     time: 2018-11-20 17:10:00
     room: CRISPR Corner
     authors:
@@ -1621,7 +1525,6 @@ talks:
   - title: 'VR gaming as a fitness biohack, re-visited (now with metrics!)'
     lang: en
     type: regular
-    level:
     time: 2018-11-20 17:10:00
     room: Cryogenic Chamber
     authors:
@@ -1637,7 +1540,6 @@ talks:
   - title: Making A11y Easy
     lang: en
     type: regular
-    level:
     time: 2018-11-20 17:10:00
     room: Epigenetic Gardens
     authors:
@@ -1653,7 +1555,6 @@ talks:
   - title: Building a Smart IoT App
     lang: en
     type: regular
-    level:
     time: 2018-11-20 17:10:00
     room: Neosense Beach
     authors:
@@ -1669,7 +1570,6 @@ talks:
   - title: 'The Material is dead, long live the Material 2 — is the Material Design worn out?'
     lang: en
     type: regular
-    level:
     time: 2018-11-20 17:10:00
     room: Nootropic Market
     authors:
@@ -1686,7 +1586,6 @@ talks:
   - title: How The West Was Lost - A Heartwarming Tale of Software Developers Who Were Just Following Orders
     lang: en
     type: regular
-    level:
     time: 2018-11-20 17:10:00
     room: Senescence Forest
     authors:
@@ -1702,7 +1601,6 @@ talks:
   - title: 'On Bioethics: The Ethics of Manipulating (the Future of) Humanity'
     lang: en
     type: regular
-    level:
     time: 2018-11-20 18:20:00
     room: Epigenetic Gardens
     authors:
@@ -1719,7 +1617,6 @@ talks:
   - title: 'Earthbeat: The Art of Creating your own Senses'
     lang: en
     type: regular
-    level:
     time: 2018-11-20 20:00:00
     room: Epigenetic Gardens
     authors:
@@ -1736,7 +1633,6 @@ talks:
   - title: 'Sense & Respond: Continuously learning our way to better outcomes'
     lang: en
     type: regular
-    level:
     time: 2018-11-21 09:00:00
     room: Epigenetic Gardens
     authors:
@@ -1753,7 +1649,6 @@ talks:
   - title: Monitoring vs Testing
     lang: en
     type: regular
-    level:
     time: 2018-11-21 10:30:00
     room: Bionic Square
     authors:
@@ -1769,7 +1664,6 @@ talks:
   - title: 'WebAssembly: A Deep Dive'
     lang: en
     type: regular
-    level:
     time: 2018-11-21 10:30:00
     room: CRISPR Corner
     authors:
@@ -1785,7 +1679,6 @@ talks:
   - title: 'Chrono-Cyborgology -Learning to hack your sense of time with technology, Pt. 1'
     lang: en
     type: regular
-    level:
     time: 2018-11-21 10:30:00
     room: Cryogenic Chamber
     authors:
@@ -1801,7 +1694,6 @@ talks:
   - title: Building Streaming Microservices with Apache Kafka
     lang: en
     type: regular
-    level:
     time: 2018-11-21 10:30:00
     room: Epigenetic Gardens
     authors:
@@ -1817,7 +1709,6 @@ talks:
   - title: Domain Modeling with Haskell Data Structures
     lang: en
     type: regular
-    level:
     time: 2018-11-21 10:30:00
     room: Neosense Beach
     authors:
@@ -1833,7 +1724,6 @@ talks:
   - title: 'Sign here, please!'
     lang: en
     type: regular
-    level:
     time: 2018-11-21 10:30:00
     room: Nootropic Market
     authors:
@@ -1849,7 +1739,6 @@ talks:
   - title: 7 Principles of Productive Software Developers
     lang: en
     type: regular
-    level:
     time: 2018-11-21 10:30:00
     room: Senescence Forest
     authors:
@@ -1865,7 +1754,6 @@ talks:
   - title: Mobile Augmented Reality with ARCore
     lang: en
     type: regular
-    level:
     time: 2018-11-21 11:30:00
     room: Bionic Square
     authors:
@@ -1881,7 +1769,6 @@ talks:
   - title: 'Rust in the Browser for Javascripters: New Frontiers, New Possibilities'
     lang: en
     type: regular
-    level:
     time: 2018-11-21 11:30:00
     room: CRISPR Corner
     authors:
@@ -1897,7 +1784,6 @@ talks:
   - title: 'Chrono-Cyborgology -Learning to hack your sense of time with technology, Pt. 2'
     lang: en
     type: regular
-    level:
     time: 2018-11-21 11:30:00
     room: Cryogenic Chamber
     authors:
@@ -1913,7 +1799,6 @@ talks:
   - title: Spring Boot 2 Web Applications
     lang: en
     type: regular
-    level:
     time: 2018-11-21 11:30:00
     room: Epigenetic Gardens
     authors:
@@ -1929,7 +1814,6 @@ talks:
   - title: Patterns for Building Zero-Support Distributed Systems in Erlang
     lang: en
     type: regular
-    level:
     time: 2018-11-21 11:30:00
     room: Neosense Beach
     authors:
@@ -1945,7 +1829,6 @@ talks:
   - title: Azure Kubernetes Services
     lang: en
     type: regular
-    level:
     time: 2018-11-21 11:30:00
     room: Nootropic Market
     authors:
@@ -1961,7 +1844,6 @@ talks:
   - title: 'On the Road with Imogen Heap: The Diaries of a Music and Tech Adventurist'
     lang: en
     type: regular
-    level:
     time: 2018-11-21 11:30:00
     room: Senescence Forest
     authors:
@@ -1977,7 +1859,6 @@ talks:
   - title: 'Discussion Panel: Transhumanism'
     lang: en
     type: regular
-    level:
     time: 2018-11-21 12:50:00
     room: Bionic Square
     authors:
@@ -1993,7 +1874,6 @@ talks:
   - title: Moving beyond Virtual DOM and State Management
     lang: en
     type: regular
-    level:
     time: 2018-11-21 12:50:00
     room: CRISPR Corner
     authors:
@@ -2009,7 +1889,6 @@ talks:
   - title: Domain-driven Design with Kotlin
     lang: en
     type: regular
-    level:
     time: 2018-11-21 12:50:00
     room: Cryogenic Chamber
     authors:
@@ -2025,7 +1904,6 @@ talks:
   - title: Designing Events-First Microservices
     lang: en
     type: regular
-    level:
     time: 2018-11-21 12:50:00
     room: Epigenetic Gardens
     authors:
@@ -2041,7 +1919,6 @@ talks:
   - title: 'When You Are Your Money: Testing in the Evolving World of Payment Services'
     lang: en
     type: regular
-    level:
     time: 2018-11-21 12:50:00
     room: Neosense Beach
     authors:
@@ -2057,7 +1934,6 @@ talks:
   - title: What Developers Want
     lang: en
     type: regular
-    level:
     time: 2018-11-21 12:50:00
     room: Nootropic Market
     authors:
@@ -2073,7 +1949,6 @@ talks:
   - title: Make Equal Organizations
     lang: en
     type: regular
-    level:
     time: 2018-11-21 13:50:00
     room: Bionic Square
     authors:
@@ -2089,7 +1964,6 @@ talks:
   - title: Future of Templating on the Web
     lang: en
     type: regular
-    level:
     time: 2018-11-21 13:50:00
     room: CRISPR Corner
     authors:
@@ -2105,7 +1979,6 @@ talks:
   - title: Decomposing Java Applications
     lang: en
     type: regular
-    level:
     time: 2018-11-21 13:50:00
     room: Cryogenic Chamber
     authors:
@@ -2121,7 +1994,6 @@ talks:
   - title: Any Update? Lessons Learned From Running a Bug Bounty Program for Over 5 Years
     lang: en
     type: regular
-    level:
     time: 2018-11-21 13:50:00
     room: Epigenetic Gardens
     authors:
@@ -2137,7 +2009,6 @@ talks:
   - title: Augmented Reality — The State of Play
     lang: en
     type: regular
-    level:
     time: 2018-11-21 13:50:00
     room: Neosense Beach
     authors:
@@ -2153,7 +2024,6 @@ talks:
   - title: Failure is not an Option
     lang: en
     type: regular
-    level:
     time: 2018-11-21 13:50:00
     room: Senescence Forest
     authors:
@@ -2169,7 +2039,6 @@ talks:
   - title: 'Houdini: Breaking Out from the CSS Straightjacket'
     lang: en
     type: regular
-    level:
     time: 2018-11-21 15:10:00
     room: Bionic Square
     authors:
@@ -2185,7 +2054,6 @@ talks:
   - title: Creative Analogies For The Underpinnings of Deep Learning
     lang: en
     type: regular
-    level:
     time: 2018-11-21 15:10:00
     room: CRISPR Corner
     authors:
@@ -2201,7 +2069,6 @@ talks:
   - title: Introduction to the Unison Language
     lang: en
     type: regular
-    level:
     time: 2018-11-21 15:10:00
     room: Cryogenic Chamber
     authors:
@@ -2217,7 +2084,6 @@ talks:
   - title: Achieving 7 Seconds
     lang: en
     type: regular
-    level:
     time: 2018-11-21 15:10:00
     room: Epigenetic Gardens
     authors:
@@ -2233,7 +2099,6 @@ talks:
   - title: Talking about Software Testing — Conversations between a Developer and a Tester
     lang: en
     type: regular
-    level:
     time: 2018-11-21 15:10:00
     room: Neosense Beach
     authors:
@@ -2249,7 +2114,6 @@ talks:
   - title: Web Payment APIs
     lang: en
     type: regular
-    level:
     time: 2018-11-21 15:10:00
     room: Nootropic Market
     authors:
@@ -2265,7 +2129,6 @@ talks:
   - title: Building Intelligent Agents Using Deep Reinforcement Learning
     lang: en
     type: regular
-    level:
     time: 2018-11-21 16:10:00
     room: Bionic Square
     authors:
@@ -2281,7 +2144,6 @@ talks:
   - title: Making software security a part of your development culture
     lang: en
     type: regular
-    level:
     time: 2018-11-21 16:10:00
     room: CRISPR Corner
     authors:
@@ -2297,7 +2159,6 @@ talks:
   - title: Unbundling the JavaScript module bundler
     lang: en
     type: regular
-    level:
     time: 2018-11-21 16:10:00
     room: Cryogenic Chamber
     authors:
@@ -2313,7 +2174,6 @@ talks:
   - title: 'Thread Safety with Phaser, StampedLock and VarHandle'
     lang: en
     type: regular
-    level:
     time: 2018-11-21 16:10:00
     room: Epigenetic Gardens
     authors:
@@ -2329,7 +2189,6 @@ talks:
   - title: Book of Wishes for 2019
     lang: en
     type: regular
-    level:
     time: 2018-11-21 16:10:00
     room: Neosense Beach
     authors:
@@ -2345,7 +2204,6 @@ talks:
   - title: Vector workflows
     lang: en
     type: regular
-    level:
     time: 2018-11-21 16:10:00
     room: Nootropic Market
     authors:
@@ -2361,7 +2219,6 @@ talks:
   - title: 'PWA: Is a new cross-platform development era coming?'
     lang: en
     type: regular
-    level:
     time: 2018-11-21 16:10:00
     room: Senescence Forest
     authors:
@@ -2377,7 +2234,6 @@ talks:
   - title: Upgraded Huma^ns In the Age of Biological Machines
     lang: en
     type: regular
-    level:
     time: 2018-11-21 17:20:00
     room: Epigenetic Gardens
     authors:
@@ -2394,7 +2250,6 @@ talks:
   - title: Let's Make a Web App Progressive in a Workday
     lang: en
     type: workshop
-    level:
     time: 2018-11-22 09:00:00
     room: Bionic Square
     authors:
@@ -2410,7 +2265,6 @@ talks:
   - title: Introduction to Elm
     lang: en
     type: workshop
-    level:
     time: 2018-11-22 09:00:00
     room: CRISPR Corner
     authors:
@@ -2426,7 +2280,6 @@ talks:
   - title: Hacking Web Applications
     lang: en
     type: workshop
-    level:
     time: 2018-11-22 09:00:00
     room: Cryogenic Chamber
     authors:
@@ -2442,7 +2295,6 @@ talks:
   - title: Third-Generation Software Testing
     lang: en
     type: workshop
-    level:
     time: 2018-11-22 09:00:00
     room: Epigenetic Gardens
     authors:
@@ -2458,7 +2310,6 @@ talks:
   - title: Hands-on on Design Tools and Design Handoff
     lang: en
     type: workshop
-    level:
     time: 2018-11-22 09:00:00
     room: Neosense Beach
     authors:
@@ -2474,7 +2325,6 @@ talks:
   - title: Java performance and efficiency - practical guide
     lang: en
     type: workshop
-    level:
     time: 2018-11-22 09:00:00
     room: Nootropic Market
     authors:
@@ -2490,7 +2340,6 @@ talks:
   - title: Work Together Anywhere Workshop
     lang: en
     type: workshop
-    level:
     time: 2018-11-22 09:00:00
     room: Senescence Forest
     authors:

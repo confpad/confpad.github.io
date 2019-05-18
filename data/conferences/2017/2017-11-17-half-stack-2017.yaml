@@ -21,7 +21,6 @@ talks:
   - title: Coffee.js? How I hacked my coffee machine using JavaScript
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: Love poems to JavaScript, Part 1
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -53,7 +51,6 @@ talks:
   - title: Introduction to virtual reality and the web
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -68,7 +65,6 @@ talks:
   - title: Empowering Web Applications with Speech Recognition
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -84,7 +80,6 @@ talks:
   - title: Sacrificing the golden calf of 'coding'
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -100,7 +95,6 @@ talks:
   - title: Practical browser automation for fun and profit
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -116,7 +110,6 @@ talks:
   - title: Make your animations perform well
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -132,7 +125,6 @@ talks:
   - title: Having fun with JavaScript and Bluetooth
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -148,7 +140,6 @@ talks:
   - title: Love poems to JavaScript, Part 2
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -164,7 +155,6 @@ talks:
   - title: Converting a JS library from ES5 to ES6, benefits and the pitfalls
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -180,7 +170,6 @@ talks:
   - title: The Exciting World of 3D
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -196,7 +185,6 @@ talks:
   - title: Love poems to JavaScript, Part 3
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -212,7 +200,6 @@ talks:
   - title: Fear and Loathing in JavaScript
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -228,7 +215,6 @@ talks:
   - title: Data Visualisations and GraphQL
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -244,7 +230,6 @@ talks:
   - title: Unidirectional data flows and WebGL
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:
@@ -259,7 +244,6 @@ talks:
   - title: How to be a Web AV Artist
     lang: en
     type: regular
-    level:
     time: 2017-11-17
     room:
     authors:

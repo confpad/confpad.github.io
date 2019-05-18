@@ -21,7 +21,6 @@ talks:
   - title: Framework Design - Lessons Learned from Repeated Mistakes
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: Manoogyan Hall
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: Building Reliable Backend with Node.js
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: Manoogyan Hall
     authors:
@@ -53,7 +51,6 @@ talks:
   - title: GraphQL & Apollo in Vue
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: Manoogyan Hall
     authors:
@@ -69,7 +66,6 @@ talks:
   - title: Machine learning in the browser
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: Manoogyan Hall
     authors:
@@ -85,7 +81,6 @@ talks:
   - title: Scalable Best Practices for Your Development Team
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: Manoogyan Hall
     authors:
@@ -101,7 +96,6 @@ talks:
   - title: The State of State Management in React
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: Manoogyan Hall
     authors:
@@ -117,7 +111,6 @@ talks:
   - title: Presentations with React and GraphQL
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: Manoogyan Hall
     authors:
@@ -133,7 +126,6 @@ talks:
   - title: Orchestrating Node.js Containers with Kubernetes
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: Manoogyan Hall
     authors:
@@ -149,7 +141,6 @@ talks:
   - title: Metaprogramming, ES6 Proxy
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: Manoogyan Hall
     authors:
@@ -165,7 +156,6 @@ talks:
   - title: Objects in JavaScript
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 408E
     authors:
@@ -181,7 +171,6 @@ talks:
   - title: React !sync Rendering
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 408E
     authors:
@@ -197,7 +186,6 @@ talks:
   - title: Optimizing bundle with WebPack and Code Splitting
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 408E
     authors:
@@ -213,7 +201,6 @@ talks:
   - title: GatsbyJS as the Future of the Web
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 408E
     authors:
@@ -229,7 +216,6 @@ talks:
   - title: Thinking and Styling in React
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 408E
     authors:
@@ -245,7 +231,6 @@ talks:
   - title: Test-Driven Development with Jest
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 408E
     authors:
@@ -265,7 +250,6 @@ talks:
   - title: ES2015+ code in production, Reality or Myth
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 408E
     authors:
@@ -282,7 +266,6 @@ talks:
   - title: Simple Mobile App Using NativeScript Angular
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 408E
     authors:
@@ -298,7 +281,6 @@ talks:
   - title: NodeJS. Going Serverless with AWS Lambda
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 114W
     authors:
@@ -314,7 +296,6 @@ talks:
   - title: JavaScript Engines.The V8 Engine
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 114W
     authors:
@@ -330,7 +311,6 @@ talks:
   - title: React Server-Side Rendering | Isomorphic JavaScript
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 114W
     authors:
@@ -346,7 +326,6 @@ talks:
   - title: Developing JS Applications Using Docker Containers
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 114W
     authors:
@@ -362,7 +341,6 @@ talks:
   - title: Web Scraping with Puppeteer and NodeJS
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 114W
     authors:
@@ -378,7 +356,6 @@ talks:
   - title: GraphQL, why and when?
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 114W
     authors:
@@ -394,7 +371,6 @@ talks:
   - title: Building SPA with WebAssembly by using Blazor
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 114W
     authors:
@@ -410,7 +386,6 @@ talks:
   - title: You Don't Know Node.js EventLoop
     lang: en
     type: regular
-    level:
     time: 2018-11-03
     room: 114W
     authors:

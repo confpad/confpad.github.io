@@ -21,7 +21,6 @@ talks:
   - title: The future of web animation
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Designing for Augmented Reality
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -56,7 +54,6 @@ talks:
   - title: What's next for React Native and Expo
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -73,7 +70,6 @@ talks:
   - title: A fresh perspective on multi-platform UI
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -90,7 +86,6 @@ talks:
   - title: Will the future of front-end be AI-assisted? (Ideal Bar)
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -110,7 +105,6 @@ talks:
   - title: Debate What will AI and ML mean for software developers? (Ideal Bar)
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -126,7 +120,6 @@ talks:
   - title: Working with AR by Jayway (Main Stage)
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -147,7 +140,6 @@ talks:
   - title: Building AR apps with ARKit on iOS by Shape (Main Stage)
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -164,7 +156,6 @@ talks:
   - title: It’s My (Third) Party, and I’ll Cry if I Want To
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -182,7 +173,6 @@ talks:
   - title: Data visualizations on the web
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -200,7 +190,6 @@ talks:
   - title: New Adventures In Responsive Web Design
     lang: en
     type: regular
-    level:
     time: 2018-11-13
     room:
     authors:
@@ -218,7 +207,6 @@ talks:
   - title: Inclusively Responsive UIs with CSS and SVG
     lang: en
     type: regular
-    level:
     time: 2018-11-14
     room:
     authors:
@@ -236,7 +224,6 @@ talks:
   - title: How a design tool changes relationships
     lang: en
     type: regular
-    level:
     time: 2018-11-14
     room:
     authors:
@@ -252,7 +239,6 @@ talks:
   - title: Top-Level Awaiting for Godot
     lang: en
     type: regular
-    level:
     time: 2018-11-14
     room:
     authors:
@@ -269,7 +255,6 @@ talks:
   - title: Mind control in JavaScript - Experimenting with alternative interactions
     lang: en
     type: regular
-    level:
     time: 2018-11-14
     room:
     authors:
@@ -286,7 +271,6 @@ talks:
   - title: WebRTC streaming to large audiences using mobile devices by TwentyThree (Ideal Bar)
     lang: en
     type: regular
-    level:
     time: 2018-11-14
     room:
     authors:
@@ -306,7 +290,6 @@ talks:
   - title: Debate How to foster collaboration between Designers and Engineering?
     lang: en
     type: regular
-    level:
     time: 2018-11-14
     room:
     authors:
@@ -322,7 +305,6 @@ talks:
   - title: Architecture for an ever changing environment” by Zendesk (Main Stage)
     lang: en
     type: regular
-    level:
     time: 2018-11-14
     room:
     authors:
@@ -340,7 +322,6 @@ talks:
   - title: On the fly WebP decoding with Web Assembly and Service Workers (Main Stage)
     lang: en
     type: regular
-    level:
     time: 2018-11-14
     room:
     authors:
@@ -357,7 +338,6 @@ talks:
   - title: The Untold Benefits of Ethical Design
     lang: en
     type: regular
-    level:
     time: 2018-11-14
     room:
     authors:
@@ -375,7 +355,6 @@ talks:
   - title: Uniting the real world with the virtual
     lang: en
     type: regular
-    level:
     time: 2018-11-14
     room:
     authors:
@@ -393,7 +372,6 @@ talks:
   - title: Do the Most Good
     lang: en
     type: regular
-    level:
     time: 2018-11-14
     room:
     authors:

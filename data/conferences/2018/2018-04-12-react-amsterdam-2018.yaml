@@ -21,7 +21,6 @@ talks:
   - title: "Reactive Programming Demystified: Drink the Kool-Aid"
     lang: en
     type: regular
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: setState Machine
     lang: en
     type: regular
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: "There and back again: grokking state and data"
     lang: en
     type: regular
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: D3 and React, Together
     lang: en
     type: regular
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: React State Management In a GraphQL Era
     lang: en
     type: regular
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: GraphQL at scale with AWS
     lang: en
     type: regular
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Rethinking With React 16
     lang: en
     type: regular
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Mixed Mode React
     lang: en
     type: regular
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: Music of React
     lang: en
     type: regular
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: Structure Your App's Story With Sagas and Selectors
     lang: en
     type: lightning
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: How to “Reactify” Your Existing UI Components
     lang: en
     type: lightning
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: How We DDoS Ourselves with SSR
     lang: en
     type: regular
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: "Inclusive React: A Survival Guide"
     lang: en
     type: regular
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -242,7 +229,6 @@ talks:
   - title: "Public Speaking: How Bad Can It Be"
     lang: en
     type: regular
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -259,7 +245,6 @@ talks:
   - title: "The Tell-Tale Metric: Replatforming with Edgar Allan Poe"
     lang: en
     type: regular
-    level:
     time: 2018-04-13
     room:
     authors:
@@ -276,7 +261,6 @@ talks:
   - title: Wonky Game Physics in Reason and Lessons Learned
     lang: en
     type: regular
-    level:
     time: 2018-04-13
     room:
     authors:

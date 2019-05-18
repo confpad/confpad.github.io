@@ -21,7 +21,6 @@ talks:
   - title: 'Keynote: Five years of Angular'
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: Build progressive web apps with Angular
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -53,7 +51,6 @@ talks:
   - title: 6 APPS ONE CODE WITH Ionic
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -69,7 +66,6 @@ talks:
   - title: Angular + CMS = ❤️
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -85,7 +81,6 @@ talks:
   - title: Scalable Angular Architecture
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -101,7 +96,6 @@ talks:
   - title: Multiplayer game with Angular and Firebase
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -117,7 +111,6 @@ talks:
   - title: ng install
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -133,7 +126,6 @@ talks:
   - title: A Token Walks Into a SPA...
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -149,7 +141,6 @@ talks:
   - title: Use React tools for better Angular apps
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -165,7 +156,6 @@ talks:
   - title: 'Custom Schematics: An Angular Application by the push of a Button...'
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -181,7 +171,6 @@ talks:
   - title: Make Web Components Great Again with StencilJS
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -197,7 +186,6 @@ talks:
   - title: Understanding the realtime web with websockets
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -213,7 +201,6 @@ talks:
   - title: Angular, What's Coming Next
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -229,7 +216,6 @@ talks:
   - title: Angular Elements
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -245,7 +231,6 @@ talks:
   - title: Deploy Angular and Node to the Cloud
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -261,7 +246,6 @@ talks:
   - title: How to hack an Angular app?
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -277,7 +261,6 @@ talks:
   - title: An Angular Front For Your API
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -293,7 +276,6 @@ talks:
   - title: Be lazy, but with strategy
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -309,7 +291,6 @@ talks:
   - title: Angular performance pitfalls and how to avoid them
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -325,7 +306,6 @@ talks:
   - title: Advanced DI
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -341,7 +321,6 @@ talks:
   - title: Fast, Cross-Platform Desktop Apps with Electron
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -357,7 +336,6 @@ talks:
   - title: Hey Google, is there any presentation about ChatBots at ngVikings?
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -373,7 +351,6 @@ talks:
   - title: Q&A with all speakers
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -385,7 +362,6 @@ talks:
   - title: Getting started with WebVR
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -401,7 +377,6 @@ talks:
   - title: Enhanching performance by leveraging the power of Observables
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -417,7 +392,6 @@ talks:
   - title: dummy to app
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -433,7 +407,6 @@ talks:
   - title: Web Maps - Putting the M in Angular web apps!
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -449,7 +422,6 @@ talks:
   - title: Changing the world of travel with Angular and measuring...
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -469,7 +441,6 @@ talks:
   - title: Let's plant our Angular Tree
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -485,7 +456,6 @@ talks:
   - title: Designing Component API
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -501,7 +471,6 @@ talks:
   - title: Create & Publish Angular Libs like a PRO
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -517,7 +486,6 @@ talks:
   - title: Visualising Enterprise Data with Angular & d3
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -533,7 +501,6 @@ talks:
   - title: Testing Angular apps
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -549,7 +516,6 @@ talks:
   - title: Innovating is not about technology, but psychology
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -565,7 +531,6 @@ talks:
   - title: Progressive Web Apps with Angular and Firebase
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -581,7 +546,6 @@ talks:
   - title: Offline Angular app in action
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -597,7 +561,6 @@ talks:
   - title: Can't Touch This! What not to do to the DOM
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -613,7 +576,6 @@ talks:
   - title: Rendering Performance from the Ground Up
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -629,7 +591,6 @@ talks:
   - title: Real-Time stream processing with Reactive-Extensions
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -645,7 +606,6 @@ talks:
   - title: Abstractions in Angular
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -661,7 +621,6 @@ talks:
   - title: Reactive Brain Waves
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -677,7 +636,6 @@ talks:
   - title: How WebAssembly is changing the Web and what it means for Angular
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -693,7 +651,6 @@ talks:
   - title: Supercharging the Angular CLI with Nx
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:
@@ -709,7 +666,6 @@ talks:
   - title: ngVikings 2018 - Highlights
     lang: en
     type: regular
-    level:
     time: 2018-03-01
     room:
     authors:

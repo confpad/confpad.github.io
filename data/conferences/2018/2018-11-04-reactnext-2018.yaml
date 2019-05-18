@@ -21,7 +21,6 @@ talks:
   - title: State of the React Ecosystem
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Advanced Patterns - Moving Beyond Presentation and Container Components
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: MonoRepos for the Masses
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Building a Maintainable UI with Storybook
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Motion in React
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Building React Native
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: Beautiful Abstractions "What I Learned Reading the Source-Code of 18 React Libraries"
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -141,7 +134,6 @@ talks:
   - title: Immer, Immutability and the Wonderful World of Proxies
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -159,7 +151,6 @@ talks:
   - title: Breaking Down Your Web App
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -176,7 +167,6 @@ talks:
   - title: Applying Microservices Design Patterns to Scale React App Development
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -193,7 +183,6 @@ talks:
   - title: React Responsively, Render Responsibly
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -210,7 +199,6 @@ talks:
   - title: Wiring TypeScript into React
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -227,7 +215,6 @@ talks:
   - title: How to Write Bad Code in Redux
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -244,7 +231,6 @@ talks:
   - title: Beyond Web Apps "React, JavaScript and WebAssembly to Port Legacy Native Apps"
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -260,7 +246,6 @@ talks:
   - title: Functional Programming Fundamentals
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -277,7 +262,6 @@ talks:
   - title: Migrating from Angular to React
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:
@@ -294,7 +278,6 @@ talks:
   - title: (Don't) Blame ot on React Native
     lang: en
     type: regular
-    level:
     time: 2018-11-04
     room:
     authors:

@@ -21,7 +21,6 @@ talks:
   - title: "ECMAScript: latest and upcoming features"
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: "Web applications: split monolith"
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Dr. Strangelove or How I Learned to Stop Worrying and Love the Serverless Chatbots
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -73,7 +70,6 @@ talks:
   - title: Web mutation
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -90,7 +86,6 @@ talks:
   - title: How modern libraries and frameworks work with the DOM
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -107,7 +102,6 @@ talks:
   - title: Debugging Node.js in Production
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -124,7 +118,6 @@ talks:
   - title: Koa and middleware evolution
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -142,7 +135,6 @@ talks:
   - title: How to approach modern web applications
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -160,7 +152,6 @@ talks:
   - title: Remote (dev) tools do it yourself
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -178,7 +169,6 @@ talks:
   - title: Rich text editing with Draft.js
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -196,7 +186,6 @@ talks:
   - title: Logux - a new way to connect client and server
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -214,7 +203,6 @@ talks:
   - title: 3L3M3NT5
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -232,7 +220,6 @@ talks:
   - title: Building Interactive npm Command Line Modules
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -250,7 +237,6 @@ talks:
   - title: Offline is the new black
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -268,7 +254,6 @@ talks:
   - title: Modular CSS
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -286,7 +271,6 @@ talks:
   - title: Why should you care about Elm?
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -304,7 +288,6 @@ talks:
   - title: "Swan cancer and pike: how technology pulls the frontend to the bottom"
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -322,7 +305,6 @@ talks:
   - title: WebVR is the next frontier
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -340,7 +322,6 @@ talks:
   - title: P2P shared folder powered by javascript
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:
@@ -358,7 +339,6 @@ talks:
   - title: debugger
     lang: en
     type: regular
-    level:
     time: 2016-12-11
     room:
     authors:

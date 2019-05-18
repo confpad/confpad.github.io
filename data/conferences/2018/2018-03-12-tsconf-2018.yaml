@@ -21,7 +21,6 @@ talks:
   - title: Opening Remarks
     lang: en
     type: regular
-    level:
     time: 2018-03-12
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: Building StencilJS with TypeScript
     lang: en
     type: regular
-    level:
     time: 2018-03-12
     room:
     authors:
@@ -53,7 +51,6 @@ talks:
   - title: 'Escape the Office: Designing Interfaces for Other Developers'
     lang: en
     type: regular
-    level:
     time: 2018-03-12
     room:
     authors:
@@ -69,7 +66,6 @@ talks:
   - title: End-to-End Type Safety with Swagger and TypeScript
     lang: en
     type: regular
-    level:
     time: 2018-03-12
     room:
     authors:
@@ -85,7 +81,6 @@ talks:
   - title: TypeScript at Google
     lang: en
     type: regular
-    level:
     time: 2018-03-12
     room:
     authors:
@@ -105,7 +100,6 @@ talks:
   - title: 'Reclaiming your sanity: Webpack and Ethereum smart contracts with Typescript'
     lang: en
     type: regular
-    level:
     time: 2018-03-12
     room:
     authors:
@@ -121,7 +115,6 @@ talks:
   - title: 'When Cross-Platform Is An Understatement: Making Weird Physical Games With TypeScript'
     lang: en
     type: regular
-    level:
     time: 2018-03-12
     room:
     authors:
@@ -137,7 +130,6 @@ talks:
   - title: Static Analysis and Source Code Manipulation in TypeScript
     lang: en
     type: regular
-    level:
     time: 2018-03-12
     room:
     authors:
@@ -153,7 +145,6 @@ talks:
   - title: TalkScript with the TypeScript Team
     lang: en
     type: regular
-    level:
     time: 2018-03-12
     room:
     authors:

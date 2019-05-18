@@ -19,7 +19,6 @@ talks:
   - title: 'Reactive Programming: The Solution to JavaScript Fatigue'
     lang: en
     type: regular
-    level: beginner
     time: 2018-08-31
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: Applying the science of habit formation to improve coding skills
     lang: en
     type: regular
-    level: beginner
     time: 2018-08-31
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: 'Learning Backwards: Learning CS Through the Lens of React'
     lang: en
     type: regular
-    level: intermediate
     time: 2018-08-31
     room:
     authors:
@@ -73,7 +70,6 @@ talks:
   - title: Insights from building rich animated experiences in React
     lang: en
     type: regular
-    level: intermediate
     time: 2018-08-31
     room:
     authors:
@@ -91,7 +87,6 @@ talks:
   - title: Testing Big with BigTest in React
     lang: en
     type: regular
-    level: intermediate
     time: 2018-08-31
     room:
     authors:
@@ -109,7 +104,6 @@ talks:
   - title: 'Dr Strangelove: or how I stopped worrying and learned to love higher order functions'
     lang: en
     type: regular
-    level: intermediate
     time: 2018-08-31
     room:
     authors:
@@ -127,7 +121,6 @@ talks:
   - title: Building AR Apps with React Native
     lang: en
     type: regular
-    level: intermediate
     time: 2018-08-31
     room:
     authors:
@@ -145,7 +138,6 @@ talks:
   - title: Confident React
     lang: en
     type: regular
-    level: beginner
     time: 2018-08-31
     room:
     authors:

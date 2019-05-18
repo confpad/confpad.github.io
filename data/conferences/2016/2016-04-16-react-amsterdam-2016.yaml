@@ -21,7 +21,6 @@ talks:
   - title: React Native Architecture Overview
     lang: en
     type: regular
-    level:
     time: 2016-04-16
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: Migrating Safely to React
     lang: en
     type: regular
-    level:
     time: 2016-04-16
     room:
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: Building Reactive GraphQL Apps With Apollo
     lang: en
     type: regular
-    level:
     time: 2016-04-16
     room:
     authors:
@@ -75,7 +72,6 @@ talks:
   - title: Mastering Server-rendered Apps
     lang: en
     type: regular
-    level:
     time: 2016-04-16
     room:
     authors:
@@ -93,7 +89,6 @@ talks:
   - title: Testing React Applications
     lang: en
     type: regular
-    level:
     time: 2016-04-16
     room:
     authors:
@@ -111,7 +106,6 @@ talks:
   - title: React For Game Development
     lang: en
     type: regular
-    level:
     time: 2016-04-16
     room:
     authors:
@@ -129,7 +123,6 @@ talks:
   - title: Javascript Style Sheets
     lang: en
     type: regular
-    level:
     time: 2016-04-16
     room:
     authors:
@@ -147,7 +140,6 @@ talks:
   - title: Introducing and Implementing React at Coolblue
     lang: en
     type: regular
-    level:
     time: 2016-04-16
     room:
     authors:
@@ -165,7 +157,6 @@ talks:
   - title: Building Loveable UIs
     lang: en
     type: regular
-    level:
     time: 2016-04-16
     room:
     authors:
@@ -183,7 +174,6 @@ talks:
   - title: State Management is Easy
     lang: en
     type: regular
-    level:
     time: 2016-04-16
     room:
     authors:
@@ -201,7 +191,6 @@ talks:
   - title: The React Native Playground
     lang: en
     type: regular
-    level:
     time: 2016-04-16
     room:
     authors:
@@ -219,7 +208,6 @@ talks:
   - title: Solving a Tooling Problem For React Native
     lang: en
     type: regular
-    level:
     time: 2016-04-16
     room:
     authors:

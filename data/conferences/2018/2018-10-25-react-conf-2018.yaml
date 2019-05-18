@@ -21,7 +21,6 @@ talks:
   - title: React Today and Tomorrow
     lang: en
     type: regular
-    level:
     time: 2018-10-25
     room:
     authors:
@@ -41,7 +40,6 @@ talks:
   - title: 90% Cleaner React
     lang: en
     type: regular
-    level:
     time: 2018-10-25
     room:
     authors:
@@ -58,7 +56,6 @@ talks:
   - title: Building Todo The Game In A Cloud-Only Dev Environment
     lang: en
     type: regular
-    level:
     time: 2018-10-25
     room:
     authors:
@@ -75,7 +72,6 @@ talks:
   - title: The Path To A Declaratively Animated Future
     lang: en
     type: regular
-    level:
     time: 2018-10-25
     room:
     authors:
@@ -92,7 +88,6 @@ talks:
   - title: What's New in Create React App
     lang: en
     type: lightning
-    level:
     time: 2018-10-25
     room:
     authors:
@@ -108,7 +103,6 @@ talks:
   - title: Components as Units of Work
     lang: en
     type: lightning
-    level:
     time: 2018-10-25
     room:
     authors:
@@ -124,7 +118,6 @@ talks:
   - title: 5 Animations You Should Know and Use
     lang: en
     type: lightning
-    level:
     time: 2018-10-25
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: Render Props, PureComponent and Reactivity
     lang: en
     type: lightning
-    level:
     time: 2018-10-25
     room:
     authors:
@@ -156,7 +148,6 @@ talks:
   - title: Better Living through Git Hooks
     lang: en
     type: lightning
-    level:
     time: 2018-10-25
     room:
     authors:
@@ -172,7 +163,6 @@ talks:
   - title: 'GraphQL without GraphQL - Backend Agnostic GraphQL inspired Queries For Colocating Data Requests With Components '
     lang: en
     type: regular
-    level:
     time: 2018-10-25
     room:
     authors:
@@ -189,7 +179,6 @@ talks:
   - title: 'Playing With Polyhedra: Creating Beauty from Obsession'
     lang: en
     type: regular
-    level:
     time: 2018-10-25
     room:
     authors:
@@ -206,7 +195,6 @@ talks:
   - title: Developing Immersive cross-platform AR and VR Apps using React-Native
     lang: en
     type: regular
-    level:
     time: 2018-10-25
     room:
     authors:
@@ -223,7 +211,6 @@ talks:
   - title: 'Beyond Web-Apps: React, JavaScript and WebAssembly To Port Legacy Native Apps'
     lang: en
     type: regular
-    level:
     time: 2018-10-25
     room:
     authors:
@@ -240,7 +227,6 @@ talks:
   - title: React For Social Change
     lang: en
     type: regular
-    level:
     time: 2018-10-25
     room:
     authors:
@@ -257,7 +243,6 @@ talks:
   - title: Concurrent Rendering in React
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -277,7 +262,6 @@ talks:
   - title: Moving To Suspense
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -294,7 +278,6 @@ talks:
   - title: SVG illustrations as React Components
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -311,7 +294,6 @@ talks:
   - title: The Missing Abstraction of Charting
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -328,7 +310,6 @@ talks:
   - title: 'Elsa: AI Conversational Agent Aimed At Improving Mental Health For Women'
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -345,7 +326,6 @@ talks:
   - title: Context in React
     lang: en
     type: lightning
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -361,7 +341,6 @@ talks:
   - title: Building a better Country through Tech
     lang: en
     type: lightning
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -377,7 +356,6 @@ talks:
   - title: An Effective Code Review
     lang: en
     type: lightning
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -393,7 +371,6 @@ talks:
   - title: Syncing Component State Across Tabs with Service Workers
     lang: en
     type: lightning
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -409,7 +386,6 @@ talks:
   - title: Block the Main Thread
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -426,7 +402,6 @@ talks:
   - title: React Native's New Architecture
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -443,7 +418,6 @@ talks:
   - title: Let React speak your language
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -460,7 +434,6 @@ talks:
   - title: React for Designers with FramerX
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:
@@ -477,7 +450,6 @@ talks:
   - title: Building A Diverse And Inclusive Community.
     lang: en
     type: regular
-    level:
     time: 2018-10-26
     room:
     authors:

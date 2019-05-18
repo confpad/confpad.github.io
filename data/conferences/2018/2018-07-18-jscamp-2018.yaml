@@ -21,7 +21,6 @@ talks:
   - title: A Tale of Two Asyncs
     lang: en
     type: regular
-    level:
     time: 2018-07-19 09:40:00
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: 'Building a Platform: Webpack and the Future'
     lang: en
     type: regular
-    level:
     time: 2018-07-19 10:20:00
     room: ESTOCOLMO - 1st floor
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: Rise above the Framework
     lang: en
     type: regular
-    level:
     time: 2018-07-19 11:20:00
     room:
     authors:
@@ -75,7 +72,6 @@ talks:
   - title: A Tale of Types, Classes, and Maps
     lang: en
     type: regular
-    level:
     time: 2018-07-19 12:00:00
     room:
     authors:
@@ -93,7 +89,6 @@ talks:
   - title: Keep Betting On JavaScript
     lang: en
     type: regular
-    level:
     time: 2018-07-19 14:40:00
     room:
     authors:
@@ -111,7 +106,6 @@ talks:
   - title: Understanding client side routing with Vue.js
     lang: en
     type: regular
-    level:
     time: 2018-07-19 15:20:00
     room:
     authors:
@@ -129,7 +123,6 @@ talks:
   - title: WebXR
     lang: en
     type: regular
-    level:
     time: 2018-07-19 16:20:00
     room:
     authors:
@@ -147,7 +140,6 @@ talks:
   - title: Building Real-World Desktop Apps with Electron
     lang: en
     type: regular
-    level:
     time: 2018-07-19 17:00:00
     room:
     authors:
@@ -165,7 +157,6 @@ talks:
   - title: The Bumpy Road to Universal JavaScript
     lang: en
     type: regular
-    level:
     time: 2018-07-20 09:40:00
     room:
     authors:
@@ -183,7 +174,6 @@ talks:
   - title: Semantic, Searchable Webapps with Angular
     lang: en
     type: regular
-    level:
     time: 2018-07-20 10:20:00
     room:
     authors:
@@ -200,7 +190,6 @@ talks:
   - title: Break Up With Your Frontend Monolith
     lang: en
     type: regular
-    level:
     time: 2018-07-20 11:00:00
     room:
     authors:
@@ -218,7 +207,6 @@ talks:
   - title: Rethinking Enterprise Architectures with Node.js
     lang: en
     type: regular
-    level:
     time: 2018-07-20 12:00:00
     room:
     authors:
@@ -236,7 +224,6 @@ talks:
   - title: Machine Learning in the browser
     lang: en
     type: regular
-    level:
     time: 2018-07-20 12:40:00
     room:
     authors:
@@ -254,7 +241,6 @@ talks:
   - title: The past, present, and future of the Web
     lang: en
     type: regular
-    level:
     time: 2018-07-20 14:40:00
     room:
     authors:
@@ -272,7 +258,6 @@ talks:
   - title: Service Workers + WebAssembly
     lang: en
     type: regular
-    level:
     time: 2018-07-20 15:20:00
     room:
     authors:
@@ -290,7 +275,6 @@ talks:
   - title: How does npm design
     lang: en
     type: regular
-    level:
     time: 2018-07-20 16:20:00
     room:
     authors:
@@ -308,7 +292,6 @@ talks:
   - title: How to Create 'Vuetiful' Data-Driven User Interfaces
     lang: en
     type: regular
-    level:
     time: 2018-07-20 16:40:00
     room:
     authors:

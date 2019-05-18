@@ -21,7 +21,6 @@ talks:
   - title: 'Node.js: Where are we now, where are we going?'
     lang: en
     type: regular
-    level:
     time: 2018-03-01 09:30:00
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Beyond React 16
     lang: en
     type: regular
-    level:
     time: 2018-03-01 10:00:00
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Speech Recognition as a Progressive Enhancement
     lang: en
     type: regular
-    level:
     time: 2018-03-01 11:10:00
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Simplifying Complex UIs with Finite Automata & Statecharts
     lang: en
     type: regular
-    level:
     time: 2018-03-01 11:10:00
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: “Works for Me”
     lang: en
     type: regular
-    level:
     time: 2018-03-01 11:50:00
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: 'End to End Testing: The Game Has Changed'
     lang: en
     type: regular
-    level:
     time: 2018-03-01 11:50:00
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: 'Sharing is Caring: build a peer-to-peer network with WebRTC'
     lang: en
     type: regular
-    level:
     time: 2018-03-01 13:30:00
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: 'Augmented Reality: Past, Present, Future'
     lang: en
     type: regular
-    level:
     time: 2018-03-01 13:30:00
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: Humanizing Your Documentation
     lang: en
     type: regular
-    level:
     time: 2018-03-01 14:10:00
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: 'Paint Splatter: The making of an interactive artwork'
     lang: en
     type: regular
-    level:
     time: 2018-03-01 14:10:00
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: Creating generative art with Javascript
     lang: en
     type: regular
-    level:
     time: 2018-03-01 14:50:00
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: XSS, CSRF, CSP, JWT, WTF? IDK
     lang: en
     type: regular
-    level:
     time: 2018-03-01 14:50:00
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: Give Apps Online Superpowers by Optimizing them for Offline
     lang: en
     type: regular
-    level:
     time: 2018-03-01 15:50:00
     room:
     authors:
@@ -242,7 +229,6 @@ talks:
   - title: Directional Content in React
     lang: en
     type: regular
-    level:
     time: 2018-03-01 16:30:00
     room:
     authors:
@@ -259,7 +245,6 @@ talks:
   - title: How to style in React and not lose friends
     lang: en
     type: regular
-    level:
     time: 2018-03-02 10:00:00
     room:
     authors:
@@ -276,7 +261,6 @@ talks:
   - title: Wait, you can do that with JavaScript…!?
     lang: en
     type: regular
-    level:
     time: 2018-03-02 10:00:00
     room:
     authors:
@@ -293,7 +277,6 @@ talks:
   - title: GitHub Pull Requests for Everyone
     lang: en
     type: regular
-    level:
     time: 2018-03-02 10:40:00
     room:
     authors:
@@ -310,7 +293,6 @@ talks:
   - title: 'Building with Blockchains: Better Distributed Applications'
     lang: en
     type: regular
-    level:
     time: 2018-03-02 10:40:00
     room:
     authors:
@@ -326,7 +308,6 @@ talks:
   - title: Houdini - What lies ahead
     lang: en
     type: regular
-    level:
     time: 2018-03-02 11:20:00
     room:
     authors:
@@ -343,7 +324,6 @@ talks:
   - title: Scaling NodeJS beyond the ordinary
     lang: en
     type: regular
-    level:
     time: 2018-03-02 11:20:00
     room:
     authors:
@@ -360,7 +340,6 @@ talks:
   - title: 'Today: Making a browser fast, the story of Firefox Quantum.'
     lang: en
     type: regular
-    level:
     time: 2018-03-02 13:00:00
     room:
     authors:
@@ -377,7 +356,6 @@ talks:
   - title: 'Code, Play & Rock ''n'' Roll: A WebAudio Experiment'
     lang: en
     type: regular
-    level:
     time: 2018-03-02 13:00:00
     room:
     authors:
@@ -394,7 +372,6 @@ talks:
   - title: Building a raytracing engine with JS
     lang: en
     type: regular
-    level:
     time: 2018-03-02 13:40:00
     room:
     authors:
@@ -411,7 +388,6 @@ talks:
   - title: 'Empathy as a Service: Supporting Mental Health in Tech'
     lang: en
     type: regular
-    level:
     time: 2018-03-02 13:40:00
     room:
     authors:
@@ -428,7 +404,6 @@ talks:
   - title: Daedalus – Though the Maze of Code
     lang: en
     type: regular
-    level:
     time: 2018-03-02 14:50:00
     room:
     authors:
@@ -445,7 +420,6 @@ talks:
   - title: 'Webpack 4: The State of the Art'
     lang: en
     type: regular
-    level:
     time: 2018-03-02 15:20:00
     room:
     authors:
@@ -462,7 +436,6 @@ talks:
   - title: Live and Machine Learn
     lang: en
     type: regular
-    level:
     time: 2018-03-02 15:50:00
     room:
     authors:

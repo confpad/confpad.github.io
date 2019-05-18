@@ -21,7 +21,6 @@ talks:
   - title: Make your project great again
     lang: ru
     type: regular
-    level:
     time: 2018-06-02 10:00:00
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: WTF with Android Background Restrictions
     lang: en
     type: regular
-    level:
     time: 2018-06-02 10:00:00
     room:
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: Crushing bugs with Redux architecture for iOS
     lang: ru
     type: regular
-    level:
     time: 2018-06-02 11:00:00
     room:
     authors:
@@ -75,7 +72,6 @@ talks:
   - title: What Mom Never Told You About Multi-threading
     lang: en
     type: regular
-    level:
     time: 2018-06-02 11:00:00
     room:
     authors:
@@ -93,7 +89,6 @@ talks:
   - title: How React-Native shapes the way we think about native apps
     lang: ru
     type: regular
-    level:
     time: 2018-06-02 12:00:00
     room:
     authors:
@@ -111,7 +106,6 @@ talks:
   - title: 'A comparative approach to MVC, MVVM and VIPER: taking the best ideas without fighting against the platform'
     lang: en
     type: regular
-    level:
     time: 2018-06-02 12:00:00
     room:
     authors:
@@ -129,7 +123,6 @@ talks:
   - title: 'Error handling architecture: clean, rapid, reactive approach'
     lang: ru
     type: regular
-    level:
     time: 2018-06-02 14:00:00
     room:
     authors:
@@ -147,7 +140,6 @@ talks:
   - title: Smooth transitions to Android - how and why to do this?
     lang: ru
     type: regular
-    level:
     time: 2018-06-02 14:00:00
     room:
     authors:
@@ -165,7 +157,6 @@ talks:
   - title: Why is the transition from Apache Cordova to React Native inevitable?
     lang: ru
     type: regular
-    level:
     time: 2018-06-02 14:00:00
     room:
     authors:
@@ -183,7 +174,6 @@ talks:
   - title: UX in the mobile applications development
     lang: ru
     type: regular
-    level:
     time: 2018-06-02 15:00:00
     room:
     authors:
@@ -201,7 +191,6 @@ talks:
   - title: Flutter - what is it?
     lang: ru
     type: regular
-    level:
     time: 2018-06-02 15:00:00
     room:
     authors:
@@ -219,7 +208,6 @@ talks:
   - title: TensorFlow for Mobile Poets
     lang: en
     type: regular
-    level:
     time: 2018-06-02 15:00:00
     room:
     authors:
@@ -237,7 +225,6 @@ talks:
   - title: Let’s make your DATA sexy
     lang: en
     type: regular
-    level:
     time: 2018-06-02 16:20:00
     room:
     authors:
@@ -255,7 +242,6 @@ talks:
   - title: Insert Koin
     lang: ru
     type: regular
-    level:
     time: 2018-06-02 16:20:00
     room:
     authors:
@@ -273,7 +259,6 @@ talks:
   - title: Working with sharp tools — continuous integration and deployment as a way to reduce friction
     lang: en
     type: regular
-    level:
     time: 2018-06-02 17:20:00
     room:
     authors:
@@ -291,7 +276,6 @@ talks:
   - title: Pain reliever
     lang: ru
     type: regular
-    level:
     time: 2018-06-02 17:20:00
     room:
     authors:

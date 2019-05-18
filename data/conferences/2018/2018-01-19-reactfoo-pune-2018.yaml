@@ -21,7 +21,6 @@ talks:
   - title: Why we built a 35kB React Native alternative?
     lang: en
     type: regular
-    level: beginner
     time: 2018-01-20
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: React the Reasonable Way
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Fullstack React Native
     lang: en
     type: regular
-    level: beginner
     time: 2018-01-20
     room:
     authors:
@@ -73,7 +70,6 @@ talks:
   - title: Why React is not suitable for building rich-text editors?
     lang: en
     type: regular
-    level: beginner
     time: 2018-01-20
     room:
     authors:
@@ -90,7 +86,6 @@ talks:
   - title: PWA with React
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:
@@ -108,7 +103,6 @@ talks:
   - title: How React shaped Haptik’s frontend story
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:
@@ -126,7 +120,6 @@ talks:
   - title: Setting up React project for your team
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:
@@ -142,7 +135,6 @@ talks:
   - title: Re-writing redux application with GraphQL & Apollo
     lang: en
     type: regular
-    level: advanced
     time: 2018-01-20
     room:
     authors:
@@ -158,7 +150,6 @@ talks:
   - title: Redux Deep Dive
     lang: en
     type: regular
-    level: advanced
     time: 2018-01-20
     room:
     authors:
@@ -176,7 +167,6 @@ talks:
   - title: Staying Sane While Styling Components
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:
@@ -192,7 +182,6 @@ talks:
   - title: Preact is Dope
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:
@@ -209,7 +198,6 @@ talks:
   - title: The history of CSS and it's future in React
     lang: en
     type: regular
-    level: beginner
     time: 2018-01-20
     room:
     authors:
@@ -226,7 +214,6 @@ talks:
   - title: A Reasonable way to React
     lang: en
     type: regular
-    level: beginner
     time: 2018-01-20
     room:
     authors:
@@ -242,7 +229,6 @@ talks:
   - title: Advanced React Component Patterns
     lang: en
     type: regular
-    level: advanced
     time: 2018-01-20
     room:
     authors:
@@ -260,7 +246,6 @@ talks:
   - title: Learn React the right way
     lang: en
     type: regular
-    level: beginner
     time: 2018-01-20
     room:
     authors:
@@ -276,7 +261,6 @@ talks:
   - title: Designing with React
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:
@@ -292,7 +276,6 @@ talks:
   - title: Styleguide Driven Development
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:
@@ -309,7 +292,6 @@ talks:
   - title: React shared libraries and module systems
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:
@@ -327,7 +309,6 @@ talks:
   - title: Building Performant Instant Github Repo Search With React Native
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:
@@ -343,7 +324,6 @@ talks:
   - title: Let's Sync the Async- A Primer on Redux Sagas
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:
@@ -361,7 +341,6 @@ talks:
   - title: Building custom renderers with React
     lang: en
     type: regular
-    level: advanced
     time: 2018-01-20
     room:
     authors:
@@ -380,7 +359,6 @@ talks:
   - title: Idiot-proof coding with Typescript and React
     lang: en
     type: regular
-    level: beginner
     time: 2018-01-20
     room:
     authors:
@@ -396,7 +374,6 @@ talks:
   - title: Rethinking with React 16
     lang: en
     type: regular
-    level: beginner
     time: 2018-01-20
     room:
     authors:
@@ -413,7 +390,6 @@ talks:
   - title: An Angular developer moving to React
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:
@@ -431,7 +407,6 @@ talks:
   - title: Deep Dive into React Portals
     lang: en
     type: regular
-    level: beginner
     time: 2018-01-20
     room:
     authors:
@@ -449,7 +424,6 @@ talks:
   - title: Beyond Redux and MobX - A Functional approach to building React Apps
     lang: en
     type: regular
-    level: advanced
     time: 2018-01-20
     room:
     authors:
@@ -465,7 +439,6 @@ talks:
   - title: Maximize value of your Components by "Stencil"ing them!
     lang: en
     type: regular
-    level: beginner
     time: 2018-01-20
     room:
     authors:
@@ -482,7 +455,6 @@ talks:
   - title: Load, Plug and Play Video Streaming and React
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:
@@ -499,7 +471,6 @@ talks:
   - title: Migrating from PHP legacy code to React & Best Practices in React
     lang: en
     type: regular
-    level: beginner
     time: 2018-01-20
     room:
     authors:
@@ -517,7 +488,6 @@ talks:
   - title: Moving your React-Native App to Production
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:
@@ -533,7 +503,6 @@ talks:
   - title: Dark Art of Webpack Bundle Tuning
     lang: en
     type: regular
-    level: intermediate
     time: 2018-01-20
     room:
     authors:

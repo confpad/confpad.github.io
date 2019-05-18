@@ -21,7 +21,6 @@ talks:
   - title: I want you to contribute to open source
     lang: en
     type: regular
-    level:
     time: 2018-01-25 09:00:00
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: Folding Space and Time
     lang: en
     type: regular
-    level:
     time: 2018-01-25 09:45:00
     room:
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: Write Queries, Not Code
     lang: en
     type: regular
-    level:
     time: 2018-01-25 11:15:00
     room:
     authors:
@@ -73,7 +70,6 @@ talks:
   - title: The Complete Yarn Workflow
     lang: en
     type: regular
-    level:
     time: 2018-01-25 12:00:00
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Make backend devs jealous of your test suite
     lang: en
     type: regular
-    level:
     time: 2018-01-25 14:15:00
     room:
     authors:
@@ -105,7 +100,6 @@ talks:
   - title: Make Linting Great Again
     lang: en
     type: regular
-    level:
     time: 2018-01-25 15:00:00
     room:
     authors:
@@ -121,7 +115,6 @@ talks:
   - title: An agnostic components design system for React
     lang: en
     type: regular
-    level:
     time: 2018-01-25 16:15:00
     room:
     authors:
@@ -137,7 +130,6 @@ talks:
   - title: Your brain doesn't have a fix flag
     lang: en
     type: regular
-    level:
     time: 2018-01-26 09:00:00
     room:
     authors:
@@ -153,7 +145,6 @@ talks:
   - title: Extending Redux in the Server Side
     lang: en
     type: regular
-    level:
     time: 2018-01-26 09:45:00
     room:
     authors:
@@ -169,7 +160,6 @@ talks:
   - title: What’s inside of TurboFan?
     lang: en
     type: regular
-    level:
     time: 2018-01-26 11:00:00
     room:
     authors:
@@ -185,7 +175,6 @@ talks:
   - title: Go home (or skiing) early. The joy of transparent reactivity.
     lang: en
     type: regular
-    level:
     time: 2018-01-26 11:45:00
     room:
     authors:
@@ -201,7 +190,6 @@ talks:
   - title: void* is the new var
     lang: en
     type: regular
-    level:
     time: 2018-01-26 14:00:00
     room:
     authors:
@@ -217,7 +205,6 @@ talks:
   - title: React state management in a GraphQL era
     lang: en
     type: regular
-    level:
     time: 2018-01-26 14:45:00
     room:
     authors:
@@ -233,7 +220,6 @@ talks:
   - title: Lightning Fast React Apps
     lang: en
     type: regular
-    level:
     time: 2018-01-26 16:00:00
     room:
     authors:
@@ -249,7 +235,6 @@ talks:
   - title: Bot Of The United States
     lang: en
     type: regular
-    level:
     time: 2018-01-26 16:45:00
     room:
     authors:

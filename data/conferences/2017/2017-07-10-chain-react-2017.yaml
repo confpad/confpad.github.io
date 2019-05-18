@@ -21,7 +21,6 @@ talks:
   - title: The Dark Art of Bundlers
     lang: en
     type: regular
-    level:
     time: 2017-07-10
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: Experimenting with a Paypal Checkout SDK using React Native
     lang: en
     type: regular
-    level:
     time: 2017-07-10
     room:
     authors:
@@ -56,7 +54,6 @@ talks:
   - title: React Native + ES.next = ♥︎
     lang: en
     type: regular
-    level:
     time: 2017-07-10
     room:
     authors:
@@ -74,7 +71,6 @@ talks:
   - title: Javascript Futurism
     lang: en
     type: regular
-    level:
     time: 2017-07-10
     room:
     authors:
@@ -92,7 +88,6 @@ talks:
   - title: Accepting Mobile Payments with React Native
     lang: en
     type: regular
-    level:
     time: 2017-07-10
     room:
     authors:
@@ -110,7 +105,6 @@ talks:
   - title: Gestures here. Gestures there. Gestures everywhere!
     lang: en
     type: regular
-    level:
     time: 2017-07-10
     room:
     authors:
@@ -131,7 +125,6 @@ talks:
   - title: Rewriting a Large Hybrid App with React Native
     lang: en
     type: regular
-    level:
     time: 2017-07-10
     room:
     authors:
@@ -149,7 +142,6 @@ talks:
   - title: Why we Need an App Browser
     lang: en
     type: regular
-    level:
     time: 2017-07-10
     room:
     authors:
@@ -166,7 +158,6 @@ talks:
   - title: Breaking Down React Native Bridging
     lang: en
     type: regular
-    level:
     time: 2017-07-10
     room:
     authors:
@@ -184,7 +175,6 @@ talks:
   - title: From RPC to GraphQL"APIs from Past to Present"
     lang: en
     type: regular
-    level:
     time: 2017-07-10
     room:
     authors:
@@ -201,7 +191,6 @@ talks:
   - title: From Zero to DevOps
     lang: en
     type: regular
-    level:
     time: 2017-07-10
     room:
     authors:
@@ -218,7 +207,6 @@ talks:
   - title: React as a Platform"A path towards a truly cross-platform UI"
     lang: en
     type: regular
-    level:
     time: 2017-07-10
     room:
     authors:
@@ -235,7 +223,6 @@ talks:
   - title: Building Serverless Backends with AWS Lambda for React Native Apps
     lang: en
     type: regular
-    level:
     time: 2017-07-11
     room:
     authors:
@@ -252,7 +239,6 @@ talks:
   - title: When to Go Native Over Javascript
     lang: en
     type: regular
-    level:
     time: 2017-07-11
     room:
     authors:
@@ -269,7 +255,6 @@ talks:
   - title: Building Stellar User Experiences with React Native
     lang: en
     type: regular
-    level:
     time: 2017-07-11
     room:
     authors:
@@ -287,7 +272,6 @@ talks:
   - title: From Idea to App Store"A Guide to Shipping React Native Apps"
     lang: en
     type: regular
-    level:
     time: 2017-07-11
     room:
     authors:
@@ -305,7 +289,6 @@ talks:
   - title: React Native Sand Paper
     lang: en
     type: regular
-    level:
     time: 2017-07-11
     room:
     authors:
@@ -322,7 +305,6 @@ talks:
   - title: React Native on the Apple TV Platform
     lang: en
     type: regular
-    level:
     time: 2017-07-11
     room:
     authors:
@@ -339,7 +321,6 @@ talks:
   - title: Realtime Event Processing, Streaming and Subscription for React Native Using Cloud Services
     lang: en
     type: regular
-    level:
     time: 2017-07-11
     room:
     authors:
@@ -356,7 +337,6 @@ talks:
   - title: React Native Panel With Various Speakers
     lang: en
     type: regular
-    level:
     time: 2017-07-11
     room:
     authors:

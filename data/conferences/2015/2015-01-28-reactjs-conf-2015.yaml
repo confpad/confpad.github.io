@@ -21,7 +21,6 @@ talks:
   - title: Keynote
     lang: en
     type: regular
-    level:
     time: 2015-01-28
     room:
     authors:
@@ -42,7 +41,6 @@ talks:
   - title: Tweak your page in real time, without leaving the comfort of your editor
     lang: en
     type: regular
-    level:
     time: 2015-01-28
     room:
     authors:
@@ -59,7 +57,6 @@ talks:
   - title: Unlocking the structure of your React applications with the AST
     lang: en
     type: regular
-    level:
     time: 2015-01-28
     room:
     authors:
@@ -76,7 +73,6 @@ talks:
   - title: Data fetching for React applications at Facebook
     lang: en
     type: regular
-    level:
     time: 2015-01-28
     room:
     authors:
@@ -97,7 +93,6 @@ talks:
   - title: Communicating with channels
     lang: en
     type: regular
-    level:
     time: 2015-01-28
     room:
     authors:
@@ -114,7 +109,6 @@ talks:
   - title: react-router increases your productivity
     lang: en
     type: regular
-    level:
     time: 2015-01-28
     room:
     authors:
@@ -131,7 +125,6 @@ talks:
   - title: Full Stack Flux (was" The future of JavaScript layout systems")
     lang: en
     type: regular
-    level:
     time: 2015-01-28
     room:
     authors:
@@ -148,7 +141,6 @@ talks:
   - title: Making your app fast with high-performance components
     lang: en
     type: regular
-    level:
     time: 2015-01-28
     room:
     authors:
@@ -165,7 +157,6 @@ talks:
   - title: Format data and strings in any language with FormatJS and react-intl
     lang: en
     type: regular
-    level:
     time: 2015-01-28
     room:
     authors:
@@ -182,7 +173,6 @@ talks:
   - title: Hype!
     lang: en
     type: regular
-    level:
     time: 2015-01-28
     room:
     authors:
@@ -199,7 +189,6 @@ talks:
   - title: React Native
     lang: en
     type: regular
-    level:
     time: 2015-01-29
     room:
     authors:
@@ -215,7 +204,6 @@ talks:
   - title: The complementarity of React and Web Components
     lang: en
     type: regular
-    level:
     time: 2015-01-29
     room:
     authors:
@@ -232,7 +220,6 @@ talks:
   - title: Immutable Data and React
     lang: en
     type: regular
-    level:
     time: 2015-01-29
     room:
     authors:
@@ -249,7 +236,6 @@ talks:
   - title: Beyond the DOM "How Netflix plans to enhance your television experience"
     lang: en
     type: regular
-    level:
     time: 2015-01-29
     room:
     authors:
@@ -266,7 +252,6 @@ talks:
   - title: Scalable Data Visualization
     lang: en
     type: regular
-    level:
     time: 2015-01-29
     room:
     authors:
@@ -283,7 +268,6 @@ talks:
   - title: Refracting React
     lang: en
     type: regular
-    level:
     time: 2015-01-29
     room:
     authors:
@@ -300,7 +284,6 @@ talks:
   - title: Flux Panel
     lang: en
     type: regular
-    level:
     time: 2015-01-29
     room:
     authors:
@@ -317,7 +300,6 @@ talks:
   - title: Codecademy's approach to component communication
     lang: en
     type: regular
-    level:
     time: 2015-01-29
     room:
     authors:
@@ -334,7 +316,6 @@ talks:
   - title: Static typing with Flow and TypeScript
     lang: en
     type: regular
-    level:
     time: 2015-01-29
     room:
     authors:

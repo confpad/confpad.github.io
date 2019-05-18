@@ -21,7 +21,6 @@ talks:
   - title: Opening and Welcoming
     lang: en
     type: regular
-    level:
     time: 2018-10-13
     room:
     authors:
@@ -33,7 +32,6 @@ talks:
   - title: Building a ray tracing engine with JS
     lang: en
     type: regular
-    level:
     time: 2018-10-13
     room:
     authors:
@@ -50,7 +48,6 @@ talks:
   - title: 2018 - The Year of Web Components
     lang: en
     type: regular
-    level:
     time: 2018-10-13
     room:
     authors:
@@ -67,7 +64,6 @@ talks:
   - title: Creative experiments with WebGL shaders in JavaScript
     lang: en
     type: regular
-    level:
     time: 2018-10-13
     room:
     authors:
@@ -84,7 +80,6 @@ talks:
   - title: Humanizing Your Documentation
     lang: en
     type: regular
-    level:
     time: 2018-10-13
     room:
     authors:
@@ -101,7 +96,6 @@ talks:
   - title: Haute Codeture
     lang: en
     type: regular
-    level:
     time: 2018-10-13
     room:
     authors:
@@ -118,7 +112,6 @@ talks:
   - title: Build highly dynamic apps with Vue.js
     lang: en
     type: regular
-    level:
     time: 2018-10-13
     room:
     authors:
@@ -135,7 +128,6 @@ talks:
   - title: webpack and the challenge of WebAssembly
     lang: en
     type: regular
-    level:
     time: 2018-10-13
     room:
     authors:
@@ -152,7 +144,6 @@ talks:
   - title: Extending JavaScript with Rust
     lang: en
     type: regular
-    level:
     time: 2018-10-14
     room:
     authors:
@@ -169,7 +160,6 @@ talks:
   - title: The how's and why's of flexible React components
     lang: en
     type: regular
-    level:
     time: 2018-10-14
     room:
     authors:
@@ -186,7 +176,6 @@ talks:
   - title: Scalable Angular Architecture
     lang: en
     type: regular
-    level:
     time: 2018-10-14
     room:
     authors:
@@ -203,7 +192,6 @@ talks:
   - title: Build the API you want to see in the world
     lang: en
     type: regular
-    level:
     time: 2018-10-14
     room:
     authors:
@@ -220,7 +208,6 @@ talks:
   - title: Use ReasonML in your React applications
     lang: en
     type: regular
-    level:
     time: 2018-10-14
     room:
     authors:
@@ -237,7 +224,6 @@ talks:
   - title: Building Cross Platform Desktop Apps With Electron
     lang: en
     type: regular
-    level:
     time: 2018-10-14
     room:
     authors:
@@ -253,7 +239,6 @@ talks:
   - title: Make the Web Brighter with the CSS Paint API
     lang: en
     type: regular
-    level:
     time: 2018-10-14
     room:
     authors:

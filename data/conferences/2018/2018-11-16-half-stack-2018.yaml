@@ -21,7 +21,6 @@ talks:
   - title: Bringing best practices front and centre
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: The present and future of VR on the Web
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -53,7 +51,6 @@ talks:
   - title: Building Bots with JavaScript
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -69,7 +66,6 @@ talks:
   - title: Fast But Not Furious"Debugging User Interaction Performance Issues"
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -85,7 +81,6 @@ talks:
   - title: npm install disaster-waiting-to-happen
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -101,7 +96,6 @@ talks:
   - title: Enter ES2018
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -117,7 +111,6 @@ talks:
   - title: 100% CSS Mario Kart
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -133,7 +126,6 @@ talks:
   - title: Buying a House with JavaScript
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -149,7 +141,6 @@ talks:
   - title: Home Automation with JavaScript
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -165,7 +156,6 @@ talks:
   - title: Reanimating the Web
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -181,7 +171,6 @@ talks:
   - title: The Most Important UI,You
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -197,7 +186,6 @@ talks:
   - title: Cats vs. Dogs
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -217,7 +205,6 @@ talks:
   - title: JavaScript at the edge
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -237,7 +224,6 @@ talks:
   - title: This Talk Is About You
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -253,7 +239,6 @@ talks:
   - title: Beats, Rhymes & Unit Tests
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:
@@ -269,7 +254,6 @@ talks:
   - title: Alpha, Beta, Gamer"Dev Mode"
     lang: en
     type: regular
-    level:
     time: 2017-11-16
     room:
     authors:

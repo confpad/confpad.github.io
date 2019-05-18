@@ -21,7 +21,6 @@ talks:
   - title: Why React is not Reactive
     lang: en
     type: regular
-    level:
     time: 2018-08-16
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Reacting in a Crisis
     lang: en
     type: regular
-    level:
     time: 2018-08-16
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Algebraic effects, Fibers, Coroutines...Oh my!
     lang: en
     type: regular
-    level:
     time: 2018-08-16
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: The Life Cycle Methods and The Wolf A Musicological Romp
     lang: en
     type: regular
-    level:
     time: 2018-08-16
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Chaos Monkeys in Your Browser What Chaos Engineering Means for the Front End
     lang: en
     type: regular
-    level:
     time: 2018-08-16
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Explorable Explanations with React
     lang: en
     type: regular
-    level:
     time: 2018-08-16
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: AI For Everybody
     lang: en
     type: regular
-    level:
     time: 2018-08-16
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: One Hundred Years of JavaScript
     lang: en
     type: regular
-    level:
     time: 2018-08-16
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: ReasonML is Serious Business
     lang: en
     type: regular
-    level:
     time: 2018-08-17
     room:
     authors:
@@ -173,7 +164,6 @@ talks:
   - title: Swipe Left, Uncaught TypeError Learning to Love Type Systems
     lang: en
     type: regular
-    level:
     time: 2018-08-17
     room:
     authors:
@@ -190,7 +180,6 @@ talks:
   - title: Help me WebAssembly, you're my only hope!
     lang: en
     type: regular
-    level:
     time: 2018-08-17
     room:
     authors:
@@ -207,7 +196,6 @@ talks:
   - title: Hot Garbage Clean Code is Dead
     lang: en
     type: regular
-    level:
     time: 2018-08-17
     room:
     authors:
@@ -224,7 +212,6 @@ talks:
   - title: React Off the Grid
     lang: en
     type: regular
-    level:
     time: 2018-08-17
     room:
     authors:
@@ -241,7 +228,6 @@ talks:
   - title: Through the (Open Source) Looking Glass
     lang: en
     type: regular
-    level:
     time: 2018-08-17
     room:
     authors:
@@ -258,7 +244,6 @@ talks:
   - title: Translating React
     lang: en
     type: regular
-    level:
     time: 2018-08-17
     room:
     authors:
@@ -275,7 +260,6 @@ talks:
   - title: Simply React
     lang: en
     type: regular
-    level:
     time: 2018-08-17
     room:
     authors:
@@ -292,7 +276,6 @@ talks:
   - title: Everything You Need to Know About GraphQL in 3 Components
     lang: en
     type: regular
-    level:
     time: 2018-08-17
     room:
     authors:
@@ -309,7 +292,6 @@ talks:
   - title: Route Recalculating
     lang: en
     type: regular
-    level:
     time: 2018-08-17
     room:
     authors:

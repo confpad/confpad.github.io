@@ -21,7 +21,6 @@ talks:
   - title: Day 1 Keynote
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -45,7 +44,6 @@ talks:
   - title: Authentication with NgRx
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -62,7 +60,6 @@ talks:
   - title: 5 must-dos to make your JS app search engine friendly (#7 will shock you!)
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -79,7 +76,6 @@ talks:
   - title: How to hack an Angular app?
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -96,7 +92,6 @@ talks:
   - title: Increasing Performance – more than a pipe dream
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -113,7 +108,6 @@ talks:
   - title: Reusable Animations
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -130,7 +124,6 @@ talks:
   - title: Angular, Docker and Containers….in 5-ish Minutes
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -147,7 +140,6 @@ talks:
   - title: 'StackBlitz + Angular: A Better Way to Build PWA’s'
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -168,7 +160,6 @@ talks:
   - title: Adventures in Angular Podcast
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -208,7 +199,6 @@ talks:
   - title: 'Grid Layout: CSS is Awesome'
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -225,7 +215,6 @@ talks:
   - title: Angular CDK and Material in 2018
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -242,7 +231,6 @@ talks:
   - title: I switched a map, and you’ll never guess what happened next…
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -267,7 +255,6 @@ talks:
   - title: Google’s serverless tools for machine learning, big data and app backends
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -284,7 +271,6 @@ talks:
   - title: Modules are not what you think they are
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -301,7 +287,6 @@ talks:
   - title: Elements in v6 and Beyond
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -318,7 +303,6 @@ talks:
   - title: Super-Powered, Server-Rendered Progressive Native Apps
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -339,7 +323,6 @@ talks:
   - title: Testing Best Practices for Angular Applications
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -356,7 +339,6 @@ talks:
   - title: Building a Karaoke Machine with Angular and HTML5 Speech Recognition
     lang: en
     type: regular
-    level:
     time: 2018-04-18
     room: Grand Ballroom
     authors:
@@ -373,7 +355,6 @@ talks:
   - title: Reactive Testing Strategies with NgRx
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom A/D
     authors:
@@ -394,7 +375,6 @@ talks:
   - title: Update party
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Riviera
     authors:
@@ -414,7 +394,6 @@ talks:
   - title: How to score 100 on a Angular Progressive Web App Audit
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Murano
     authors:
@@ -431,7 +410,6 @@ talks:
   - title: Optimizing an Angular application
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom B
     authors:
@@ -448,7 +426,6 @@ talks:
   - title: 6 APPS ONE CODE WITH ANGULAR
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom C
     authors:
@@ -465,7 +442,6 @@ talks:
   - title: Jest Testing
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Murano
     authors:
@@ -482,7 +458,6 @@ talks:
   - title: VR Hero – Ready Observable One
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Murano
     authors:
@@ -503,7 +478,6 @@ talks:
   - title: NgRx Schematics
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom A/D
     authors:
@@ -520,7 +494,6 @@ talks:
   - title: VS Code Can Do That?
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom B
     authors:
@@ -537,7 +510,6 @@ talks:
   - title: N Things You Didn’t Know About the Router
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom C
     authors:
@@ -554,7 +526,6 @@ talks:
   - title: Good Action Hygiene with NgRx
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom A/D
     authors:
@@ -571,7 +542,6 @@ talks:
   - title: Complex Forms Build Character
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom B
     authors:
@@ -588,7 +558,6 @@ talks:
   - title: Build a look alike engine with machine learning and Angular
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom C
     authors:
@@ -605,7 +574,6 @@ talks:
   - title: Ngrx Complex Form
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom A/D
     authors:
@@ -622,7 +590,6 @@ talks:
   - title: Angular Performance Workshop
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom B
     authors:
@@ -639,7 +606,6 @@ talks:
   - title: Use the Custom Operator Force; Become an RxJS Jedi
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom C
     authors:
@@ -656,7 +622,6 @@ talks:
   - title: Writing A Custom Angular Build
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Murano
     authors:
@@ -673,7 +638,6 @@ talks:
   - title: Reducing the Boilerplate with NgRx
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom A/D
     authors:
@@ -694,7 +658,6 @@ talks:
   - title: Streamlining the AngularJS-to-Angular migration
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Murano
     authors:
@@ -711,7 +674,6 @@ talks:
   - title: Advancing Unit Tests
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom B
     authors:
@@ -728,7 +690,6 @@ talks:
   - title: 'NgRx Selectors: How to stop worrying about your Store structure'
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom A/D
     authors:
@@ -749,7 +710,6 @@ talks:
   - title: Global Thermonuclear Templates
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom C
     authors:
@@ -766,7 +726,6 @@ talks:
   - title: Firebase/Cloud Functions/ML Workshop
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Murano
     authors:
@@ -783,7 +742,6 @@ talks:
   - title: Building awesome components with the power of the Angular Component Dev Kit
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom B
     authors:
@@ -804,7 +762,6 @@ talks:
   - title: Just Another Marble Monday – Unit Testing NGRX/RxJS w/Marbles
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom A/D
     authors:
@@ -825,7 +782,6 @@ talks:
   - title: Implementing advanced DOM manipulation scenarios
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom C
     authors:
@@ -842,7 +798,6 @@ talks:
   - title: Hands-on Full-Stack development with Nx and Bazel
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Murano
     authors:
@@ -863,7 +818,6 @@ talks:
   - title: NgRx Mobile with Ionic
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom A/D
     authors:
@@ -880,7 +834,6 @@ talks:
   - title: “Containerizing” Angular with Docker
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom B
     authors:
@@ -897,7 +850,6 @@ talks:
   - title: RXJS OBSERVABLES IN ANGULAR
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom A/D
     authors:
@@ -918,7 +870,6 @@ talks:
   - title: Deep dive into content projection
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom C
     authors:
@@ -935,7 +886,6 @@ talks:
   - title: 'Protractor: A New Hope'
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom C
     authors:
@@ -956,7 +906,6 @@ talks:
   - title: 'How I love being ejected: Customizing your Angular build with Bazel'
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom C
     authors:
@@ -973,7 +922,6 @@ talks:
   - title: Using StackBlitz & Angular for Rapid App Prototyping
     lang: en
     type: regular
-    level:
     time: 2018-04-19
     room: Grand Ballroom B
     authors:
@@ -994,7 +942,6 @@ talks:
   - title: Day 3 Keynote
     lang: en
     type: regular
-    level:
     time: 2018-04-20
     room: Grand Ballroom
     authors:
@@ -1014,7 +961,6 @@ talks:
   - title: Ready for Readable Code?
     lang: en
     type: regular
-    level:
     time: 2018-04-20
     room: Grand Ballroom
     authors:
@@ -1031,7 +977,6 @@ talks:
   - title: The magic of template reference variables
     lang: en
     type: regular
-    level:
     time: 2018-04-20
     room: Grand Ballroom
     authors:
@@ -1048,7 +993,6 @@ talks:
   - title: Angular Material’s Trees
     lang: en
     type: regular
-    level:
     time: 2018-04-20
     room: Grand Ballroom
     authors:
@@ -1065,7 +1009,6 @@ talks:
   - title: Let’s Build A Form Around It
     lang: en
     type: regular
-    level:
     time: 2018-04-20
     room: Grand Ballroom
     authors:
@@ -1082,7 +1025,6 @@ talks:
   - title: Angular at Large Organizations
     lang: en
     type: regular
-    level:
     time: 2018-04-20
     room: Grand Ballroom
     authors:
@@ -1099,7 +1041,6 @@ talks:
   - title: Introducing RxJS6!
     lang: en
     type: regular
-    level:
     time: 2018-04-20
     room: Grand Ballroom
     authors:
@@ -1116,7 +1057,6 @@ talks:
   - title: Strategies for Server Side Rendering Angular Applications
     lang: en
     type: regular
-    level:
     time: 2018-04-20
     room: Grand Ballroom
     authors:
@@ -1133,7 +1073,6 @@ talks:
   - title: Angular for Designers
     lang: en
     type: regular
-    level:
     time: 2018-04-20
     room: Grand Ballroom
     authors:
@@ -1150,7 +1089,6 @@ talks:
   - title: Adventures in Universal and Zone.js
     lang: en
     type: regular
-    level:
     time: 2018-04-20
     room: Grand Ballroom
     authors:
@@ -1167,7 +1105,6 @@ talks:
   - title: Angular Service Workers & Cows — a love story
     lang: en
     type: regular
-    level:
     time: 2018-04-20
     room: Grand Ballroom
     authors:
@@ -1184,7 +1121,6 @@ talks:
   - title: Angular Panel
     lang: en
     type: regular
-    level:
     time: 2018-04-20
     room: Grand Ballroom
     authors:

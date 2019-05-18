@@ -21,7 +21,6 @@ talks:
   - title: 2018 - The Year of Web Components
     lang: en
     type: regular
-    level:
     time: 2018-09-14
     room: Room Europa
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: The Lonely and Dark Road to Styling in React
     lang: en
     type: regular
-    level:
     time: 2018-09-14
     room: Room Europa
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: Next Generation Forms with React Final Form
     lang: en
     type: regular
-    level:
     time: 2018-09-14
     room: Room Europa
     authors:
@@ -75,7 +72,6 @@ talks:
   - title: The ABC of Coded Style Guides
     lang: en
     type: regular
-    level:
     time: 2018-09-14
     room: Room Europa
     authors:
@@ -92,7 +88,6 @@ talks:
   - title: Testing, Testing, 1, 2, NaN
     lang: en
     type: regular
-    level:
     time: 2018-09-14
     room: Room Europa
     authors:
@@ -110,7 +105,6 @@ talks:
   - title: Lambdas, lambdas everywhere...
     lang: en
     type: lightning
-    level:
     time: 2018-09-14
     room: Room Europa
     authors:
@@ -127,7 +121,6 @@ talks:
   - title: Building a Chrome extension with React
     lang: en
     type: lightning
-    level:
     time: 2018-09-14
     room: Room Europa
     authors:
@@ -144,7 +137,6 @@ talks:
   - title: Modeling errors in Now CLI
     lang: en
     type: lightning
-    level:
     time: 2018-09-14
     room: Room Europa
     authors:
@@ -160,7 +152,6 @@ talks:
   - title: Journey through VR and AR with React
     lang: en
     type: regular
-    level:
     time: 2018-09-14
     room: Room Europa
     authors:
@@ -178,7 +169,6 @@ talks:
   - title: The new era of zero-config tools
     lang: en
     type: regular
-    level:
     time: 2018-09-14
     room: Room Europa
     authors:
@@ -196,7 +186,6 @@ talks:
   - title: Help! My React app is slowwwww!
     lang: en
     type: regular
-    level:
     time: 2018-09-14
     room: Room Europa
     authors:
@@ -214,7 +203,6 @@ talks:
   - title: Pushing React Native outside the comfort zone
     lang: en
     type: regular
-    level:
     time: 2018-09-14
     room: Room Europa
     authors:
@@ -232,7 +220,6 @@ talks:
   - title: Components, patterns and sh.t it’s hard to deal with
     lang: en
     type: regular
-    level:
     time: 2018-09-15
     room: Room Europa
     authors:
@@ -250,7 +237,6 @@ talks:
   - title: GraphQL Boilerplates
     lang: en
     type: regular
-    level:
     time: 2018-09-15
     room: Room Europa
     authors:
@@ -268,7 +254,6 @@ talks:
   - title: Taming Forms in React
     lang: en
     type: regular
-    level:
     time: 2018-09-15
     room: Room Europa
     authors:
@@ -286,7 +271,6 @@ talks:
   - title: Mobile navigation
     lang: en
     type: regular
-    level:
     time: 2018-09-15
     room: Room Europa
     authors:
@@ -304,7 +288,6 @@ talks:
   - title: Motion in React
     lang: en
     type: regular
-    level:
     time: 2018-09-15
     room: Room Europa
     authors:
@@ -321,7 +304,6 @@ talks:
   - title: Better ReasonML Integration in Flow & TypeScript Codebases
     lang: en
     type: lightning
-    level:
     time: 2018-09-15
     room: Room Europa
     authors:
@@ -337,7 +319,6 @@ talks:
   - title: Testing a Redux store
     lang: en
     type: lightning
-    level:
     time: 2018-09-15
     room: Room Europa
     authors:
@@ -353,7 +334,6 @@ talks:
   - title: Powering Code Reuse with Context and Render Props
     lang: en
     type: regular
-    level:
     time: 2018-09-15
     room: Room Europa
     authors:
@@ -371,7 +351,6 @@ talks:
   - title: 'React Native: The dark side of Background tasks'
     lang: en
     type: regular
-    level:
     time: 2018-09-15
     room: Room Europa
     authors:
@@ -389,7 +368,6 @@ talks:
   - title: An unknown land of creating libraries
     lang: en
     type: regular
-    level:
     time: 2018-09-15
     room: Room Europa
     authors:
@@ -407,7 +385,6 @@ talks:
   - title: Navigating the hype-driven frontend development world without going insane
     lang: en
     type: regular
-    level:
     time: 2018-09-15
     room: Room Europa
     authors:

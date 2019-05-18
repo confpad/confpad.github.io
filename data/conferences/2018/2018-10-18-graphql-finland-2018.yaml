@@ -21,7 +21,6 @@ talks:
   - title: Adopting GraphQL in Large Codebases
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Emerging uses of GraphQL for rapid application development
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: Going offline first with GraphQL
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: Life is hard and so is learning GraphQL
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: Building efficient, waterfall-free GraphQL applications
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: Building tools for GraphQL
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: (Un)expected use of GraphQL
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -139,7 +132,6 @@ talks:
   - title: End-to-end type-safety with GraphQL
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -156,7 +148,6 @@ talks:
   - title: Real-time GraphQL with Event Sourcing
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -173,7 +164,6 @@ talks:
   - title: Hidden gems of GraphQL query
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -190,7 +180,6 @@ talks:
   - title: Reason and GraphQL
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: graphql-php
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -224,7 +212,6 @@ talks:
   - title: Writing a realtime GraphQL backend as a compiler in Haskell
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -241,7 +228,6 @@ talks:
   - title: Where art thou, my error?
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -257,7 +243,6 @@ talks:
   - title: Database-first GraphQL Development
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:
@@ -274,7 +259,6 @@ talks:
   - title: Mysterious closing keynote
     lang: en
     type: regular
-    level:
     time: 2018-10-19
     room:
     authors:

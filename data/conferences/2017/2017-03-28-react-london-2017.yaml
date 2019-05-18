@@ -21,7 +21,6 @@ talks:
   - title: Javascript code formatting
     lang: en
     type: regular
-    level:
     time: 2017-03-28
     room:
     authors:
@@ -39,7 +38,6 @@ talks:
   - title: Logux, a new approach to client-server communication
     lang: en
     type: regular
-    level:
     time: 2017-03-28
     room:
     authors:
@@ -57,7 +55,6 @@ talks:
   - title: What's in a language?
     lang: en
     type: regular
-    level:
     time: 2017-03-28
     room:
     authors:
@@ -75,7 +72,6 @@ talks:
   - title: Snapshot testing
     lang: en
     type: lightning
-    level:
     time: 2017-03-28
     room:
     authors:
@@ -93,7 +89,6 @@ talks:
   - title: Realtime Webpack - Pushing on-demand bundling to the limits
     lang: en
     type: lightning
-    level:
     time: 2017-03-28
     room:
     authors:
@@ -111,7 +106,6 @@ talks:
   - title: Offline for the greater good
     lang: en
     type: lightning
-    level:
     time: 2017-03-28
     room:
     authors:
@@ -129,7 +123,6 @@ talks:
   - title: Next.js in production
     lang: en
     type: lightning
-    level:
     time: 2017-03-28
     room:
     authors:
@@ -147,7 +140,6 @@ talks:
   - title: The road to <💅> styled-components" CSS in component-based systems"
     lang: en
     type: regular
-    level:
     time: 2017-03-28
     room:
     authors:
@@ -165,7 +157,6 @@ talks:
   - title: A tiny Fiber renderer
     lang: en
     type: regular
-    level:
     time: 2017-03-28
     room:
     authors:
@@ -183,7 +174,6 @@ talks:
   - title: Panel Discussion
     lang: en
     type: regular
-    level:
     time: 2017-03-28
     room:
     authors:
@@ -212,7 +202,6 @@ talks:
   - title: Weapons grade React
     lang: en
     type: regular
-    level:
     time: 2017-03-28
     room:
     authors:

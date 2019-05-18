@@ -21,7 +21,6 @@ talks:
   - title: ReasonML (Opening Keynote)
     lang: en
     type: regular
-    level:
     time: 2018-09-29
     room:
     authors:
@@ -37,7 +36,6 @@ talks:
   - title: React & GraphQL - Bringing Simplicity and Correctness to Client Side Development
     lang: en
     type: regular
-    level:
     time: 2018-09-29
     room:
     authors:
@@ -54,7 +52,6 @@ talks:
   - title: Horror Stories From Hacking the DOM Into a Native Platform
     lang: en
     type: regular
-    level:
     time: 2018-09-29
     room:
     authors:
@@ -71,7 +68,6 @@ talks:
   - title: From Sketch to Code Designing a Component Kit
     lang: en
     type: regular
-    level:
     time: 2018-09-29
     room:
     authors:
@@ -88,7 +84,6 @@ talks:
   - title: State of Redux
     lang: en
     type: regular
-    level:
     time: 2018-09-29
     room:
     authors:
@@ -104,7 +99,6 @@ talks:
   - title: Lightning talks
     lang: en
     type: regular
-    level:
     time: 2018-09-29
     room:
     authors:
@@ -133,7 +127,6 @@ talks:
   - title: The Art of Humanizing Pull Requests
     lang: en
     type: regular
-    level:
     time: 2018-09-29
     room:
     authors:
@@ -150,7 +143,6 @@ talks:
   - title: Custom CSS is the Path to Inconsistent UI
     lang: en
     type: regular
-    level:
     time: 2018-09-29
     room:
     authors:
@@ -167,7 +159,6 @@ talks:
   - title: Streaming React for Faster UIs
     lang: en
     type: regular
-    level:
     time: 2018-09-29
     room:
     authors:
@@ -184,7 +175,6 @@ talks:
   - title: Building AR Apps with React Native
     lang: en
     type: regular
-    level:
     time: 2018-09-29
     room:
     authors:
@@ -201,7 +191,6 @@ talks:
   - title: The Case for Whimsy
     lang: en
     type: regular
-    level:
     time: 2018-09-30
     room:
     authors:
@@ -218,7 +207,6 @@ talks:
   - title: Beyond Web-Apps React, Javascript and WebAssembly to Port Legacy Native Apps
     lang: en
     type: regular
-    level:
     time: 2018-09-30
     room:
     authors:
@@ -235,7 +223,6 @@ talks:
   - title: Forbidden Planet" Cured My Imposter Syndrome
     lang: en
     type: regular
-    level:
     time: 2018-09-30
     room:
     authors:
@@ -252,7 +239,6 @@ talks:
   - title: Progressive React
     lang: en
     type: regular
-    level:
     time: 2018-09-30
     room:
     authors:
@@ -268,7 +254,6 @@ talks:
   - title: Introducing Undux Dead Simple, Typesafe State Management for React
     lang: en
     type: regular
-    level:
     time: 2018-09-30
     room:
     authors:
@@ -284,7 +269,6 @@ talks:
   - title: Lightning talks
     lang: en
     type: regular
-    level:
     time: 2018-09-30
     room:
     authors:
@@ -313,7 +297,6 @@ talks:
   - title: Deterministic Mocking with GraphQL and Apollo Lunar Launch
     lang: en
     type: regular
-    level:
     time: 2018-09-30
     room:
     authors:
@@ -334,7 +317,6 @@ talks:
   - title: Large Scale Migrations Using Recast and jscodeshift to Scale
     lang: en
     type: regular
-    level:
     time: 2018-09-30
     room:
     authors:
@@ -351,7 +333,6 @@ talks:
   - title: React A Romance of Many Dimensions
     lang: en
     type: regular
-    level:
     time: 2018-09-30
     room:
     authors:

@@ -21,7 +21,6 @@ talks:
   - title: Robot Rock
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Top-level Awaiting for Godot
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -56,7 +54,6 @@ talks:
   - title: Building a JavaScript runtime
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -74,7 +71,6 @@ talks:
   - title: Give me your content, punk!
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -92,7 +88,6 @@ talks:
   - title: Debugging, a step away from the console
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -110,7 +105,6 @@ talks:
   - title: WOAH! Is that OffscreenCanvas?
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -128,7 +122,6 @@ talks:
   - title: Command Query Responsibility Segregation
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -146,7 +139,6 @@ talks:
   - title: Revisiting Node modules
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -164,7 +156,6 @@ talks:
   - title: The State of JavaScript 2018
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -182,7 +173,6 @@ talks:
   - title: HTTP/2 For Me & You
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -200,7 +190,6 @@ talks:
   - title: Promises & Composition
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -218,7 +207,6 @@ talks:
   - title: Boilerplates Are The New Copy-Paste
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -236,7 +224,6 @@ talks:
   - title: A Quick Recap on WebAssembly
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -254,7 +241,6 @@ talks:
   - title: WebUSB for Digital Artists
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -272,7 +258,6 @@ talks:
   - title: Choosing Your JavaScript Framework
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -290,7 +275,6 @@ talks:
   - title: Asynchronous hamburgers
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -308,7 +292,6 @@ talks:
   - title: JavaScript on the Desktop, Fast and Slow
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -326,7 +309,6 @@ talks:
   - title: Learning to Love Type Systems
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:
@@ -344,7 +326,6 @@ talks:
   - title: 'TypeScript: Static types for JavaScript'
     lang: en
     type: regular
-    level:
     time: 2018-11-09
     room:
     authors:

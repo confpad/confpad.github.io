@@ -21,7 +21,6 @@ talks:
   - title: Building a testing- and quality-driven culture at IBM
     lang: en
     type: regular
-    level:
     time: 2018-02-22
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: Establishing testing patterns with software design principles
     lang: en
     type: regular
-    level:
     time: 2018-02-22
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: BDD with cucumber.js
     lang: en
     type: regular
-    level:
     time: 2018-02-22
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: I see your point, but…
     lang: en
     type: regular
-    level:
     time: 2018-02-22
     room:
     authors:
@@ -94,7 +90,6 @@ talks:
   - title: Testing against time in JavaScript applications
     lang: en
     type: regular
-    level:
     time: 2018-02-22
     room:
     authors:
@@ -111,7 +106,6 @@ talks:
   - title: Detox A year in. Building it, Testing with it
     lang: en
     type: regular
-    level:
     time: 2018-02-22
     room:
     authors:
@@ -128,7 +122,6 @@ talks:
   - title: Testing React Applications
     lang: en
     type: regular
-    level:
     time: 2018-02-22
     room:
     authors:
@@ -145,7 +138,6 @@ talks:
   - title: Please don’t mock me
     lang: en
     type: regular
-    level:
     time: 2018-02-22
     room:
     authors:
@@ -162,7 +154,6 @@ talks:
   - title: Testing Angular Components Fundamentals
     lang: en
     type: regular
-    level:
     time: 2018-02-22
     room:
     authors:
@@ -179,7 +170,6 @@ talks:
   - title: Write tests. Not too many. Mostly integration.
     lang: en
     type: regular
-    level:
     time: 2018-02-22
     room:
     authors:
@@ -196,7 +186,6 @@ talks:
   - title: Working Well, The Future of JavaScript Testing
     lang: en
     type: regular
-    level:
     time: 2018-02-22
     room:
     authors:

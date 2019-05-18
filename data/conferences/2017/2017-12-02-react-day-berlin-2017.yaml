@@ -21,7 +21,6 @@ talks:
   - title: THE POWER OF INTERPOLATION
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -38,7 +37,6 @@ talks:
   - title: KEEP YOUR SANITY WITH REDUX SAGAS
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -55,7 +53,6 @@ talks:
   - title: WE NEED TO TALK ABOUT PREACT
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -72,7 +69,6 @@ talks:
   - title: DESIGNING WITH REACT
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -89,7 +85,6 @@ talks:
   - title: BUILDING STORYBOOK
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -106,7 +101,6 @@ talks:
   - title: HUMANIZING YOUR DOCUMENTATION
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -123,7 +117,6 @@ talks:
   - title: DATA DRIVEN STYLING
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -140,7 +133,6 @@ talks:
   - title: ADD POWERFUL COMPONENTS TO YOUR REACT APPS
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -157,7 +149,6 @@ talks:
   - title: JEST & ENZYME COMPLEMENT EACH OTHER.
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -174,7 +165,6 @@ talks:
   - title: HOW WE REACT AT MICROSOFT TO-DO
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -191,7 +181,6 @@ talks:
   - title: UNIVERSAL REACT ON LAMBDA
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -208,7 +197,6 @@ talks:
   - title: AUGMENTED REALITY WITH REACT NATIVE — A MEDIUM WORTH TO BRIDGE?
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -225,7 +213,6 @@ talks:
   - title: GRAPHQL - THE WHAT, HOW AND WHY
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -242,7 +229,6 @@ talks:
   - title: REACT STATE MANAGEMENT IN A GRAPHQL ERA
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -259,7 +245,6 @@ talks:
   - title: 'BEYOND JAVASCRIPT: THE HIDDEN BENEFIT OF REACT NATIVE'
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
@@ -276,7 +261,6 @@ talks:
   - title: A PRAGMATIST'S GUIDE TO REASONML
     lang: en
     type: regular
-    level:
     time: 2017-12-02
     room:
     authors:
