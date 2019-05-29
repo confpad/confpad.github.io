@@ -3,6 +3,10 @@ conference:
   name: RuhrJS 2018
   status: complete
   series: ruhrjs.de
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

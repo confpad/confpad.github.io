@@ -3,6 +3,10 @@ conference:
   name: Half Stack 2017
   status: complete
   series: halfstackconf.com
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

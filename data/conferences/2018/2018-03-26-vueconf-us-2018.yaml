@@ -3,6 +3,10 @@ conference:
   name: VueConf US 2018
   status: complete
   series: us.vuejs.org
+  tags:
+    - javascript
+    - vue
+    -
   link:
     twitter:
     youtube:

@@ -3,6 +3,10 @@ conference:
   name: Smashing Conference London 2018
   status: complete
   series: smashingconf.com
+  tags:
+    - web
+    - performance
+    -
   link:
     twitter:
     youtube:

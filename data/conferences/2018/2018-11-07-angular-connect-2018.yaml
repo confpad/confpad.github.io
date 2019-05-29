@@ -3,6 +3,10 @@ conference:
   name: Angular Connect 2018
   status: complete
   series: angularconnect.com
+  tags:
+    - javascript
+    - angular
+    -
   link:
     twitter:
     youtube:

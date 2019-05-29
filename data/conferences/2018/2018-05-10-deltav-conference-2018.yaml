@@ -3,6 +3,10 @@ conference:
   name: DeltaV Conference 2018
   status: complete
   series: deltavconf.com
+  tags:
+    - web
+    - performance
+    -
   link:
     twitter:
     youtube:

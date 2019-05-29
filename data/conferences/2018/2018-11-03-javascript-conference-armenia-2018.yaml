@@ -3,6 +3,10 @@ conference:
   name: JavaScript Conference Armenia 2018
   status: complete
   series: jsconf.am
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

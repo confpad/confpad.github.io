@@ -3,6 +3,10 @@ conference:
   name: GraphQL Finland 2018
   status: complete
   series: graphql-finland.fi
+  tags:
+    - graphql
+    -
+    -
   link:
     twitter:
     youtube:

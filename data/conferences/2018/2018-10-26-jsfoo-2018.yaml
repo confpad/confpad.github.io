@@ -3,6 +3,10 @@ conference:
   name: JSFoo 2018
   status: complete
   series: jsfoo.in
+  tags:
+    - web
+    - security
+    - javascript
   link:
     twitter:
     youtube:

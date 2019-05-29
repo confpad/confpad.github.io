@@ -3,6 +3,10 @@ conference:
   name: React London 2017
   status: complete
   series: react.london
+  tags:
+    - javascript
+    - react
+    -
   link:
     twitter:
     youtube:

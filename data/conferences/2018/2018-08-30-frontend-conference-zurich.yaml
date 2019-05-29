@@ -3,6 +3,10 @@ conference:
   name: Frontend Conference Zurich 2018
   status: complete
   series: frontendconf.ch
+  tags:
+    - web
+    - design
+    -
   link:
     twitter:
     youtube:

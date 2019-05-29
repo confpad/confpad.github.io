@@ -3,6 +3,10 @@ conference:
   name: React Day Berlin 2018
   status: complete
   series: reactday.berlin
+  tags:
+    - javascript
+    - react
+    -
   link:
     twitter:
     youtube:

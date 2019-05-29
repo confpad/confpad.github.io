@@ -3,6 +3,10 @@ conference:
   name: QA Fest 2018
   status: complete
   series: qafest.com
+  tags:
+    - testing
+    -
+    -
   link:
     twitter:
     youtube:

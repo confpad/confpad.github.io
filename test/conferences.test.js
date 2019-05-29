@@ -11,12 +11,39 @@ const REGEX_FILENAME = /^[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+\.yaml$/;
 const REGEX_URL = /^http[s]?:\/\/[a-z0-9-\.]+\.[a-z]{2,}/;
 
 // Conference info
-const INFO_ROOT_KEYS = ['name', 'status', 'series', 'link', 'date', 'location', 'description'];
+const INFO_ROOT_KEYS = ['name', 'status', 'series', 'tags', 'link', 'date', 'location', 'description'];
 const INFO_STATUS_VALUES = ['complete', 'incomplete'];
+const INFO_TAGS_VALUES = [
+  'android',
+  'angular',
+  'css',
+  'design',
+  'devops',
+  'ember',
+  'flutter',
+  'general',
+  'graphql',
+  'ios',
+  'javascript',
+  'machinelearning',
+  'mobile',
+  'node',
+  'react',
+  'reactnative',
+  'performance',
+  'php',
+  'python',
+  'reason',
+  'security',
+  'swift',
+  'testing',
+  'typescript',
+  'vue',
+  'web',
+];
 const INFO_LINK_KEYS = ['twitter', 'youtube', 'website'];
 const INFO_DATE_KEYS = ['from', 'to'];
 const INFO_LOCATION_KEYS = ['country', 'city'];
-
 
 // Conference talk
 const TALK_ROOT_KEYS = ['title', 'lang', 'type', 'time', 'room', 'authors', 'slides', 'videos', 'description'];
@@ -63,6 +90,15 @@ glob.sync(testGlob).forEach(file => {
     // Series
     it('contains valid series', () => {
       expect(conference.series).not.toBeNull();
+    });
+
+    // Tags
+    it('contains valid tags', () => {
+      expect(conference.tags.length).toBe(3);
+
+      conference.tags.forEach(tag => {
+        tag && expect(INFO_TAGS_VALUES).toContain(tag);
+      });
     });
 
     // Link

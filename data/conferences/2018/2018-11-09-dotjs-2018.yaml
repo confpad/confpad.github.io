@@ -3,6 +3,10 @@ conference:
   name: dotJS 2018
   status: complete
   series: dotjs.io
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

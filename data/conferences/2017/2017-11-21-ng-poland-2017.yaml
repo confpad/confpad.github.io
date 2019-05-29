@@ -3,6 +3,10 @@ conference:
   name: Ng-Poland 2017
   status: complete
   series: ng-poland.pl
+  tags:
+    - javascript
+    - angular
+    -
   link:
     twitter:
     youtube:

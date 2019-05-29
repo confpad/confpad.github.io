@@ -3,6 +3,10 @@ conference:
   name: Assert(js) 2018
   status: complete
   series: assertjs.com
+  tags:
+    - javascript
+    - testing
+    -
   link:
     twitter:
     youtube:

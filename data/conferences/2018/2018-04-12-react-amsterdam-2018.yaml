@@ -3,6 +3,10 @@ conference:
   name: React Amsterdam 2018
   status: complete
   series: react.amsterdam
+  tags:
+    - javascript
+    - react
+    -
   link:
     twitter:
     youtube:

@@ -3,6 +3,10 @@ conference:
   name: JSPoland Conf 2017
   status: complete
   series: js-poland.pl
+  tags:
+    - web
+    -
+    -
   link:
     twitter:
     youtube:

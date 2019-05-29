@@ -3,6 +3,10 @@ conference:
   name: Chain React 2018
   status: complete
   series: infinite.red
+  tags:
+    - javascript
+    - reactnative
+    -
   link:
     twitter:
     youtube:

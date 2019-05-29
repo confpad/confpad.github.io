@@ -3,6 +3,10 @@ conference:
   name: dotScale 2018
   status: complete
   series: dotscale.io
+  tags:
+    - devops
+    -
+    -
   link:
     twitter:
     youtube:

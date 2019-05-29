@@ -3,6 +3,10 @@ conference:
   name: Øredev 2018
   status: complete
   series: oredev.org
+  tags:
+    - general
+    -
+    -
   link:
     twitter:
     youtube:

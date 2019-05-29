@@ -3,6 +3,10 @@ conference:
   name: ReactFoo Pune 2018
   status: complete
   series: reactfoo.in
+  tags:
+    - javascript
+    - react
+    -
   link:
     twitter:
     youtube:

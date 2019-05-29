@@ -3,6 +3,10 @@ conference:
   name: JSHeroes 2018
   status: complete
   series: jsheroes.io
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

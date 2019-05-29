@@ -3,6 +3,10 @@ conference:
   name: TSConf 2018
   status: complete
   series: tsconf.io
+  tags:
+    - typescript
+    -
+    -
   link:
     twitter:
     youtube:

@@ -3,6 +3,10 @@ conference:
   name: React Rally 2018
   status: complete
   series: reactrally.com
+  tags:
+    - javascript
+    - react
+    -
   link:
     twitter:
     youtube:

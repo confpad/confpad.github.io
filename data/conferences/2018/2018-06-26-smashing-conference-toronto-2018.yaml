@@ -3,6 +3,10 @@ conference:
   name: Smashing Conference Toronto 2018
   status: complete
   series: smashingconf.com
+  tags:
+    - web
+    -
+    -
   link:
     twitter:
     youtube:

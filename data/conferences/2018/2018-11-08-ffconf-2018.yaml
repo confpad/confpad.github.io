@@ -3,6 +3,10 @@ conference:
   name: ffConf 2018
   status: complete
   series: ffconf.org
+  tags:
+    - web
+    -
+    -
   link:
     twitter:
     youtube:

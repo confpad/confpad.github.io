@@ -3,6 +3,10 @@ conference:
   name: Full Stack Fest 2018
   status: complete
   series: fullstackfest.com
+  tags:
+    - web
+    -
+    -
   link:
     twitter:
     youtube:

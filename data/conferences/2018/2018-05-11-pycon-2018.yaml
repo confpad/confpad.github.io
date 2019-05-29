@@ -3,6 +3,10 @@ conference:
   name: PyCon 2018
   status: complete
   series: us.pycon.org
+  tags:
+    - python
+    -
+    -
   link:
     twitter:
     youtube:

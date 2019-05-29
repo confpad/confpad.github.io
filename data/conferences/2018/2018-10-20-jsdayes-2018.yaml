@@ -3,6 +3,10 @@ conference:
   name: JSDayES 2018
   status: complete
   series: jsday.es
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

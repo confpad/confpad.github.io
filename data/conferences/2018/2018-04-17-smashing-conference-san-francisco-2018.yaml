@@ -3,6 +3,10 @@ conference:
   name: Smashing Conference San Francisco 2018
   status: complete
   series: smashingconf.com
+  tags:
+    - design
+    -
+    -
   link:
     twitter:
     youtube:

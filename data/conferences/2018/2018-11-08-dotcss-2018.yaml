@@ -3,6 +3,10 @@ conference:
   name: dotCSS 2018
   status: complete
   series: dotcss.io
+  tags:
+    - css
+    -
+    -
   link:
     twitter:
     youtube:

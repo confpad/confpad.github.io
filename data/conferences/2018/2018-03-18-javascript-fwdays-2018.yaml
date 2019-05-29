@@ -3,6 +3,10 @@ conference:
   name: JavaScript fwdays'18
   status: complete
   series: fwdays.com
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

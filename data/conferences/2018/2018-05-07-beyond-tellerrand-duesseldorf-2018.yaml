@@ -3,6 +3,10 @@ conference:
   name: Beyond Tellerrand Düsseldorf 2018
   status: complete
   series: beyondtellerrand.com
+  tags:
+    - web
+    -
+    -
   link:
     twitter:
     youtube:

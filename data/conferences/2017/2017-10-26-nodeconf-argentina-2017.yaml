@@ -3,6 +3,10 @@ conference:
   name: NodeConf Argentina 2017
   status: complete
   series: nodeconf.com.ar
+  tags:
+    - javascript
+    - node
+    -
   link:
     twitter:
     youtube:

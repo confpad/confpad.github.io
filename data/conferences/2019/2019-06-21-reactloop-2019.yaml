@@ -3,6 +3,10 @@ conference:
   name: React Loop
   status: incomplete
   series: reactloop.com
+  tags:
+    - javascript
+    - react
+    -
   link:
     twitter:
     youtube:

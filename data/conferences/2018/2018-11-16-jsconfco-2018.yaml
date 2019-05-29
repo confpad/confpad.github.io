@@ -3,6 +3,10 @@ conference:
   name: JSConfCO 2018
   status: complete
   series: jsconf.co
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

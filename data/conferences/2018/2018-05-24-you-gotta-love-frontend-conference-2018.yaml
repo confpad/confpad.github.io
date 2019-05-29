@@ -3,6 +3,10 @@ conference:
   name: You Gotta Love Frontend Conference 2018
   status: complete
   series: yglf.com.ua
+  tags:
+    - web
+    -
+    -
   link:
     twitter:
     youtube:

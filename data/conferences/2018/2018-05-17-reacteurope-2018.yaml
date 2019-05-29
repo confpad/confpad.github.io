@@ -3,6 +3,10 @@ conference:
   name: ReactEurope 2018
   status: complete
   series: react-europe.org
+  tags:
+    - javascript
+    - react
+    -
   link:
     twitter:
     youtube:

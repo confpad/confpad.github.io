@@ -3,6 +3,10 @@ conference:
   name: International Javascript Conference 2018 London
   status: complete
   series: javascript-conference.com
+  tags:
+    - javascript
+    - angular
+    -
   link:
     twitter:
     youtube:

@@ -3,6 +3,10 @@ conference:
   name: EmpireJS 2018
   status: complete
   series: empirejs.org
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

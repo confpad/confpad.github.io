@@ -3,6 +3,10 @@ conference:
   name: ngVikings 2018
   status: complete
   series: ngvikings.org
+  tags:
+    - javascript
+    - angular
+    -
   link:
     twitter:
     youtube:

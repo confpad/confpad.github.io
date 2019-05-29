@@ -3,6 +3,10 @@ conference:
   name: ReactiveConf 2016
   status: complete
   series: reactiveconf.com
+  tags:
+    - javascript
+    - react
+    - reactnative
   link:
     twitter:
     youtube:

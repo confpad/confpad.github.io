@@ -3,6 +3,10 @@ conference:
   name: ng-europe 2018
   status: complete
   series: ngeurope.org
+  tags:
+    - javascript
+    - angular
+    -
   link:
     twitter:
     youtube:

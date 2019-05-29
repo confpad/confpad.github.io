@@ -3,6 +3,10 @@ conference:
   name: FrontMania 2018
   status: complete
   series: frontmania.com
+  tags:
+    - web
+    -
+    -
   link:
     twitter:
     youtube:

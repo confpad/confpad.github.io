@@ -3,6 +3,10 @@ conference:
   name: Amsterdam JSNation Conference 2018
   status: complete
   series: amsterdamjs.com
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

@@ -3,6 +3,10 @@ conference:
   name: JS Fest 2018
   status: complete
   series: jsfest.com.ua
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

@@ -3,6 +3,10 @@ conference:
   name: ZEIT Day 2018
   status: complete
   series: zeit.co
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

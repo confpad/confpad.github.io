@@ -3,6 +3,10 @@ conference:
   name: React Boston 2018
   status: complete
   series: reactboston.com
+  tags:
+    - javascript
+    - react
+    -
   link:
     twitter:
     youtube:

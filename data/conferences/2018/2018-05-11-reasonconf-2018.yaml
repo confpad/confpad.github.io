@@ -3,6 +3,10 @@ conference:
   name: ReasonConf 2018
   status: complete
   series: reason-conf.com
+  tags:
+    - reason
+    -
+    -
   link:
     twitter:
     youtube:

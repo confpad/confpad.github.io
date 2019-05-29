@@ -3,6 +3,10 @@ conference:
   name: <React.NotAConf /> 2018
   status: complete
   series: react-not-a-conf.com
+  tags:
+    - javascript
+    - react
+    -
   link:
     twitter:
     youtube:

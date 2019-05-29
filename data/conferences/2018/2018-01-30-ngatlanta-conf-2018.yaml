@@ -3,6 +3,10 @@ conference:
   name: ngAtlanta Conf 2018
   status: complete
   series: ng-atl.org
+  tags:
+    - javascript
+    - angular
+    -
   link:
     twitter:
     youtube:

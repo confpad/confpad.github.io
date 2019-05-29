@@ -3,6 +3,10 @@ conference:
   name: Beyond Tellerrand Berlin 2018
   status: complete
   series: beyondtellerrand.com
+  tags:
+    - design
+    -
+    -
   link:
     twitter:
     youtube:

@@ -3,6 +3,10 @@ conference:
   name: Front End North 2018
   status: complete
   series: frontendnorth.com
+  tags:
+    - web
+    -
+    -
   link:
     twitter:
     youtube:

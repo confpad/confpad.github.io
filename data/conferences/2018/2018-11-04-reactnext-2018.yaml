@@ -3,6 +3,10 @@ conference:
   name: ReactNext 2018
   status: complete
   series: react-next.com
+  tags:
+    - javascript
+    - react
+    -
   link:
     twitter:
     youtube:
@@ -275,7 +279,7 @@ talks:
     description: |-
       Many of us have products that have been here for a while and are written in older frameworks. Eventually we have to upgrade for various reasons but a full rewrite is a big risk for the company.In this talk we'll learn how to gradually migrate from angularjs to react without hurting the business bottom line. Share data and build hybrid features which are powered both by react and angularjs. Until the final day where we can delete our old code and have a brand new application.Maayan is the CTO of 500Tech - a leading frontend consultancy in Israel. He created and contributed to several open source projects such as Mimic, Gisto, xhook, hostile and more. Maayan is passionate about developing tools to improve the developer day to day workflow in an efficient and fun way.
 
-  - title: (Don't) Blame ot on React Native
+  - title: (Don't) Blame it on React Native
     lang: en
     type: regular
     time: 2018-11-04

@@ -3,6 +3,10 @@ conference:
   name: JSConf EU 2017
   status: complete
   series: jsconf.eu
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

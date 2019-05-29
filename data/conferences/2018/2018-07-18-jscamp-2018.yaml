@@ -3,6 +3,10 @@ conference:
   name: JSCamp 2018
   status: complete
   series: jscamp.tech
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

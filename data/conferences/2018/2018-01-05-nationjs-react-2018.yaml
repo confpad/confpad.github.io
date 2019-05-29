@@ -3,6 +3,10 @@ conference:
   name: NationJS React 2018
   status: complete
   series: nationjs.com
+  tags:
+    - javascript
+    - react
+    -
   link:
     twitter:
     youtube:

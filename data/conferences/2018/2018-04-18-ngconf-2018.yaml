@@ -3,6 +3,10 @@ conference:
   name: NGConf 2018
   status: complete
   series: ng-conf.org
+  tags:
+    - javascript
+    - angular
+    -
   link:
     twitter:
     youtube:

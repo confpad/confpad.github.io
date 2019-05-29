@@ -3,6 +3,10 @@ conference:
   name: Flutter Live 2018
   status: complete
   series: developers.google.com
+  tags:
+    - flutter
+    -
+    -
   link:
     twitter:
     youtube:

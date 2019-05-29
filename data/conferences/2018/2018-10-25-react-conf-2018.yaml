@@ -3,6 +3,10 @@ conference:
   name: React Conf 2018
   status: complete
   series: reactjs.org
+  tags:
+    - javascript
+    - react
+    -
   link:
     twitter:
     youtube:

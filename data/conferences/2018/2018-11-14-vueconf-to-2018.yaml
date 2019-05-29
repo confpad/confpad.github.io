@@ -3,6 +3,10 @@ conference:
   name: VueConf TO 2018
   status: complete
   series: vuetoronto.com
+  tags:
+    - javascript
+    - vue
+    -
   link:
     twitter:
     youtube:

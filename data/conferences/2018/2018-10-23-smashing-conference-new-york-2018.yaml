@@ -3,6 +3,10 @@ conference:
   name: Smashing Conference New York 2018
   status: complete
   series: smashingconf.com
+  tags:
+    - web
+    - design
+    -
   link:
     twitter:
     youtube:
@@ -14,7 +18,7 @@ conference:
     country: United States
     city: New York, NY
   description: |-
-    Learn how others failed, so that you won’thave to make the same mistakes. You willalso discover techniques, strategies andtooling to get to better results, faster.
+    Learn how others failed, so that you won’thave to make the same mistakes. You willalso discover techniques, strategies and tooling to get to better results, faster.
 
 talks:
 

@@ -3,6 +3,10 @@ conference:
   name: CSSconf EU 2018
   status: complete
   series: cssconf.eu
+  tags:
+    - css
+    -
+    -
   link:
     twitter:
     youtube:

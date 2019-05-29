@@ -3,6 +3,10 @@ conference:
   name: JSConf AU 2018
   status: complete
   series: jsconfau.com
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

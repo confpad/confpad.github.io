@@ -3,6 +3,10 @@ conference:
   name: OdessaJS 2018
   status: complete
   series: odessajs.org
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

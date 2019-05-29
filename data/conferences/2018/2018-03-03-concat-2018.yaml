@@ -3,6 +3,10 @@ conference:
   name: .concat() 2018
   status: complete
   series: conc.at
+  tags:
+    - web
+    -
+    -
   link:
     twitter:
     youtube:

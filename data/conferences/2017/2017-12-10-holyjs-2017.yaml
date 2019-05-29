@@ -3,6 +3,10 @@ conference:
   name: HolyJS 2017
   status: complete
   series: holyjs-moscow.ru
+  tags:
+    - web
+    -
+    -
   link:
     twitter:
     youtube:

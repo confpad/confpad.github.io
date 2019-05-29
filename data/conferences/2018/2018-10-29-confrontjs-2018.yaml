@@ -3,6 +3,10 @@ conference:
   name: ConfrontJS 2018
   status: complete
   series: confrontjs.com
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

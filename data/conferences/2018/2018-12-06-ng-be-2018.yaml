@@ -3,6 +3,10 @@ conference:
   name: NG-BE 2018
   status: complete
   series: ng-be.org
+  tags:
+    - javascript
+    - angular
+    -
   link:
     twitter:
     youtube:

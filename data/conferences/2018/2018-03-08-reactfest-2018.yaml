@@ -3,6 +3,10 @@ conference:
   name: ReactFest 2018
   status: complete
   series: reactfest.com
+  tags:
+    - javascript
+    - react
+    -
   link:
     twitter:
     youtube:

@@ -3,6 +3,10 @@ conference:
   name: JSUnconf 2018
   status: complete
   series: jsunconf.eu
+  tags:
+    - javascript
+    -
+    -
   link:
     twitter:
     youtube:

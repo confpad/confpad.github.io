@@ -3,6 +3,10 @@ conference:
   name: Frontend United 2018
   status: complete
   series: frontendunited.org
+  tags:
+    - web
+    -
+    -
   link:
     twitter:
     youtube:

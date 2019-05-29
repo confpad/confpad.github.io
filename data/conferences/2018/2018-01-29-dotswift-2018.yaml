@@ -3,6 +3,10 @@ conference:
   name: dotSwift 2018
   status: complete
   series: dotswift.io
+  tags:
+    - swift
+    -
+    -
   link:
     twitter:
     youtube:

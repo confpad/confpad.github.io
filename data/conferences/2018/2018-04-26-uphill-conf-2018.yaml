@@ -3,6 +3,10 @@ conference:
   name: Uphill Conf 2018
   status: complete
   series: uphillconf.com
+  tags:
+    - web
+    -
+    -
   link:
     twitter:
     youtube:

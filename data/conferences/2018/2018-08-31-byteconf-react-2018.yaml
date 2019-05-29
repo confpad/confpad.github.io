@@ -3,6 +3,10 @@ conference:
   name: Byteconf React 2018
   status: complete
   series: byteconf.com
+  tags:
+    - javascript
+    - react
+    -
   link:
     twitter:
     youtube:

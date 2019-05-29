@@ -3,6 +3,10 @@ conference:
   name: Spotlight Vue.js FITC 2018
   status: complete
   series: fitc.ca
+  tags:
+    - javascript
+    - vue
+    -
   link:
     twitter:
     youtube:

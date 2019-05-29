@@ -3,6 +3,10 @@ conference:
   name: Cold Front 2018
   status: complete
   series: coldfront.co
+  tags:
+    - web
+    -
+    -
   link:
     twitter:
     youtube:

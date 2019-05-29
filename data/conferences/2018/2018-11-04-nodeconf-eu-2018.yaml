@@ -3,6 +3,10 @@ conference:
   name: NodeConf EU 2018
   status: complete
   series: nodeconf.eu
+  tags:
+    - javascript
+    - node
+    -
   link:
     twitter:
     youtube:

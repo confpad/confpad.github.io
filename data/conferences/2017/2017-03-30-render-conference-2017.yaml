@@ -3,6 +3,10 @@ conference:
   name: Render Conference 2017
   status: complete
   series: render-conf.com
+  tags:
+    - web
+    -
+    -
   link:
     twitter:
     youtube:
