@@ -1,0 +1,22 @@
+﻿conference:
+
+  name: JSHeroes 2017
+  status: incomplete
+  series: jsheroes.io
+  tags:
+    - javascript
+    -
+    -
+  link:
+    twitter: jsheroes
+    youtube: https://www.youtube.com/watch?v=-HL1xS1y1UI&list=PLB9NqTp0uKrQMLMSeh8RIobwjo5eABnmp
+    website: https://jsheroes.io/2017
+  date:
+    from: 2017-06-08
+    to: 2017-06-09
+  location:
+    country: Romania
+    city: Cluj
+  description: |-
+
+talks:

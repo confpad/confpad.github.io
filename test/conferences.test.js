@@ -12,7 +12,9 @@ const REGEX_URL = /^http[s]?:\/\/[a-z0-9-\.]+\.[a-z]{2,}/;
 
 // Conference info
 const INFO_ROOT_KEYS = ['name', 'status', 'series', 'tags', 'link', 'date', 'location', 'description'];
-const INFO_STATUS_VALUES = ['complete', 'incomplete'];
+const INFO_STATUS_COMPLETE = 'complete';
+const INFO_STATUS_INCOMPLETE = 'incomplete';
+const INFO_STATUS_VALUES = [INFO_STATUS_COMPLETE, INFO_STATUS_INCOMPLETE];
 const INFO_TAGS_VALUES = [
   'android',
   'angular',
@@ -25,7 +27,9 @@ const INFO_TAGS_VALUES = [
   'graphql',
   'ios',
   'javascript',
+  'laravel',
   'machinelearning',
+  'management',
   'mobile',
   'node',
   'react',
@@ -34,6 +38,8 @@ const INFO_TAGS_VALUES = [
   'php',
   'python',
   'reason',
+  'ruby',
+  'rust',
   'security',
   'swift',
   'testing',
@@ -107,13 +113,12 @@ glob.sync(testGlob).forEach(file => {
     });
 
     it('contains valid Twitter account ID', () => {
-      conference.link.twitter && expect(conference.link.twitter.match(REGEX_URL)).not.toBeNull();
       conference.link.twitter && expect(conference.link.twitter.includes('@')).toEqual(false);
       conference.link.twitter && expect(conference.link.twitter.includes('http')).toEqual(false);
     });
 
     it('contains valid YouTube channel URL', () => {
-      conference.link.youtube && expect(conference.link.youtube.match(REGEX_URL_YOUTUBE_CHANNEL)).not.toBeNull();
+      conference.link.youtube && expect(conference.link.youtube.match(REGEX_URL)).not.toBeNull();
     });
 
     it('contains valid website URL', () => {
@@ -148,7 +153,7 @@ glob.sync(testGlob).forEach(file => {
   });
 
   // Conference talks tests
-  talks.forEach(talk => {
+  conference.status === INFO_STATUS_COMPLETE && talks.forEach(talk => {
     describe(`Conference talk: ${file} - "${talk.title}"`, () => {
 
       it('contains all fields in correct order', () => {

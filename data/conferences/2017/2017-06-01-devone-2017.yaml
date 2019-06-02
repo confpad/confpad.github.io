@@ -1,0 +1,22 @@
+﻿conference:
+
+  name: devone 2017
+  status: incomplete
+  series: devone.at
+  tags:
+    - devops
+    -
+    -
+  link:
+    twitter: DevOneLinz
+    youtube: https://www.youtube.com/watch?v=dFYDm5SM3pk&list=PLfi6VUNSzNYmUyeZ2BTM_WmZjgi0FOqRl
+    website: https://devone.at/2017/
+  date:
+    from: 2017-06-01
+    to: 2017-06-01
+  location:
+    country: Austria
+    city: Linz
+  description: |-
+
+talks:

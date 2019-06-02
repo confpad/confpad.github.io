@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: RubyConf AU 2018
+  status: incomplete
+  series: rubyconf.org.au
+  tags:
+    - ruby
+    -
+    -
+  link:
+    twitter: rubyconf_au
+    youtube: https://www.youtube.com/watch?v=Y3k7tHll3RY&list=PL9_jjLrTYxc2Xi0rotTPuPRQAoJnDU-my
+    website: https://rubyconf.org.au/2018/
+  date:
+    from: 2018-03-08
+    to: 2018-03-09
+  location:
+    country: Australia
+    city: Sydney
+  description: |-
+
+talks:

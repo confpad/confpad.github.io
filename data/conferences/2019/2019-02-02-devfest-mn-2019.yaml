@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: DevFestMN 2019
+  status: incomplete
+  series: devfest.mn
+  tags:
+    - general
+    -
+    -
+  link:
+    twitter: gdgtc
+    youtube: https://www.youtube.com/watch?v=HhaiLHPHp_k&list=PL_aEqNu9qjpN7nmPHadEJs8B9_Q0EvXHB
+    website: https://devfest.mn/
+  date:
+    from: 2019-02-02
+    to: 2019-02-02
+  location:
+    country: United States
+    city: Minneapolis
+  description: |-
+
+talks:

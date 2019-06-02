@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: StarCon 2019
+  status: incomplete
+  series: starcon.io
+  tags:
+    - general
+    -
+    -
+  link:
+    twitter: starconkw
+    youtube: https://www.youtube.com/channel/UCuBfHf1uNYwRXkXktHjf3dw/featured
+    website: https://starcon.io/
+  date:
+    from: 2019-01-19
+    to: 2019-01-20
+  location:
+    country: Canada
+    city: Waterloo
+  description: |-
+
+talks:

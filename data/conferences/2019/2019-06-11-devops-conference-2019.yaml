@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: DevOps Conference 2019
+  status: incomplete
+  series: devopsconference.de
+  tags:
+    - devops
+    -
+    -
+  link:
+    twitter: devops_con
+    youtube: https://www.youtube.com/channel/UCttdqyJB5wuJOO2KXea6WMQ/playlists
+    website: https://devopsconference.de/
+  date:
+    from: 2019-06-11
+    to: 2019-06-14
+  location:
+    country: Germany
+    city: Berlin
+  description: |-
+
+talks:

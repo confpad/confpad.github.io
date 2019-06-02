@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: RubyConf AU 2017
+  status: incomplete
+  series: rubyconf.org.au
+  tags:
+    - ruby
+    -
+    -
+  link:
+    twitter: rubyconf_au
+    youtube: https://www.youtube.com/watch?v=N08NHsyaoKM&list=PL9_jjLrTYxc3hxsmj3AnPFf3RD4f3zfUl
+    website: https://rubyconf.org.au/2017
+  date:
+    from: 2017-02-09
+    to: 2017-02-10
+  location:
+    country: Australia
+    city: Melbourne
+  description: |-
+
+talks:

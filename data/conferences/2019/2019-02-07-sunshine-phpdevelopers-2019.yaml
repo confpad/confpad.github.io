@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: Sunshine PHP Developers 2019
+  status: incomplete
+  series: sunshinephp.com
+  tags:
+    - php
+    -
+    -
+  link:
+    twitter: sunshinephp
+    youtube: https://www.youtube.com/user/SunshinePHP/channels
+    website: http://2019.sunshinephp.com/
+  date:
+    from: 2019-02-07
+    to: 2019-02-09
+  location:
+    country: United States
+    city: Miami
+  description: |-
+
+talks:

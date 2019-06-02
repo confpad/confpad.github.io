@@ -1,0 +1,23 @@
+conference:
+
+  name: Trajectory Conference 2019
+  status: incomplete
+  series: trajectoryconf.com
+  tags:
+    - general
+    -
+    -
+  link:
+    twitter: trajectoryconf
+    youtube:
+    website: https://www.trajectoryconf.com/
+  date:
+    from: 2019-04-08
+    to: 2019-04-09
+  location:
+    country: United States
+    city: Oakland
+  description: |-
+    Trajectory is a one-day conference for teams who want to move faster and deliver more, continuously. We've noticed when teams aren't inhibited by the fear of breaking things, they can collaborate more effectively, get feedback and validate ideas sooner, and have a stronger handle on what they're putting into the world. So we are working to bring together teams who are leading the charge for better development and release practices so they can share their learnings and best practices.
+
+talks:

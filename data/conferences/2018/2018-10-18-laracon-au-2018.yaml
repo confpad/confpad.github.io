@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: Laracon AU 2018
+  status: incomplete
+  series: laracon.com.au
+  tags:
+    - php
+    - laravel
+    -
+  link:
+    twitter: LaraconAU
+    youtube: https://www.youtube.com/playlist?list=PLEkJYA4gJb7_FKspNTgrve7FUb3A1dT3y
+    website: https://laracon.com.au/
+  date:
+    from: 2018-10-18
+    to: 2018-10-19
+  location:
+    country: Australia
+    city: Sydney
+  description: |-
+
+talks:

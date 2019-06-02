@@ -1,4 +1,5 @@
 conference:
+
   name: <React.NotAConf /> 2019
   status: incomplete
   series: react-not-a-conf.com
@@ -7,8 +8,8 @@ conference:
     - react
     -
   link:
-    twitter:
-    youtube:
+    twitter: ReactNotAConf
+    youtube: https://www.youtube.com/channel/UC1vvE4dJOQgltFw63RQIY5A/featured
     website: http://react-not-a-conf.com
   date:
     from: 2018-05-11

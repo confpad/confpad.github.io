@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: DevOps Pro Europe 2019
+  status: incomplete
+  series: devopspro.lt
+  tags:
+    - devops
+    -
+    -
+  link:
+    twitter: DevOpsEU
+    youtube: https://www.youtube.com/watch?v=4_Af2Uu8vuY&list=PLqYhGsQ9iSEr3GlNNTGuhAMk4B7llfvCZ
+    website: https://devopspro.lt/
+  date:
+    from: 2019-03-19
+    to: 2019-03-21
+  location:
+    country: Lithuania
+    city: Vilnius
+  description: |-
+
+talks:

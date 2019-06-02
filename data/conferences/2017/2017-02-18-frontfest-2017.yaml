@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: FrontFest 2017
+  status: incomplete
+  series: frontfest.es
+  tags:
+    - web
+    -
+    -
+  link:
+    twitter: frontfest
+    youtube: https://www.youtube.com/watch?v=1AwIZS1sXQU&list=PLV_VSxFnAJKIQiOVUAccpkqXe_9rmVJTZ
+    website: https://2017.frontfest.es/
+  date:
+    from: 2017-02-18
+    to: 2017-02-18
+  location:
+    country: Spain 
+    city: Madrid
+  description: |-
+
+talks:

@@ -1,0 +1,22 @@
+﻿conference:
+
+  name: NationSS Frontrunners 2019
+  status: incomplete
+  series: nationjs.com
+  tags:
+    - javascript
+    -
+    -
+  link:
+    twitter: nationjs
+    youtube: https://www.youtube.com/channel/UCgRpkkcigKZk52JyAOYNs6w
+    website: http://nationjs.com/
+  date:
+    from: 2019-05-10
+    to: 2019-05-10
+  location:
+    country: United States
+    city: Washington DC
+  description: |-
+
+talks:

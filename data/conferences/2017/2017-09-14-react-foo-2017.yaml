@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: ReactFoo 2017
+  status: incomplete
+  series: reactfoo.in
+  tags:
+    - javascript
+    - react
+    -
+  link:
+    twitter: ReactFoo
+    youtube: https://www.youtube.com/watch?v=3G6tMg29Wnw&list=PL279M8GbNsespKKm1L0NAzYLO6gU5LvfH
+    website: https://reactfoo.in/2017/
+  date:
+    from: 2017-09-14
+    to: 2017-09-14
+  location:
+    country: India
+    city: BANGALORE
+  description: |-
+
+talks:

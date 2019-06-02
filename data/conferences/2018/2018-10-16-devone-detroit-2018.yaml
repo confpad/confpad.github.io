@@ -1,0 +1,22 @@
+﻿conference:
+
+  name: DevOne Detroit 2018
+  status: incomplete
+  series: devone.us
+  tags:
+    - devops
+    -
+    -
+  link:
+    twitter: dynatrace
+    youtube: https://www.youtube.com/watch?v=_AzCjDdMVQE&list=PLfi6VUNSzNYkbwLvRfqIxXbRh0qOrTEcK
+    website: https://devone.us/
+  date:
+    from: 2018-10-16
+    to: 2018-10-16
+  location:
+    country: United States
+    city: Detroit
+  description: |-
+
+talks:

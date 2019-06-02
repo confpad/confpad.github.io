@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: CodeMash 2019
+  status: incomplete
+  series: codemash.org
+  tags:
+    - general
+    -
+    -
+  link:
+    twitter: codemash
+    youtube: https://www.youtube.com/channel/UC8uJomag49kWDrchQbdHahQ
+    website: http://www.codemash.org/
+  date:
+    from: 2019-01-08
+    to: 2019-01-11
+  location:
+    country: United States
+    city: Sandusky
+  description: |-
+
+talks:

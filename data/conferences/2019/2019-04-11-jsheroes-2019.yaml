@@ -1,0 +1,22 @@
+﻿conference:
+
+  name: JSHeroes 2019
+  status: incomplete
+  series: jsheroes.io
+  tags:
+    - javascript
+    -
+    -
+  link:
+    twitter: jsheroes
+    youtube: https://www.youtube.com/channel/UCeJEpnvZhG-VwGpzrzYLidQ/featured
+    website: https://jsheroes.io/
+  date:
+    from: 2019-04-11
+    to: 2019-04-12
+  location:
+    country: Romania
+    city: Cluj
+  description: |-
+
+talks:

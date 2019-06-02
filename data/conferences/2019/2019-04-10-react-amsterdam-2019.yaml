@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: React Amsterdam 2019
+  status: incomplete
+  series: react.amsterdam
+  tags:
+    - javascript
+    - react
+    -
+  link:
+    twitter: reactamsterdam
+    youtube: https://www.youtube.com/watch?v=_aPRUn6y47I&list=PLh7sGRf62wm6hjpAwsikixLlg83PK1Jn9&index=2
+    website: https://react.amsterdam/
+  date:
+    from: 2019-04-10
+    to: 2019-04-12
+  location:
+    country: Netherlands
+    city: Amsterdam, Kromhouthal
+  description: |-
+
+talks:

@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: Devfest Lille 2018
+  status: incomplete
+  series: gdglille.org
+  tags:
+    - web
+    - mobile
+    -
+  link:
+    twitter: gdglille
+    youtube: https://www.youtube.com/watch?v=QX9hcXSicSw&list=PLuZ_sYdawLiUAmzsywNDAh_TPuBVylwjt
+    website: https://devfest-2018.gdglille.org/
+  date:
+    from: 2018-06-21
+    to: 2018-06-21
+  location:
+    country: France
+    city: Villeneuve-d'Ascq
+  description: |-
+
+talks:

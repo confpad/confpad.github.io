@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: DevFest Florida 2019
+  status: incomplete
+  series: devfestflorida.org
+  tags:
+    - general
+    -
+    -
+  link:
+    twitter: devfestfl/
+    youtube: https://www.youtube.com/watch?v=uby9R_cdGE0&list=PLN6KCgG5AWHnRFoYpFBOauXEh0dCfT9Pe
+    website: https://devfestflorida.org/
+  date:
+    from: 2019-01-19
+    to: 2019-01-19
+  location:
+    country: United States
+    city: Ornaldo
+  description: |-
+
+talks:

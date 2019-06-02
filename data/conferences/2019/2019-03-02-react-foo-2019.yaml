@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: ReactFoo 2019
+  status: incomplete
+  series: reactfoo.in
+  tags:
+    - javascript
+    - react
+    -
+  link:
+    twitter: ReactFoo
+    youtube: https://www.youtube.com/watch?v=8OFkp1CLjWA&list=PL279M8GbNsevCCJUWWEqXgP6vK0RZ2uSx
+    website: https://reactfoo.in/2019/
+  date:
+    from: 2019-03-02
+    to: 2019-03-02
+  location:
+    country: India
+    city: Bangalore
+  description: |-
+
+talks:

@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: RubyConf AU 2019
+  status: incomplete
+  series: rubyconf.org.au
+  tags:
+    - ruby
+    -
+    -
+  link:
+    twitter: rubyconf_au
+    youtube: https://www.youtube.com/watch?v=aRkHqYDi_wQ&list=PL9_jjLrTYxc3dTbvb8fIuzDFGTCaEdO3a
+    website: https://rubyconf.org.au/2019/
+  date:
+    from: 2019-02-07
+    to: 2019-02-09
+  location:
+    country: Australia
+    city: Melbourne
+  description: |-
+
+talks:

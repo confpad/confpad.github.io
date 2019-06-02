@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: Frontend Developer Love 2019
+  status: incomplete
+  series: frontenddeveloperlove.com
+  tags:
+    - web
+    -
+    -
+  link:
+    twitter: frontend_love
+    youtube: https://www.youtube.com/watch?v=95haj8RqR5o&list=PL02pdjMT4gWzhniCNr2hxmLvMZ2RUpEaz
+    website: https://www.frontenddeveloperlove.com/
+  date:
+    from: 2019-02-13
+    to: 2019-02-15
+  location:
+    country: Netherlands
+    city: Amsterdam
+  description: |-
+
+talks:

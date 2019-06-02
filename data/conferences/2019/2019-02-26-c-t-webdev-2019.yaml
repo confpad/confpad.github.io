@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: c't webdev 2019
+  status: incomplete
+  series: ctwebdev.de
+  tags:
+    - web
+    -
+    -
+  link:
+    twitter: ct_webdev
+    youtube:
+    website: https://ctwebdev.de/programm-2019.html
+  date:
+    from: 2019-02-06
+    to: 2019-02-07
+  location:
+    country: Germany 
+    city: Cologne
+  description: |-
+
+talks:

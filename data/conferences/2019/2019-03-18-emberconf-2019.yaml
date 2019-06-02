@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: EmberConf 2019
+  status: incomplete
+  series: emberconf.com
+  tags:
+    - javascript
+    - ember
+    -
+  link:
+    twitter: EmberConf
+    youtube: https://www.youtube.com/watch?v=MW8LGwdY3lk&list=PLE7tQUdRKcyYWLWrHgmWsvzsQBSWCLHYL
+    website: https://emberconf.com/
+  date:
+    from: 2019-03-18
+    to: 2019-03-19
+  location:
+    country: United States
+    city: Portland, OR
+  description: |-
+
+talks:

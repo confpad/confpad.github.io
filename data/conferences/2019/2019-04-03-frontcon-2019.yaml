@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: FrontCon 2019
+  status: incomplete
+  series: frontcon.lv
+  tags:
+    - web
+    -
+    -
+  link:
+    twitter: FrontCon
+    youtube: https://www.youtube.com/watch?v=pVMVqnVLyfM&list=PLZt0grAG6hC8QxIgVjzNCtT1uE_w2gKy_
+    website: https://frontcon.lv/
+  date:
+    from: 2019-04-03
+    to: 2019-04-05
+  location:
+    country: Latvia
+    city: Riga
+  description: |-
+
+talks:

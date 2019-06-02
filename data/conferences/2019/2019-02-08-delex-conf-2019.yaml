@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: DelEx Conf 2019
+  status: incomplete
+  series: delex-conf.com
+  tags:
+    - devops
+    - testing
+    -
+  link:
+    twitter: delex_conf
+    youtube: https://www.youtube.com/watch?v=WHR_2uZTtXk&list=PLYinOsby80Nma5875lCDEaxRmbxy0T9-b
+    website: https://delex-conf.com/
+  date:
+    from: 2019-02-08
+    to: 2019-02-09
+  location:
+    country: Belarus
+    city: Minsk
+  description: |-
+
+talks:

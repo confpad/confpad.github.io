@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: JS Kongress 2017
+  status: incomplete
+  series: js-kongress.de
+  tags:
+    - javascript
+    -
+    -
+  link:
+    twitter: JSKongress
+    youtube: https://www.youtube.com/watch?v=W4RKqT7RiIk&list=PL8ajgHZ7PoCt3l5RXoyqVu_r7gYJU0dMx
+    website: https://2017.js-kongress.de/
+  date:
+    from: 2017-11-13
+    to: 2017-11-14
+  location:
+    country: Germany
+    city: Munich
+  description: |-
+
+talks:

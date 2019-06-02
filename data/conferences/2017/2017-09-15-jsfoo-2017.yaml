@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: JSFoo 2017
+  status: incomplete
+  series: jsfoo.in
+  tags:
+    - javascript
+    -
+    -
+  link:
+    twitter: ReactFoo
+    youtube: https://www.youtube.com/watch?v=71JdaRofCgA&list=PL279M8GbNsevKlX6FJMVXC-GrbWOw3_w8
+    website: https://jsfoo.in/2017/
+  date:
+    from: 2017-09-15
+    to: 2017-09-16
+  location:
+    country: India
+    city: Bangalore
+  description: |-
+
+talks:

@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: Serverless Architecture Conference 2019
+  status: incomplete
+  series: serverless-architecture.io
+  tags:
+    - devops
+    -
+    -
+  link:
+    twitter: serverlesscon
+    youtube: https://www.youtube.com/watch?v=_hzOSHRhmjg&list=UUDktNpuKVzVdQinivTMdDcQ
+    website: https://serverless-architecture.io/
+  date:
+    from: 2019-10-14
+    to: 2019-10-16
+  location:
+    country: Germany
+    city: Berlin
+  description: |-
+
+talks:

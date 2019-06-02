@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: JS Kongress 2019
+  status: incomplete
+  series: js-kongress.com
+  tags:
+    - javascript
+    -
+    -
+  link:
+    twitter: JSKongress
+    youtube: https://www.youtube.com/watch?v=H3g0BdyVVxA&list=PL8ajgHZ7PoCviKPAFTeYRkp7cDAm6ZC50
+    website: https://2019.js-kongress.com/
+  date:
+    from: 2019-11-13
+    to: 2019-11-14
+  location:
+    country: Germany
+    city: Munich
+  description: |-
+
+talks:

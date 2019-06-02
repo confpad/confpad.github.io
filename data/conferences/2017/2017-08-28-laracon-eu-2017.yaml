@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: Laracon EU 2017
+  status: incomplete
+  series: laracon.eu
+  tags:
+    - php
+    - laravel
+    -
+  link:
+    twitter: LaraconEU
+    youtube: https://www.youtube.com/watch?v=JPxhnRh1Rr8&list=PLMdXHJK-lGoBFZgG2juDXF6LiikpQeLx2
+    website: https://laracon.eu/2017/
+  date:
+    from: 2017-08-28
+    to: 2017-08-30
+  location:
+    country: Netherlands
+    city: Amsterdam
+  description: |-
+
+talks:

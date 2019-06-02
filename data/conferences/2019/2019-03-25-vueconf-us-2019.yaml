@@ -1,0 +1,22 @@
+﻿conference:
+    
+  name: VueConf US 2019
+  status: incomplete
+  series: vueconf.us
+  tags:
+    - javascript
+    - vue
+    -
+  link:
+    twitter: vueconfus
+    youtube: https://www.youtube.com/watch?v=Ceo771OXaCY&list=PLJNLwTPak6dh4c-v626x9ZU5F9C_t-0T9
+    website: http://vueconf.us/
+  date:
+    from: 2019-03-25
+    to: 2019-03-27
+  location:
+    country: United States
+    city: Tampa
+  description: |-
+
+talks:
