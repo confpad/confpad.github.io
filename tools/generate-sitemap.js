@@ -24,12 +24,16 @@ let stream = fs.createWriteStream(SITEMAP_FILE);
 stream.once('open', () => {
   conferenceFiles.forEach(conferenceFile => {
     let conferenceId = path.parse(conferenceFile).name;
+    let conference = utils.getJSON(conferenceFile);
+
+    if (conference.conference.status === utils.INFO_STATUS_INCOMPLETE) {
+      return;
+    }
 
     // Conference root
     stream.write(`${buildUrl(conferenceId)}\n`);
 
     // Conference talks
-    let conference = utils.getJSON(conferenceFile);
     conference.talks.forEach((talk, index) => {
       stream.write(`${buildUrl(conferenceId, index + 1, talk)}\n`);
     });

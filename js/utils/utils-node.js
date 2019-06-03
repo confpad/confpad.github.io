@@ -3,6 +3,9 @@ const fs = require('fs');
 const slugify = require('slugify');
 const jsyaml = require('js-yaml');
 
+module.exports.INFO_STATUS_COMPLETE = 'complete';
+module.exports.INFO_STATUS_INCOMPLETE = 'incomplete';
+
 module.exports.REGEX_URL_YOUTUBE_CHANNEL =
   /^https:\/\/www\.youtube\.com\/channel\/[a-zA-Z0-9_-]+$/;
 

@@ -4,7 +4,14 @@ const glob = require('glob');
 
 const LANGS = require('./iso-639-1');
 const COUNTRIES = require('./countries');
-const { getJSON, REGEX_URL_YOUTUBE, REGEX_URL_YOUTUBE_CHANNEL, REGEX_URL_VIMEO } = require('../js/utils/utils-node');
+const {
+  getJSON,
+  INFO_STATUS_COMPLETE,
+  INFO_STATUS_INCOMPLETE,
+  REGEX_URL_YOUTUBE,
+  REGEX_URL_YOUTUBE_CHANNEL,
+  REGEX_URL_VIMEO,
+} = require('../js/utils/utils-node');
 
 // Common
 const REGEX_FILENAME = /^[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+\.yaml$/;
@@ -12,8 +19,6 @@ const REGEX_URL = /^http[s]?:\/\/[a-z0-9-\.]+\.[a-z]{2,}/;
 
 // Conference info
 const INFO_ROOT_KEYS = ['name', 'status', 'series', 'tags', 'link', 'date', 'location', 'description'];
-const INFO_STATUS_COMPLETE = 'complete';
-const INFO_STATUS_INCOMPLETE = 'incomplete';
 const INFO_STATUS_VALUES = [INFO_STATUS_COMPLETE, INFO_STATUS_INCOMPLETE];
 const INFO_TAGS_VALUES = [
   'android',
