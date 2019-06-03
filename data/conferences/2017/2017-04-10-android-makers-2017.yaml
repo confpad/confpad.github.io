@@ -1,0 +1,23 @@
+﻿conference:
+    
+  name: Android Makers 2017
+  status: incomplete
+  series: androidmakers.fr
+  tags:
+    - android
+    -
+    -
+  link:
+    twitter: androidmakersfr
+    youtube: https://www.youtube.com/playlist?list=PLn7H9CUCuXAs2N7Wh57yR9RmzMke-hPY-
+    website: https://androidmakers.fr/
+  date:
+    from: 2017-04-10
+    to: 2017-04-11
+  location:
+    country: France
+    city: Paris
+  description: |-
+    Android Makers Paris, the biggest Android event in France. Android Makers brings in Paris the world class experts in Android for 2 days of sessions, workshops and showcases.
+
+talks:

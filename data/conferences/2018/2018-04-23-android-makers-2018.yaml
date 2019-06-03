@@ -1,0 +1,23 @@
+﻿conference:
+    
+  name: Android Makers 2018
+  status: incomplete
+  series: androidmakers.fr
+  tags:
+    - android
+    -
+    -
+  link:
+    twitter: androidmakersfr
+    youtube: https://www.youtube.com/playlist?list=PLn7H9CUCuXAus0YgFW7QiIpnwHJd3Yinw
+    website: https://paug.github.io/android-makers-2018/
+  date:
+    from: 2018-04-23
+    to: 2018-04-24
+  location:
+    country: France
+    city: Paris
+  description: |-
+    Android Makers Paris, the biggest Android event in France. Android Makers brings in Paris the world class experts in Android for 2 days of sessions, workshops and showcases.
+
+talks:

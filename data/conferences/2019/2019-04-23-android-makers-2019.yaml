@@ -1,0 +1,23 @@
+﻿conference:
+    
+  name: Android Makers 2019
+  status: incomplete
+  series: androidmakers.fr
+  tags:
+    - android
+    -
+    -
+  link:
+    twitter: androidmakersfr
+    youtube: https://www.youtube.com/playlist?list=PLn7H9CUCuXAu5r4kT8RcK8B2GuBqMODX3
+    website: https://androidmakers.fr/
+  date:
+    from: 2019-04-23
+    to: 2019-04-24
+  location:
+    country: France
+    city: Paris
+  description: |-
+    Where the Android dream comes true. Android Makers brings in Paris the world class experts in Android for 2 days of sessions, workshops and showcases.
+
+talks:
