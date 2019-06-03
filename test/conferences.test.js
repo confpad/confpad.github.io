@@ -52,7 +52,7 @@ const INFO_TAGS_VALUES = [
   'vue',
   'web',
 ];
-const INFO_LINK_KEYS = ['twitter', 'youtube', 'website'];
+const INFO_LINK_KEYS = ['twitter', 'videos', 'website'];
 const INFO_DATE_KEYS = ['from', 'to'];
 const INFO_LOCATION_KEYS = ['country', 'city'];
 
@@ -122,8 +122,8 @@ glob.sync(testGlob).forEach(file => {
       conference.link.twitter && expect(conference.link.twitter.includes('http')).toEqual(false);
     });
 
-    it('contains valid YouTube channel URL', () => {
-      conference.link.youtube && expect(conference.link.youtube.match(REGEX_URL)).not.toBeNull();
+    it('contains valid videos URL', () => {
+      conference.link.videos && expect(conference.link.videos.match(REGEX_URL)).not.toBeNull();
     });
 
     it('contains valid website URL', () => {
