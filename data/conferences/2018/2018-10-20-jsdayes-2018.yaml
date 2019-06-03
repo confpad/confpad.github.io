@@ -23,7 +23,7 @@ conference:
 talks:
 
   - title: Just keep swimming
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -39,7 +39,7 @@ talks:
       ¿Alguna vez has sentido que el mundillo dev te supera? ¿Cuando vuelves de comer, miras a ver si ha salido un nuevo framework, el cuál ya vas tarde en dominar? ¿Sientes que no te da la vida para estar al día de todo lo que crees que deberías saber? ¿Te comparas con gente que consideras crack y te preguntas si deberías estar allí? ¡Pues a mí también me pasa! Esta charla de tú a tú vamos a relativizar lo cotidiano, darnos cuenta de nuestros puntos fuertes y ver que, mirando con perspectiva, cada día somos mejores :)
 
   - title: Creando las aplicaciones web del futuro, hoy
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -59,7 +59,7 @@ talks:
       Crearemos una aplicación web con las últimas tecnologías disponibles «El sueño de cualquier programador Front-End»; demostraremos las ventajas de estar a la moda exprimiendo al límite la disponibilidad de las API de los navegadores, pero teniendo en cuenta el poco soporte de aquellos más antiguos.
 
   - title: TensorFlow.js FullStack Machine Learning
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -79,7 +79,7 @@ talks:
       TensorFlow ha conseguido acercar Machine Learning a profesionales y entusiastas de la tecnología en todo el mundo sin necesidad de ser un experto en Data Science.Sin embargo, hasta hace poco, estábamos limitados a usarlo en el servidor y programar en Python, Java o C++. Pero ahora eso ha cambiado. Gracias a TensorFlow.js podemos emplear esta librería para entrenar o utilizar nuestros modelos tanto en cliente como en servidor y siempre en Javascript.En esta charla realizaremos una introducción al mundo de Machine Learning y de TensorFlow y enseñaremos ejemplos de cómo podemos utilizarlo en nuestras aplicaciones para que al terminar estéis deseando llegar a casa para probarlo.
 
   - title: V8 conoce al enemigo
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -95,7 +95,7 @@ talks:
       Vivimos cómodamente recostados sobre la infinidad de colchones que suponen los frameworks y las capas de abstracción sobre las que trabajamos. Son tantos, y tan mullidos, que si alguien metiese una sandía entre el primer y segundo colchón, no lo notaríamos. Creo que es necesario levantarse de vez en cuando de tan cómodo catre, quitar todos los colchones y ver de qué está hecho el somier. Os propongo un viaje de vuelta a lo básico que nos permita responder algunas de las preguntas que ya casi no sabemos formular ¿qué tipo de máquina es en realidad un ordenador? ¿para qué sirve un programa? ¿y un lenguaje de programación? ¿por qué hay tantos? ¿en qué se diferencia la Cocacola Zero sin cafeína de la leche desnatada sin lactosa?Nos centraremos en el caso de Javascript compilado con V8, que básicamente cubre Node.js y la mayoría de los navegadores modernos. El rendimiento de una aplicación depende enormemente del código máquina generado a partir de las líneas de código que escribimos. Veremos en qué se transforman nuestras líneas de código y algunas directrices para que la traducción de nuestro código al lenguaje nativo de la máquina sea más eficiente. Las ineficiencias en el fondo son bugs que suelen costar mucho dinero, pero son muy difíciles tanto de identificar como de solucionar. Descubriremos un par de herramientas que nos facilitan mucho la vida a la hora de hacerlo. Y lo más importante de todo: si me da tiempo, contaré el chiste de la vaca en Javascript.
 
   - title: Construir con JS una AI para jugar al ajedrez en 40 minutos
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -112,7 +112,7 @@ talks:
       Challenge construir con JavaScript vanilla, en ⏳ 40 minutos y en directo 🔴una inteligencia artificial 🤔 que juegue razonablemente* bien al ♘ Ajedrez, capaz de ganar al menos al autor de la AI.
 
   - title: Front performance
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -128,7 +128,7 @@ talks:
       Con el avance de los dispositivos tecnológicos y el aumento de capacidad de estos, parecería que, en la actualidad, cualquier cosa vale a la hora de desarrollar una página web. Así que... ¿cómo podemos conseguir un buen desarrollo?¿Framework vs nativo? ¿Programación funcional? ¿Tiempos de procesamiento? ¿Memoria reservada? Un detalle mínimo puede inducirnos a cometer errores que ningún navegador perdonaría. Por ello no podemos olvidar la importancia de la performance, es fundamental repasar todo aquello que puede hacer peligrar nuestra web.Esta charla se centra en los aspectos que muchas veces olvidamos o no tenemos en cuenta a la hora de desarrollar, mi intención es mostrar todo esto con demos en vivo.
 
   - title: Generators ¿un Hummer en el establo?
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -148,7 +148,7 @@ talks:
       Los generadores/iteradores son una de las grandes características de ES2015. No es un cambio de librería (como Promise) sino de sintaxis. No es un azucar sintáctica (como class) con una traducción relativamente directa, sino que implica un soporte nada trivial en el compilador, o unas traduciones sofisticadas en los transpilers.Sin embargo, hay muy poca información en Internet. Los ejemplos de uso siempre son los mismos (fundamentalmente simular async/await con yield). Muy pocos proyectos los adoptan y algunos mayoritarios los han vetado. En definitiva, provocan poco interés. En contraste con lo anterior, para ES2018 llegan los generadores/iteradores asincronos. ¿Qué pasa entonces con los generadores? ¿Son un elemento de nicho? ¿Se pusieron en JavaScript para no ser menos que otros (p.e. Python)? ¿Son aprovechables para nuestro día a día?En esta charla intentaremos desvelar toda la potencia que dan los generadores. Contaremos qué es un iterador, qué es un generador, la potencia del for/of cómo llegar a las clases ocultas que los implementan (obligatorias por el estándar), cómo extenderlas para hacer programación de orden superior sobre generadores, qué son las corutinas, cómo aprovecharlas para ciertos problemas que tienen estado, cómo son los nuevos generadores asíncronos y el for/await/of, qué relación hay entre funciones asíncronas, generadores y generadores asíncronos, etc.
 
   - title: Muerte a las libreríasJS
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -164,7 +164,7 @@ talks:
       Yo uso JQuery para acceder al DOM desde javascript. Yo uso AngularJS para tener databinding en HTML desde javascript.Yo uso Polymer para crear WebComponents desde javascript.¿Y si te dijera que no necesitas una librería para eso?¿Y si no necesitases descargar 700Kb de código ni aprender los entresijos de las librerías para hacer aplicaciones chulas?El javascript moderno es más potente de lo que creemos. Existen montones de APIs muy potentes disponibles directamente en nuestro navegador en la mejor librería de todas Vanilla Javascript.
 
   - title: The Big Fails Theory
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -180,7 +180,7 @@ talks:
       Elegir una arquitectura o un stack determinado no es nada fácil. ¿Qué variables deberíamos tener en cuenta para tomar estas decisiones? ¿Es posible evitar los errores? Lo descubriremos en esta charla.
 
   - title: Algoritmos cuánticos para JavaScripters
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -197,7 +197,7 @@ talks:
       Tras una rapidísima introducción a la computación cuántica veremos como sacar partido de los avances actuales desde tu aplicación en Node.js/JavaScript de la forma más sencilla posible.Para ello, durante la conferencia, publicaremos la primera versión estable de la librería Qiskit.js. La cual creemos que solventa los principales problemas que nos encontramos los desarrolladores con las alternativas existentes:-  Diseñadas por y para investigadores, por lo que la curva de aprendizaje no es nada divertida para nosotros.-  Escritas en Python, pero todos sabemos que Internet está hecho en JavaScript wink:
 
   - title: ¿Cómo funciona un Virtual DOM?
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -214,7 +214,7 @@ talks:
       Utilizado por las librerías mas famosas como React y Vue, el Virtual DOM sigue siendo una de las partes mas ocultas y "mágicas" dentro de las mismas.Su principal labor es aumentar el rendimiento de nuestra aplicación a través de un renderizado más eficiente pero... ¿cómo lo consigue? ¿cómo funciona realmente por dentro?En esta charla trataré de explicar de donde salió la idea de tener un Virtual DOM, cómo funciona y cómo este ha ido evolucionando en sus distintas implementaciones. Veremos también una pequeña implementación del mismo donde se le verá en acción y finalizaremos con una serie de conclusiones a considerar si usamos una librería que lo implemente.
 
   - title: Aterrizando en JS consejos para [node]sesperar en el intento
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -231,7 +231,7 @@ talks:
       Cuando pasé de desarrollar en Java a adentrarme en el para mí desconocido mundo JS mi día era una sucesión de "pero... wtf is this?" (pun intended). Con el tiempo, lecturas varias y la paciente ayuda de mis compis fui viendo la luz de la mano de Node, Typescript (¡no sin mis tipos!) y demás amigas del festival JS. Porque no, JS no es malvado... sólo rarito de conocer :P Así que para quien aún mire a JS con recelo o quiera repasar algunos de sus aspectos clave, os traigo una serie de consejos que, espero, os hagan ver JS con mejores ojos.
 
   - title: Stencil from frameworks to compilers
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -248,7 +248,7 @@ talks:
       or years, developers have been working with low level tools when building for the Web. Dealing with the complexity of CSS, the verbose nature of HTML, and the never ending amount of JavaScript. Enter Stencil. Stencil is a build tool for authoring highly optimized web components. We'll look at the basics of what Stencil can do and dive in the extra benefits of having a compiler for HTML.
 
   - title: it('should be easier') Testing automatizado en el mundo real
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -265,7 +265,7 @@ talks:
       TDD, BDD, code coverage, karma, jest, chai... el mundo de los test automatizados está lleno de herramientas, frameworks y filosofías, pero quizá tantos árboles no nos dejan ver el bosque. ¿Qué sentido tiene el testing en el desarrollo? ¿De verdad compensa el tiempo dedicado a escribirlos? ¿Cómo escribir tests realmente útiles? Consejos y buenas prácticas para (y desde) el día a día.
 
   - title: 3D virtual puppet remote controlled with smartphone
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -281,7 +281,7 @@ talks:
       I will describe the process and challenges when I undertook the development of Puppets (github.com/AquiGorka/puppets).I will describe the process and challenges when I undertook the development of Puppets (github.com/AquiGorka/puppets).A mobile webapp that reads data from a smartphone's gyroscope and sends it to the webapp.Using WebRTC I connected both apps and the control bar on top of the puppet mimics the smartphone's orientation in real time to remote control the puppet–which reacts accordingly thanks to the physics being applied.
 
   - title: Escribiendo Service Workers con Workbox
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -298,7 +298,7 @@ talks:
       Los serviceWorker son sin duda el corazón de las, cada vez más populares Progressive Web Apps. Workbox es la librería creada por Google que simplifica de forma notable la escritura de service workers mediante una API potente y sencilla. A lo largo de la charla veremos cómo escribir service workers para nuestra PWA y cómo afrontar, con Workbox , desde sencillas estrategias de caching que agilicen nuestras PWA, hasta tareas más complejas como la sincronización en segundo plano o el empleo y escritura de plugins.
 
   - title: Vanilla JS Graphics and Animations
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -314,7 +314,7 @@ talks:
       Una charla introductoria a la generación de gráficos y animación con vanilla javascript. Coordenadas homogéneas, composición de transformaciones, easing, técnicas de animación, tessellation, clip, masks, shaders ... todo desde el concepto hasta su ejecución final. Todo coloridos ejemplos propios como.
 
   - title: Mastering UIs with Finite State Machines
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
@@ -331,7 +331,7 @@ talks:
       Did you ever feel like monkey patching your UI component? Adding too many if/else, handling a lot of complexity or hacking several non-desired side effects. Did you ever have a problem with double-clicking an async button? Fetching multiple times the same resource in a row? Did you have problems translating UX interfaces and mock-ups into your applications scenes?All this kind of problems can be properly fixed by applying a different point of view. An architecture based upon Mealy state machines. Also known as finite state machines or automatas. These machines are deterministic, pure and idempotents. Opening a new set of possibilities from predictable components to autogenerated tests.
 
   - title: Advanced JavaScript patterns
-    lang: en
+    lang: es
     type: regular
     time: 2018-10-20
     room:
