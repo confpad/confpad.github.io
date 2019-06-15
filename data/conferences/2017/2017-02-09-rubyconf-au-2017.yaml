@@ -37,13 +37,13 @@ talks:
     description: |-
       As our community matures, and technology evolves around us, how can we ensure Ruby remains vital?
 
-  - title: SO YOU WANT TO BECOME A SOFTWARE ENGINEER?
+  - title: So you want to become a software engineer?
     lang: en
     type: regular
     time: 2017-02-09
     room:
     authors: 
-      - name: SHANA MOORE
+      - name: Shana Moore
         twitter:
         github: ShanaLMoore
         website:
