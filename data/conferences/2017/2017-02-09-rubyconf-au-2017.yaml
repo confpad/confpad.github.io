@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: RubyConf AU 2017
-  status: incomplete
+  status: complete
   series: rubyconf.org.au
   tags:
     - ruby
@@ -20,3 +20,414 @@
   description: |-
 
 talks:
+
+  - title: Reinvesting in Ruby
+    lang: en
+    type: regular
+    time: 2017-02-09
+    room:
+    authors:
+      - name: Tim Riley
+        twitter: timriley
+        github: timriley
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/V8Sdg25eKlM
+    description: |-
+      As our community matures, and technology evolves around us, how can we ensure Ruby remains vital?
+
+  - title: So you want to become a software engineer?
+    lang: en
+    type: regular
+    time: 2017-02-09
+    room:
+    authors:
+      - name: Shana Moore
+        twitter:
+        github: ShanaLMoore
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/v8kAD9XTFwU
+    description: |-
+      This talk will be geared towards career changers, juniors, and those interested in becoming software engineers. It's a personal testimony of how I was able to change careers and become a software engineer without a technical degree.
+
+  - title: Ruby, HTTP/2 and You
+    lang: en
+    type: regular
+    time: 2017-02-09
+    room:
+    authors:
+      - name: Hiro Asari
+        twitter: hiro_asari
+        github:
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/_KFxWyJrzso
+    description: |-
+      The first major revision since 1997 to Hypertext Transfer Protocol on which so much of the modern information transfer relies, HTTP/2 could have an enormous impact on the way we write applications.
+
+  - title: Writing a Gameboy emulator in Ruby
+    lang: en
+    type: regular
+    time: 2017-02-09
+    room:
+    authors:
+      - name: Colby Swandale
+        twitter: oceanicpanda
+        github: colby-swandale
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/WbO2FEpNPvQ
+    description: |-
+      Released in 1989 the Gameboy was the first handheld console of the Gameboy series to be released by Nintendo. It featured games such as Pokemon Red & Blue, Tetris, Super Mario Land and went on to sell 64 million units worldwide.My talk will be discussing what components make up a Gameboy, such as the CPU, RAM, Graphics and Game Cartridge. How each component works individually and how they work together to let trainers catch em all. Then how to replicate the behavior of the Gameboy in code to eventually make an emulator.
+
+  - title: Open Source Power and the Passion
+    lang: en
+    type: regular
+    time: 2017-02-09
+    room:
+    authors:
+      - name: Pat Allan
+        twitter: Pat
+        github: Pat
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/uIqcGzQO01k
+    description: |-
+      Especially as Rubyists, Open Source is one of the foundation pillars of our industry. You probably use the power of open source software every day in the code you write, the tools you build with, the servers you deploy to.But perhaps it’s not quite the stable foundation we were hoping for? This talk will cover the various strengths and weaknesses of both open source and our reliance upon it, so we can trade in our assumptions for a greater awareness of the issues. Then together, we can find a path towards a more sustainable open source ecosystem.
+
+  - title: Functional Programming For The Anxious Developer
+    lang: en
+    type: regular
+    time: 2017-02-09
+    room:
+    authors:
+      - name: Julian Doherty
+        twitter: madlep
+        github: madlep
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/3b1YhdP2fis
+    description: |-
+      Programming involves dealing with an overwhelming amount of complexity. The human brain can only deal with so much information to process before anxiety kicks in and your ability to proceed suffers. Functional programming provides tools to manage the combinatorial explosion of state and logic. Here we'll cover some practical uses of functional programming techniques in Ruby that can be directly applied to your everyday work.   
+
+  - title: Actors in Ruby! Why let Elixir have all the fun?
+    lang: en
+    type: regular
+    time: 2017-02-09
+    room:
+    authors:
+      - name: Marcos Matos
+        twitter: marcosccm
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/wveC2bbFYgA
+    description: |-
+      We all want to have performant concurrent code, but threads are such a pain. Who wants to deal with race conditions in their code?! In this talk we show a better way of doing concurrency, the Actor model. No, that’s not just for Erlang or Elixir, we can have it in Ruby too.
+
+  - title: The Power and Responsibility  of Unicode Adoption
+    lang: en
+    type: regular
+    time: 2017-02-09
+    room:
+    authors:
+      - name: Katie McLaughlin
+        twitter: glasnt
+        github: glasnt
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Acf14xTjnFA
+    description: |-
+
+  - title: 'Persistence pays off: a new look at rom-rb'
+    lang: en
+    type: regular
+    time: 2017-02-09
+    room:
+    authors:
+      - name: Piotr Solnica
+        twitter: _solnic_
+        github: solnic
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9TBvWRgll64
+    description: |-
+
+  - title: Defragging Ruby
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Aaron Patterson
+        twitter: tenderlove
+        github: tenderlove
+        website:
+    slides:
+    videos:
+      - https://youtu.be/nAEt36XNtAE
+    description: |-
+
+  - title: Simple and Awesome Database Tricks
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Barrett Clark
+        twitter: barrettclark
+        github: tenderlove
+        website:
+    slides:
+    videos:
+      - https://youtu.be/N08NHsyaoKM
+    description: |-
+
+  - title: Taking Refinery off the Rails
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Philip Arndt
+        twitter: parndt
+        github: parndt
+      - name: Samuel Seay
+        twitter: samseay
+        github: samueljseay
+        website:
+    slides:
+    videos:
+      - https://youtu.be/aVxJ0GyD3vw
+    description: |-
+      We're seeing more evidence that the future of Ruby may not be tied to Rails as newer micro-frameworks and purpose built libraries are released to mass appeal.In this talk we'll explore what happens when we take the most popular CMS for Rails, "Refinery CMS", and rebuild it with Hanami and dry-rb, plus reliable Frontend frameworks and libraries rather than a mess of Rails, jQuery, and organic CSS.We'll provide you with both gems and solid advice to allow you to refactor your own applications to take advantage of the solid and agile foundation provided by Hanami and dry-rb.
+
+  - title: VR backend rails vs serverless: froth or future?
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Ram Ramakrishnan
+        twitter:
+        github:
+        website:
+      - name: Janet Brown
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/E0wPImDxSt8
+    description: |-
+      Serverless (via AWS Lambda), the new hotness, was definitely something we wanted to explore when developing the backend for our new Virtual Reality app. TLDR - despite expectations to the contrary we came back to Rails, specifically Rails 5 API mode. We'll walk you through our journey, what the different considerations were, what the different strengths of each platform are and how we reached our decision. We think it's essential that as Rails developers we have an understanding of Serverless, both as a replacement and as an augmentation to our skill-set and development environment.
+
+  - title: How does Bundler work anyway?
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Andre Arko
+        twitter: indirect
+        github: indirect
+        website:
+    slides:
+    videos:
+      - https://youtu.be/j2V-A8vvLP0
+    description: |-
+      We all use Bundler at some point, and most of us use it every day. But what does it do, exactly? Why do we have to use bundle exec? What's the point of checking in the Gemfile.lock? Why can't we just gem install the gems we need? Join me for a walk through the reasons that Bundler exists, and a guide to what actually happens when you use it. Finally, we'll cover some Bundler "pro tips" that can improve your workflow when developing on multiple applications at once.
+
+  - title: 'Impactful Refactors: Refactoring for Readability'
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Kinsey Ann Durham
+        twitter: KinseyAnnDurham
+        github: durhamka
+        website:
+    slides:
+    videos:
+      - https://youtu.be/CHaKY8tTY6E
+    description: |-
+      We have no problems justifying a refactoring effort when it improves performance or eliminates a code smell. What if I told you there's a way your refactoring could be even more impactful? One of the most costly and time-consuming things we do is on boarding. It takes an incredible amount of effort to bring a developer up to speed on a new codebase. In this talk, we’ll see real-world readability refactors, discuss how you can apply these techniques for the benefit of your current (and future) team members, and how we can continue to program with empathy and diversity in mind.
+
+  - title: Finding translations localisation and internationalisation
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Valerie Woolard
+        twitter: valeriecodes
+        github: valeriecodes
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mN6lynGNzxs
+    description: |-
+      This talk will discuss localization and internationalization for Rails applications. We’ll discuss available tools as well as best practices for building apps for localization. We’ll also talk about the more human and subjective struggles of translating ideas and concepts for new audiences.
+
+  - title: The little server that could
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Stella Cotton
+        twitter: practice_cactus
+        github: stellacotton
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Wh88DZyTiK8
+    description: |-
+      Have you ever wondered what dark magic happens when you start up your Ruby server? Let’s explore the mysteries of the web universe by writing a tiny web server in Ruby! Writing a web server lets you dig deeper into the Ruby Standard Library and the Rack interface. You’ll get friendlier with I/O, signal trapping, file handles, and threading. You’ll also explore dangers first hand that can be lurking inside your production code- like blocking web requests and shared state with concurrency. 
+
+  - title: Functional in the front rails in the back
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Louis Simoneau
+        twitter: louis_simoneau
+        github: lsimoneau
+        website:
+      - name: Rahul Trikha
+        twitter: rahult
+        github: rahult
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Bd6DTg1uNe0
+    description: |-
+      You want to keep up with new and exciting technologies, but rewriting your monolith in the language du jour is too daunting a task, and you're not sure a microservice split is right for you. Why not experiment with a purely functional, powerfully typed language in your existing Rails app? Elm is a new language that compiles to JavaScript and has lots of great mind-bending features. In this talk we'll look at the basics of Elm and how you can integrate it into an existing Rails app, even alongside your existing JavaScript code.
+
+  - title: Self learning is a marathon not a sprint
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Elle Meredith
+        twitter: aemeredith
+        github: elle
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/bU9QprllR3s
+    description: |-
+      The web industry never stops evolving and changing. We have to keep on our toes and learn the new hot thing. Whether you have limited time because of family, or just started on your way, self-learning is challenging, difficult, and sometimes even overwhelming. This talk is my list of tips, techniques, and strategies I use when I self-learn. Hopefully, you can find one or two things here to keep you motivated, and on your way.
+
+  - title: You and your type[s] aren't welcome here
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Andy Nicholson
+        twitter: andrewdotnich
+        github: anicholson
+        website:
+    slides:
+    videos:
+      - https://youtu.be/gzXjqfPydFo
+    description: |-
+      Whenever the stereotypical Ruby developer hears the words "statically-typed", they have one of two responses they have flash-backs to their C++/Java days they prepare their memorized Alan Kay / Kent Beck quotes for battle. Now that stronger typing is coming to Ruby, maybe we need to calm down a little.This talk is not designed to persuade anyone to drop our beloved Ruby, but maybe we can learn some lessons from our stronger-typed friends to bring even greater happiness than before.  
+
+  - title: how a language affects its people
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Alex Coles
+        twitter: myabc
+        github: myabc
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ybrsMpLA6u8
+    description: |-
+      In human-to-human languages the same core ideas get shaped differently depending on the language in which they are spoken. What if every computational language engenders a set (or a subset) of culture and values, and as a consequence attracts and shapes a corresponding community? What are the values that entered into the language by way of its core committers and what are the values we identify with as a community. How can making these values explicit help us foster a better community?
+
+  - title: Performance Optimization in Ruby
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Prathmesh Ranaut
+        twitter: PrathmeshRanaut
+        github: prathmeshranaut
+        website:
+    slides:
+    videos:
+      - https://youtu.be/HHRTSpFGCGg
+    description: |-
+      The talk will focus on techniques I used to increase the performance of a popular concurrency framework, Celluloid, by upto 3 times. I'll discuss the areas where the Ruby application takes a performance hit and provide solutions for them.    
+
+  - title: A Common Taxonomy of Bugs and How to Catch Them
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Kylie Stradley
+        twitter: KyFaSt
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0J5OWi65rTI
+    description: |-
+      Catching software bugs is a mysterious magic, unknowable by science, and untouchable by process. Debugging skills are instinctual and come only from years of experience.False! Programming bugs, like real bugs, can be organized into a deterministic taxonomy. At its base, consistent and successful debugging is pattern matching. Classifying bugs by their attributes and behaviors makes the seemingly impossible possible—codifying the elusive “programmer’s instincts” into a logical debugging process.
+
+  - title: Automation Run Rampant
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Kate Deutscher
+        twitter: kate_deutscher
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/vK6qbMnl1xQ
+    description: |-
+      With the rise of micro services and DevOps culture, engineers are finding themselves responsible for the all facets of a rapidly growing number of systems. Luckily for you, many of the processes managing these systems can be automated! But where do you begin? How do you know when something is ripe for automation? Is there such as thing as bad automation? And how do you take the first step?
+
+  - title: Datacenter Fires and Other 'Minor' Disasters
+    lang: en
+    type: regular
+    time: 2017-02-10
+    room:
+    authors:
+      - name: Aja Hammerly
+        twitter: the_thagomizer
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/WoTemqfZiHE
+    description: |-
+      Most of us have a “that day I broke the internet” story. Some are amusing and some are disastrous but all of these stories change how we operate going forward. I’ll share the amusing stories behind why I always take a database backup, why feature flags are important, the importance of automation, and how having a team with varied backgrounds can save the day. Along the way I’ll talk about a data center fire, deleting a production database, and accidentally setting up a DDOS attack against our own site. I hope that by learning from my mistakes you won’t have to make them yourself.
+
+
+      
+      
