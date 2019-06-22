@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: Laracon EU 2017
-  status: incomplete
+  status: complete
   series: laracon.eu
   tags:
     - php
@@ -20,3 +20,440 @@
   description: |-
 
 talks:
+   
+  - title: From zero to multi-platform Chatbot with BotMan
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Marcel Pociot
+        twitter: marcelpociot
+        github: mpociot
+    website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Denormalization With Eloquent How, Why and When
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Max Brokman
+        twitter: MaxBrokman
+        github: maxbrokman
+        website:
+    slides:
+    videos:
+      - https://youtu.be/eh2iXuzBbTc
+    description: |-
+
+  - title: Write history, keep a diary
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Jachim Coudenys
+        twitter: coudenysj
+        github: coudenysj
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3Fn68v7JWKI
+    description: |-
+
+  - title: Chat Bots
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Christoph Rumpel
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-  
+
+  - title: Bruce Lee Driven Development
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Jeroen van der Gulik
+        twitter: n0x13
+        github: jeroenvdgulik
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LV-qXn42o6g
+    description: |-
+
+  - title: Transforming PHP
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Christopher Pitt
+        twitter: assertchris
+        github: assertchris
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0AZRp_8TT0U
+    description: |-
+
+  - title: Generate Laravel Code and Make Money
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Povilas Korop
+        twitter: 
+        github: 
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Code review beyond code style
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Hannes Van De Vreken
+        twitter: hannesvdvreken
+        github: hannesvdvreken
+        website:
+    slides:
+    videos:
+      - https://youtu.be/PwwnIBM8uec
+    description: |-
+
+  - title: Bad UX is Not an Option,Intuitive Software by being a Better Developer
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Rizqi Djamaluddin
+        twitter: __rizqi
+        github: rizqidjamaluddin
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_kXgWRN7weM
+    description: |-
+
+  - title: Building a realtime dashboard with Laravel, Vue and Pusher
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Freek van der Herten
+        twitter: freekmurze
+        github: freekmurze
+        website:
+    slides:
+    videos:
+      - https://youtu.be/jtB_rTh61Zo
+    description: |-
+
+  - title: 'Concept to Completion: Building a Lumen API handling in Excess of 10M requests per day'
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Anna Fohlmeister
+        twitter: aboutyoude
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Monads in PHP
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Christopher Pitt
+        twitter: assertchris
+        github: assertchris
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Laravel Design Patterns
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Bobby Bouwmann
+        twitter: bobbybouwmann
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mNl4cMLlplM
+    description: |-
+
+  - title: Agile Development in Education
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Alfie Carlisle
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Laravel on ABOUT YOU: Philosophies of Development at Scale'
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Robert Kilian , Pedro Nogueira
+        twitter: aboutyoude
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: State of Laravel
+    lang: en
+    type: regular
+    time: 2017-08-29
+    room:
+    authors:
+      - name: Taylor Otwell
+        twitter: taylorotwell
+        github: taylorotwell
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2pLL00WR5iU
+    description: |-
+
+  - title: 'Project Triage: What to Do When Everything Hits the Fan'
+    lang: en
+    type: regular
+    time: 2017-08-30
+    room:
+    authors:
+      - name: Eryn O'Neil
+        twitter: eryno
+        github: eryno
+        website:
+    slides:
+    videos:
+      - https://youtu.be/arE2x74-RK4
+    description: |-
+
+  - title: Symfony 4 Preview
+    lang: en
+    type: regular
+    time: 2017-08-30
+    room:
+    authors:
+      - name: Nicolas Grekas
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Build an Airbnb-like search with Laravel, Algolia and Vue.js
+    lang: en
+    type: regular
+    time: 2017-08-30
+    room:
+    authors:
+      - name: Julien Bourdeau
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Debugging Design: 5 simple design principles to make your UI "not look terrible".'
+    lang: en
+    type: regular
+    time: 2017-08-30
+    room:
+    authors:
+      - name: Laura Elizabeth
+        twitter: laurium
+        github: laura-elizabeth
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9z61670MVQo
+    description: |-
+  
+  - title: 12 tried and tested top tips for better testing
+    lang: en
+    type: regular
+    time: 2017-08-30
+    room:
+    authors:
+      - name: Amo Chohan
+        twitter: amo_chohan
+        github: amochohan
+        website:
+    slides:
+    videos:
+      - https://youtu.be/CF1UhUj9LG0
+    description: |-
+
+  - title: The introduction to Testing I wish I had
+    lang: e
+    type: regular
+    time: 2017-08-30
+    room:
+    authors:
+      - name: Michiel Gerritsen
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Building your API with Apiary & Dredd
+    lang: en
+    type: regular
+    time: 2017-08-30
+    room:
+    authors:
+      - name: Dries Vints
+        twitter: driesvints
+        github: driesvints
+        website:
+    slides:
+    videos:
+      - https://youtu.be/bBxTGmF7kP4
+    description: |-
+
+  - title: JWT - To authentication & beyond!
+    lang: en
+    type: regular
+    time: 2017-08-30
+    room:
+    authors:
+      - name: Luís Cobucci
+        twitter: amo_chohan
+        github: lcobucci
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xRIBYkSrwWo
+    description: |-
+
+  - title: Beyond tedious meetings,A way to build a self-organized team
+    lang: e
+    type: regular
+    time: 2017-08-30
+    room:
+    authors:
+      - name: Aaron Kunert
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Improve your developer's toolset
+    lang: en
+    type: regular
+    time: 2017-08-30
+    room:
+    authors:
+      - name: Paweł Lewtak
+        twitter: pawel_lewtak
+        github: pawel-lewtak
+        website:
+    slides:
+    videos:
+      - https://youtu.be/TajEHYYdXMo
+    description: |-
+
+  - title: Stop listening to the internet
+    lang: e
+    type: regular
+    time: 2017-08-30
+    room:
+    authors:
+      - name: Femke van Schoonhoven
+        twitter: femkesvs
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DCmX4ahF8sM
+    description: |-
+
+  - title: How to find / manage remote developers.
+    lang: e
+    type: regular
+    time: 2017-08-30
+    room:
+    authors:
+      - name: Povilas Korop
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Inside Vue Components
+    lang: e
+    type: regular
+    time: 2017-08-30
+    room:
+    authors:
+      - name: Evan You
+        twitter: youyuxi
+        github: yyx990803
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DCmX4ahF8sM
+    description: |-
+
+  - title: Concept to Completion,Building a Lumen API handling in Excess of 10M requests per day
+    lang: e
+    type: regular
+    time: 2017-08-30
+    room:
+    authors:
+      - name: Anna Fohlmeister
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
