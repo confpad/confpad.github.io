@@ -20,3 +20,37 @@
   description: |-
 
 talks:
+
+- title: Reinvesting in Ruby
+    lang: en
+    type: regular
+    time: 2017-02-09
+    room:
+    authors:
+      - name: Tim Riley
+        twitter: timriley
+        github: timriley
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/V8Sdg25eKlM
+    description: |-
+      As our community matures, and technology evolves around us, how can we ensure Ruby remains vital?
+
+- title: So you want to become a software engineer?
+    lang: en
+    type: regular
+    time: 2017-02-09
+    room:
+    authors:
+      - name: Shana Moore
+        twitter:
+        github: ShanaLMoore
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/v8kAD9XTFwU
+    description: |-
+      This talk will be geared towards career changers, juniors, and those interested in becoming software engineers. It's a personal testimony of how I was able to change careers and become a software engineer without a technical degree.
+
+  
