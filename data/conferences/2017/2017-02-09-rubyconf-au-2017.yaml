@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: RubyConf AU 2017
-  status: incomplete
+  status: complete
   series: rubyconf.org.au
   tags:
     - ruby
