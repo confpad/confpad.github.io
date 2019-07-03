@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: JSFoo 2017
-  status: incomplete
+  status: complete
   series: jsfoo.in
   tags:
     - javascript
@@ -18,5 +18,287 @@
     country: India
     city: Bangalore
   description: |-
+    We launched JSFoo in 2011 as India’s first JavaScript conference. The JS community in India has grown phenomenally since then. JavaScript now pervades every aspect of web development – browsers, apps, front-end, backend, mobile and IoT, and there’s always scope to understand new ideas and solutions. The conference explores new ideas, implementing innovative solutions, and learning from experiences, especially negative ones!
 
 talks:
+  
+  - title:  Demystifying Web Components as the Weapon for Web
+    lang: en
+    type: regular
+    time: 2017-09-15
+    room:
+    authors:
+      - name:  Rahat Khanna
+        twitter: mappmechanic
+        github: mappmechanic
+        website:
+    slides:
+    videos:
+      - https://youtu.be/71JdaRofCgA
+    description: |- 
+      The web is evolving at light speed and all the web applications are trying to catch up. It has become very difficult for a new developer or even an existing developer to decide which Framework or Tool to choose for his next project. Angular, React, Ember, Vue are few of the myriad of options available, and some time evaluating few of these for the best fit is unending.All the browsers have come to a stage where they are almost implementing most of the new Web Standards and now developers do not need to invest much time in Browser Compatibility. Although all the front end frameworks like React, Angular, Vue & Ember have different core architectures but they are converging on a common principle design pattern i.e. Component Driven architecture. Web Components with the customElements v1 API released on most popular browsers are the solution to take standardisation of the web to the next level.
+
+  - title:  Building a PWA using Polymer
+    lang: en
+    type: regular
+    time: 2017-09-15
+    room:
+    authors:
+      - name: Ashrith Kulai
+        twitter: ashrithkulai
+        github: ashrithkulai
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/AS9CMVU4XhI
+    description: |-
+      An introduction into Web Components and PolymerJS. A walk through on using Polymer features using book.olacabs.com.You will learn how easy it is to build a PWA using Polymer.
+
+  - title: 'Sponsored session: Progressive Web Games'
+    lang: en
+    type: regular
+    time: 2017-09-15
+    room:
+    authors:
+      - name: Prateek Bhatnagar
+        twitter: prateekbh
+        github: prateekbh
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/bjAFS88UJEo
+    description: |-
+      This talk aims in driving motivation to bring game developers to mobile web. We have tons of games in playstore and apple store which are perfect candidates of PWAs. This talk will cover what it takes to make games super fast and interactive on mobile web. How to skip gigantic download wait time and keep the user engaged.
+
+  - title: Tiny Computers, JavaScript and MIDI
+    lang: en
+    type: regular
+    time: 2017-09-15
+    room:
+    authors:
+      - name: George Mandis
+        twitter: georgemandis
+        github: georgemandis
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/R0-XLrr8icY
+    description: |-
+      We’re living the halcyon days of tiny computers and JavaScript, but MIDI is a technology that’s been around for much longer. In this talk we’ll explore why it’s implementation and prevalence in hardware makes for a uniquely intriguing and accessible platform for creative coding.
+
+  - title:  Safety not Guaranteed
+    lang: en
+    type: regular
+    time: 2017-09-15
+    room:
+    authors:
+      - name: Riyaz Walikar
+        twitter: riyazw
+        github: riyazwalikar
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/XBraYHhqT-M
+    description: |-
+      Hackers are everywhere! Are they also in your client-side code? What do attackers target when they are breaking JavaScript frameworks and libraries? How are they stealing those elusive crypto keys and your authentication protected data?Detecting and exploiting JavaScript security issues can easily become complex since the scope for attack would be constrained by features built into the framework and libraries. Allowing external resources to be loaded via Content Delivery Networks, improper dynamic parsing of user input, using 3rd party widgets and extensions can all lead to security troubles.This talk will take the audience through multiple case studies of JavaScript framework/library bugs and the impact that these bugs would have if exploited. Real world examples of application security testing that show how we were able to bypass controls and gain access to data will also be covered. The talk will also cover some common security server configurations that can break client-side applications when implemented as is.
+
+  - title: 'Sponsored session: Web and PWA OTR'
+    lang: en
+    type: regular
+    time: 2017-09-15
+    room:
+    authors:
+      - name: Google
+        twitter:
+        github:
+        website:
+    slides:
+    videos: 
+    description: |-
+
+  - title: Flash Talks on PWAs
+    lang: en
+    type: regular
+    time: 2017-09-15
+    room:
+    authors:
+    slides:
+    videos: 
+      - https://youtu.be/JVBrZmm7mgk
+    description: |-
+
+  - title:  Demand Driven Applications with GraphQL by Vinci Rufus
+    lang: en
+    type: regular
+    time: 2017-09-15
+    room:
+    authors:
+      - name: Vinci Rufus
+        twitter: vinc
+        github: areai51
+        website:
+    slides:
+    videos:
+      - https://youtu.be/MagKisjCpsw
+    description: |-
+      Working with REST is getting difficult, having to depend on backend teams to give us the API responses in the way frontend teams want is getting painful. Tools like GraphQL change the way things work by allowing applications to raise the demand of what data they want and how they want.The challenges of working with REST. - The core principles of Demand Driven Application. - How GraphQL solves the challenges faced by REST. - Talk about the journey of building frontend applications that interact with GraphQL. - Talk about the challenges and points to keep in mind when working with GraphQL.
+
+  - title: Dark Art of Webpack Bundle Tuning
+    lang: en
+    type: regular
+    time: 2017-09-16
+    room:
+    authors:
+      - name: Vijay Dharap
+        twitter: dharapvj
+        github: dharapvj
+        website:
+    slides:
+    videos:
+      - https://youtu.be/HchYsbCWMbg
+    description: |-
+      A typical flow of talk would be to showcase following: a. A typical application having bloated webpack bundles b. Tools to analyze the bundles and how to read / understand the output of those tools. (2-4 tools) c. Based on hints / information from the tools, perform “live-fixes” / “walk through git-diff” to show how small changes in chunk definitions / import statements, etc can make big changes in your webpack bundle sizes.
+
+  - title: TypeScript all the things!
+    lang: en
+    type: regular
+    time: 2017-09-16
+    room:
+    authors:
+      - name: Prashant Tiwari
+        twitter: prashaantt
+        github: prashaantt
+        website:
+    slides:
+    videos:
+      - https://youtu.be/YW1FAGBo05o
+    description: |-
+      You’re probably doing something wrong if you write JavaScript for a living in 2017 and haven’t yet tried TypeScript. Whether you’re writing a back-end, front-end or a mobile app — and whether you’re using jQuery, React, Angular, Vue or your favourite framework-du-jour — TypeScript can significantly improve your development experience with its incredible tooling and refactoring support that can help you catch bugs as you type and bring sanity to managing large codebases.In this session, I’ll take you through the amazing world of TypeScript’s language features and its rich out-of-the-box IDE affordances such as cross-referencing and auto-completion, experiences that developers working with traditional statically-typed languages take for granted. I’ll also show you how all the latest ES2015/16/17 features are natively available in TypeScript with a greatly simplified configuration compared to Babel’s and how you can take advantage of static typing to auto-generate a nice documentation for your project.
+
+  - title:  And The Reason Is You
+    lang: en
+    type: regular
+    time: 2017-09-16
+    room:
+    authors:
+      - name: Neehar Venugopal
+        twitter: neeharv
+        github: neeharv
+        website:
+    slides:
+    videos:
+      - https://youtu.be/sK2S3p1FwDI
+    description: |-
+      JS code, Reason is a great choice to introduce a funtional, statically typed language into your stack.
+
+  - title: 10x Faster Mobile App Dev with PureScript
+    lang: en
+    type: regular
+    time: 2017-09-16
+    room:
+    authors:
+      - name: Vimal Kumar
+        twitter: juspay-careers
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/6XAc5nCm7oc
+    description: |-
+      At Juspay, after spending a few years writing various payments applications, we found ourselves looking for a better way. We wanted to allow newcomer developers, designers and project managers to be able to jump in and start creating solutions to their problems, without jumping through the hoops created by the language and tools.   
+
+  - title: Scheduling background tasks in JavaScript to boost performance and DOM interactivity at large scale.
+    lang: en
+    type: regular
+    time: 2017-09-16
+    room:
+    authors:
+      - name: Vivek Jagtap
+        twitter: vivekjagtap011
+        github: VivekJagtap
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Framework wars: choosing Vue.js'
+    lang: en
+    type: regular
+    time: 2017-09-16
+    room:
+    authors:
+      - name: Rahul Kadyan
+        twitter: rahulkadyan
+        github: znck
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ynZ3mCe4ZAA
+    description: |-
+      Rahul Kadyan on why you should use Vue.js. Sapna Upreti on the features and strengths of Meteor.
+
+  - title: 'Framework Wars: Reactive web applications using Meteor'
+    lang: en
+    type: regular
+    time: 2017-09-16
+    room:
+    authors:
+      - name: Sapna Upreti
+        twitter: sapna14
+        github: sapna92
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ynZ3mCe4ZAA
+    description: |-
+      Rahul Kadyan on why you should use Vue.js. Sapna Upreti on the features and strengths of Meteor.
+
+  - title: 'Framework wars: Great Developer Experience with Angular'
+    lang: en
+    type: regular
+    time: 2017-09-16
+    room:
+    authors:
+      - name: Vinci Rufus
+        twitter: vinci
+        github: areai51
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ynZ3mCe4ZAA
+    description: |-
+      Rahul Kadyan on why you should use Vue.js. Sapna Upreti on the features and strengths of Meteor.
+
+  - title:  Scaling NodeJS
+    lang: en
+    type: regular
+    time: 2017-09-16
+    room:
+    authors:
+      - name: Abhinav Rastogi
+        twitter: arastogi
+        github: abhinavrastogi
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OsHvD6EUAWM
+    description: |-
+      My journey with Node started over 3 years ago, and I presented my initial learnings about running Node in production at JSFoo 2014. We have been using Node as our primary web serving layer since then, adding more features, more properties and most importantly, more traffic onto it. This led to the discovery of a lot of bottlenecks and a lot of late-night load tests. In this talk, I’ll be focusing on scaling a Node based web server and what kind of issues we have run into. This will include different approaches to attacking this problem like horizontal and vertical scaling. I will be taking you through the variety of resource bottlenecks you can expect to run into, like network, memory, disk and cpu. I’ll touch upon how to find these bottlenecks and what technologies you can use to solve them.
+
+  - title:  Modular-services in a Nodejs Monolith
+    lang: en
+    type: regular
+    time: 2017-09-16
+    room:
+    authors:
+      - name: Naval Saini
+        twitter: navalsaini
+        github: flipflopapp
+        website:
+    slides:
+    videos:
+      - https://youtu.be/XELSRLTk66o
+    description: |-
+      Microservices are described as services with a few hundred lines of code. Big organizations run such micro services in 100’s and are often looked up to by engineers in startups/smaller companies, too eager to join that league. However the hard reality is that only a few startups will survive to scale and need micro services. Busting the hype, the experts are suggesting smaller companies to adopt writing modular code instead of microservices code. How do you write modular code in NodeJs and why are they better than microservices?
+
+  
