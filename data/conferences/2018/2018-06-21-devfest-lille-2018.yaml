@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: Devfest Lille 2018
-  status: incomplete
+  status: complete
   series: gdglille.org
   tags:
     - web
@@ -18,5 +18,509 @@
     country: France
     city: Villeneuve-d'Ascq
   description: |-
+    Rejoignez nous pour une journée de conférences, de code labs, d' échanges sur les sujets du Web, du Mobile, du Cloud, des technologies Google et de leur utilisation par les acteurs locaux.
 
 talks:
+  
+  - title: Keynote 'Keynote d,ouverture'
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Alexandra Nemery
+        twitter: Nimuneale
+        github:
+        website:
+      - name: Sarah Colmon
+        twitter: SarahColmon
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/vaXPyWfangg
+    description: |-
+
+  - title: gRPC, communiquons autrement
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Sébastien FRIESS
+        twitter: sebastienfriess
+        github: sebastienfr
+        website:
+    slides:
+    videos:
+      - https://youtu.be/6BcfghWezuU
+    description: |-
+      gRPC, everyone is talking about it but no one has ever used it. What differentiates this communication mode? How it works ? And if I too want to use it by what do I start? Through a presentation and a simple application case we will discover what gRPC really is and how to use it in a program in GB, because it is well worth it. By: Sébastien FRIESS Talk filmed at DevFest Lille 2018
+
+  - title: Rendez vos applications Android instantanée avec les Instant Apps
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Antoine Gerard
+        twitter:
+        github: ANGerz
+        website:
+      - name: Romain Pedepoy
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'ESM : EcmaScript Modules in browser and NodeJS. It,s about time !'
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Sébastien Pertus
+        twitter: sebastienpertus
+        github: mimetis
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9MbSR-dOug8
+    description: |-
+
+  - title: Métrologie et Alerting avec Prometheus et Grafana
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Christophe Furmaniak
+        twitter: cfurmaniak
+        github: looztra
+        website:
+      - name: Yoan Rousseau
+        twitter: y0anR
+        github: y0an
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OOPQpwJ7SSk
+    description: |-
+
+  - title: L'UX a sauvé mon Devops
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Estelle Landry
+        twitter:
+        github:
+        website:
+      - name: François Teychene
+        twitter: fteychene
+        github: fteychene
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ovbw8U6NZxI
+    description: |-
+      Her name is UX, her name is Devops. They are in love but are at the heart of arguments between two rival families such as Capulet and Montaigu. She shares many things in common with him: They never see a project in its entirety. Both are emerging concepts from the 2010s within IT. They are both at the center of the teams and serve as a link between the developers. But despite everything, everything separates them! However, things have changed and dies have evolved. One day, while our Devops tried in vain to convince his hierarchy, in despair, he turned to UX and prayed for his assistance. What he saw then delighted him and he understood ... His weaknesses were his strengths and he could bring him so much. His ideation was similar to his automation. When he told her about Scale, she even understood if it was not the same thing (analytics scale) and their goals were much too similar for it to be a coincidence ... Come see the most unlikely love story of the past 10 years! By: Estelle Landry & François Teychene Talk filmed at DevFest Lille 2018
+
+  - title: Le machine learning par un imp-op-steur
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Olivier Wulveryck
+        twitter: owulveryck
+        github: owulveryck
+        website:
+    slides:
+    videos:
+      - https://youtu.be/VQCkhlEHCfY
+    description: |-
+
+  - title: Tout le monde sait comment utiliser Angular / React / VueJs ... mais savez-vous comment utiliser JavaScript ?
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Aurélien Loyer
+        twitter: AurelienLoyer
+        github: T3kstiil3
+        website:
+      - name: Nathan Damie
+        twitter: Nathan_damie
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: A Kotlink between worlds
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Benjamin Monjoie
+        twitter: Xzan
+        github: bmonjoie
+        website:
+    slides:
+    videos:
+      - https://youtu.be/VIvZcAgaegs
+    description: |-
+
+  - title: À tables ! Router efficacement avec Iproute et Netfilter.
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Julien Durillon
+        twitter: juuduu
+        github: Soulou
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lny65kMKcJ0
+    description: |-
+
+  - title: Chatbots, et si on passait la seconde ?
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Guillaume Laforge
+        twitter: glaforge
+        github: glaforge
+        website:
+      - name: Wassim Chegham
+        twitter: manekinekko
+        github: manekinekko
+        website:
+    slides:
+    videos:
+      - https://youtu.be/tmqeBSAPBRk
+    description: |-
+
+  - title: HTTP2 en pratique
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Alexis Hassler
+        twitter: AlexisHassler
+        github: hasalex
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OQiFCOYvwL0
+    description: |-
+
+  - title: Les Principes de Base du Design
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Angela Ricci
+        twitter: gericci
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/tzB86jteg0Q
+    description: |-
+      Do you want to understand how to design a nice and attractive web page - without relying on Material Design? Discover some "secrets" of the visual narrative of a web interface through the basic principles of design, demonstrated with CSS properties By: Angela Ricci Talk filmed at DevFest Lille 2018
+
+  - title: Modern API Authentication 101
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Léo Unbekandt
+        twitter: Soulou
+        github: Soulou
+        website:
+    slides:
+    videos:
+      - https://youtu.be/259CYnDVHL0
+    description: |-
+
+  - title: '#RetourAuxSources : Les cookies HTTP'
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Hubert Sablonnière
+        twitter: hsablonniere
+        github: hsablonniere
+        website:
+    slides:
+    videos:
+      - https://youtu.be/dv7Ny4hr-AQ
+    description: |-
+
+  - title: Introduction à Python
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Guillaume Dubus
+        twitter: suipotryot
+        github: suipotryot
+        website:
+    slides:
+    videos:
+      - https://youtu.be/njq_pwva1v8
+    description: |-
+
+  - title: Istio, we have a problem! Understanding and fixing bugs with a service-mesh.
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: David Gageot
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/8FkkOeZaCv4
+    description: |-
+
+  - title: De la domotique faite-maison avec Android Things et le Google Assistant
+    lang: en
+    type: regular
+    time: 2019-03-092018-06-21
+    room:
+    authors:
+      - name: Gautier Mechling
+        twitter: Nilhcem
+        github: Nilhcem
+        website:
+    slides:
+    videos:
+      - https://youtu.be/iOZV3uTr_h8
+    description: |-
+
+  - title: 'L,pen-source à la rescousse de mes APIS: comment les sécuriser grâce à Gravitee.io et Keycloak'
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: David Brassely
+        twitter:
+        github:
+        website:
+      - name: Guillaume Gillon
+        twitter: gui_gillon
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Lkr3Hok-rfk
+    description: |-
+
+  - title: Data Stream avec Apache Beam / Cloud Dataflow
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Geoffrey Garnotel
+        twitter: ggarnotel
+        github: ggarnotel
+        website:
+    slides:
+    videos:
+      - https://youtu.be/PBERz2GB1VM
+    description: |-
+
+  - title: De Java7 à la programmation fonctionnelle
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Julien Debon
+        twitter:
+        github: Sir4ur0n
+        website:
+    slides:
+    videos:
+      - https://youtu.be/a3hq9vKTMVY
+    description: |-
+
+  - title: Git dammit!
+    lang: en
+    type: regular
+    time: 2018-06-21
+    room:
+    authors:
+      - name: Maxime Ghignet
+        twitter: mghignet
+        github: mghignet
+        website:
+    slides:
+    videos:
+      - https://youtu.be/QzlAEqqhrcY
+    description: |-
+
+  - title: Devenez un backend hero avec Kotlin
+    lang: en
+    type: regular
+    time: 2018-06-22
+    room:
+    authors:
+      - name: Grégory Bévan
+        twitter: gr3gory_b3van
+        github: GregoryBevan
+        website:
+      - name: Thomas Betous
+        twitter: tbetous
+        github: tbetous
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Redécouvrir l’univers connu avec le dataset de la NASA
+    lang: en
+    type: regular
+    time: 2018-06-22
+    room:
+    authors:
+      - name: Aurelien Hebert
+        twitter:
+        github:
+        website:
+      - name: Horacio Gonzalez
+        twitter: LostInBrittany
+        github: LostInBrittany
+        website:
+      - name: Pierre Zemb
+        twitter: PierreZ
+        github: PierreZ
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Tout le monde parle de Kubernetes, et si vous vous y mettiez vous aussi?
+    lang: en
+    type: regular
+    time: 2018-06-22
+    room:
+    authors:
+      - name: Christophe Furmaniak
+        twitter: cfurmaniak
+        github: looztra
+        website:
+      - name: Nicolas Lassalle
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Scala pour ceux qui n'en ont jamais fait, par l'exemple, 2h pour être opérationnel(le)
+    lang: en
+    type: regular
+    time: 2018-06-22
+    room:
+    authors:
+      - name: Nicolas Leroux
+        twitter: nicolasleroux
+        github:
+        website:
+      - name: Philippe Charrière
+        twitter: k33g_org
+        github: k33g
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Le Pair Programming sous toutes ses formes
+    lang: en
+    type: regular
+    time: 2018-06-22
+    room:
+    authors:
+      - name: Antoine Neveux
+        twitter: antoineneveux
+        github: aneveux
+        website:
+      - name: Michel Daviot
+        twitter: Michel_Daviot
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Propulsez votre application Angular avec GraphQL et Apollo
+    lang: en
+    type: regular
+    time: 2018-06-22
+    room:
+    authors:
+      - name: Antoine Cellier
+        twitter: AntoineCellier3
+        github:
+        website:
+      - name: Thomas Betous
+        twitter: tbetous
+        github: tbetous
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Vos premiers pas en japonais
+    lang: en
+    type: regular
+    time: 2018-06-22
+    room:
+    authors:
+      - name: Ayako Fukushima
+        twitter: AntoineCellier3
+        github:
+        website:
+      - name: Siegfried Ehret
+        twitter: SiegfriedEhret
+        github: SiegfriedEhret
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Office Hours - DevOps
+    lang: en
+    type: regular
+    time: 2018-06-22
+    room:
+    authors:
+      - name: Christophe Furmaniak
+        twitter: cfurmaniak
+        github: looztra
+        website:
+    slides:
+    videos:
+    description: |-
