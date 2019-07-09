@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: RubyConf AU 2018
-  status: incomplete
+  status: complete
   series: rubyconf.org.au
   tags:
     - ruby
@@ -18,5 +18,275 @@
     country: Australia
     city: Sydney
   description: |-
+    RubyConf AU is known for its fabulous social events, and this year is no exception!
 
 talks:
+  
+  - title: Keynote 'You Are Insufficiently Persuasive'
+    lang: en
+    type: regular
+    time: 2018-03-08
+    room:
+    authors:
+      - name: Sandi Metz
+        twitter: sendimetz
+        github: skmetz
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Y3k7tHll3RY
+    description: |-
+
+  - title: Machine Learning explained to humans
+    lang: en
+    type: regular
+    time: 2018-03-08
+    room:
+    authors:
+      - name: Paolo Perrotta
+        twitter: nusco
+        github: nusco
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zbxtlQaJZ7M
+    description: |-
+
+  - title: JavaScript is Awe-ful
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Katie McLaughlin
+        twitter: glasnt
+        github: glasnt
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Consider Crystal
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: Andy Nicholson
+        twitter: andrewdotnich
+        github: anicholson
+        website:
+    slides:
+    videos:
+      - https://youtu.be/XakoiU2mw3c
+    description: |-
+
+  - title: High performance Mario Kart on Ruby
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: Michael Morris
+        twitter: mtcmorris
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LVRcHzOgsRY
+    description: |-
+
+  - title: 'Here,s to history: programming through archaeology'
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: Eleanor Kiefel Haggerty
+        twitter: eleanorkh
+        github: eleanorakh
+        website:
+    slides:
+    videos:
+      - https://youtu.be/MEG3HyVDgjU
+    description: |-
+
+  - title: A Human Approach to Functional Programming
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: Ken Scambler
+        twitter: KenScambler
+        github: kenbot
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Hiring Juniors
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: Ryan Bigg
+        twitter: ryanbigg
+        github: radar
+        website:
+    slides:
+    videos:
+      - https://youtu.be/aD6dci9rLXM
+    description: |-
+
+  - title: Building the World's Largest Studio at Netflix
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: Lauren Tan
+        twitter: sugarpirate_
+        github: poteto
+        website:
+    slides:
+    videos:
+      - https://youtu.be/5_Xj7okmauc
+    description: |-
+
+  - title: 'Knobs, Levers and Buttons: tools for operating your application at scale'
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: Amy Unger
+        twitter: cdwort
+        github: cdwort
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Bdck0TpHdGc
+    description: |-
+
+  - title: 'Outside the Web Box: Using Ruby for Other Protocols'
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: Danielle Adams
+        twitter: adamzdanielle
+        github: danielleadams
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ZvyaC3SK-nA
+    description: |-
+
+  - title: Dyslexia and Developers
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: Tom Gamon
+        twitter: thrgamon
+        github: thrgamon
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JZ03E0FUj1M
+    description: |-
+
+  - title: Building with Blockchains in Ruby
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: John Feminella
+        twitter: jxxf
+        github: fj
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: UTC is Enough for Everybody, Right?
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: Zach Holman
+        twitter: holman
+        github: holman
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ibJE_T4w3Bo
+    description: |-
+
+  - title: Tackling Technical Writing
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: Alaina Kafkes
+        twitter: alainakafkes
+        github: alainakafkes
+        website:
+    slides:
+    videos:
+      - https://youtu.be/brewx-lO3ak
+    description: |-
+
+  - title: 'The Good Bad Bug: Fail Your Way to Better Code'
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: Jessica Rudder
+        twitter: jessrudder
+        github: JessRudder
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4JEZU8-IHs8
+    description: |-
+
+  - title: Debugging Your Services with Distributed Tracing
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: Stella Cotton
+        twitter: practice_cactus
+        github: stellacotton
+        website:
+    slides:
+    videos:
+      - https://youtu.be/MYej9nMux-E
+    description: |-
+
+  - title: Politics? In My Technology?
+    lang: en
+    type: regular
+    time: 2019-03-08
+    room:
+    authors:
+      - name: Merrin Macleod
+        twitter: merxplat
+        github: spinscale
+        website:
+    slides:
+    videos:
+      - https://youtu.be/7NxkCRd4Z1M
+    description: |-
+
+
