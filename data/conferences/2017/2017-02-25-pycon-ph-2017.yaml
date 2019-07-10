@@ -23,8 +23,8 @@ conference:
 talks:
 
   - title: Writing Idiomatic Python
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-25
     room:
     authors:
@@ -39,8 +39,8 @@ talks:
 
 
   - title: Python as a Universal Backend
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-25
     room:
     authors:
@@ -55,8 +55,8 @@ talks:
 
 
   - title: Big Data Processing and Data Science Environment in Python
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-25
     room:
     authors:
@@ -71,8 +71,8 @@ talks:
 
 
   - title: Python in Smart Farm
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-25
     room:
     authors:
@@ -87,8 +87,8 @@ talks:
 
 
   - title: Estimating Solar Energy of an Area in Python
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-25
     room:
     authors:
@@ -107,8 +107,8 @@ talks:
 
 
   - title: Gentle Introduction to Ansible
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-25
     room:
     authors:
@@ -123,8 +123,8 @@ talks:
 
 
   - title: Python Platforms for Cyber Security
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-25
     room:
     authors:
@@ -143,8 +143,8 @@ talks:
 
 
   - title: Practical Deployment Strategies for Production Python Apps
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-25
     room:
     authors:
@@ -159,8 +159,8 @@ talks:
 
 
   - title: IoT Mobile Robot Using Micropython
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-25
     room:
     authors:
@@ -175,8 +175,8 @@ talks:
 
 
   - title: 'Building communities: One Byte at a Time'
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-26
     room:
     authors:
@@ -191,8 +191,8 @@ talks:
 
 
   - title: Going Serverless With Chalice - A Python Serverless Microframework
+    lang: en  
     type: regular
-    lang: en
     time: 2017-02-26
     room:
     authors:
@@ -207,8 +207,8 @@ talks:
 
 
   - title: Python on the Philippine Microsatellite Program
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-26
     room:
     authors:
@@ -223,8 +223,8 @@ talks:
 
 
   - title: Intro to Satellite Data Processing Using Python
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-26
     room:
     authors:
@@ -243,8 +243,8 @@ talks:
 
 
   - title: Messenger BOT using Flask API
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-26
     room:
     authors:
@@ -259,8 +259,8 @@ talks:
 
 
   - title: Writing RESTful APIs with Flask
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-26
     room:
     authors:
@@ -275,8 +275,8 @@ talks:
 
 
   - title: 'Pytest + Selenium: A Match for Testing'
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-26
     room:
     authors:
@@ -295,8 +295,8 @@ talks:
 
 
   - title: Test Driven Development in Python by 
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-26
     room:
     authors:
@@ -315,8 +315,8 @@ talks:
 
 
   - title: 'Trip Down Memory Lane: OOM in Python'
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-26
     room:
     authors:
@@ -331,8 +331,8 @@ talks:
 
 
   - title: An Introduction to Distributed Task Queue
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-26
     room:
     authors:
@@ -347,8 +347,8 @@ talks:
 
 
   - title: Wela School System Using Python
-    type: regular
     lang: en
+    type: regular
     time: 2017-02-26
     room:
     authors:
