@@ -174,7 +174,7 @@ talks:
     description: |-
 
 
-  - title: Building communities: One Byte at a Time
+  - title: 'Building communities: One Byte at a Time'
     type: regular
     level:
     time: 2017-02-26
@@ -274,7 +274,7 @@ talks:
     description: |-
 
 
-  - title: Pytest + Selenium: A Match for Testing
+  - title: 'Pytest + Selenium: A Match for Testing'
     type: regular
     level:
     time: 2017-02-26
@@ -314,7 +314,7 @@ talks:
     description: |-
 
 
-  - title: Trip Down Memory Lane: OOM in Python
+  - title: 'Trip Down Memory Lane: OOM in Python'
     type: regular
     level:
     time: 2017-02-26
