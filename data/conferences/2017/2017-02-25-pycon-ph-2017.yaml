@@ -1,4 +1,4 @@
-﻿conference:
+conference:
     
   name: Pycon PH 2017
   status: incomplete
@@ -18,5 +18,350 @@
     country: Philippines
     city: Cagayan de Oro
   description: |-
+    PyCon Philippines is a volunteer-run, not-for-profit conference centered around the Python Programming language. The goal of the conference is to provide a venue where the Python programming language and surrounding technologies can be explored, discussed and exercised.
 
 talks:
+
+  - title: Writing Idiomatic Python
+    type: regular
+    level:
+    time: 2017-02-25
+    room:
+    authors:
+      - name: Jeff Knupp
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/EYwnxAkk-GY
+    description: |-
+
+
+  - title: Python as a Universal Backend
+    type: regular
+    level:
+    time: 2017-02-25
+    room:
+    authors:
+      - name: Kix Panganiban
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/j_jTC2LA79U
+    description: |-
+
+
+  - title: Big Data Processing and Data Science Environment in Python
+    type: regular
+    level:
+    time: 2017-02-25
+    room:
+    authors:
+      - name: Rick Bahague
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JyXYwyS9Mc0
+    description: |-
+
+
+  - title: Python in Smart Farm
+    type: regular
+    level:
+    time: 2017-02-25
+    room:
+    authors:
+      - name: Lex Bryan
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mhoppxTor5g
+    description: |-
+
+
+  - title: Estimating Solar Energy of an Area in Python
+    type: regular
+    level:
+    time: 2017-02-25
+    room:
+    authors:
+      - name: Justine Santos
+        twitter:
+        github:
+        website:
+      - name: Patrick
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zT0w20ZSUdo
+    description: |-
+
+
+  - title: Gentle Introduction to Ansible
+    type: regular
+    level:
+    time: 2017-02-25
+    room:
+    authors:
+      - name: Romar Mayer Micabalo
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/e91CwIawExc
+    description: |-
+
+
+  - title: Python Platforms for Cyber Security
+    type: regular
+    level:
+    time: 2017-02-25
+    room:
+    authors:
+      - name: Nikolay Akatyev
+        twitter:
+        github:
+        website:
+      - name: Brandon Schmittling
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1LNSARrwPqw
+    description: |-
+
+
+  - title: Practical Deployment Strategies for Production Python Apps
+    type: regular
+    level:
+    time: 2017-02-25
+    room:
+    authors:
+      - name: Joshua Arvin Lat
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zjS3XloogFY
+    description: |-
+
+
+  - title: IoT Mobile Robot Using Micropython
+    type: regular
+    level:
+    time: 2017-02-25
+    room:
+    authors:
+      - name: Diogenes Pascua
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/krYbO42IwfA
+    description: |-
+
+
+  - title: Building communities: One Byte at a Time
+    type: regular
+    level:
+    time: 2017-02-26
+    room:
+    authors:
+      - name: Manoj Pandey
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Sam-xvweIE4
+    description: |-
+
+
+  - title: Going Serverless With Chalice - A Python Serverless Microframework
+    type: regular
+    level:
+    time: 2017-02-26
+    room:
+    authors:
+      - name: Roselle
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/TUXRjehnnhc
+    description: |-
+
+
+  - title: Python on the Philippine Microsatellite Program
+    type: regular
+    level:
+    time: 2017-02-26
+    room:
+    authors:
+      - name: Benjie Jiao
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/7q-KQ7lSrgY
+    description: |-
+
+
+  - title: Intro to Satellite Data Processing Using Python
+    type: regular
+    level:
+    time: 2017-02-26
+    room:
+    authors:
+      - name: Kim Ramos
+        twitter:
+        github:
+        website:
+      - name: Romer Kristi
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/AniSKBbCr1w
+    description: |-
+
+
+  - title: Messenger BOT using Flask API
+    type: regular
+    level:
+    time: 2017-02-26
+    room:
+    authors:
+      - name: Jethro Guce
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/w7dIQ0h2njk
+    description: |-
+
+
+  - title: Writing RESTful APIs with Flask
+    type: regular
+    level:
+    time: 2017-02-26
+    room:
+    authors:
+      - name: Allan Barredo
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LPy_hJ8dPhE
+    description: |-
+
+
+  - title: Pytest + Selenium: A Match for Testing
+    type: regular
+    level:
+    time: 2017-02-26
+    room:
+    authors:
+      - name: Marisa Quiaot
+        twitter:
+        github:
+        website:
+      - name: Lovely Banquil
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/rNBN2YVGAcA
+    description: |-
+
+
+  - title: Test Driven Development in Python by 
+    type: regular
+    level:
+    time: 2017-02-26
+    room:
+    authors:
+      - name: Elpedio Adoptante Jr.
+        twitter:
+        github:
+        website:
+      - name: Zakatell Kanda
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mIZwB20oSK4
+    description: |-
+
+
+  - title: Trip Down Memory Lane: OOM in Python
+    type: regular
+    level:
+    time: 2017-02-26
+    room:
+    authors:
+      - name: Prem Vilas Fortran Rara
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_PiTB4g6rqw
+    description: |-
+
+
+  - title: An Introduction to Distributed Task Queue
+    type: regular
+    level:
+    time: 2017-02-26
+    room:
+    authors:
+      - name: Ronald Ryan A. Icasiano
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/vtXKMVuBguE
+    description: |-
+
+
+  - title: Wela School System Using Python
+    type: regular
+    level:
+    time: 2017-02-26
+    room:
+    authors:
+      - name: Sean Mark Mira
+        twitter:
+        github:
+        website:
+      - name: John Vincent Fiel
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/uQGCxxt67xc
+    description: |-
+    
