@@ -67,22 +67,6 @@ talks:
     description: |-
       Since launch, almost all iOS apps were designed for a single screen, but with Marzipan on macOS and USB-C monitors on iPad that's finally about to change. In this talk you'll learn how to build apps that work great across multiple windows, first with a walkthrough of all the theory then a live coding demonstration so you can see exactly what the steps are.
 
-  - title: Exploring Kotlin Multiplatform
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Steven Hepting
-        twitter: stevenhepting
-        github: shepting
-        website:
-    slides:
-    videos:
-      - https://youtu.be/JRsWi8KC2Sw
-    description: |-
-      What do Uber, Facebook, and Airbnb all have in common?They use the Buck build system to manage millions of lines of code, across hundreds of iOS engineers, building many iOS apps.In this talk, Steven will share how Buck can make builds faster (smartly optimizing build hierarchies), consistent (hermetic build descriptions), and efficient (caching everything on the server except what code has changed locally).
-
   - title: AI Adventures with AutoML
     lang: en
     type: regular
