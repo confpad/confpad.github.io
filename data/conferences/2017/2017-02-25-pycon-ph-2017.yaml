@@ -1,7 +1,7 @@
 conference:
     
   name: Pycon PH 2017
-  status: incomplete
+  status: complete
   series: python.ph
   tags:
     - python
