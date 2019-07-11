@@ -18,5 +18,310 @@
     country: Romania
     city: Cluj
   description: |-
-
 talks:
+
+  - title: Unleash the power of Angular Reactive Forms
+    lang: en
+    type: regular
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Nir Kaufman
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/9NXVQsQ8wns
+    description: |-
+
+
+  - title: A Story About Types and JavaScript
+    lang: en
+    type: regular
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Tudor Gergely
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/YnukrLi8zew
+    description: |-
+
+
+  - title: How to get started and build something with GraphQL
+    lang: en
+    type: regular
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Xavier Cazalot
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/McPeX5gsSX8
+    description: |-
+
+
+  - title: Wraping Time with Async/Await
+    lang: en
+    type: regular
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Cassi Lup
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/1J-2huqyrBk
+    description: |-
+
+
+  - title: Fighting the Front-end Fatigue
+    lang: en
+    type: regular
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Benedek Gagyi
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/UTQkkZ1SO1Y
+    description: |-
+
+
+  - title: UI Development Made Simple
+    lang: en
+    type: regular
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Ovidiu Cherecheș
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/C3tx999wbgM
+    description: |-
+
+
+  - title: Is JavaScript Making Us Better Professionals?
+    lang: en
+    type: regular
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Alex Moldovan
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/O7pnOru0S3E
+    description: |-
+
+
+  - title: As Simple as an AST
+    lang: en
+    type: regular
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Pavithra Kodmad
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/LRKlqR6KY_E
+    description: |-
+
+
+  - title: Static and Dynamic Next.js
+    lang: en
+    type: regular
+    time: 2017-06-08
+    room:
+    authors:
+      - name: Guillermo Rauch
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/lLNJsuXB4CI
+    description: |-
+
+
+  - title: Building Universal Apps
+    lang: en
+    type: regular
+    time: 2017-06-09
+    room:
+    authors:
+      - name: Robert Onodi
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/i0wkGqm0Dy8
+    description: |-
+
+
+  - title: Collaborative Learning
+    lang: en
+    type: regular
+    time: 2017-06-09
+    room:
+    authors:
+      - name: Roxana Rugină
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/-FPmnCbb7ds
+    description: |-
+
+
+  - title: "Node.js Security: Breaking The Loop"
+    lang: en
+    type: regular
+    time: 2017-06-09
+    room:
+    authors:
+      - name: Liran Tal
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/DX8FSC_7wRI
+    description: |-
+
+
+  - title: From Localhost to Production
+    lang: en
+    type: regular
+    time: 2017-06-09
+    room:
+    authors:
+      - name: Gautam Arora
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/-UCtcKCYlwM
+    description: |-
+
+
+  - title: "React Native: From pure Web app to a Web & Mobile hybrid"
+    lang: en
+    type: regular
+    time: 2017-06-09
+    room:
+    authors:
+      - name: Vladimir Porton - 
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/nbzniZ_4Y1Y
+    description: |-
+
+
+  - title: "Introducing Chunky: The Full Stack React Framework"
+    lang: en
+    type: regular
+    time: 2017-06-09
+    room:
+    authors:
+      - name: Dan Călinescu
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/-T1be7m3rAQ
+    description: |-
+
+
+  - title: Frontend development in the (current) future
+    lang: en
+    type: regular
+    time: 2017-06-09
+    room:
+    authors:
+      - name: Filip Bech-Larsen
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/eLnrIZd9cd8
+    description: |-
+
+
+  - title: Automatic Progressive Web Apps using the Angular Mobile Toolkit
+    lang: en
+    type: regular
+    time: 2017-06-09
+    room:
+    authors:
+      - name: Maxim Salnikov
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/3ZZCCBjuAXU
+    description: |-
+
+
+  - title: A Unified Styling Language
+    lang: en
+    type: regular
+    time: 2017-06-09
+    room:
+    authors:
+      - name: Mark Dalgleish
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/z-4cujO519Q
+    description: |-
+    
