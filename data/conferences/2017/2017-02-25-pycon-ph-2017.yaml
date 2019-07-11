@@ -1,5 +1,5 @@
 conference:
-    
+
   name: Pycon PH 2017
   status: complete
   series: python.ph
@@ -364,4 +364,4 @@ talks:
     videos:
       - https://youtu.be/uQGCxxt67xc
     description: |-
-    
+
