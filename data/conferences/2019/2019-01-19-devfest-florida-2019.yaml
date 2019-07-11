@@ -62,7 +62,7 @@ talks:
         twitter:
         github: toxicbakery
         website:
-    lides:
+    slides:
     videos:
     description: |-
       Since launch, almost all iOS apps were designed for a single screen, but with Marzipan on macOS and USB-C monitors on iPad that's finally about to change. In this talk you'll learn how to build apps that work great across multiple windows, first with a walkthrough of all the theory then a live coding demonstration so you can see exactly what the steps are.
