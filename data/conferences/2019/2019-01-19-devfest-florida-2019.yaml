@@ -97,7 +97,7 @@ talks:
 
   - title: Enterprise Hybrid Mobile App development
     lang: en
-    type: Lightning
+    type: lightning
     time: 2019-01-19
     room:
     authors:
@@ -369,7 +369,7 @@ talks:
         website:
     slides:
     videos:
-      - https://youtu.be/reBpWSV7Vko?
+      - https://youtu.be/reBpWSV7Vko
     description: |-
       In this talk we'll learn how to use all the power of Google stack technologies (Angular, Material, Firebase and Google Cloud) to develop a full stack application. We'll learn how we can empower a serverless Angular + Material application with Firebase and reactive programming by using realtime database, Firestore, authentication (with different providers) and Firebase hosting. And we if need any other functionality, we can use Cloud Functions or a NodeJS app. This talk will demonstrate the overview of a real world application (40k users), along with CI configuration and some details of the code (the good parts!). Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
