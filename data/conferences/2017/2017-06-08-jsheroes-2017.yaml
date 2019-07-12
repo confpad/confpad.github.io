@@ -18,6 +18,7 @@
     country: Romania
     city: Cluj
   description: |-
+  
 talks:
 
   - title: Unleash the power of Angular Reactive Forms
