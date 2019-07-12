@@ -1,7 +1,7 @@
 ﻿conference:
 
   name: JSHeroes 2017
-  status: incomplete
+  status: complete
   series: jsheroes.io
   tags:
     - javascript
@@ -35,7 +35,7 @@ talks:
     videos:
       - https://youtu.be/9NXVQsQ8wns
     description: |-
-
+      "The reactive forms module is powerful. During this session we will live code a complex form from scratch, going through all the main features such as: validation, reactive state tracking, dynamic form creation and much more"
 
   - title: A Story About Types and JavaScript
     lang: en
