@@ -35,7 +35,7 @@ talks:
     videos:
       - https://youtu.be/9NXVQsQ8wns
     description: |-
-      "The reactive forms module is powerful. During this session we will live code a complex form from scratch, going through all the main features such as: validation, reactive state tracking, dynamic form creation and much more"
+      The reactive forms module is powerful. During this session we will live code a complex form from scratch, going through all the main features such as, validation, reactive state tracking, dynamic form creation and much more
 
   - title: A Story About Types and JavaScript
     lang: en
@@ -69,7 +69,7 @@ talks:
     videos:
       - https://youtu.be/McPeX5gsSX8
     description: |-
-      "GraphQL presents new ways for clients to fetch data by focusing on the needs of product developers and client applications. Building a product with GraphQL is easy once you wrapped your head around the key concepts: many awesome tools are around and it's a real pleasure to use them."
+      GraphQL presents new ways for clients to fetch data by focusing on the needs of product developers and client applications. Building a product with GraphQL is easy once you wrapped your head around the key concepts, many awesome tools are around and it's a real pleasure to use them.
 
   - title: Wraping Time with Async/Await
     lang: en
@@ -86,7 +86,7 @@ talks:
     videos:
       - https://youtu.be/1J-2huqyrBk
     description: |-
-      "The JS world is a constant surprise. Just look at the recent years and you'll see why. The language itself is maturing and the angles from which we look at it are becoming more and more diverse. We've arrived from 10-year release cycles to yearly feature upgrades. ES2017 is upon us and together with it, a new tool that gives us time-warping superpowers: Async/Await. Come learn (almost) all there is to know about it and how you can start using it today. It's going to be fun!"
+      The JS world is a constant surprise. Just look at the recent years and you'll see why. The language itself is maturing and the angles from which we look at it are becoming more and more diverse. We've arrived from 10-year release cycles to yearly feature upgrades. ES2017 is upon us and together with it, a new tool that gives us time-warping superpowers, Async/Await. Come learn (almost) all there is to know about it and how you can start using it today. It's going to be fun!
 
   - title: Fighting the Front-end Fatigue
     lang: en
@@ -103,7 +103,7 @@ talks:
     videos:
       - https://youtu.be/UTQkkZ1SO1Y
     description: |-
-      "Sometimes the front-end ecosystem may seem, like riding a wild hog in a pitch black forest: it can be disorienting, full of nasty surprises, and even seasoned veterans may find it challenging to hang on. You may think, that if you don't check your twitter feed for a few days, you won't understand what everybody's talking about, but even worse, you may miss out on juicy opportunities to make your website better, faster, easier to maintain and so on. I'll talk about the basic set of technologies and techniques one needs to be able to deal with the onslaught of other technologies and ideas you're constantly being bombarded with as a front-end engineer."
+      Sometimes the front-end ecosystem may seem, like riding a wild hog in a pitch black forest, it can be disorienting, full of nasty surprises, and even seasoned veterans may find it challenging to hang on. You may think, that if you don't check your twitter feed for a few days, you won't understand what everybody's talking about, but even worse, you may miss out on juicy opportunities to make your website better, faster, easier to maintain and so on. I'll talk about the basic set of technologies and techniques one needs to be able to deal with the onslaught of other technologies and ideas you're constantly being bombarded with as a front-end engineer.
 
   - title: UI Development Made Simple
     lang: en
@@ -171,7 +171,7 @@ talks:
     videos:
       - https://youtu.be/lLNJsuXB4CI
     description: |-
-      "With Next.js, you can create React applications that automatically server-render, code-split and hot-reload, with no setup. This talk will explore the two most powerful new features of Next.js: static exports and dynamic imports. These allow for the creation of high-performance advanced applications, examples of which we'll demonstrate live, on stage."
+      With Next.js, you can create React applications that automatically server-render, code-split and hot-reload, with no setup. This talk will explore the two most powerful new features of Next.js, static exports and dynamic imports. These allow for the creation of high-performance advanced applications, examples of which we'll demonstrate live, on stage.
 
   - title: Building Universal Apps
     lang: en
@@ -306,7 +306,7 @@ talks:
     videos:
       - https://youtu.be/3ZZCCBjuAXU
     description: |-
-      "Progressive Web Apps are the next big thing for the web. They combine the advantages of two platforms: searchability and shareability of the web with capabilities and performance of native mobile. As a result, web developers can use their favorite tools to build installable, re-engageable, connectivity independent apps, that can bring native-like performance and user experience. The Angular Mobile Toolkit makes it easy to get started building PWA. It’s developed to automate main routines and provide us with some nice tools to control the progressive app behavior. During this practical session, we'll have a look at Mobile Toolkit’s main components, and how they take our web app to the next level. With just some simple updates we’ll get installable, offline-capable, mobile-network-friendly Angular app re-engaging users by push-notifications."
+      Progressive Web Apps are the next big thing for the web. They combine the advantages of two platforms, searchability and shareability of the web with capabilities and performance of native mobile. As a result, web developers can use their favorite tools to build installable, re-engageable, connectivity independent apps, that can bring native-like performance and user experience. The Angular Mobile Toolkit makes it easy to get started building PWA. It’s developed to automate main routines and provide us with some nice tools to control the progressive app behavior. During this practical session, we'll have a look at Mobile Toolkit’s main components, and how they take our web app to the next level. With just some simple updates we’ll get installable, offline-capable, mobile-network-friendly Angular app re-engaging users by push-notifications.
 
   - title: A Unified Styling Language
     lang: en
