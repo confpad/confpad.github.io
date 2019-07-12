@@ -52,7 +52,7 @@ talks:
     videos:
       - https://youtu.be/YnukrLi8zew
     description: |-
-
+      Why do we exactly need those types? Are we not choosing Javascript for its dynamic nature? Let's see how a bit of rigour can help us on the long run.
 
   - title: How to get started and build something with GraphQL
     lang: en
@@ -69,7 +69,7 @@ talks:
     videos:
       - https://youtu.be/McPeX5gsSX8
     description: |-
-
+      "GraphQL presents new ways for clients to fetch data by focusing on the needs of product developers and client applications. Building a product with GraphQL is easy once you wrapped your head around the key concepts: many awesome tools are around and it's a real pleasure to use them."
 
   - title: Wraping Time with Async/Await
     lang: en
@@ -86,7 +86,7 @@ talks:
     videos:
       - https://youtu.be/1J-2huqyrBk
     description: |-
-
+      "The JS world is a constant surprise. Just look at the recent years and you'll see why. The language itself is maturing and the angles from which we look at it are becoming more and more diverse. We've arrived from 10-year release cycles to yearly feature upgrades. ES2017 is upon us and together with it, a new tool that gives us time-warping superpowers: Async/Await. Come learn (almost) all there is to know about it and how you can start using it today. It's going to be fun!"
 
   - title: Fighting the Front-end Fatigue
     lang: en
@@ -103,7 +103,7 @@ talks:
     videos:
       - https://youtu.be/UTQkkZ1SO1Y
     description: |-
-
+      "Sometimes the front-end ecosystem may seem, like riding a wild hog in a pitch black forest: it can be disorienting, full of nasty surprises, and even seasoned veterans may find it challenging to hang on. You may think, that if you don't check your twitter feed for a few days, you won't understand what everybody's talking about, but even worse, you may miss out on juicy opportunities to make your website better, faster, easier to maintain and so on. I'll talk about the basic set of technologies and techniques one needs to be able to deal with the onslaught of other technologies and ideas you're constantly being bombarded with as a front-end engineer."
 
   - title: UI Development Made Simple
     lang: en
@@ -120,7 +120,7 @@ talks:
     videos:
       - https://youtu.be/C3tx999wbgM
     description: |-
-
+      Web developers either love or hate client-side JavaScript. The proliferation of frameworks is empowering for avid followers of the JavaScript ecosystem, but often terrifying for backend developers who want to catch up. Is it really easier to write JS in 2017 than in 2007? I believe so, but only if we stop to appreciate how much the size and complexity of web pages grew in the past decade. Let's explore how to use the React component model to create a simple development process and a scalable architecture for building modern web apps.
 
   - title: Is JavaScript Making Us Better Professionals?
     lang: en
@@ -137,7 +137,7 @@ talks:
     videos:
       - https://youtu.be/O7pnOru0S3E
     description: |-
-
+      We can all agree that JavaScript is a trending programming language. But is this a good thing? Is JavaScript the right language to learn or to study? Can we push the language into the academic field so that students are better prepared for the jobs of the future in IT? I want to make a case here, that JavaScript forces you to go one step further in understanding what you are doing, compared with other mainstream languages that have their abstractions already built into the language. We will look at a few common patterns to establish some context and we will discuss about the dangers of abstractions and the source of the JavaScript Fatigue™.
 
   - title: As Simple as an AST
     lang: en
@@ -154,7 +154,7 @@ talks:
     videos:
       - https://youtu.be/LRKlqR6KY_E
     description: |-
-
+      Abstract Syntax Trees, AST for short are a very less talked about subject in the world of Javascript. But surprisingly, almost all of the common tooling used by modern front end developers, from linting, minifying, babel-transforming, uglifying, webpacking depend heavily on the AST for reliable and standardised transformations. Learning how to use an AST is much simpler than I imagined. Here's about why ASTs are so ubiquitous and how you can make use of it to enhance your daily workflow.
 
   - title: Static and Dynamic Next.js
     lang: en
@@ -171,7 +171,7 @@ talks:
     videos:
       - https://youtu.be/lLNJsuXB4CI
     description: |-
-
+      "With Next.js, you can create React applications that automatically server-render, code-split and hot-reload, with no setup. This talk will explore the two most powerful new features of Next.js: static exports and dynamic imports. These allow for the creation of high-performance advanced applications, examples of which we'll demonstrate live, on stage."
 
   - title: Building Universal Apps
     lang: en
@@ -188,7 +188,7 @@ talks:
     videos:
       - https://youtu.be/i0wkGqm0Dy8
     description: |-
-
+      The present enables us to build universal applications, that run on multiple platforms and environments. Why should I care to build such applications? Or why should I even care that such applications can be built. From theory to code examples, from sane coding to going crazy. You name it.
 
   - title: Collaborative Learning
     lang: en
@@ -206,7 +206,6 @@ talks:
       - https://youtu.be/-FPmnCbb7ds
     description: |-
 
-
   - title: "Node.js Security: Breaking The Loop"
     lang: en
     type: regular
@@ -222,7 +221,7 @@ talks:
     videos:
       - https://youtu.be/DX8FSC_7wRI
     description: |-
-
+      Node.js and JavaScript adoption are high and application security plays a big part in shipping your products in the midst of cyber security threats. We will deep-dive into practical Node.js security measures which you can easily implement in your current projects. Covering topics such as OWASP Top 10 vulnerabilities, Secure Code Guidelines, Leveraging recommended npm libraries, Hardening ExpressJS, and Secure Dependencies Management with CI/CD integration.
 
   - title: From Localhost to Production
     lang: en
@@ -239,7 +238,7 @@ talks:
     videos:
       - https://youtu.be/-UCtcKCYlwM
     description: |-
-
+      This talk is a practical introduction to production deployment of node.js applications. In this talk, I will share my journey of gaining a better understanding of managing production websites and becoming more confident in delivering solutions that scale. I will go over Node Clusters, MongoDB Replicas, Reverse Proxies, Load Balancers, CDNs and more with demos and real world scenarios of usage. With this knowledge, developers will be able to have a better understanding of production deployments and also learn that some problems can be solved without writing a single line of code.
 
   - title: "React Native: From pure Web app to a Web & Mobile hybrid"
     lang: en
@@ -256,7 +255,7 @@ talks:
     videos:
       - https://youtu.be/nbzniZ_4Y1Y
     description: |-
-
+      I'll introduce how we took a production React Web site and turned it into a hybrid repo for both Web and Mobile. A single repository to rule them all - the challenges, deployment setup, shared code and lots of lessons learned. Get ready for some real-world lessons!
 
   - title: "Introducing Chunky: The Full Stack React Framework"
     lang: en
@@ -267,13 +266,13 @@ talks:
       - name: Dan Călinescu
         twitter:
         github:
-        website:
+        website: http://www.chunky.io/
     slides:
       -
     videos:
       - https://youtu.be/-T1be7m3rAQ
     description: |-
-
+      Chunky is an opinionated framework that helps you write better React Apps by organizing functionality in modular, cross-functional chunks. 
 
   - title: Frontend development in the (current) future
     lang: en
@@ -290,7 +289,7 @@ talks:
     videos:
       - https://youtu.be/eLnrIZd9cd8
     description: |-
-
+      Call it a fronted state of the union, call it hot or not in YYYY, call it buzz-word bingo. We will talk about how Progressive Web Apps helps the web compete with native apps. How new browser features will transform e-commerce. Whats on the horizon for javascript and for frameworks? and where does typescript fit in? How will Houdini eventually change layout on the web? Whats up with the physical web or what about Internet of Things - and how are those related. Offline, PRPL, Observables, Serviceworker, push-notification, redux, web-APKs, and maybe even more… all packaged up, tree-shaken, server-rendered and served over https!
 
   - title: Automatic Progressive Web Apps using the Angular Mobile Toolkit
     lang: en
@@ -307,7 +306,7 @@ talks:
     videos:
       - https://youtu.be/3ZZCCBjuAXU
     description: |-
-
+      "Progressive Web Apps are the next big thing for the web. They combine the advantages of two platforms: searchability and shareability of the web with capabilities and performance of native mobile. As a result, web developers can use their favorite tools to build installable, re-engageable, connectivity independent apps, that can bring native-like performance and user experience. The Angular Mobile Toolkit makes it easy to get started building PWA. It’s developed to automate main routines and provide us with some nice tools to control the progressive app behavior. During this practical session, we'll have a look at Mobile Toolkit’s main components, and how they take our web app to the next level. With just some simple updates we’ll get installable, offline-capable, mobile-network-friendly Angular app re-engaging users by push-notifications."
 
   - title: A Unified Styling Language
     lang: en
@@ -324,4 +323,4 @@ talks:
     videos:
       - https://youtu.be/z-4cujO519Q
     description: |-
-    
+      In the past few years, we've witnessed a massive increase in the amount of CSS experimentation, with ideas like CSS Modules and—most controversially—the rise of CSS-in-JS. But does mixing our styles and logic run counter to the original ideas of CSS? Does it break progressive enhancement? Most importantly, when dealing with such a boundary-defying trend, how can we ensure that the CSS and JS communities are united rather than divided?
