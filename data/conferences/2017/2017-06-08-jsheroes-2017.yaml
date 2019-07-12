@@ -18,7 +18,7 @@
     country: Romania
     city: Cluj
   description: |-
-  
+
 talks:
 
   - title: Unleash the power of Angular Reactive Forms
@@ -32,7 +32,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/9NXVQsQ8wns
     description: |-
@@ -49,7 +48,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/YnukrLi8zew
     description: |-
@@ -66,7 +64,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/McPeX5gsSX8
     description: |-
@@ -83,7 +80,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/1J-2huqyrBk
     description: |-
@@ -100,7 +96,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/UTQkkZ1SO1Y
     description: |-
@@ -117,7 +112,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/C3tx999wbgM
     description: |-
@@ -134,7 +128,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/O7pnOru0S3E
     description: |-
@@ -151,7 +144,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/LRKlqR6KY_E
     description: |-
@@ -168,7 +160,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/lLNJsuXB4CI
     description: |-
@@ -185,7 +176,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/i0wkGqm0Dy8
     description: |-
@@ -202,7 +192,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/-FPmnCbb7ds
     description: |-
@@ -218,7 +207,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/DX8FSC_7wRI
     description: |-
@@ -235,7 +223,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/-UCtcKCYlwM
     description: |-
@@ -252,7 +239,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/nbzniZ_4Y1Y
     description: |-
@@ -269,7 +255,6 @@ talks:
         github:
         website: http://www.chunky.io/
     slides:
-      -
     videos:
       - https://youtu.be/-T1be7m3rAQ
     description: |-
@@ -286,7 +271,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/eLnrIZd9cd8
     description: |-
@@ -303,7 +287,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/3ZZCCBjuAXU
     description: |-
@@ -320,7 +303,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/z-4cujO519Q
     description: |-
