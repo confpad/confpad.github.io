@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: Laracon AU 2018
-  status: incomplete
+  status: complete
   series: laracon.com.au
   tags:
     - php
@@ -18,5 +18,386 @@
     country: Australia
     city: Sydney
   description: |-
+    Laracon EU is a unique international Laravel event with over 750 attendees. The conference has multiple tracks and is focusing on in-depth technical talks. Come learn about the state of the industry while networking with like-minded and diversely experienced developers.
 
 talks:
+
+  - title: Build bridges, not walls—Design for users across cultures
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Jenny Shen
+        twitter: jennyshen
+        github: shenjenny
+        website:
+    slides:
+    videos:
+      - https://youtu.be/uPsMTpdfWTI
+    description: |-
+
+  - title: Zero to API with Lumen
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Amanda Folson
+        twitter: AmbassadorAwsum
+        github: afolson
+        website:
+    slides:
+    videos:
+      - https://youtu.be/FHXVs7swRuU
+    description: |-
+
+  - title: Alexa, let's build a voice powered app
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Marcel Pociot
+        twitter: marcelpociot
+        github: mpociot
+        website:
+    lides:
+    videos:
+      - https://youtu.be/U0ypZh0mFgc
+    description: |-
+
+  - title: Twelve-Factor Apps
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Alex Bilbie
+        twitter: alexbilbie
+        github: alexbilbie
+        website:
+    slides:
+    videos:
+      - https://youtu.be/L5zAH3jIboQ
+    description: |-
+
+  - title: IntroDDDuction
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Robert Basic
+        twitter: robertbasic
+        github: robertbasic
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2Mj2DVWqnuQ
+    description: |-
+
+  - title: Customizing Laravel
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Franz Liedke
+        twitter: franzliedke
+        github: franzliedke
+        website:
+    slides:
+    videos:
+      - https://youtu.be/UJZBdUIwTbM
+    description: |-
+
+  - title: 'Migrating a 15 Year Old Enterprise Application to Laravel: Lessons Learned and Opportunities Gained'
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Taylor Dondich
+        twitter: tdondich
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/QdSXj6Pm5K0
+    description: |-
+
+  - title: Simplified Continuous Integration with Laravel and Jenkins
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Margaret Staples
+        twitter: dead_lugosi
+        github: mstaples
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3IQrbUrb2E0
+    description: |-
+
+  - title: DevOps and the Rebirth of Childhood Innocence
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Robert Douglass
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cKus-f7AbC8
+    description: |-
+
+  - title: Handling media in a Laravel application
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Freek van der Herten
+        twitter: freekmurze
+        github: freekmurze
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Ho9OVdxpFRM
+    description: |-
+
+  - title: Kickass Laravel Development with Docker
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: David McKay
+        twitter: rawkode
+        github: rawkode
+        website:
+    slides:
+    videos:
+      - https://youtu.be/BvDXzyOP3NE
+    description: |-
+
+  - title: 5 [fun] ways to fall in love [again] with code
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Christopher Pitt
+        twitter: assertchris
+        github: assertchris
+        website:
+      - name: Erika Heidi
+        twitter: erikaheidi
+        github: erikaheidi
+        website:
+    slides:
+    videos:
+      - https://youtu.be/wc3LzAsbc4I
+    description: |-
+
+  - title: 'undamentally Flawed: Privacy, People and the Age of Data'
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Rizqi Djamaluddin
+        twitter: __rizqi
+        github: rizqidjamaluddin
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Ucz0UFaYuvs
+    description: |-
+
+  - title: Things every developer absolutely, positively needs to know about database indexing
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Kai Sassnowski
+        twitter: warsh33p
+        github: ksassnowski
+        website:
+    slides:
+    videos:
+      - https://youtu.be/HubezKbFL7E
+    description: |-
+
+  - title: How we abused PHP and Laravel to do Big Data.
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Marten Westphal
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/P0LfWwU7ToA
+    description: |-
+
+  - title: Minimum Viable Linux
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Mattias Geniar
+        twitter: mattiasgeniar
+        github: mattiasgeniar
+        website:
+    slides:
+    videos:
+      - https://youtu.be/94GK6Ik-x98
+    description: |-
+
+  - title: Crypto for Everyone
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Marcus Bointon
+        twitter: SynchroM
+        github: Synchro
+        website:
+    slides:
+    videos:
+      - https://youtu.be/617ge8TcwoQ
+    description: |-
+
+  - title: OMG MySQL 8.0 is out! Are we there yet?
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Gabriela Ferrara
+        twitter: gabidavila
+        github: gabidavila
+        website:
+    slides:
+    videos:
+      - https://youtu.be/eVq4to81ulk
+    description: |-
+
+  - title: Laravel Design Patterns
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Bobby Bouwmann
+        twitter: bobbybouwmann
+        github: bobbybouwmann
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qpo5KG0vIyE
+    description: |-
+
+  - title: How Not to Break a Simple Idea
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Mark Starkey
+        twitter:
+        github: MStarkey
+        website:
+    slides:
+    videos:
+      - https://youtu.be/24Dh2hg1--k
+    description: |-
+
+  - title: 'Advanced animations with Vue.js: taking your interface to the next level'
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Krystal Campioni
+        twitter: krystalcampioni
+        github: krystalcampioni
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3mt-gI3F3mM
+    description: |-
+
+  - title: SOLID Design Principles
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Katerina Trajchevska
+        twitter: ktrajchevska
+        github: trajchevska
+
+        website:
+    slides:
+    videos:
+      - https://youtu.be/rtmFCcjEgEw
+    description: |-
+
+  - title: Extending Laravel Nova
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Marcel Pociot
+        twitter: marcelpociot
+        github: mpociot
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3c3SJlMfSp0
+    description: |-
+
+  - title: Presenting Skills for Programmers
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Chris Brown
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/nQmS3N60fcY
+    description: |-
+
+  - title: Laravel in 2018
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Taylor Otwell
+        twitter: taylorotwell
+        github: taylorotwell
+        website:
+    slides:
+    videos:
+      - https://youtu.be/yM7K7jd92Sw
+    description: |-
