@@ -28,7 +28,7 @@ talks:
     room:
     authors:
       - name: Andrew Brinker
-        twitter: https://twitter.com/andrewbrinker
+        twitter: andrewbrinker
         github:
         website:
     slides:
@@ -45,7 +45,7 @@ talks:
     authors:
       - name: Sergio Benitez
         twitter:
-        github: https://github.com/SergioBenitez
+        github: SergioBenitez
         website:
     slides:
     videos:
@@ -61,7 +61,7 @@ talks:
     authors:
       - name: Michael Gattozzi
         twitter:
-        github: https://github.com/mgattozzi
+        github: mgattozzi
         website:
     slides:
     videos:
@@ -77,7 +77,7 @@ talks:
     authors:
       - name: Naomi Testard
         twitter:
-        github: https://github.com/LeoTestard
+        github: LeoTestard
         website:
     slides:
     videos:
@@ -92,7 +92,7 @@ talks:
     room:
     authors:
       - name: Sean Griffin
-        twitter: https://www.twitter.com/sgrif
+        twitter: sgrif
         github:
         website:
     slides:
@@ -108,7 +108,7 @@ talks:
     room:
     authors:
       - name: Steve Jenson
-        twitter: https://twitter.com/stevej
+        twitter: stevej
         github:
         website:
     slides:
@@ -124,11 +124,11 @@ talks:
     room:
     authors:
       - name: Isis Lovecruft
-        twitter: https://twitter.com/isislovecruft
+        twitter: isislovecruft
         github:
         website:
       - name: Henry De Valence 
-        twitter: https://twitter.com/hdevalence
+        twitter: hdevalence
         github:
         website:
     slides:
@@ -144,7 +144,7 @@ talks:
     room:
     authors:
       - name: Joe Duffy
-        twitter: https://twitter.com/xjoeduffyx
+        twitter: xjoeduffyx
         github:
         website:
     slides:
