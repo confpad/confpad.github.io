@@ -28,7 +28,7 @@ talks:
     time: 2019-01-18
     room:
     authors:
-      - name:
+      - name: Subh
         twitter:
         github:
         website:
@@ -63,7 +63,7 @@ talks:
         twitter: twostraws
         github: twostraws
         website:
-    lides:
+    slides:
     videos:
       - https://youtu.be/7P1KucwZ0A0
     description: |-
@@ -119,7 +119,7 @@ talks:
 
   - title: 'Lightning: How fast can you rotate an image?'
     lang: en
-    type: Lightning
+    type: lightning
     time: 2019-01-18
     room:
     authors:
