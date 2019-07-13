@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: iOS Conf Singapore 2019
-  status: incomplete
+  status: complete
   series: iosconf.sg
   tags:
     - ios
@@ -18,5 +18,270 @@
     country: Singapore
     city: Singapore
   description: |-
+    18th and 19th January - 2 full days - single-track - conference featuring 20+ pure iOS and Swift programming talks.
 
 talks:
+
+  - title: Journey of iOS Conf SG
+    lang: en
+    type: regular
+    time: 2019-01-18
+    room:
+    authors:
+      - name:
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ZnhISc_sKqM
+    description: |-
+
+  - title: The Art of Designing Code
+    lang: en
+    type: regular
+    time: 2019-01-18
+    room:
+    authors:
+      - name: Mischa Hildebrand
+        twitter: DerHildebrand
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_qKlb7MbeKA
+    description: |-
+      There are many similarities between “designing user interfaces” and “designing code.” Both are a means of communication: A user interface needs to communicate the app’s functionality to the user, code needs to express what it does to other developers. As a consequence, code also needs to be well designed, and developers can learn a lot from designers in that respect. The goal of this talk is to give developers the tools in their hand to write better code that’s easy to read and understand.
+
+  - title: Mastering Multi-screen iOS Apps
+    lang: en
+    type: regular
+    time: 2019-01-18
+    room:
+    authors:
+      - name: Paul Hudson
+        twitter: twostraws
+        github: twostraws
+        website:
+    lides:
+    videos:
+      - https://youtu.be/7P1KucwZ0A0
+    description: |-
+      Since launch, almost all iOS apps were designed for a single screen, but with Marzipan on macOS and USB-C monitors on iPad that's finally about to change. In this talk you'll learn how to build apps that work great across multiple windows, first with a walkthrough of all the theory then a live coding demonstration so you can see exactly what the steps are.
+
+  - title: Building iOS Apps without Xcode
+    lang: en
+    type: regular
+    time: 2019-01-18
+    room:
+    authors:
+      - name: Steven Hepting
+        twitter: stevenhepting
+        github: shepting
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JRsWi8KC2Sw
+    description: |-
+      What do Uber, Facebook, and Airbnb all have in common?They use the Buck build system to manage millions of lines of code, across hundreds of iOS engineers, building many iOS apps.In this talk, Steven will share how Buck can make builds faster (smartly optimizing build hierarchies), consistent (hermetic build descriptions), and efficient (caching everything on the server except what code has changed locally).
+
+  - title: Behind the Scenes with Auto Layout - How to Solve Constraints with the Cassowary Algorithm
+    lang: en
+    type: regular
+    time: 2019-01-18
+    room:
+    authors:
+      - name: Agnes Vasarhelyi
+        twitter: vasarhelyia
+        github: vasarhelyia
+        website:
+    slides:
+    videos:
+      - https://youtu.be/gxfyb3ipUFg
+    description: |-
+      Auto Layout is the most powerful tool on iOS today, to support developers in creating adaptive user interfaces on iOS. The power of this great technology lies in how simple its foundations are. The engineers behind Auto Layout at Apple started to reveal more of the internals of their technology recently, to help us understand its principles better, in order to get the best performance out of our layout code.Let’s look more closely at how the Auto Layout engine solves constraints through exploring the Cassowary algorithm, that’s running under the hood, turning constraints into linear equations, and solving them. By doing the math ourselves, we’ll have a better understanding of what layouts are easier, or more difficult to satisfy. What coding practices can help us achieve best Auto Layout performance.
+
+  - title: Make UITest great again, using localhost
+    lang: en
+    type: regular
+    time: 2019-01-18
+    room:
+    authors:
+      - name: Kenneth Poon
+        twitter:
+        github: depoon
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9JMVszZfFwk
+    description: |-
+      'If I don't have control over my environment dependencies, how can I test all edge cases?'End to end UITests are generally difficult to cover comprehensively. Complement your existing tests with localhost UI Tests. Kenneth Poon will share why and how you should write localhost UITest with just 4 simple steps.
+
+  - title: 'Lightning: How fast can you rotate an image?'
+    lang: en
+    type: Lightning
+    time: 2019-01-18
+    room:
+    authors:
+      - name: Vincent Pradeilles
+        twitter: v_pradeilles
+        github: vincent-pradeilles
+        website:
+      - name: Sasmito Adibowo
+        twitter: SasmitoAdibowo
+        github: Sasmito Adibowo
+        website:
+      - name: Omer Iqbal
+        twitter: olenhad
+        github: omer-iqbal
+        website:
+    slides:
+    videos:
+      - https://youtu.be/EPyoT_p0gQs
+    description: |-
+      Omer is an iOS Engineer at Sea with a passion for using lldb to dig into private frameworks, and proselytising functional programming. These days he’s been writing some media code and has developed a paranoia for data races.
+
+  - title: 'Live Coding: Augmented Reality Game with ARKit'
+    lang: en
+    type: regular
+    time: 2019-01-18
+    room:
+    authors:
+      - name: Christian Grail
+        twitter: cgrail
+        github: cgrail
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Q91z42kTJFM
+    description: |-
+      Christian has developed numerous Augmented and Virtual Reality apps for Enterprise scenarios for example to visualize big data in 3D and make data tangible. In this talk Christian will develop during the talk an Augmented Reality game based on Apples ARKit. The scenario is based in a galaxy far, far away. During the talk he will also describe how Augmented Reality works today and what the current limitations are. He will finish the talk with an outlook of what he expects to happen in the industry in the next years and what we can expect from future Augmented Reality technologies.
+
+  - title: From Problem To Solution
+    lang: en
+    type: regular
+    time: 2019-01-18
+    room:
+    authors:
+      - name: Soroush Khanlou
+        twitter: khanlou
+        github: khanlou
+        website:
+    slides:
+    videos:
+      - https://youtu.be/7tsUU1pOrms
+    description: |-
+      What it is, and what it isn’t. He’ll define a language that we can use to discuss abstraction, and we’ll step through the process of building one. How do we build an abstraction from code that isn’t abstract? What qualities are we looking for in our abstractions? How do we make good code out of bad?
+
+  - title: Pedal to the Metal
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Esteban Torres
+        twitter: esttorhe
+        github: esttorhe
+        website:
+    slides:
+    videos:
+      - https://youtu.be/fP5EGObW-NY
+    description: |-
+      Esteban will share how he and his team has improved the startup time for the iOS SoundCloud app. He will share the dozens of techniques they used and what worked best for them and what did not.Core Clients Engineer @ SoundCloud; working as a liaison between the mobile clients and the backend services the Core Clients team @ SoundCloud helps both sides by developing tools, abstracting implementations and maintaining BFFs to help encapsulate bits of code from the org into smaller and more manageable parts.
+
+  - title: Swift 5’s brand new Result Type
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Daniel Steinberg
+        twitter: dimsumthinking
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ICnZq3MfrMA
+    description: |-
+      One of the first things many programmers add to their Swift projects is a Result type. Up until now it has taken different shapes. New in Swift 5, Swift will include an official Result type. In this talk we’ll look at why you want a Result type, how and when to use it, what map and flatMap bring you for Result, and why you might not need it in the future.Daniel is the author of more than a dozen books including the best selling books A Swift Kickstart and Developing iOS 7 Apps for iPad and iPhone (the official companion book to the popular iTunes U series from Stanford University). He has written apps for the iPhone and the iPad since the SDKs first appeared and has written programs for the Mac all the way back to System 7. Daniel presents iPhone, Cocoa, and Swift training and consults through his company Dim Sum Thinking. When he's not coding or talking about coding for the Mac, the iPhone, and the iPad he's probably cooking or hanging out with friends.
+
+  - title: Make your own code formatter in Swift
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Yasuhiro Inami
+        twitter: inamiy
+        github: inamiy
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_F9KcXSLc_s
+    description: |-
+      Code formatter is one of the most important tool to write a beautiful Swift code. If you are working with the team, 'code consistency' is always a problem, and your team's guideline and code review can probably ease a little. Since Xcode doesn't fully fix our problems, now it's a time to make our own automatic style-rule! In this talk, we will look into how Swift language forms a formal grammar and AST, how it can be parsed, and we will see the power of SwiftSyntax and it's structured editing that everyone can practice.
+
+  - title: Fear not, for the filesystem is with you
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Jeffrey Bergier
+        twitter: jeffburg
+        github: jeffreybergier
+        website:
+    slides:
+    videos:
+      - https://youtu.be/X9wyuht5BLs
+    description: |-
+      iOS Developers are often afraid of the filesystem partly because we’ve been raised in an era of short-lived processes, JSON-driven user interfaces, and always-on cellular data connections. I intend to show that using Foundation API, its easy to use the filesystem to power lightweight view controllers, animated tableview updates, interprocess communication, and syncing without resorting to heavyweight solutions like Core Data and Realm.Jeffrey is an iOS Developer at Mercari in Tokyo. At university he studied industrial design and he was a UX designer for 4 years. He taught himself iOS development during that time. He tries to bring his design background into the design of his apps as well as the structure of his code.
+
+  - title: Lessons From Becoming an SDK Developer
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Oscar Swanros
+        twitter: Swanros
+        github: OscarSwanros
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_g1mqG5tA0s
+    description: |-
+      In this talk, Oscar will share what his experience has been in the transition from being an app developer to become an SDK developer at PSPDFKit: what it has taught him, the challenges he has faced, and how it made him a better engineer. He will outline some simple tips and tricks from the SDK developer perspective that can help any iOS developer, even if they’re not developing an SDK themselves.
+
+  - title: The underestimated power of KeyPaths
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Vincent Pradeilles
+        twitter: v_pradeilles
+        github: vincent-pradeilles
+        website:
+    slides:
+    videos:
+      - https://youtu.be/20k3000Pn4s
+    description: |-
+      Swift 4 introduced KeyPaths, a literal syntax that allow developers to reference a property, in order to evaluate it later. Their addition went quite under the radar, yet they bear a lot of power when it comes to making your code more declarative, like manipulating data with a SQL-like syntax.
+
+  - title: Algebraic Data Types in Swift
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Heng Hong Lee
+        twitter:
+        github: manxhong
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2d6_vOfwnDk
+    description: |-
+
+  
