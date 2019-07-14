@@ -1,7 +1,7 @@
 ﻿conference:
     
-  name: FrontFest 2017
-  status: incomplete
+  name: FrontFest 2018
+  status: complete
   series: frontfest.es
   tags:
     - web
@@ -9,14 +9,146 @@
     -
   link:
     twitter: frontfest
-    videos: https://www.youtube.com/playlist?list=PLV_VSxFnAJKIQiOVUAccpkqXe_9rmVJTZ
-    website: https://2017.frontfest.es/
+    videos: https://www.youtube.com/playlist?list=PLV_VSxFnAJKL7EFErVLnJuRqqhb_7QSNT
+    website: https://2018.frontfest.es/
   date:
-    from: 2017-02-18
-    to: 2017-02-18
+    from: 2018-02-17
+    to: 2018-02-17
   location:
     country: Spain 
     city: Madrid
   description: |-
 
 talks:
+
+  - title: "3 solutions to the same problem: how do they implement React, Vue and Angular reactivity?"
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: 
+    authors:
+      - name: Javier Abadía
+        twitter: javierabadia
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/VyzlZl6LlqM
+    description: |-
+      What is reactivity in a front-end framework? Why should I care? The synchronization between data and view is the central problem solved by all front-end frameworks and the solution that each poses to the same problem is the main characteristic that conditions the form of development, performance, operations not allowed, debugging facilities ... We will go deeply into the guts of the implementation of reactivity in the main frameworks and we will see the practical consequences that derive from it. If you know any of the 3 frameworks, this talk will help you to use it better, and who knows if you will discover that there is another framework that best suits your use case.
+
+  - title: Are we creating the web in the correct way?
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: 
+    authors:
+      - name: Iván Abascal
+        twitter: abalozz
+        github: abalozz
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1CexYcSkFl0
+    description: |-
+      I think it is necessary to stop and think for a moment and ask ourselves this question. Are we really doing it right? The webs increasingly weigh more. The back button of the browser is no longer working. The links are no longer links. And, come now, do I really need all these tools to start creating a website? Can not I throw a few CSS and JS files into a folder and that's it? We will analyze objectively the practices we are following today, and reflect on when it is OK to follow them, and when not. To what extent Bootstrap streamlines work? Is CSS in JS good or bad? Is it necessary to preprocess and minify our code? Do you really need a JavaScript framework? The talk will be a critique of the current panorama of web development. Of course, always from a constructive point of view;)
+
+  - title: Practical testing with JavaScript
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: 
+    authors:
+      - name: Ramón Guijarro
+        twitter: soyguijarro
+        github: soyguijarro
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DCPpDw_HfgI
+    description: |-
+      Today we use JavaScript to build complex web applications with a significant amount of business logic in the browser, so taking testing seriously becomes a necessity. However in the JavaScript world there are an infinity of different tools for this purpose and testing applications in the browser presents some challenges. Mocha, Chai, Jasmine, Ava, Sinon, Karma, Jest ... What are all these tools and what is their relationship? How can we test code that uses browser APIs? How do we test user interfaces? How do we integrate the tests in our project? In this talk we will review the testing of JavaScript web applications to try to answer all these questions and some more.
+
+  - title: Improving as developers
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: 
+    authors:
+      - name: Ramón Guijarro
+        twitter: ladybenko
+        github: belen-albeza
+        website: https://www.belenalbeza.com/
+    slides:
+    videos:
+      - https://youtu.be/DCPpDw_HfgI
+    description: |-
+      The world of the front-end is vertiginous and there are always a thousand and one new things to learn. How can we train and improve as developers without abandoning our family, friends, hobbies, etc.? In this talk we will see some tips for this, and we will question common beliefs and myths in the software development industry.
+
+  - title: Artistic drawing applied to the web layout
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: 
+    authors:
+      - name: Carlos Mañas
+        twitter: oneeyedman
+        github: oneeyedman
+        website:
+    slides:
+    videos:
+      - https://youtu.be/p-XhLT8-nQc
+    description: |-
+      I would like to encourage the hardened modelers to make sketches with paper and pencil before facing a layout job. For these schemes you do not need much (we all know how to draw a square and a line) but I see that my colleagues do not usually have it as an option. The word drawing gives more fear than parallax or ajax , and I would like to change that. The paper and the pencil allow you to make mistakes and correct super fast, and almost without consequences. In addition, when you separate the design structure it is much easier to modularize components and have an overall idea of ​​the elements and how they relate to each other. Apart, these notes are recorded to fire with amazing ease with which then the work goes much more fluid, direct and focused. And the time you save is crazy. The title of the talk is a bit of a joke because in the 5th year of my career (I did Fine Arts) the professor who taught "Art drawing applied to design" did not know how to draw. And I thought it was great because for these notes you do not need to have special knowledge, but to lose the fear of paper. In my instagram account you can see some examples of the notes I take in my day to day.
+
+  - title: The browser is not a fluzo condesador, and you know it ... or not?
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: 
+    authors:
+      - name: Joan León
+        twitter: nucliweb
+        github: nucliweb
+        website:
+      - name: Jorge Barrachina
+        twitter: NTKOG
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/26rEU4G95tA
+    description: |-
+      When we think of someone who dominates a subject, we imagine someone who knows perfectly the environment in which he works. Since we are frontends, do we really know our natural environment, the navigator? Do we know how it works? Knowing how browsers work internally, new features and APIs will help us achieve what is really important, a much more optimized result to improve the user experience. Power without control is useless. Now that we know the tips of the DevTools, it's time to get into the bowels of the browsers ... we have real gems like the Shader Editor for WebGL, the Canvas panel or StackTrace in the Network Panel. What hides chrome://about? What does the Servo engine, Quantum CSS, Quantum DOM or Quantum Render give us?
+
+  - title: "WebGL and shaders: programming light"
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: 
+    authors:
+      - name: Vicente Lucendo
+        twitter: vlucendo
+        github:
+        website: http://vlucendo.com/
+    slides:
+    videos:
+      - https://youtu.be/ddz3l5YyjSk
+    description: |-
+      Talk with an introduction where we will briefly review the requirements to create a 3D scene in the browser, and where we will later program a simple shader that will give a small sample of all the possibilities that this type of programming opens up. What is WebGL? Differences between drawing with the CPU and with the GPU. Essential elements of a scene. What are the shaders and examples of what can be done with them. Vertex shader. Fragment shader. Illuminate an object step by step, with algebra, without the help of Three.js functionality. Change the effect to look like "toon shader", in the style of some Nintendo games. Optionally, if there is time, it could show how to make other artistic effects.
+
+  - title: Mind your manners
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: 
+    authors:
+      - name: Eduardo Sada
+        twitter: aeroalquimia
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/6SenXnVGWD4
+    description: |-
+      «Manners», «popups», «windows», have been with us since the beginning of the web. They were hated in the 90s, and today they are the solution to all our problems. Who has not heard our friend UX say "here we open a modal and that's it"? Have you ever wondered how many ways to create these "manners" and which is the best? I do. Not only have I asked myself but I have also suffered from finding the answer. From UX, accessibility, performance, and orientation (or not) to components. Lower the elbows of the table, remove your finger from your nose, and put that aria-hidden in that div. Mind your manners.
