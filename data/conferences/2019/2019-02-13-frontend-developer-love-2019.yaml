@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: Frontend Developer Love 2019
-  status: incomplete
+  status: complete
   series: frontenddeveloperlove.com
   tags:
     - web
@@ -18,5 +18,238 @@
     country: Netherlands
     city: Amsterdam
   description: |-
+    1000+ Frontend Developers - “This is the most impressive venue I have ever seen” Evan You 2018! Cinema Seats, Creators, All new and Unique Talks, Theatre Setting. Greatest Javascript Conference in the Netherlands Presentations from the World's Frontend Leaders like Creator of Vue - Evan You, Sean Larkin - Webpack Core Team, Rick Hanlon - Jest Core Team, Kyle Mathews the creator of GatsbyJS and more.Looking for new and innovative solutions to your web development issues? Check out what you can learn from this conference: Reactive Angular Animations, Serverless Computing, Automated Scaffolding with Schematics, JavaScript bundlers, Microfrontends
 
 talks:
+
+  - title: Introduction
+    lang: en
+    type: regular
+    time: 2019-02-14
+    room:
+    authors:
+      - name: Chris Visser
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: The future of JavaScript bundlers
+    lang: en
+    type: regular
+    time: 2019-02-14
+    room:
+    authors:
+      - name: Johannes Ewald
+        twitter: jhnnns
+        github: jhnns
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: New Features of Webpack 5
+    lang: en
+    type: regular
+    time: 2019-02-14
+    room:
+    authors:
+      - name: Sean Larkin
+        twitter: TheLarkInn
+        github: TheLarkInn
+        website:
+    lides:
+    videos:
+      - https://youtu.be/J_sDa58UUQo
+    description: |-
+      Sean Larkin - The Road to Webpack 5 Tweet? twitter.com/frontend_love www.frontendlove.com 
+
+  - title: Elegance of Movement with reactive Angular Animations
+    lang: en
+    type: regular
+    time: 2019-02-14
+    room:
+    authors:
+      - name: Elena Gancheva
+        twitter: eagan4eva
+        github: elena-gancheva
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1QxhLZf33XvCEIWvoXAAsdJSWaPHteI0Zb6-PLMmgNh4/edit#slide=id.g4cae059276_0_0
+    videos:
+      - https://youtu.be/cXKnVJ_XPpg
+    description: |-
+      Elena Gancheva - Elegance of Movement With Reactive Angular Animations Github Repo: https://github.com/elena-gancheva/Ele... Stay posted on our latest news, javascript and frontend events and talks for free via: http://eepurl.com/gh6AHP
+
+  - title: You don't know Microfrontends
+    lang: en
+    type: regular
+    time: 2019-02-14
+    room:
+    authors:
+      - name: Luca Mezzalira
+        twitter: lucamezzalira
+        github: Apress/front-end-reactive-architectures
+        website:
+      - name: Max Gallo
+        twitter: _maxgallo
+        github: _maxgallo
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1JXmS-7-w8NX819Fjf4GaSx6wNTuCltRa-hzbyilmzOI/edit?fbclid=IwAR1LcQR8n8_znFMEBqyZaNiQhzV_fWDDEmgZKrhTjf5jyDSoWg9vK-8U340#slide=id.g4baa18d2f7_0_0
+    videos:
+      - https://youtu.be/fl6F-f454to
+    description: |-
+      Luca Mezzalira & Max Gallo   You Don't Know Microfrontends Tweet? twitter.com/frontend_love www.frontendlove.com 
+
+  - title: Angular and Webcomponents
+    lang: en
+    type: regular
+    time: 2019-02-14
+    room:
+    authors:
+      - name: Ana Cidre
+        twitter: anacidre_
+        github: anacidre
+        website:
+      - name: sazimi
+        twitter: sherrrylst
+        github: sazimi
+        website:
+    slides:
+      - https://github.com/sazimi/talks/blob/master/2019/january/front-end-love-web-components.pdf
+    videos:
+      - https://youtu.be/BlQCBNGxygk
+    description: |-
+      Sherry List & Ana Cidre - Web Components with Angular 7th June | NodeConference.nl | Amsterdam Tweet? twitter.com/frontend_love Stay posted on our latest news, javascript and frontend events and talks for free via: 
+
+  - title: Transforming your Web Application into a PWA - Why and How?
+    lang: en
+    type: regular
+    time: 2019-02-14
+    room:
+    authors:
+      - name: Gijs Weterings
+        twitter: gweterings
+        github: GijsWeterings
+        website:
+    slides:
+    videos:
+      - https://youtu.be/BLN8asEcqKs
+    description: |-
+      Gijs Weterings - Transforming your web application into a PWA Tweet? twitter.com/frontend_love Stay posted on our latest news, javascript and frontend events and talks for free via: 
+
+  - title: The Fresh Jest of Bel-Air
+    lang: en
+    type: regular
+    time: 2019-02-15
+    room:
+    authors:
+      - name: Rick Hanlon
+        twitter: rickhanlonii
+        github: rickhanlonii
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OTshapR_vlA
+    description: |-
+      Rick Hanlon - The Fresh Jest of Bel Air Tweet? twitter.com/frontend_love www.frontendlove.com Stay posted on our latest news, javascript and frontend events and talks for free via: 
+
+  - title: Rest, GraphQL & gRPC
+    lang: en
+    type: regular
+    time: 2019-02-15
+    room:
+    authors:
+      - name: David den Toom
+        twitter: Koning_David
+        github: Koning_David
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ZmGyeseXz8M
+    description: |-
+      David Den Toom from Passionate People - Rest, GraphQL & gRPC Tweet? twitter.com/frontend_love Stay posted on our latest news, javascript and frontend events and talks for free via: 
+
+  - title: What is new with Gatsby.js
+    lang: en
+    type: regular
+    time: 2019-02-15
+    room:
+    authors:
+      - name: Kyle Mathews
+        twitter: kylemathews
+        github: KyleAMathews
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-bHkPPL1Tz4
+    description: |-
+      Kyle Mathews - What's Next for Gatsby? Tweet? twitter.com/frontend_love www.frontendlove.com  Stay posted on our latest news, javascript and frontend events and talks for free via: 
+
+  - title: A New Generation of Natively Compiled Tools
+    lang: en
+    type: regular
+    time: 2019-02-15
+    room:
+    authors:
+      - name: Patrick Stapfer
+        twitter: ryyppy
+        github: ryyppy
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: What its like to be a full time open source maintainer
+    lang: en
+    type: regular
+    time: 2019-02-15
+    room:
+    authors:
+      - name: Evan You
+        twitter: youyuxi
+        github: yyx990803
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RyqQElmC69k
+    description: |-
+      Evan You - What It's Like To Be A Full Time Open Source Developer Tweet? twitter.com/frontend_love twitter.com/vuejsamsterdam
+
+  - title: Unlock the Proxy Power (Vue.js)
+    lang: en
+    type: regular
+    time: 2019-02-15
+    room:
+    authors:
+      - name: John Lindquist
+        twitter: johnlindquist
+        github: johnlindquist
+        website:
+    slides:
+      - https://github.com/johnlindquist/unlock-the-proxy-power
+    videos:
+      - https://youtu.be/95haj8RqR5o
+    description: |-
+       John Lindquist - Javascript Proxies Tweet? twitter.com/frontend_love www.frontendlove.com  Stay posted on our latest news, javascript and frontend events and talks for free via: http://eepurl.com/gh6AHP
+
+  - title: Automated Scaffolding with Schematics (Angular)
+    lang: en
+    type: regular
+    time: 2019-02-15
+    room:
+    authors:
+      - name: Natalia Venditto	
+        twitter: AnfibiaCreativa
+        github: anfibiacreativa
+        website:
+    slides:
+    videos:
+      - https://youtu.be/yvr9l-tRA0s
+    description: |-
+      Natalia Venditto - Effective Structure Scaffolding With Angular Schematics Tweet? twitter.com/frontend_love www.frontendlove.com Stay posted on our latest news, javascript and frontend events and talks for free via: http://eepurl.com/gh6AHP
+  
+  
