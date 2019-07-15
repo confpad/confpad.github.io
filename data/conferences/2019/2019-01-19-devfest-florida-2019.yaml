@@ -22,549 +22,264 @@
 
 talks:
  
-  - title: Self-Care for Developers
+  - title: Journey of iOS Conf SG
     lang: en
     type: regular
-    time: 2019-01-19
+    time: 2019-01-18
     room:
     authors:
-      - name: Nitya Narasimhan
-        twitter: nitya
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      A Harry Potter-inspired revision of my ElaConf talk on Self Care. Basic focus is on the developer, not the technology. The simple recognition that technology moves fast, we are all workaholics, and that self-care is critical to being productive and happy. Bottom line: we are humans first, developers second — so let’s prioritize that. This will focus on my own journey in recognizing the need for establishing work boundaries, boosting self-esteem and de-stigmatizing mental health so that we can create more healthy developers and in turn lead to more innovative products & collaborative environments.
-
-  - title: Performance Optimizations for Progressive Web Apps
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Chris Lorenzo
-        twitter: chiefcll
-        github:
-        website:
-    slides:
-    videos:
-      - https://youtu.be/ToJNjRwR6O0
-    description: |-
-      Struggling to get your website to load in less than 5 seconds on a mobile phone? Switching pages are a little sluggish? You’re not alone! Most web developers can build a responsive site, but fail to meet performance requirements for mobile. Using the latest PRPL pattern and Progressive Web API’s, you can provide a compelling alternative to native apps, as long as performance remains your top feature.This talk will cover the architecture for Xfinity xFi, an enterprise PWA for Comcast, built with Google Polymer. We’ll then dive into the Chrome performance tools to optimize xFi loading time down by more than half. You’ll walk away knowing what it takes to create a successful PWA and how to find slow downs in your app startup. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
-
-  - title: Exploring Kotlin Multiplatform
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Ian Thomas
+      - name: Subh
         twitter:
-        github: toxicbakery
+        github:
         website:
     slides:
     videos:
+      - https://youtu.be/ZnhISc_sKqM
+    description: |-
+
+  - title: The Art of Designing Code
+    lang: en
+    type: regular
+    time: 2019-01-18
+    room:
+    authors:
+      - name: Mischa Hildebrand
+        twitter: DerHildebrand
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_qKlb7MbeKA
+    description: |-
+      There are many similarities between “designing user interfaces” and “designing code.” Both are a means of communication: A user interface needs to communicate the app’s functionality to the user, code needs to express what it does to other developers. As a consequence, code also needs to be well designed, and developers can learn a lot from designers in that respect. The goal of this talk is to give developers the tools in their hand to write better code that’s easy to read and understand.
+
+  - title: Mastering Multi-screen iOS Apps
+    lang: en
+    type: regular
+    time: 2019-01-18
+    room:
+    authors:
+      - name: Paul Hudson
+        twitter: twostraws
+        github: twostraws
+        website:
+    slides:
+    videos:
+      - https://youtu.be/7P1KucwZ0A0
     description: |-
       Since launch, almost all iOS apps were designed for a single screen, but with Marzipan on macOS and USB-C monitors on iPad that's finally about to change. In this talk you'll learn how to build apps that work great across multiple windows, first with a walkthrough of all the theory then a live coding demonstration so you can see exactly what the steps are.
 
-  - title: AI Adventures with AutoML
+  - title: Building iOS Apps without Xcode
     lang: en
     type: regular
-    time: 2019-01-19
+    time: 2019-01-18
     room:
     authors:
-      - name: Siva Kumar
-        twitter: ksivamuthu
-        github:
+      - name: Steven Hepting
+        twitter: stevenhepting
+        github: shepting
         website:
     slides:
     videos:
+      - https://youtu.be/JRsWi8KC2Sw
     description: |-
-      Lets take a look at how Cloud AutoML’s technology helps us on building vision models. Cloud AutoML is a suite of machine learning products that enables developers with limited machine learning expertise to train high-quality models specific to their business needs, by leveraging Google’s state-of-the-art transfer learning, and Neural Architecture Search technology. In this session, we are going to take a look: 1. Intro to AutoML 2. How to train custom machine learning models 3. Prediction based on trained machine learning model 4. Demo of AutoML vision.
+      What do Uber, Facebook, and Airbnb all have in common?They use the Buck build system to manage millions of lines of code, across hundreds of iOS engineers, building many iOS apps.In this talk, Steven will share how Buck can make builds faster (smartly optimizing build hierarchies), consistent (hermetic build descriptions), and efficient (caching everything on the server except what code has changed locally).
 
-  - title: Adventures of a Polymath
+  - title: Behind the Scenes with Auto Layout - How to Solve Constraints with the Cassowary Algorithm
     lang: en
     type: regular
-    time: 2019-01-19
+    time: 2019-01-18
     room:
     authors:
-      - name: Christi Kapp
+      - name: Agnes Vasarhelyi
+        twitter: vasarhelyia
+        github: vasarhelyia
+        website:
+    slides:
+    videos:
+      - https://youtu.be/gxfyb3ipUFg
+    description: |-
+      Auto Layout is the most powerful tool on iOS today, to support developers in creating adaptive user interfaces on iOS. The power of this great technology lies in how simple its foundations are. The engineers behind Auto Layout at Apple started to reveal more of the internals of their technology recently, to help us understand its principles better, in order to get the best performance out of our layout code.Let’s look more closely at how the Auto Layout engine solves constraints through exploring the Cassowary algorithm, that’s running under the hood, turning constraints into linear equations, and solving them. By doing the math ourselves, we’ll have a better understanding of what layouts are easier, or more difficult to satisfy. What coding practices can help us achieve best Auto Layout performance.
+
+  - title: Make UITest great again, using localhost
+    lang: en
+    type: regular
+    time: 2019-01-18
+    room:
+    authors:
+      - name: Kenneth Poon
         twitter:
-        github:
+        github: depoon
         website:
     slides:
     videos:
+      - https://youtu.be/9JMVszZfFwk
     description: |-
-      Do you find yourself to be frustrated by the limitations of your technical specialization? Are you constantly wanting to create and solve problems, only to be forced into a tiny box by your employer? Do you constantly feel like you may not fit in with the way others think? You may be a polymath. That’s a good thing because according to Harvard Business Review article by Kyle Weins, “We desperately need people with the ability to see big picture solutions” Learn more about this expansive identity, and get a glimpse of how to be successful in a lifelong technology career, regardless of this industry that forces you to specialize. Learn how to embrace your power of generalization and use it to master and integrate multiple disciplines rather than trying to learn more and more about less and less. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
+      'If I don't have control over my environment dependencies, how can I test all edge cases?'End to end UITests are generally difficult to cover comprehensively. Complement your existing tests with localhost UI Tests. Kenneth Poon will share why and how you should write localhost UITest with just 4 simple steps.
 
-  - title: Enterprise Hybrid Mobile App development
+  - title: 'Lightning: How fast can you rotate an image?'
     lang: en
     type: lightning
+    time: 2019-01-18
+    room:
+    authors:
+      - name: Vincent Pradeilles
+        twitter: v_pradeilles
+        github: vincent-pradeilles
+        website:
+      - name: Sasmito Adibowo
+        twitter: SasmitoAdibowo
+        github: Sasmito Adibowo
+        website:
+      - name: Omer Iqbal
+        twitter: olenhad
+        github: omer-iqbal
+        website:
+    slides:
+    videos:
+      - https://youtu.be/EPyoT_p0gQs
+    description: |-
+      Omer is an iOS Engineer at Sea with a passion for using lldb to dig into private frameworks, and proselytising functional programming. These days he’s been writing some media code and has developed a paranoia for data races.
+
+  - title: 'Live Coding: Augmented Reality Game with ARKit'
+    lang: en
+    type: regular
+    time: 2019-01-18
+    room:
+    authors:
+      - name: Christian Grail
+        twitter: cgrail
+        github: cgrail
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Q91z42kTJFM
+    description: |-
+      Christian has developed numerous Augmented and Virtual Reality apps for Enterprise scenarios for example to visualize big data in 3D and make data tangible. In this talk Christian will develop during the talk an Augmented Reality game based on Apples ARKit. The scenario is based in a galaxy far, far away. During the talk he will also describe how Augmented Reality works today and what the current limitations are. He will finish the talk with an outlook of what he expects to happen in the industry in the next years and what we can expect from future Augmented Reality technologies.
+
+  - title: From Problem To Solution
+    lang: en
+    type: regular
+    time: 2019-01-18
+    room:
+    authors:
+      - name: Soroush Khanlou
+        twitter: khanlou
+        github: khanlou
+        website:
+    slides:
+    videos:
+      - https://youtu.be/7tsUU1pOrms
+    description: |-
+      What it is, and what it isn’t. He’ll define a language that we can use to discuss abstraction, and we’ll step through the process of building one. How do we build an abstraction from code that isn’t abstract? What qualities are we looking for in our abstractions? How do we make good code out of bad?
+
+  - title: Pedal to the Metal
+    lang: en
+    type: regular
     time: 2019-01-19
     room:
     authors:
-      - name: Mary Grygleski
-        twitter: mgrygles
+      - name: Esteban Torres
+        twitter: esttorhe
+        github: esttorhe
+        website:
+    slides:
+    videos:
+      - https://youtu.be/fP5EGObW-NY
+    description: |-
+      Esteban will share how he and his team has improved the startup time for the iOS SoundCloud app. He will share the dozens of techniques they used and what worked best for them and what did not.Core Clients Engineer @ SoundCloud; working as a liaison between the mobile clients and the backend services the Core Clients team @ SoundCloud helps both sides by developing tools, abstracting implementations and maintaining BFFs to help encapsulate bits of code from the org into smaller and more manageable parts.
+
+  - title: Swift 5’s brand new Result Type
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Daniel Steinberg
+        twitter: dimsumthinking
         github:
         website:
     slides:
     videos:
+      - https://youtu.be/ICnZq3MfrMA
     description: |-
-      This session shows how to develop and run native mobile apps without needing to know much about the native platforms, such as Android and iOS, by leveraging a hybrid development framework such as Ionic, which is built on top of Apache Cordova and is capable of transforming an ordinary web app into a mobile app. The presentation discusses a real-life enterprise-level Android and iOS mobile app developed under pressure for a wireless service provider. It covers some of the technical details of the app as well as how to perform device-level debugging of the Android app, using adb. You’ll get practical tips on what to watch out for, and an understanding of the differences of the hybrid approach versus other frameworks such as React Native and Kotlin/Native.
+      One of the first things many programmers add to their Swift projects is a Result type. Up until now it has taken different shapes. New in Swift 5, Swift will include an official Result type. In this talk we’ll look at why you want a Result type, how and when to use it, what map and flatMap bring you for Result, and why you might not need it in the future.Daniel is the author of more than a dozen books including the best selling books A Swift Kickstart and Developing iOS 7 Apps for iPad and iPhone (the official companion book to the popular iTunes U series from Stanford University). He has written apps for the iPhone and the iPad since the SDKs first appeared and has written programs for the Mac all the way back to System 7. Daniel presents iPhone, Cocoa, and Swift training and consults through his company Dim Sum Thinking. When he's not coding or talking about coding for the Mac, the iPhone, and the iPad he's probably cooking or hanging out with friends.
 
-  - title: IoT + DevOps
+  - title: Make your own code formatter in Swift
     lang: en
     type: regular
     time: 2019-01-19
     room:
     authors:
-      - name: Jared Porcenaluk
-        twitter: jporcenaluk
-        github:
+      - name: Yasuhiro Inami
+        twitter: inamiy
+        github: inamiy
         website:
     slides:
     videos:
+      - https://youtu.be/_F9KcXSLc_s
     description: |-
-      Deploying to a server or the cloud is difficult enough. What about when there are hundreds or thousands of devices, spread across the globe, with limited connectivity and no one around to reset them? When it comes to the Internet of Things, having an understanding of the people, processes, and tools it takes to provision and update devices is a key part of success.
-      
-  - title: React Native Up and Running
+      Code formatter is one of the most important tool to write a beautiful Swift code. If you are working with the team, 'code consistency' is always a problem, and your team's guideline and code review can probably ease a little. Since Xcode doesn't fully fix our problems, now it's a time to make our own automatic style-rule! In this talk, we will look into how Swift language forms a formal grammar and AST, how it can be parsed, and we will see the power of SwiftSyntax and it's structured editing that everyone can practice.
+
+  - title: Fear not, for the filesystem is with you
     lang: en
     type: regular
     time: 2019-01-19
     room:
     authors:
-      - name: Betty Pierce
-        twitter: UIBusyBetty
-        github:
+      - name: Jeffrey Bergier
+        twitter: jeffburg
+        github: jeffreybergier
         website:
     slides:
     videos:
-      - https://youtu.be/qyYzFz3-9hM
+      - https://youtu.be/X9wyuht5BLs
     description: |-
-      Learn about React Native and why it is so popular. What kind of software and tech stack do you need to get started and how to work within a bleeding edge platform. - History of React Native & Current Support/Release Cycle - CLI for iOS, Android and Windows - React Native UI design, Router and Forms - Tools, Popular Plug-ins and Resources - Windows App Center - deployments testing and analytics made easy Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
+      iOS Developers are often afraid of the filesystem partly because we’ve been raised in an era of short-lived processes, JSON-driven user interfaces, and always-on cellular data connections. I intend to show that using Foundation API, its easy to use the filesystem to power lightweight view controllers, animated tableview updates, interprocess communication, and syncing without resorting to heavyweight solutions like Core Data and Realm.Jeffrey is an iOS Developer at Mercari in Tokyo. At university he studied industrial design and he was a UX designer for 4 years. He taught himself iOS development during that time. He tries to bring his design background into the design of his apps as well as the structure of his code.
 
-  - title: Simple MVI Architecture for Android
+  - title: Lessons From Becoming an SDK Developer
     lang: en
     type: regular
     time: 2019-01-19
     room:
     authors:
-      - name: Etienne Caron
-        twitter: kanawish
-        github: kanawish
+      - name: Oscar Swanros
+        twitter: Swanros
+        github: OscarSwanros
         website:
     slides:
     videos:
+      - https://youtu.be/_g1mqG5tA0s
     description: |-
-      An introduction to the Model View Intent architecture pattern. This pattern takes ideas and concepts from Reactive and Functional programming. We'll go over the core principles of this pattern, and how you can apply them in your Android applications. We'll look at concrete implementation details, and explore some of its benefits. Some familiarity with Kotlin and RxJava is assumed.
+      In this talk, Oscar will share what his experience has been in the transition from being an app developer to become an SDK developer at PSPDFKit: what it has taught him, the challenges he has faced, and how it made him a better engineer. He will outline some simple tips and tricks from the SDK developer perspective that can help any iOS developer, even if they’re not developing an SDK themselves.
 
-  - title: 'Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays'
+  - title: The underestimated power of KeyPaths
     lang: en
     type: regular
     time: 2019-01-19
     room:
     authors:
-      - name: Aygul Zagidullina
-        twitter: aygul
-        github:
+      - name: Vincent Pradeilles
+        twitter: v_pradeilles
+        github: vincent-pradeilles
         website:
     slides:
     videos:
+      - https://youtu.be/20k3000Pn4s
     description: |-
-      In an ever-expanding world of devices for the Google Assistant (smart speaker, smartphone, tablet, smartwatch, earphones, smart TV, car, smart display, and the list goes on and on), developers face today completely new challenges in creating effective and consistent experiences for users. In this talk, we’ll take a closer look at our user’s daily journey as they’re moving from one device to another and cover some key considerations for designing Actions on Google across surfaces - with useful tips to understand when and how to leverage visuals alongside voice interactions, to create rich, delightful conversational experiences for smart displays and more.
+      Swift 4 introduced KeyPaths, a literal syntax that allow developers to reference a property, in order to evaluate it later. Their addition went quite under the radar, yet they bear a lot of power when it comes to making your code more declarative, like manipulating data with a SQL-like syntax.
 
-  - title: Nailing the Tech Interview
+  - title: Algebraic Data Types in Swift
     lang: en
     type: regular
     time: 2019-01-19
     room:
     authors:
-      - name: Eva Sofianos
-        twitter: evasofianos
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      How to overcome the challenges of the technical interview, and impress your potential employer. This talk will include tips and tricks from the initial screening phase through the in person interview and the post-interview follow up.
-
-  - title: All About Apps Script
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Grant Timmerman
-        twitter: granttimmerman
-        github: granttimmerman
-        website:
-    slides:
-    videos:
-      - https://youtu.be/dpYHPzQF1qI
-    description: |-
-      Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with Apps Script, a JavaScript platform in Google Cloud. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
-
-  - title: Smooth Criminals, Android animations and how not to get robbed.
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Stacy Devino
-        twitter: Doesitpew
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      "How did they do that?!!!" How many times have you been just stunned, STUNNED by the work you see others do in a fully native app? Smooth, layered animations for every transition that work on even $20 phones? Its not magic and it may not be as difficult or as “mathy” as you might think. “Wow” effects that impress and delight! We will be covering how to use multiple ways to accomplish a standard set of animations and much slicker more complicated ones using native and external libraries.From the native side we will cover topics like using animation xml definitions, Material Design AppCompat included tools, moving through Animation Properties, Listeners, View Animators, Animation Sets, even AnimatedVectroDrawables, Morphs, and libraries like Lottie.
-
-  - title: 'A Year in XR: Advancements of Virtual, Augmented and Mixed Reality'
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Matt Fedorovich
-        twitter: MattFedorovich
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      Another year has come and gone. The valuation of XR in the industry has almost doubled. The companies that specialize or invest in XR have doubled. With all this growth comes great advancements in the space. Some you may know, others you may not.In this talk we will go over where we have been, where we are now and where we will be going. We will also take a deeper dive into the technology, hardware, software and some of the use cases that are driving our industry forward.
-
-  - title: Debugging, Profiling, & Rocking Out with Browser-Based Developer Tools!
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Mike Herchel
-        twitter: mikeherchel
-        github:
-        website:
-    slides:
-    videos:
-       - https://youtu.be/9JGQQd2v0iY
-    description: |-
-      Browser based developer tools have become an indispensable tool for modern front-end web development. New features and changes are being added at a rapid pace, and keeping up with all of the changes is difficult, but well worth it! In this presentation, I’ll walk the attendees through the tricks of the trade of Chrome developer tools, including walk throughs of common problems and how to solve them.
-
-  - title: Finding Your Way Through the Navigation Framework
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Jerrell Mardis
-        twitter: jerrellmardis
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      In this talk we'll take a deep look at the Navigation Architecture Component that was announced at Google I/O 2018. We'll cover the basic usage of the component, why it's important to consider when starting a new application and experiment with its features through live demos.
-
-  - title: Jumping into Jupyter Notebooks
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Joey deVilla
-        twitter: accordionguy
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      Jupyter notebooks are data science’s favorite new tools, as they combine two things that we typically think of as separate:A human-readable part made of text, images, and even video, all of which combine to form the introduction, write-up, and summary that you’d expect to find in a paper or report, and An executable part made of code, which provides interactivity, performs calculations and analysis, and can generate live visualizations. It allows readers to explore the data, ask “what if?” questions, and see the results.Jupyter notebooks are tools for people who work with data to collaborate. IBM uses them to “distill data into insights”, Netflix uses them to scale up their ability to work with their copious amounts of data, and you can use them to craft reports that completely show your work — the data you collected, the code you use to process it, along with your writeup of your findings and reasoning.In this talk, I’ll walk you through the process of creating your first notebook, and using it to write your first data analysis report, complete with an executable part that performs the analysis, and a human-readable part that contains your conclusions. If you want to get into data science, Jupyter notebooks will be a key part of your toolkit, and this talk is your opportunity to get started!
-
-  - title: Debugging Your Node.js Apps
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: John Papa
-        twitter: John_Papa
-        github: johnpapa
-        website:
-    slides:
-    videos:
-      - https://youtu.be/avuzh747JRE
-    description: |-
-      Are you still console-logging all of your Node.js code? Would you like to learn to debug with zero configuration? How about debugging docker? Or logging messages without changing your code with console.log? Would you like an easier way to pair when you just need a second set of eyes to debug your app? Join me and learn how easy it can be to find and squash those bugs in your code! Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
-
-  - title: Introduction to Flutter
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Faisal Abid
-        twitter: FaisalAbid
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      From the writer of Flutter for Android developers on Flutter.io comes Introduction to Flutter!Flutter is one of the most talked about technologies this year. Flutter is Google’s mobile UI framework for crafting high-quality native interfaces on iOS and Android in record time.Learn how to design, develop and deploy Flutter apps in this talk!
-
-  - title: So you can build an Action. Now what?
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Allen Firstenberg
-        twitter: afirstenberg
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      You've made your first action! Probably a great quiz game or a simple information action. But now what? How can you get information from another API, such as Google Maps or Cloud, or even outside Google? How do you know who your users are to permit them to only what they're allowed to see? Get ready to bring your Action writing skills to the next level!
-
-  - title: Composing Accessible UI's With Angular Material Components
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Michael Prentice
-        twitter: splaktar
-        github: Splaktar
-        website:
-    slides:
-    videos:
-      - https://youtu.be/OU6z3IKmyNI
-    description: |-
-      Angular Material provides core components and a Component Dev Kit. However, it's up to developers to integrate the various core components when creating an application. The docs are focused on individual components (behaviors, APIs, etc). In this talk, we'll dig deep into the code with concrete, real-world examples of how to compose a quality, accessible user experience with Angular Material. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
-
-  - title: Security & Pie
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Connor Tumbleson
-        twitter: iBotPeaches
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      Every release of Android steps up the security and Android 9 (Pie) is no exception. We will take a look into the evolution of security features and changes and how that affects developers/tinkers of the Android ecosystem.
-
-  - title: End-2-End Machine Learning on GCP
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Vikram Tiwari
-        twitter: Vikram_Tiwari
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      Machine learning is hard, but setting up pipelines around ML shouldn't be. We will go through build a ML model on local, deploying it to Google Cloud ML engine and then use the exposed APIs to get predictions.
-
-  - title: Serverless Angular, Material, Firebase and Google Cloud applications
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Loiane Groner
-        twitter: loiane
-        github:
-        website:
-    slides:
-    videos:
-      - https://youtu.be/reBpWSV7Vko
-    description: |-
-      In this talk we'll learn how to use all the power of Google stack technologies (Angular, Material, Firebase and Google Cloud) to develop a full stack application. We'll learn how we can empower a serverless Angular + Material application with Firebase and reactive programming by using realtime database, Firestore, authentication (with different providers) and Firebase hosting. And we if need any other functionality, we can use Cloud Functions or a NodeJS app. This talk will demonstrate the overview of a real world application (40k users), along with CI configuration and some details of the code (the good parts!). Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
-
-  - title: Want a Slice?
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Kaan Mamikoglu
-        twitter: kaanmamikoglu
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      With the announcement of Android Slices, you can now provide rich, dynamic and interactive content to your users even outside your app! Slices allow you to build content to be displayed in the Google Search app and later in other places like the Google Assistant. Slices can help users perform tasks faster by enabling engagement outside of the fullscreen app experience. In this session, we’ll explore how Slices can help you provide a better experience for your users and see how it’s implemented.
-
-  - title: 'Not all data is created equal: NoSQL'
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Santosh Hari
-        twitter: _s_hari
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      This talk is an Intro to NoSQL and an impassioned argument on why you should never host your own NoSQL instance. Do you work on MySQL, SQL Server, Postgres (or other RDBMS) full time? Have you ever wanted to dip your toes into the NoSQL world? Ever wonder about the hype surrounding NoSQL? What is the difference between MongoDB, Redis, Neo4j, and Cassandra? Get a gentle intro to the NoSQL world and more importantly, when to use it and when not to use it. More important, we will discuss decision metrics for picking a cloud-based NoSQL solution that is right for you; between major cloud providers like Google (Datastore), Amazon (DynamoDB), and Microsoft (Azure CosmosDB). We'll have a spirited discussion on why cloud based/managed NoSQL hosting will help you avoid becoming a news story for the wrong reasons.
-
-Speakers
-
-  - title: Shifting to Vue
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Michele Cynowicz
-        twitter: michelecynowicz
-        github:
-        website:
-    slides:
-    videos:
-      - https://youtu.be/AWQTbb6rmwI
-    description: |-
-      In the world of software engineering, there are those of us who work daily on iterating-over, and improving, a single legacy application.You might be interested in moving your UI toward a modern reactive framework; but how do you leverage this on an older system without dumping your original product entirely and starting over from scratch?I've recently done this very thing - adding a VueJS front-end as the new face of an old Rails App, shifting the UI in piecemeal while supporting both old and new architecture with VueJS components.
-
-  - title: 'Flutter: Mobile Development for Busy People'
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Seattle, WA
-        twitter: bouncingsheep
-        github: efortuna
-        website:
-      - name: Lara Martin
-        twitter: lariki
-        github: laramartin
-        website:
-    slides:
-    videos:
-    description: |-
-      All too often, mobile development is not for the casual developer. Creating an app that works well on iOS and Android can be a time-consuming process, requiring separate teams of programmers for each target platform with different frameworks, languages, and programming tools. This is made worse by the trend toward highly customized user interfaces. Fortunately, Flutter is an SDK that puts the power to create beautiful, customized, cross-platform mobile apps back in the hands of every developer. In this session we will live-code a mobile app on stage to highlight how easy and fast it is to develop with Flutter, while showing off the latest new features. Flutter allows programmers and designers to experiment and play with their app’s user interface; new features can be added quickly and tested immediately; and the resulting app runs at 60 fps on both iOS and Android, while keeping the look and feel for each platform.
-
-  - title: Focus on your code, not infrastructure, with Cloud Functions
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Martin Omander
-        twitter: martinomander
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      When you build a backend to a web app or mobile app, you want to focus on your business logic, not on your infrastructure. At the same time, you want the infrastructure to always be there for you, ready to run your code. Google Cloud Functions does that for you. In this talk, we will follow the story of the fictional startup "In Jest", publishers of an app that tells jokes. At first, the developers at "In Jest" need to get a minimum viable product up and running in an hour. As their business grows they will have to integrate with Google Sheets, SQL databases, analytics systems, marketing systems and so on. We will see the code used to make this happen, without having to worry the team about servers and data centers.
-
-  - title: Intro to Progressive Web Apps
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Kyle Paul
-        twitter: _kylepaul
-        github:
-        website:
-    slides:
-    videos:
-      - https://youtu.be/UcbEU7lutfg
-    description: |-
-      As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) are experiences that combine the best of the web and the best of mobile apps using new web standards, including service workers, push notifications, and homescreen access. In this session, you’ll learn the the fundamentals needed for building Progressive Web Apps, including the app shell model, how to use service workers to cache the App Shell and your key application data and more! Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
-
-  - title: The Joy of Missing Out and the Freedom of Disconnecting
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Luxi Chen
+      - name: Heng Hong Lee
         twitter:
-        github:
+        github: manxhong
         website:
     slides:
     videos:
+      - https://youtu.be/2d6_vOfwnDk
     description: |-
-      A behind-the-scenes look at how our research has informed Google's Digital Wellbeing initiative, and some of the team's future directions.
-
-  - title: 'AutoML: No Code No Problem'
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Dan Baran
-        twitter: defragger
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      AutoML is one of the newest products from Google making it super simple for anyone without machine learning or coding knowledge to build powerful machine learning model. Come learn about AutoML how to use and tips and tricks for AutoML.
-
-  - title: Dispatches from React Native
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Elizabeth Tiller
-        twitter: LizTiller
-        github: lizthrilla
-        website:
-    slides:
-    videos:
-      - https://youtu.be/uby9R_cdGE0
-    description: |-
-      React Native is advertised as a framework for developing native apps with javascript. Roughly 90% of the time, my team is able to work strictly in javascript, with only occassional trips into native code. In particular, my team has found our Android build to require more care than its iOS counterpart. This talk will look at the ways in which we have learned, sometimes the hard way, how to develop a react native app for Android, as well as my experience as a javascript developer being thrust into the native world. In particular, I will discuss our use of the react native device detection package to work through our Android style audits and ways we have worked around react native's shortcomings. Find the latest information about speakers, agenda, and other exciting news at 
-
-  - title: DIY Dependency Injection with Kotlin
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Sam Edwards
-        twitter: HandstandSam
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      Dependency Injection seems like this SUPER complex topic that only the most senior developers understand. At the end of the day, it’s just “inversion of control” where instances of objects/classes are provided to you, instead of created by you. Kotlin’s language features allow us to do this concisely, without a library, and in this talk I’ll show you how to DO IT YOURSELF. This talk will demystify dependency injection and help you understand the huge benefits it provides for testing, maintainability and modularity.
-  
-  - title: Making Your Android Things Devices Smarter
-    lang: en
-    type: regular
-    time: 2019-01-19
-    room:
-    authors:
-      - name: Paul Trebilcox-Ruiz
-        twitter: hPaulTR88
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      With the advancements in machine learning and cloud services, developers can easily make devices that go the extra mile in providing a great experience for users. Come learn how you can make your Android Things devices conversational, respond to user’s voice requests, recognize images and gain the full support of cloud services to perform complex operations in the connected world. This presentation will leverage real ‘smart’ device projects to introduce you to what’s available with Android and Google, and provide you with a launching point for building your own smart devices.
-
-
-
-
-      
-    
