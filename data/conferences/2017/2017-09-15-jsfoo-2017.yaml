@@ -22,13 +22,13 @@
 
 talks:
   
-  - title: Demystifying Web Components as the Weapon for Web
+  - title:  Demystifying Web Components as the Weapon for Web
     lang: en
     type: regular
     time: 2017-09-15
     room:
     authors:
-      - name: Rahat Khanna
+      - name:  Rahat Khanna
         twitter: mappmechanic
         github: mappmechanic
         website:
@@ -38,7 +38,7 @@ talks:
     description: |- 
       The web is evolving at light speed and all the web applications are trying to catch up. It has become very difficult for a new developer or even an existing developer to decide which Framework or Tool to choose for his next project. Angular, React, Ember, Vue are few of the myriad of options available, and some time evaluating few of these for the best fit is unending.All the browsers have come to a stage where they are almost implementing most of the new Web Standards and now developers do not need to invest much time in Browser Compatibility. Although all the front end frameworks like React, Angular, Vue & Ember have different core architectures but they are converging on a common principle design pattern i.e. Component Driven architecture. Web Components with the customElements v1 API released on most popular browsers are the solution to take standardisation of the web to the next level.
 
-  - title: Building a PWA using Polymer
+  - title:  Building a PWA using Polymer
     lang: en
     type: regular
     time: 2017-09-15
@@ -86,7 +86,7 @@ talks:
     description: |-
       We’re living the halcyon days of tiny computers and JavaScript, but MIDI is a technology that’s been around for much longer. In this talk we’ll explore why it’s implementation and prevalence in hardware makes for a uniquely intriguing and accessible platform for creative coding.
 
-  - title: Safety not Guaranteed
+  - title:  Safety not Guaranteed
     lang: en
     type: regular
     time: 2017-09-15
@@ -127,7 +127,7 @@ talks:
       - https://youtu.be/JVBrZmm7mgk
     description: |-
 
-  - title: Demand Driven Applications with GraphQL by Vinci Rufus
+  - title:  Demand Driven Applications with GraphQL by Vinci Rufus
     lang: en
     type: regular
     time: 2017-09-15
@@ -175,7 +175,7 @@ talks:
     description: |-
       You’re probably doing something wrong if you write JavaScript for a living in 2017 and haven’t yet tried TypeScript. Whether you’re writing a back-end, front-end or a mobile app — and whether you’re using jQuery, React, Angular, Vue or your favourite framework-du-jour — TypeScript can significantly improve your development experience with its incredible tooling and refactoring support that can help you catch bugs as you type and bring sanity to managing large codebases.In this session, I’ll take you through the amazing world of TypeScript’s language features and its rich out-of-the-box IDE affordances such as cross-referencing and auto-completion, experiences that developers working with traditional statically-typed languages take for granted. I’ll also show you how all the latest ES2015/16/17 features are natively available in TypeScript with a greatly simplified configuration compared to Babel’s and how you can take advantage of static typing to auto-generate a nice documentation for your project.
 
-  - title: And The Reason Is You
+  - title:  And The Reason Is You
     lang: en
     type: regular
     time: 2017-09-16
@@ -220,6 +220,7 @@ talks:
     slides:
     videos:
     description: |-
+      JavaScript is single threaded, and your functions often needs to be run as soon as possible, but at the same time, you don’t want it to get in the user’s way.For example, you send analytics data when the user is scrolling the page, or you append elements to the DOM while they happen to be tapping on the button, your web page / app can become unresponsive, resulting in a poor user experience.With requestIdleCallback, requestAnimationFrame and a scheduler, we wil see how to schedule or put less priority/non-essential tasks in queue, and execute them without getting in the user’s way.We will also see, how to priotize tasks so that user does not feel the lag.
 
   - title: 'Framework wars: choosing Vue.js'
     lang: en
@@ -232,10 +233,11 @@ talks:
         github: znck
         website:
     slides:
+      - https://www.icloud.com/keynote/0A_6vPUhG253TeikT0euyhmjQ#JSFoo17_-_Choosing_Vue
     videos:
       - https://youtu.be/ynZ3mCe4ZAA
     description: |-
-      Rahul Kadyan on why you should use Vue.js. Sapna Upreti on the features and strengths of Meteor.
+      This talk aims to share state of vue.js ecosystem. With stories from industry, it would be focused on why people picked vue.js over others.
 
   - title: 'Framework Wars: Reactive web applications using Meteor'
     lang: en
@@ -248,10 +250,11 @@ talks:
         github: sapna92
         website:
     slides:
+      - https://docs.google.com/presentation/d/1mLTXkUr0MkhvdN1WBUFhPiMBxH2ZZxbqD36Vr-z8JyU/edit?usp=sharing
     videos:
       - https://youtu.be/ynZ3mCe4ZAA
     description: |-
-      Rahul Kadyan on why you should use Vue.js. Sapna Upreti on the features and strengths of Meteor.
+      Meteor is a type of full stack realtime JavaScript framework for web development. It’s free and open-source and a tidy package that makes web development easy.There is a concept of reactivity in Meteor which states that whenever there is a change in data source the clients connected to the Meteor server gets updated automatically without refresh.If you need very fast development of your applications then Meteor can be your first choice.
 
   - title: 'Framework wars: Great Developer Experience with Angular'
     lang: en
@@ -267,9 +270,9 @@ talks:
     videos:
       - https://youtu.be/ynZ3mCe4ZAA
     description: |-
-      Rahul Kadyan on why you should use Vue.js. Sapna Upreti on the features and strengths of Meteor.
+      Once you’ve got past your apprehension of TypeScript, working with Angular can be a real joy. I’d say the Angular eco-system offers the best developer experience (DX) than any other framework or toolset out there.
 
-  - title: Scaling NodeJS
+  - title:  Scaling NodeJS
     lang: en
     type: regular
     time: 2017-09-16
@@ -285,7 +288,7 @@ talks:
     description: |-
       My journey with Node started over 3 years ago, and I presented my initial learnings about running Node in production at JSFoo 2014. We have been using Node as our primary web serving layer since then, adding more features, more properties and most importantly, more traffic onto it. This led to the discovery of a lot of bottlenecks and a lot of late-night load tests. In this talk, I’ll be focusing on scaling a Node based web server and what kind of issues we have run into. This will include different approaches to attacking this problem like horizontal and vertical scaling. I will be taking you through the variety of resource bottlenecks you can expect to run into, like network, memory, disk and cpu. I’ll touch upon how to find these bottlenecks and what technologies you can use to solve them.
 
-  - title: Modular-services in a Nodejs Monolith
+  - title:  Modular-services in a Nodejs Monolith
     lang: en
     type: regular
     time: 2017-09-16
@@ -301,4 +304,5 @@ talks:
     description: |-
       Microservices are described as services with a few hundred lines of code. Big organizations run such micro services in 100’s and are often looked up to by engineers in startups/smaller companies, too eager to join that league. However the hard reality is that only a few startups will survive to scale and need micro services. Busting the hype, the experts are suggesting smaller companies to adopt writing modular code instead of microservices code. How do you write modular code in NodeJs and why are they better than microservices?
 
+  
   
