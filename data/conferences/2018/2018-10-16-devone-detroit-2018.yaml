@@ -1,7 +1,7 @@
 ﻿conference:
 
   name: DevOne Detroit 2018
-  status: incomplete
+  status: complete
   series: devone.us
   tags:
     - devops
@@ -18,5 +18,205 @@
     country: United States
     city: Detroit
   description: |-
+    "The cloud, the final frontier. These are the voyages of the conference DevOne. Its one-day mission: To explore the hottest topics of DevOps, to seek out new challenges in Software development, to boldly go where no human has continuously integrated before."
 
 talks:
+
+  - title: Our DevOps journey – Microsoft’s internal transformation story
+    lang: en
+    type: regular
+    time: 2018-10-16
+    room: Tabakfabrik Linz
+    authors:
+      - name: Donovan Brown
+        twitter: DonovanBrown
+        github: DarqueWarrior
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cbFzojQOjyA
+    description: |-
+      Hear how Microsoft embarked on their own DevOps journey reducing a three-year release cycle down to three weeks. This required changes to their people, process and products. Donovan Brown from the League of Extraordinary Cloud DevOps Advocates will share insights into the agile transformation of Microsoft's Developer Division and showcase newest additions to Azure and how to use Visual Studio Team Services to deploy any language on any platform, including Windows, Linux, mobile and containers.
+
+  - title: Making Security an integrated part of the SW Dev Lifecycle
+    lang: en
+    type: regular
+    time: 2018-10-16
+    room: Tabakfabrik Linz
+    authors:
+      - name: Siren Hofvander
+        twitter: SecurityPony
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/8NzkYsY7TOk
+    description: |-
+      SDLC - How we can improve security in our development by making it an integrated part of the development process. Today we use a large variety of tools for improving our development experience and process. We have unit tests to make sure our code performs like we intend. Code reviews for sharing knowledge and catching bugs. We use automated deployment to ensure that what we build is what we deliver, and we can package this with containers. With all these things in our pipelines, we have a strong foundation for adding security to our development process without having to radically restructure how we work.
+
+  - title: Building a high quality product
+    lang: en
+    type: regular
+    time: 2018-10-16
+    room: Tabakfabrik Linz
+    authors:
+      - name: Finn Lorbeer
+        twitter: finnlorbeer
+        github: FinnVonFriesland
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DDJemeyPaCM
+    description: |-
+      "Agile software delivery teams have to apply other methods than only testing to ensure the fast and robust delivery of an overall high quality product. Additionally, these methods need to be applied in the (changing) context of our work. This includes understanding the business value as much as the system architecture of the product. Once the environment is understood the team can apply methodologies like continuous integration/deployments to ensure a quick delivery of a robust product. As a result, on the one side the classic QA role is stretched far beyond managing tests and releases while on the other side entire software development teams need to step up, too. Finn argues that we need to embrace this change. Once we understand to view the big picture in software development teams, we can level up and focus on our core value: driving a quality culture."
+
+  - title: Reactive Spring
+    lang: en
+    type: regular
+    time: 2018-10-16
+    room: Tabakfabrik Linz
+    authors:
+      - name: Jürgen Höller
+        twitter: springjuergen
+        github: jhoeller
+        website:
+      - name: Josh Long
+        twitter: starbuxman
+        github: joshlong
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Gc1x65tZWG4
+    description: |-
+      Spring Framework 5 is here, along with Spring Security 5, Spring Data Kay and Spring Boot 2! One of the most exciting introductions in this generation of Spring is reactive programming, building on Project Reactor to support message-driven, elastic, resilient and responsive services. The new Spring WebFlux framework integrates an MVC-like component model for reactive processing as well as functional reactive endpoints. We'll look at the new Netty-based WebFlux runtime and also discuss the use of reactive programming patterns with existing technologies such as Spring MVC.
+
+  - title: Electricity Comes from the Socket and IT Comes from the Cloud
+    lang: en
+    type: regular
+    time: 2018-10-16
+    room: Tabakfabrik Linz
+    authors:
+      - name: Rainer Stropek
+        twitter: rstropek
+        github: rstropek
+        website:
+    slides:
+      - https://github.com/rstropek/Samples/blob/master/AzureFunctions/DevOne-Serverless.pptx
+    videos:
+      - https://youtu.be/O3-UW1Uk8Fc
+    description: |-
+      "“Serverless” and “Platform as a Service” (PaaS) are buzzwords being currently on everyone’s lips. But they also cause headache: How doing an internet without servers? Who is responsible for the IT infrastructure? Can we dare to go this way or are we at mercy of Microsoft, Amazon, Google and Co. with neck and crop? Rainer Stropek tries to give answers to these questions. He shows with live demos the state of the art in Serverless Computing with Microsoft Azure and how these products and concepts are used in modern application architectures. Rainer will also show us the reality behind the curtain und tell how the processes and tools at Microsoft look like. So maybe at the end we, as a developer team, need not care of servers anymore?"
+
+  - title: Google - Load-shedding
+    lang: en
+    type: regular
+    time: 2018-10-16
+    room: Tabakfabrik Linz
+    authors:
+      - name: Acacio Cruz
+        twitter: acaciocruz
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/XNEIkivvaV4
+    description: |-
+      Overview of principles and load-shedding mechanisms in large-scale services and how they impact service management.
+
+  - title: Serverless by Design
+    lang: en
+    type: regular
+    time: 2018-10-16
+    room: Tabakfabrik Linz
+    authors:
+      - name: Danilo Poccia
+        twitter: danilop
+        github: danilop
+        website:
+    slides:
+    videos:
+      - https://youtu.be/7Ibgp9EetNo
+    description: |-
+      Serverless technologies bring you to adopt event-driven architectures. I created “Serverless by Design”, an open source tool that can help you to quickly think, build and iterate on a visual representation of your project. First, it can map event-driven architectures to a network model, easy to edit and visualize. Services and functions are nodes of the network, and the interaction between services and functions (such as triggers, read/write access, and other integrations) are edges. Then, it can build the starting code of your app using AWS SAM templates, or the Serverless Framework. Finally, we’ll give an example on how to deploy an application globally, across multiple regions.
+
+  - title: Old code doesn't stink - Refactor or Rewrite
+    lang: en
+    type: regular
+    time: 2018-10-16
+    room: Tabakfabrik Linz
+    authors:
+      - name: Martin Gutenbrunner
+        twitter: MartinGoodwell
+        github: MartinGoodwell
+        website:
+    slides:
+      - https://www.slideshare.net/MartinGoodwell/old-code-doesnt-stink
+    videos:
+      - https://youtu.be/NE7NwPpg0aE
+    description: |-
+      "I've seen projects with shiny, new code render into unmaintainable big balls of mud within 2-3 years. Multiple times. But regardless of whether it's the code base as a whole that's rotten, or whether it's just the UI and User Experience that needs a major overhaul: the question on rewrite vs refactoring will come up sooner or later. Based on years of experience, and a plethora of bad decisions cumulating into epic failures, I'll share my experience on how to have a code base that stays maintainable - even after years. After this talk, you'll have more insight into whether you should refactor or rewrite, and how to do it right from now on."
+
+  - title: CI/CD in the OpenStack community and beyond
+    lang: en
+    type: regular
+    time: 2018-10-16
+    room: Tabakfabrik Linz
+    authors:
+      - name: Maria Bracho
+        twitter: mariabracho
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/KPGFcWFRi88
+    description: |-
+      How do 1,500+ OpenStack developers from 150+ companies contribute to the same code? And how is it consumed in a way that it becomes part of a business solution? During this talk we'll cover CI/CD at scale and how to leverage those same principles and tools for a distribution, partners and customers following an upstream first approach. Open source projects like Software Factory and Distributed Continuous Integration aim to serve open source communities beyond OpenStack in the quest to building better software.
+
+  - title: Writing end to end tests with a smile
+    lang: en
+    type: regular
+    time: 2018-10-16
+    room: Tabakfabrik Linz
+    authors:
+      - name: Ekaterina Budnikov
+        twitter: KatjaBudnikov
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DXye37RcdWE
+    description: |-
+      Improving a product’s quality isn’t possible without the needed appreciation throughout every member of the team, but finding the right approach everybody is comfortable with isn’t easy. We learned, the right mindset is key for which we found a simple solution. For us adding Cucumber (BDD framework) to Nightwatch (Selenium) was the right step to create a testing environment which everybody can identify with, as now everyone can use the programming language he/she prefers. For the right workflow we introduced user stories, so that misunderstandings could be reduced.
+
+  - title: Evolution of the Runtastic Backend
+    lang: en
+    type: regular
+    time: 2018-10-16
+    room: Tabakfabrik Linz
+    authors:
+      - name: Simon Lasselsberger
+        twitter: lasssim
+        github: lister
+        website:
+    slides:
+      - https://speakerdeck.com/lister/evolution-of-the-runtastic-backend-at-devone-2018
+    videos:
+      - https://youtu.be/iEFTwtFa07Q
+    description: |-
+      This talk will tell the story of how our backend architecture evolved over the last 8 years. It will give insights into how we gradually moved from 2 monolithic services with lots of design flaws to a modern microservice architecture using several database technologies. Pitfalls, mission-critical situations, major challenges, as well as technology and topology decisions will be explained in the process. Besides all the architectural topics, I will also talk about team structure and how our deployment changed over the years. Switching from departmental to agile feature teams also had an impact on how we now have to design our microservices. This switch forced us to rethink our deployment strategy completely. In the early days we rented our servers from a hosting company in Germany, then we bought our own servers and ran them in two different data centers. Our newest strategy is to switch from virtual servers to containers running in our on-premise OpenShift cluster. The level of detail in visually representing our architecture will increase throughout the presentation as we approach the present.
+
+  - title: Let's put U in UX!
+    lang: en
+    type: regular
+    time: 2018-10-16
+    room: Tabakfabrik Linz
+    authors:
+      - name: Holger Weissböck
+        twitter: holgua
+        github: holgua
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qi19hls9LfY
+    description: |-
+      All successful products focus on the user. As a developer, you are your software's final UX guardian. It is in your power to make or break its user experience. Therefore, it is your responsibility to make sure things don't go sideways. Thankfully, every developer is an API designer, and every API designer is a UX expert. Here are the reasons why... 
