@@ -49,6 +49,7 @@ talks:
     slides:
     videos:
     description: |-
+      Passionate [Open Source developer](https://github.com/jhnns). Founded [a company](https://peerigon.com/) with his friends to develop challenging web projects with JavaScript. Loves music and nature. Member of the [webpack](http://webpack.github.io/) core team.
 
   - title: New Features of Webpack 5
     lang: en
@@ -202,6 +203,7 @@ talks:
     slides:
     videos:
     description: |-
+      Consultant who is mostly concerned improving code quality, often with the aid of static code analysis tools in JS / React / GraphQL codebases. Dedicated to improve the dialog between the OCaml / Reason communities. Co-organizer of ReasonConf.
 
   - title: What its like to be a full time open source maintainer
     lang: en
