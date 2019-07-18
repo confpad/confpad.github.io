@@ -62,7 +62,7 @@ const TALK_AUTHOR_KEYS = ['name', 'twitter', 'github', 'website'];
 const TALK_TYPES = ['regular', 'lightning', 'workshop'];
 
 let year;
-let testGlob = '{./data/conferences/*/*.yaml,./examples/2018-01-01-some-cool-conference.yaml}';
+let testGlob = './data/conferences/*/*.yaml';
 
 // Single file test?
 let testFile = process.argv.pop();
