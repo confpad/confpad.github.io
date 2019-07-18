@@ -1,7 +1,7 @@
 conference:
     
   name: Pycon PH 2017
-  status: incomplete
+  status: complete
   series: python.ph
   tags:
     - python
@@ -37,7 +37,6 @@ talks:
       - https://youtu.be/EYwnxAkk-GY
     description: |-
 
-
   - title: Python as a Universal Backend
     type: regular
     level:
@@ -52,7 +51,6 @@ talks:
     videos:
       - https://youtu.be/j_jTC2LA79U
     description: |-
-
 
   - title: Big Data Processing and Data Science Environment in Python
     type: regular
@@ -69,7 +67,6 @@ talks:
       - https://youtu.be/JyXYwyS9Mc0
     description: |-
 
-
   - title: Python in Smart Farm
     type: regular
     level:
@@ -84,7 +81,6 @@ talks:
     videos:
       - https://youtu.be/mhoppxTor5g
     description: |-
-
 
   - title: Estimating Solar Energy of an Area in Python
     type: regular
@@ -105,7 +101,6 @@ talks:
       - https://youtu.be/zT0w20ZSUdo
     description: |-
 
-
   - title: Gentle Introduction to Ansible
     type: regular
     level:
@@ -120,7 +115,6 @@ talks:
     videos:
       - https://youtu.be/e91CwIawExc
     description: |-
-
 
   - title: Python Platforms for Cyber Security
     type: regular
@@ -141,7 +135,6 @@ talks:
       - https://youtu.be/1LNSARrwPqw
     description: |-
 
-
   - title: Practical Deployment Strategies for Production Python Apps
     type: regular
     level:
@@ -156,7 +149,6 @@ talks:
     videos:
       - https://youtu.be/zjS3XloogFY
     description: |-
-
 
   - title: IoT Mobile Robot Using Micropython
     type: regular
@@ -173,8 +165,7 @@ talks:
       - https://youtu.be/krYbO42IwfA
     description: |-
 
-
-  - title: Building communities: One Byte at a Time
+  - title: "Building communities: One Byte at a Time"
     type: regular
     level:
     time: 2017-02-26
@@ -188,7 +179,6 @@ talks:
     videos:
       - https://youtu.be/Sam-xvweIE4
     description: |-
-
 
   - title: Going Serverless With Chalice - A Python Serverless Microframework
     type: regular
@@ -205,7 +195,6 @@ talks:
       - https://youtu.be/TUXRjehnnhc
     description: |-
 
-
   - title: Python on the Philippine Microsatellite Program
     type: regular
     level:
@@ -220,7 +209,6 @@ talks:
     videos:
       - https://youtu.be/7q-KQ7lSrgY
     description: |-
-
 
   - title: Intro to Satellite Data Processing Using Python
     type: regular
@@ -241,7 +229,6 @@ talks:
       - https://youtu.be/AniSKBbCr1w
     description: |-
 
-
   - title: Messenger BOT using Flask API
     type: regular
     level:
@@ -256,7 +243,6 @@ talks:
     videos:
       - https://youtu.be/w7dIQ0h2njk
     description: |-
-
 
   - title: Writing RESTful APIs with Flask
     type: regular
@@ -273,8 +259,7 @@ talks:
       - https://youtu.be/LPy_hJ8dPhE
     description: |-
 
-
-  - title: Pytest + Selenium: A Match for Testing
+  - title: "Pytest + Selenium: A Match for Testing"
     type: regular
     level:
     time: 2017-02-26
@@ -292,7 +277,6 @@ talks:
     videos:
       - https://youtu.be/rNBN2YVGAcA
     description: |-
-
 
   - title: Test Driven Development in Python by 
     type: regular
@@ -313,8 +297,7 @@ talks:
       - https://youtu.be/mIZwB20oSK4
     description: |-
 
-
-  - title: Trip Down Memory Lane: OOM in Python
+  - title: "Trip Down Memory Lane: OOM in Python"
     type: regular
     level:
     time: 2017-02-26
@@ -328,7 +311,6 @@ talks:
     videos:
       - https://youtu.be/_PiTB4g6rqw
     description: |-
-
 
   - title: An Introduction to Distributed Task Queue
     type: regular
@@ -344,7 +326,6 @@ talks:
     videos:
       - https://youtu.be/vtXKMVuBguE
     description: |-
-
 
   - title: Wela School System Using Python
     type: regular
@@ -364,4 +345,3 @@ talks:
     videos:
       - https://youtu.be/uQGCxxt67xc
     description: |-
-    
