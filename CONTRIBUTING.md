@@ -23,7 +23,7 @@ Let's say you want to add conference **React Conf 2018** that took place on **Oc
 Let's say you want to update some info for conference **React Conf 2018**.
 
 1. Follow the [styleguide](#styleguide).
-2. Create a pull request named **Add 2018-10-25-react-conf-2018**.
+2. Create a pull request named **Update 2018-10-25-react-conf-2018**.
 3. After you submit your pull request, verify that all status checks are passing.
 
 
