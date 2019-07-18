@@ -1,5 +1,5 @@
 conference:
-    
+
   name: Pycon PH 2017
   status: complete
   series: python.ph
@@ -23,8 +23,8 @@ conference:
 talks:
 
   - title: Writing Idiomatic Python
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -38,8 +38,8 @@ talks:
     description: |-
 
   - title: Python as a Universal Backend
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -53,8 +53,8 @@ talks:
     description: |-
 
   - title: Big Data Processing and Data Science Environment in Python
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -68,8 +68,8 @@ talks:
     description: |-
 
   - title: Python in Smart Farm
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -83,8 +83,8 @@ talks:
     description: |-
 
   - title: Estimating Solar Energy of an Area in Python
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -102,8 +102,8 @@ talks:
     description: |-
 
   - title: Gentle Introduction to Ansible
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -117,8 +117,8 @@ talks:
     description: |-
 
   - title: Python Platforms for Cyber Security
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -136,8 +136,8 @@ talks:
     description: |-
 
   - title: Practical Deployment Strategies for Production Python Apps
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -151,8 +151,8 @@ talks:
     description: |-
 
   - title: IoT Mobile Robot Using Micropython
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -165,9 +165,9 @@ talks:
       - https://youtu.be/krYbO42IwfA
     description: |-
 
-  - title: "Building communities: One Byte at a Time"
+  - title: 'Building communities: One Byte at a Time'
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -181,8 +181,8 @@ talks:
     description: |-
 
   - title: Going Serverless With Chalice - A Python Serverless Microframework
+    lang: en  
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -196,8 +196,8 @@ talks:
     description: |-
 
   - title: Python on the Philippine Microsatellite Program
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -211,8 +211,8 @@ talks:
     description: |-
 
   - title: Intro to Satellite Data Processing Using Python
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -230,8 +230,8 @@ talks:
     description: |-
 
   - title: Messenger BOT using Flask API
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -245,8 +245,8 @@ talks:
     description: |-
 
   - title: Writing RESTful APIs with Flask
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -259,9 +259,9 @@ talks:
       - https://youtu.be/LPy_hJ8dPhE
     description: |-
 
-  - title: "Pytest + Selenium: A Match for Testing"
+  - title: 'Pytest + Selenium: A Match for Testing'
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -279,8 +279,8 @@ talks:
     description: |-
 
   - title: Test Driven Development in Python by 
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -297,9 +297,9 @@ talks:
       - https://youtu.be/mIZwB20oSK4
     description: |-
 
-  - title: "Trip Down Memory Lane: OOM in Python"
+  - title: 'Trip Down Memory Lane: OOM in Python'
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -313,8 +313,8 @@ talks:
     description: |-
 
   - title: An Introduction to Distributed Task Queue
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -328,8 +328,8 @@ talks:
     description: |-
 
   - title: Wela School System Using Python
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
