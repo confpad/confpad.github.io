@@ -18,5 +18,407 @@
     country: Netherlands
     city: Amsterdam
   description: |-
+    Laracon EU is a unique international Laravel event with over 750 attendees. The conference has multiple tracks and is focusing on in-depth technical talks. Come learn about the state of the industry while networking with like-minded and diversely experienced developers.
 
 talks:
+  
+  - title: Build bridges, not walls—Design for users across cultures
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Jenny Shen
+        twitter: jennyshen
+        github: shenjenny
+        website:
+    slides:
+    videos:
+      - https://youtu.be/uPsMTpdfWTI
+    description: |-
+      Jenny Shen is a Senior UX/Product Designer who has worked with startups and brands including Neiman Marcus, Crate&Barrel, eBuddy, IBM and Randstad. She is a member of Toptal, a global talent network and she has received a Top 40 under 40 honour from Girls in Tech Taiwan. In her spare time, she is mentoring designers and working on global strategy as the Regional Director of EMEA at Ladies that UX.
+
+  - title: Zero to API with Lumen
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Amanda Folson
+        twitter: AmbassadorAwsum
+        github: afolson
+        website:
+    slides:
+    videos:
+      - https://youtu.be/FHXVs7swRuU
+    description: |-
+      From humble beginnings as a PHP4 web developer in grade school, Amanda now works as a Developer Relations Manager at Nexmo where she gets to share her passion for technology and education with others. In addition to consuming APIs and IPAs, she currently serves as a co-host for the PHPTownHall Podcast and is involved in Open Sourcing Mental Illness. In her spare time you’ll find her in a hammock with a guitar.
+
+  - title: Alexa, let's build a voice powered app
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Marcel Pociot
+        twitter: marcelpociot
+        github: mpociot
+        website:
+    slides:
+    videos:
+      - https://youtu.be/U0ypZh0mFgc
+    description: |-
+      With devices such as Amazon’s Alexa or Google Home, voice assistants have gotten into our lives. It’s undisputed that voice-powered applications can have a tremendous impact on your life and your business. Let’s try and build a voice-powered application ourselves and even summon Alexa on stage.
+
+  - title: Twelve-Factor Apps
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Alex Bilbie
+        twitter: alexbilbie
+        github: alexbilbie
+        website:
+    slides:
+    videos:
+      - https://youtu.be/L5zAH3jIboQ
+    description: |-
+      If you resent your codebase because it’s hard to track down bugs, stuff works on your laptop but not in production, or deploying an update requires a full day’s work then it’s time to step back and embrace some industry best practises. The Twelve-Factor App is a design pattern to built resilient, portable and scalable web applications. This session will explore each of these factors and will teach you how to apply to them to your Laravel codebases. Examples of some topics covered in the session include how to configure runtime environment variables, building your Laravel app for simple and fast deployment, ensuring dev machine / production parity, and to setup sane and useful monitoring and logging. Finally we’ll look at a number of open source tools which will help you achieve 12 factor apps.
+
+  - title: IntroDDDuction
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Robert Basic
+        twitter: robertbasic
+        github: robertbasic
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2Mj2DVWqnuQ
+    description: |-
+      Our clients come to us to solve their problems using software. We listen to their pitch, we read their emails, have a meeting or two, and then we take out our favourite code editor, framework and database, and start pounding at the keyboard. Few weeks, months later, we come back with a solution to all of their problems. Or is it, really? Our solutions should be driven by our clients and what they really need. We need to listen to them, talk to them, understand them. This presentation will show why we should become better communicators, and how we can use Domain Driven Design to bridge this communication gap. Creating an ubiquitous language that we share with our clients, we model their world in ours. These models live in bounded contexts, made out of aggregate roots, domain events, entities, value objects, that are all here to guide us to create better solutions, and write better software.
+
+  - title: Customizing Laravel
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Franz Liedke
+        twitter: franzliedke
+        github: franzliedke
+        website:
+    slides:
+    videos:
+      - https://youtu.be/UJZBdUIwTbM
+    description: |-
+      Laravel already comes packed with numerous features and adapters for several services. But sometimes, even these are not enough. You may want to integrate your own mail provider, use another template engine, implement your own validation rules or even access a yet-unsupported database. How do you do that while still benefiting from Laravel's cohesive and elegant code? In this talk, you will learn how to hook into the core of Laravel, using service providers and the powerful IoC container. Join me as we take a ride through Laravel's codebase and discover tricks and best practices for extending the various components.
+
+  - title: 'Migrating a 15 Year Old Enterprise Application to Laravel: Lessons Learned and Opportunities Gained'
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Taylor Dondich
+        twitter: tdondich
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/QdSXj6Pm5K0
+    description: |-
+      ProcessMaker BPM is a fully functional Open Source BPM Suite installed on-premise and in the cloud for businesses small and enterprise. However, the technical debt accumulated made it harder and harder to adjust to growing customer demands. In this case study, learn how we are migrating our product to Laravel and taking advantage of all the features it's giving us. Identify some of the lessons we've learned along our journey as well as the future possibilities that have opened up with this strategy.
+
+  - title: Simplified Continuous Integration with Laravel and Jenkins
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Margaret Staples
+        twitter: dead_lugosi
+        github: mstaples
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3IQrbUrb2E0
+    description: |-
+      Maybe you’re the only coder on a project. Maybe you’re on a small team and carrying the majority of the server knowledge. For one reason or another, there are times when if we don’t setup our own deploy process, there simply isn’t one. No one wants the headaches that come from a my-machine[s] to production direct deploy process, so let’s go a step better with Jenkins and Github or Gitlab. This talk will walk you through setting up a Jenkins server to deploy your staging changes and master merges with all the tests and checks you need to avoid those “oops” moments ever going live.
+
+  - title: DevOps and the Rebirth of Childhood Innocence
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Robert Douglass
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cKus-f7AbC8
+    description: |-
+      Remember when the internet was pure and unspoiled? In our innocence we saw the promise of renewal of the world through connecting, sharing, and creating online. We became developers and hackers because we wanted to understand how things work, to take them apart, and build quirky (and sometimes useful) things just for the pleasure of it. In the earliest decades of the Internet Epoch the Internet was a playground. We happily coded directly on production systems. And it was fine, as many Great Things were created. But the Internet has matured, and has now become Big Business. Developers have matured too, and good thing they did! So many people now rely on what we’ve built, for security, for privacy, for the paycheck at the end of the month. We matter. Maturity has come at a price, though, and deploying well tested code into complex applications with polyglot teams working with heterogeneous stacks, all while maintaining compliance with GDPR, HIPAA, PCI, etc. has taken all of the childhood innocence out of the web. Now even the simplest website seems like Hard Work. In this talk I will show how we can, and should, regain our joyful demeanor, how we can use the maturity of the most innovative tools around us to start hacking like crazy again. Without regressing on agility, testing, compliance, scalability or robustness. I use the metaphor of childhood innocence to explain how the complexity of modern cloud computing, in combination with increasing quality expectations and compliancy, has curtailed the creative freedom of developers, and as a whole, organisational motivation. Together with a lack of resources and idea time, this leads to lower and slower product innovation. We are, however, at the brink of a paradigm shift in cloud computing that will give developers and hackers their mojo again. This talk will zoom into the key elements of this paradigm shift, and provide an overview of the basic concepts and operational practices of the new age of developer innocence.
+
+  - title: Handling media in a Laravel application
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Freek van der Herten
+        twitter: freekmurze
+        github: freekmurze
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Ho9OVdxpFRM
+    description: |-
+      In most kind of projects you're going to let a user upload all sorts of images and files. Storing those files, associating them with models, creating thumbnails for them, optimizing images, can be a lot of (boring) work. Luckily laravel-medialibrary can do all that for you. In talk you’ll see a practical demo of how to get started with the medialibrary. You’ll learn how to store files, generate urls to them, how to use different image profiles, how to use external filesystems to store big assets, generate responsive images and much much more.
+
+  - title: Kickass Laravel Development with Docker
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: David McKay
+        twitter: rawkode
+        github: rawkode
+        website:
+    slides:
+    videos:
+      - https://youtu.be/BvDXzyOP3NE
+    description: |-
+      Docker is a tool that allows you to package your application up into a single-runnable, distributable, binary; which is great for deploying your applications to production ... but what about local development? Allow me to introduce you to Docker and it's fundamentals, before quickly moving on to crafting great development environments, with Docker Compose, that encapsulate your non-PHP depdencies: such as MySQL, PostgreSQL, Elasticsearch, and more. You'll walk away from this session with the knowledge to write your own container based workflows, for development and production; so be prepared to throw away your Vagrantfile's when you get back to the office :D
+
+  - title: 5 [fun] ways to fall in love [again] with code
+    lang: en
+    type: regular
+    time: 2018-08-30
+    room:
+    authors:
+      - name: Christopher Pitt
+        twitter: assertchris
+        github: assertchris
+        website:
+      - name: Erika Heidi
+        twitter: erikaheidi
+        github: erikaheidi
+        website:
+    slides:
+    videos:
+      - https://youtu.be/wc3LzAsbc4I
+    description: |-
+      The daily struggles of software engineering can often make us forget what made us fall in love with coding for the first time. Some will blame the routine, some will blame the poorly-documented-and-untested-code, but one thing is certain: a change in the scenery is a great way to sparkle the romance back in any long-term relationship. This talk will extrapolate the boundaries of software to show you 5 fun ways to fall in love (again) with code, with the inevitable collateral of making your family and friends fall in love with it too.
+
+  - title: 'Fundamentally Flawed: Privacy, People and the Age of Data'
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Rizqi Djamaluddin
+        twitter: __rizqi
+        github: rizqidjamaluddin
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Ucz0UFaYuvs
+    description: |-
+      Data is important. It's the biggest resource of the 21st century, it can be processed to incredibly precise and powerful ends, and it can be used in many ways, good and bad. Yet we're treating data as rows in a database or files on a hard drive. In 2050, you can probably look up a presidential candidate's facebook feed from 2007. People today are happily uploading their daily routines, messages, locations, preferences, conversations, and opinions. They don't yet understand what their data could do, yet it lies in the hands of companies happy to twist and churn through the data for their own needs. As a species, we are fundamentally unprepared for the age of data. The world has changed. It's imperative we start building systems that treat user data as a private, responsible, actionable resource - so people trust technology. We will discuss how data is different in the 21st century - how every detail is aggregated and catalogued like never before. How 3rd parties happily pass around and eat your data. How companies are basically superpowers with the personal data at their disposal. We will discuss how we cannot assume people's assumptions about data. How what's private to you may be open for me. How what's public information to you may be death to another. How even minuscule tidbits like a light sensor can lead to horrible consequences. In the end, we will discuss how to tie your users to their data. Enabling data to be exported and deleted as they wish. How to handle backups and 3rd party services. How to tell consumers about your policy and why you want their data. We will debate the morals of manipulation and how you, as one who builds one of these 21st century data machines, play a very big role.
+
+  - title: Things every developer absolutely, positively needs to know about database indexing
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Kai Sassnowski
+        twitter: warsh33p
+        github: ksassnowski
+        website:
+    slides:
+    videos:
+      - https://youtu.be/HubezKbFL7E
+    description: |-
+      This talk dives deep into a topic that I believe developers don't know enough about: database indexing. There are four sections to this talk: - What's an index? * How to create an index? * Understanding the execution plan * Common pitfalls What's an index In the first part we will learn what an index actually is. And we're talking data structures. How is an index actually represented internally and what are the implications of that. This is important because it makes certain characteristics of indexes much easier to understand. We will refer back to this when we talk about common pitfalls later on in the talk. How to create an index? A really quick review about how to create an index. Just a refresher, really. Understanding the execution plan. This is the meat of the talk. We will learn how to read and understand the MySQL execution plan (the output of the EXPLAIN statement). This is the way to debug slow queries. We will take a look at the different "Access Types" that might appear in the execution plan and what they mean (const/eq_ref, ref/range, index and ALL). This part of the presentation happens with a live coding example. We will take a look at a database with about a million rows and continuously improve our queries. As we do that, we will learn about common pitfalls when using indexes. These include: - functions on columns in your WHERE clause - indexing wildcards - the order of columns in a multi-column index - inequality operations The goal of this talk is not so much to turn the listener into an expert about indexing, the topic is simply too large for that. However, I hope to show people that there is a lot more to be learned about database indexing than they might have thought. Since slow queries are one of the most common causes of poor application performance I think it is absolutely crucial for developers to be properly educated about this topic.
+
+  - title: How we abused PHP and Laravel to do Big Data.
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Marten Westphal
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/P0LfWwU7ToA
+    description: |-
+      Using PHP and Laravel to build a Data Consolidation Framework sounds like the most amazing idea ever, we know. Considering obvious alternative Technologies like Airflow, Spark and so on, why did we decide two years ago to make this move from our previously used Hadoop System and venture into these unknown territories. Let’s take together this journey we were on for the last two years. Revisit the dead ends and traps we ran into, how we changed directions more then once taking a completely different path then anticipated, got help from version upgrades and rethought how we use PHP and Laravel over and over again, to match our requirements. Evaluating the potential of our frankenbaby.
+
+  - title: Minimum Viable Linux
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Mattias Geniar
+        twitter: mattiasgeniar
+        github: mattiasgeniar
+        website:
+    slides:
+    videos:
+      - https://youtu.be/94GK6Ik-x98
+    description: |-
+      This session will explain the basics and fundamentals of Linux: how does SSH key authentication work? How are processes forked? How does PHP-FPM receive requests? How can you troubleshoot processes that are stuck?
+
+  - title: Crypto for Everyone
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Marcus Bointon
+        twitter: SynchroM
+        github: Synchro
+        website:
+    slides:
+    videos:
+      - https://youtu.be/617ge8TcwoQ
+    description: |-
+      PHP 7.2 includes the libsodium cryptography library by default in the base language - the first time that a popular language has shipped with strong, modern crypto support as standard. Everyone can build secure apps without the risks of rolling your own crypto or using outdated libraries. So what's in libsodium? What kind of things can you do? What risks remain? You'll get a tour of cryptographic functions, how they have been done in the past (and what was wrong with them), and how to switch to libsodium to give you a security edge.
+
+  - title: OMG MySQL 8.0 is out! Are we there yet?
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Gabriela Ferrara
+        twitter: gabidavila
+        github: gabidavila
+        website:
+    slides:
+    videos:
+      - https://youtu.be/eVq4to81ulk
+    description: |-
+      Sick and tired of "X technology is only good for starting out; after you do, move to Y"? Good news: you don't need to move away, you just need to get in further! In this talk, you'll learn about improvements in the newest version of the most used database in the world. What are Window Functions? How do you use CTEs? How can the new default encoding help me (emoji! 🤦🏼‍♀️)? We'll also talk about new JSON features and extended UUID support! Be prepared to drink from the firehose of what's new and awesome about MySQL 8.0.
+
+  - title: Laravel Design Patterns
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Bobby Bouwmann
+        twitter: bobbybouwmann
+        github: bobbybouwmann
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qpo5KG0vIyE
+    description: |-
+      Most of us use Design Patterns on a daily basis without noticing. Design patterns are commonly defined as solutions to recurring design problems. Frameworks like Laravel use Design Patterns throughout the codebase to keep structure and maintainability. In this talk we will explore the Design Patterns used in Laravel. Once we have a basis of the design patterns we go into some practical examples.
+
+  - title: How Not to Break a Simple Idea
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Mark Starkey
+        twitter:
+        github: MStarkey
+        website:
+    slides:
+    videos:
+      - https://youtu.be/24Dh2hg1--k
+    description: |-
+      Creating an application can be a daunting prospect for the single developer, especially if said project is larger than anything previously undertaken. The margin for error and scope creep are bigger than they are normally. Why is this and why should it be harder? What can we do to minimise the risks for the project over running and over taking our lives? How can we safeguard against becoming bogged down in the detail and feeling like we are flying by the seat of our pants, rather than flying high and embracing the tools we have at our finger tips? So, how we can start a project correctly and focus on the tasks needed and not let the monster hiding in the closet burst out and steal your life? By shining the light on how we create a clear plan, and better understanding of the requirements, we can start the project correctly and focus on the tasks needed and not let the monster hiding in the closet burst out and steal your life, whilst the project remains on track and on time. Keep the goals realistic and achievable, learn, adapt and overcome. Remove the imposter syndrome with self-belief, preparation and the right tools to help make the process intuitive, enjoyable and helpful, but not a hindrance.
+
+  - title: 'Advanced animations with Vue.js: taking your interface to the next level'
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Krystal Campioni
+        twitter: krystalcampioni
+        github: krystalcampioni
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3mt-gI3F3mM
+    description: |-
+      Working with companies from early-stage startups to Fortune 500, I've experienced both the struggle of continuing someone else's work and the joy of it. The difference is only in their approach towards the design of their code. It's a minor effort if done on time, with a huge impact on the overall development of the software. In this presentation, we'll focus on what distinguishes a good PHP developer from a strong one and learn how to stand out from the crowd. After this presentation, you'd understand how to incorporate the SOLID principles in your daily work and design your code for extendibility. You'd learn how to write code in a way that will make it easy to go back to a feature you developed a year ago and extend it with additional functionality in minutes, not hours.
+
+  - title: SOLID Design Principles
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Katerina Trajchevska
+        twitter: ktrajchevska
+        github: trajchevska
+        website:
+    slides:
+    videos:
+      - https://youtu.be/rtmFCcjEgEw
+    description: |-
+      Working with companies from early-stage startups to Fortune 500, I've experienced both the struggle of continuing someone else's work and the joy of it. The difference is only in their approach towards the design of their code. It's a minor effort if done on time, with a huge impact on the overall development of the software. In this presentation, we'll focus on what distinguishes a good PHP developer from a strong one and learn how to stand out from the crowd. After this presentation, you'd understand how to incorporate the SOLID principles in your daily work and design your code for extendibility. You'd learn how to write code in a way that will make it easy to go back to a feature you developed a year ago and extend it with additional functionality in minutes, not hours.
+
+  - title: Extending Laravel Nova
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Marcel Pociot
+        twitter: marcelpociot
+        github: mpociot
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3c3SJlMfSp0
+    description: |-
+
+  - title: Presenting Skills for Programmers
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Chris Brown
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/nQmS3N60fcY
+    description: |-
+
+  - title: Laravel in 2018
+    lang: en
+    type: regular
+    time: 2018-08-31
+    room:
+    authors:
+      - name: Taylor Otwell
+        twitter: taylorotwell
+        github: taylorotwell
+        website:
+    slides:
+    videos:
+      - https://youtu.be/yM7K7jd92Sw
+    description: |-
