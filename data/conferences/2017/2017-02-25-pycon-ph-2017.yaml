@@ -1,7 +1,7 @@
 conference:
-    
+
   name: Pycon PH 2017
-  status: incomplete
+  status: complete
   series: python.ph
   tags:
     - python
@@ -23,8 +23,8 @@ conference:
 talks:
 
   - title: Writing Idiomatic Python
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -37,10 +37,9 @@ talks:
       - https://youtu.be/EYwnxAkk-GY
     description: |-
 
-
   - title: Python as a Universal Backend
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -53,10 +52,9 @@ talks:
       - https://youtu.be/j_jTC2LA79U
     description: |-
 
-
   - title: Big Data Processing and Data Science Environment in Python
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -69,10 +67,9 @@ talks:
       - https://youtu.be/JyXYwyS9Mc0
     description: |-
 
-
   - title: Python in Smart Farm
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -85,10 +82,9 @@ talks:
       - https://youtu.be/mhoppxTor5g
     description: |-
 
-
   - title: Estimating Solar Energy of an Area in Python
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -105,10 +101,9 @@ talks:
       - https://youtu.be/zT0w20ZSUdo
     description: |-
 
-
   - title: Gentle Introduction to Ansible
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -121,10 +116,9 @@ talks:
       - https://youtu.be/e91CwIawExc
     description: |-
 
-
   - title: Python Platforms for Cyber Security
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -141,10 +135,9 @@ talks:
       - https://youtu.be/1LNSARrwPqw
     description: |-
 
-
   - title: Practical Deployment Strategies for Production Python Apps
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -157,10 +150,9 @@ talks:
       - https://youtu.be/zjS3XloogFY
     description: |-
 
-
   - title: IoT Mobile Robot Using Micropython
+    lang: en
     type: regular
-    level:
     time: 2017-02-25
     room:
     authors:
@@ -173,10 +165,9 @@ talks:
       - https://youtu.be/krYbO42IwfA
     description: |-
 
-
-  - title: Building communities: One Byte at a Time
+  - title: 'Building communities: One Byte at a Time'
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -189,10 +180,9 @@ talks:
       - https://youtu.be/Sam-xvweIE4
     description: |-
 
-
   - title: Going Serverless With Chalice - A Python Serverless Microframework
+    lang: en  
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -205,10 +195,9 @@ talks:
       - https://youtu.be/TUXRjehnnhc
     description: |-
 
-
   - title: Python on the Philippine Microsatellite Program
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -221,10 +210,9 @@ talks:
       - https://youtu.be/7q-KQ7lSrgY
     description: |-
 
-
   - title: Intro to Satellite Data Processing Using Python
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -241,10 +229,9 @@ talks:
       - https://youtu.be/AniSKBbCr1w
     description: |-
 
-
   - title: Messenger BOT using Flask API
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -257,10 +244,9 @@ talks:
       - https://youtu.be/w7dIQ0h2njk
     description: |-
 
-
   - title: Writing RESTful APIs with Flask
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -273,10 +259,9 @@ talks:
       - https://youtu.be/LPy_hJ8dPhE
     description: |-
 
-
-  - title: Pytest + Selenium: A Match for Testing
+  - title: 'Pytest + Selenium: A Match for Testing'
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -293,10 +278,9 @@ talks:
       - https://youtu.be/rNBN2YVGAcA
     description: |-
 
-
   - title: Test Driven Development in Python by 
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -313,10 +297,9 @@ talks:
       - https://youtu.be/mIZwB20oSK4
     description: |-
 
-
-  - title: Trip Down Memory Lane: OOM in Python
+  - title: 'Trip Down Memory Lane: OOM in Python'
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -329,10 +312,9 @@ talks:
       - https://youtu.be/_PiTB4g6rqw
     description: |-
 
-
   - title: An Introduction to Distributed Task Queue
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -345,10 +327,9 @@ talks:
       - https://youtu.be/vtXKMVuBguE
     description: |-
 
-
   - title: Wela School System Using Python
+    lang: en
     type: regular
-    level:
     time: 2017-02-26
     room:
     authors:
@@ -364,4 +345,3 @@ talks:
     videos:
       - https://youtu.be/uQGCxxt67xc
     description: |-
-    
