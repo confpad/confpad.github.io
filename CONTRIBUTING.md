@@ -29,7 +29,7 @@ Let's say you want to update some info for conference **React Conf 2018**.
 
 ### What if the status checks are failing?
 
-Check the build log - it contains useful information on what's going wrong (look for the the word_FAIL_). If it doesn't help please verify that the submitted file is a valid YAML: https://yaml-online-parser.appspot.com/ If still in doubt - ask me.
+Check the build log - it contains useful information on what's going wrong (look for the word_FAIL_). If it doesn't help please verify that the submitted file is a valid YAML: https://yaml-online-parser.appspot.com/ If still in doubt - ask me.
 
 
 ## Styleguide
