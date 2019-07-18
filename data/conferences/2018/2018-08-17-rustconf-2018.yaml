@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: RustConf 2018
-  status: incomplete
+  status: complete
   series: rustconf.com
   tags:
     - rust
@@ -13,10 +13,278 @@
     website: http://2018.rustconf.com/
   date:
     from: 2018-08-17
-    to: 2018-08-18
+    to: 2018-08-17
   location:
     country: United States
     city: Portland, OR
   description: |-
 
 talks:
+
+  - title: Opening Keynote 
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Oregon Convention Center
+    authors:
+      - name: Aaron Turon
+        twitter: aaron_turon
+        github:
+        website:
+      - name: Ashley Williams
+        twitter: ag_dubs
+        github:
+        website:
+      - name: Niko Matsakis
+        twitter: nikomatsakis
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/J9OFQm8Qf1I
+    description: |-
+      Aaron, Ashley, and Niko will deliver an update on the state of all things Rust. You don't want to miss it!
+
+  - title: Space, The Rusty Frontier 
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Room A, Oregon Convention Center
+    authors:
+      - name: Ryan Plauche
+        twitter: plauplauplau
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/y5Yd3FC-kh8
+    description: |-
+      Space. It is often thought of as the final frontier for humans. Why not also for Rust? In the fall of 2017 we began using Rust on an upcoming CubeSat mission. Writing safe, performant software is a high priority for us, one shared by the aerospace industry. Our software framework was originally written in C but we wanted to explore other options which could give us more confidence in our code and allow us to leverage newer technologies. For us Rust fits the bill with its emphasis on safety, growing community, and high level software patterns. This presentation will cover the finer points of why we settled on Rust, how we integrated Rust into our existing C environment, how Rust has affected our developer productivity, pictures of the (first?) spacecraft running Rust in low Earth orbit and thoughts on the future of Rust in Space. 
+
+  - title: Getting Something for Nothing
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Room A, Oregon Convention Center
+    authors:
+      - name: James Munns
+        twitter: bitshiftmask
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/t99L3JHhLc0
+    description: |-
+      This talk explores how to use the Rust Type System and Borrow Checker to write safe abstractions of hardware, even when using direct control of memory mapped peripherals with unsafe blocks. Because these techniques move all (or most) of the checking to compile time, these techniques are perfect for systems where high performance or resource constraints are a requirement. This talk will explain and explore how these techniques are used on Microcontroller systems as a critical part of the embedded-hal ecosystem.
+
+  - title: The Dark Secrets Lurking Inside cargo doc
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Room A, Oregon Convention Center
+    authors:
+      - name: Quiet Misdreavus
+        twitter: QuietMisdreavus
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3wcXj67N6eE
+    description: |-
+      Every Rustacean reads the standard library docs (or some other library docs) sooner or later. Many Rustaceans have run cargo doc to generate some documentation for their own library or their dependencies. But how many have looked at the tool behind cargo doc? In this talk, I'll divulge some hidden secrets of rustdoc, the tool used by cargo doc to generate documentation.
+
+  - title: Using Raft in Rust
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Room A, Oregon Convention Center
+    authors:
+      - name: Siddon Tang
+        twitter:
+        github: siddontang
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ueA44Tz1NF8
+    description: |-
+      The Raft consensus algorithm has been widely adopted in many companies to build a consistent distributed services that are highly available. This topic is about how we implemented Raft in rust to support TiKV, an open-Source distributed transactional Key-Value store. In this topic, I will first give a brief introduction about Raft, and then talk about our Raft implementation in Rust, and in the end, I will show you how to use Raft in Rust to build a simple distributed Key-Value database. 
+
+  - title: "The Opposite of Spaghetti Code: Building for Understanding"
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Room A, Oregon Convention Center
+    authors:
+      - name: Brandon W Maister
+        twitter: quodlibetor
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2uBbjq-Trnk
+    description: |-
+       Every moderately sized project is both a library and a consumer. Rust has an almost dizzying array of features that can be used to add structure and hide information. In this talk we'll discuss using types, traits, modules and crates as the tools of encapsulation. To show how they work together to effectively superseed similar information-hiding tools in procedural and OO languages we'll grow a simple type into a collection of language objects. We'll discuss the thought processes that go into deciding to add a layer of abstraction, and how to use each layer to maximum effect. 
+
+  - title: Embedding Rust in C/C++ 
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Room A, Oregon Convention Center
+    authors:
+      - name: Katharina
+        twitter: spacekookie
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/x9acx2zgx4Q
+    description: |-
+      "We all know that using C/C++ code in Rust is not too complicated. extern "C", bindgen and build.rs scripts make this pretty easy. But let’s challenge ourselves: what about the other way around? There are huge C and C++ projects that could use some corrosion. In this talk I will not just show simple examples of how to use Rust modules inside larger C/C++ applications, the common pitfalls you will encounter, and to deal with them."
+
+  - title: "C2Rust: Migrating Legacy Code to Rust"
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Room A, Oregon Convention Center
+    authors:
+      - name: Per Larsen
+        twitter:
+        github: thedataking
+        website:
+    slides:
+    videos:
+      - https://youtu.be/WEsR0Vv7jhg
+    description: |-
+       Although Rust is safer and more modern than C/C++, it is still difficult to justify the cost of migrating existing, mature systems code. This talk will present a trifecta of tools to address the costs and risks of such migration efforts. The first tool is a transpiler which generates structurally equivalent-yet-unsafe Rust code from the input C code. The second is a dynamic analysis tool which runs the original C code alongside the new Rust code to check whether they are performing the same computations. The third is a refactoring tool which helps programmers idiomize the output of our transpiler. Our aim is to automate many of the steps that are entirely manual when migrating from C to Rust today. However, we do not expect that the migration process will be fully automatic. Therefore, we focus on detecting unexpected discrepancies as the programmer gradually rewrites the transpiled code to make better use of Rust idioms. Our tools are open source and available to anyone. 
+
+  - title: Benchmarking and Optimization of Rust Libraries 
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Room B, Oregon Convention Center
+    authors:
+      - name: Paul Mason
+        twitter: paupino_masano
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/d2ZQ9-4ZJmQ
+    description: |-
+       As we develop the Rust eco-system we have a goal that "Rust should provide easy access to high quality crates". This means libraries must be both ergonomic and perform well. Rust provides various frameworks to help benchmark libraries however achieving performance past a certain point requires knowledge of some deep language constructs. This talk explores a journey towards benchmarking various library functions consistently and fairly and consequently exploring strategies for optimizing performance. 
+
+  - title: How to (not) introduce Rust at your workplace - a tale
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Room B, Oregon Convention Center
+    authors:
+      - name: Douglas Campos
+        twitter: qmx
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0IMe7C5y3PU
+    description: |-
+      So I've tried to introduce Rust at my $DAYJOB, and failed miserably. Failure can be a great catalyst for reflection, and indeed, there was a lot of valuable lessons to be learned! At this brief talk, I'll not only share the pitfalls to avoid, but the insights I've gained while trying to make Rust work for us (and maybe for you?). 
+
+  - title: "Integrating Rust into Tor: Successes and Challenges"
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Room B, Oregon Convention Center
+    authors:
+      - name: Isis Lovecruft
+        twitter: isislovecruft
+        github:
+        website:
+      - name: Chelsea Komlo
+        twitter: chelseakomlo
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/WI4ApeHH9QE
+    description: |-
+      In 2016, The Tor Project's network team decided to experiment with writing existing and new functionality in Rust. Since then, this experiment has turned into a team initiative, with multiple team members adding infrastructure and new functionality with the goal of integrating Rust components directly into the core Tor code base. By 2019, we will have several features tha will be only supported in Rust. With this effort has come many challenges and questions, some which have remained unresolved. In this talk, we propose walking through this timeline, and sharing what we have learned, what was good, and what was challenging about integrating Rust into a 10+ year old security-critical C codebase. We will also offer ideas about what could make this easier going forward, and what we are excited and hoping to see in future Rust versions. Overall, we at The Tor Project are big fans of Rust. We are looking forward to sharing what we have learned and accomplished over the last two years. 
+
+  - title: Writing Crates for Complete Beginners - A Tour of Turtle
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Room B, Oregon Convention Center
+    authors:
+      - name: Sunjay Varma
+        twitter: Sunjay03
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ZtER1Wllbeo
+    description: |-
+      Turtle is a Rust graphics crate for creating animated drawings. It is designed to be used to teach programming to complete beginners using Rust. In this talk, you'll learn the inner workings of turtle. We'll show you how we managed to create a library that is both full of features and very easy to learn. We'll go deep into how turtle works and tell you the key aspects of creating a crate that is accessible for anyone of any skill level. You'll leave with new ideas for your own crates and a good understanding of what went into making turtle so beginner friendly.
+
+  - title: "Project Mentat: a store for evolving data in Rust"
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Room B, Oregon Convention Center
+    authors:
+      - name: Emily Toop
+        twitter: fluffyemily
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/bqG5OfGXI_E
+    description: |-
+      Mozilla has a data storage problem. There is no unified strategy for storing new user data and moving it between devices, which has led to a proliferation of stores and strategies and a fragile mechanism for syncing that only handles a subset of data collected. Project Mentat was born to help resolve these issues - a structured data store that is designed to be replicated and synchronized and written in Rust to ensure security, safety and maximum portability between platforms. This talk is about why we decided to "build" rather than "buy", how Mentat is designed to address the problems and requirements associated with data storage and syncing in an environment with trong client-side encryption, - as well as the challenges encountered and lessons learned while using Rust to create portable, performant, persistent, syncing, structured data storage. 
+
+  - title: "Rust and the Web Platform: A Rookie’s Guide"
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Room B, Oregon Convention Center
+    authors:
+      - name: Sarah Meyer
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/EDoNNFWIRrw
+    description: |-
+      "Have you heard the good news about WebAssembly? Since the unlamented demise of Flash, the only choice for writing web applications has been everyone's favorite punching bag of a programming language: JavaScript. WebAssembly defines a new binary format for code that can run natively from all major browsers. The best part is that you can write WebAssembly code in Rust to benefit from Rust's performance and safety guarantees in a place that's never seen them before: the web! Come find out how to get started on your own WebAssembly modules, and contribute to making the web platform a more powerful, useful tool than ever before."
+
+  - title: My Little Procedural Macro
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Room B, Oregon Convention Center
+    authors:
+      - name: Chris Wong
+        twitter: LambdaFairy
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/11Bme1xw0ag
+    description: |-
+      "What if Handlebars was a macro? Three years, 376 commits, and countless breaking changes later, I may have an answer to that. Maud is a macro for writing HTML web pages. It's like format!(), but for markup instead of text. This design lets it catch typos at compile-time, as well as run blazingly fast. This talk will cover lessons I learned while working on Maud, including: tips on designing a macro's syntax, some common pitfalls with the procedural macro system, and dealing with Nightly Rust. There will also be a pony. "
+
+  - title: Closing Keynote
+    lang: en
+    type: regular
+    time: 2018-08-17
+    room: Oregon Convention Center
+    authors:
+      - name: Catherine West
+        twitter: kyrenite
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/aKLntZcp27M
+    description: |-
+       When you’re just starting out in Rust, you start by building small programs. As we all know though, medium and large projects can have very different, unique kinds of problems that smaller projects never encounter. As our projects grow in size, we need to be increasingly concerned about code organization, separation of concerns, implementation hiding, and other techniques to manage growing complexity. Most languages have tools and patterns to deal with this, and Rust is no exception. However, the patterns that we learned from other languages, especially in mainstream OO languages, are often unhelpful when applied to Rust, and this can lead to a roadblock when trying to transition to building moderate or large Rust programs. This talk will cover a case study of a moderate sized game engine written in Rust and Lua, and show strategies for implementing things in Rust where common implementations in other mainstream languages are a poor fit. I’ll also discuss some examples of problems unique to Rust that ended up with very nice —but sometimes not obvious— solutions. Along the way, I’d also like to discuss working with Rust in game development generally, and what it’s like getting Rust to run on mainstream game consoles. 
