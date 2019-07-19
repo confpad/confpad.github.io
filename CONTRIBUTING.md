@@ -10,7 +10,7 @@
 
 Let's say you want to add conference **React Conf 2018** that took place on **October 25 & 26**.
 
-1. [Fork project](https://help.github.com/articles/fork-a-repo/)
+1. [Fork the project](https://help.github.com/articles/fork-a-repo/)
 2. Create file `data/conferences/2018/2018-10-25-react-conf-2018.yaml`
    * `2018-10-25` - first day of the conference
    * `react-conf-2018` - slugified name of the conference
@@ -23,7 +23,7 @@ Let's say you want to add conference **React Conf 2018** that took place on **Oc
 
 Let's say you want to update some info for conference **React Conf 2018**.
 
-1. [Fork project](https://help.github.com/articles/fork-a-repo/)
+1. [Fork the project](https://help.github.com/articles/fork-a-repo/)
 2. Follow the [styleguide](#styleguide).
 3. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) named **Update 2018-10-25-react-conf-2018**.
 4. After you submit your pull request, verify that all status checks are passing.
@@ -130,108 +130,108 @@ talks:
 * `conference`
   * Type: _required_
   * Value:
-  * Object containing information about conference itself
+  * Description: object containing information about conference itself
 * `conference.name`
   * Type: _required_
   * Value: _free-form string_
-  * Conference name
+  * Description: conference name
 * `conference.status`
   * Type: _required_
   * Value: _[complete, incomplete]_
-  * If all talks are present `complete` otherwise `incomplete`.
+  * Description: if all talks are present `complete` otherwise `incomplete`.
 * `conference.series`
   * Type: _required_
   * Value: _slugified string_
-  * Stripped domain name, used to match other seasons
+  * Description: stripped domain name, used to match other seasons
 * `conference.tags`
   * Type: _optional_
   * Value: _array of slugs_
-  * See [INFO_TAGS_VALUES](test/conferences.test.js) in `test/conferences.test.js`
+  * Description: see [INFO_TAGS_VALUES](test/conferences.test.js) in `test/conferences.test.js`
 * `conference.link.twitter`
   * Type: _optional_
   * Value: _slugified string_
-  * Official conference Twitter ID
+  * Description: official conference Twitter ID
 * `conference.link.videos`
   * Type: _optional_
   * Value: _URL_
-  * Playlist URL or YouTube/Vimeo channel
+  * Description: playlist URL or YouTube/Vimeo channel
 * `conference.link.website`
   * Type: _optional_
   * Value: _URL_
-  * Official conference website
+  * Description: official conference website
 * `conference.date.from`
   * Type: _required_
   * Value: _date_
-  * First day of the conference in format `yyyy-mm-dd`
+  * Description: first day of the conference in format `yyyy-mm-dd`
 * `conference.date.to`
   * Type: _required_
   * Value: _date_
-  * Last day of the conference in format `yyyy-mm-dd`
+  * Description: last day of the conference in format `yyyy-mm-dd`
 * `conference.location.country`
   * Type: _optional_
   * Value: _free-form string_
-  * Country the talk is taking place in, see [test/countries.json](test/countries.json)
+  * Description: country the talk is taking place in, see [test/countries.json](test/countries.json)
 * `conference.location.city`
   * Type: _optional_
   * Value: _free-form string_
-  * City the talk is taking place in
+  * Description: city the talk is taking place in
 * `conference.description`
   * Type: _optional_
   * Value: _free-form string_
-  * One-line description of the conference
+  * Description: one-line description of the conference
 * `talks`
   * Type: _optional_
   * Value:
-  * Array of talks
+  * Description: array of talks
 * `talks.title`
   * Type: _required_
   * Value: _free-form string_
-  * Title/name of the talk
+  * Description: title/name of the talk
 * `talks.lang`
   * Type: _required_
   * Value: _ISO 639-1 string_
-  * Language the talk is given in, see [test/iso-639-1.json](test/iso-639-1.json)
+  * Description: language the talk is given in, see [test/iso-639-1.json](test/iso-639-1.json)
 * `talks.type`
   * Type: _required_
   * Value: _[regular, lightning, workshop]_
-  * Type of the talks
+  * Description: type of the talks
 * `talks.time`
   * Type: _required_
   * Value: _date or datetime_
-  * Format: `yyyy-dd-mm` or `yyyy-dd-mm hh:mm:ss`
+  * Description: `yyyy-dd-mm` or `yyyy-dd-mm hh:mm:ss`
 * `talks.room`
   * Type: _optional_
   * Value: _free-form string_
-  * Room/hall/auditorium name
+  * Description: room/hall/auditorium name
 * `talks.authors`
   * Type: _optional_
   * Value:
-  * Array of authors
+  * Description: array of authors
 * `talks.authors.name`
   * Type: _optional_
   * Value: _free-form string_
-  * Name and surname
+  * Description: name and surname
 * `talks.authors.twitter`
   * Type: _optional_
   * Value: _slugified string_
-  * Twitter ID
+  * Description: Twitter ID
 * `talks.authors.github`
   * Type: _optional_
   * Value: _slugified string_
-  * GitHub ID
+  * Description: GitHub ID
 * `talks.authors.website`
   * Type: _optional_
   * Value: _URL_
-  * Author's web, must start with http:// or https://
+  * Description: author's web, must start with http:// or https://
 * `talks.slides`
   * Type: _optional_
   * Value: _array of URLs_
-  * Every entry must start with http:// or https://
+  * Description: every entry must start with http:// or https://
 * `talks.videos`
   * Type: _optional_
   * Value: _array of URLs_
-  * Every entry must start with https://youtu.be/, https://vimeo.com/, or for other services an arbitrary URL starting with http:// or https:// is valid
+  * Description: every entry must start with https://youtu.be/, https://vimeo.com/, or for other services an arbitrary URL starting with http:// or https:// is valid
 * `talks.description`
   * Type: _optional_
   * Value: _free-form string_
-  * One-line description of the talk
+  * Description: one-line description of the talk
