@@ -10,21 +10,23 @@
 
 Let's say you want to add conference **React Conf 2018** that took place on **October 25 & 26**.
 
-1. Create file `data/conferences/2018/2018-10-25-react-conf-2018.yaml` as:
+1. [Fork project](https://help.github.com/articles/fork-a-repo/)
+2. Create file `data/conferences/2018/2018-10-25-react-conf-2018.yaml` as:
    * `2018-10-25` - is the first day of the conference
    * `react-conf-2018` - is slugified name of the conference
-2. Follow the [styleguide](#styleguide).
-3. Create a pull request named **Add 2018-10-25-react-conf-2018**.
-4. After you submit your pull request, verify that all status checks are passing.
+3. Follow the [styleguide](#styleguide).
+4. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) named **Add 2018-10-25-react-conf-2018**.
+5. After you submit your pull request, verify that all status checks are passing.
 
 
 ### Updating conference
 
 Let's say you want to update some info for conference **React Conf 2018**.
 
-1. Follow the [styleguide](#styleguide).
-2. Create a pull request named **Update 2018-10-25-react-conf-2018**.
-3. After you submit your pull request, verify that all status checks are passing.
+1. [Fork project](https://help.github.com/articles/fork-a-repo/)
+2. Follow the [styleguide](#styleguide).
+3. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) named **Update 2018-10-25-react-conf-2018**.
+4. After you submit your pull request, verify that all status checks are passing.
 
 
 ### What if the status checks are failing?
