@@ -2,7 +2,7 @@
 
 ## How to add a conference
 
-1. [Fork project](https://help.github.com/articles/fork-a-repo/)
+1. [Fork the project](https://help.github.com/articles/fork-a-repo/)
 2. Create a conference config file `data/conferences/yyyy/yyyy-mm-dd-<slugified-conference-name>.yaml`
 3. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/)
 
