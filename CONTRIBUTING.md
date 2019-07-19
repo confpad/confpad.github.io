@@ -11,9 +11,9 @@
 Let's say you want to add conference **React Conf 2018** that took place on **October 25 & 26**.
 
 1. [Fork project](https://help.github.com/articles/fork-a-repo/)
-2. Create file `data/conferences/2018/2018-10-25-react-conf-2018.yaml` as:
-   * `2018-10-25` - is the first day of the conference
-   * `react-conf-2018` - is slugified name of the conference
+2. Create file `data/conferences/2018/2018-10-25-react-conf-2018.yaml`
+   * `2018-10-25` - first day of the conference
+   * `react-conf-2018` - slugified name of the conference
 3. Follow the [styleguide](#styleguide).
 4. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) named **Add 2018-10-25-react-conf-2018**.
 5. After you submit your pull request, verify that all status checks are passing.
