@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: FrontCon 2019
-  status: incomplete
+  status: complete
   series: frontcon.lv
   tags:
     - web
