@@ -168,7 +168,7 @@ talks:
 
   - title: Things that every JavaScript developer should know
     lang: en
-    type: regula
+    type: regular
     time: 2019-04-05
     room:
     authors:
