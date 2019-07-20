@@ -18,5 +18,359 @@
     country: Latvia
     city: Riga
   description: |-
+    Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
 
 talks:
+    
+  - title: Building resilient frontend architecture
+    lang: en
+    type: regular
+    time: 2019-04-04
+    room:
+    authors:
+      - name: Monica Lent
+        twitter: monicalent
+        github: mlent
+        website:
+    slides:
+    videos:
+      - https://youtu.be/P4wTkRCcpBs
+    description: |-
+      Change is inevitable. So is legacy. And too often, we as developers (who love to solve problems by coding) fall into the trap of believing the only way to fix it is by rewriting everything again and again. But how can we design an application architecture that is more resilient to change in the first place? How can we defend against entropy in a system where people are pushing changes every day? In this talk we’ll define what architecture means for the frontend, dispel some commonly-held myths, and look at specific tools and techniques on a scale from micro to macro that you can use today to keep your app from turning into that infamous ball of mud.
+
+  - title: Bridging the gap between UX and development – A Storybook
+    lang: en
+    type: regular
+    time: 2019-04-04
+    room:
+    authors:
+      - name: Marko Letic
+        twitter: NisamProgramer
+        github: mletic
+        website:
+    slides:
+    videos:
+      - https://youtu.be/QNYSCkLn4Oo
+    description: |-
+      The main topic of this talk is a short introduction to Storybook.js, JavaScript library that allows us to create independent and interactive UX components from already existing ones, developed in frameworks such as Angular, React or Vue. Reusing the components, we create an isolated environment that can be shared within the organization and enable a collaboration between designers and developers on a whole new level. Different use-cases will be described using Angular as a framework of choice with practical examples.
+
+  - title: Modern JavaScript Frameworks & SEO
+    lang: en
+    type: regular
+    time: 2019-04-04
+    room:
+    authors:
+      - name: Jecelyn Yeen
+        twitter: JecelynYeen
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-0DoYpj3SVc
+    description: |-
+      Many modern JavaScript frameworks render their HTML content on the client-side assuming that every environment that is accessing their pages is as modern as they are. However, many search engines – including Google Search – do not behave exactly the same as a user’s browser.In this session, you will learn some facts about Google Search, its rendering pipeline and the various tools which can help you diagnose the gap between what your users see versus what Google Search sees.
+
+  - title: AAA 3D graphics on the Web with ReactJS + BabylonJS + Unity3D
+    lang: en
+    type: regular
+    time: 2019-04-04
+    room:
+    authors:
+      - name: Denis Radin
+        twitter: PixelsCommander
+        github: PixelsCommander
+        website:
+    slides:
+    videos:
+      - https://youtu.be/e-avQTvjORI
+    description: |-
+      Building photorealistic 3D experiences on the Web is a challenge. Making it with React is even harder but once you got there it pays off in many ways. This talk is about Evolution Gaming approach of working with 3D graphics on the Web using ReactJS with the goal to build the most sophisticated and expensive 
+
+  - title: React Advanced Patterns
+    lang: en
+    type: regular
+    time: 2019-04-04
+    room:
+    authors:
+      - name: Manjula Dube
+        twitter: manjula_dube
+        github: manjula91
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lvndTUDNspw
+    description: |-
+      This talk is going to focus on some advanced patterns in building your react components. More over we do not know what the best way to do things and we end up feeling stressed out. To release your stress let talk you can make use of some patterns that worked for us best and will work for you as well. We will also talk about Hooks & Suspense.
+
+  - title: How to nail your next (frontend) interview
+    lang: en
+    type: regular
+    time: 2019-04-04
+    room:
+    authors:
+      - name: Jānis Miezītis
+        twitter: janjiss
+        github: janjiss
+        website:
+    slides:
+    videos:
+      - https://youtu.be/VWx7peRBZsA
+    description: |-
+      At the beginning, we are going to get technical and discuss skills that are essential and skills that are good to have in the context of modern frontend development. In the second part of the talk, we are going to try to deconstruct “soft skills” that not only will help you with passing the interview but also will help you to become a better team player. And at the final part, we are going to switch our focus to the other side of the table and speak about some techniques and approaches that you can use as an interviewer to find best possible candidates for your team.
+
+  - title: 'V8 by example: A journey through the compilation pipeline'
+    lang: en
+    type: regular
+    time: 2019-04-04
+    room:
+    authors:
+      - name: Ujjwal Sharma
+        twitter: zokuken
+        github: ryzokuken
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qeWQu2iii1U
+    description: |-
+      V8 is complicated. Things change way too fast and it’s really hard to keep track of what’s the fastest way of doing every specific action.But not anymore. Join me, a V8 contributor, on a journey through the compilation pipeline of V8 and understand how it all works under the hood. We’ll take the example of a popular JavaScript builtin method and find that what does and does not trigger de-optimization.By the end of the talk, you will have a fairly decent idea of how builtins are written inside the V8 compilation pipeline, and how to make sure you always take the fast path, no matter what.
+
+  - title: Knock knock, who’s there? Authenticating your single page apps using JSON Web Tokens
+    lang: en
+    type: regular
+    time: 2019-04-04
+    room:
+    authors:
+      - name: Sam Bellen
+        twitter: sambego
+        github: Sambego
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mor9QNhAkuY
+    description: |-
+      In this talk I will try to explain in depth, the way JSON Web Tokens work and can be used to secure your single page apps. I will explain the difference between using opaque tokens and JWTs. The talks will also give an overview of a modern authentication flow and a step by step breakdown of how it works exactly. No specific previous knowledge is required, but it helps the audience has some experience with authenticating users.
+
+  - title: In the Trenches During a Software Supply Chain Attack
+    lang: en
+    type: regular
+    time: 2019-04-04
+    room:
+    authors:
+      - name: Mitch Denny
+        twitter: mitchdenny
+        github: mitchdenny
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cKus-f7AbC8
+    description: |-
+      Front-end developers have grown accustomed to protecting themselves from attackers seeking to exploit vectors such as cross-site scripting and malicious input, but the prevalence of reusable micro-libraries in the Node.js ecosystem makes JavaScript developers particularly susceptible to software supply chain attacks.In this session Mitch will share his perspective on helping to protect Microsoft and its customers from these supply chain attacks and what it is like being the vendor of an artifact management service which often plays the middleman between target and victim.Learn how Microsoft tackles the problem of securely taking dependencies on open source software and what problems scanning tools can and can’t solve and thoughts on how we as an industry could start to tackle the problem for 0-day malicious packages.
+
+  - title: Things that every JavaScript developer should know
+    lang: en
+    type: regula
+    time: 2019-04-05
+    room:
+    authors:
+      - name: Rachel Appel
+        twitter: RachelAppel
+        github: rachelappel
+        website:
+    slides:
+    videos:
+      - https://youtu.be/pVMVqnVLyfM
+    description: |-
+      JavaScript can be a passive-aggressive and fickle language that can frustrate you at every turn. It lets you do things like declare variables anywhere, but doesn’t tell you that it will hoist them while you’re not looking. Learn how JavaScript organizes data by using key-based dictionaries and how it handles functions behind the scenes. Additionally, you'll learn how JavaScript uses arrow functions, closures, prototypes and inheritance, equality, and more.In this session, you'll learn little known facts about JavaScript, as well as frequently experienced JavaScript headaches and mistakes, and ways to avoid them. Learn these key facets of JavaScript and take your knowledge to the next level!
+
+  - title: 'Serverless: a backend thing that gives superpowers to frontend developers'
+    lang: en
+    type: regular
+    time: 2019-04-05
+    room:
+    authors:
+      - name: Slobodan Stojanovic
+        twitter: rawkode
+        github: stojanovic
+        website:
+    slides:
+    videos:
+      - https://youtu.be/BvDXzyOP3NE
+    description: |-
+      Slobodan Stojanović is based in Belgrade and is the JS Belgrade meetup co-organizer, he is the AWS Serverless Hero, Claudia.js core team member, and co-author of “Serverless Applications with Node.js” book, published by Manning Publications.
+
+  - title: Painting with Data
+    lang: en
+    type: regular
+    time: 2019-04-05
+    room:
+    authors:
+      - name: Richard Westenra
+        twitter: RichardWestenra
+        github: richardwestenra
+        website:
+    slides:
+    videos:
+      - https://youtu.be/yJZEHW4i3fk
+    description: |-
+      You have so much information, and you want to make it not just intelligible but compelling. How do you pick a chart type that will present it intuitively, and how do you build it and animate it attractively while keeping it performant across all the devices?We’re faced with an overwhelming number of different platforms, frameworks and technologies to use as our canvas (including not least, HTML5 Canvas). I’ll help you chart a course through the different options.
+
+  - title: How to extend webpack with your own plugins
+    lang: en
+    type: regular
+    time: 2019-04-05
+    room:
+    authors:
+      - name: Viktor Razumov
+        twitter: vicrazumov
+        github: vicrazumov
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zJ9BpVjS6O0
+    description: |-
+      World Health Organization reports, that 97% of JS developers use webpack, but only 2% fully understand how it works. This leads to higher amounts of stress, bigger bundles and 64.26726df1f478a5af4bd6.js. However, understanding the mechanics under the hood together with the extension capabilities proved increasing developers’ happiness by 100%.This talk will briefly reveal the magic behind webpack and showcase how you can easily extend it with your own plugins and loaders. Audience level: intermediate to senior developers using webpack in everyday life.
+
+  - title: Managing State in React Apps with RxJS
+    lang: en
+    type: regular
+    time: 2019-04-05
+    room:
+    authors:
+      - name: James Wright
+        twitter: jamesseanwright
+        github: jamesseanwright
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mGRbEdxPVrI
+    description: |-
+      Redux is one of the most popular technologies for the management of shared state across entire React applications, which can be complemented by Redux Observable to describe asynchronous side effects with RxJS. This approach, however, adds cognitive load when balancing the varying concepts across these three libraries. What if we could use RxJS exclusively for managing state in our React apps? This talk will demonstrate this possibility and the benefits it provides.
+
+  - title: The Art of Obfuscation
+    lang: en
+    type: regular
+    time: 2019-04-05
+    room:
+    authors:
+      - name: Martin Kleppe
+        twitter:
+        github: aemkei
+        website:
+    slides:
+    videos:
+      - https://youtu.be/UH-j0BudwXI
+    description: |-
+      How do we write small programs that output their own source in a different way?Why do we write code in English and limit us to ASCII characters?Can we write JS that is also valid CSS and HTML at the same time?Follow Martin on his journey through a maze of code where the boundaries between art and programming are blurred. This entertaining talk will show off invisible code, tweet-sized games, Asian programs, symmetric JavaScript, polyglot inceptions, self-modifying functions, exotic symbols, and much more mind-blowing examples.
+
+  - title: Algebraic Data Types
+    lang: en
+    type: regular
+    time: 2019-04-05
+    room:
+    authors:
+      - name: Marius Jurgelenas
+        twitter:
+        github: mariusju
+        website:
+    slides:
+    videos:
+      - https://youtu.be/A9cB9VjZFTg
+    description: |-
+      Algebraic Data Types (ADTs) are types composed of other types. There are two classes of them – product and sum types. Although there is a better support in JavaScript for product types, we can also use sum types as well. In this lightning talk I will briefly explain what these different ADTs are and how can we use them to better model and think about our data.
+
+  - title: Software Decision Making in Terms of Uncertainty
+    lang: en
+    type: regular
+    time: 2019-04-05
+    room:
+    authors:
+      - name: Ziv Levu
+        twitter: zivlevy1
+        github: zivl
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Qo9T9ruBxbs
+    description: |-
+      When we build the best possible software engineering solution, we face many decisions we must make. Daily. Maybe those decisions taking could be much easier? In this talk I will attack the pain points of decision making in software and how I helped my team to enjoy lighter decision making process.
+
+  - title: Parcel – your next web application bundler?
+    lang: en
+    type: regular
+    time: 2019-04-05
+    room:
+    authors:
+      - name: Janis Koselevs
+        twitter: dzhonijs
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3l2q5HYWPyI
+    description: |-
+      When I wanted to compare which bundler to use in my next small project – Webpack or Rollup, I came across a new kid on the block – Parcel.At first I was like – OMG! Another one! Why?! And then I was like – Interesting… and you wouldn’t believe what happened next!
+
+  - title: Building next generation PWA e-commerce frontend
+    lang: en
+    type: regular
+    time: 2019-04-05
+    room:
+    authors:
+      - name: Raivis Dejus
+        twitter: RaivisDejus
+        github: raivisdejus
+        website:
+    slides:
+    videos:
+      - https://youtu.be/rL5Gbn4hJws
+    description: |-
+      Page load times can influence conversion rates and store profitability a lot. PWA is a magic keyword that can deliver fast page load times and happy customers that buy a lot. PWA was coming to Magento, there were several competing solutions, but we wanted to be the best and stand out. Being the most certified Magento agency in the world Scandiweb wanted to make something that is both compatible with default Magneto, but also easier to use and faster. So this is a story of looking at competitors and finding our niche as well as building on experience gained by creating solutions for the world's top brands.
+
+  - title: GraphQL Will Do To REST What JSON Did To XML
+    lang: en
+    type: regular
+    time: 2019-04-05
+    room:
+    authors:
+      - name: Roy Derks
+        twitter: gethackteam
+        github: royderks
+        website:
+    slides:
+    videos:
+      - https://youtu.be/FsAxgju5QFM
+    description: |-
+      GraphQL was developed by Facebook to be used as a query language for APIs and today it’s rapidly increasing in popularity and is changing the way frontend developers interact with data requested from the backend. This talk will show how using GraphQL instead of REST services the development process becomes even more declarative as GraphQL will take away the (imperative) hassle of tying data from multiple endpoints together.
+
+  - title: 'Case-study: Frontend in Cybersecurity'
+    lang: en
+    type: regular
+    time: 2019-04-05
+    room:
+    authors:
+      - name: Ruslan Zavacky
+        twitter: RuslanZavacky
+        github: RuslanZavacky
+        website:
+    slides:
+    videos:
+      - https://youtu.be/AD5MtA7wQLU
+    description: |-
+      This talk will cover the whole UX development process and many choices that we as a team did, to get where we are now. When you think about frontend, it’s not just a developers who writes Javascript. If you want to make it right, you need UX researchers, UX designers, UI designers, Visual Designers, Technical writers and, of course, UX developers. I would like to talk about each roll in short and how they help and why you should have all of them to achieve best results. After that I want to go into more technical details on why EmberJs (its not so trendy, right?). How we work with ES6 and why we see future in Typescript. I will structure a talk in terms of a “technical challenge – pros/cons – why we’ve chose A and not B”. For example:We have 16 applications internal and external. Why we have them separate and not a single app.We had ~8-10 internal packages and we’ve merged them into 2. Why we’ve did that and why benefits out-weighted cons?
+
+  - title: Delivering Fast Video without the Buffering
+    lang: en
+    type: regular
+    time: 2019-04-05
+    room:
+    authors:
+      - name: Doug Sillars
+        twitter: dougsillars
+        github: dougsillars
+        website:
+    slides:
+    videos:
+      - https://youtu.be/KTElBkSmq3A
+    description: |-
+      Video is one of the fastest growing mediums on the web and in mobile applications. Video files have been shown to increase engagement, and can be a great way to deliver your message quickly. (And who doesn’t love animated GIFs?)However, video that takes a long time to start up leads to frustration and abandonment. The same goes for video that stalls during playback. In this talk, you’ll learn best practices to optimize the delivery of your video to you customers, ensuring fast delivery and minimizing stalls for a great customer experience.
+  
