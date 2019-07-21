@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: RubyConf AU 2019
-  status: incomplete
+  status: complete
   series: rubyconf.org.au
   tags:
     - ruby
@@ -18,5 +18,350 @@
     country: Australia
     city: Melbourne
   description: |-
+    Our yearly gathering where we share knowledge about the Ruby programming language, and celebrate the Australian and broader Ruby community.
 
 talks:
+
+  - title: The Case Of The Missing Method - A Ruby Mystery Story
+    lang: en
+    type: regular
+    time: 2019-02-07
+    room:
+    authors:
+      - name: Nadia Odunayo
+        twitter: nodunayo
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/aRkHqYDi_wQ
+    description: |-
+      Business is slow for Ruby Private Investigator, Deirdre Bug. She’s on the verge of switching industry when she gets a call from an anxious young man. "Some class methods have gone missing," he tells her breathlessly. "I need your help."Deirdre takes the case and begins exploring Ruby objects behind the scenes. Though she thinks she's on familiar ground — Ruby's object model, method lookup — she's about to discover that she really has no clue.
+
+  - title: I Have ADD and So Can - Ooh, Shiny!
+    lang: en
+    type: regular
+    time: 2019-02-07
+    room:
+    authors:
+      - name: Heidi Waterhouse
+        twitter: wiredferret
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xX6qLuarYVs
+    description: |-
+      Come listen to me talk about my own invisible neurodiversity, and what it has taught me about being a good employee and becoming more effective because of who I am, not in spite of it.Heidi is a developer advocate with LaunchDarkly. She delights in working at the intersection of usability, risk reduction, and cutting-edge technology. One of her favorite hobbies is talking to developers about things they already knew but had never thought of that way before. She sews all her conference dresses so that she’s sure there is a pocket for the mic.
+
+  - title: How to hijack, proxy and smuggle sockets with Rack/Ruby
+    lang: en
+    type: regular
+    time: 2019-02-07
+    room:
+    authors:
+      - name: Dávid Halász
+        twitter: halaszdavid
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/dU7192V1mLI
+    description: |-
+      Does your network only let through HTTP connections? No problem! Let’s hijack some sockets from incoming HTTP connections and use it to smuggle any kind of traffic through an HTTP session! Concurrently! In Ruby!David is a Software Engineer working for Red Hat. His first language is C, but fell in love with Ruby in 2012 and now codes in it for a living.
+
+  - title: Representations Count
+    lang: en
+    type: regular
+    time: 2019-02-07
+    room:
+    authors:
+      - name: Tom Stuart
+        twitter: tomstuart
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ej-W956YQN0
+    description: |-
+      In your grandparents’ attic you discover a mysterious old computer. You boot it up and discover it runs Ruby, but doesn’t support negative numbers! How can you implement negative numbers in an elegant way? We’ll explore two solutions and discover how important it is to pick the right representation.
+
+  - title: What Could Go Wrong? The Subtle Science Of Coding for Failure
+    lang: en
+    type: regular
+    time: 2019-02-07
+    room:
+    authors:
+      - name: Daniel Fone
+        twitter: danielfone
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/R7BSwkvGoH0
+    description: |-
+      Software development is the anticipation of a thousand dangers: regressions, edge-cases, exceptions, attacks, downtime, the list is endless. Drawing from a wide range of disciplines, we’ll build a simple model for quantifying danger, explore why the human brain is so bad at it, and examine some practical applications for our development processes. There will be at least one science.
+
+  - title: Harry the Hedgehog Learns You A Communication
+    lang: en
+    type: regular
+    time: 2019-02-07
+    room:
+    authors:
+      - name: Laura Mosher
+        twitter: LauraTrev
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1R_2MZC81Aw
+    description: |-
+      Communication is one of the most difficult skills to master in software development. There are many shortfalls in communication — both written and spoken — that have an impact on how you are perceived. Harry the Hedgehog will uncover some of those shortfalls and how he overcame them.Laura is a software engineer with a passion for clean code and oxford commas. She’s passionate about creating a better world through code, kindness, and understanding. When she isn’t coding, she enjoys rescuing hedgehogs, making things, and playing games.
+
+  - title: Taming Monoliths Without Microservices
+    lang: en
+    type: regular
+    time: 2019-02-07
+    room:
+    authors:
+      - name: Kelly Sutton
+        twitter: kellysutton
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-ovkkvvTiRM
+    description: |-
+      In the recent years, microservices have been an investment among many engineering teams as they scale. They are often the default of many new companies.But how has that gone wrong? This talk will dive into how one company of ~100 engineers refined their thinking and their Rails app for the better.
+
+  - title: Pairing with People Who Don't Look Like You
+    lang: en
+    type: regular
+    time: 2019-02-07
+    room:
+    authors:
+      - name: Betsy Haibel
+        twitter: betsythemuffin
+        github:
+        website:
+    slides:
+    videos:
+      - - https://youtu.be/A_9v5L01fcs
+    description: |-
+      Pair programming can be hazardous if you’re from an underrepresented group. Bad pairs will keyboard-hog, ignore your ideas, and talk down to you. In this talk, you’ll learn how to rescue pairing sessions from bad power dynamics – whether you’re a well-intentioned jerk or their long-suffering pair.Betsy Haibel is the founding CTO of Cohere. She writes fiction and nonfiction in English, Ruby, and Javascript – among other languages – and co-organizes Learn Ruby in DC. Her lifelong ambitions? To meet a red panda, and to break down barriers between “developers” and “users.”
+
+  - title: A Branch in Time (a story about revision histories)
+    lang: en
+    type: regular
+    time: 2019-02-07
+    room:
+    authors:
+      - name: Tekin Süleyman
+        twitter: brilimitless
+        github: tekin
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1NoNTqank_U
+    description: |-
+      In one timeline a quick path to clarity. In the other a painful journey trying to uncover the obscure intent of a line of code. The only difference between these two realities? The revision history…This is a story about revision histories and their impact on software maintainability. Think Sliding Doors, but with more Git!
+
+  - title: Environment Variables
+    lang: en
+    type: regular
+    time: 2019-02-07
+    room:
+    authors:
+      - name: Merrin Macleod
+        twitter: commerxplat
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/N4hiqGwTRBU
+    description: |-
+      How can we minimise our software’s contribution to climate change? How do we make software that can withstand climate change-related disasters? How do we deal with the knowledge that we’re careening towards catastrophe?Tekin is a senior freelance consultant who’s been shipping Ruby code for over a decade. He’s worked with teams, large and small: from Government agencies (GDS) to listed startups (FreeAgent), and the world’s oldest and largest Co-operative (Co-op Digital). He also runs the North West Ruby User Group in Manchester, UK.
+
+  - title: Internet Legislation is Eating the World
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Eliza Sorensen
+        twitter: Zemmiph0bia
+        github:
+        website:
+      - name: Jack Chen
+        twitter: chendo
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/MDBm6_udqLg
+    description: |-
+      [Eliza](https://twitter.com/Zemmiph0bia) is an Infrastructure & Security engineer, cyber witch and co-founder of social enterprise [Assembly Four](https://assemblyfour.com/) who created sex worker friendly social network Switter and inclusive modern advertising platform Tryst.Mostly known as “chendo”, Jack is a software-oriented problem-solver who occasionally enjoys making computers do his bidding. He is one of the co-founders of a social enterprise called [Assembly Four](https://assemblyfour.com/), which aims to build modern products and services for sex workers around the world. When he’s not yelling at computers, you can find him bouldering, playing video games, or go karting.
+
+  - title: "What were they thinking?"
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Keith Pitty
+        twitter: keithpitty
+        github: 
+        website:
+    slides:
+    videos:
+      - https://youtu.be/KiGbAbjYAjI
+    description: |-
+      This is a sentiment many Rails developers have experienced whilst reading a legacy codebase, trying to glean the motivations behind the code or simply understand what it is meant to do. This talk turns that perspective on its head and asks, “what can I do to prevent this scenario?"Keith Pitty has been developing software professionally for more than three decades. Since 2000 he has maintained a keen interest in Agile approaches and for the last ten years has made many contributions to the Australian Ruby community. He has been fascinated by how developers consider other people when developing software since his early days of programming on mainframes. Away from computers he enjoys golf, is a cricket tragic and a passionate Collingwood supporter.
+
+  - title: Views, from the top
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Tim Riley
+        twitter: timriley
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/VGWt1OLFzdU
+    description: |-
+      With server-rendered HTML still delivering most of the web, our views deserve more than a grab bag of helpers.Come along and learn the tools and techniques to conquer the design challenges that a complex view layer presents.Tim Riley is a partner at Australian design agency Icelab, and a core developer of dry-rb and rom-rb. He’s excited by small libraries, first-class functions, and pushing forward web app development with Ruby.
+
+  - title: 'earn to make the point: data visualisation strategy'
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Mila Dymnikova
+        twitter: milameow1
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4OkoJxR3jdM
+    description: |-
+      Let me guess, your code is awesome but no one else gets it? You need a data visualisation! Complex concepts can easily be explained through visual information. There are four types to choose from storytelling, status, analytical and exploratory. I’ll help you find the perfect one.Mila is a data geek that loves data visualisations. Especially if the data visualisation is related to cats. Ruby is still her favourite language because of the community and how expressive it is. When she's not coding, you’ll find Mila cruising on an electric skateboard.
+
+  - title: Hacking Your Emotional API
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: John Sawers
+        twitter: emotionalapi
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OGDRUI8biTc
+    description: |-
+      Being a good developer isn’t just about slinging code; we’re part of a community. Interacting with others in a community means feelings are involved.John the co-founder and CTO of Data Simply and a Senior Developer at Privia Health. He’s been programming professionally for two decades, in Perl, Java, PHP and Ruby. In recent years he has also been supervising workshops called “Purpose, Passion, Peace” which helps people get deeply in touch with themselves and liberated from past traumas. He has fused his expertise from these disparate areas into a new way of thinking about them both.
+
+  - title: Algorithms to live by and why should we care
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Elle Meredith
+        twitter: aemeredith
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/kxYL0EyYOKw
+    description: |-
+      In this talk we will discuss algorithmic thinking in everyday life in language we can all understand. We will explore widely applicable algorithms, and how they reveal themselves in our everyday lives, so that we better understand what when and how we can use them in our programs.Elle is a full stack web developer with more than ten years experience writing Ruby and Rails. Currently at Blackmill, previously she was Development Director at thoughtbot New York. Elle believes in writing clean code, driven by automatic tests, with agile practices, an even work/life balance, and a respectful and inclusive team culture. Recently, she developed and ran the apprenticeship program for Hooroo, up-skilling less experienced developers. When she is not immersed in the Ruby community, she is probably immersed in water, or lately, in bread flour.
+
+  - title: Building APIs you want to hug with GraphQL
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Tom Ridge
+        twitter: tjridge
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lyJebJuG_sk
+    description: |-
+      Let’s take a look at how to go about implementing a GraphQL API that’s evolvable and empowers your team.Tom Ridge is a developer currently residing in Brisbane, Australia. A father of twins, he’s recently organised a Rails Camp, was Vice President of Ruby Australia and has co-organised his local meetup. Somehow, he’s still not sure why he has so little free time.
+
+  - title: What the hell is a JRuby?
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Tom Gamon
+        twitter: thrgamon
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qJqC6xm-2PI
+    description: |-
+      If you are like me and you don’t know your MRI from your RBX, you think a Truffle Ruby sounds delicious and panic when someone mentions JRuby, then this talk is for you. We will delve into JRuby and figure out what it is, why it is and how it is different from 'normal' ruby and other alternative Ruby implementations.
+
+  - title: It's Down! Simulating Incidents in Production
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Kelsey Pedersen
+        twitter: kelsey_pedersen
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/NYZdambrG_I
+    description: |-
+      In responding to incidents – either at 3am or the middle of the day – we want to feel prepared and practiced in resolving production issues. In this talk, you’ll learn how to practice incident response by simulating outages in your application.Kelsey Pedersen is a software engineer at Stitch Fix on the styling engineering team. She builds internal software their stylists use to curate clothes for their clients. She works cross-functionally with their styling community and data science team to build new features to better assist their stylists. She had a former career in sales and as a Division I rower at UC Berkeley.
+
+  - title: Mechanically Confident
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Adam Cuppy
+        twitter: adamcuppy
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Btsx9YzhJVM
+    description: |-
+      Adam is _not_ a Fortune 500 CEO, award-winning book author, or Nobel Prize recipient. But, he’s an actor turned software engineer who co-founded [ZEAL](https://codingzeal.com), a people-centric process-focused consulting company located around the United States. 
+
+  - title: Cats, The Musical! Algorithmic Song Meow-ification
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Beth Haubert
+        twitter: haubertdashery
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JTNPLwqJIDg
+    description: |-
+      How are you supposed to sing along with your favorite TV theme song every week if it doesn't have lyrics? At my house, we "meow" along (loudly). We also code, so I built 'Meowifier' to convert any song into a cat's meows. Join me in this exploration of melody analysis APIs and gratuitous cat gifs.I built an application that takes a song's audio and outputs a new audio file with that song's melody **sung by cats**. It's a technical feat. It's hilarious. It's beautiful. It's a new way to waste time on the internet.[Beth](https://www.bethanyhaubert.com/) is a software engineer who loves Ruby, little-known APIs, handcrafting SQL queries, and as many monitors on her desk as possible. She’s also a former airborne cryptologic linguist for the US Air Force, fluent in Mandarin. Things you can ask her about include cats, board games, karaoke, and building applications that convert songs into auto-tuned cat meows. Things she'll have to kill you if you ask her about: the airborne linguist part. Also, she likes to make emojis look like they're farting
+
+
+
+  
