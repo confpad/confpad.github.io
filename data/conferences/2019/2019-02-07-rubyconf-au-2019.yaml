@@ -146,7 +146,7 @@ talks:
         website:
     slides:
     videos:
-      - - https://youtu.be/A_9v5L01fcs
+      - https://youtu.be/A_9v5L01fcs
     description: |-
       Pair programming can be hazardous if you’re from an underrepresented group. Bad pairs will keyboard-hog, ignore your ideas, and talk down to you. In this talk, you’ll learn how to rescue pairing sessions from bad power dynamics – whether you’re a well-intentioned jerk or their long-suffering pair.Betsy Haibel is the founding CTO of Cohere. She writes fiction and nonfiction in English, Ruby, and Javascript – among other languages – and co-organizes Learn Ruby in DC. Her lifelong ambitions? To meet a red panda, and to break down barriers between “developers” and “users.”
 
