@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: try! Swift NYC 2018
-  status: incomplete
+  status: complete
   series: tryswift.co
   tags:
     - swift
@@ -18,5 +18,389 @@
     country: United States
     city: New York City
   description: |-
+    try! Swift Conference is an international community gathering about the latest advancements in Swift Development. The event is about bringing together talent from all around the world to collaborate and share advanced knowledge and techniques to improve Swift craftsmanship. Coming again to New York City on September 4th & 5th 2018, with workshops happening on September 3rd!
   
 talks:
+
+  - title: Circumventing Fear of the Unknown
+    lang: en
+    type: regular
+    time: 2018-09-04
+    room:
+    authors:
+      - name: Ash Furrow
+        twitter: ashfurrow
+        github: ashfurrow
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Taken For Granted
+    lang: en
+    type: regular
+    time: 2018-09-04
+    room:
+    authors:
+      - name: Bas Broek
+        twitter: BasThomas
+        github: BasThomas
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ePuOrCbIW-o
+    description: |-
+      try! Swift NYC Conference 2018 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in New York! Bio - Bas is an iOS and tooling developer at XING. He is currently curating Swift Weekly Brief and contributing to frameworks, apps and tooling in open source. He likes Swift and experimenting with other programming languages.
+
+  - title: Understanding the Machine Learning Behind Common iOS Use Cases
+    lang: en
+    type: regular
+    time: 2018-09-04
+    room:
+    authors:
+      - name: Aileen Nielsen
+        twitter: tryswiftnyc
+        github: AileenNielsen
+        website:
+    lides:
+    videos:
+    description: |-
+
+  - title: Memojis under the hood
+    lang: en
+    type: regular
+    time: 2018-09-04
+    room:
+    authors:
+      - name: Berta Devant
+        twitter: bertadevant
+        github: bertadevant
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ERwertwlwrE
+    description: |-
+      try! Swift NYC Conference 2018 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in New York!Abstract - During this year's keynote memoji was introduced to iOS 12 and iPhone X, allowing users to create a meme of their own persona and use that for message apps as an animoji. In this talk I will walk you through some of the new thing from Face Tracking and how you can create your own memoji using ARKit 2.
+
+  - title: Idea to launch - the start of a startup
+    lang: en
+    type: regular
+    time: 2018-09-04
+    room:
+    authors:
+      - name: Leah Culver
+        twitter: leahculver
+        github: leah
+        website:
+    slides:
+    videos:
+      - https://youtu.be/b7bVgnbgGyI
+    description: |-
+      try! Swift NYC Conference 2018 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in New York!Bio - Leah Culver is the co-founder and CTO of Breaker, the top social podcast app for iOS. Breaker launched in March 2017 and was Y Combinator class of Winter 2017. Leah also previously founded Pownce, an early social networking site and Convore/Grove, a group messaging service. Leah is also a co-author of both the OAuth and oEmbed open API specifications. She loves Swift, especially powerful enums and fun extensions.
+
+  - title: 'Swift on Server: Are We There Yet?'
+    lang: en
+    type: regular
+    time: 2018-09-04
+    room:
+    authors:
+      - name: Gopal Sharma
+        twitter: gopalkri
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qpDiXZRADfE
+    description: |-
+      Abstract - Swift on the server has been talked about since Swift was open sourced. There have been a lot of efforts to make Swift on the server viable. However, when building a product, you should be focused on your product, not on the tools and frameworks backing it. This talk evaluates the holistic experience of building a small (but real) backend in Swift, versus a few well known frameworks in other languages, and tries to answer the age old question: Are we there yet?
+
+  - title: SwiftNIO and Network.framework
+    lang: en
+    type: regular
+    time: 2018-09-04
+    room:
+    authors:
+      - name: Johannes Weiss
+        twitter: johannesweiss
+        github: weissi
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RW2vKWiGWr4
+    description: |-
+      NiO, Vapor's integration, and what it means for future of Swift.Bio - Originally planning on working his way up the ranks of Panera Bread Company, Logan was unexpectedly thrust into the high octane world of iOS App Development. Passionate about open source, he eventually found his way to Vapor where he currently works developing open source web tools in swift. He still makes sandwiches in his spare time.
+
+  - title: Making it Generic
+    lang: en
+    type: regular
+    time: 2018-09-04
+    room:
+    authors:
+      - name: Jon-Tait Beason
+        twitter: bugKrusha
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xpqVVenP8ok
+    description: |-
+
+  - title: 'Let Them Say What They Want: Adding Siri Shortcuts'
+    lang: en
+    type: regular
+    time: 2018-09-04
+    room:
+    authors:
+      - name: Christina Moulton
+        twitter: ChristinaMltn
+        github: cmoulton
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_0PzPj2VUVw
+    description: |-
+      Siri Shortcuts help to improve your user experience by making actions available with Siri in iOS, watchOS, CarPlay and HomePod. We can set up our apps to give easy access to frequent actions without needing to open the app. Even better, iOS can suggest frequently used actions pro-actively using notifications or the lock screen. We’ll see how to add custom Siri Shortcuts to our apps, how to expose them so that Siri can recommend them, and how to let users set up their own voice commands to access their favourite Shortcuts.
+
+  - title: Getting Started with Apple ML
+    lang: en
+    type: regular
+    time: 2018-09-04
+    room:
+    authors:
+      - name: Audrey Tam
+        twitter: mataharimau
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ZDWu9DUmD9s
+    description: |-
+      You want to add ML to your apps but you think you need to study a lot of math and write Python and you can’t find the time? Think again: Apple’s Create ML gets you started in the comfort of Xcode and Swift! No math needed :]. Create ML is brilliant for getting you started with ML. It makes it easy to try different datasets — getting your data right is actually the hardest and most time consuming part of ML. Once you get started with ML, you won’t want to wait / hope for Apple to add more models to Create ML. To help you explore the ML universe that’s written in Python, I’ll reduce the fright factor by comparing Create ML Swift with Turi Create Python, and showing you how to quick-start your exploration of Turi Create. And I’ll point you to Keras and scikit-learn, in case you want to roll your own models.
+
+  - title: What I learned creating a social media app clone
+    lang: en
+    type: regular
+    time: 2018-09-04
+    room:
+    authors:
+      - name: Jen Person
+        twitter: ThatJenPerson
+        github: jenperson
+        website:
+    slides:
+    videos:
+      - https://youtu.be/7pEATK6PgXs
+    description: |-
+       Ever look at an app and think, 'I wonder how I'd build that?' After scrolling through Instagram looking at cat photos, I decided to try my hand at building some of its features to determine how I'd tackle common development challenges. In this talk I share what I learned, including tips for designing a scalable data structure in a NoSQL database and implementing smooth scrolling with dynamically downloaded images.
+
+  - title: Crafting a delightful tactile user interface
+    lang: en
+    type: regular
+    time: 2018-09-04
+    room:
+    authors:
+      - name: Sebastiaan de With
+        twitter: sdw
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/U_Rq8UvGYzc
+    description: |-
+      Go through the steps to take a simple user interface from a utility to a sheer delight. Learn the touches and mindset required to (re)design your app's UI to let users love interacting with it.Sebastiaan de With is an ex-Apple designer and photographer that is the design half of the team behind the camera app Halide. When he’s not working on Halide, he does design work for companies like Apple, Google, and small and large iOS / Mac software companies.
+
+  - title: Trusting SDKs
+    lang: en
+    type: regular
+    time: 2018-09-05
+    room:
+    authors:
+      - name: Felix Krause
+        twitter: KrauseFx
+        github: KrauseFx
+        website:
+    slides:
+    videos:
+      - https://youtu.be/BXePggcWpuE
+    description: |-
+       Using third party SDKs significantly speeds up your development process. Felix will talk about the risks of depending on external code, and how an attacker can easily inject malicious code in software you bundle within your app.Felix is the creator of fastlane, an open source toolset for automating all your iOS and Android development tasks. He joined Twitter in 2015, and recently started working at Google, where he now works full-time on open source tooling for mobile app developers. Before that Felix worked at various startups in Europe and in the U.S. where he collected over 6 years of experience in the iOS ecosystem.
+
+  - title: Swift NIO, Vapor, and Server Concurrency
+    lang: en
+    type: regular
+    time: 2018-09-05
+    room:
+    authors:
+      - name: Logan Wright
+        twitter: LogMaestro
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RW2vKWiGWr4
+    description: |-
+      NiO, Vapor's integration, and what it means for future of Swift.Originally planning on working his way up the ranks of Panera Bread Company, Logan was unexpectedly thrust into the high octane world of iOS App Development. Passionate about open source, he eventually found his way to Vapor where he currently works developing open source web tools in swift. He still makes sandwiches in his spare time.
+
+  - title: Effective Core Data with Swift
+    lang: en
+    type: regular
+    time: 2018-09-05
+    room:
+    authors:
+      - name: Tom Harrington
+        twitter: atomicbird
+        github: atomicbird
+        website:
+    slides:
+    videos:
+      - https://youtu.be/w7tFF7IfKVk
+    description: |-
+      Core Data brings a lot of power to an app and continues to evolve, but it can have rough spots when you're working in Swift. What if you want to save an enum pr a struct? Does it help if your data is Codable? What's the best way to create Swift-friendly model classes? This session will cover techniques and gotchas for integrating Core Data with your Swift code
+
+  - title: Swift Services are Simple
+    lang: en
+    type: regular
+    time: 2018-09-05
+    room:
+    authors:
+      - name: Chris Bailey
+        twitter: Chris__Bailey
+        github: seabaylea
+        website:
+      - name: Ian Partridge
+        twitter: alfa
+        github: ianpartridge
+        website:
+    slides:
+    videos:
+      - https://youtu.be/tBogAmEzJCk
+    description: |-
+      Chris and Ian will explore what it’s like to build REST APIs in Kitura 2, using the built-in support for OpenAPI. Quickly generate an iOS and Android client SDK to use in your app, and deploy your server-side Swift app to the cloud. We’ll also provide an update on Kitura development and what the future might hold.
+
+  - title: Compassionate—Yet Candid—Code Reviews
+    lang: en
+    type: regular
+    time: 2018-09-05
+    room:
+    authors:
+      - name: April Wensel
+        twitter: aprilwensel
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Hacking Marzipan
+    lang: en
+    type: regular
+    time: 2018-09-05
+    room:
+    authors:
+      - name: Peter Steinberger
+        twitter: steipete
+        github: steipete
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2OuQarA0a7I
+    description: |-
+      Peter founded and bootstrapped PSPDFKit in 2011, and has since expanded the company with the goal of providing the highest quality PDF framework for all platforms. While Peter is responsible for the day-to-day management of the team, he never misses the chance to go under PSPDFKit’s hood and get his hands dirty with writing and debugging code. Peter has worked with iOS since the inception of the iPhone, and is regularly invited to speak at conferences around the world. He also organizes Cocoaheads, a meetup for developers that work with Apple platforms. Prior to PSPDFKit, he worked as a Senior iOS Engineer at a startup in San Francisco and taught iOS and Mac development at his alma mater, the Vienna University of Technology.
+
+  - title: Super Resolution with CoreML
+    lang: en
+    type: regular
+    time: 2018-09-05
+    room:
+    authors:
+      - name: Kentaro Matsumae
+        twitter: kenmaz
+        github: kenmaz
+        website:
+    slides:
+    videos:
+      - https://youtu.be/S73T0TdE9SI
+    description: |-
+      The ‘Super Resolution' technique is used for converting low resolution images into high resolution, which reduces the amount of image data that needs to be transferred. In this talk, I'd like to show you the implementation of super resolution with CoreML and Swift, and compare the results with conventional methods. I’ll also talk about how to train your own model using your own data step by step. In addition, I’d like to introduce recent topics such as Turi Create, Swift for TensorFlow, CoreML2 and CreateML, which will be enhanced in iOS 12 and I’ll look at how iOS will take advantage of machine learning technology in the future.
+
+  - title: Customizing Your Notifications for iOS 12
+    lang: en
+    type: regular
+    time: 2018-09-05
+    room:
+    authors:
+      - name: Kaya Thomas
+        twitter: kthomas901
+        github: kmt901
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cVFMRRQIZG4
+    description: |-
+      At WWDC, Apple announced a lot of changes coming to Notifications for iOS 12. In this talk, we’ll go over these new features (provisional authorization, updating notification settings from the lock screen, group notifications and user interaction within a notification) and discuss ideas on how and why you might want to take advantage of them for your app.
+
+  - title: 'Need for Speed: How XO Group Optimized their Image Loading Time on The Knot Mobile App'
+    lang: en
+    type: regular
+    time: 2018-09-05
+    room:
+    authors:
+      - name: Erica Correa
+        twitter: CodeWithCooties
+        github: eCorrea831
+        website:
+    slides:
+    videos:
+      - https://youtu.be/bhQJKRSStuE
+    description: |-
+      In an increasingly fast-paced society, users demand immediate satisfaction from their products. When they tap on a mobile app icon they expect it to launch in four seconds or less. With 23% of users abandoning an app after first use, there’s not a second to spare in making a great first impression. See how much of The Knot’s loading time was eaten up by our asset catalogs and what we did about it.
+
+  - title: Strings Seven Ways
+    lang: en
+    type: regular
+    time: 2018-09-05
+    room:
+    authors:
+      - name: Mattt
+        twitter: mattt
+        github: mattt
+
+        website:
+    slides:
+    videos:
+      - https://youtu.be/8pnHolNHD2Y
+    description: |-
+      Strings are the most versatile type in the Swift standard library. This talk looks at seven different ways to understand and work with strings: as collections of Unicode characters, as identifiers, as paths, as natural language text, as encoded data, as structured data, and as typographic content.
+
+  - title: Make our Swift better
+    lang: en
+    type: regular
+    time: 2018-09-05
+    room:
+    authors:
+      - name: Daiki Matsudate
+        twitter: d_date
+        github: d_date
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4ELsSqgVA_Y
+    description: |-
+      It has been three years since Swift was first introduced. Yet there are still missing features and unfixed bugs. The good news is that Swift is open source and we, the community have the power to fix it. In this talk, I’ll discuss how to pitch an idea in Swift Forums, submit a Proposal, and how to build, test and benchmark Swift using the example of Dictionary.compactMapValues that I proposed and got merged for Swift 5.
+
+  - title: Using your superpowers for good to change the world!
+    lang: en
+    type: regular
+    time: 2018-09-05
+    room:
+    authors:
+      - name: Alicia V Carr
+        twitter: Fineblkwoman
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_4Wof3sIKqc
+    description: |-
+      A 16-year-old inspired me to learn to code. This lit the fuse that would take me on an amazing journey through challenges and victories while creating an app to help victims escape domestic violence and abuse.
+  
