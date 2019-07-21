@@ -193,8 +193,8 @@ talks:
         website:
     slides:
     videos:
-     description: |-
-       Data fetching is a very common operation in React applications. Making HTTP requests is easy, but have you considered every edge-case and how to properly hook into the React lifecycle? This lightning talk will show you how React Async makes your life easier.
+    description: |-
+      Data fetching is a very common operation in React applications. Making HTTP requests is easy, but have you considered every edge-case and how to properly hook into the React lifecycle? This lightning talk will show you how React Async makes your life easier.
 
   - title: Lightning fast SSR React apps with top perceived performance and no (client side) JavaScript
     lang: en
