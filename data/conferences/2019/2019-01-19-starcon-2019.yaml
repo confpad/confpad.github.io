@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: StarCon 2019
-  status: incomplete
+  status: complete
   series: starcon.io
   tags:
     - general
@@ -18,5 +18,286 @@
     country: Canada
     city: Waterloo
   description: |-
+    Make Computer Science and its related technologies accessible to everyone, taking into consideration race, class, gender, ability, religion or sexual orientation, and intersections thereof.Create a culture that fosters learning and community building through knowledge sharing among people from diverse backgrounds.
 
 talks:
+
+  - title: Learning How To Learn
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Vaidehi Joshi
+        twitter: vaidehijoshi
+        github: vaidehijoshi
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Search Engines: How They Work and Why You Need Them'
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Toria Gibbs
+        twitter: scarletdrive
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: How Can One Make A Unicode?
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Patrick Melanson
+        twitter:
+        github: pmelanson
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Web Accessibility is More than Colour Contrast
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Kayleen Hamelin
+        twitter: kayleenHamelin
+        github: KHamelin
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Web Accessibility is More than Colour Contrast
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Kayleen Hamelin
+        twitter: kayleenHamelin
+        github: KHamelin
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Hype Yourself, You're Worth It!
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Aashni Shah
+        twitter: aashnisshah
+        github: aashnisshah
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Unlock your ROM Sniffing Superpower
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Bradley Dettmer
+        twitter: brradical
+        github: redSlug
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Creative Coding: Making Art on a 3D Printer'
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Doug Moen
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: WTF is Big Data?
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Holly Oegema
+        twitter:
+        github: heoegema
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Converting Off-the-Shelf Video Games into Exergames
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Brandon Reid
+        twitter:
+        github: brandonreid
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Functional Programming on the Web
+    lang: en
+    type: regular
+    time: 2019-01-19
+    room:
+    authors:
+      - name: Vibhanshu Bhardwaj
+        twitter:
+        github: 
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Navigating an Equitable Digital Future
+    lang: en
+    type: regular
+    time: 2019-01-20
+    room:
+    authors:
+      - name: Nasma Ahmed
+        twitter: nasma_ahmed
+        github: 
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Conjure ye File System,transmorgifier!
+    lang: en
+    type: regular
+    time: 2019-01-20
+    room:
+    authors:
+      - name: Aaron Levin
+        twitter: aaronmblevin
+        github: aaronlevin
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Collecting User Data Responsibly and at Scale
+    lang: en
+    type: regular
+    time: 2019-01-20
+    room:
+    authors:
+      - name: Chris H-C
+        twitter:
+        github: chutten
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Thomas the Tank Engine and You: The Future of Rail Technologies'
+    lang: en
+    type: regular
+    time: 2019-01-20
+    room:
+    authors:
+      - name: Melissa Tedesco
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Ghostin the Compiler: Backdooring Rust'
+    lang: en
+    type: regular
+    time: 2019-01-20
+    room:
+    authors:
+      - name: Manish Goregaokar
+        twitter: ManishEarth
+        github: Manishearth
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Tarjan’s Algorithm: Now You’re Cooking with DAGs'
+    lang: en
+    type: regular
+    time: 2019-01-20
+    room:
+    authors:
+      - name: Vaibhav Sagar
+        twitter: vbhvsgr
+        github: vaibhavsagar
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Ping atthe speed of light
+    lang: en
+    type: regular
+    time: 2019-01-20
+    room:
+    authors:
+      - name: Wesley Aptekar-Cassels
+        twitter: WAptekar
+        github: WesleyAC
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: How Not To Build A Virtual Escape Room
+    lang: en
+    type: regular
+    time: 2019-01-20
+    room:
+    authors:
+      - name: Falah Shazib
+        twitter: FalahShazib
+        github: FalahShazib
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: AWK-nowledge the power! Conquering text in a single line of code
+    lang: en
+    type: regular
+    time: 2019-01-20
+    room:
+    authors:
+      - name: Vincent Castaneda
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
