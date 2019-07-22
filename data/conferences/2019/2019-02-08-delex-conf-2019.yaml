@@ -156,6 +156,7 @@ talks:
       At ok.ru we run more than 30k end-to-end android tests every day - more than 300 for each PR. In this talk I'll show how we do this.
 
   - title: Stability in Unstability. Self-healing test automation
+    lang: en
     type: regular
     time: 2019-02-08
     room:
