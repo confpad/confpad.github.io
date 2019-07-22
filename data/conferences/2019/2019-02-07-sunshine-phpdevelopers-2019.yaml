@@ -62,6 +62,8 @@ talks:
        twitter: kasiazien
        github:
        website:
+   slides:
+   videos: 
     description: |-
       Writing Go and PHP at Brightpearl. Working remotely from Bristol, UK or anywhere with wifi. Her main interests include automating #allthethings, sorting out legacy code and making things simpler and faster. She's co-organising and giving talks at PHPSW and Golang Bristol++. Kat loves travelling and keeping active, appreciates good coffee and is a big Lego fan. She cycles across Europe with TechBikers to raise money for Room To Read.
 
