@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: Sunshine PHP Developers 2019
-  status: incomplete
+  status: complete
   series: sunshinephp.com
   tags:
     - php
@@ -18,5 +18,517 @@
     country: United States
     city: Miami
   description: |-
+    try! Swift Conference is an international community gathering about the latest advancements in Swift Development. The event is about bringing together talent from all around the world to collaborate and share advanced knowledge and techniques to improve Swift craftsmanship. Coming again to New York City on September 4th & 5th 2018, with workshops happening on September 3rd!
 
 talks:
+
+  - title: Confessions Of a Not-So-Accidental Leader
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Chris Hartjes
+        twitter: grmpyprogrammer
+        github: chartjes
+        website:
+    slides:
+    videos:
+    description: |- 
+      Chris Hartjes has been building web applications of all shapes and sizes since 1998 mostly with PHP and yelling at anyone who will listen about writing tests and using automation to make your life easier since 2005. Monday to Thursday he currently works for Mozilla as part of the Firefox Test Engineering team doing testing of the growing number of services Firefox relies on. On Fridays he tries to work on his ever-growing collection of books, videos, and training sessions that he offers through http://grumpy-learning.com. He works from his home office located in the snowy wilds of Southwestern Ontario, Canada.
+
+  - title: The Ten Commandments of Object-Oriented Code
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Brandon Savage 
+        twitter: brandonsavage
+        github: brandonsavage
+        website:
+    slides:
+    videos: 
+    description: |-
+      In 2003 Brandon discovered that PHP could automate things that would take a long time to do by hand. Brandon was hooked, and spent every waking hour learning PHP and how to use it for his projects. Brandon began his career working for small shops doing WordPress and Drupal with some custom applications, and then moved on to Mozilla, where he worked on a highly-available big-data project called Socorro.
+
+  - title: 'Performance optimisation: how do I go about it?'
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+     - name:  Kat Zień
+       twitter: kasiazien
+       github:
+       website:
+    description: |-
+      Writing Go and PHP at Brightpearl. Working remotely from Bristol, UK or anywhere with wifi. Her main interests include automating #allthethings, sorting out legacy code and making things simpler and faster. She's co-organising and giving talks at PHPSW and Golang Bristol++. Kat loves travelling and keeping active, appreciates good coffee and is a big Lego fan. She cycles across Europe with TechBikers to raise money for Room To Read.
+
+  - title: Introduction to Serverless PHP
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Rob Allen
+        twitter: akrabat
+        github: akrabat
+        website:
+    slides:
+    videos: 
+    description: |-
+      Rob Allen is a software consultant and developer with many years experience and writes code in PHP and other interesting languages. He is part of Slim Framework's leadership team and contributes to Apache OpenWhisk and other open source projects. Rob is a published author and based in the UK where he runs Nineteen Feet Limited, focussing on API development, training and consultancy. In his spare time, Rob blogs at akrabat.com and can often be seen with a camera in his hand.
+
+  - title: PHP Internals for the Inquisitive Developer
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Jeremy Mikola
+        twitter: jmikola
+        github: jmikola
+        website:
+    slides:
+    videos: 
+    description: |-
+      Jeremy Mikola is a software engineer at MongoDB's NYC office, where he helps develop the PHP driver. He is also a contributor to various OSS projects in the Symfony and Doctrine eco-systems. Jeremy lives in Hoboken, NJ and is known to enjoy a good sandwich.
+
+  - title: How does PHP static analysis work
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Damien Seguy
+        twitter: faguo
+        github: dseguy
+        website:
+    slides:
+    videos: 
+    description: |-
+      Damien Seguy is CTO at Exakat Ltd., a company specialized in PHP code quality solutions for the industry. He leads the development of the exakat static analysis engine, that automatically review code for version compatibility, security and clear code. Over the last 17 years Damien has contributed to PHP, as documentation author, elephpant breeder, conference UFO on all continents. He also enjoys machine learning, gremlin, 狮子头 and camembert.
+
+  - title: Welcome to the PHP community
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Nara Kasbergen
+        twitter: xiehan
+        github: xiehan
+        website:
+    slides:
+    videos: 
+    description: |-
+      Nara Kasbergen is a senior full-stack developer in NPR (National Public Radio)’s Digital Media group, where she's worked on a variety of projects, including the NPR Music homepage redesign and the third-party developer platform for NPR One. She is currently part of a small skunkworks team building custom applications for voice UI platforms such as Amazon Alexa and Google Home. She is passionate about Developer Experience (DX), community-building, the intersection of humans and code, and her volunteer work for Open Sourcing Mental Illness, a non-profit organization raising awareness about mental health in the tech industry.
+
+  - title: PWA for PHP Developers
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Ben Marks
+        twitter: benmarks
+        github: benmarks
+        website:
+    slides:
+    videos: 
+    description: |-
+      Ben began his career in PHP building commercial sites in 2003, focusing on Magento since 2008 and joining the ranks of Magento as their sole evangelist in 2014. He believes that the boundless requirements of commerce provide some of the best fodder for development (and for conference discussions). Always a learner, frequently a teacher, his approach to speaking and attending conferences is to find the story, enjoyment, and (often) humor in every situation.
+
+  - title: Dependency Injection for Mere Humans
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Ian Littman
+        twitter: iansltx
+        github: iansltx
+        website:
+    slides:
+    videos: 
+    description: |-
+      When he isn't building or maintaining web applications, primarily of the API variety, for a handful of clients, Ian's probably biking between coffee shops in Austin, Texas or bemoaning the fact that "artificial intelligence" is now merely a marketing term. He also helps organize the Austin PHP user group and the ATX Web Lunch, the latter of which is basically an excuse to grab tasty tacos while talking tech a few times per month.
+  
+  - title: Device Independent API design
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Amrita Jain
+        twitter: amritajain973
+        github: amritajain
+        website:
+    slides:
+    videos: 
+    description: |-
+      Amrita Jain has a strong background in architecting scalable web services and cloud infrastructures. She earned her Masters in CS from Cornell and has held key positions in several companies of varying sizes, thus building a well-rounded technology perspective. Currently, she is senior manager of engineering at Glassdoor. Previously she worked as the Director of WebServices at Beachbody LLC. where the tech backbone designed by her team serves millions of customers across America and Europe. She is an active member of several southern California tech meetups and regularly presents her experiences and innovations in developing scalable and secure Microservice architectures.
+
+  - title: Securing Legacy Applications
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Chris Cornutt
+        twitter: enygma
+        github: enygma
+        website:
+    slides:
+    videos: 
+    description: |-
+      For the last 12+ years, Chris has been involved in the PHP community in one way or another. These days he's the Senior Editor of PHPDeveloper.org, lead author for Websec.io, a site dedicated to teaching developers about security, and the Securing PHP project. He's also written for several PHP publications and has spoken at conferences in both the U.S. and Europe on security-related topics. He's also an organizer of the Dallas PHP User Group and the Lone Star PHP Conference and works as an Application Security Engineer for Duo Security.
+
+  - title: The MySQL Document Store
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Dave Stokes
+        twitter: iansltx
+        github: mysqlmentor
+        website:
+    slides:
+    videos: 
+    description: |-
+      Dave Stokes is a MySQL Community Manager for Oracle Corporation.
+
+  - title: Accessibility for Everyone
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Beth Tucker Long
+        twitter: e3betht
+        github: e3betht
+        website:
+    slides:
+    videos: 
+    description: |-
+      Beth Tucker Long is a PHP developer and co-organizer of Madison PHP. You can find her on Twitter (@e3betht) or on her blog (http://www.alittleofboth.com). Beth is a firm believer in promoting community and mentoring. She runs Treeline Design, a web development company, and Playlist Event Music, a DJ company, along with her husband, Chris.
+
+  - title: 'Swoole 4: Introducing the New Coroutine Design Pattern in PHP'
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Demin Yin
+        twitter: deminy
+        github: deminy
+        website:
+    slides:
+    videos: 
+    description: |-
+      Demin is a staff engineer and technical lead on Glu Mobile’s Design Home team. He has been using PHP primarily since 2000, and has worked for a diverse group of companies throughout his career, from start-ups to some of the Bay Area’s largest international corporations, including eBay, Visa and Glu. For years, Demin has been focused on building high-performance, secure web applications and is always exploring ways to push the limit of PHP. Besides architecting and building backend services with PHP, he works with his teammates on open source projects at Glu to give back to the community.
+
+  - title: Essentials of blockchain technology
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Lisa Bock
+        twitter: michelletyrone
+        github:
+        website:
+    slides:
+    videos: 
+    description: |-
+      Lisa Bock is an associate professor in the Information Technology department at Pennsylvania College of Technology, in Williamsport, PA. Since 2004, she has been teaching everything from forensics to network security that include: networking, security, biometrics, technical support, protocol vulnerabilities (using Wireshark), cryptography, CCNA Security, CCNA Cyberops and VoIP and Unified Communications. She holds an MS from University of Maryland University College, along with numerous other certifications. She has had training in programming, forensics, networking, steganography, and network security. She is involved with various volunteer activities, has evaluated professional journals, published 27 courses on Lynda.com, and is an award-winning speaker. Lisa and her husband Mike enjoy bike riding, watching movies, and traveling.
+
+  - title: PHP + nginx + Redis = Ludicrous Speed
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Jason McCreary
+        twitter: jasonmccreary
+        github: jasonmccreary
+        website:
+    slides:
+    videos: 
+    description: |-
+      Jason McCreary, or JMac, has been writing code for over two decades. He shares his experiences through speaking, coaching, and organizing local meetups. He's the creator of Laravel Shift. JMac considers himself an "active geek" - with a passion for programming & the great outdoors.
+
+  - title: 'Think Like a Trainer: Strategies for Improving Your Communication Skills'
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Olivia Liddell
+        twitter: oliravi
+        github:
+        website:
+    slides:
+    videos: 
+    description: |-
+      Olivia Liddell is a Cloud Training Specialist at Cloudbakers. She is a former Chicago Public Schools teacher who now specializes in technology training and change management. She is passionate about teaching, mentoring, and distance running.
+
+  - title: Performance Tuning Your Progressive Web App (PWA)
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Josh Holmes
+        twitter:
+        github: joshholmes
+        website:
+    slides:
+    videos: 
+    description: |-
+      Josh Holmes is a passionate soul who gets his kicks solving problems with deep fried awesomeness. He is currently employed by Microsoft as the lead of the Web Apps and Frameworks team helping build a better browser for people to build apps around. Prior to joining Microsoft in October 2006, Josh was a consultant working with a variety of clients ranging from large Fortune 500 firms to smaller sized companies. Josh is a frequent speaker and lead panelist at national and international software development conferences focusing on web technologies on the Microsoft stack such as ASP.NET, PHP, IronRuby, JavaScript and more. Community focused, Josh has founded and/or run many technology organizations from the Great Lakes Area .NET Users Group to the Ann Arbor Computer Society and was on the forming committee for CodeMash. You can contact Josh through his blog at https://joshholmes.com.
+
+  - title: Xdebug will forever change the way you debug your PHP code
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Tim Bond
+        twitter:
+        github: cookieguru
+        website:
+    slides:
+    videos: 
+    description: |-
+      Tim is a senior full stack PHP developer that has been working with PHP for 14 years and has seen PHP grow from its hodgepodged roots to a modern development language. When not in front of a computer, you'll probably find him hiking or biking around beautiful Seattle, or putting together a new Lego set on one of the rare rainy days.
+
+  - title: Applying SOLID and supercharging your testing suite
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Korvin Szanto
+        twitter: KorvinSzanto
+        github: KorvinSzanto
+        website:
+    slides:
+    videos: 
+    description: |-
+      PHP developer from Portland with a passion for programming, community, and open source.
+
+  - title: Unlock The Mystery of PHPUnit
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Brian Johnson
+        twitter:
+        github:
+        website:
+    slides:
+    videos: 
+    description: |-
+      Brian is principal engineer at PayLease, a leader in payments processing and other property management services. He has been working with PHP for over 5 years, following a decade-long stint as a Java developer. He is enthusiastic about object oriented design, dependency management and unit testing. He makes his home in Colorado Springs, CO where he organizes the Peak PHP user group.
+
+  - title: Working with Webhooks
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Lorna Mitchell
+        twitter: lornajane
+        github: lornajane
+        website:
+    slides:
+    videos: 
+    description: |-
+      Lorna is based in Yorkshire; she is a Developer Advocate with Nexmo as well as a published author and experienced conference speaker. She brings her technical expertise on a range of topics to audiences all over the world with her writing and speaking engagements, always delivered with a very practical slant. In her spare time, Lorna blogs at http://lornajane.net.
+
+  - title: Driving Innovation with MySQL 8.0 and Docker
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Kathy Forte
+        twitter:
+        github:
+        website:
+    slides:
+    videos: 
+    description: |-
+      Kathy Forte is a Solutions Architect for the MySQL division within Oracle where she is working with cloud technology, distributed databases, Docker and the MySQL server. She has been working in the relational databases realm for over twenty years as a developer, trainer, sales engineer, and technical manager. She previously worked at ParAccel as a part of a team that developed the massive parallel columnar database that is the foundation of Amazon Redshift, a cloud-based data warehouse.
+
+  - title: Dealing With Development Overload
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: David Bisset
+        twitter: dimensionmedia
+        github: cookieguru
+        website:
+    slides:
+    videos: 
+    description: |-
+      A full-time PHP and WordPress freelancer for 10+ years, David is now a senior PHP developer at EnviraGalleryLLC working on two popular WordPress plugins (Envira Gallery and Soliloquy) used by hundred of thousands of websites. In addition, he also works on the popular WordPress Post Status newsletter, works as a consultant and developer for various PHP and JavaScript side projects, speaker, coding mentor, contributor to various open source projects, and helps run several meetups in South Florida. For the past decade, he has been an organizer of one of the largest and longest running WordPress conferences - WordCamp Miami. Also known for his live tweeting of conferences and a sense of humor he uses to keep him sane.
+
+  - title: Call... Text... Video Me Maybe?
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Mike Stowe
+        twitter: mikestowe
+        github: mikestowe
+        website:
+    slides:
+    videos: 
+    description: |-
+      Author of Undisturbed REST, Michael Stowe has spoken at conferences around the world. An active advocate for creating better architectures and interfaces, his work has also been featured on ProgrammableWeb, DZone, and InfoQ. You can view his past talks and slides at http://www.mikestowe.com/slides and follow him on Twitter @mikegstowe.
+
+  - title: Get started with Vue.js
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Matt Trask
+        twitter: matthewtrask
+        github: matthewtrask
+        website:
+    slides:
+    videos: 
+    description: |-
+      Matt is an open source developer with a passion for clean code, API's and dinosaurs. Not old, fossilized code, just raptors and t-rexs. Besides being active with mentoring and co-organizing NashAPIs, Matt looks for new craft beers to try as well drinking too much coffee. When he isn't working on APIs, he can be found antagonizing cars on his bicycle.
+
+  - title: Creating a job/queue system from scratch,it’s not that hard
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Doug Steinberg
+        twitter: 1800AskDoug
+        github: doug7410
+        website:
+    slides:
+    videos: 
+    description: |-
+      Doug is a native South Floridian and web developer for the past 15 years. He fell in love with programming when he discovered you can turn a spread sheet full of product data into a dynamic web site and has been writing code ever since. His primary programing language is PHP, but he has an insatiable curiosity for all things code. In addition to PHP he enjoys working with Javascript and is the organizer of the Fort Lauderdale Vue JS Meet Up. He believes our lives as developers can be more pleasant by writing clean code and tries to spread that message. When he’s not coding for fun or profit, Doug enjoys mountain biking, playing guitar, camping, wood working, and spending time with his wife and puppy.
+
+  - title: 'The Recommendation Engine: A case study on an application of a recommender system'
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Terry Chay
+        twitter: tychay
+        github: tychay
+        website:
+    slides:
+    videos: 
+    description: |-
+      If Zend puts your picture on a deck of cards, you've either arrived in the PHP world or are a terrorist. Terry Chay is a PHP Terrorist. In previous lives he was Director of Features Engineering at the Wikimedia Foundation (Wikipedia), the "planet taker" for Automattic (WordPress) architected the third largest social network in the U.S. in PHP, developed the largest revenue-generating product in PHP for Plaxo (now Comcast) as their first web engineer, programmed the communication layer between an internet-enabled home control device and the web browser, voice portals, PDAs and cell phones via SOAP and XMLRPC in PHP, and built the first travel search engine in… (surprise) PHP! He has been known to give seminars in PHP development, which is really just a veiled excuse to play with Keynote and allow the listeners to meme him with a #tcfc and new "chayisms."
+
+  - title: Immutability to Save an Ever-Changing World
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Andrew Cassell
+        twitter:
+        github: cassell
+        website:
+    slides:
+    videos: 
+    description: |-
+      Andrew Cassell is a Senior Backend Developer for CuriosityStream, the award-winning documentary streaming service launched by Discovery founder John Hendricks.
+
+  - title: CI/CD for PHP on AWS
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Michael Moussa
+        twitter: michaelmoussa
+        github: michaelmoussa
+        website:
+    slides:
+    videos: 
+    description: |-
+      Michael has over 18 years experience with all aspects of building and maintaining PHP applications. He is currently working as a Product Architect on Rackspace's Managed Public Cloud team. In his spare time, he enjoys homebrewing his award-winning beer, cycling, and trying to find less expensive hobbies.
+
+  - title: Docker Alphabet Soup
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Dana Luther
+        twitter: danaluther
+        github: DanaLuther
+        website:
+    slides:
+    videos: 
+    description: |-
+      Dana is a Senior Web Application Architect at Envisage International. She has been developing in PHP for over 15 years, and building almost exclusively in the Yii Framework for the last 7 years. She is a graduate of the University of Florida, and works with a small agile group of Yii developers to meet the demands of a diverse international company that serves the needs of international students around the world with over 650,000 monthly visitors and generating over 1,200,000 page views. Dana is one of the co-organizers of the Yii-Jax Meetup group, a regular contributor to the Envisage International Blog and maintains her own blog on the Yii Framework.
+
+  - title: Year with event sourcing and CQRS
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Miro Svrtan
+        twitter: msvrtan
+        github: msvrtan
+        website:
+    slides:
+    videos: 
+    description: |-
+      Started using PHP as a student, back in 1999. At first he worked as a one man band web developer and from there he progressed, via focusing on PHP development in a team environment, to be a senior dev, tech lead & technical analyst. He found much more happiness doing backend stuff so focuses on scalable backends and devops tasks this days.
+
+  - title: 'Promises and Queues: Using Unlikely Suspects to Handle Asynchronous Parallel Processing'
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Jacob Mather
+        twitter: thejmather
+        github: jmather
+        website:
+    slides:
+    videos: 
+    description: |-
+      Jacob Mather has been working with distributed software systems for over 25 years. With a focus on quality software design and end user experience, he loves working with others to build great software that people want to use.
+
+  - title: Pop Songs and Programming for Fun and Profit
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: PJ Hagerty
+        twitter: aspleenic
+        github:
+        website:
+    slides:
+    videos: 
+    description: |-
+      Developer, writer, speaker, musician, and Developer Advocate, PJ is known to travel the world speaking about programming and the way people think and interact. He is also known for wearing hats.
+
+      
+      
