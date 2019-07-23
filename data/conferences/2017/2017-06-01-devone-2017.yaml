@@ -1,7 +1,7 @@
 ﻿conference:
 
   name: devone 2017
-  status: incomplete
+  status: complete
   series: devone.at
   tags:
     - devops
@@ -18,5 +18,207 @@
     country: Austria
     city: Linz
   description: |-
+    devone is a one-day event organized by developers for developers with a focus on hot topics like .NET Core, Java 9, Security and Continuous Delivery. Make sure to join us for this unique opportunity and engage directly with experts in the development community!
 
 talks:
+    
+  - title: Keynote 'How to explain DevOps to your mom and how it works at Facebook, PayPal and others!'
+    lang: en
+    type: regular
+    time: 2017-06-01
+    room:
+    authors:
+      - name: Andreas Grabner
+        twitter: grabnerandi
+        github: grabnerandi
+        website:
+    slides:
+      - https://www.slideshare.net/grabnerandi/how-to-explain-devops-to-your-mom
+    videos: 
+      - https://youtu.be/mNhYAXFr5t8
+    description: |-
+      DevOps is one of the most abused and overrated marketing terms in the last years! That’s not an alternative fact! It’s just Andi’s opinion! Yet - it is a very real thing that allowed many software companies to transform the way they think about software engineering. DevOps can mean something totally different thought depending on who you are and what type of business your company is doing. To clarify things, Andi gives us insights on how he explains the benefits to “DevOps Newbies” and how software companies around the world implement it in their own ways. Andi will answer: What does it really mean for developers, testers and operators? What will change? How does Facebook deploy twice a day without big issues? How does DevOps work in financial, government or healthcare where you have tight regulations? Does it mean Devs are responsible for Ops? Does it only work in the cloud? Or can we apply it to “old fashioned” on premise software as well? Learn for yourself and make up your own mind on whether DevOps is just a marketing term or something that can benefit you!
+
+  - title: From scheduled builds to commit triggered pipelines
+    lang: en
+    type: regular
+    time: 2017-06-01
+    room:
+    authors:
+      - name: Wolfgang Gottesheim
+        twitter: gottesheim
+        github: wgottesheim
+        website:
+      - name: Bernd Farka
+        twitter: BFarka
+        github: bfarka
+        website:
+    slides:
+      - https://speakerdeck.com/wgottesheim/from-scheduled-builds-to-commit-triggered-pipelines-devone-2017
+    videos: 
+      - https://youtu.be/nocc0XYn-Xo
+    description: |-
+      Two years ago, we had the gut feeling that we had implemented a pretty solid continuous integration practice in our development lab: all our builds were automated, we were running 70,000 unit and 130,000 integrations tests per week, and sprint reviews also comprised a regular check on test coverage for new features. However, over time some problems showed: builds were getting slower and slower, it was hard to fully test features locally before committing them, and as we had so many tests it took days to get feedback for a commit. As our codebase grew, these problems gradually worsened, and developer productivity started to suffer. In this talk we will tell our story how we moved from builds and tests running on a fixed schedule in our legacy build environment towards a pipeline as code approach in Jenkins. We will talk about how we convinced our managers, the daily benefits for our developers in terms of faster feedback loop, and how we did this while ensuring we could still release working products along the way.
+
+  - title: Perils of the cloud
+    lang: en
+    type: regular
+    time: 2017-06-01
+    room:
+    authors:
+      - name: Philipp Krenn
+        twitter:
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/xeraa/101-steps-to-avoid-a-security-disaster-in-the-cloud
+    videos: 
+      - https://youtu.be/NhYnQEsNTcc
+    description: |-
+      Talk about the dangers of the cloud and how to protect against them effectively — in particular on AWS.
+
+  - title: How IaaS and immutable infrastructure improved our way to deploy
+    lang: en
+    type: regular
+    time: 2017-06-01
+    room:
+    authors:
+      - name: Markus Heimbach
+        twitter:
+        github:
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/UiW9sLzJJV4
+    description: |-
+      Why we evolved from managing every node with Configuration Management constantly to using Immutable Infrastructure? What problems does it solve? What are the lessons learned? I will show the key use cases and what we gained as a team from the move.
+
+  - title: Spring Vault - managing secrets at scale
+    lang: en
+    type: regular
+    time: 2017-06-01
+    room:
+    authors:
+      - name: Christoph Strobl
+        twitter: stroblchristoph
+        github: christophstrobl
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/FrMgQFn_rEc
+    description: |-
+      A modern system requires access to a multitude of secrets: database credentials, API keys for external services, credentials for service-oriented architecture communication and often much more. Traditional, manual patterns cannot keep the security bar high with dynamic deployment scenarios for distributed systems and containers. Secrets should stay secret and not get distributed amongst the landscape. In this session you will learn how to keep the security bar high while running services that require secrets. You'll see how to securely share and manage secrets (certificates, passwords, keys) for your services using Vault and Spring Vault and how to use it with Spring Boot.
+
+  - title: To make mistakes is human. To auto-deploy it is DevOps.
+    lang: en
+    type: regular
+    time: 2017-06-01
+    room:
+    authors:
+      - name: Anita Engleder
+        twitter:
+        github:
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/ZXy59ao6-Js
+    description: |-
+
+  - title: .NET Core
+    lang: en
+    type: regular
+    time: 2017-06-01
+    room:
+    authors:
+      - name: Rainer Stropek
+        twitter: rstropek
+        github: rstropek
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/ual25BcmCQE
+    description: |-
+      In the last years, Microsoft has radically changed its .NET platform. Rewrite of the compiler, switch to open source, making it real cross-platform, harmonize various .NET flavors into one .NET Standard library – .NET Core had been a long and partly bumpy journey for us developers but with the launch of Visual Studio 2017, the entire .NET Core stack has become RTM. In his session, Rainer Stropek, long-time Microsoft MVP and MS Regional Director, speaks about the current state of .NET Core. Where is Microsoft in its long-term road map? Which tools and platforms are available? What about the upcoming big release 2.0 of .NET Core and .NET Standard? Rainer will start his session with a discussion of questions like this. As usual, Rainer will not just show slides but also demonstrate many samples live on stage. Rainer will close his session with performance- and diagnostics-related topics. How does the .NET Core perform? What about cross-platform profiling and debugging? Rainer assumes that you have basic .NET knowledge. You do not need in-depth knowledge or hands-on experience of .NET Core to benefit from this session.
+
+  - title: Functional Programming For The Anxious Developer
+    lang: en
+    type: regular
+    time: 2017-06-01
+    room:
+    authors:
+      - name: Martin Gutenbrunner
+        twitter: MartinGoodwell
+        github: delMar43
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/y8ILAvPZ49s
+    description: |-
+      Microsoft Azure is not just a single product. It's suite of services holds something for everyone. The title says it all. Besides, we'll have a ball as I throw in anecdotes and stories on and around the history of Microsoft and Azure.
+
+  - title: Java 9 - What are we going to love/hate this time
+    lang: en
+    type: regular
+    time: 2017-06-01
+    room:
+    authors:
+      - name: Philipp Lengauer
+        twitter: MartinGoodwell
+        github: delMar43
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/Nsg_rhlf4_U
+    description: |-
+      Java is a continuously evolving language enjoying more popularity than ever before. With Java 9 on the horizon, its time to look at the new features that will be available. New language features include modular source code and images, advanced APIs for compilers, stack walks, and collections, as well as spin-wait hints for low-level concurrency programming. The virtual machine will now use the G1 as its default collector and provide ahead-of-time compilation. In this talk, we 
+
+  - title: What's Cloud Foundry and why you want to use it
+    lang: en
+    type: regular
+    time: 2017-06-01
+    room:
+    authors:
+      - name: Alois Mayr
+        twitter: mayralois
+        github: aloismayr
+        website:
+    slides:
+      - https://speakerdeck.com/aloismayr/whats-cloud-foundry-and-why-you-want-to-use-it
+    videos:
+      - https://youtu.be/pI6g6YPq6qI
+    description: |-
+      Cloud platforms are on every company’s agenda who want to re-platform their technology stack to shorten time-to-market of new features. In this session you will learn about the concepts of cloud platforms such as Cloud Foundry or Kubernetes, and what’s under the covers of these platforms and container technologies everyone is talking about today.
+
+  - title: Breaking the monolith
+    lang: en
+    type: regular
+    time: 2017-06-01
+    room:
+    authors:
+      - name: Peter Marton
+        twitter: slashdotpeter
+        github: hekike
+        website:
+    slides:
+      - https://speakerdeck.com/slashdotpeter/breaking-down-the-monolith-devone
+    videos:
+    description: |-
+
+  - title: Closing remarks
+    lang: en
+    type: regular
+    time: 2017-06-01
+    room:
+    authors:
+      - name: Bernd Greifeneder
+        twitter: mayralois
+        github: aloismayr
+        website:
+    slides:
+    videos:
+      - https://youtu.be/INXJrlkJG-g
+    description: |-
+
+      
+      
+
