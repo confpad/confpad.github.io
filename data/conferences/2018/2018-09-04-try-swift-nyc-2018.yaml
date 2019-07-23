@@ -50,7 +50,7 @@ talks:
     videos:
       - https://youtu.be/ePuOrCbIW-o
     description: |-
-      try! Swift NYC Conference 2018 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in New York! Bio - Bas is an iOS and tooling developer at XING. He is currently curating Swift Weekly Brief and contributing to frameworks, apps and tooling in open source. He likes Swift and experimenting with other programming languages.
+      Bas is an iOS and tooling developer at XING. He is currently curating Swift Weekly Brief and contributing to frameworks, apps and tooling in open source. He likes Swift and experimenting with other programming languages.
 
   - title: Understanding the Machine Learning Behind Common iOS Use Cases
     lang: en
@@ -80,7 +80,7 @@ talks:
     videos:
       - https://youtu.be/ERwertwlwrE
     description: |-
-      try! Swift NYC Conference 2018 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in New York!Abstract - During this year's keynote memoji was introduced to iOS 12 and iPhone X, allowing users to create a meme of their own persona and use that for message apps as an animoji. In this talk I will walk you through some of the new thing from Face Tracking and how you can create your own memoji using ARKit 2.
+      During this year's keynote memoji was introduced to iOS 12 and iPhone X, allowing users to create a meme of their own persona and use that for message apps as an animoji. In this talk I will walk you through some of the new thing from Face Tracking and how you can create your own memoji using ARKit 2.
 
   - title: Idea to launch - the start of a startup
     lang: en
@@ -96,7 +96,7 @@ talks:
     videos:
       - https://youtu.be/b7bVgnbgGyI
     description: |-
-      try! Swift NYC Conference 2018 - try! Swift is an immersive community gathering about Apple Technologies, Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community in New York!Bio - Leah Culver is the co-founder and CTO of Breaker, the top social podcast app for iOS. Breaker launched in March 2017 and was Y Combinator class of Winter 2017. Leah also previously founded Pownce, an early social networking site and Convore/Grove, a group messaging service. Leah is also a co-author of both the OAuth and oEmbed open API specifications. She loves Swift, especially powerful enums and fun extensions.
+      Leah Culver is the co-founder and CTO of Breaker, the top social podcast app for iOS. Breaker launched in March 2017 and was Y Combinator class of Winter 2017. Leah also previously founded Pownce, an early social networking site and Convore/Grove, a group messaging service. Leah is also a co-author of both the OAuth and oEmbed open API specifications. She loves Swift, especially powerful enums and fun extensions.
 
   - title: 'Swift on Server: Are We There Yet?'
     lang: en
@@ -112,7 +112,7 @@ talks:
     videos:
       - https://youtu.be/qpDiXZRADfE
     description: |-
-      Abstract - Swift on the server has been talked about since Swift was open sourced. There have been a lot of efforts to make Swift on the server viable. However, when building a product, you should be focused on your product, not on the tools and frameworks backing it. This talk evaluates the holistic experience of building a small (but real) backend in Swift, versus a few well known frameworks in other languages, and tries to answer the age old question: Are we there yet?
+      Swift on the server has been talked about since Swift was open sourced. There have been a lot of efforts to make Swift on the server viable. However, when building a product, you should be focused on your product, not on the tools and frameworks backing it. This talk evaluates the holistic experience of building a small (but real) backend in Swift, versus a few well known frameworks in other languages, and tries to answer the age old question: Are we there yet?
 
   - title: SwiftNIO and Network.framework
     lang: en
@@ -128,7 +128,7 @@ talks:
     videos:
       - https://youtu.be/RW2vKWiGWr4
     description: |-
-      NiO, Vapor's integration, and what it means for future of Swift.Bio - Originally planning on working his way up the ranks of Panera Bread Company, Logan was unexpectedly thrust into the high octane world of iOS App Development. Passionate about open source, he eventually found his way to Vapor where he currently works developing open source web tools in swift. He still makes sandwiches in his spare time.
+      NiO, Vapor's integration, and what it means for future of Swift. Bio - Originally planning on working his way up the ranks of Panera Bread Company, Logan was unexpectedly thrust into the high octane world of iOS App Development. Passionate about open source, he eventually found his way to Vapor where he currently works developing open source web tools in swift. He still makes sandwiches in his spare time.
 
   - title: Making it Generic
     lang: en
