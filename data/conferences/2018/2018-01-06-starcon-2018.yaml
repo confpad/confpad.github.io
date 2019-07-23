@@ -136,6 +136,7 @@ talks:
       I worked in online content in varying capacities for more than a decade before I made the shift to software engineering. While my ability to communicate verbally and in writing were early helpers as I completed this transition, the lessons I learned from editorial life were also surprisingly helpful. It turned out that years of workshopping stories, trading edits, laboring over drafts, and seeking buy-in and input are directly applicable to surviving and thriving in code reviews. 
 
   - title: 'Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving'
+    lang: en
     type: regular
     time: 2018-01-06
     room:
@@ -209,7 +210,8 @@ talks:
         github: hyfen
         website:
     slides:
-    videos: https://youtu.be/hlx5e9kWgXU
+    videos: 
+      - https://youtu.be/hlx5e9kWgXU
     description: |-
       Once upon a time, a “computer” was literally a large room filled with hundreds of workers hunched over desks doing math. Almost a century later, we’ve arrived at the internet but what we have now was by no means inevitable.
 
