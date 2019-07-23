@@ -18,5 +18,154 @@
     country: Spain 
     city: Madrid
   description: |-
+    FrontFest is the event about web technologies (HTML, CSS, Javascript ... and whatever comes up!) In which you can meet other front-end developers like you and learn from them. We want to bring together the best professionals, evangelists and gurus of the front-end development of all Spain.FrontFest emerges as an initiative of a group of participants in four of the most active communities within the front-end world in our country: Angular Madrid , Front-end Developers Madrid , HTML5 Spain and MadridJS .
 
 talks:
+   
+  - title: Maximum performance
+    lang: en
+    type: regular
+    time: 2017-02-18
+    room:
+    authors:
+      - name: Eduardo Sada
+        twitter: aeroalquimia
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1AwIZS1sXQU
+    description: |-
+      Eduardo is also an evangelist at Polymer, with more than 12 years of experience in Front-end development. Today, according to his mother, he is dedicated to "making faces and little buttons" in a professional manner. He usually gives talks at programming events so as not to pay the entrance fee.
+
+  - title: Advanced animation with CSS in HTML and SVG to improve the UX
+    lang: en
+    type: regular
+    time: 2017-02-18
+    room:
+    authors:
+      - name: Ángel Corral
+        twitter: ancoar
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/FzKiaisTdeQ
+    description: |-
+      Ángel created his first website last century. Since then everything has changed a lot (he too) but he still likes it the same or more than the first day.
+
+  - title: Let's code a game in JavaScript
+    lang: en
+    type: regular
+    time: 2017-02-18
+    room:
+    authors:
+      - name: Belen Albeza
+        twitter: ladybenko
+        github: belen-albeza
+        website:
+    slides:
+    videos:
+      - https://youtu.be/F2o4iwd4Blc
+    description: |-
+
+  - title: Web accessibility, how to make a front for everyone?
+    lang: en
+    type: regular
+    time: 2017-02-18
+    room:
+    authors:
+      - name: Juanjo Montiel
+        twitter: kastwey
+        github: kastwey
+        website:
+    slides:
+    videos:
+      - https://youtu.be/SlTDIQwa6EA
+    description: |-
+      He has been fighting and having fun with technology for more than ten years. Your goal? Make technology more accessible every day ... And get rich, of course. Sometimes he wonders which of the two is more difficult;) Specialized in .NET, he is passionate about developing and making applications that improve the day-to-day life of people who, like him, have different capacities, and access information in a way different from that of the utopian group we call "normal."
+
+  - title: Healthy and functional workflows between teams (UX, UI, Front)
+    lang: en
+    type: regular
+    time: 2017-02-18
+    room:
+    authors:
+      - name: Juan de la Cruz
+        twitter: elhombretecla
+        github: elhombretecla
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zk2397IMPZU
+    description: |-
+      Juan works with the developers so that his projects look good both visually and the code behind them. Illustrator and open source lover, try to support the community of designers and developers front with tools like uxbox.io.
+
+  - title: Writing styles for React components
+    lang: en
+    type: regular
+    time: 2017-02-18
+    room:
+    authors:
+      - name: javivelasco
+        twitter: javivelasco
+        github: javivelasco
+        website:
+    slides:
+    videos:
+      - https://youtu.be/oogpjRWfIsE
+    description: |-
+      Javi is the author of React Toolbox, one of the most popular UI kits for React that already use heavy weights internally such as Netflix. Although he has worked with many other languages ​​and tools, his passion is Javascript and Frontend in general.
+
+  - title: Offline applications in an online world
+    lang: en
+    type: regular
+    time: 2017-02-18
+    room:
+    authors:
+      - name: Sergio Zamarro
+        twitter: zamarrowski
+        github: zamarrowski
+        website:
+    slides:
+    videos:
+      - https://youtu.be/aoLAFNO5dkk
+    description: |-
+      Of his father and his mother. 24/7 program. Senior Technician in Web Application Development. He has been fortunate to develop professionally in multiple fields but (almost) always using Javascript on both the server and client side. He is an expert in developing personal projects without any future but from which he has learned a lot.
+
+  - title: Amazing things you can do with a web
+    lang: en
+    type: regular
+    time: 2017-02-18
+    room:
+    authors:
+      - name: Ramón Guijarro
+        twitter: soyguijarro
+        github: soyguijarro
+        website:
+    slides:
+    videos:
+      - https://youtu.be/yW5T3CrgZDU
+    description: |-
+      Creative web developer with an interest in design, communication and data. JavaScript and React enthusiast. Proud participant of h4ckademy.
+
+  - title: Technology for climate change
+    lang: en
+    type: regular
+    time: 2017-02-18
+    room:
+    authors:
+      - name: David Inga
+        twitter: davidsingal
+        github: davidsingal
+        website:
+    slides:
+    videos:
+      - https://youtu.be/S1T5GZjJsCo
+    description: |-
+      Passionate about web technologies since the age of 16. He has worked at Vizzuality since 2010 contributing to open source projects related to the environment, social justice, transparency and open government for international organizations such as the United Nations, World Bank, Google or NASA. In recent years he has specialized in web-mapping and data visualization for web applications.
+
+
+
+
+      
