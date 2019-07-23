@@ -125,6 +125,7 @@ talks:
     description: |-
 
   - title: .NET Core
+    lang: en
     type: regular
     time: 2017-06-01
     room:
