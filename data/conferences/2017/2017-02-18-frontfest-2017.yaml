@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: FrontFest 2017
-  status: incomplete
+  status: complete
   series: frontfest.es
   tags:
     - web
