@@ -22,7 +22,7 @@
 
 talks:
 
-  - title: Confessions Of a Not-So-Accidental Leader
+    - title: Confessions Of a Not-So-Accidental Leader
     lang: en
     type: regular
     time: 2019-02-08
@@ -275,8 +275,7 @@ talks:
     slides:
     videos: 
     description: |-
-      Think back to a time when you were in a conversation that could have gone better. Perhaps you said something the wrong way, or you walked away from the conversation not fully knowing if the other person even understood what you were trying to convey.Technical trainers rely on effective communication as the foundation of everything that we do. We help end users to learn how to use software and adjust to new workflows, through the process of constantly adapting to different backgrounds, skill levels, and learning styles.
-In this talk, we will analyse and optimise the performance of a simple PHP application. By demonstrating how to use some of the excellent open source projects such as xdebug, xhprof or php-meminfo, I hope to give you a good idea of where to start with analysing and optimising your PHP code.
+      Think back to a time when you were in a conversation that could have gone better. Perhaps you said something the wrong way, or you walked away from the conversation not fully knowing if the other person even understood what you were trying to convey.Technical trainers rely on effective communication as the foundation of everything that we do. We help end users to learn how to use software and adjust to new workflows, through the process of constantly adapting to different backgrounds, skill levels, and learning styles.In this talk, we will analyse and optimise the performance of a simple PHP application. By demonstrating how to use some of the excellent open source projects such as xdebug, xhprof or php-meminfo, I hope to give you a good idea of where to start with analysing and optimising your PHP code.
 
   - title: Performance Tuning Your Progressive Web App (PWA)
     lang: en
@@ -532,5 +531,4 @@ In this talk, we will analyse and optimise the performance of a simple PHP appli
     videos: 
     description: |-
       Ever wonder what it takes to live in the world of an open source developer? What if everything you can learn comes from the world of pop songs?We can learn a lot of from music, but in this talk, let's listen and see how we can be better developers.Through a series of pop songs we’ll look at what it’s like to:Start out on your own as a programmer - not sure where to go or to get involved in open source Work on a team dedicated to Open Source in the crazy world of SV/SF Open Source at a big blue company, and how large corporations view Open Source Sharing your knowledge with the next line of new folks looking to get in on OSSGoing out on your own - giving a conference talk - being the expert and sharing what you know.
-      
-      
+ 
