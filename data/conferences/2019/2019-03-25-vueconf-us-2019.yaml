@@ -34,6 +34,7 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/7_ZzayG45Mk
     description: |- 
       Evan You is the creator of Vue.js. In his State of Vuenation talk, he will cover what has been happening with Vue.js in the last few months, growth that has taken place, and exciting new things to look forward to.
 
