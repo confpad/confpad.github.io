@@ -35,8 +35,8 @@ talks:
     slides:
     videos:
     description: |- 
-      Chris Hartjes has been building web applications of all shapes and sizes since 1998 mostly with PHP and yelling at anyone who will listen about writing tests and using automation to make your life easier since 2005. Monday to Thursday he currently works for Mozilla as part of the Firefox Test Engineering team doing testing of the growing number of services Firefox relies on. On Fridays he tries to work on his ever-growing collection of books, videos, and training sessions that he offers through http://grumpy-learning.com. He works from his home office located in the snowy wilds of Southwestern Ontario, Canada.
-
+      During a lunch break at a job in 2003 a co-worker looked me straight in the eye and told me "I think you should take a leadership course because I see something in you. Stop laughing! I'm serious!" I told that person they had the wrong impression of me. But ultimately they were right. 16 years later I can look back at a successful series of events and organizations (both inside and outside of programming) that I have been a part of.In this talk am I going to share my journey from frustrated developer to confident organizer, navigating my way through and around obstacles to help create the groups I wanted to be part of doing the things I wanted to do.
+  
   - title: The Ten Commandments of Object-Oriented Code
     lang: en
     type: regular
@@ -125,8 +125,8 @@ talks:
     slides:
     videos: 
     description: |-
-      Nara Kasbergen is a senior full-stack developer in NPR (National Public Radio)’s Digital Media group, where she's worked on a variety of projects, including the NPR Music homepage redesign and the third-party developer platform for NPR One. She is currently part of a small skunkworks team building custom applications for voice UI platforms such as Amazon Alexa and Google Home. She is passionate about Developer Experience (DX), community-building, the intersection of humans and code, and her volunteer work for Open Sourcing Mental Illness, a non-profit organization raising awareness about mental health in the tech industry.
-
+      The theme of this talk is leveling up: approaching membership in the PHP community to a degree that's appropriate for you based on your prior involvement. If this is your first conference, you'll learn how to get the most out of it, including navigating the talk schedule, the official and unofficial after-hours events, and how to keep in touch with the people you meet afterwards. We’ll also discuss the importance of giving feedback on the sessions you attend using joind.in and review best practices for how to write constructive comments. If you've been here before and/or are already a regular attendee at your local meetup, I'll go over how to deepen your involvement, including how best to support your user group, take a more active role in the conference scene, and start making tiny but meaningful contributions to the open source ecosystem. Finally, for the longtime members looking to make a lasting impact in the community, I’ll go over the highest tier of community contributions, which includes running a user group, technical blogging, contributing to open source, and speaking at meetups and conferences — and why the latter isn’t nearly as scary as you might think, even if you're a shy introvert like me!
+  
   - title: PWA for PHP Developers
     lang: en
     type: regular
@@ -275,7 +275,7 @@ talks:
     slides:
     videos: 
     description: |-
-      Olivia Liddell is a Cloud Training Specialist at Cloudbakers. She is a former Chicago Public Schools teacher who now specializes in technology training and change management. She is passionate about teaching, mentoring, and distance running.
+      Think back to a time when you were in a conversation that could have gone better. Perhaps you said something the wrong way, or you walked away from the conversation not fully knowing if the other person even understood what you were trying to convey.Technical trainers rely on effective communication as the foundation of everything that we do. We help end users to learn how to use software and adjust to new workflows, through the process of constantly adapting to different backgrounds, skill levels, and learning styles.In this session, you’ll learn actionable strategies to begin thinking like a trainer, including:Using active listening techniques to communicate with empathy.Best practices for explaining technical concepts in non-technical terms.
 
   - title: Performance Tuning Your Progressive Web App (PWA)
     lang: en
@@ -380,7 +380,7 @@ talks:
     slides:
     videos: 
     description: |-
-      A full-time PHP and WordPress freelancer for 10+ years, David is now a senior PHP developer at EnviraGalleryLLC working on two popular WordPress plugins (Envira Gallery and Soliloquy) used by hundred of thousands of websites. In addition, he also works on the popular WordPress Post Status newsletter, works as a consultant and developer for various PHP and JavaScript side projects, speaker, coding mentor, contributor to various open source projects, and helps run several meetups in South Florida. For the past decade, he has been an organizer of one of the largest and longest running WordPress conferences - WordCamp Miami. Also known for his live tweeting of conferences and a sense of humor he uses to keep him sane.
+      The options, tools, and technologies available to developers seems to be ever increasing in today’s development world. In fact, it's become almost overwhelming, even for those focused just focused on a particular area of development. Anxiety and confusion can effect one's professional career and mental health.What People Will Learn This talk will walk through simple but important steps that can apply to both beginner developers and senior developers in terms of how to determine what areas that they might want to focus in, and where they can go. Those that manage remote teams can also learn how to encourage developers and individuals on their teams.Why It’s ImportantWork/Life balance is important, but the "fear of missing out" is a powerful and many times an overwhelming emotion. Especially since many developers appreciate that they can't learn everything, especially if they have a family and social life. So many in our industry are overworked, fearful on some level, and feeling they are not putting the right priorities first.
 
   - title: Call... Text... Video Me Maybe?
     lang: en
@@ -530,7 +530,6 @@ talks:
     slides:
     videos: 
     description: |-
-      Developer, writer, speaker, musician, and Developer Advocate, PJ is known to travel the world speaking about programming and the way people think and interact. He is also known for wearing hats.
-
+      Ever wonder what it takes to live in the world of an open source developer? What if everything you can learn comes from the world of pop songs?We can learn a lot of from music, but in this talk, let's listen and see how we can be better developers.Through a series of pop songs we’ll look at what it’s like to:Start out on your own as a programmer - not sure where to go or to get involved in open source Work on a team dedicated to Open Source in the crazy world of SV/SF Open Source at a big blue company, and how large corporations view Open Source Sharing your knowledge with the next line of new folks looking to get in on OSSGoing out on your own - giving a conference talk - being the expert and sharing what you know.
       
       
