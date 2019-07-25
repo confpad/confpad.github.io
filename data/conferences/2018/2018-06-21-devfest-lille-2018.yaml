@@ -40,6 +40,7 @@ talks:
     videos:
       - https://youtu.be/vaXPyWfangg
     description: |-
+      Je suis détentrice d'un doctorat en interactions homme-machine, j'ai donné des cours à l'EPITA, écrit des articles sur le persuasive design et j'ai déjà été speaker dans des conférences. Après une expérience comme UX designer chez SAP et UX manager chez Sage, je suis actuellement UX consultant chez Murex ainsi que freelance pour le projet de banque mobile Hush.Ingénieure en cognitique, je suis issue d'un cursus qui mêle expérience utilisateur et informatique. Mon expérience a porté sur différents domaines, de l'accessibilité dans le champ médical à la participation à la mise en place d'un user lab, en passant par la création d'un guide méthodologique UX. Je travaille actuellement à Murex, en tant que consultante UX et product manager de la UI.
 
   - title: gRPC, communiquons autrement
     lang: en
@@ -74,6 +75,7 @@ talks:
     slides:
     videos:
     description: |-
+      Je suis développeur Android chez Smart&Soft depuis 2 ans et demie. N'étant pas particulièrement intéressé par l'informatique au départ, j'ai découvert le monde du développement mobile en école d'ingénieur. J'ai depuis travaillé sur de nombreux projets clients, dont certains avec un nombre important d'utilisateur. Je suis très attaché à la qualité et la fiabilité des applications que je créé, ainsi qu'à leur maintenabilité.Ingénieur Développeur Android depuis 2 ans après avoir travaillé en J2E quelques temps. Chez Smart&Soft je travaille sur des applications à forte visibilité. Toujours friand de la nouveauté, je suis entrain de devenir fan de Kotlin.
 
   - title: 'ESM : EcmaScript Modules in browser and NodeJS. It,s about time !'
     lang: en
@@ -89,6 +91,7 @@ talks:
     videos:
       - https://youtu.be/9MbSR-dOug8
     description: |-
+      Evangéliste technique chez Microsoft France, Sébastien est en charge d'accompagner les communautés de développeurs autour des technologies innovantes de Microsoft. En charge de tout ce qui touche au développement autour du développement Web Front avec TypeScript et Angular, Azure et NodeJS côté Backend, et enfin la donnée autour de SQL Server et MySQL. Grand passionné de techno, Sébastien s’intéresse à la partie Microsoft Open Source, allant du monde Java chez Microsoft, .Net Core sur Mac ou encore Visual Studio Code !
 
   - title: Métrologie et Alerting avec Prometheus et Grafana
     lang: en
@@ -108,6 +111,7 @@ talks:
     videos:
       - https://youtu.be/OOPQpwJ7SSk
     description: |-
+      Christophe est consultant Outils et Culture DevOps chez Zenika. Ses racines de développeur passionné et responsable l’ont amené à traiter avec attention les sujets du cycle de vie des projets, du poste de travail du développeur jusqu’au déploiement sur les environnements en production. Sa conviction que l’approche DevOps et le Continuous Delivery sont les bonnes directions à prendre l'amène à collaborer avec tous les métiers qu’ils soient Ops ou Dev et à y jouer le rôle qu’il préfère : le facilitateur.
 
   - title: L'UX a sauvé mon Devops
     lang: en
@@ -143,6 +147,7 @@ talks:
     videos:
       - https://youtu.be/VQCkhlEHCfY
     description: |-
+      Ex ingénieur système qui est retombé dans le developpement. SRE convaincu, passionné de machine learning, quand je ne réalise pas de mission de transformation DevOps, je code en GO et je blogue mes expériences.
 
   - title: Tout le monde sait comment utiliser Angular / React / VueJs ... mais savez-vous comment utiliser JavaScript ?
     lang: en
@@ -161,6 +166,7 @@ talks:
     slides:
     videos:
     description: |-
+      Consultant et Formateur Web chez Zenika Lille depuis novembre 2015. Je me suis spécialisé dans le domaine du Web, Javascript, AngularJS, Angular, VueJs... Fan d 'IOT durant mes heures perdues, je suis toujours à l'affût des dernières nouveautés Web !
 
   - title: A Kotlink between worlds
     lang: en
@@ -176,6 +182,7 @@ talks:
     videos:
       - https://youtu.be/VIvZcAgaegs
     description: |-
+      Developer since 2004, Benjamin has grown fond of Android since he started tinkering with it in 2011. He was previously employed at Emakina as lead Android developer. Since July 2016, he started his carrer as a freelancer. Through his work, he does his best to share his passion for the platform and ensure Android applications are not copy/pasted from their iOS counter-part. He stays closely up-to-date with Google 's guidelines and innovations to advise and take decisions that would fit best in an Android application.
 
   - title: À tables ! Router efficacement avec Iproute et Netfilter.
     lang: en
@@ -191,6 +198,7 @@ talks:
     videos:
       - https://youtu.be/lny65kMKcJ0
     description: |-
+      Développeur, ops et cofondateur de Clever Cloud. Je travaille dans l'ombre, autant sur l'API publique que sur la maintenance de divers clusters et des hyperviseurs.
 
   - title: Chatbots, et si on passait la seconde ?
     lang: en
@@ -210,6 +218,7 @@ talks:
     videos:
       - https://youtu.be/tmqeBSAPBRk
     description: |-
+      Le jour, Guillaume Laforge est Developer Advocate chez Google, sur les solutions cloud, et de nuit, il reprends sa casquette de contributeur au projet Apache Groovy. Guillaume est également un des membres du podcast Les Cast Codeurs.
 
   - title: HTTP2 en pratique
     lang: en
@@ -225,6 +234,7 @@ talks:
     videos:
       - https://youtu.be/OQiFCOYvwL0
     description: |-
+      Alexis Hassler est développeur Java depuis la fin du siècle dernier. Il exerce son métier comme indépendant, en codant, mais aussi en accompagnant ou formant les entreprises pour les aider à améliorer leur façon de développer et de déployer leurs applications Java.
 
   - title: Les Principes de Base du Design
     lang: en
@@ -256,6 +266,7 @@ talks:
     videos:
       - https://youtu.be/259CYnDVHL0
     description: |-
+      Entrepreneur and Hacker, building new stuff thanks to technology is what I love to do. CTO and founder of the PaaS provider Scalingo for 4 years, I've focused my efforts on building distributed infrastructures, and hosting-related technologies especially linux containers. I like telling the world how it is to run such things in production and how it has been built. Otherwise I like cooking and hiking, but that's another story.
 
   - title: '#RetourAuxSources : Les cookies HTTP'
     lang: en
@@ -271,6 +282,7 @@ talks:
     videos:
       - https://youtu.be/dv7Ny4hr-AQ
     description: |-
+      Hubert est passionné par le Web. Il est toujours à la recherche de nouvelles idées et autres bidouilles pour améliorer l'expérience des utilisateurs et des développeurs.
 
   - title: Introduction à Python
     lang: en
@@ -286,6 +298,7 @@ talks:
     videos:
       - https://youtu.be/njq_pwva1v8
     description: |-
+      Passionné d'informatique et surtout addict à Python, je suis un grand fan du framework web Django. Développeur chez Norauto, j'y cite très souvent Kuzco et Le Seigneur des Anneaux, au grand plaisir de mes collègues, enfin je crois.
 
   - title: Istio, we have a problem! Understanding and fixing bugs with a service-mesh.
     lang: en
@@ -301,6 +314,7 @@ talks:
     videos:
       - https://youtu.be/8FkkOeZaCv4
     description: |-
+      I used to be Java Champion, then GoNoob @Docker. Now I'm a Cloud Platform Developer Advocate at Google. I run Docker in Docker in Docker... recursively.
 
   - title: De la domotique faite-maison avec Android Things et le Google Assistant
     lang: en
@@ -316,6 +330,7 @@ talks:
     videos:
       - https://youtu.be/iOZV3uTr_h8
     description: |-
+      Gautier est développeur Android et Google Developer Expert #IoT
 
   - title: 'L,pen-source à la rescousse de mes APIS: comment les sécuriser grâce à Gravitee.io et Keycloak'
     lang: en
@@ -335,6 +350,7 @@ talks:
     videos:
       - https://youtu.be/Lkr3Hok-rfk
     description: |-
+      David est CTO chez GraviteeSource et core committer Gravitee.io API Platform. A ce titre, il intervient régulièrement sur des missions de consulting, d'expertise technique et d'architecture afin de faciliter l'exposition des APIs, favoriser une démarche OpenAPI, le tout en respectant les préceptes fondamentaux en terme de sécurité
 
   - title: Data Stream avec Apache Beam / Cloud Dataflow
     lang: en
@@ -350,6 +366,7 @@ talks:
     videos:
       - https://youtu.be/PBERz2GB1VM
     description: |-
+      Développeur et touche à tout, passionné par notre métier et son écosystème, je suis responsable de la DATA chez SFEIR.
 
   - title: De Java7 à la programmation fonctionnelle
     lang: en
@@ -365,6 +382,7 @@ talks:
     videos:
       - https://youtu.be/a3hq9vKTMVY
     description: |-
+      Développeur Java depuis 6 ans, passionné de bières et de jeux vidéos depuis bien plus, j'aime résoudre des problèmes et m'améliorer en permanence, aussi bien techniquement (nouveaux langages, nouvelles librairies) qu'humainement (Egoless programming, Software craftsmanship). J'ai découvert et me suis passionné pour la Programmation fonctionnelle, et je propose de partager cette passion autour de moi.
 
   - title: Git dammit!
     lang: en
@@ -380,6 +398,7 @@ talks:
     videos:
       - https://youtu.be/QzlAEqqhrcY
     description: |-
+      Développeur passionné, j'ai démarré tout jeune en intégrant des templates graphiques réalisés sur Photoshop, ce qui m'a progressivement amené au développement web. Constamment à la recherche de moyens de gagner du temps et d'améliorer la qualité de mon code, j'aime partager mes trouvailles.
 
   - title: Devenez un backend hero avec Kotlin
     lang: en
@@ -398,6 +417,7 @@ talks:
     slides:
     videos:
     description: |-
+      Développeur passionné depuis 14 ans, Grégory est aujourd'hui consultant/formateur chez Zenika Nantes pour mettre à profit son expérience du monde de l'édition de logiciels Web. Architecte et développeur backend Java et NodeJS, il est aussi aguerri à tous les aspects de la construction logicielle et positionne la culture craftmanship au coeur de la production de logiciels de qualité. Sa quête d'apprentissage l'amène à explorer les mondes du front avec VueJS, des micro-services et de langages modernes tels que Kotlin.
 
   - title: Redécouvrir l’univers connu avec le dataset de la NASA
     lang: en
@@ -420,6 +440,7 @@ talks:
     slides:
     videos:
     description: |-
+      Aurélien Hébert started as a software engineer in the Alten R&D team on a Big data project. This project was about discovering pattern in mobility data. After this first experience he wanted to work on a technical project including more sensors data. He joined a Startup (Cityzen Data) building an open source Geo-Time-Series database (Warp 10) and its associated language to manipulate it. Here he got data, a lot of them. He is now joining OVH metrics. He also like to share his experience in local conference such as FinistDev or meetups.
 
   - title: Tout le monde parle de Kubernetes, et si vous vous y mettiez vous aussi?
     lang: en
@@ -438,6 +459,7 @@ talks:
     slides:
     videos:
     description: |-
+      Christophe est consultant Outils et Culture DevOps chez Zenika. Ses racines de développeur passionné et responsable l’ont amené à traiter avec attention les sujets du cycle de vie des projets, du poste de travail du développeur jusqu’au déploiement sur les environnements en production. Sa conviction que l’approche DevOps et le Continuous Delivery sont les bonnes directions à prendre l'amène à collaborer avec tous les métiers qu’ils soient Ops ou Dev et à y jouer le rôle qu’il préfère : le facilitateur.
 
   - title: Scala pour ceux qui n'en ont jamais fait, par l'exemple, 2h pour être opérationnel(le)
     lang: en
@@ -456,6 +478,7 @@ talks:
     slides:
     videos:
     description: |-
+      Ancien développeur java et architecte technique depuis plus de 10 ans, j'ai toujours un ssh lancé vers mes serveurs. Je m'intéresse en ce moment à la culture DevOps et à ses outils, en particulier Docker et Kubernetes.
 
   - title: Le Pair Programming sous toutes ses formes
     lang: en
@@ -474,6 +497,7 @@ talks:
     slides:
     videos:
     description: |-
+      Software Architect at Worldline. (FR/EN) Lovin ' Kotlin, Agile methodologies, Pair Programming, learning stuff, cats, and potatoes. I'm coding microservices and putting them in Docker containers... Does that make me a fullstack DevOps ninja something?
 
   - title: Propulsez votre application Angular avec GraphQL et Apollo
     lang: en
@@ -492,6 +516,7 @@ talks:
     slides:
     videos:
     description: |-
+      Consultant et formateur chez Zenika Nantes. J'interviens sur des missions de réalisation autour des technos front et back tel que AngularJS, ReactJS et Spring. Passionné par l’écosystème technique dans lequel je travaille je participe régulièrement aux meetups Nantais et donne des talks lors de différents événements.
 
   - title: Vos premiers pas en japonais
     lang: en
@@ -510,6 +535,7 @@ talks:
     slides:
     videos:
     description: |-
+      Je suis japonaise et analyste senior HEOR (Health Economics and Outcomes Research) chez Creativ-Ceutical. J'ai essayé de faire un peu de développement web mais ce n'est pas facile.
 
   - title: Office Hours - DevOps
     lang: en
@@ -524,3 +550,4 @@ talks:
     slides:
     videos:
     description: |-
+      Christophe est consultant Outils et Culture DevOps chez Zenika. Ses racines de développeur passionné et responsable l’ont amené à traiter avec attention les sujets du cycle de vie des projets, du poste de travail du développeur jusqu’au déploiement sur les environnements en production. Sa conviction que l’approche DevOps et le Continuous Delivery sont les bonnes directions à prendre l'amène à collaborer avec tous les métiers qu’ils soient Ops ou Dev et à y jouer le rôle qu’il préfère : le facilitateur.

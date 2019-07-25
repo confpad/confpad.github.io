@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: DevFestMN 2019
-  status: incomplete
+  status: complete
   series: devfest.mn
   tags:
     - general
@@ -18,5 +18,698 @@
     country: United States
     city: Minneapolis
   description: |-
+    Google Developer Group DevFests are the largest Google related events in the world! Each DevFest is carefully crafted for you by your local GDG community to bring in awesome speakers, great topics, and lots of fun! While no two events will be exactly alike, each GDG DevFest will, at its core, be powered by a shared belief that when developers come together to exchange ideas, amazing things can happen!
 
 talks:
+
+  - title: Mastering Your Company's Brand Image
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Jessi Gurr
+        twitter: jessigurr
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/8K0sLlFeiwQ
+    description: |-
+      Do your customers and your prospects have an accurate image of your company values and strengths? Branding is not your business name, logo, or color scheme. Rather, your brand is how others perceive your business. This talk will help you build a successful brand image for your company. We'll explore brand consistency beyond just the logo and colors, and help you take control over how your customers view your brand. When your current and potential customers have a clear grasp of your brand, they will in turn become brand advocates for your business.
+
+  - title: How non-violent communication can help keep the peace on your team.
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Casie Siekman
+        twitter: CassandraDanger
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/AdvHpAiLRG8
+    description: |-
+      Nonviolent Communication is based on the idea that all human beings have the capacity for compassion and only resort to violence or behavior that harms others when they don't recognize more effective strategies for meeting needs.Especially in our technological industry, there are many chances for miscommunication which can lead to all parties feeling dissatisfied. Unspoken expectations, ignored feelings and accusatory or aggressive language can bring an otherwise productive team to a halt. This presentation will show you how to be aware of yourself and how your actions affect others, and how to deal with and understand others that may be negatively affecting you.
+
+  - title: Get Flapping with Flutter
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Abraham Williams
+        twitter: abraham
+        github:
+        website:
+      - name: Pearl Latteier
+        twitter: pblatteier
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Wanna get rid of UI Jank in Android apps?
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Sunitha Burri
+        twitter: sunithaburri
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Dissecting the stdlib
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Huyen Tue Dao
+        twitter: queencodemonkey
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Building a robot with Android Things by Etienne Caron
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Etienne Caron
+        twitter: kanawish
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Adding Jetpack to your Android app
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Tiem Song
+        twitter: tiembo
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Bridging the Gap : Exploring Collaborative Product Design and Development'
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Jon Rexeisen
+        twitter: rexeisen
+        github:
+        website:
+      - name: Sonja Rostad
+        twitter: SonjaRostad
+        github:
+        website:
+      - name: Mike Haeg
+        twitter:
+        github:
+        website:
+      - name: Patrick Fuentes
+        twitter: pfue
+        github:
+        website:
+      - name: Lacey Kobriger
+        twitter: laceykobriger
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: The Future State Of Diversity and Inclusion In Engineering
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Brianna McCullough
+        twitter: brilimitless
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hhD6ppvUkLA
+    description: |-
+      If the tech industry can set the standard for inclusive working environments and a diverse workforce, then it’s going to have a positive ripple effect on the economy as a whole. In the past, experts blamed the American education system for failing to provide women and minorities with the type of instruction needed for future careers in technology-driven fields, thereby causing a lack of quality applicants in selected science, technology, engineering, and mathematics (STEM”) occupations. Experts also opined that women and minorities self-selected away from STEM fields, contributing to a lack of diversity in the tech industry employment pipeline. Based upon that thinking, tech companies have focused diversity initiatives on efforts intended to increase diversity within the talent pipeline. This talk will represent the recent findings and look into what exactly the tech industry will look like in the future.
+
+  - title: Building a Reusable UI Component Library with Components You'll Actually Reuse?!
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Amy Gebhardt
+        twitter: amlyhamm
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Intro to Reinforcement Learning
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Theo Kanning
+        twitter: theokanning
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: WorkManager the workshop
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Lyla Fujiwara
+        twitter: CeruleanOtter
+        github: 
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Let's start using Firebase
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Sweety Bertilla Francis Xavier
+        twitter: fxsweety
+        github: 
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cQDS_RLPgec
+    description: |-
+      Firebase is a suite of services offered by Google for ease of developing and managing apps in a variety of platforms such as Android, IOS, web. This presentation will cover remote config with A/B testing, Dynamics Links, Robotesting and Crashlytics. How to set them up and use them with a simple demo. Firebase is a suite of services offered by Google for ease of developing and managing apps in a variety of platforms such as Android, IOS, web. This presentation will cover remote config with A/B testing, Dynamics Links, Robotesting and Crashlytics. How to set them up and use them with a simple demo.
+
+  - title: AMP and PWA can be friends!
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Ben Morss
+        twitter: benmorss
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'UX Meets MBA: A designer goes to business school'
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: McLean Donnelly
+        twitter: mcleandonnelly
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Build and scale mobile apps with Firebase and Google Cloud
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Doug Stevenson
+        twitter: CodingDoug
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Progressive Web Apps: Future of web development'
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Maciej Treder
+        twitter: maciejtreder
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Designing With Constraints
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Sean McQuillan
+        twitter: objcode
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: The Science Behind Product Design
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Margaret Janssen
+        twitter: maggiecjanssen
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/HhaiLHPHp_k
+    description: |-
+      - Design as a whole encompasses many aspects of our daily lives, and can at times be seen as a largely subjective practice.But did you know there is scientific rationale/proof for how we physiologically and psychologically process experiences, and that these considerations influence product design decisions (whether or not we are aware of them)?
+
+  - title: Resilient UI System Testing with Puppeteer
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Mike Eastes
+        twitter: FalahShazib
+        github: FalahShazib
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: lightning talks
+    lang: en
+    type: lightning
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Collin Flynn
+        twitter:
+        github:
+        website:
+      - name: Paula S Merns
+        twitter: doryllis
+        github:
+        website:
+      - name: Jakeh Clark
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Achieving World Class Results w/ Less Code than TensorFlow
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Kyle Smaagard
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Focus on your code, not infrastructure, with Cloud Functions
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Martin Omander
+        twitter: martinomander
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Get moving with MotionLayout
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Bryan Herbst
+        twitter: bryancherbst
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Android Navigation Architecture Component - Take the Expressway
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Steve Peterson
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: '3 Laws of ROBOT Interface: What the robots of Sci-Fi wish we knew about VUI but won,t tell us'
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Bryce Howitson
+        twitter: howitson
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/aiZ-SBuTJ4g
+    description: |-
+      Voice UI's are everywhere, but the experience ranges from mediocre to downright scary. Fortunately, popular culture has nearly 100 years of context to teach us what good VUI sounds like. We'll survey the best of Sci-Fi to learn the 3 laws of ROBOT interface and explore how to construct GREAT VUI.
+
+  - title: Don't Just Write Code, Design It
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Tyler Johnson
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Modern Web Testing: Going Beyond Selenium'
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Dmitry Vinnik
+        twitter: DmitryVinnik
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Google Android Things: Adding Intelligence to the Network Edge'
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Timothy J. Salo
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Cloud IoT Core for Android Developers
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Chris Davis
+        twitter: rpgobjects
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Adventures in Navigation
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Lyla Fujiwara
+        twitter: CeruleanOtter
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: The Android Persistence Layer Playbook
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Jeff Huston
+        twitter: rpgobjects
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Iterative Triggers - Developing First Sight and Second Thoughts
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Christopher Stephan
+        twitter: christephan
+        github:
+        website:
+    slides:
+      - https://miro.com/app/board/o9J_kyHRau8=/
+    videos:
+      - https://youtu.be/4ykNn6U-sf4
+    description: |-
+      When outcomes are critical and timelines are tight it's important that we move with speed and agility. Which means that it's equally important that we don't slow ourselves down with rework or waste our effort by chasing unexamined assumptions or dismissing the possibility of failure.I propose to arm you with the ability to discover hidden truths and act upon them to best effect. I shall reveal to you the deepest secrets of success and unnaturally prolonged relevance. I will teach you magic - but perhaps not in the way you expect.
+
+  - title: Using Mind Maps to Visually Get Your Point Across
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Jennifer L Bonine
+        twitter: rpgobjects
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: The "R" in AR means data and Augmented Images makes it happen
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Noble Ackerson
+        twitter: nobleackerson
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Machine learning 101
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Mark Kalal
+        twitter: MarkKalal
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: “PrismaPizza”, your GraphQL backend delivered home in 30min
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Thibaud Courtoison
+        twitter: Errorname_
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Mastering Motion with AnimatedVectorDrawable
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: James Williams
+        twitter: ecspike
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Intro to Android Things
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Jonathan Petit-Frere
+        twitter: ecspike
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: How to use design to trick people into thinking your app is faster than it is
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Mike Bollinger
+        twitter: mikebollinger
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: It’s a Wonderful Web
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Pearl Latteier
+        twitter: pblatteier
+        github:
+        website:
+      - name: Abraham Williams
+        twitter: abraham
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Curb Cuts: Pragmatic Accessibility First Steps for Design and Development'
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Caitlin Collins
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Demystifying deployment complexity with terraform or:'
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Levi Tomes
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Pushing IoT to the Edge
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: David Anderson
+        twitter: draspawn
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: Crazy Fancy Android Text
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Dan Lew
+        twitter: danlew42
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+
+  - title: 'Android with Intent: Acing Architecture'
+    lang: en
+    type: regular
+    time: 2019-02-02
+    room:
+    authors:
+      - name: Colin Lee
+        twitter: colinmlee
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+    

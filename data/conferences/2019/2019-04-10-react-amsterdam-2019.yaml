@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: React Amsterdam 2019
-  status: incomplete
+  status: complete
   series: react.amsterdam
   tags:
     - javascript
@@ -18,5 +18,226 @@
     country: Netherlands
     city: Amsterdam, Kromhouthal
   description: |-
+    A full-day, two-track conference on all things React, gathering Front-end and Full-stack developers across the globe in the tech heart of Europe. We're coming back with a new gig on April 10-12, 2019. Mark your calendars for the biggest React community event.We welcome people from all walks of life in our community, and we are a proud partner of initiatives like Unicorns in Tech, the global tech network for LGBT professionals and straight allies. We know that supporting diversity inside and outside IT must not end at mere statements, which is why we have a diversity scholarship program.
 
 talks:
+
+  - title: Requisite React
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Kent C. Dodds
+        twitter: kentcdodds
+        github: kentcdodds
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_aPRUn6y47I
+    description: |-
+      React is a brilliant JavaScript library for building simple and complex user interfaces. In our eagerness to apply React to our most complex of problems and ship solutions today, we can get lost in the 🌲🌲🌲 forest of abstractions 🌲🌲🌲. When it comes to leveling up our skills in anything, I find the most effective method is to take a step back and understand the foundational fundamentals. To strip away all abstraction until what we're left with is the bare bones. The better you understand an abstraction, the more effective you will be at using it. In this talk, we'll get more effective at using React Hooks, React Suspense, and JSX.
+
+  - title: Refactoring React
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Siddharth Kshetrapal
+        twitter: siddharthkp
+        github: siddharthkp
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ZsCqtoWFVn8
+    description: |-
+      But, there's a lot out there: Higher order components, Render props, Compound components? Provider methods? Learn which component pattern will make your codebase better in which use case.
+
+  - title: Designing with React
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Mark Dalgleish
+        twitter: markdalgleish
+        github: markdalgleish
+        website:
+    slides:
+    videos:
+      - https://youtu.be/yn4_V_GPVHM
+    description: |-
+      Thanks to React's component-oriented architecture, the React community has been naturally gravitating towards design systems as a way of standardising our respective design languages into reusable components. When done successfully, it suddenly becomes trivial to translate standard designs into code. In fact, we may even find that this translation step starts to feel somewhat redundant. In a world of components, how should our design processes change? How should our tooling change? How should we, as React developers, better enable this change? In this talk, we'll look at the current state of design and development, and where we could go—if we're willing to push for it.
+
+  - title: A Common Design Language. Let Designers and Developers talk to each other
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Andrey Okonetchnikov
+        twitter: okonetchnikov
+        github: okonet
+        website:
+    slides:
+    videos:
+      - https://youtu.be/F-MXzkpiUdM
+    description: |-
+      “Should designers code?” or “Should coders design?”—these two eternal questions are being asked for years with no particular answer given.How to let developers know what typography style or button variance they should be using on this particular screen?How to ensure that the whole UI is consistent?How to let designers know that some screen design doesn’t fit the requirements and needs to be updated?In order to answer those questions designers and developers have to speak the same language. But what language should it be? UI components and pattern libraries can provide this intermediate abstraction and be a common language for both designers and developers.
+
+  - title: Tech Regrets at Spectrum
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Max Stoiber
+        twitter: mxstbr
+        github: mxstbr
+        website:
+    slides:
+    videos:
+      - https://youtu.be/GW8Tng79S4o
+    description: |-
+      Spectrum is an open source chat app for large online communities and was recently acquired by GitHub. We are a team of three with a predominantly frontend and design background and have worked on it for close to two years. With the benefit of hindsight, let's talk about the technology choices I regret and the lessons I have learned.
+
+  - title: Scaling Applications with Microfrontends
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Max Gallo
+        twitter: _maxgallo
+        github: maxgallo
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9h3gPOtNSII
+    description: |-
+      Once upon a time, you had one Single Page Application using a Monolith Backend that relies on a Database. Then you started getting some users and suddenly you needed multiple instances of your Monolith Backend and more replicas of your Database. Your user base kept growing and also your development team was growing, so you split your Monolith backend into Microservices with their own Databases.You’re very happy about the situation until you realize that the same problem you had on the backend it’s now on the frontend. Multiple teams are working on the same codebase, it’s hard to do frequent releases and there’re a lot of cross-team communications that slow things down.At DAZN we battle-tested the Microfrontends architecture leveraging feature like blue-green deployments in the frontend, framework agnostic teams and drastically reduced cross-team dependencies.
+
+  - title: An SVG’s Tale
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Elizabet Oliveira
+        twitter: miuki_miu
+        github: miukimiu
+        website:
+    slides:
+    videos:
+      - https://youtu.be/QmibujkQUtg
+    description: |-
+      This way, to drive your inspiration, I am going to tell you the story of an SVG image that one day made a very special friend - ReactJS. Alone and despised by its family, SVG yelled Enough! Now you’ll see what I’m all about!. And with this epic scream, little SVG unveiled all its superpowers. She took her friend React and they showed the world how to come up with creative solutions together.
+
+  - title: The GraphQL developer experience
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Peggy Rayzis
+        twitter: peggyrayzis
+        github: peggyrayzis
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DUTjfFTHCx4
+    description: |-
+      Data fetching makes up a large part of our React apps, yet it's also some of the most complex code we write. GraphQL can help us reduce this complexity, especially when it's combined with intelligent tooling. In this talk, we'll explore how to achieve a friction-free state management experience with GraphQL and Apollo right inside your editor.
+
+  - title: Painting Pixels with WebGL with React Hooks
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Ashi Krishnan
+        twitter: rakshesha
+        github: queerviolet
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Fvr-yrtxMLc
+    description: |-
+      WebGL lets you unlock the power of your GPU. In principle, you can paint almost anything you can dream of. In practice, WebGL is hard, and though projects like three.js make it easier, there are still a lot of hurdles to integrating it into your site in a practical way.Let's explore how Hooks can make it easier to integrate powerful GPU-driven visuals into our React apps, giving us the best of both worlds: the power of WebGL with the ease and expressiveness of a React component tree.
+
+  - title: Next for Next.js
+    lang: en
+    type: lightning
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Tim Neutkens
+        twitter: timneutkens
+        github: timneutkens
+        website:
+    slides:
+    videos:
+    description: |-
+      Next.js is one of the most convenient and powerful ways of developing React apps on the web. With powerful features out of the box such as code-splitting, server-side rendering and powerful optimizations, this talk discusses the exciting next steps for Next.js.
+
+  - title: Fetch like a boss with React Async
+    lang: en
+    type: lightning
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Gert Hengeveld
+        twitter: ghengeveld
+        github: ghengeveld
+        website:
+    slides:
+    videos:
+    description: |-
+      Data fetching is a very common operation in React applications. Making HTTP requests is easy, but have you considered every edge-case and how to properly hook into the React lifecycle? This lightning talk will show you how React Async makes your life easier.
+
+  - title: Lightning fast SSR React apps with top perceived performance and no (client side) JavaScript
+    lang: en
+    type: lightning
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Håkon Gullord Krogh
+        twitter: hakonkrogh
+        github: hakonhk
+        website:
+    slides:
+    videos:
+    description: |-
+      Netflix changed their frontpage a while back to only serve HTML, CSS and a small amount of Js. Let’s have a look on how you can do the same with Next.js, and if the principles still apply today. Is the user getting a better perceived experience when we turn off the client side JavaScript?
+
+  - title: Speeding up React SSR
+    lang: en
+    type: lightning
+    time: 2019-04-12
+    room:
+    authors:
+      - name: David Mark Clements
+        twitter: davidmarkclem
+        github: davidmarkclements
+        website:
+    slides:
+    videos:
+    description: |-
+      React is a hugely popular frontend framework that revolutionized the frontend development world. React is built primarily for the browser, while Node has fundamentally different operational constraints to the browser. As a Principal Architect and Consultant it has become painfully clear that React’s Server Side Rendering (SSR) is a performance bottleneck for web backends around the world. This talk demonstrates a very simple solution that can be dropped into pre-existing React applications to vastly improve the throughput of an SSR Node server (around 20-40x+).
+
+  - title: 'Demystifying server-rendered React apps: Performance & Security'
+    lang: en
+    type: lightning
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Fernando Porazzi
+        twitter:
+        github: fernandoporazzi
+        website:
+    slides:
+    videos:
+    description: |-
+      During this lightning talk, let's walk through the pros and cons of server-rendered applications, when you want to have it and what you can expect.
+ 

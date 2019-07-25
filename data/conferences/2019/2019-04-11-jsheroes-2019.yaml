@@ -1,7 +1,7 @@
 ﻿conference:
 
   name: JSHeroes 2019
-  status: incomplete
+  status: complete
   series: jsheroes.io
   tags:
     - javascript
@@ -10,7 +10,7 @@
   link:
     twitter: jsheroes
     videos: https://www.youtube.com/playlist?list=PLB9NqTp0uKrR8WFXitMvLMGd-kGGZ4RkX
-    website: https://jsheroes.io/
+    website: https://jsheroes.io/2018
   date:
     from: 2019-04-11
     to: 2019-04-12
@@ -18,5 +18,353 @@
     country: Romania
     city: Cluj
   description: |-
+    JSHeroes is mostly focused on technical talks, the JavaScript ecosystem and the wonders of the Web. But each year, we pick a couple of extra topics we want to raise awareness of. In 2019, we tackle a major theme which impacts all of us one way or another: open source software. We are also committed to bringing on stage speakers that explore areas often overlooked by the community, namely: Web Accessibility, Mental Health and Balance.
 
 talks:
+
+  - title: The Future of Web Animation
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room:
+    authors:
+      - name: Sarah Drasner
+        twitter: sarah_edo
+        github: sdras
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hjgni3dXcVE
+    description: |-
+      We talk a lot about how to animate on the web, and what's possible in browsers today, but where is animation heading? In this talk, we'll start with some bleeding edge techniques such as native-like page transitions with client side rendering, but then we'll push it further. The intersection of health and animation with biofeedback sensors, the future of 3d in the browser complete with interviews with people who are writing these specs... this talk will show that in terms of animation on the web, we're just getting started.
+
+  - title: Machine learning for front-end developers
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room:
+    authors:
+      - name: Charlie Gerard
+        twitter: devdevcharlie
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cp0KdK3He48
+    description: |-
+      Machine learning can have some pretty complicated concepts to grasp if you’re not a data scientist. However, recent developments in tooling make it more and more accessible for developers and people with little or no experience.One of these advancements is the ability to now train and run machine learning algorithms and models in the browser, opening this world to front-end developers to learn and experiment.
+
+  - title: Serverless can do that?!
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room:
+    authors:
+      - name: Simona Cotin
+        twitter: simona_cotin
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/fNKT6GMUxBY
+    description: |-
+      In this session we'll explore how empowering serverless is for the Javascript developer and how much we can already achieve by not reinventing the wheel. We'll also sprinkling a bit of serverless magic and learn how we can use it once we add it to our toolbox.
+
+  - title: How to build a house in 3D – A short introduction to BabylonJS
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room:
+    authors:
+      - name: Anna Backs
+        twitter: merelyAnna/
+        github: an-na-b
+        website:
+      - name: Christina Zenzes
+        twitter: merelyChristina
+        github: chrizzzz
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ZZ3uj-2H6-w
+    description: |-
+      Who has not dreamed of creating something in 3D, or even better: 3D running in a browser?! We also had this dream, and during a hackathon in early 2018 we finally fulfilled it by using BabylonJS. We started to build an interactive control panel for managing all IoT devices in our office building. Having had no prior experience whatsoever, we got to know the framework by working with it and having to fix our own mistakes. In this talk we, will share our experiences using BabylonJS and show you how to get started with building 3D web applications. We will cover all the basics needed to implement a small 3D web app with BabylonJS.Th Garbage collection ES module integration and more!reading Garbage collection ES module integration and more!
+
+  - title: WebAssembly's Post-MVP Future
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room:
+    authors:
+      - name: Lin Clark
+        twitter: linclark
+        github:
+        website:
+      - name: Till Schneidereit
+        twitter: tschneidereit/
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ZZ3uj-2H6-w
+    description: |-
+      During the first part of our journey, our hero completed the first quest—making it possible to play PC games and build applications like AutoCAD on the web. But this journey is far from over! Many a quest awaits; whole worlds are left to explore! The browser, and our hero’s current skill set, is just the beginning.In this talk, we’ll explore both charted and uncharted areas—from the JavaScript-rich lands of the browser, to the darkest reaches of the blockchain, to the airy heights of the cloud with CDNs, and more! And we’ll map out all of the features we need to unlock to take us to these new heights:
+
+  - title: 'You Belong Here: How to Make Open Source More Open'
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room:
+    authors:
+      - name: Jason Lengstorf
+        twitter: jlengstorf
+        github: jlengstorf
+        website:
+    slides:
+    videos:
+      - https://youtu.be/8ARA7AD4yPs
+    description: |-
+      Done well, open source is one of the highest-value targets for businesses these days. Companies like Facebook and Airbnb leverage OSS as a source of brand equity and recruiting, among other advantages. However, OSS is still uncomfortable for many companies — and even if they _do_ open source their tools, these projects often fail to launch — because they're missing the most important (and best) part of OSS: the community.Projects that survive in today's landscape have thriving communities that care deeply about the quality and advancement of open source _and_ the people using it. But open source can also be intimidating to newcomers, and occasionally unwelcoming. In this talk, learn how popular open source framework Gatsby has doubled down on community, including:Offering open pair programming hours Trusting _all_ contributors with merge access Sending free swag to contributors And much more! Learn how you can borrow our strategies to create a healthy, welcoming community for your open source projects, starting today!
+
+  - title: Maintainers Anonymous
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room:
+    authors:
+      - name: Henry Zhu
+        twitter: left_pad
+        github: hzoo
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-BPUPNz5H70
+    description: |-
+      Much of open source starts with scratching your own itch. It's possible that your project turns out to be useful for others. Soon you may find yourself responsible for a critical piece of the internet and are really excited.Later you realize you have no idea who is using it, find it hard to communicate to your users, are burdened with the ever -increasing workload, and desperate to find help. You discover that it's hard to let go or trust anyone else. Should you just make more tools? How do we even begin to start solving this problem?This talk will go into my experience of working on open source full time for the last year and the many issues faced: whether it's the burden of work, the issues of freedom, fundraising difficulties, and on top of that emotional well being. Let's talk about working to support maintainers personally, consistently, and in community.
+
+  - title: Blowing Bubbles on Mental Health - Hacking a Kid's Toy in JavaScript
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room:
+    authors:
+      - name: Peggy RayzisDaisy Smith
+        twitter: daisysmells
+        github: daisymarie128
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1vkziw8UpQQ
+    description: |-
+      As developers, we spend large amounts of time and energy making sure we are building the best solutions and learning the latest tech, but significantly less time on taking care of ourselves and others. Physical health problems are often very obvious. Mental health issues can be much harder to detect in yourself and others, but is essential that our community focuses on improving how we talk about and respond to them.In this talk, I will share some personal experiences and lessons I've learnt about mental health, and suggest steps anybody can take to support those facing mental health issues. I will explain how we can best be supportive and break down the stigma that surrounds mental health.
+
+  - title: You Don't Know Your Dependencies
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room:
+    authors:
+      - name: Alejandro Oviedo
+        twitter: a0viedo/
+        github: a0viedo
+        website:
+    slides:
+    videos:
+      - https://youtu.be/WsUIVlc3MCs
+    description: |-
+      If you’re building applications chances are your dependency tree is in the order of hundreds. That easily can scale up to at least a thousand for large applications (like popular OS projects Ghost or Keystone). Join me in my hindered journey to address a big elephant in the room: managing dependencies. Updating a dependency or following common practices shouldn’t have to be a mysterious thing. What’s the right thing to do in your package.json? Exact versions? Using a caret? What’s the reason behind lockfiles? What type of tooling is out there? I’ll present answers from my research to these common questions.
+
+  - title: It’s My (Third) Party, and I’ll Cry if I Want To
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room:
+    authors:
+      - name: Harry Roberts
+        twitter: csswizardry
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cOXl_q8JgjI
+    description: |-
+      Like it or not, a huge part of modern web development involves the use of third-party providers: fonts, analytics, ads, tracking, and more all have an impact of performance, and can leave us (or, more worryingly, our visitors) susceptible to performance degradation.In this talk, we’ll take a look at unruly or uninvited (third-)party guests: how to detect them, how to audit them, and how to manage them. We’ll also look at the different tools available to help us stress-test and quantify the overhead these third parties bring, and what that means for users and businesses alike.
+
+  - title: Oh, the Management Mistakes You Will Make!
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room:
+    authors:
+      - name: Jeffrey Lembeck
+        twitter: jefflembeck
+        github: jefflembeck
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lEQfKWdUHXY
+    description: |-
+      Hark! Do you hear that commotion? There are rumors you'll receive a promotion. You're excited and you're scared, you might even start to shake - but do not fear, I'm hear to list the fantastic mistakes that you'll make.This talk breaks down the transition from being a Senior Engineer at a company to becoming a new manager. It should prepare you for some of the mistakes that you're bound to make and remind you that you're in good company.
+
+  - title: Sleeping well at night with cypress.io
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Tomasz Łakomy
+        twitter: tlakomy/With cypress things are different. In this talk, we are going to cover how to start covering your app with e2e tests and showcase coolest features that cypress.io has to offer.Automated tests don't have to be boring, difficult to write and even harder to debug. We deserve to have tests we can count on, even when shipping stuff as soon as ASAP.
+        github: tlakomy/
+        website:
+    slides:
+    videos:
+      - https://youtu.be/S4hcRcJLIGo
+    description: |-
+      Why are we afraid of releasing stuff to production on Friday evening? Mostly because it's hard to know if nothing is broken because manual testing takes time and automated testing was not reliable. (And we really want to go home)With cypress things are different. In this talk, we are going to cover how to start covering your app with e2e tests and showcase coolest features that cypress.io has to offer.Automated tests don't have to be boring, difficult to write and even harder to debug. We deserve to have tests we can count on, even when shipping stuff as soon as ASAP.
+
+  - title: Taming UI complexity with Typed State Machines
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Bogdan Zaharia
+        twitter: zaboco
+        github: zaboco
+        website:
+    slides:
+    videos:
+      - https://youtu.be/gcuZJ2LHTFI
+    description: |-
+      Finite State Machines seem to offer a good abstraction of the way we interact with UIs, making states and transitions between them explicit, and thus easier to reason about.One of the nice things about FSMs is that only certain transitions are legal from each state. But is it possible to enforce that in code? It seems that, with some TypeScript magic, it is possible.In this talk, you'll be exposed to a new perspective on implementing FSMs in JS/TS and how it compares to libraries such as XState or Redux (not really a FSM, but similar). You'll also see how this new approach can be used in real apps, using various libraries, such as React, Vue, and others, some of them quite unexpected.
+
+  - title: CLI x GUI
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Guillaume Chau
+        twitter: Akryum
+        github: akryum
+        website:
+    slides:
+    videos:
+      - https://youtu.be/dPIs4qgQEq0
+    description: |-
+      While building Vue CLI 3, we wanted to make the developer experience better for everyone, with an accompanying graphical interface. Why and how?
+
+  - title: 'The universe in a single arrow: A live dive into the lambda calculus'
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Anjana Vakil
+        twitter: AnjanaVakil
+        github: vakila
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qTHGmVrOGZo
+    description: |-
+      You know that a tiny anonymous function, like a JS arrow function, can be useful when you’re feeling too lazy to think up a good name. But did you know that this humble little arrow can summon one of the most powerful & elegant abstractions in the history of computer science?The lambda calculus lets us represent our programs - all their logic and data - with nothing but pure, anonymous functions. Booleans, numbers, operators, control flow, data structures… an arrow can do it all! In this session we'll live-code our way to a deeper understanding & admiration of the computational power of the lambda, an abstraction fundamental to functional programming.
+
+  - title: 'Electron: The Event Loop Tightrope'
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Shelley Vohr
+        twitter: codebytere
+        github: codebytere
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OPhb5GoV8Xk
+    description: |-
+      On principle, Electron is designed to lower the barrier to entry for development and maintenance of cross-platform desktop development. However, beneath the surface of this seeming magic is a carefully engineered web of JavaScript concepts that need to connect in just the right way to make that magic possible. A JavaScript runtime uses a message queue, or event loop, in order to process messages. Each kind of message has an associated function which handles it, and both Node.js and Chromium, which Electron embeds, have different event loops which must be reconciled. This talk will discuss the principles of the event loop as well as the challenges and solutions that Electron faced and arrived at in order to make the synthesis of Node.js and Chromium in Electron possible. You'll get a glimpse into the inner workings of three powerful open source projects, as well as how they leverage and utilize JavaScript for the benefit of users from beginner to expert.
+
+  - title: The Magic of RxJS
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Natalia Tepluhina
+        twitter: N_Tepluhina
+        github: NataliaTepluhina
+        website:
+    slides:
+    videos:
+      - https://youtu.be/vS1-jzngpmw
+    description: |-
+      RxJS is often considered as complicated but it's not true! It's just developed to deal with difficult asynchronous tasks. Let's try to learn this magic while building a simple game with RxJS.
+
+  - title: Plain Wrong?
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Heydon Pickering
+        twitter: heydonworks
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      I love writing JavaScript. The trouble is, so does everyone else. When people aren`t writing JavaScript, they`re usually writing frameworks for writing JavaScript in JavaScript. In fact, most of the JavaScript that`s around these days seems to either be written for, or within, a JavaScript flavor like React, Vue, or Angular. Frameworks make writing your own code faster and more ergonomic, but they do not come without problems. Code written with Framework A depends on the environment Framework A provides in order to work — and this dependency often represents a lot of code to transmit, decompress, parse, and compile. What about "plain" JavaScript? Is it always naïve to think anything worthwhile can still be achieved just writing some straight-up code? It turns out this is a tricky question to answer, but there`s no doubt the little we do as JavaScripters is often done with much more than we need.
+
+  - title: 'Web typography: a non-English perspective'
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Hui Jing Chen
+        twitter: hj_chen
+        github: huijing
+        website:
+    slides:
+    videos:
+      - https://youtu.be/yLQHDGRLOwQ
+    description: |-
+      Typography was defined by Gerrit Noordzij as writing with prefabricated letters. More than half of the content on the web is in English even though native English speakers make up less than 5% of the world's population. English only has 26 letters, but writing systems across the world use many more letters and characters, many of which are laid out in different directions as well. This talk covers the intricacies of ensuring web fonts display and are laid out correctly regardless of language, and how some of these layouts can translate across writing systems for creative art direction on the web.
+
+  - title: Believe in the Power of CSS
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Chris DeMars
+        twitter: saltnburnem/
+        github: chrisdemars
+        website:
+    slides:
+    videos:
+    description: |-
+      You know that song by Huey Lewis and the News, The Power of Love? "First time you feel it, it might make you sad." Might be how you feel about CSS right? What about the power of CSS? CSS has received a bad name as of late, but truth of the matter is that CSS is such a powerful piece of the front-end puzzle and you should really be excited for what's already here and what's to come! Who would have thought we could create magazine-style layouts with CSS grid? What about ruleset variable scoping with custom properties(CSS variables)? And last but not least, the pain of centering content horizontally and vertically which is now possible in three lines with flexbox! Let's talk about how awesome CSS is, and how we can restore our faith in one of the best things that makes the web amazing!
+
+  - title: Approaching the JavaScript Singularity
+    lang: en
+    type: regular
+    time: 2019-04-12
+    room:
+    authors:
+      - name: Istvan Szmozsanszky 'Flaki'
+        twitter: slsoftworks/
+        github: flaki
+        website:
+    slides:
+    videos:
+      - https://youtu.be/6wPeM8mY-98
+    description: |-
+      Developers are quick to complain about "JavaScript Fatigue", the perceived high volatility of libraries, tooling and the JavaScript language itself — yet very few look at these changes and additions as a whole. In this talk I will take some of JavaScript's new features with the biggest transformative potential (ES Modules, WebAssembly, the DOM-Node.js API convergence), and I try to showcase what they mean for web development and how, when used together, they are able to address various hurdles and complaints that have been plaguing Node.js & web development for a long time. 
+      
+      
+      
+      
+      
