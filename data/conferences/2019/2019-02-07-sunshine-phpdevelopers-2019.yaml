@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: Sunshine PHP Developers 2019
-  status: incomplete
+  status: complete
   series: sunshinephp.com
   tags:
     - php
@@ -18,5 +18,517 @@
     country: United States
     city: Miami
   description: |-
+    The SunshinePHP Developer Conference is hosted by the South Florida PHP community (SoFloPHP) in Miami, Florida from February 7th - 9th, 2019, and you're invited! We'll host some of the best speakers, awesome talk topics, latest technologies, and up to date news in PHP. And don't forget our Hack-a-thon and Uncon'ference, as well as a great hallway track!The conference has something for every level of PHP developer. We start on February 7th with a full day of 8 PHP related tutorials and workshops that are each 3 hours of in-depth information. Next we follow that with 2 days on February 8th and 9th containing 5 keynotes and 30 PHP talks over 3 tracks.So come warm up for awhile in February and meet other PHP developers to see what others are doing, and share your experience as well. Then relax or have some fun at the evening events with plenty of fun for everyone!
 
 talks:
+
+  - title: Confessions Of a Not-So-Accidental Leader
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Chris Hartjes
+        twitter: grmpyprogrammer
+        github: chartjes
+        website:
+    slides:
+    videos:
+    description: |- 
+      During a lunch break at a job in 2003 a co-worker looked me straight in the eye and told me "I think you should take a leadership course because I see something in you. Stop laughing! I'm serious!" I told that person they had the wrong impression of me. But ultimately they were right. 16 years later I can look back at a successful series of events and organizations (both inside and outside of programming) that I have been a part of.In this talk am I going to share my journey from frustrated developer to confident organizer, navigating my way through and around obstacles to help create the groups I wanted to be part of doing the things I wanted to do.
+
+  - title: The Ten Commandments of Object-Oriented Code
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Brandon Savage 
+        twitter: brandonsavage
+        github: brandonsavage
+        website:
+    slides:
+    videos: 
+    description: |-
+      Writing object-oriented code can be a challenge. Which rules do you follow, and when? Come learn about ten rules that will make your object-oriented code better, more beautiful, and easier to maintain in this talk.
+
+  - title: 'Performance optimisation: how do I go about it?'
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+     - name:  Kat Zień
+       twitter: kasiazien
+       github:
+       website:
+    slides:
+    videos: 
+    description: |-
+      How do I know if my program will perform well in production? What does it mean to “perform well”? How much memory will it need? How much traffic can it serve? Are there any memory leaks or race conditions? What part of processing takes up most of the time? Can I optimise it?Every developer should be able to answer those questions about their code. But most of us don’t bother. Why? Because analysing performance is hard and as a result it is often skipped in the development process or ignored until things get really slow. Or we may simply not know where to start.Writing efficient code is a valuable skill that takes time to learn. Being able to analyse performance can not only prove that our code is efficient and safe to run in production, but also teaches us what to avoid next time. It may seem daunting at first, but with the right tools at hand it is a highly rewarding process.
+
+  - title: Introduction to Serverless PHP
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Rob Allen
+        twitter: akrabat
+        github: akrabat
+        website:
+    slides:
+    videos: 
+    description: |-
+      APIs and microservices are how we build modern web applications and serverless technologies make this easy. This session will show you how serverless applications are built and how you can leverage your PHP skills to build APIs of all shapes and sizes. We will cover how to use your current knowledge to build applications in PHP within Apache OpenWhisk, leveraging the API Gateway to build robust APIs quickly and easily. By the end of the session, you'll be well placed to design and build your own microservices that take full advantage of the power of serverless technologies.
+
+  - title: PHP Internals for the Inquisitive Developer
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Jeremy Mikola
+        twitter: jmikola
+        github: jmikola
+        website:
+    slides:
+    videos: 
+    description: |-
+      In this talk I will cover where we started, why I chose Jenkins, why it works so well for this use case, and how to use these same patterns to solve your asynchronous parallel processing problems, regardless of your platform. Our use patterns showed us that managing jobs in Jenkins can be a very similar experience to managing code deployed to server-less solutions such as AWS Lambda. Let me show you how.
+
+  - title: How does PHP static analysis work
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Damien Seguy
+        twitter: faguo
+        github: dseguy
+        website:
+    slides:
+    videos: 
+    description: |-
+      Static analysis is an emerging field, in particular in the PHP world. Reviewing source code at the speed of a computer requires powerful theoretical tools: control flow diagram, abstract syntactic trees, acyclic dependency graph.If all this seems far and remote from PHP, come and learn how they apply to your favorite language! They are all useful when it comes to detecting early those errors that end up in production, and sometimes, even before the code may compile. We’ll see how to combine all those aspects to build a useful auditing engine.
+
+  - title: Welcome to the PHP community
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Nara Kasbergen
+        twitter: xiehan
+        github: xiehan
+        website:
+    slides:
+    videos: 
+    description: |-
+      The theme of this talk is leveling up: approaching membership in the PHP community to a degree that's appropriate for you based on your prior involvement. If this is your first conference, you'll learn how to get the most out of it, including navigating the talk schedule, the official and unofficial after-hours events, and how to keep in touch with the people you meet afterwards. We’ll also discuss the importance of giving feedback on the sessions you attend using joind.in and review best practices for how to write constructive comments. If you've been here before and/or are already a regular attendee at your local meetup, I'll go over how to deepen your involvement, including how best to support your user group, take a more active role in the conference scene, and start making tiny but meaningful contributions to the open source ecosystem. Finally, for the longtime members looking to make a lasting impact in the community, I’ll go over the highest tier of community contributions, which includes running a user group, technical blogging, contributing to open source, and speaking at meetups and conferences — and why the latter isn’t nearly as scary as you might think, even if you're a shy introvert like me!
+
+  - title: PWA for PHP Developers
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Ben Marks
+        twitter: benmarks
+        github: benmarks
+        website:
+    slides:
+    videos: 
+    description: |-
+      Progressive Web Apps are an emerging approach to solving the problem of having the Web, everywhere: different mobile devices, IoT devices, and areas with low bandwidth or poor connectivity. For developers accustomed to PHP and server-side rendering, there are several factors to consider.Drawing on our experiences working with Google to build a PWA development experience for Magento, this talk introduces the elements of PWA, the challenges of providing online+offline functionality, and the limitations of this nascent approach.
+
+  - title: Dependency Injection for Mere Humans
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Ian Littman
+        twitter: iansltx
+        github: iansltx
+        website:
+    slides:
+    videos: 
+    description: |-
+      What's the difference between service location and dependency injection? Why is this dependency injection thing such a big deal anyway, and how do you use that tool correctly? I'll answer these questions and more, including real-world examples of refactoring an application toward the more explicit, testable, closer-to-SOLID applications.
+
+  - title: Device Independent API design
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Amrita Jain
+        twitter: amritajain973
+        github: amritajain
+        website:
+    slides:
+    videos: 
+    description: |-
+      With the explosion of consumer devices, designing flexible and device-independent optimized APIs has become increasingly challenging. This talk covers API design best practices and core principles for microservice architecture, demonstrates them using a custom PHP framework, and summarizes the lessons learnt. Additionally, the talk covers highly optimized API design using graphQL to address versioning issues and device resource constraints.
+
+  - title: Securing Legacy Applications
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Chris Cornutt
+        twitter: enygma
+        github: enygma
+        website:
+    slides:
+    videos: 
+    description: |-
+      It’s common to hear people preach "plan in security from the start" and in an ideal world, you can. Here in the real world, though, we have legacy code that’s gathered over time and comes with a host of problems – (in)security included. What do you do when you’ve been commissioned with securing an application that’s showing its age? Follow along with me as I step you through a list of tips and tricks you can use to discover security issues in your application and effectively fix them and secure your application.
+
+  - title: The MySQL Document Store
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Dave Stokes
+        twitter: iansltx
+        github: mysqlmentor
+        website:
+    slides:
+    videos: 
+    description: |-
+      The MySQL Document Store is a JSON based NoSQL database does not require the use of Structured Query Language (SQL) to interact with the database. No more embedding ugly strings of SQL in your beautiful PHP code. The new API calls (via the MySQL X Devapi PECL extension) follow modern programming design for all the CRUD functions of the document store. Each document has a payload of 1GB (compared to MongoDB's 16mb) and runs on proven, reliable MySQL technology. And if you have older relational data, the MySQL Document Store lets you access them plus the new document store data at the same time. This is a through introduction for those wishing to switch over to the MySQL Document Store with plenty of programming examples.
+
+  - title: Accessibility for Everyone
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Beth Tucker Long
+        twitter: e3betht
+        github: e3betht
+        website:
+    slides:
+    videos: 
+    description: |-
+      It is important to reach every last customer, but there are a lot of customers out there for whom the web is not an easy quick-stop. Your target audience contains people who need visual or motor assistance whether they have a specific condition that affects them or are just part of the very large and aging Baby Boomer generation. Learn some tips for evaluating the accessibility of your site, and find out how to broaden your site's appeal while making the web a more accessible place for everyone.
+
+  - title: 'Swoole 4: Introducing the New Coroutine Design Pattern in PHP'
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Demin Yin
+        twitter: deminy
+        github: deminy
+        website:
+    slides:
+    videos: 
+    description: |-
+      Swoole is an event-driven asynchronous and concurrent networking communication engine for writing high-performance HTTP and WebSocket services in PHP. It changes the way how we write and build PHP applications like before. With supports of coroutine (like goroutine in Go), non-blocking IO, connection pool, and many more, we can build better scalable and fast web applications. In this talk, I will dig into the latest changes and technical details in Swoole 4 to demonstrate how it breaks the limit of PHP, using a variety of examples.
+
+  - title: Essentials of blockchain technology
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Lisa Bock
+        twitter: michelletyrone
+        github:
+        website:
+    slides:
+    videos: 
+    description: |-
+      Blockchain technology was originally developed to protect financial data, such as bitcoin mining, to securely send transactions. In addition to using blockchains for financial transactions, we are now starting to see solutions that include using blockchain technology to secure communications between devices. Researchers are finding that we can use blockchains to provide authentication between devices and in any application that requires data integrity as it prevents spoofing. In this presentation, learn the history of blockchain, how blockchains work, along with some practical applications of blockchains.
+
+  - title: PHP + nginx + Redis = Ludicrous Speed
+    lang: en
+    type: regular
+    time: 2019-02-08
+    room:
+    authors:
+      - name: Jason McCreary
+        twitter: jasonmccreary
+        github: jasonmccreary
+        website:
+    slides:
+    videos: 
+    description: |-
+      Nearly ever app has an API. The next step is "scale". But what you really mean is speed - Ludicrous Speed. Let's explore a super fast API with native PHP (no frameworks) running atop nginx, and using Redis as our runtime database. We'll take a peak at how underneath this may be a traditional PHP application. Yet, on the surface it's a high-performance, horizontally scalable API.
+
+  - title: 'Think Like a Trainer: Strategies for Improving Your Communication Skills'
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Olivia Liddell
+        twitter: oliravi
+        github:
+        website:
+    slides:
+    videos: 
+    description: |-
+      Think back to a time when you were in a conversation that could have gone better. Perhaps you said something the wrong way, or you walked away from the conversation not fully knowing if the other person even understood what you were trying to convey.Technical trainers rely on effective communication as the foundation of everything that we do. We help end users to learn how to use software and adjust to new workflows, through the process of constantly adapting to different backgrounds, skill levels, and learning styles.In this talk, we will analyse and optimise the performance of a simple PHP application. By demonstrating how to use some of the excellent open source projects such as xdebug, xhprof or php-meminfo, I hope to give you a good idea of where to start with analysing and optimising your PHP code.
+
+  - title: Performance Tuning Your Progressive Web App (PWA)
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Josh Holmes
+        twitter:
+        github: joshholmes
+        website:
+    slides:
+    videos: 
+    description: |-
+      Your users deserve a fast and responsive web app and PWAs help you step that up a notch through notifications, offline support and more. There’s a lot that goes into that from understanding how the DOM tree works and how that plays with CSS and JavaScript to how to leverage the ServiceWorker for cashing and push notifications.In this session, we’ll build a PWA that show cases many of the things you need to keep in mind when building a great and fast progressive web app.
+
+  - title: Xdebug will forever change the way you debug your PHP code
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Tim Bond
+        twitter:
+        github: cookieguru
+        website:
+    slides:
+    videos: 
+    description: |-
+      We've all used echo, printr, and vardump to figure out why our code doesn't work. But did you know there's an easier way? This talk will demonstrate the use of two popular PHP tools: Xdebug and PhpStorm. Instead of littering your code with statements to send variable values to the browser, using these tools it's possible to pause script execution on a specific line, allowing you to view and edit any variable as well as arbitrary code. Never again will you forget to remove test code before sending it to production!
+
+  - title: Applying SOLID and supercharging your testing suite
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Korvin Szanto
+        twitter: KorvinSzanto
+        github: KorvinSzanto
+        website:
+    slides:
+    videos: 
+    description: |-
+      You've heard of SOLID and maybe have even integrated it into your development process, but how do you leverage those patterns to simplify your testing suite? In this talk I will cover the basic concepts of SOLID and show how they can apply to unit testing.
+
+  - title: Unlock The Mystery of PHPUnit
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Brian Johnson
+        twitter:
+        github:
+        website:
+    slides:
+    videos: 
+    description: |-
+      You know you're supposed to write unit tests, but you're not quite sure where to start. This session is for you. We will start from ground zero and go from zero unit test writing experience to functional test-driven developed code.Using the current version of PHPUnit we will cover:writing basic test cases simple assertions and constraints mocking and data providers testing exceptions and errors and more!You will leave this session fully ready to write tests for your own code.
+
+  - title: Working with Webhooks
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Lorna Mitchell
+        twitter: lornajane
+        github: lornajane
+        website:
+    slides:
+    videos: 
+    description: |-
+      This session gives examples of webhooks currently in use "in the wild", and examines both when a webhook is useful and the internal design and structuring of webhook payloads. We'll discuss how to work with webhooks in a scalable way regardless of technology stack; how to recieve and process incoming webhooks from an external system and how to design and publish your own for use by partners or consumers.This session is recommended for anyone interested in teaching their applications to play nicely with others.
+
+  - title: Driving Innovation with MySQL 8.0 and Docker
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Kathy Forte
+        twitter:
+        github:
+        website:
+    slides:
+    videos: 
+    description: |-
+      You as a MySQL architect are wondering about how you might make use of running MySQL in a container. You also are aware that the MySQL team at Oracle has recently released a new version of MySQL 8.0 with many advantages for both developers and DBAs. This talk will cover test driving MySQL 8.0 within a Docker container. We'll go over why a container is perfect for testing MySQL, how to set up your MySQL 8.0 container, some tricks on which features within MySQL 8.0 are perfect for containers, and best practices for incorporating this new technology into your DevOps environment.
+
+  - title: Dealing With Development Overload
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: David Bisset
+        twitter: dimensionmedia
+        github: cookieguru
+        website:
+    slides:
+    videos: 
+    description: |-
+      The options, tools, and technologies available to developers seems to be ever increasing in today’s development world. In fact, it's become almost overwhelming, even for those focused just focused on a particular area of development. Anxiety and confusion can effect one's professional career and mental health.What People Will Learn This talk will walk through simple but important steps that can apply to both beginner developers and senior developers in terms of how to determine what areas that they might want to focus in, and where they can go. Those that manage remote teams can also learn how to encourage developers and individuals on their teams.Why It’s ImportantWork/Life balance is important, but the "fear of missing out" is a powerful and many times an overwhelming emotion. Especially since many developers appreciate that they can't learn everything, especially if they have a family and social life. So many in our industry are overworked, fearful on some level, and feeling they are not putting the right priorities first.
+
+  - title: Call... Text... Video Me Maybe?
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Mike Stowe
+        twitter: mikestowe
+        github: mikestowe
+        website:
+    slides:
+    videos: 
+    description: |-
+      Have you ever wondered how you could add voice, telephone, SMS, MMS, messaging, video, meeting, or fax (yes - I said fax) capabilities to your web app? Learn how easy it is to build in all of these with HTTP based APIs and take your application beyond the browser. For this session we'll focus on using the RingCentral APIs (although you can easily use any other vendor as the process is nearly the same).
+
+  - title: Get started with Vue.js
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Matt Trask
+        twitter: matthewtrask
+        github: matthewtrask
+        website:
+    slides:
+    videos: 
+    description: |-
+      Vue.js is gaining popularity for its clean api, easy to read docs and solid ecosystem. Let's dive in and build a simple SPA with Vue, Vue-router, Vue-resource and Vuex and look at the different moving parts of a Vue.js SPA. We will also look at some the new ES6 features out in the wild that you can use to write clean JS!
+
+  - title: Creating a job/queue system from scratch,it’s not that hard
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Doug Steinberg
+        twitter: 1800AskDoug
+        github: doug7410
+        website:
+    slides:
+    videos: 
+    description: |-
+      A common problem we face as web developers is providing a good user experience while running a time-consuming process. A great solution to this problem is background jobs, to run in a queue and let users continue with the flow of the app. Popular PHP frameworks have built-in solutions for this, but what if we needed to implement a queue in plain old PHP or an application we hobbled together using components? This talk will show you how to set up a queue system that’s perfect for any PHP application, using tools already available in the language. No frameworks or packages required!
+
+  - title: 'The Recommendation Engine: A case study on an application of a recommender system'
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Terry Chay
+        twitter: tychay
+        github: tychay
+        website:
+    slides:
+    videos: 
+    description: |-
+      One of the surest ways to start down that path of making your data science and machine learning work for you is to find low-hanging fruit. Recommender systems have proven to be one of the most useful applications of data science to the consumer-facing web since the earliest days of the internet. This talk covers why and how one was built to recommend colleges to prospective high school students, the application of popularity tables and collaborative filters, as well as other approaches and the reasons for doing them sparkled with some war stories about their success and failures. Hopefully after this you can find how your data can work for your users to transparently improve their interaction with your websites instead of sitting in the back office somewhere helping some executive add graphs to their TPS reports.
+
+  - title: Immutability to Save an Ever-Changing World
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Andrew Cassell
+        twitter:
+        github: cassell
+        website:
+    slides:
+    videos: 
+    description: |-
+      Want to build software that is more testable, easier to modify, and has fewer lines of code? Architecting with more immutable objects that are always in a valid state is the most important lesson I have learned in building better software applications. Using immutable value objects will lead to less checking, fewer bugs, more DRY code, and help avoid the “spooky action at a distance” problem in PHP. We will also learn how to use immutable objects and immutable collections to improve design of our mutable entities. Lastly, we’ll see how immutable objects and functional programming can reduce complexity.
+
+  - title: CI/CD for PHP on AWS
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Michael Moussa
+        twitter: michaelmoussa
+        github: michaelmoussa
+        website:
+    slides:
+    videos: 
+    description: |-
+      Working in shorter development cycles has a tendency to result in faster, less-risky delivery of changes to our production applications. Extensive automation is a key part of achieving this, but where do you begin? If you’re currently hosting on AWS, you’ll be happy to know that there’s a full suite of developer tools available to accomplish just that. In this session, we’ll explore using AWS CodePipeline, CodeBuild, and CodeDeploy to set up continuous integration, continuous delivery, and zero-downtime deployment of our PHP applications!
+
+  - title: Docker Alphabet Soup
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Dana Luther
+        twitter: danaluther
+        github: DanaLuther
+        website:
+    slides:
+    videos: 
+    description: |-
+      If you’re new to docker, the lingo can be more than a little daunting. Containers? Stacks? Images? Services? What’s the difference between docker stack ls vm vs docker service ls? What are all those toggles and do I need them? Where did all my logs go, and what the heck is a swarm?? In this presentation we’ll go over the lingo and explain some of the hidden gems in the list of commands that every developer should know.
+
+  - title: Year with event sourcing and CQRS
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Miro Svrtan
+        twitter: msvrtan
+        github: msvrtan
+        website:
+    slides:
+    videos: 
+    description: |-
+      For the last few years, the PHP community has been buzzing about ES/CQRS, and there was a talk at every conference. So now I will share how it worked out for me in practice.ES/CQRS is a different approach to building applications from what we've done for years. I'm not going to introduce Event Sourcing and Command Query Responsibility Segregation (ES & CQRS) but instead will speak about my experiences in developing and running it in production.I implemented it in a few projects: in some I ran it as a part of bigger application, while in others it's the core where everything is event driven. The shift in architecture and mindset is pretty big: while code structures and logic became simple, the amount of code and workflows became complicated to the point of "where did I loose this input?".We also discovered the need to learn many DDD practices I feel have made me a better developer, and now I use some of the knowledge gathered through this projects in 'everyday' code.
+
+  - title: 'Promises and Queues: Using Unlikely Suspects to Handle Asynchronous Parallel Processing'
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: Jacob Mather
+        twitter: thejmather
+        github: jmather
+        website:
+    slides:
+    videos: 
+    description: |-
+      My last job was with a distributed manufacturing platform for turning digital ideas into physical products. They enabled customers to upload 3D models, have the models manufactured into physical goods, and delivered into the customer's hands, all within 24 hours. Every time a digital model is uploaded, we processed the file with an array of tools that inspect the model and make determinations about its manufacturability, size, and perhaps most importantly price. One of the very first things I did there was to completely overhaul this process, converting it from a mystical black box to a clear set of discrete processes with copious amounts of highly visible logging. While there are many possible ways to do this, I chose Jenkins, and in supporting this system for over a year, while I may use different tools to do it now, Jenkins bought us a lot of time in the interim, and I left them with quite a bit of runway before any changes would be required.In this talk I will cover where we started, why I chose Jenkins, why it works so well for this use case, and how to use these same patterns to solve your asynchronous parallel processing problems, regardless of your platform. Our use patterns showed us that managing jobs in Jenkins can be a very similar experience to managing code deployed to server-less solutions such as AWS Lambda. Let me show you how.
+
+  - title: Pop Songs and Programming for Fun and Profit
+    lang: en
+    type: regular
+    time: 2019-02-09
+    room:
+    authors:
+      - name: PJ Hagerty
+        twitter: aspleenic
+        github:
+        website:
+    slides:
+    videos: 
+    description: |-
+      Ever wonder what it takes to live in the world of an open source developer? What if everything you can learn comes from the world of pop songs?We can learn a lot of from music, but in this talk, let's listen and see how we can be better developers.Through a series of pop songs we’ll look at what it’s like to:Start out on your own as a programmer - not sure where to go or to get involved in open source Work on a team dedicated to Open Source in the crazy world of SV/SF Open Source at a big blue company, and how large corporations view Open Source Sharing your knowledge with the next line of new folks looking to get in on OSSGoing out on your own - giving a conference talk - being the expert and sharing what you know.
+ 
