@@ -21,8 +21,8 @@
     FrontFest is the event about web technologies (HTML, CSS, Javascript ... and whatever comes up!) In which you can meet other front-end developers like you and learn from them. We want to bring together the best professionals, evangelists and gurus of the front-end development of all Spain.FrontFest emerges as an initiative of a group of participants in four of the most active communities within the front-end world in our country: Angular Madrid , Front-end Developers Madrid , HTML5 Spain and MadridJS .
 
 talks:
-   
-  - title: Maximum performance
+
+  - title: Máxima performance
     lang: en
     type: regular
     time: 2017-02-18
@@ -36,9 +36,9 @@ talks:
     videos:
       - https://youtu.be/1AwIZS1sXQU
     description: |-
-      Eduardo is also an evangelist at Polymer, with more than 12 years of experience in Front-end development. Today, according to his mother, he is dedicated to "making faces and little buttons" in a professional manner. He usually gives talks at programming events so as not to pay the entrance fee.
+      Nos meteremos en la sala de máquinas de los navegadores, aprendiendo cómo funcionan y cuáles son las mejores técnicas para conseguir la máxima performance en nuestra web. Pasaremos de 0 a 60 FPS entendiendo los procesos básicos de pintado y descubriremos al final cuál es el enemigo número uno de la buena performance.¿Qué es la buena performance? ¿Se puede medir una "sensación"? ¿Cómo puedo mejorar la performance en móviles? ¿Cuánto impactan las microoptimizaciones? ¿Qué son los web workers? ¿Realmente ayudan?Cuando el mobile first ya no es una opción y se ha convertido en ley. Cuando la performance importa.
 
-  - title: Advanced animation with CSS in HTML and SVG to improve the UX
+  - title: Animación avanzada con CSS en HTML y SVG para mejorar la UX
     lang: en
     type: regular
     time: 2017-02-18
@@ -52,7 +52,7 @@ talks:
     videos:
       - https://youtu.be/FzKiaisTdeQ
     description: |-
-      Ángel created his first website last century. Since then everything has changed a lot (he too) but he still likes it the same or more than the first day.
+      Las animaciones con CSS ayudan a mejorar los detalles de la interfaz y el feedback que le damos al usuario mediante microinteracciones, tratándolas como elementos con un valor comunicativo en la transmisión de los contenidos, más allá de la mera decoración o aporte visual.Aprenderemos cómo animar propiedades CSS teniendo en cuenta el rendimiento, animar introducciones de elementos en la vista, hacer animaciones secundarias persistentes, animar elementos SVG, hacer animaciones con steps, y por último veremos cómo preparar las animaciones CSS dejando su aplicación a triggers gestionados por JS.
 
   - title: Let's code a game in JavaScript
     lang: en
@@ -68,8 +68,9 @@ talks:
     videos:
       - https://youtu.be/F2o4iwd4Blc
     description: |-
+      El desarrollo de videojuegos parece complicado, pero hoy en día tenemos herramientas que lo hacen más accesible, como Phaser, un framework de videojuegos HTML5 de alto nivel, que nos permite programar videojuegos 2D de una manera muy rápida.En esta charla construiremos un videojuego paso a paso, con JavaScript y Phaser. Aprenderemos a cargar assets, crear sprites y animarlos, usar un motor de físicas, reproducir audio, etc.
 
-  - title: Web accessibility, how to make a front for everyone?
+  - title: Accesibilidad web, ¿cómo hacer un front para todos?
     lang: en
     type: regular
     time: 2017-02-18
@@ -83,9 +84,9 @@ talks:
     videos:
       - https://youtu.be/SlTDIQwa6EA
     description: |-
-      He has been fighting and having fun with technology for more than ten years. Your goal? Make technology more accessible every day ... And get rich, of course. Sometimes he wonders which of the two is more difficult;) Specialized in .NET, he is passionate about developing and making applications that improve the day-to-day life of people who, like him, have different capacities, and access information in a way different from that of the utopian group we call "normal."
+      Cuando desarrollamos un front para un sitio web, nuestro objetivo, entre otros, es que a quienes accedan les encante la experiencia, y puedan conectarse de forma cómoda desde todo tipo de dispositivos. Pero ¿realmente estamos consiguiendo llegar a todo el mundo?Muchos conocen el concepto de accesibilidad, o al menos han oído hablar de él. Sin embargo, muy pocos tienen los conocimientos y la experiencia necesaria para aplicarla de forma efectiva. ¿Qué es? ¿Por qué es importante? ¿Cómo demonios se hace? ¿Afectará negativamente a mi diseño? ¿Tendré que cobrarle al cliente el triple si quiere que la web sea accesible? ¿Puedo usar cualquier tecnología?En esta charla os responderé a todas estas preguntas, y os proporcionaré las herramientas y las referencias necesarias no solo para que podáis abordar de forma efectiva un desarrollo accesible, sino también para que podáis comprobar si lo habéis hecho bien, utilizando las aplicaciones que usan los distintos perfiles de discapacidad.
 
-  - title: Healthy and functional workflows between teams (UX, UI, Front)
+  - title: Workflows sanos y funcionales entre equipos (UX, UI, Front)
     lang: en
     type: regular
     time: 2017-02-18
@@ -99,9 +100,9 @@ talks:
     videos:
       - https://youtu.be/zk2397IMPZU
     description: |-
-      Juan works with the developers so that his projects look good both visually and the code behind them. Illustrator and open source lover, try to support the community of designers and developers front with tools like uxbox.io.
+      Los flujos de trabajo son una parte fundamental en el día a día de los equipos. Diseñadores y frontenders suelen tener una relación cercana a la hora de afrontar tareas. Pero ¿cómo de sana y eficaz es esa relación? ¿Nos hacemos entender bien?En esta charla se abordan casos de éxito y estrepitosos fracasos que nos aportarán experiencia para conseguir juntos el mejor resultado (y no tirarse los trastos a la cabeza).
 
-  - title: Writing styles for React components
+  - title: Escribiendo estilos para componentes de React
     lang: en
     type: regular
     time: 2017-02-18
@@ -115,9 +116,9 @@ talks:
     videos:
       - https://youtu.be/oogpjRWfIsE
     description: |-
-      Javi is the author of React Toolbox, one of the most popular UI kits for React that already use heavy weights internally such as Netflix. Although he has worked with many other languages ​​and tools, his passion is Javascript and Frontend in general.
+      Escribir estilos para componentes de React no es el algo trivial. Desde que Christopher Chedeau mencionó que algo similar a los estilos en línea solucionarían muchos problemas al estilar componentes de React, han surgido montones de propuestas. Todas se tratan de acercar a la solución ideal, pero casi ninguna lo consigue.En esta charla veremos varias aproximaciones para escribir estilos para componentes de React. Desde estilos en línea puros hasta los template literals de styled-components, pasando por CSS Modules, Glamor, Aphrodite y JSS.También veremos cuáles son los criterios que definen a una buena solución para dar estilos, y cómo React Toolbox está siendo reescrita a base de componentes completamente agnósticos de estilo que hacen sencillo pasar de una aproximación a otra.
 
-  - title: Offline applications in an online world
+  - title: Aplicaciones offline en un mundo online
     lang: en
     type: regular
     time: 2017-02-18
@@ -131,9 +132,9 @@ talks:
     videos:
       - https://youtu.be/aoLAFNO5dkk
     description: |-
-      Of his father and his mother. 24/7 program. Senior Technician in Web Application Development. He has been fortunate to develop professionally in multiple fields but (almost) always using Javascript on both the server and client side. He is an expert in developing personal projects without any future but from which he has learned a lot.
+      ¿Qué son las aplicaciones offline? ¿Cuándo utilizarlas? ¿Qué beneficios aportan? ¿Con qué tengo que tener cuidado a la hora de desarrollar una aplicación offline?Se tratarán en particular aspectos como el Cache Manifest (Application Cache) donde se explicará cómo es la estructura del archivo (caché, network y fallback), cómo se actualiza la caché, y los diferentes estados y eventos. También se analizarán diferentes formas de lograr persistencia de datos (bases de datos locales), usando tecnologías como LocalStorage, WebSQL, IndexedDB y PouchDB.Al final de la charla se mostrará un ejemplo real de aplicación offline donde se guarde el estado.
 
-  - title: Amazing things you can do with a web
+  - title: Cosas increíbles que puedes hacer con una web
     lang: en
     type: regular
     time: 2017-02-18
@@ -147,9 +148,9 @@ talks:
     videos:
       - https://youtu.be/yW5T3CrgZDU
     description: |-
-      Creative web developer with an interest in design, communication and data. JavaScript and React enthusiast. Proud participant of h4ckademy.
+      ¿Sabías que con una simple página web puedes hacer vibrar un móvil, sacar fotos con la cámara, obtener la localización geográfica, realizar una videollamada, reconocer y sintetizar voz, grabar la pantalla, capturar y manipular audio e incluso experimentar la realidad virtual? Hoy en día la web permite hacer cosas increíbles, totalmente impensables hace sólo unos años.En esta charla veremos algunas de las Web APIs más interesantes presentes y futuras, que nos permitirán hacernos una idea del potencial actual de la web. ¡Pon en marcha tu imaginación!
 
-  - title: Technology for climate change
+  - title: Tecnología por el cambio climático
     lang: en
     type: regular
     time: 2017-02-18
@@ -163,9 +164,5 @@ talks:
     videos:
       - https://youtu.be/S1T5GZjJsCo
     description: |-
-      Passionate about web technologies since the age of 16. He has worked at Vizzuality since 2010 contributing to open source projects related to the environment, social justice, transparency and open government for international organizations such as the United Nations, World Bank, Google or NASA. In recent years he has specialized in web-mapping and data visualization for web applications.
-
-
-
-
-      
+      Un repaso a algunas tecnologías, librerías y APIs que podemos usar en nuestros proyectos front-end para hacer visualizaciones. Hablaremos de D3.js, Three JS, Leaflet, MapBox, CartoDB y React.Mostraremos ejemplos de proyectos reales que funcionan totalmente en el lado del cliente y que ayudan a concienciar sobre el cambio climatico. Detallaremos como abordamos este tipo de proyectos y cómo los creamos usando las tecnologías disponibles.
+ 
