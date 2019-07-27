@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: ReactFoo 2017
-  status: incomplete
+  status: complete
   series: reactfoo.in
   tags:
     - javascript
@@ -20,3 +20,186 @@
   description: |-
 
 talks:
+
+  - title: Shared Element Transition with React Native
+    lang: en
+    type: regular
+    time: 2017-09-14
+    room: Auditorium, MLR Convention Centre J P Nagar
+    authors:
+      - name: Narendra N Shetty
+        twitter: narendra_shetty
+        github: narendrashetty
+        website:
+    slides:
+      - https://www.slideshare.net/narendrashetty/shared-elementtransitions
+    videos:
+    description: |-
+
+  - title: Delivering instant update patches for React Native to 50+ million people
+    lang: en
+    type: regular
+    time: 2017-09-14
+    room: Auditorium, MLR Convention Centre J P Nagar
+    authors:
+      - name: Surya Kanoria
+        twitter:
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1hxtYmpz3ILcItRtBQHim7fmXt_a2vhrLhbv7oXj1Z2U/edit?usp=sharing
+    videos:
+      - https://youtu.be/3G6tMg29Wnw
+    description: |-
+      One of the chief reasons why we adopted React Native at Flipkart was to deliver Over The Air (OTA) updates to our 50+ million users instantly. When we looked at the known existing solutions like CodePush etc, we found three major issues that were not solved but were critical for us, The updates were not really instant as a cached bundle gets loaded while it silently gets updated in the background. These updates were enormous in size (around 700kB) as the entire bundle gets downloaded at the client-end everytime an update is shipped. For our average 2G users who visit the app once a month, it would take more than 30s for the React Native bundle to get downloaded and the page to be loaded everytime the App is launched. We have multiple teams maintaining their own React Native bundles. When these teams themselves share a lot of common components besides the React Native Framework Code, lots of redundant download is caused. We built our own system which efficiently solved all of these issues and is being used by multiple Apps inside Flipkart. This talk will give a detailed description of the solution and teach the audience to build their own optimized solution to deliver instant OTA updates for React Native.
+
+  - title: Importance of testing & the right way to test React components
+    lang: en
+    type: regular
+    time: 2017-09-14
+    room: Auditorium, MLR Convention Centre J P Nagar
+    authors:
+      - name: Manjula Dube
+        twitter: manjula_dube
+        github: manjula91
+        website: https://manjuladube.com
+    slides:
+      - http://slides.com/manjuladube/w
+    videos:
+      - https://youtu.be/SqIkOIjrbI4
+    description: |-
+      Building react components in isolation to fullfil business use case and to acheive Zero coupling. Automated browser UI testing using JavaScript and webdriver for your react components in isolation & how to avoid test cancer.
+
+  - title: Isolated React Components as a Black Box with Automated UI Testing
+    lang: en
+    type: regular
+    time: 2017-09-14
+    room: Auditorium, MLR Convention Centre J P Nagar
+    authors:
+      - name: Vivek Jagtap
+        twitter:
+        github:
+        website:
+    slides:
+      - https://youtu.be/4Mn0qprfZ2A
+    videos:
+      - https://youtu.be/exLuxbhLrlk
+    description: |-
+      Why - At Housing.com, when we moved to react from BackboneJS, we started gradually, creating components like just home page then list view, and so on. But we soon realised that, components(reusable components) are getting messier, since there are so many components just because everything is component in React. Components started growing like crazy. Problem - Since we have our mobile website and desktop website separate (though we serve both with housing.com), we had to write same react components in desktop as well as mobile, may be with just styling / css changes, but the logical flow & business use case of a software feature used to remain same. Solution - Isolating bunch of components as a black box. We started creating npm modules, and including them in a code as a feature. So our isolated react component is not just a dump component, but it takes care of executing entire feature. Going further and decoupling things - it was easy for us to figure it out, what should be isolated component, what should not be. I will be showing when to make Isolated component and when not to. Using React storybook to build components in isolation. Redux Store - Since its isolated component, we don’t share data, actions, store. Every isolated component works on its own store.
+
+  - title: The road to styled components, and the road ahead
+    lang: en
+    type: regular
+    time: 2017-09-14
+    room: Auditorium, MLR Convention Centre J P Nagar
+    authors:
+      - name: Glen Maddern
+        twitter:
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/geelen/the-road-to-styled-components
+    videos:
+      - https://youtu.be/PvM2WijDxxI
+    description: |-
+      Building user interfaces on the web is hard, because the web, and thus CSS, was inherently made for documents. Because interactive UIs fundamentally differ from flat documents, we’ve seen a mindset shift towards building component-based systems. That progression has lead to a rise in options for including your CSS in your JavaScript code, much the same way that libraries like React have done for your HTML. But what can we learn from the progress of the past, and what do we choose to include in a new library? This talk will cover how the design goals of styled-components have helped it become the most popular alternative for CSS-in-JS. But more broadly than that, it will look at the progression from documents, through components, to an exciting new possibility of an inclusive, unified workflow for UI on the web and elsewhere.
+
+  - title: A portal to the future
+    lang: en
+    type: regular
+    time: 2017-09-14
+    room: Auditorium, MLR Convention Centre J P Nagar
+    authors:
+      - name: Siddharth Kshetrapal
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qJnlhB7Jqls
+    description: |-
+      Fiber release brought with it some pretty cool features but the best is yet to come! First, let’s talk about array children, error boundaries and renderToStream. Then, I’ll give you a sneak peak into one of the upcoming features that might change the way you build your React applications. Portals open up a lot of opportunities and traps!
+
+  - title: Better Async with Redux Saga
+    lang: en
+    type: regular
+    time: 2017-09-14
+    room: Auditorium, MLR Convention Centre J P Nagar
+    authors:
+      - name: Kushan Joshi
+        twitter:
+        github: kepta
+        website:
+    slides: 
+      - https://speakerdeck.com/kepta/better-async-redux-saga
+    videos:
+      - https://youtu.be/5j4JKtwdLt8
+    description: |-
+      This talk would assume basic familiarity with Redux. I would use half of the talk to explain what are generator functions. Generators are very different from anything javascript has had in the past. This turns off many people to adopt Redux Sagas as each heavily relies on generators. The remaining half I will cover how we handle async actions in projects at Mapbox. The problem with redux-thunk and how Redux saga helps convert async control flow to a more synchronous like control flow.
+
+  - title: Consuming services reliably in Redux without losing your mind
+    lang: en
+    type: regular
+    time: 2017-09-14
+    room: Auditorium, MLR Convention Centre J P Nagar
+    authors:
+      - name: Sidhartha Chatterjee
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JVy0pkvVuPY
+    description: |-
+      With most apps being built with React these days and Redux being a very popular state management library, have we identified a standard pattern for consuming APIs? What about JWT, automatic retries, caching, optimistic updates and handing failure? This talk approaches all of the above and identifies reusable patterns to make this a breeze.
+
+  - title: Componentization Patterns in React
+    lang: en
+    type: regular
+    time: 2017-09-14
+    room: Auditorium, MLR Convention Centre J P Nagar
+    authors:
+      - name: Abraar Syed
+        twitter: 
+        github: abraarsyed
+        website:
+    slides:
+      - https://www.slideshare.net/abraarsyed/react-design-patterns
+    videos:
+      - https://youtu.be/Ho7g6pHxaW0
+    description: |-
+      React is one of the most popular libraries for front end development. With its dramatic rise, there have been considerable amount of patterns that have emerged out while breaking the applications into independent components. While some patterns enhance the structuring of client side components and improve the overall engineering process, others cause unforeseen problems in the long run. This talk focuses on the following key aspects, Recognising few of such componentization patterns, Understanding their pros and cons, Going through some sample case studies
+
+  - title: Improving Load time of a Production React App
+    lang: en
+    type: regular
+    time: 2017-09-14
+    room: Auditorium, MLR Convention Centre J P Nagar
+    authors:
+      - name: Kanav Arora
+        twitter:
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1Fq9fBIfx_GfUyyXTYNc2O49LrIbqMQ4k8c4ISS2x8HA/edit
+    videos:
+      - https://youtu.be/hurp86gBtI0
+    description: |-
+      The talk will draw on our learnings from the efforts that we undertook earlier this year to improve UrbanClaps’s website performance, resulting in a 60% reduction in load time. All our efforts towards performance engineering can be bucketed in roughly two areas, ship less assets and tweaking order of delivery of assets. In this talk I will primarily focus on the former with key emphasis on how to really optimize bundling via webpack. All of this was done in the context of a large production app with constraints on product, business and user experience.
+
+  - title: An intro to DraftJS, and its immutable data model
+    lang: en
+    type: regular
+    time: 2017-09-14
+    room: Auditorium, MLR Convention Centre J P Nagar
+    authors:
+      - name: Sai Kishore Komanduri
+        twitter:
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/saiki/rich-text-editors-in-reactjs-an-intro-to-draftjs
+    videos:
+      - https://youtu.be/CoXzeO7gojU
+    description: |-
+      This talk shall focus on DraftJS, a rich text editor framework built for React apps; and how it leverages ImmutableJS; for managing the state of an editor in its entirety, with sufficient examples. The key takeaway insights of the talk include, How DraftJS works under the hood — “What goes into”, and the “How to” of building rich text editors for React applications How one can use ImmutableJS API, to manage DraftJS’s immutable data structures (apart from the DraftJS’ user-facing API) The role of immutability for data models in your own application The intended audience of the talk are JavaScipt developers who’re acquainted with ReactJS, who are either, interested in building rich text editors, or interested in learning about ImmutableJS, and the benefits of immutability, and immutable data in their apps
