@@ -22,6 +22,7 @@
 
 talks:
       
+  
   - title: State of Vuenation
     lang: en
     type: regular
@@ -145,6 +146,22 @@ talks:
     videos:
     description: |- 
       With Vue framework your experience is not limited to web or mobile applications - you can create a desktop app as well! Let's check what options do we have to create one...
+
+  - title: Dynamic CSS with Vue
+    lang: en
+    type: regular
+    time: 2019-03-26
+    room:
+    authors:
+      - name: Miriam E Suzanne
+        twitter: mirisuzanne
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/VsG5l5e44ZY
+    description: |- 
+      Understand how CSS can work with Vue.
 
   - title: The Future of Web Animation
     lang: en
@@ -289,6 +306,197 @@ talks:
       - https://youtu.be/RF1bbhRw9sg
     description: |- 
       Jacob provides a high level overview of common features that can be solved with time tested design patterns from the Gang of Four and mixed with Vue with Vuex to solve common problems like:The Memento for undo and redo The Bridge for an awesome drawing API The Decorator for making games with.It's not always easy to figure out where these classic design patterns fit in a modern framework like Vue which has solved many specific problems already, but Jacob will show you how they fit in perfectly
+
+  - title: Accessibility for Everyone or Accessibility 101
+    lang: en
+    type: regular
+    time: 2019-03-27
+    room:
+    authors:
+      - name: Chris DeMars
+        twitter: saltnburnem
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LQP-lSiuC0U
+    description: |- 
+      Chris talks to us about Web accessibility and how it means that everyone can have an amazing user experience, regardless of disability. He sheds light on different types of impairments and how the Web can be accessible to all.
+
+  - title: Using Subscriptions in Your Vue Apps
+    lang: en
+    type: lightning
+    time: 2019-03-27
+    room:
+    authors:
+      - name: Vladimir Novick
+        twitter: VladimirNovick
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/p6_6XA8RRYE
+    description: |- 
+      Vladamir shows us a simplified run through of how you could use subscriptions in your Vue apps.
+
+  - title: Quickly Delivering Value to Users
+    lang: en
+    type: lightning
+    time: 2019-03-27
+    room:
+    authors:
+      - name: Brad Balfour
+        twitter: bbdj
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9hmG2P3Bo-A
+    description: |- 
+      Brad is a senior software engineer at Bloomberg. He discusses with us his experiences using Vue.js to quickly deliver value to users and how to do the same.
+
+  - title: Progressively Enhanced From Validation
+    lang: en
+    type: lightning
+    time: 2019-03-27
+    room:
+    authors:
+      - name: Matt Brophy
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9hmG2P3Bo-Ahttps://youtu.be/hJBWqcXVgxA
+    description: |- 
+      Matt works for the engineering department of Urban Outfitters. In his talk, he walks us through a how to of progressively enhancing your form validation.
+
+  - title: How to Reduce Your Vue Bundle Size With Webpack
+    lang: en
+    type: lightning
+    time: 2019-03-27
+    room:
+    authors:
+      - name: Jennifer Bland
+        twitter: ratracegrad
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/NHUiQvYXxw4
+    description: |- 
+
+  - title: Global vs. Component State in Vuex
+    lang: en
+    type: lightning
+    time: 2019-03-27
+    room:
+    authors:
+      - name: Jaimes Jones
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qbCJmWGXzZU
+    description: |- 
+      Jaimes goes over specific instances in which data belongs in a global state and when data belongs in a component state.
+
+  - title: Building a Better Tomorrow
+    lang: en
+    type: lightning
+    time: 2019-03-27
+    room:
+    authors:
+      - name: Jennifer Bland
+        twitter: ratracegrad
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/s92R_ANX0M0
+    description: |- 
+      Jennifer gives a background on how Stanley Black & Decker currently accomplishes tasks. She goes into detail about how Vue.js graphs and charts help visualize the tasks completed efficiently.
+
+  - title: The Ramp Up to Vue
+    lang: en
+    type: lightning
+    time: 2019-03-27
+    room:
+    authors:
+      - name: Charles Villard
+        twitter: cdvillard
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/q0UJSePrEg0
+    description: |- 
+      Charles talks about his very first experiences with Vue.js and all of the steps he took to understanding Vue. This talk is a brief look at what type of journey it could look like realistically when you’re first starting out.
+
+  - title: Vue + i18n = FUN
+    lang: en
+    type: lightning
+    time: 2019-03-27
+    room:
+    authors:
+      - name: Casie Siekman
+        twitter: CassandraDanger
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/B_khmwr6gxw
+    description: |- 
+      Casie shows us how to implement internationalization using i18n. She goes over the many reasons why this will make your app better from a larger scope and the steps that you will need to take to implement i18n.
+
+  - title: Cloudinary's New Vue SDK
+    lang: en
+    type: lightning
+    time: 2019-03-27
+    room:
+    authors:
+      - name: Doug Steinberg
+        twitter:
+        github: doug7410
+        website:
+    slides:
+    videos:
+      - https://youtu.be/EUpEY181Egk
+    description: |- 
+      Doug teaches us all about Cloudinary’s features and how to use its recently released Vue SDK as well as what that comes with.
+
+  - title: Sub-second Vue
+    lang: en
+    type: lightning
+    time: 2019-03-27
+    room:
+    authors:
+      - name: Lucas Still
+        twitter:
+        github: theneverstill
+        website:
+    slides:
+    videos:
+      - https://youtu.be/87gaVAzMxTA
+    description: |- 
+      Lucas is a full-stack architect. After working with Vue over the years, Lucas has gathered some performance tips along the way and shares them with us in this talk.
+
+  - title: KnowBe4 Human error. Conquered.
+    lang: en
+    type: lightning
+    time: 2019-03-27
+    room:
+    authors:
+      - name: Benji Dalton
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/EZnXIlfYVgo
+    description: |- 
+      Benji works for a company called KnowBe4. He has been using Vue since its beginning days and even got to sway KnowBe4 into using Vue.js. He talks about what the process was like for them to start using Vue.
 
 
       
