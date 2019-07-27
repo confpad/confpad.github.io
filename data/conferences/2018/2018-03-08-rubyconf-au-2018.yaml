@@ -36,6 +36,7 @@ talks:
     videos:
       - https://youtu.be/Y3k7tHll3RY
     description: |-
+      Sandi is a programmer, and the author of Practical Object-Oriented Design in Ruby (POODR) and 99 Bottles of OOP. She believes in simple code and straightforward explanations and wants to help you transform your code and bring back the joy.
 
   - title: Machine Learning explained to humans
     lang: en
@@ -51,6 +52,7 @@ talks:
     videos:
       - https://youtu.be/zbxtlQaJZ7M
     description: |-
+      t happens to all of us: that weird moment when you realize that your phone or computer just did something impossible. How the heck could an algorithm caption your pictures or understand your movie reviews? Let me show you how, by giving you the technical foundations of Machine Learning.
 
   - title: JavaScript is Awe-ful
     lang: en
@@ -65,6 +67,7 @@ talks:
     slides:
     videos:
     description: |-
+      JavaScript: the language developers love to hate. It is full of WATs, UGHs, and other annoyances; and yet this 22-year-old programming language is the multi-tool of the web. Why?
 
   - title: Consider Crystal
     lang: en
@@ -80,6 +83,7 @@ talks:
     videos:
       - https://youtu.be/XakoiU2mw3c
     description: |-
+      Did you hear about this great Ruby-like language built in South America? No, not Elixir. Crystal! We’ll take a look at its syntax, design choices, its ecosystem, and tradeoffs. You’ll see how language design affects code, and become a better Rubyist along the way.
 
   - title: High performance Mario Kart on Ruby
     lang: en
@@ -95,6 +99,7 @@ talks:
     videos:
       - https://youtu.be/LVRcHzOgsRY
     description: |-
+      We have a serious workplace with a serious problem - Mario Kart. We’ve employed Ruby to answer the important questions - just who is the best and is there any hope for justice in kart?
 
   - title: 'Here,s to history: programming through archaeology'
     lang: en
@@ -110,6 +115,7 @@ talks:
     videos:
       - https://youtu.be/MEG3HyVDgjU
     description: |-
+      Does your git log resemble an archaeological site from 500BC? Let's explore the surprising similarities between archaeology and programming to understand developer decision-making in 2018.
 
   - title: A Human Approach to Functional Programming
     lang: en
@@ -124,6 +130,7 @@ talks:
     slides:
     videos:
     description: |-
+      Functional programming has made great strides in the popular imagination, yet adoption of FP languages has often been challenging for companies, sputtering in fits and starts.
 
   - title: Hiring Juniors
     lang: en
@@ -139,6 +146,7 @@ talks:
     videos:
       - https://youtu.be/aD6dci9rLXM
     description: |-
+      The best talent of today is already working for someone else. Hiring them involves aggressive poaching, which isn’t sustainable in the long-term. Let’s look at how companies around the world are growing their own best and brightest, what’s worked for them and what hasn’t.
 
   - title: Building the World's Largest Studio at Netflix
     lang: en
@@ -154,6 +162,7 @@ talks:
     videos:
       - https://youtu.be/5_Xj7okmauc
     description: |-
+      At Netflix, we’re continuously reinventing the way we entertain. We’ve sent DVDs in the mail, pioneered streaming video, and now we’re doing it all over again. In this talk, we’ll learn how Ruby helps the "teams behind the streams" create and produce billions of dollars of original content.
 
   - title: 'Knobs, Levers and Buttons: tools for operating your application at scale'
     lang: en
@@ -169,6 +178,7 @@ talks:
     videos:
       - https://youtu.be/Bdck0TpHdGc
     description: |-
+      Pilots have the flight deck, Captain Kirk had his bridge, but what do you have for managing failure in your application?
 
   - title: 'Outside the Web Box: Using Ruby for Other Protocols'
     lang: en
@@ -184,6 +194,7 @@ talks:
     videos:
       - https://youtu.be/ZvyaC3SK-nA
     description: |-
+      Ruby is a widely used language, popular for serving web pages and storing data. What about serving different types of clients? Is it possible to use Ruby to talk to other machines? I’m going to share my experiences integrating Ruby services with hardware, such as barcode scanners and Zebra printers.
 
   - title: Dyslexia and Developers
     lang: en
@@ -199,6 +210,7 @@ talks:
     videos:
       - https://youtu.be/JZ03E0FUj1M
     description: |-
+      What dyslexia is, what it definitely isn’t, and why it makes you a great developer.
 
   - title: Building with Blockchains in Ruby
     lang: en
@@ -213,6 +225,7 @@ talks:
     slides:
     videos:
     description: |-
+      Blockchains are a new kind of data structure offering an intriguing property: immutability through cryptography. We’ll use Ruby to explore the intriguing properties of blockchains, seen through the lens of a fictitious cryptocurrency we’ll create for the purposes of the talk — ConferenceCoin
 
   - title: UTC is Enough for Everybody, Right?
     lang: en
@@ -228,6 +241,7 @@ talks:
     videos:
       - https://youtu.be/ibJE_T4w3Bo
     description: |-
+      After you tell developers you’re building a calendar, most will sadly sigh, comfort you, and send you to your doom. Because it’s true: everyone knows dates, times, and timezones can be hugely frustrating concepts in programming. But it turns out what you don’t know is even weirder!
 
   - title: Tackling Technical Writing
     lang: en
@@ -243,6 +257,7 @@ talks:
     videos:
       - https://youtu.be/brewx-lO3ak
     description: |-
+      Empathetic, accessible, and thorough technical tutorials & blog posts break down Ruby’s barrier to entry and foster inclusion. Thus, Ruby’s fate rests on people who write well – an oft underdeveloped skill. In this talk, I’ll give actionable pointers to get Rubyists started with technical writing.
 
   - title: 'The Good Bad Bug: Fail Your Way to Better Code'
     lang: en
@@ -258,6 +273,7 @@ talks:
     videos:
       - https://youtu.be/4JEZU8-IHs8
     description: |-
+      Programming is filled with bugs that were actually features. We’ll journey through code that’s so ‘bad’ it’s actually good while discovering the important role failure plays in learning. Then we’ll tame our inner perfectionists & look at an approach to code that will allow us to fail in the best way.
 
   - title: Debugging Your Services with Distributed Tracing
     lang: en
@@ -273,6 +289,7 @@ talks:
     videos:
       - https://youtu.be/MYej9nMux-E
     description: |-
+      Traditional application performance monitoring is great for debugging a single app but how do you debug a system with multiple services? Distributed tracing can help! You’ll learn the theory behind how distributed tracing works and dive into practical considerations you won’t get from a README.
 
   - title: Politics? In My Technology?
     lang: en
@@ -288,5 +305,6 @@ talks:
     videos:
       - https://youtu.be/7NxkCRd4Z1M
     description: |-
+      Politics and technology can not be separated. We’ll look at some of the technologies that people are using to shift political realities, and we’ll examine the political ideas that underpin the technologies that we use and build every day.
 
 
