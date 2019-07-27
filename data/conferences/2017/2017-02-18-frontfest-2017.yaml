@@ -1,4 +1,4 @@
-﻿conference:
+conference:
     
   name: FrontFest 2017
   status: complete
@@ -23,7 +23,7 @@
 talks:
 
   - title: Máxima performance
-    lang: en
+    lang: es
     type: regular
     time: 2017-02-18
     room:
@@ -39,7 +39,7 @@ talks:
       Nos meteremos en la sala de máquinas de los navegadores, aprendiendo cómo funcionan y cuáles son las mejores técnicas para conseguir la máxima performance en nuestra web. Pasaremos de 0 a 60 FPS entendiendo los procesos básicos de pintado y descubriremos al final cuál es el enemigo número uno de la buena performance.¿Qué es la buena performance? ¿Se puede medir una "sensación"? ¿Cómo puedo mejorar la performance en móviles? ¿Cuánto impactan las microoptimizaciones? ¿Qué son los web workers? ¿Realmente ayudan?Cuando el mobile first ya no es una opción y se ha convertido en ley. Cuando la performance importa.
 
   - title: Animación avanzada con CSS en HTML y SVG para mejorar la UX
-    lang: en
+    lang: es
     type: regular
     time: 2017-02-18
     room:
@@ -55,7 +55,7 @@ talks:
       Las animaciones con CSS ayudan a mejorar los detalles de la interfaz y el feedback que le damos al usuario mediante microinteracciones, tratándolas como elementos con un valor comunicativo en la transmisión de los contenidos, más allá de la mera decoración o aporte visual.Aprenderemos cómo animar propiedades CSS teniendo en cuenta el rendimiento, animar introducciones de elementos en la vista, hacer animaciones secundarias persistentes, animar elementos SVG, hacer animaciones con steps, y por último veremos cómo preparar las animaciones CSS dejando su aplicación a triggers gestionados por JS.
 
   - title: Let's code a game in JavaScript
-    lang: en
+    lang: es
     type: regular
     time: 2017-02-18
     room:
@@ -71,7 +71,7 @@ talks:
       El desarrollo de videojuegos parece complicado, pero hoy en día tenemos herramientas que lo hacen más accesible, como Phaser, un framework de videojuegos HTML5 de alto nivel, que nos permite programar videojuegos 2D de una manera muy rápida.En esta charla construiremos un videojuego paso a paso, con JavaScript y Phaser. Aprenderemos a cargar assets, crear sprites y animarlos, usar un motor de físicas, reproducir audio, etc.
 
   - title: Accesibilidad web, ¿cómo hacer un front para todos?
-    lang: en
+    lang: es
     type: regular
     time: 2017-02-18
     room:
@@ -87,7 +87,7 @@ talks:
       Cuando desarrollamos un front para un sitio web, nuestro objetivo, entre otros, es que a quienes accedan les encante la experiencia, y puedan conectarse de forma cómoda desde todo tipo de dispositivos. Pero ¿realmente estamos consiguiendo llegar a todo el mundo?Muchos conocen el concepto de accesibilidad, o al menos han oído hablar de él. Sin embargo, muy pocos tienen los conocimientos y la experiencia necesaria para aplicarla de forma efectiva. ¿Qué es? ¿Por qué es importante? ¿Cómo demonios se hace? ¿Afectará negativamente a mi diseño? ¿Tendré que cobrarle al cliente el triple si quiere que la web sea accesible? ¿Puedo usar cualquier tecnología?En esta charla os responderé a todas estas preguntas, y os proporcionaré las herramientas y las referencias necesarias no solo para que podáis abordar de forma efectiva un desarrollo accesible, sino también para que podáis comprobar si lo habéis hecho bien, utilizando las aplicaciones que usan los distintos perfiles de discapacidad.
 
   - title: Workflows sanos y funcionales entre equipos (UX, UI, Front)
-    lang: en
+    lang: es
     type: regular
     time: 2017-02-18
     room:
@@ -103,7 +103,7 @@ talks:
       Los flujos de trabajo son una parte fundamental en el día a día de los equipos. Diseñadores y frontenders suelen tener una relación cercana a la hora de afrontar tareas. Pero ¿cómo de sana y eficaz es esa relación? ¿Nos hacemos entender bien?En esta charla se abordan casos de éxito y estrepitosos fracasos que nos aportarán experiencia para conseguir juntos el mejor resultado (y no tirarse los trastos a la cabeza).
 
   - title: Escribiendo estilos para componentes de React
-    lang: en
+    lang: es
     type: regular
     time: 2017-02-18
     room:
@@ -119,7 +119,7 @@ talks:
       Escribir estilos para componentes de React no es el algo trivial. Desde que Christopher Chedeau mencionó que algo similar a los estilos en línea solucionarían muchos problemas al estilar componentes de React, han surgido montones de propuestas. Todas se tratan de acercar a la solución ideal, pero casi ninguna lo consigue.En esta charla veremos varias aproximaciones para escribir estilos para componentes de React. Desde estilos en línea puros hasta los template literals de styled-components, pasando por CSS Modules, Glamor, Aphrodite y JSS.También veremos cuáles son los criterios que definen a una buena solución para dar estilos, y cómo React Toolbox está siendo reescrita a base de componentes completamente agnósticos de estilo que hacen sencillo pasar de una aproximación a otra.
 
   - title: Aplicaciones offline en un mundo online
-    lang: en
+    lang: es
     type: regular
     time: 2017-02-18
     room:
@@ -135,7 +135,7 @@ talks:
       ¿Qué son las aplicaciones offline? ¿Cuándo utilizarlas? ¿Qué beneficios aportan? ¿Con qué tengo que tener cuidado a la hora de desarrollar una aplicación offline?Se tratarán en particular aspectos como el Cache Manifest (Application Cache) donde se explicará cómo es la estructura del archivo (caché, network y fallback), cómo se actualiza la caché, y los diferentes estados y eventos. También se analizarán diferentes formas de lograr persistencia de datos (bases de datos locales), usando tecnologías como LocalStorage, WebSQL, IndexedDB y PouchDB.Al final de la charla se mostrará un ejemplo real de aplicación offline donde se guarde el estado.
 
   - title: Cosas increíbles que puedes hacer con una web
-    lang: en
+    lang: es
     type: regular
     time: 2017-02-18
     room:
@@ -151,7 +151,7 @@ talks:
       ¿Sabías que con una simple página web puedes hacer vibrar un móvil, sacar fotos con la cámara, obtener la localización geográfica, realizar una videollamada, reconocer y sintetizar voz, grabar la pantalla, capturar y manipular audio e incluso experimentar la realidad virtual? Hoy en día la web permite hacer cosas increíbles, totalmente impensables hace sólo unos años.En esta charla veremos algunas de las Web APIs más interesantes presentes y futuras, que nos permitirán hacernos una idea del potencial actual de la web. ¡Pon en marcha tu imaginación!
 
   - title: Tecnología por el cambio climático
-    lang: en
+    lang: es
     type: regular
     time: 2017-02-18
     room:
