@@ -22,7 +22,7 @@
 
 talks:
  
-  - title: Self-Care for Developers
+    - title: Self-Care for Developers
     lang: en
     type: regular
     time: 2019-01-19
@@ -64,8 +64,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/URxi32H9fNM
     description: |-
-      Since launch, almost all iOS apps were designed for a single screen, but with Marzipan on macOS and USB-C monitors on iPad that's finally about to change. In this talk you'll learn how to build apps that work great across multiple windows, first with a walkthrough of all the theory then a live coding demonstration so you can see exactly what the steps are.
+      Developing for multiple platforms is expensive and requires multiple disciplines. Kotlin Multiplatform provides a sane, cheap, and fast method to target multiple environments with the same codebase. Leveraging direct compilation to target environments, Kotlin Multiplatform can save you time and money sharing your business logic between your target platforms. By using a common build tool, you also save considerable learning costs typically associated with writing platform native code. In this talk, we will explore these possibilities and demonstrate how a single multiplatform project can be deployed to multiple target environments. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: AI Adventures with AutoML
     lang: en
@@ -79,7 +80,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/-FpWZE_FsI8
     description: |-
+      Lets take a look at how Cloud AutoML’s technology helps us on building vision models. Cloud AutoML is a suite of machine learning products that enables developers with limited machine learning expertise to train high-quality models specific to their business needs, by leveraging Google’s state-of-the-art transfer learning, and Neural Architecture Search technology. In this session, we are going to take a look:1. Intro to AutoML 2. How to train custom machine learning models 3. Prediction based on trained machine learning model 4. Demo of AutoML vision Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: Adventures of a Polymath
     lang: en
@@ -107,7 +110,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/2Oum15R7H2g
     description: |-
+      This session shows how to develop and run native mobile apps without needing to know much about the native platforms, such as Android and iOS, by leveraging a hybrid development framework such as Ionic, which is built on top of Apache Cordova and is capable of transforming an ordinary web app into a mobile app. The presentation discusses a real-life enterprise-level Android and iOS mobile app developed under pressure for a wireless service provider. It covers some of the technical details of the app as well as how to perform device-level debugging of the Android app, using adb. You’ll get practical tips on what to watch out for, and an understanding of the differences of the hybrid approach versus other frameworks such as React Native and Kotlin/Native. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: IoT + DevOps
     lang: en
@@ -121,7 +126,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/I4Ub3Mrvc2c
     description: |-
+      Deploying to a server or the cloud is difficult enough. What about when there are hundreds or thousands of devices, spread across the globe, with limited connectivity and no one around to reset them? When it comes to the Internet of Things, having an understanding of the people, processes, and tools it takes to provision and update devices is a key part of success. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: React Native Up and Running
     lang: en
@@ -151,7 +158,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/1vlTPp336UY
     description: |-
+      An introduction to the Model View Intent architecture pattern. This pattern takes ideas and concepts from Reactive and Functional programming. We'll go over the core principles of this pattern, and how you can apply them in your Android applications. We'll look at concrete implementation details, and explore some of its benefits. Some familiarity with Kotlin and RxJava is assumed. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: 'Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays'
     lang: en
@@ -165,7 +174,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/1ySNf6YB_LU
     description: |-
+      In an ever-expanding world of devices for the Google Assistant (smart speaker, smartphone, tablet, smartwatch, earphones, smart TV, car, smart display, and the list goes on and on), developers face today completely new challenges in creating effective and consistent experiences for users. In this talk, we’ll take a closer look at our user’s daily journey as they’re moving from one device to another and cover some key considerations for designing Actions on Google across surfaces - with useful tips to understand when and how to leverage visuals alongside voice interactions, to create rich, delightful conversational experiences for smart displays and more. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: Nailing the Tech Interview
     lang: en
@@ -209,7 +220,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/osinFJ3YL88
     description: |-
+      "How did they do that?!!!" How many times have you been just stunned, STUNNED by the work you see others do in a fully native app? Smooth, layered animations for every transition that work on even $20 phones? Its not magic and it may not be as difficult or as “mathy” as you might think. “Wow” effects that impress and delight! We will be covering how to use multiple ways to accomplish a standard set of animations and much slicker more complicated ones using native and external libraries.From the native side we will cover topics like using animation xml definitions, Material Design AppCompat included tools, moving through Animation Properties, Listeners, View Animators, Animation Sets, even AnimatedVectroDrawables, Morphs, and libraries like Lottie. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: 'A Year in XR: Advancements of Virtual, Augmented and Mixed Reality'
     lang: en
@@ -223,7 +236,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/eOjIG0-IMDg
     description: |-
+      Another year has come and gone. The valuation of XR in the industry has almost doubled. The companies that specialize or invest in XR have doubled. With all this growth comes great advancements in the space. Some you may know, others you may not.In this talk we will go over where we have been, where we are now and where we will be going. We will also take a deeper dive into the technology, hardware, software and some of the use cases that are driving our industry forward.See live demos, videos and concepts of ARKit, ARCore, WebVR, WebAR, Magic Leap, HoloLens, and more. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: Debugging, Profiling, & Rocking Out with Browser-Based Developer Tools!
     lang: en
@@ -253,7 +268,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/uKNNGzFOIvQ
     description: |-
+      In this talk we'll take a deep look at the Navigation Architecture Component that was announced at Google I/O 2018. We'll cover the basic usage of the component, why it's important to consider when starting a new application and experiment with its features through live demos. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: Jumping into Jupyter Notebooks
     lang: en
@@ -267,7 +284,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/epfM9isTmK8
     description: |-
+      Jupyter notebooks are data science’s favorite new tools, as they combine two things that we typically think of as separate:A human-readable part made of text, images, and even video, all of which combine to form theintroduction, write-up, and summary that you’d expect to find in a paper or report, and An executable part made of code, which provides interactivity, performs calculations and analysis, and can generate live visualizations. It allows readers to explore the data, ask “what if?” questions, and see the results.Jupyter notebooks are tools for people who work with data to collaborate. IBM uses them to “distill data into insights”, Netflix uses them to scale up their ability to work with their copious amounts of data, and you can use them to craft reports that completely show your work — the data you collected, the code you use to process it, along with your writeup of your findings and reasoning.
 
   - title: Debugging Your Node.js Apps
     lang: en
@@ -297,7 +316,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/FhcVt2lS5eg
     description: |-
+      From the writer of Flutter for Android developers on Flutter.io comes Introduction to Flutter! Flutter is one of the most talked about technologies this year. Flutter is Google’s mobile UI framework for crafting high-quality native interfaces on iOS and Android in record time.Learn how to design, develop and deploy Flutter apps in this talk! Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: So you can build an Action. Now what?
     lang: en
@@ -311,7 +332,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/cxCzll5q76s
     description: |-
+      You've made your first action! Probably a great quiz game or a simple information action. But now what? How can you get information from another API, such as Google Maps or Cloud, or even outside Google? How do you know who your users are to permit them to only what they're allowed to see? Get ready to bring your Action writing skills to the next level! Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: Composing Accessible UI's With Angular Material Components
     lang: en
@@ -341,7 +364,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/TZCdlxLl0E4
     description: |-
+      Every release of Android steps up the security and Android 9 (Pie) is no exception. We will take a look into the evolution of security features and changes and how that affects developers/tinkers of the Android ecosystem. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: End-2-End Machine Learning on GCP
     lang: en
@@ -355,7 +380,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/YRRIHJD48ow
     description: |-
+      Machine learning is hard, but setting up pipelines around ML shouldn't be. We will go through build a ML model on local, deploying it to Google Cloud ML engine and then use the exposed APIs to get predictions. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: Serverless Angular, Material, Firebase and Google Cloud applications
     lang: en
@@ -385,7 +412,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/8w_Opn6rf0g
     description: |-
+      With the announcement of Android Slices, you can now provide rich, dynamic and interactive content to your users even outside your app! Slices allow you to build content to be displayed in the Google Search app and later in other places like the Google Assistant. Slices can help users perform tasks faster by enabling engagement outside of the fullscreen app experience. In this session, we’ll explore how Slices can help you provide a better experience for your users and see how it’s implemented. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: 'Not all data is created equal: NoSQL'
     lang: en
@@ -399,7 +428,9 @@ talks:
         website:
     slides:
     videos:
-    description: |-
+      - https://youtu.be/XEa3a9js9kA
+    description: 
+      This talk is an Intro to NoSQL and an impassioned argument on why you should never host your own NoSQL instance. Do you work on MySQL, SQL Server, Postgres (or other RDBMS) full time? Have you ever wanted to dip your toes into the NoSQL world? Ever wonder about the hype surrounding NoSQL? What is the difference between MongoDB, Redis, Neo4j, and Cassandra? Get a gentle intro to the NoSQL world and more importantly, when to use it and when not to use it. More important, we will discuss decision metrics for picking a cloud-based NoSQL solution that is right for you; between major cloud providers like Google (Datastore), Amazon (DynamoDB), and Microsoft (Azure CosmosDB). We'll have a spirited discussion on why cloud based/managed NoSQL hosting will help you avoid becoming a news story for the wrong reasons. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: Shifting to Vue
     lang: en
@@ -433,7 +464,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/55nwTtHcFis
     description: |-
+      All too often, mobile development is not for the casual developer. Creating an app that works well on iOS and Android can be a time-consuming process, requiring separate teams of programmers for each target platform with different frameworks, languages, and programming tools. This is made worse by the trend toward highly customized user interfaces. Fortunately, Flutter is an SDK that puts the power to create beautiful, customized, cross-platform mobile apps back in the hands of every developer. In this session we will live-code a mobile app on stage to highlight how easy and fast it is to develop with Flutter, while showing off the latest new features. Flutter allows programmers and designers to experiment and play with their app’s user interface; new features can be added quickly and tested immediately; and the resulting app runs at 60 fps on both iOS and Android, while keeping the look and feel for each platform. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: Focus on your code, not infrastructure, with Cloud Functions
     lang: en
@@ -447,7 +480,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/zDsqtYBkpwQ
     description: |-
+      When you build a backend to a web app or mobile app, you want to focus on your business logic, not on your infrastructure. At the same time, you want the infrastructure to always be there for you, ready to run your code. Google Cloud Functions does that for you. In this talk, we will follow the story of the fictional startup "In Jest", publishers of an app that tells jokes. At first, the developers at "In Jest" need to get a minimum viable product up and running in an hour. As their business grows they will have to integrate with Google Sheets, SQL databases, analytics systems, marketing systems and so on. We will see the code used to make this happen, without having to worry the team about servers and data centers. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: Intro to Progressive Web Apps
     lang: en
@@ -477,7 +512,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/0aAgX3OrAeM
     description: |-
+      A behind-the-scenes look at how our research has informed Google's Digital Wellbeing initiative, and some of the team's future directions. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: 'AutoML: No Code No Problem'
     lang: en
@@ -491,7 +528,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/gomkPTOC3jA
     description: |-
+      AutoML is one of the newest products from Google making it super simple for anyone without machine learning or coding knowledge to build powerful machine learning model. Come learn about AutoML how to use and tips and tricks for AutoML. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: Dispatches from React Native
     lang: en
@@ -521,7 +560,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/k-iSaKNwBqk
     description: |-
+      Dependency Injection seems like this SUPER complex topic that only the most senior developers understand. At the end of the day, it’s just “inversion of control” where instances of objects/classes are provided to you, instead of created by you. Kotlin’s language features allow us to do this concisely, without a library, and in this talk I’ll show you how to DO IT YOURSELF. This talk will demystify dependency injection and help you understand the huge benefits it provides for testing, maintainability and modularity. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: Making Your Android Things Devices Smarter
     lang: en
@@ -535,7 +576,9 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/wwelHPFsJqU
     description: |-
+      With the advancements in machine learning and cloud services, developers can easily make devices that go the extra mile in providing a great experience for users. Come learn how you can make your Android Things devices conversational, respond to user’s voice requests, recognize images and gain the full support of cloud services to perform complex operations in the connected world. This presentation will leverage real ‘smart’ device projects to introduce you to what’s available with Android and Google, and provide you with a launching point for building your own smart devices. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
 
       
