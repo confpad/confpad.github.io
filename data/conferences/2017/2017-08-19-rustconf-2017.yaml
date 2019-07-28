@@ -1,4 +1,4 @@
-﻿conference:
+conference:
     
   name: RustConf 2017
   status: complete
@@ -69,7 +69,7 @@ talks:
     description: |-
       There's a lot more to releasing a quality crate than just the code. Automating the testing to make sure nothing breaks, checking for test coverage, making sure there are examples, providing documentation are important in making your crate solid and easy to use. Beyond that how do you get people to actually use your crate? You might not know how to increase the visibility of your crate or of small things that can be done to get interest in your crate. This talk covers all of these aspects to help improve the quality of ones crate beyond the code itself.
 
-  - title: "Menhir and Friends: the State of the Art of Parsing in Rust"
+  - title: 'Menhir and Friends: the State of the Art of Parsing in Rust'
     lang: en
     type: regular
     time: 2017-08-19
@@ -137,7 +137,7 @@ talks:
     description: |-
       This talk discusses the design and implementation of curve25519-dalek, a pure-Rust implementation of operations on the elliptic curve known as Curve25519. We will discuss the goals of the library and give a brief overview of the implementation strategy. We will also discuss features of the Rust language that allow us to achieve competitive performance without sacrificing safety or readability, and future features that could allow us to achieve more safety and more performance. Finally, we will discuss how -dalek makes it easy to implement complex cryptographic primitives, such as zero-knowledge proofs.
 
-  - title: "Closing Keynote: Safe Systems Software and the Future of Computing"
+  - title: 'Closing Keynote: Safe Systems Software and the Future of Computing'
     lang: en
     type: regular
     time: 2017-08-19
