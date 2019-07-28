@@ -1,4 +1,4 @@
-﻿conference:
+conference:
     
   name: JSFoo 2017
   status: complete
@@ -220,6 +220,7 @@ talks:
     slides:
     videos:
     description: |-
+      JavaScript is single threaded, and your functions often needs to be run as soon as possible, but at the same time, you don’t want it to get in the user’s way.For example, you send analytics data when the user is scrolling the page, or you append elements to the DOM while they happen to be tapping on the button, your web page / app can become unresponsive, resulting in a poor user experience.With requestIdleCallback, requestAnimationFrame and a scheduler, we wil see how to schedule or put less priority/non-essential tasks in queue, and execute them without getting in the user’s way.We will also see, how to priotize tasks so that user does not feel the lag.
 
   - title: 'Framework wars: choosing Vue.js'
     lang: en
@@ -232,10 +233,11 @@ talks:
         github: znck
         website:
     slides:
+      - https://www.icloud.com/keynote/0A_6vPUhG253TeikT0euyhmjQ#JSFoo17_-_Choosing_Vue
     videos:
       - https://youtu.be/ynZ3mCe4ZAA
     description: |-
-      Rahul Kadyan on why you should use Vue.js. Sapna Upreti on the features and strengths of Meteor.
+      This talk aims to share state of vue.js ecosystem. With stories from industry, it would be focused on why people picked vue.js over others.
 
   - title: 'Framework Wars: Reactive web applications using Meteor'
     lang: en
@@ -248,10 +250,11 @@ talks:
         github: sapna92
         website:
     slides:
+      - https://docs.google.com/presentation/d/1mLTXkUr0MkhvdN1WBUFhPiMBxH2ZZxbqD36Vr-z8JyU/edit?usp=sharing
     videos:
       - https://youtu.be/ynZ3mCe4ZAA
     description: |-
-      Rahul Kadyan on why you should use Vue.js. Sapna Upreti on the features and strengths of Meteor.
+      Meteor is a type of full stack realtime JavaScript framework for web development. It’s free and open-source and a tidy package that makes web development easy.There is a concept of reactivity in Meteor which states that whenever there is a change in data source the clients connected to the Meteor server gets updated automatically without refresh.If you need very fast development of your applications then Meteor can be your first choice.
 
   - title: 'Framework wars: Great Developer Experience with Angular'
     lang: en
@@ -267,7 +270,7 @@ talks:
     videos:
       - https://youtu.be/ynZ3mCe4ZAA
     description: |-
-      Rahul Kadyan on why you should use Vue.js. Sapna Upreti on the features and strengths of Meteor.
+      Once you’ve got past your apprehension of TypeScript, working with Angular can be a real joy. I’d say the Angular eco-system offers the best developer experience (DX) than any other framework or toolset out there.
 
   - title: Scaling NodeJS
     lang: en
@@ -300,5 +303,3 @@ talks:
       - https://youtu.be/XELSRLTk66o
     description: |-
       Microservices are described as services with a few hundred lines of code. Big organizations run such micro services in 100’s and are often looked up to by engineers in startups/smaller companies, too eager to join that league. However the hard reality is that only a few startups will survive to scale and need micro services. Busting the hype, the experts are suggesting smaller companies to adopt writing modular code instead of microservices code. How do you write modular code in NodeJs and why are they better than microservices?
-
-  
