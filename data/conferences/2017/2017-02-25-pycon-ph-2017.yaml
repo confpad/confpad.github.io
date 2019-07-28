@@ -181,7 +181,7 @@ talks:
     description: |-
 
   - title: Going Serverless With Chalice - A Python Serverless Microframework
-    lang: en  
+    lang: en
     type: regular
     time: 2017-02-26
     room:
