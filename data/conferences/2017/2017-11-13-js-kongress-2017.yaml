@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: JS Kongress 2017
-  status: incomplete
+  status: complete
   series: js-kongress.de
   tags:
     - javascript
@@ -20,3 +20,322 @@
   description: |-
 
 talks:
+
+  - title: Opening Keynote
+    lang: en
+    type: regular
+    time: 2017-11-13
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Ashley Williams
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/vxciS8IUUJU
+    description: |-
+
+  - title: "Short story: When a close-knit JS App family needed rescue from an unruly State butler"
+    lang: en
+    type: regular
+    time: 2017-11-13
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Varsha Saha
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9x_ISrxxyzY
+    description: |-
+      A large scale application has some core functionalities, that needs to be used by ’n’ other applications embedded into it. These ‘n’ applications also have their own functionalities and views that they need to show to the user. If there is a button click on parent application which changes/publishes data/view, the child applications need to listen, and subsequently conform itself to the change. This can be made possible by having a common pipeline between the two that records and notifies of each other’s state transition. This talk would focus on key challenges we need to solve for, 1. How is state management possible in a large scale applications like this. 2. How do the child application(s) operate in isolation as well as interact with main application? 3. What if the child application(s) are not in ReactJS?
+
+  - title: "Buffalo: when Node and APIs become BFFs"
+    lang: en
+    type: regular
+    time: 2017-11-13
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Netto Farah
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Eh54j-hFbQg
+    description: |-
+      API development is a common challenge for many teams and companies. In a world of micro-services, multiple backends and ever more demanding front-ends, building the right set of APIs becomes more important. How can a single API support a diverse set of clients, different data access patterns, and multiple SLAs? Backend for Frontend (BFF) is a pattern that has emerged to solve some of these challenges and help software engineers build better-focused APIs that can cater to different user experiences. This is achieved by actually building one backend for every frontend client. In this talk, I want to discuss and present some of the experience and the challenges me and my team ran into while building API services for all our frontends at IFTTT.
+  
+  - title: Reactive Brain Waves
+    lang: en
+    type: regular
+    time: 2017-11-13
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Uri Shaked
+        twitter:
+        github: urish
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hYiQ5svNjtw
+    description: |-
+
+  - title: "A Tale of TurboFan: Four years that changed V8 forever"
+    lang: en
+    type: regular
+    time: 2017-11-13
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Benedikt Meurer
+        twitter:
+        github:
+        website: https://benediktmeurer.de/
+    slides:
+    videos:
+      - https://youtu.be/cvybnv79Sek
+    description: |-
+
+  - title: Machine learning in Education
+    lang: en
+    type: regular
+    time: 2017-11-13
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Michał Koźmiński
+        twitter: michalkozminski
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/kkp2C1fir68
+    description: |-
+
+  - title: Open Web, Open Source, Open Communities
+    lang: en
+    type: regular
+    time: 2017-11-13
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Shubheksha Jalan
+        twitter: ScribblingOn
+        github: shubheksha
+        website: https://shubheksha.com/
+    slides:
+    videos:
+      - https://youtu.be/39MliXD0prU
+    description: |-
+
+  - title: JavaScript’s “+” Operator and Decision Fatigue
+    lang: en
+    type: regular
+    time: 2017-11-13
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Emily Freeman
+        twitter:
+        github:
+        website: https://emilyfreeman.io/
+    slides:
+    videos:
+      - https://youtu.be/v8ToNvB-_Q8
+    description: |-
+
+  - title: Building a radio data network with Node.js
+    lang: en
+    type: regular
+    time: 2017-11-13
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Thomas Watson
+        twitter:
+        github:
+        website: https://wa.tson.dk/
+    slides:
+    videos:
+      - https://youtu.be/5Xz6LJuvHCc
+    description: |-
+
+  - title: A visual guide of rendering performance
+    lang: en
+    type: regular
+    time: 2017-11-13
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Martin Splitt
+        twitter:
+        github:
+        website: http://50linesofco.de/
+    slides:
+    videos:
+      - https://youtu.be/pCIe8gMv5oY
+    description: |-
+
+  - title: The Browser, The Machine Learning and The Future we might not have imagined just less than a year ago
+    lang: en
+    type: regular
+    time: 2017-11-13
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Carmen Popoviciu
+        twitter: CarmenPopoviciu
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/tIUiqFj4oSY
+    description: |-
+
+  - title: The Browser is not a document reader!
+    lang: en
+    type: regular
+    time: 2017-11-14
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Rachel Nabors
+        twitter: rachelnabors
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/vMEzMVk8yAU
+    description: |-
+
+  - title: “There is no spoon” - Building VR experiences in the Browser (With JS)
+    lang: en
+    type: regular
+    time: 2017-11-14
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Felipe Torres
+        twitter:
+        github:
+        website: https://fforr.es/
+    slides:
+    videos:
+      - https://youtu.be/QBPWO_h2zck
+    description: |-
+
+  - title: "Progressive Web Apps: An easy answer to unequal housework"
+    lang: en
+    type: regular
+    time: 2017-11-14
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Sara Harkousse
+        twitter: Sara_harkousse
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/W4RKqT7RiIk
+    description: |-
+
+  - title: Tomorrow’s JavaScript debugger
+    lang: en
+    type: regular
+    time: 2017-11-14
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Amit Zur
+        twitter: amitzur
+        github: amitzur
+        website: http://amitzur.com/
+    slides:
+    videos:
+      - https://youtu.be/Rop3EgPvBMw
+    description: |-
+
+  - title: Break Up With Your Frontend Monolith
+    lang: en
+    type: regular
+    time: 2017-11-14
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Elisabeth Engel
+        twitter: _lizzelo_
+        github:
+        website: https://about.me/elisabeth.engel
+    slides:
+    videos:
+      - https://youtu.be/W3_8sxUurzA
+    description: |-
+      Tiered of migrating thousand of code lines to the next popular JavaScript framework? Stuck in complexity and legacy code maintenance? Why not learn from the idea of microservices we already applied so well to our backend systems? In 1976 ABBA sang ‘Breaking up is never easy, I know’, having the end of a long relationship in mind. But splitting up a long maintained frontend monolith can be hard and difficult as well. Therefore, this talk will ease the pain of separation by guiding you through the process of selecting suitable technologies and building a parent app shell to deal with loading and routing of all child components. You’ll learn how to avoid common obstacles and gain momentum on the road to a new long-lasting and future-proof frontend architecture.
+
+  - title: "OUTBREAK: index-sw-9a4c43b4b4778e7d1ca619eaaf5ac1db.js"
+    lang: en
+    type: regular
+    time: 2017-11-14
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Alexander Pope
+        twitter: popeindustries
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cHDhGG-wPkk
+    description: |-
+
+  - title: "Rethinking web accessibility: Using AR for people with disabilities"
+    lang: en
+    type: regular
+    time: 2017-11-14
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Shwetank Dixit
+        twitter: shwetank
+        github: shwetank
+        website: https://shwetankdixit.com/
+    slides:
+    videos:
+      - https://youtu.be/Cpo-xtsKp-Q
+    description: |-
+
+  - title: WebAssembly for the rest of us
+    lang: en
+    type: regular
+    time: 2017-11-14
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Jan-Erik Rediger
+        twitter: badboy_
+        github: badboy
+        website: https://fnordig.de/
+    slides:
+    videos:
+      - https://youtu.be/SGkZbxIGDNE
+    description: |-
+
+  - title: "ECMAScript of the Future: ES2017 & Beyond"
+    lang: en
+    type: regular
+    time: 2017-11-14
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Brian Terlson
+        twitter: bterlson
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0opjPdK55QA
+    description: |-
+
+  - title: The parallel future of the browser (Closing Keynote)
+    lang: en
+    type: regular
+    time: 2017-11-14
+    room: Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Lin Clark
+        twitter: linclark
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xCBWS8G5Cm0
+    description: |-
+      The browser needs to get faster. The first browser was created almost 30 years ago. Since then, the browser has moved from its past as a simple document viewer towards a future as a fully-featured application platform. But those applications are testing the limits of current browsers, especially on devices like smartphones. To support those applications, browsers need to adapt to modern hardware… they need to go parallel. In this talk, Lin explains how the browser works today. She’ll share what browser vendors need to do over the next few years to ensure their browsers (and the web itself) meet the upcoming demands. 
