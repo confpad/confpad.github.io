@@ -1,7 +1,7 @@
-﻿conference:
+conference:
     
   name: RustConf 2017
-  status: incomplete
+  status: complete
   series: rustconf.com
   tags:
     - rust
@@ -20,3 +20,135 @@
   description: |-
 
 talks:
+
+  - title: A Tale of Teaching Rust
+    lang: en
+    type: regular
+    time: 2017-08-19
+    room:
+    authors:
+      - name: Andrew Brinker
+        twitter: andrewbrinker
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0PhfaFkzdBA
+    description: |-
+      Rust has a reputation of having a very steep learning curve, but is this reputation justified? In this talk I share my experiences teaching Rust to a group of 26 undergraduates as part of a class on programming language theory. None of the students knew Rust going in. Most knew only one language. I walk through the key concepts from Rust that programmers in all languages can use, and that language designers may want to steal, and I talk about how this class of fledgling programmers handled and understood those concepts, what they think of Rust now, and what all of this might mean for teaching Rust effectively in the future.
+
+  - title: Building Rocket
+    lang: en
+    type: regular
+    time: 2017-08-19
+    room:
+    authors:
+      - name: Sergio Benitez
+        twitter:
+        github: SergioBenitez
+        website:
+    slides:
+    videos:
+      - https://youtu.be/t_FUZ34ahBE
+    description: |-
+      Rocket is a web framework for Rust that delivers simplicity, reliability, and performance -- a rare combination. Rocket's ability to deliver in all three areas is largely enabled by Rust's code generation facilities. Based on developer input, Rocket generates code that eliminates boilerplate and leads to more robust, secure, and predictable web applications. This talk dissects Rocket and its code generation by describing how Rocket is built. Special attention is placed on elucidating Rocket's use of present and future code generation facilities in Rust.
+
+  - title: Shipping a Solid Rust Crate
+    lang: en
+    type: regular
+    time: 2017-08-19
+    room:
+    authors:
+      - name: Michael Gattozzi
+        twitter:
+        github: mgattozzi
+        website:
+    slides:
+    videos:
+      - https://youtu.be/t4CyEKb-ywA
+    description: |-
+      There's a lot more to releasing a quality crate than just the code. Automating the testing to make sure nothing breaks, checking for test coverage, making sure there are examples, providing documentation are important in making your crate solid and easy to use. Beyond that how do you get people to actually use your crate? You might not know how to increase the visibility of your crate or of small things that can be done to get interest in your crate. This talk covers all of these aspects to help improve the quality of ones crate beyond the code itself.
+
+  - title: 'Menhir and Friends: the State of the Art of Parsing in Rust'
+    lang: en
+    type: regular
+    time: 2017-08-19
+    room:
+    authors:
+      - name: Naomi Testard
+        twitter:
+        github: LeoTestard
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Pw3wrVBhZ6M
+    description: |-
+      In this talk we present Menhir, a very powerful LR parsers generator, and how to use it to write Rust parsers (and lexers). We also show some details of the internals of Menhir’s backend for Rust, as well as a short comparative survey of other similar parsing tools and techniques for Rust out here.
+
+  - title: Type System Tips for the Real World
+    lang: en
+    type: regular
+    time: 2017-08-19
+    room:
+    authors:
+      - name: Sean Griffin
+        twitter: sgrif
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/wxPehGkoNOw
+    description: |-
+      Have you ever looked at some of the more exotic capabilities of Rust's type system and wondered “why”? Why on earth would I ever want a zero sized type? How do I efficiently implement a deeply recursive type? Just what do monomorphization and type erasure actually mean? In this talk we'll look at some real world examples from inside Diesel to answer these questions and more. You'll come away from this talk with a stronger understanding of how to use Rust's generics, traits, and exotically sized types.
+
+  - title: Improving Rust Performance Through Profiling and Benchmarking
+    lang: en
+    type: regular
+    time: 2017-08-19
+    room:
+    authors:
+      - name: Steve Jenson
+        twitter: stevej
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hTHp0gjWMLQ
+    description: |-
+      This talk will compare and contrast common industry tool support for profiling and debugging Rust applications. We'll discuss our experiences finding and fixing performance problems in a production Rust application.
+
+  - title: Fast, Safe, Pure-Rust Elliptic Curve Cryptography
+    lang: en
+    type: regular
+    time: 2017-08-19
+    room:
+    authors:
+      - name: Isis Lovecruft
+        twitter: isislovecruft
+        github:
+        website:
+      - name: Henry De Valence 
+        twitter: hdevalence
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/tE57KBK_GW4
+    description: |-
+      This talk discusses the design and implementation of curve25519-dalek, a pure-Rust implementation of operations on the elliptic curve known as Curve25519. We will discuss the goals of the library and give a brief overview of the implementation strategy. We will also discuss features of the Rust language that allow us to achieve competitive performance without sacrificing safety or readability, and future features that could allow us to achieve more safety and more performance. Finally, we will discuss how -dalek makes it easy to implement complex cryptographic primitives, such as zero-knowledge proofs.
+
+  - title: 'Closing Keynote: Safe Systems Software and the Future of Computing'
+    lang: en
+    type: regular
+    time: 2017-08-19
+    room:
+    authors:
+      - name: Joe Duffy
+        twitter: xjoeduffyx
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/EVm938gMWl0
+    description: |-
+      Someday in the future, all important systems software on the planet will be written in a safe programming language. The questions are, when, and how do we get there? In this talk, I will describe my experiences at Microsoft building a new operating system written entirely in a Rust-like safe systems language. I will also talk about my subsequent efforts taking those experiences and applying them to the heart of Windows, and the associated technical and cultural challenges.
