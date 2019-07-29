@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: DelEx Conf 2018
-  status: incomplete
+  status: complete
   series: delex-conf.com
   tags:
     - devops
@@ -18,5 +18,508 @@
     country: Belarus
     city: Minsk
   description: |-
+    Delex stands for Delivery Excellence. Proper use of Test Automation and DevOps can shift delivery to a new heights.We introduce two-day event filled up with progressive ideas from changemakers and the most inspiring thinkers.Talks on conference will cover different level of Automated Testing, DevOps activities and tools.
 
 talks:
+ 
+  - title: New in Selenium 4.0
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Alexey Barantsev
+        twitter: barancev
+        github: barancev
+        website:
+    slides:
+      - https://delex-conf.com/2019/new-in-selenium-4-0/
+    videos: 
+      - https://youtu.be/7_Q8x37fPLw
+    description: |-
+      The development of Selenium 3 is officially discontinued. The next major version of Selenium 4 is being prepared for release. New commands that have been recently added to the W3C WebDriver standard will appear. A lot of legacy code will be removed, including the driver for “old” versions of Firefox. But the main changes will take place in Selenium Server and Selenium Grid. In short, the server will be completely redesigned, the new implementation is written from scratch. Yes, communication protocols will remain old, but the internal device will change beyond recognition. In particular, if earlier Selenium Grid consisted of two types of nodes (hub and end nodes), the new version will have four types of nodes. In my report, I will try to explain why we changed everything, who will get better from this, what will be the possibilities for customizing the grid in the new version and how to migrate from the old version to the new one.
+
+  - title: How we deliver a Robot
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Nikolay Lagutko
+        twitter: gerzog613
+        github: nikolaylagutko
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/wKkmpI_re2o
+    description: |-
+      How Rozum Robotics delivers source code to Robots.Delivering software to Robot is slightly different to modern delivery & DevOps techniques what is the components of delivery that we want to sent to Robot our pipelines: from source code to a release artifact customer pipelines: how to install update on Robot
+
+  - title: Test Driven Infrastructure with Serverspec & Kitchen CI
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Adedayo Akinpelu
+        twitter: Haroldsphinx
+        github: haroldsphinx
+        website:
+    slides:
+      - https://delex-conf.com/2019/test-driven-infrastructure-with-serverspec-kitchen-ci/
+    videos: 
+      - https://youtu.be/MJW2jq0ht8E
+    description: |-
+      Automated Testing cannot be overemphasized in good DevOps practice but it seems that less attention is paid to it when it comes to Automating infrastructure provisioning, By working with automated RSpec testing of our real infrastructure systems, I have bee able to reduce the uncertainty around the operating environments, and also reduce the amount of manual correctness while provisioning new infrastructures and I will like to share this knowledge amongst other DevOps engineer out there, because I realize it is not a common practice
+
+  - title: Oreo, Nougat, Marshmallow and Lollipop effective Android testing in 2019
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Ivan Krutov
+        twitter: vania-pooh
+        github: vania-pooh
+        website:
+    slides:
+      - https://delex-conf.com/2019/oreo-nougat-marshmallow-and-lollipop-effective-android-testing-in-2019/
+    videos: 
+      - https://youtu.be/nk--NaE_a0M
+    description: |-
+      Today, when more than half of Internet traffic in the world comes from mobile devices, the question of effective testing for mobile platforms is more acute than ever. Last summer I showed new Docker images for testing mobile web and Android applications using Selenoid. In recent months, I have been approached by many people with questions about how and for what purposes these images can be used and what are the limitations. In this report, I would like to elaborate on that.
+
+  - title: Monads for Testers
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Igor Khrol
+        twitter:
+        github: Khrol
+        website:
+    slides:
+      - https://delex-conf.com/2019/monads-for-testers/
+    videos: 
+      - https://youtu.be/F1SokW2DvXI
+    description: |-
+      Step by step functional programming (or some part of it) became a daily routine of almost every software developer. At the same time, there might be an opinion that “monads” and “pure functions” are just toys for bored matured engineers. And testers should not look there for sure - they should test software, it doesn’t matter how it’s written. In my talk, I want to show that functional programming has a clear impact on software quality. Lots of defects will not even appear in the code which is written functional way. If you are interested not only in testing and finding bugs but also in conditions how to prevent them from the beginning - come to listen to my speech. We’ll check examples written in Scala working on JVM but Java or C# knowledge is more than enough to understand the material.
+
+  - title: Securing a search engine while maintaining usability
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Alexander Reelsen
+        twitter: spinscale
+        github: spinscale
+        website:
+    slides:
+      - https://delex-conf.com/2019/securing-a-search-engine-while-maintaining-usability/
+    videos: 
+      - https://youtu.be/OXJpE_FrLVA
+    description: |-
+      Elasticsearch - being an integral part of the Elastic Stack - is known for its full-text search and analytics ability. Elasticsearch is running on tens of thousands of nodes world-wide, so despite all the functionality squeezed into new releases, we also have to think about security, all the time. This talk will cover different aspects of Elasticsearch, explain some features and (sometimes unpopular) decisions and the reasoning behind.
+
+  - title: Cypress – charm and easy
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Yaroslav Pernerovsky
+        twitter:
+        github: ysparrow
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/87ikrlIIT8Y
+    description: |-
+      Selenium is a great tool for browser automation for many years. But Selenium is not able to cover all needs of modern web testing. Nowadays we have new powerful kid on the block. The tool called Cypress. I prepared a practical walk through which will help you to start automation instantly.
+
+  - title: Device server for android farm or running more than 30k tests every day
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Roman Ivanitsky
+        twitter:
+        github:
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/UvUKuZtzK8c
+    description: |-
+      At ok.ru we run more than 30k end-to-end android tests every day - more than 300 for each PR. In this talk I'll show how we do this.
+
+  - title: Stability in Unstability. Self-healing test automation
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Anna Chernyshova
+        twitter:
+        github:
+        website:
+    slides:
+      - https://delex-conf.com/2019/testcases-as-a-code/
+    videos: 
+      - https://youtu.be/qKdD1WjVrcc
+    description: |-
+      Every test automation engineer probably faced with the problem of stability of the locators and with the needs of their frequent correction when updating the product. This routine work could be automated. There are some well-known solutions for self-healing test automation, like Mabl, testim.io, Applitools but they are not suitable for most kind of projects and has obvious disadvantages. There is a new idea how to make more universal solution that is compatible with any project. Im going to tell you about the proof-of-concept of this idea and how it differs from the existing solutions. At what stage of development we are now, what problems we faced and what is the ultimate goal.
+
+  - title: Real use-cases of using AWS Lambda for infrastructure tasks
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Artem Nikitin
+        twitter: artemnikitin
+        github: artemnikitin
+        website:
+    slides:
+      - https://delex-conf.com/2019/real-use-cases-of-using-aws-lambda-for-infrastructure-tasks/
+    videos: 
+      - https://youtu.be/IljpCgmBx7Q
+    description: |-
+      In this talk, we will look at the application of the serverless approach on the example of AWS Lambda to solve various practical problems related to the infrastructure. It will cover both the practical application of AWS Lambda and the issues of testing, deployment and monitoring of serverless applications.
+
+  - title: Building self-managing Test Data marketplace
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Dzmitry Humianiuk
+        twitter: DzmitryHumianiuk
+        github: DzmitryHumianiuk
+        website:
+    slides:
+      - https://delex-conf.com/2019/building-self-managing-test-data-marketplace/
+    videos: 
+      - https://youtu.be/IgyHqtVIQl4
+    description: |-
+      In a world of testing pipelines, when we need to run tests against every code change, the problem of sustainable, comprehensive and variative data starts to arise. Testing data, which in the maximum approximation can repeat all the conditions available in the production, in order to cover as much as possible those conditions that are critical for business and have a clear presence in the production. The subject of test data management is quite extensive, so we will try to understand it in order. Starting from the stage of obtaining secure production data, to virtualization and synthetic generation. And let's look at examples of how to prepare data production for test environments, and analyze the example of an open-source application, as it can be implemented for your project.
+
+  - title: Wargaming ElasticSearch Cloud architecture
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Denis Zheleztsov
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ouloiciOlqc
+    description: |-
+      In this talk, I will tell about our stateful cloud architecture based on the Hashicorp stack - Consul, Nomad, Vault. I will tell about problems what we are resolved, security, monitoring, and performance.Currently, we can accept 400k docs/s per cluster in the cloud at the peak.
+
+  - title: Automation of Security scanning easy or cheese
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Karen Florykian
+        twitter:
+        github:
+        website:
+    slides:
+       - https://delex-conf.com/2019/automation-of-security-scanning-easy-or-cheese/
+    videos: 
+       - https://youtu.be/cLZrPFh1-OE
+    description: |-
+      I will share my experience of SDLC enablement on enterprise level. Uncover pitfalls and gotchas about building of developer friendly CI enabled service using industry standard static and dynamic scanning tools, CI platforms, ReportPortal, Carrier platform and Jira integration service.
+
+  - title: Building loose-coupled continuous testing platform
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Artem Rozumenko
+        twitter:
+        github:
+        website:
+    slides:
+      - https://delex-conf.com/2019/building-loose-coupled-continuous-testing-platform/
+    videos:
+      - https://youtu.be/yGsdumyOERk
+    description: |-
+      I will speak about my experience of building distributed and highly decoupled platform for continuous test execution. It contains of distributed tasks queue, integrations with test result management systems, a bit of analytics, and bunch of docker containers and placed somewhere in so called DevTestSecOps area. I definitely bring practical cases how it helped to roll out enterprise level performance and SSDLC transformation programs.
+
+  - title: Test Automation. Worst Practices
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Elena Kulgavaya
+        twitter: 
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/iKM7e812F20
+    description: |-
+      Let’s carefully analyze some common test automation problems with real examples from Juno, and recommendations on how to diagnose and fix them.Case studies of the problems we faced in Juno and recommendations on how to recognize and fix them
+
+  - title: The introduction of DevOps in large scale organizations
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Ivan Evtuhovich
+        twitter: evtuhovich
+        github: evtuhovich
+        website:
+    slides:
+      - https://delex-conf.com/2019/the-introduction-of-devops-in-large-scale-organizations/
+    videos:
+      - https://youtu.be/OzQD5L3Ij6o
+    description: |-
+      DevOps is often only tried within the IT Department or, worse, within the SOFTWARE development Department. As our experience shows, this approach takes a lot of resources, but gives only minor improvements in the speed of delivery, SOFTWARE quality and other non-functional characteristics. As part of the report, we will try to take another step "up" to look at the SOFTWARE delivery process from across the organization and discuss what can be done to ensure that the implementation of DevOps does not become a cargo cult.
+
+  - title: DevOps checklist or how to understand where is your team in DevOps landscape
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Mikalai Alimenkou
+        twitter: xpinjection
+        github: xpinjection
+        website:
+    slides:
+      - https://delex-conf.com/2019/devops-checklist-or-how-to-understand-where-is-your-team-in-devops-landscape/
+    videos:
+      - https://youtu.be/2HmQVB12nPQ
+    description: |-
+      DevOps become a buzzword in a last few years. Several companies, development and product teams have achieved quite impressive results in this area making cultural changes, transforming their processes and practices, introducing new roles, tools and techniques.Do you think is achievable for you team or it's still a bunch of drama? There is no common approach for measuring achievements and understanding how much DevOps'ich the current team/company is. In this talk I will provide attendees with basic checklist to start with and some reliable tools/techniques to monitor progress of “DevOps transformation”.
+
+  - title: 'Inside the Elastic: Testing a Well Known Open Source Stack'
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Alexander Reelsen
+        twitter: spinscale
+        github: spinscale
+        website:
+    slides:
+      - https://delex-conf.com/2019/inside-the-elastic-stack-testing-and-releasing-a-well-known-open-source-stack/
+    videos:
+      - https://youtu.be/1CCaM4JV8QQ
+    description: |-
+      Maintaining a well known open source stack is no easy task. Despite fixing bugs and adding features, releases need to be aligned among products and each product needs to be tested on its own. This talk starts at the lowest level of Elasticsearch, explaining how we run unit tests, moves up to integration tests, packaging tests, backwards compatibility tests, performance tests in testing phases – all of this on different operating systems and JVM versions. Attendees will get to know how our CI looks and how all of our products (Elasticsearch, Logstash, Kibana, Beats) are released at the same moment in order to ease the upgrade process for our end users.
+
+  - title: infinite space for your tests
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Alexei Khursevich
+        twitter:
+        github:
+        website:
+    slides:
+      - https://delex-conf.com/2019/kubernetes-infinite-space-for-your-tests/
+    videos:
+      - https://youtu.be/37xNUtSYl7o
+    description: |-
+      I’d like to share expertise of using Selenium and Jenkins clusters deployed in Kubernetes based on AWS. I will explain how Kubernetes helps to scale infrastructure and save budgets for cloud services.
+
+  - title: PowerShell, graphs, topology and real use-cases
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Andrey Vernigora
+        twitter:
+        github:
+        website:
+    slides:
+      - https://delex-conf.com/2019/powershell-graphs-topology-and-real-use-cases/
+    videos:
+      - https://youtu.be/A7KXry22WkQ
+    description: |-
+      This talk will be about the experience of using “automation“ to solve all sorts of engineering problems. What kind of tasks?Migration.Recently, it has become fashionable to build “hybrid clouds “and migrate some applications, or even” application systems " to a public cloud, such as Microsoft Azure. And this talk is going to talk about my way of automating the hybrid stack problem that I was facing.
+
+  - title: Test Impact Analysis. Smarten up your pipeline and reduce t
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Bart Szulc
+        twitter: BartSzulc
+        github:
+        website:
+    slides:
+      - https://delex-conf.com/2019/test-impact-analysis-smarten-up-your-pipeline-and-reduce-test-time/
+    videos:
+      - https://youtu.be/hWi819DCMrE
+    description: |-
+      It’s always been a problem of mine to understand what code coverage reports want to tell me. Couldn’t wrap my head around this one particular number they come up with, the percentage of code covered with tests. Is the current percentage ok? Should it be higher? Is 80% enough or should I do something to reach magical 100%? I had to find answer to those questions while working on major refactor of a system. The problem was, is the coverage good enough to give green light the refactor. To answer the question I decided to first look at the coverage from the very most low level. Looked at the lines that are and aren’t covered. Driving the analysis with risk. Assume that all types of automated regression tests you have in your project cover 80% of your production code. This coverage is assured by unit tests, API level tests, webdriver tests and other system level tests. Besides knowing 80% of code is covered with a test, the number also tells you that 20% of your code is missing any test. Now switch from percentage to number of lines. In my case, the system we were about to refactor consisted of over million of lines of code. One fifth of a million is a lot of code missing coverage… a lot… but… not every line is equal in value and thus equal in risk. So what was the value and risk associated with each line missing coverage? One way of looking at risk is by the probability of something unwanted occurring multiplied by the impact it causes. Missing test for a line of code is definitely a risk. Nothing will tell you when the line is wrongly modified and that the modification is going to cause a bug in production.
+
+  - title: Migration to the cloud, DevOps prospective
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Nikalai Stakanov
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/YUX0mkMx-tE
+    description: |-
+      This talk will share how to migrate your application to the cloud. Usage of service model, generic cloud usage, extended with real examples
+
+  - title: Design Decisions for Perfect JS Testing Framework
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Michael Bodnarchuk
+        twitter:
+        github: DavertMik
+        website:
+    slides:
+      - https://delex-conf.com/2019/design-decisions-for-perfect-js-testing-framework/
+    videos:
+      - https://youtu.be/u0XbBnsFpgc
+    description: |-
+      JavaScript has the biggest ecosystem. Building any system on top of it expects a good understanding of all modern libraries and approaches. Before writing any automated test you should consider how it should be executed. And any taken decision will last for years with your tests. How to create a stable and efficient testing framework? What makes a perfect testing framework for you?
+
+  - title: Flaky tests 2.0
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Andrey Solntsev
+        twitter: asolntsev
+        github: asolntsev
+        website:
+    slides:
+      - https://delex-conf.com/2019/flaky-tests-2-0/
+    videos:
+      - https://youtu.be/ibx8nVvt-Js
+    description: |-
+      Flaky UI tests are headache of Test Automation Engineer. Second version of  famous talk. You are waiting for new examples and eternal tips on how to make your tests stable.
+
+  - title: A Research Study into DevOps bottlenecks
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Baruch Sadogursky
+        twitter: jbaruch
+        github: jbaruch
+        website:
+    slides:
+    videos:
+      - https://youtu.be/rfa0uGGhkqU
+    description: |-
+      We asked a Fortune 500 software delivery leaders what holds them back. This talk is the analysis of their insights on what bottlenecks they encountered in their DevOps journey. We share discoveries on what helped them to overcome the bottlenecks and how they plan to deliver even faster. Using this we define some unifying themes on what areas provide the greatest return on investments of time and resources.   
+
+  - title: Test Automation for Bluetooth Connected IoT Devices
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Lasse Häll
+        twitter:
+        github: LasseHall
+        website:
+    slides:
+      - https://delex-conf.com/2019/test-automation-for-bluetooth-connected-iot-devices/
+    videos:
+      - https://youtu.be/iEnPn08wMik
+    description: |-
+
+  - title: How IntelliJ IDEA plugin can help you in QA Automation
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Artem Eroshenko
+        twitter: eroshenkoam
+        github: eroshenkoam
+        website:
+    slides:
+      - https://delex-conf.com/2019/how-intellij-idea-plugin-can-help-you-in-qa-automation/
+    videos:
+      - https://youtu.be/KEZM7Ni7yY8
+    description: |-
+      This Talk will discuss how and why to write your plugins for IntelliJ IDEA.Consider some of problems that were solved with the help of plugins on an example.Interaction with external systems when writing tests. Creating new entities in the external system and getting some data.
+
+  - title: Back-end tests not evident but simple way to improve your testing
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Alexander Chumakin
+        twitter: alexandrchumakin
+        github: alex_chumakin
+        website:
+    slides:
+      - https://delex-conf.com/2019/kubernetes-infinite-space-for-your-tests/
+    videos:
+      - https://youtu.be/kb-mrnWwkD8
+    description: |-
+      I’d like to share expertise of using Selenium and Jenkins clusters deployed in Kubernetes based on AWS. I will explain how Kubernetes helps to scale infrastructure and save budgets for cloud services.
+
+  - title: Howdy Microsoft Azure High Availability web application
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Artem Romanchik
+        twitter:
+        github:
+        website:
+    slides:
+      - https://delex-conf.com/2019/howdy-microsoft-azure-high-availability-web-application/
+    videos:
+      - https://youtu.be/cPzf_bR4e9Q
+    description: |-
+      This talk is about Architecture of a High Availability web application in Microsoft Azure.Will describe on example of Conference site delex-conf.com, how can HA applications can be build. Easy understandable introduction into Azure Stack.
+
+  - title: We’ve got DevOps Let’s fire all testers
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Baruch Sadogursky
+        twitter: jbaruch
+        github: jbaruch
+        website:
+    slides:
+      - https://delex-conf.com/2019/we-ve-got-devops-let-s-fire-all-testers/
+    videos:
+      - https://youtu.be/WHR_2uZTtXk
+    description: |-
+      “The DevOps approach is to include automation… at all steps of the software build” (c) Wikipedia “What do you mean you want to automate EVERYTHING?” — testers were trying to understand “What do you mean you want to automate EVERYTHING?” — testers were trying to understand Keep your non-stick coated chairs prepared, it gonna burn! Baruch will share the vision on automation of everything in a world of real DevOps, and we will find out shall we look for a new job or not?   
+      
