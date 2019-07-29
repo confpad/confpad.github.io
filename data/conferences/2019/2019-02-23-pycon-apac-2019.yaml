@@ -218,7 +218,7 @@ talks:
         website:
     slides:
     videos:
-      - Takanori Suzuki
+      - https://youtu.be/iex9DAGxl_o
     description: |-
       "Today, there are many tasks to repeat in the company/community. In addition, we often use chat such as Slack for daily communication. So, Takanori-san created a chatbot(PyCon JP Bot: https://github.com/pyconjp/pyconjpbot) to automate various boring tasks related to holding PyCon JP. In this talk, Takanori-san will first explain how to create a chatbot using slackbot (https://github.com/lins05/slackbot). He will tell you how to register bot's integration on Slack and how to create a simple bot in Python that responds to specific keywords. As specific examples, Takanori-san will explain how to make a bot command to perform the following operations and technical problems. - Emoji reaction - Calculator: SymPy - Karma(plusplus): Peewee - Search issues, display issue details: JIRA API - Create multiple issues from a template: JIRA API, Sheets API - Search files from Google Drive: Google Drive API - Account management of G Suite(user, alias, group and member): G Suite API - etc."
 
