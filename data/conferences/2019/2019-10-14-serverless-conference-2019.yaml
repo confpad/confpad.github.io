@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: Serverless Architecture Conference 2019
-  status: incomplete
+  status: complete
   series: serverless-architecture.io
   tags:
     - devops
@@ -18,5 +18,220 @@
     country: Germany
     city: Berlin
   description: |-
-
 talks:
+
+  - title: The Serverless First Mindset
+    lang: en
+    type: regular
+    time: 2019-10-15
+    room: Maritim proArte Hotel
+    authors:
+      - name: Jared Short
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Approaching problems with a serverless first mindset means rethinking, re-architecting, and rethinking again. We’ll talk about interesting problems and case studies that may come up in serverless architectures and how we can approach them from a new angle to bring them into the age of serverless computing. Serverless isn’t just FaaS, it isn’t just about the cloud. Let’s put our concept of serverless architectures to the test.
+
+  - title: Practical Auth in a Serverless World
+    lang: en
+    type: regular
+    time: 2019-10-15
+    room: Maritim proArte Hotel
+    authors:
+      - name: Andreas Grimm
+        twitter: _andreasgrimm
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      It became essential for businesses to protect their applications, services and customer data from attackers. If you want to stay competitive, knowing how to efficiently and easily apply security and auth while being aware of the most common pitfalls is key in today’s serverless world. Traditional machine-to-machine auth approaches where you can rely on a stateful environment fall short in a modern serverless and thus stateless world. After a short recap of some auth fundamentals, you’ll learn how to efficiently apply authentication to Azure Functions without compromising security – using an external Identity Provider like “Auth0”, “OAuth 2”, “JWT”, the secrets management system “Azure Key Vault”, “Azure Managed Identities” and “Cloudflare Workers”.
+
+  - title: How mature serverless organisations troubleshoot and debug their environment
+    lang: en
+    type: regular
+    time: 2019-10-15
+    room: Maritim proArte Hotel
+    authors:
+      - name: Erez Berkner
+        twitter: erezberkner
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      3:32 am. PagerDuty wakes you up, DynamoDB is throttling. You open CloudWatch – 542 issues in the last hour. – How do you zoom in on the root cause? – How do you zoom out to understand the business impact? – How do you troubleshoot in an everchanging environment? In this session, we will share the new methodologies for troubleshooting complex serverless environments, based on real-world experience.
+
+  - title: Architectural Patterns in the Serverless Journey of shop.LEGO.com
+    lang: en
+    type: regular
+    time: 2019-10-15
+    room: Maritim proArte Hotel
+    authors:
+      - name: Sheen Brisals
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Serverless! Is it yet another buzzword? Is it real? Is it for big corporates? Or,is it for everyone? Where can we find answers to such questions? Well, the best way to answer such concerns is to simply talk about your serverless experience and take the audience through the journey you have been through! And that is exactly what this talk is aimed at. The Shopper Engagement Technology team at LEGO have been busy migrating the legacy monolith eCommerce platform onto a cloud based solution on AWS. This employs serverless and managed services at its core within an agile development process. In this talk I will share the experience of the team, going through some of the architectural patterns and serverless best practices employed during this journey.
+
+  - title: The Real Cost of Pay-Per-Use in Serverless
+    lang: en
+    type: regular
+    time: 2019-10-15
+    room: Maritim proArte Hotel
+    authors:
+      - name: Nitzan Shapira
+        twitter: nitzanshapira
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Pay-per-use – we all like it, right? It’s one of the core principals of serverless, but it can also be a challenge. How can we plan our monthly budget if we don’t know what our bill is going to look like? What are we really spending our money on? And of course, what needs to be monitored? Pay-per-use is one of the major drivers of serverless adoption. Small startups love it because their monthly bill is almost zero. Large organizations are attracted to improving their IT spending when the old servers have very low utilization and are mostly idle. While it sounds promising, it also produces a massive challenge – paying-per-use means that you don’t know how much you are going to pay – because most of us don’t know exactly how much we are going to use. In addition, new and unique challenges arise – a bug in the code can suddenly lead to a very high cloud bill, as well as an external API that has a very slow response – causing us to pay for this entire time.
+
+  - title: Modern event-driven workloads with Knative
+    lang: en
+    type: regular
+    time: 2019-10-15
+    room: Maritim proArte Hotel
+    authors:
+      - name: Matthias Wessendorf
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "Knative is a Kubernetes-based platform that comes with a set of building blocks to build, deploy, and manage modern serverless workloads. Knative consists of three major areas: Build, Serving and Eventing. The session gives you an introduction of the Knative Eventing component and walks you through an end-to-end demo, showing the lifecycle of event-driven workloads on Knative. You’ll see integration of 3rd party events, from systems like Apache Kafka, and how your application can be hooked up to a firehose and connect your service to process incoming events, leveraging built-in Knative features to provide request driven compute, so that services can autoscale, including down to 0, depending on the actual throughput. If you are interested in learning about event-driven serverless developer experience on Kubernetes, this session is for you!"
+
+  - title: Applying chaos engineering to build resilient serverless applications
+    lang: en
+    type: regular
+    time: 2019-10-15
+    room: Maritim proArte Hotel
+    authors:
+      - name: Emrah Samdan
+        twitter: emrahsamdan
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "Serverless applications are the epitome of highly distributed, microservices applications. Execution happens everywhere – both inside and outside the serverless compute environment. For example, your functions could be triggered by an external service, then execute some code within AWS Lambda, then send a request over to a database, which then requires AWS Lambda to perform an update in a second data store. You might be able to predict and design for certain troublesome issues but there are many, many more that you probably will not be able to easily plan for. How do you build a resilient system under these highly distributed circumstances? The answer is chaos engineering. Join us as we walk through: * The unique challenges of building a highly resilient serverless app * Why you need to design for problems you cannot predict and cannot easily test for * How you can use chaos engineering to build a resilient serverless application * How observability platforms like Thundra can help you understand system behavior and prepare for unpredictable failure scenarios"
+
+  - title: How to use probabilistic inference programming for application orchestration in serverless architectures
+    lang: en
+    type: regular
+    time: 2019-10-16
+    room: Maritim proArte Hotel
+    authors:
+      - name: Veselin Pizurica
+        twitter: pizuricv
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "As companies are adopting serverless architectures and moving away from monolith and microservice-based deployments, they realise that the challenge lies not only in the new rewrite of an old application, but also in the shift towards a new way of thinking. We see many serverless architecture patterns today, such as function chaining, function chaining with rollback (for transaction), ASync HTTP, fan-out and more. We also have a number of tools on the market that ease the application development using serverless, of which IBM Openwhisk (via action chaining or using function composites) and Amazon Step functions are some of the more popular. In this talk, we will present a new alternative way of building serverless applications based on the orchestration of typed functions, using the probabilistic inference programing paradigm. Inference based programming brings about the best of the current modelling approaches: the expressiveness and simplicity of decision trees, the high debugging capabilities of state machines, the scalability and flexibility of flow based programming and superior logic expressions to forward chaining approaches. The talk will include a live demo of how to use probabilistic inference programming for a complex IoT application."
+
+  - title: Bottlenecks in Serverless Applications
+    lang: en
+    type: regular
+    time: 2019-10-16
+    room: Maritim proArte Hotel
+    authors:
+      - name: Nitzan Shapira
+        twitter: nitzanshapira
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Managed services have become a main part of modern cloud applications. Utilizing existing services via APIs provides developers with great flexibility and velocity. However, the significant reliance on these services, which you have no control over, puts your application’s performance and costs in danger. In recent years, managed SaaS services, usually consumed via APIs, have become extremely popular. They also provide developers and system architects ways to build more robust applications. With the growth of serverless applications, APIs have become even more useful, due to the limited resources and running time of the serverless functions, which sometimes forces you to pick an existing service. However, these services have their own behaviour, running time and latency, which in many cases greatly affects the overall performance of your own applications. Moreover, in pay-per-use environments which many people like these days, the implications can be huge – a slowness in a managed service can cause you to end up with an inflated cloud bill.
+
+  - title: A start-up like way of integrating serverless-framework, API Gateway and message queue to handle webhooks for 3rd party services
+    lang: en
+    type: regular
+    time: 2019-10-16
+    room: Maritim proArte Hotel
+    authors:
+      - name: Jonas Schweizer
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "In this session you will learn about the benefits of Serverless for Start-up and why LASERHUB sees a lot of potential by adopting Serverless Framework in early use cases. By limiting the scope of Serverless, we balanced risk and value add, but entered a new world for development and DevOps in a 2-weeks time span. This talk should address software engineers with an entrepreneurial mindset who are willing to integrate new technologies, provide new challenges to their team and always need to balance cost, value and risk. Attendees will learn about a technical solution incl. Serverless Framework, Infrastructure as Code (functions, AWS resources, domains, authentication), API Gateway and message-based decoupling See also: https://medium.com/@Joschwe/being-a-startup-cto-in-stuttgart-shaping-the-monolith-dade51648158"
+
+  - title: "Playing with Fire : Build a Web Application with Firebase"
+    lang: en
+    type: regular
+    time: 2019-10-16
+    room: Maritim proArte Hotel
+    authors:
+      - name: Michael Dowden
+        twitter: mrdowden
+        github:
+        website:
+      - name: Michael McGinnis
+        twitter: mybrokenwalls
+        github:
+        website: https://endlessmirror.com/
+    slides:
+    videos:
+    description: |-
+      "Come see how easy it can be to use Google Firebase to take your app idea from concept to production. In this workshop you will build your own messaging application, start to finish, with support for images, markdown, and connecting with friends. While building this web app will learn about many Firebase features, including: * Firestore * Cloud Functions * Cloud Storage * Hosting * Authentication * Security Rules * Client and Admin SDK. Code will be in JavaScript & Node.js from a git repository, so please be prepared to start coding. You will also need a Google account to sign in to Firebase."
+
+  - title: Pragmatic Serverless Microservices – with Azure Functions & Co.
+    lang: en
+    type: regular
+    time: 2019-10-16
+    room: Maritim proArte Hotel
+    authors:
+      - name: Christian Weyer
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      -
+    description: |-
+      Why does it have to be Serverless versus Microservices? Couldn’t it be rather Microservices with Serverless? Based on some of the well-accepted principles of Microservices we can use Serverless architectures and technologies to build highly focused Microservices – which we might call Nanoservices. Christian Weyer will show you a pragmatic approach how to build Nanoservices in Azure with Azure Functions, Azure Service Bus, Azure Storage & friends. Join him to see Serverless Azure in action, with .NET Core, JavaScript and Java – beyond the typical Functions-as-a-Service examples.
+
+  - title: "Monitoring serverless applications on AWS: the monitoring monster becomes your friend."
+    lang: en
+    type: regular
+    time: 2019-10-16
+    room: Maritim proArte Hotel
+    authors:
+      - name: Nick Van Hoof
+        twitter: TheNickVanHoof
+        github:
+        website: https://nickvanhoof.com/
+    slides:
+    videos:
+    description: |-
+      Serverless is fun and easy. But what about monitoring? Is there a monitoring monster lurking around the corner? I’ll admit, there are tons of options to tackle the monster. But what features does AWS offer? And more importantly, how can you best use them to make sure you aren’t called out of bed at night? In this talk I’ll speak from the heart and share my own experience from using serverless in production for more than a year. – Should you structure your logs? Of course, but why? – How do you set up distributed tracing with XRAY? – Provide visibility using CloudWatch metrics and dashboards – Get insight in your log date using CloudWatch Logs Insights. Using the tools and best practices you’ll tackle the monster no doubt. I’ll do you one better. There won’t be a monster, you’ll have a new best friend!
+
+  - title: Build a powerful recommendation engine using AWS Rekognition and Serverless in 72 hours
+    lang: en
+    type: regular
+    time: 2019-10-16
+    room: Maritim proArte Hotel
+    authors:
+      - name: Samuel James
+        twitter:
+        github:
+        website: https://samuelabiodun.com/
+    slides:
+    videos:
+    description: |-
+      One of the advantages of building on Serverless is the drastic reduction in development time and time to market. This session will show you how to build a powerful recommendation engine using image recognition technology and all run on server-less in 72 hours. There will be a demo session. This talk is rated level 200-300 with a target audience of engineers, architects, and developers and assumed you have some knowledge of Amazon web services.
