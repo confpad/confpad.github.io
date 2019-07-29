@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: ReactFoo 2019
-  status: incomplete
+  status: complete
   series: reactfoo.in
   tags:
     - javascript
@@ -18,5 +18,152 @@
     country: India
     city: Bangalore
   description: |-
+    ReactFoo Bangalore will bring together 250 developers working with React, and who are invested in building a space for conversations around experiences using React in production.
 
 talks:
+
+  - title: Writing good components
+    lang: en
+    type: regular
+    time: 2019-03-02
+    room: Auditorium 2, NIMHANS Convention Centre
+    authors:
+      - name: Siddharth Kshetrapal
+        twitter:
+        github:
+        website: https://sid.studio
+    slides:
+    videos:
+      - https://youtu.be/8OFkp1CLjWA
+    description: |-
+      At the core of using React is writing components. In it’s early days, React got popular because of it’s composition model. The contract with the framework is that we’d write good components and React will take care of the rest. This is a collection of evergreen tips/advice that I’ve learned over the course of 3 years working with React - building products for users, a design system and a few open source libraries.
+
+  - title: The mistakes we fixed - A retrospective of the Treebo mobile app
+    lang: en
+    type: regular
+    time: 2019-03-02
+    room: Auditorium 2, NIMHANS Convention Centre
+    authors:
+      - name: Kashish Grover
+        twitter: _kingofnull
+        github:
+        website: kashishgrover
+    slides:
+      - https://speakerdeck.com/kashishgrover/the-mistakes-we-fixed
+    videos:
+      - https://youtu.be/be0HybdYosM
+    description: |-
+      "We at Treebo love React Native, and over the past 2 years of us using it, we made a lot of mistakes. Some we fixed, and some we continue to fix. In this talk, we want to share with the community our experience and journey of building a React Native App for scale. In this talk, I will be speaking to you about Treebo’s experience with React Native. I’ll be talking about HOW WE FIXED the following 8 mistakes that we made over time while building our app: Library Stupidity Chaotic Rules Bad Debugging Experience No CI/CD or Test Automations Unsystematic Components Janky Performance Poor Production Performance Monitoring Engineering Baggage"
+
+  - title: "Keynote: Building React Native"
+    lang: en
+    type: regular
+    time: 2019-03-02
+    room: Auditorium 2, NIMHANS Convention Centre
+    authors:
+      - name: Parashuram Narasimhan
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OubjYz14QxY
+    description: |-
+      React Native is a great way to build native apps for iOS, Android and other rmobile platforms. In this talk, we will look at the internals of React Native, and how code written in JavaScript can power a fully native mobile application. We will look at the various parts of the system like the bridge, the UI manager and the plugins. We will also touch upon the rendering process and compare it to React’s rendering on the web. We will look at some of the new and exciting improvements powered by Fiber, and talk about the the interesting experiments and upcoming features. This talk stems from my experiences as a web-developer newbie on the React Native team, and is an attempt to document my journey in comprehending the code base. At the end of the talk, the attendees will not only be able to build React Native apps, but also understands how it all works together. This talk is about my experience as a web developer, understanding the REact Native code base. Using Javascript to power native mobile apps is amazing, and in this talk, we could cover The react philosophy, and how React Native is a natural extension to React JS The native parts of React Native, and how they interact with ReactJS Differences between React DOM and React Native rendering Upcoming improvements to the rendering pipelines of React DOM and React Native
+
+  - title: A React Native widgetised framework - Move fast and build things
+    lang: en
+    type: regular
+    time: 2019-03-02
+    room: Auditorium 2, NIMHANS Convention Centre
+    authors:
+      - name: Toshi Gupta
+        twitter:
+        github:
+        website: https://www.toshigupta.com
+    slides:
+    videos:
+      - https://youtu.be/ffp7UtRZBFU
+    description: |-
+      "We have already seen how React Native and React Native for Web helped us in building full-fledged features on all platforms such as Android, iOS and the web. After solving this problem of code sharing, the next one we are headed to is solving the case of custom layouts. For instance, an e-commerce product page could have different UI layouts for a shirt, a sofa, and a mobile, though their basic building blocks are just the same. At Flipkart, we have tried to flatten this multi-dimensional world into a unidirectional one by building a widgetised framework and extending functionalities of React Native. This talk will elucidate my journey of building cross-platform applications where we break down the UI into simplistic, shareable UI elements called widgets and render them depending on the layouts required. For example, the layouts configured from backend gives the front end capabilities of intelligently rendering the widgets in the specific order and change them as and when required by the switch of flags. This talk will cover my journey of realizing the efficiency of cross-platform code written via React Native and React Native for Web, not only in terms of minimizing redundant code writing for developers but also giving them independence on the business vertical they are building for. I believe, it is a resource optimization for teams in a product-based firm and also helps to divert more concentration to platform-specific enhancements. This talk will broadly cover the following: Discussing the basics of React and React Native for web and how we coin the world “Native” in terms of code and usability. Furthering to the next step of optimization by adapting the widgetisation of the UI and offloading the capabilities to configure custom layout to the backend. Discussing the way we can build a system to configure styles, layout and order of the widgets on any page of the website/application based on the business requirements. How small and medium product companies, independent developers can leverage this framework in tandem with adapting to React-Native. While everyone codes using React Native, how platform specific experts can spend time enriching platform related capabilities. Calculations and mathematics on optimization of developer resource and reducing the time of delivery of features."
+
+  - title: Kickstarting a library of internal React components for multiple teams
+    lang: en
+    type: regular
+    time: 2019-03-02
+    room: Auditorium 2, NIMHANS Convention Centre
+    authors:
+      - name: Xavier Lefevre
+        twitter:
+        github:
+        website:
+    slides:
+      - https://slides.com/xavierlefevre/deck-6-7#/
+    videos:
+      - https://youtu.be/gGZZRG9YdR0
+    description: |-
+      "In a company, as the technical teams grow and work on different projects, the question of creating a set of common components naturally arises. This is what happened to us: over the years different teams redeveloped very similar components, from simple UI elements to complete business features. 9 months ago, it was time for us to take a step back and think: how can we do better? This talk will present you our journey toward: What we’ve tried in the past… and the reason behind many failed attempts. 😢 The technical design that worked for us, a mono-repository architecture with helpful tooling: Verdaccio, Lerna, React, Flow, Storybook, Yeoman… 🤓 The indicators and processes that we set up to ensure that we maintain a good quality and speed of development. 📈 And finally, the most important: how to onboard other teams in this long running task. 🧐 Today, five teams re-use and contribute to our common libraries on a daily basis, and other departments are expressing a big interest in it. And we even worked through extracting performance indicators, proving us that it was worth maintaining such a collaborative project - that could help you convince your co-workers that it’s worth investing time in such a project. You won’t regret it! Talk break-up: The need of sharing components between projects Our failed attempts to answer this need The final successful attempt architecture, tools and development flow Our processes to sustain and improve such a collaborative project The key to onboard the other development teams"
+
+  - title: The magical land of AST's with babel, eslint and codemods
+    lang: en
+    type: regular
+    time: 2019-03-02
+    room: Auditorium 2, NIMHANS Convention Centre
+    authors:
+      - name: Vivek Nayyar
+        twitter:
+        github:
+        website: https://www.viveknayyar.in/
+    slides:
+    videos:
+      - https://youtu.be/669ste6xgkk
+    description: |-
+      AST’s are everywhere. They are a part of majority of our tools that we use today for development. We use babel, eslint and AST’s power them. Come join me in this journey of understanding the magical land of AST’s by creating babel and eslint plugins and writing custom codemods. Being a software dev for more than 4 years now, I was always curious to understand how these instruction’s that we give to our machine’s get understood and sometimes modified for optimizations. It was initially scary because to me it appeared to be really complicated and would require me to understand the nuances of how machines work, which basically means understanding how a kernel works, how bits and bytes work or taking a deep dive into how compilers work. But turns out it is not as complicated as I thought it to be. So let me take you all to this magical journey of understanding how AST’s work and how we can all, no matter what our experience is create something really interesting using AST’s. By understanding them we would also:- 1) Become better at writing our JS code 2) Better understand JS scopes 3) Better understand how compilers/transpilers work 4) We would be able to write our very first babel plugin 5) We would be amazed when we see how easy it is to write our first eslint plugin 6) And we would learn about this cool new thing called as codemods using jscodeshift
+
+  - title: Delivering JS applications at scale
+    lang: en
+    type: regular
+    time: 2019-03-02
+    room: Auditorium 2, NIMHANS Convention Centre
+    authors:
+      - name: Santosh Grampurohit
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/yz_6nYpYTxo
+    description: |-
+      Today we have many frameworks available for front end development. Frameworks play a large role in how apps get built and designed. In this talk we are going to focus on the design and architecture, module design and consideration, build & release process and on performance metrics. We used React for development of the project to host & support multiple applications. This meant that there will be multiple teams developing their applications, each having its own release cycles and codebases, and yet integrating all of them as single application with seamless user experience. We will start with UI architecture of the application and talk about component structure and granularity. Then we will look into the release process and continuous integration and deployment for supporting multiple teams and applications, and then look into the performance metrics.
+
+  - title: Deep Dive into Apollo Client
+    lang: en
+    type: regular
+    time: 2019-03-02
+    room: Auditorium 2, NIMHANS Convention Centre
+    authors:
+      - name: Kiran Abburi
+        twitter: kiran_abburi
+        github: akiran
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RE2vZFq7fvE
+    description: |-
+      Apollo is the most popular GraphQL client library at the moment. It significantly reduces boilerplate code for fetching data, showing loading status, handling updates to existing objects in cache. But, it can’t handle scenarios like creating new objects, deleting objects and real-time updates automatically. It requires significat amount of code to handle these scenarios and, sometimes, requires more effort than other solutions. In this talk, I will present how to leverage customizable cache and link interface of Apollo to simplify logic for these scenarios. We might also hit performance issues with Apollo as the number and size of queries increase. I will talk about how to debug and fix these performance issues
+
+  - title: Building a highly scalable exchange - To react or not to react
+    lang: en
+    type: regular
+    time: 2019-03-02
+    room: Auditorium 2, NIMHANS Convention Centre
+    authors:
+      - name: Sreekanth G.S
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/A0MSplAk7fM
+    description: |-
+      "We are an organization which built one of India’s leading crypto currency exchange, and faced the struggles and wrath of scale and lack of scale. Backed by a prominent company, the effect of a successful PR and a wave of customers based on current trends, brought us thousands of customers flocking into a platform primary built on Ruby on Rails (both frontend and backend). However, as the customers inflow grew, our poor old stack couldnt bear the grunt, and fell short, customers being unable to trade and perform fund transactions in near realtime. We introduced lot of changes, yet couldnt handle the scale with a frontend+backend combined stack. Learning from our mistakes, we rebuilt our entire platform from the ground up, isolating the front-end introducing React, and with a multitude of changes for the backend. After doing an intensive round of testing, we are happy that we have grown exponetially when it comes to handling traffic, and the use of a pure-frontend stack offering better customer experience even during backend outages or delays. Keytake aways from the talk: 1. Learnings - Disadvantages or rather limitations of using a combined stack for frontend/backend 2. Choices on way forward - Options, suggestions and expectations 3. Learning curve and adaptability challenges 4. Mental roadblock and inertia on thinking 5. Overcoming challenges, and implementing 6. Difficulties faced while transitioning and road ahead"
