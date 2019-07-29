@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: EmberConf 2019
-  status: incomplete
+  status: complete
   series: emberconf.com
   tags:
     - javascript
@@ -13,10 +13,266 @@
     website: https://emberconf.com/
   date:
     from: 2019-03-18
-    to: 2019-03-19
+    to: 2019-03-20
   location:
     country: United States
     city: Portland, OR
   description: |-
+    EmberConf is the best place to meet the folks behind the magic. You’ll hear from members of the Ember Core Team, top community contributors and users, and help shape the future of Ember.
 
 talks:
+
+  - title: Building a UI Styleguide in Ember
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Frédéric Soumaré
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qSuFTj6bpf4
+    description: |-
+      How big should we make our buttons? What’s the colour code of our logo? How do we display error states on our forms? Did you know that Ember-CLI’s powerful addon system can be used to build a kit of reusable UI components? In this talk, you will learn how to build your own styleguide addon and how to use it to keep your UI consistent across apps.
+
+  - title: Your Desktop, the Studio
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Kate Ruggeri
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/v97k3BSH7IU
+    description: |-
+      Taking the time to make your computer your happy place, is a win for everybody. If you're not feeling a sense of calm and control after boot up, you might need some work. There are ways to encourage setup, share tools and successes, and question what we're accustomed to and already know. This tactical talk will help with practical tips, tricks and anecdotes to optimize your environment and keep you in your happy place, all work-day long.
+
+  - title: Comparing Patterns in React and Ember
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Preston Sego
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OZaPaRh83sA
+    description: |-
+      React is a popular library for aiding in the building of single page apps – but how do apps built with React compare with apps built with Ember? In this talk we'll talk through real-world experiences using both, to give audience members a better understanding of the key differences and tradeoffs when choosing between React-based apps and ember apps.
+
+  - title: "Typed Ember: Strong Types for Better Apps"
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: James C. Davis
+        twitter: jamscdavis
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/dBjQvqU_Ftk
+    description: |-
+      Have you been curious about TypeScript, but not sure if it’s for you? Are you unconvinced of its advantages? Did you even know you could use TypeScript with Ember? If you answered yes to any of those questions (and even/especially if you didn’t) then this talk is for you! Instead of a deep dive into using TypeScript with Ember, this talk will demonstrate everyday usage. We'll work to prove that switching to TypeScript to build your Ember apps and addons will make them more robust and maintainable, provide a better developer experience, and lead to improved productivity.
+
+  - title: Crafting Web Comics with Ember
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Jessica Jordan
+        twitter: jjordan_dev
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/C_abEQENdy0
+    description: |-
+      Are you a fan of comics or have you ever dreamed of becoming a comic artist yourself? Then this talk is just for you! At EmberConf, you ask? But of course! We'll explore how both recent and matured Web APIs can be leveraged to tell our own, rich and interactive stories on the web. We’ll also dive into how you can use Ember.js to help create an online comic book that makes any comic art fan’s heart leap for joy.
+
+  - title: Anatomy of an Addon Ecosystem
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Lisa Backer
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1b_KQCYRGgI
+    description: |-
+      How do plugin-style addons actually work? Many of us have reaped the benefits of an Ember addon plugin approach, like with ember-service-worker and ember-cli-deploy. These ecosystems utilize the build process to enable a plugin architecture requiring only configuration to implement powerful capabilities. But how, you ask? We’ll do a technical deep dive into the mechanics of how the ember-service-worker ecosystem utilizes plugins. Along the way we’ll investigate the addon lifecycle and broccoli customizations. Finally we’ll touch on the unique problems of testing such addons.
+
+  - title: Developing an Ember Test Strategy
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Todd Jordan
+        twitter: tddjordan
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/wa_bZL3UvQw
+    description: |-
+      Taking lessons from the classic writings on Software Testing, mostly pre-JavaScript, we'll walk through what are industry tried and true approaches for developing a robust and effective test suite. Many of the Testing philosophies and strategies today have their origins as far back as the 60's, and really got their legs during the advent of "Extreme Programming" and other early "Agile" methodologies from the 1990s. In this talk we'll take many of these tried and true test strategies and show how one would apply them in a real way to an Ember project.
+
+  - title: Don't Break The Web
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Melanie Sumner
+        twitter: melaniersumner
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/41TDfT6bAs4
+    description: |-
+      While JavaScript frameworks saved developers from tedium, they have also been notorious for completely disregarding accessibility. This talk will explore how this is different with Ember.js due to purposeful efforts, and how JS engineers can shift their mindset (just a little!) to make the apps we build more accessible for people with disabilities.
+
+  - title: Dealing with Data in 2019
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Igor Terzic
+        twitter: terzicigor
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/o1IInjlLEzU
+    description: |-
+      For the last year Ember Data has been shedding weight, deprecating obsolete APIs and becoming more modular and flexible. We've removed layers of cruft and enabled much nicer testing infrastructure, easier integrations with more challenging backend systems and massively reduced dependency on the Ember Object model. This talk will walk through a modern cruftless data experience in Ember and demonstrate how you can use Ember Data's modular approach to create compelling experiences in even the most challenging data domains.
+
+  - title: The State of Community Documentation
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Kenneth Larsen
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/p6chThVPHHY
+    description: |-
+      Ember takes pride in having great documentation. So much that we even have a Learning Team dedicated to keeping the official documentation in a good state. But what is the actual state of community documentation? After scraping and analysing just about 5000 readme files from Ember addons created by the community, I’ll present common pitfalls and ways to improve our community documentation.
+
+  - title: Communication and Convention
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Julia Donaldson
+        twitter: username_juliaD
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/KAWLYhAtL64
+    description: |-
+      Ember is touted as the “framework for ambitious web developers,” but what does that really mean? How do we respond to critics who would argue that Ember’s “learning curve” negates the productivity it promises? This talk explores how Ember's conventions democratize the language we use to describe our applications, enabling developers of all levels and backgrounds to communicate in a meaningful and productive way. Ember is a tool that makes it easier to be a better, more ambitious developer, to communicate new ideas faster, and to facilitate a culture of cascading mentorship and growth within teams.
+
+  - title: Ember is for Everyone
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Kenigbolo Meya Stephen
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Teaching absolute beginners with no technical experience to understand Javascript can be quite a daunting task. It's more challenging if you have a thick British accent and your students are mostly African students. If you've ever designed a tech curriculum then you understand how complicated this can be. At code Afrique, where we help the community by offering a free weekend intensive bootcamp, we explored and have now achieved success with ember where we had earlier failed. The aim of this talk is to show, what we tried, where we failed and how ember brought us success like no other.
+
+  - title: Building Better Components
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Dianne Eramo
+        twitter: DianneEramo
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Kyd2mQpR_9c
+    description: |-
+      Components are such a large part of Ember apps, and they can do everything from displaying a post to loading data for a form. But the freedom that comes with this flexibility can also make it difficult to know if a particular approach will make your components a dream to work with, or leave you tearing your hair out. When creating a new component, you might ask yourself what data needs to be exposed, what kind of side effects it will have, or whether you need it to be generic and reusable or for one specific purpose. We'll explore these questions and more to help you build better components.
+
+  - title: Composable Concurrency Tasks
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Isaac Ezer
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ogsXX9H8wzs
+    description: |-
+      Ember users have fallen in love with Ember Concurrency. It uses ES6 generators to elegantly solve a large class of async programming challenges that is common to all JavaScript apps. It makes code more concise, has an elegant API, requests can be canceled if they’re no longer needed, and no more "isDestroyed" checks. Let's do a deep dive into the inner workings of Ember Concurrency. We’ll learn how to build our own abstractions that encapsulate complex tasks for reuse in our apps. We’ll build composable, higher-order tasks that put more power into the hands of you and your fellow developers.
+
+  - title: "New to Ember: What ARE All These Things?"
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Jennifer Wong
+        twitter: mybluewristband
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/KzxF6dIyfTw
+    description: |-
+      New to Ember? So am I! What are all these things? A new code base often means unfamiliar words and paradigms. I definitely had my share in this Ember new world. When I saw mut, I thought of adorable dogs. When I saw can I thought of soup. Eventually, I realized the mystery words are part of Ember addons! But with so many to learn, I was quickly overwhelmed. Let me walk you through my exploration of addons. How do you balance code time with addon learning time? From ember-a11y-testing to zoey, we’ll dig into Ember & its addons, and strategies for persistent, sustained learning anyone can rely on
+
+  - title: "No Bad Legos: A Toy Box For Everybody"
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Howie Bollinger
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/itlWS-qLON8
+    description: |-
+      People often like to think of a piece of software as greater than the some of its parts. But what if the individual parts are garbage? Using component driven development, we can make sure the building blocks of our applications are robust, reusable, and tested. When we break development down in this manner, we can give each individual component the attention it needs in regards to accessibility.
