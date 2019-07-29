@@ -41,23 +41,6 @@ talks:
       - https://youtu.be/xOccHEgIvwY
     description: |-
 
-  - title: Develop a weather app with Kotlin
-    lang: fr
-    type: workshop
-    time: 2017-04-10
-    room: The Salons of Aveyron
-    authors:
-      - name: Arnaud Giuliani
-        twitter: arnogiu
-        github: arnaudgiuliani
-        website:
-    slides:
-      - https://www.slideshare.net/arnaudgiuliani
-    videos:
-      - https://youtu.be/kcA2oSZWG8k
-    description: |-
-      "Kotlin is a JVM language developed by Jetbrains. Its version 1.0 (production ready) was released at the beginning of 2016 and made some buzz within the android community. Interest in this language is still relevant one year later. This session proposes to discover this language, which includes some aspects of groovy or scala, and which is very close to swift in syntax and concepts. This "new" language is very clearly prized, and rightly so, by the android community that is asking for it. Other Java communities, such as spring.io, open up clearly and officially to this language. This "handson" offers you to mount a 100% Kotlin android application, in order to discover different themes of the language. We will begin with a presentation of Kotlin, to scan the interesting points of language in a pragmatic way (which is interesting on a daily basis) and go to the functional and reactive programming (with Rx). Then, a TP of 2h will run around the demo application. Prerequisites: AndroidStudio 2.2+, Android SDK API 24, Build tools 24.0.3+, Kotlin 1.0.6+ plugin and GIT installed on your mobile."
-
   - title: Deep Android Integrations
     lang: en
     type: regular
@@ -194,7 +177,7 @@ talks:
     authors:
       - name: Xavier F. Gouchet
         twitter: xgouchet
-        github: xgouchet
+        github: xgouchet/
         website:
     slides:
       - https://speakerdeck.com/xgouchet/merge-like-its-2099-androidmakers-2017
@@ -252,39 +235,6 @@ talks:
     description: |-
       In this session, Hoi will explore the past, the present and the future of Android Wear. Come and find out the new developer features in Android Wear 2.0 and what developers / designers should do to get ready!    
 
-  - title: "Genius Scan and NDK: performance and multiplatform"
-    lang: fr
-    type: workshop
-    time: 2017-04-10
-    room: The Salons of Aveyron
-    authors:
-      - name: Guillaume Gigaud
-        twitter: thegrizzlylabs
-        github:
-        website: https://www.thegrizzlylabs.com/
-    slides:
-      - https://drive.google.com/file/d/0B7EXFGe-e1u_R1RBUjVISUp4cGc/view
-    videos:
-      - https://youtu.be/iFvE1SFx4T0
-    description: |-
-      Sharing a codebase across multiple platforms is often a tradeoff between features, complexity and maintenance. To develop the heart of Genius Scan, we chose C ++ and NDK. In addition to the performance gain for image processing algorithms, this solution simplifies code maintenance on iOS and Android. In addition, the tools built into Android Studio significantly reduce the complexity of native development and the heaviness of NYI.
-
-  - title: Develop a video game (when you do not know anything about video game development)
-    lang: fr
-    type: workshop
-    time: 2017-04-10
-    room: The Salons of Aveyron
-    authors:
-      - name: David Wursteisen
-        twitter: dwursteisen
-        github: dwursteisen
-        website:
-    slides:
-    videos:
-      - https://youtu.be/mSa3BVO0tvc
-    description: |-
-      How do you develop a video game? Is it complicated to display a character on the screen and move it later? Is programming a game comparable to programming a backend application or an Android application? What are the tools to use? How to make a game fun? I had to ask myself these questions to make my first mobile game. This presentation will try to answer it and will make a return on the different experiments carried out before obtaining a game.
-
   - title: Android Things for IoT
     lang: en
     type: regular
@@ -322,23 +272,6 @@ talks:
     description: |-
       "It all starts from a business need: to optimize or to propose a new user experience initially available for a Meetic application functionality but, on a longer-term vision, potentially accessible from another feature or even another application. We naturally oriented ourselves towards the implementation of libraries in our project. The benefits found were beyond our expectations. In addition to our need for reuse, big productivity gains soon came to us. The launch time of unit tests has become short enough to work in TDD. And the use of static data in a demo application has greatly reduced deployment time. So much so that we now design a lot of our features in this mode of development. This presentation will show you that using modules is a way to increase your productivity on large projects of tens of thousands of lines of code. It will also be an opportunity to discuss the issues we have encountered (dependency reversal, ...)"
 
-  - title: Automate with Fastlane
-    lang: fr
-    type: workshop
-    time: 2017-04-10
-    room: The Salons of Aveyron
-    authors:
-      - name: Antoine Descamps
-        twitter: _antdesc
-        github:
-        website:
-    slides:
-      - https://speakerdeck.com/antdesc/fastlane-android-makers-paris-04-2017
-    videos:
-      - https://youtu.be/l7wtqKgjfC8
-    description: |-
-      "Fastlane is a command-line tool that automates actions. It is intended specifically for mobile projects. Initially an iOS project, Fastlane has been supporting Android for over a year and can automate many actions. Learn to: Compile, sign and send to the playstore an apk in 5 lines of code and a command line. Automate localized screenshots and send them to the Playstore listing without launching a web browser. Packager and deploy an Android library to an artifact manager from a user station. Interfacer Fastlane with a continuous integration platform like Jenkins. It's simple, efficient and can save a lot of time in a mobile development team."
-
   - title: ExoPlayer, media player for your applications and virtual reality
     lang: fr
     type: regular
@@ -355,22 +288,6 @@ talks:
       - https://youtu.be/NvDoNB5bZeA
     description: |-
       This presentation will begin with an introduction to ExoPlayer that makes it a natural replacement for MediaPlayer. The functionalities of the v1 to v2 will be exposed with pros and cons, the different formats supported by the player, its different extensions ... You will be shown how to migrate your MediaPlayer code to ExoPlayer in a few lines of code. We will end up with the ability of ExoPlayer to be used in the field of virtual reality on Android to create players for Cardboard / Daydream or GearVR and how to use it with a plugin on Unity.
-
-  - title: "GoMobile at Zenly: Go on Android"
-    lang: en
-    type: workshop
-    time: 2017-04-10
-    room: The Salons of Aveyron
-    authors:
-      - name: Steeve Morin
-        twitter: steeve
-        github: steeve
-        website: https://zen.ly/home
-    slides:
-    videos:
-      - https://youtu.be/x6R9lIekirM
-    description: |-
-      GoMobile is a technology that allows regular Android and iOS. It is used for both the underlying system and the client apps. Since GoMobile has limited support for complex types and the callback / delegate pattern does not fit the Go paradigm, we will also present RxProto. RxProto allows you to pass a complex data type between the two runtimes in an easy way and type safe manner. By leveraging Rx, it also provides seamless interfacing with the Go concurrency primitives without feeling foreign to the Android ecosystem. In this talk we will present GoMobile, RxProto and the journey on the back of our iOS and Android apps, starting with JSON / REST to Go / GRPC / Protobuf / Java.
 
   - title: How to reactively load and cache data without even trying
     lang: en
@@ -409,26 +326,6 @@ talks:
       - https://youtu.be/d3VoQmcpu5U
     description: |-
       "“Once upon a time there was a humanoid robot called Pepper. He was one of a kind: with a body all covered in white and a display to show beautiful images. One day, a green stranger stepped into Pepper's life. His name was Android. At the beginning they were both shy. They didn't speak the same language but somehow they knew they were made for each other…“"
-
-  - title: Workshop on Android Things for IoT
-    lang: en
-    type: workshop
-    time: 2017-04-10
-    room: The Salons of Aveyron
-    authors:
-      - name: Wayne Piekarski
-        twitter: waynepiekarski
-        github: waynepiekarski
-        website:
-      - name: Jonathan Koren
-        twitter:
-        github:
-        website:
-    slides:
-    videos:
-      - https://youtu.be/SpB6kyxNBr0
-    description: |-
-      Google recently announced the Developer Preview for Android Things, a comprehensive way to build IoT products with the power and security of Android. In this session, you will have the opportunity to develop your own IoT applications with the assistance of Developer Advocates from Google. We will be available for answering your questions, and also to give feedback to the engineering team. Come and try out the use of familiar tools such as Android Studio and the Android SDK to easily develop IoT software.
 
   - title: Kotlin in the real world. What you should be aware of before starting a Kotlin project
     lang: fr
@@ -648,22 +545,6 @@ talks:
     description: |-
       You find RoboGuice simple but slow? And you think Dagger 1 & 2 are fast but complex and bloated? Toothpick is the best of both worlds! Toothpick is a scope tree based, runtime but reflection free implementation of JSR 330. It is pure Java, with a special focus on Android. Toothpick is fast (even faster than Dagger 2 in some cases!) and is simpler to use, with less boilerplate code. Its syntax is very close to Guice. It supports named dependencies, lazy dependencies, providers, and has built-in support for custom scopes. As compared to Dagger 2, Toothpick provides more powerful testing support, allowing you to leverage DI to mock dependencies using either mockito or easymock. Its explicit scope tree helps developers to build more robust apps. It provides more fine grained control to easily implement complex user flows that span multiple activities or state preservation across configuration changes (e.g. rotations), a common issue when implementing the MVP pattern. During this talk for experts, we will introduce Toothpick, its main features and how it compares to other DI libs. We will explain how Toothpick scopes and scope annotations can solve advanced use cases.
 
-  - title: Attacking Android Applications
-    lang: en
-    type: workshop
-    time: 2017-04-11
-    room: The Salons of Aveyron
-    authors:
-      - name: Dario Incalza
-        twitter: h4oxer
-        github: DarioI
-        website: http://www.darioincalza.be/
-    slides:
-    videos:
-      - https://youtu.be/hy8GxwZ4oi4
-    description: |-
-      In this talk we aim at showing how easy it is to reverse engineer an Android application. We show how to perform static analysis on an application. Secondly, we illustrate how applications are attacked dynamically in orde to investigate or alter the program flow of the application. Attendees walk away with tools and information to perform basic pentesting techniques on their own applications.
-
   - title: "Android Design Tools : New features and tools for rapid UI development"
     lang: en
     type: regular
@@ -697,23 +578,6 @@ talks:
       - https://youtu.be/kcA2oSZWG8k
     description: |-
       Kotlin is a language developed by Jetbrains. Its version 1.0 (production ready) was released early 2016, making a buzz in the Android community. Today in version 1.0.6, and soon 1.1, Kotlin continues to arouse a keen interest. In ekito, we have been working on this language for more than a year, and today we are no longer hesitating to launch production applications with Kotlin. This session proposes to discover this language, which includes some aspects of groovy or scala, and which is very close to swift in syntax and concepts. We'll see how Kotlin boosts the productivity of Android application development and why you can not live without it;)
-
-  - title: "Iot Inception: Measuring the Energy of Android Things on Raspberry with Arduino"
-    lang: fr
-    type: workshop
-    time: 2017-04-11
-    room: The Salons of Aveyron
-    authors:
-      - name: Olivier Philippot
-        twitter: simplygreenit
-        github:
-        website:
-    slides:
-      - https://www.slideshare.net/ophilippot/iotception-energy-measurement-of-android-things-on-raspberry-pi-3-with-arduino-uno
-    videos:
-      - https://youtu.be/cUbryUWvEkY
-    description: |-
-      Autonomy is critical for the mobile and even more so for the IOT. Android offers measurement APIs to make software measurements but with the new Android SDK for Android (IoT) it's not that simple. Manufacturer data are no longer sufficient to make estimates, you have to put your hands in the engine to measure energy. In this session, I will show you how to use an Arduino Uno to measure the consumption of Raspberry PI 3 with Android Things It's time to see what this newcomer of the Android family has in the womb!
 
   - title: Drunk, he marketed Android apps alone
     lang: fr
@@ -753,23 +617,6 @@ talks:
     description: |-
       Google Home is a voice-activated speaker powered by the Google Assistant. You can ask questions, tell it to do things. It’s your own Google, always ready to help. On this talk I will present and demonstrate the main features of the Google Home. Further on, I will show how to create custom actions through Actions on Google and make them available for all Google Home users.
 
-  - title: Dependency Injection in Android - Best Practices
-    lang: en
-    type: workshop
-    time: 2017-04-11
-    room: The Salons of Aveyron
-    authors:
-      - name: Vasiliy Zukanov
-        twitter:
-        github:
-        website: https://www.techyourchance.com/about/
-    slides:
-      - https://www.slideshare.net/VasiliyZukanov/dependency-injection-in-android-74836565?trk=v-feed
-    videos:
-      - https://youtu.be/6xB5MWK4tuQ
-    description: |-
-      Dependency injection techniques and frameworks constitute the foundation on which testable and maintainable applications are built. However, when used incorrectly or abused, dependency injection might not reveal its full strengths, and, in some cases, might even incur some not-so-evident penalties. In this session we will review a set of “best practices“ that will maximize the gain from using dependency injection in Android.
-
   - title: Improve your Android skills by making Android Wear dials
     lang: fr
     type: regular
@@ -803,25 +650,6 @@ talks:
       - https://youtu.be/pnU5wKv9l_s
     description: |-
       Today we have many testing tools for Android including JUnit, Mockito, PowerMock, Robolectric, Espresso, and more. But how can you design your application to leverage each one most effectively? This talk introduces a modified version of the Model View Presenter (MVP) architecture that organizes your code to be more flexible, maintainable, and testable. Using classic software design principles and modern code examples we will explore the topics of clean architecture and testability on Android. This talk covers all levels of the test pyramid including unit, integration, and UI tests. Other topics will include unit test rules, naming conventions, presenter lifecycle, persisting state, testing concurrency, mocking strategies, and working with legacy code.
-
-  - title: "DataBinding: simplify the management of your views!"
-    lang: fr
-    type: workshop
-    time: 2017-04-11
-    room: The Salons of Aveyron
-    authors:
-      - name: Julie Petit
-        twitter: J_TShyNe
-        github:
-        website:
-      - name: Yann Huriez
-        twitter:
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-      "You hear about DataBinding for a long time but do not know what it is, or what it can bring to your project, and you're curious to know more? So this Workshop is for you! Objective of the Workshop: During this workshop, we propose you to discover the basics of Android DataBinding and how much you gain in view management. Program: Through a series of exercises, we will teach you to: Create a binding and let your layout manage its own data, Make your views easily reusable with ViewModels and MVVM, Easily manage dynamic changes on your screens, Access inaccessible fields from XML with Binding Adapters, Uncompressing the Adapter of the RecyclerView, Prerequisites, Experience required. Developers of all levels are invited: the exercises adapt to your rhythm and go from the simplest to the most complex according to your ease. Equipment: A PC with Java 7 or more is enough. If you do not have Android Studio installed, we will help you install it on site. Do not hesitate to come to the rendezvous!"
 
   - title: App Live Review by GDEs
     lang: en
@@ -913,25 +741,6 @@ talks:
       - https://youtu.be/vcqA-_KbMr0
     description: |-
       This talk will focus on automating the tedious tasks every team has. Everyone knows you should write clean code, unit test, and check for common bugs. But sometimes, it's hard... Sometimes you forget... Well in this talk we will focus on making it easier. How to automate the process, make your build servers do most of the stuff for you, and increase visibility of your tasks and their progress to your team. I will focus on both a setup for a new project, where you start from scratch and where you will want to keep the slate clean, but also for existing projects where you will want to pay your technical debt, a bit at a time, fixing your project, but also not disrupting your daily routine.
-
-  - title: Actions on Google Workshop
-    lang: en
-    type: workshop
-    time: 2017-04-11
-    room: The Salons of Aveyron
-    authors:
-      - name: Elaine Dias Batista
-        twitter: elainedbatista
-        github:
-        website: https://www.sfeir.com/
-      - name: Wajdi Ben Rabah
-        twitter: WajdiBenRabah
-        github: wadjo
-        website: http://www.wajdibr.com/
-    slides:
-    videos:
-    description: |-
-      Come and create conversation actions for the Google Assistant using Actions on Google. We'll show how you can integrate your existing services (or you can create a brand new one!) into the Google Assistant ecosystem, available on phones, android wear smartwatches and the Google Home. We'll build our actions with the API.AI platform.
 
   - title: Streamlining Payments on Mobile
     lang: fr
