@@ -46,8 +46,8 @@ talks:
     authors:
       - name: Kashish Grover
         twitter: _kingofnull
-        github:
-        website: kashishgrover
+        github: kashishgrover
+        website: 
     slides:
       - https://speakerdeck.com/kashishgrover/the-mistakes-we-fixed
     videos:
