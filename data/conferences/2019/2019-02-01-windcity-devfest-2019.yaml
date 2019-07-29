@@ -112,9 +112,7 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
-      -
     description: |-
       How long will that take? It’s a question we’ve all either asked or been asked. How long will it take to get that feature out the door? How much time would you need to build this kind of software? How many people would we need to get this project done in three months? This session will explore how to use Planning Poker — the Agile, consensus-based estimation technique — to generate thoughtful and accurate responses to those questions. Attendees will gain insight into the process with real-world examples and tips from an experienced project manager and product owner. They will learn how to use Planning Poker for a range of project types and team structures, how to leverage free online tools like a project-planning pro, and how to make the estimation process feel less like a chore and more like a game! This interactive session presents how to use Planning Poker — the Agile, consensus-based planning technique — to create accurate, data-backed estimations. Attendees will explore real-world examples from an experienced Agile team lead & will participate in a live estimations round using online tools!
 
@@ -129,9 +127,7 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
-      -
     description: |-
       Often mobile teams find themselves siloed and solving the same solution two or three times across platforms. Many multiplatform tools and solutions have been developed to mitigate this issue, but the majority of them have been abandoned or not widely adopted by the community. In this talk learn what multiplatform Kotlin can offer you and your team and why it may help solve this issue from a different approach. This talk will discuss what multiplatform and native Kotlin is, how organizations and teams can utilize it in their projects, and the advantages and disadvantages of adopting it.
 
@@ -162,9 +158,7 @@ talks:
         github:
         website: https://mimming.com/
     slides:
-      -
     videos:
-      -
     description: |-
       "Phishing can work on almost anyone if you catch them in a moment of weakness, and hackers know that. Strong user authentication is a critical part of securing your data and infrastructure. We tried education on strong passwords, but that didn’t help. Authenticator apps and SMS codes were an improvement, but hackers found ways around them as well. After years of effort on the part of the FIDO Alliance, we have a better option. U2F security keys mitigate phishing risk by using dedicated hardware keys, special browser APIs, and public key cryptography. Before you depend on a technology as a building block of security, it’s important to understand how it works, and why it’s a good fit for your needs. This talk will cover these points, so you don’t have to read the specs yourself:    Why Phishing still happens    How U2F security keys work    Using them to protect yourself    Adding support to your software to protect your users"
 
@@ -179,9 +173,7 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
-      -
     description: |-
       The web is advancing at an alarming rate and browsers are providing new features giving web developers the ability to features to engage with mobile users. Using PWAs, web developers can provide “app like” experiences for their web apps without the need for a native (or hybrid) app. As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) are experiences that combine the best of the web and the best of mobile apps using new web standards, including service workers, push notifications, and homescreen access. In this session, you’ll learn the the fundamentals needed for building Progressive Web Apps, including the app shell model, how to use service workers to cache the App Shell and your key application data and more!
 
@@ -212,9 +204,7 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
-      -
     description: |-
       From web applications to APIs, desktop to mobile apps, and everything in between there has never been a better or more complex time to write code. When it comes to securing the various types of applications you may be wondering what the right approach is. It may seem that with each new architecture, the rules of security get rewritten. JSON Web Tokens, Open ID, Authentication Flows, Oh My! In this talk, we’ll look at and demystify common security patterns for various types of modern app architectures.
 
@@ -229,7 +219,6 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
       - https://youtu.be/flLQRFskoQk
     description: |-
@@ -310,9 +299,7 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
-      -
     description: |-
       "Modals, popups, alerts - all that's 101 level front end development...until accessibility enters the picture. If you're ready slay massive accessibility beasts, modals have 'em all: Traps, key combos, focus, and more. Walking through a modal will help solidify accessibility concepts you can reuse in many other components. At the end of this talk, you'll walk away with some shiny new WAI ARIA weaponry to add to your coding arsenal."
 
@@ -359,9 +346,7 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
-      -
     description: |-
       What do the terms serverless, containers, and virtual machines mean? Which should I use to build my app? The answer (as always) is "it depends." In this session learn the tradeoffs between these different approaches, whether you're building your app from scratch or want to move an existing web or mobile application to the cloud. We'll discuss open source tools such as Kubernetes, Isito, and Knative, and we'll discuss Google Cloud Platform tools like Compute Engine, Google Kubernetes Engine (GKE), App Engine, and Cloud Functions.
 
