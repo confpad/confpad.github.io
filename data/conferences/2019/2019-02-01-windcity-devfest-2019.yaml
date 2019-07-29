@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: Windcity DevFest 2019
-  status: incomplete
+  status: complete
   series: windycity.devfest.io
   tags:
     - general
@@ -18,5 +18,478 @@
     country: United States
     city: Chicago
   description: |-
-
+    A community-run conference offering sessions, hack-a-thons, and codelabs across many different technologies
 talks:
+
+  - title: "Fusing AI with AR: Custom Markers"
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8005, Depaul University
+    authors:
+      - name: Stephen Wylie
+        twitter: SWebCEO
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_f0YnBbNW54
+    description: |-
+      One very popular area of Machine Learning is object detection, but why stop at just emitting a message that some object has been detected? Let’s take things a step further and use the positional information coming from the machine learning model to draw something in augmented reality over, around, or near the detected object. This is commonly referred to as marker-based AR, but usually markers are a QR code or other distinctive shape with lots of characteristic features. With Vuforia, you can make custom markers easily, but then you’re locked down into their pricing model. Here, with Tensorflow Lite running on an Android device with ARCore, we can use MobileNet-optimized object detection algorithms to spot whatever you want. Find out in this talk how you can leverage the basic MobileNet object detection tool in an Android app using Tensorflow Lite to discover where an object of interest is, and then use ARCore to render something around it in 3D space. Then, I will touch on how to train a model for your own needs of classifications, plus some of the pitfalls of trying to render an AR asset relative to arbitrary objects in space.
+
+  - title: "Firebase and Android Jetpack: fit like a glove"
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8002, Depaul University
+    authors:
+      - name: Doug Stevenson
+        twitter: CodingDoug
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/WXc4adLMDqk
+    description: |-
+      This session details the practical use of Android Jetpack components LiveData, ViewModel, and WorkManager, and how they work in tandem with Cloud Firestore to keep your data synchronized both in real time and in the background. Join this session to get a deep dive into the use of Jetpack’s Android Architecture Components along with Firebase to keep your app’s data fully synchronized and automatically refreshed with live updates from Realtime Database and Firestore. Bring an Android device to participate in a live demo!
+
+  - title: Drag-and-Drop Isn't a Drag with Angular Material CDK
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8009, Depaul University
+    authors:
+      - name: Andrew Weins
+        twitter: adwiens
+        github: adwiens
+        website: https://www.cs.cornell.edu/~andrew/
+    slides:
+    videos:
+      - https://youtu.be/JIqtgkKx7PE
+    description: |-
+      From uploading files in Dropbox to sorting boards in Trello, drag-and-drop is an increasingly universal part of modern UIs. Despite this, implementing such features in an Angular application has not typically been straightforward. Adding drag-and-drop generally required either handling HTML5 events manually or relying on independent packages that may or may not play nicely with one’s component library of choice. What a drag! Luckily, such pain is now a thing of the past. A highly-anticipated drag-and-drop feature with first-party support was recently added to the Angular Material CDK. Like the rest of the CDK, the drag-and-drop API does not require adoption of Angular Material itself. Rather, it provides UI behavior without enforcing the look-and-feel of the application – the drag-and-drop feature can be readily used in any Angular application alongside other component libraries and styles. The Angular Material CDK provides drag-and-drop capability in the form of easy-to-use components and directives. At its core, the drag-and-drop API allows the user to drag template elements anywhere in the window or between designated drop-sites. Additionally, the drag-and-drop library provides a variety of inputs and events to allow implementing more advanced, custom functionality if needed. In this talk we will explore the features of Angular Material CDK drag-and-drop and build a sample app using its API.
+
+  - title: Empowering Early-Career Developers
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8010, Depaul University
+    authors:
+      - name: Mercedes Bernard
+        twitter: mercedescodes
+        github:
+        website: http://www.mercedesbernard.com/
+    slides:
+    videos:
+      - https://youtu.be/Qspf0SX_oPs
+    description: |-
+      In our industry, we have a shortage of senior developers and an increase in the number of early-career developers looking for jobs. How can teams invest in and grow their less experienced developers into team-leading senior devs? I believe the first step is empowering them. On my team, we’ve created a process for each team member to lead and own one of our core features. Our early-career developers are learning client management and team leadership skills that they wouldn’t usually get to practice until they stepped into a senior role. In this talk, I’ll share our process and what we’ve learned so you can give your early-career developers valuable experience they need to become successful, senior team members.
+
+  - title: Library Developer Confidential
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8014, Depaul University
+    authors:
+      - name: Elliott Chenger
+        twitter: Echenger
+        github: erchenger
+        website: http://www.omitneedlesscode.com/
+    slides:
+    videos:
+      - https://youtu.be/lfmdjX4nlxY
+    description: |-
+      Breaking up your app into mini feature libraries means faster gradle builds, more separation of concerns in your architecture and ability to support App Bundles, Instant Apps and share your code more easily. Who doesn't love and want all of that? For the last several years of my career me and my team have been tasked with creating and maintaining libraries that handle complex bluetooth communication and Android UI. In this talk we will go over setting up library projects for success, bootstrapping an architecture that will allow you to grow with minimal collisions and boilerplate, how to build/deploy multiple libraries while trying to debug without losing your sanity and more. At the end of this talk it is my hope you will feel confident enough to start and maintain your own library project. This talk is part gradle, part java/kotlin and absolutely free of Git Submodules.
+
+  - title: "Get Your Poker Face On: How to Use Planning Poker to Slay Project Estimations"
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8014, Depaul University
+    authors:
+      - name: Laura B. Janusek
+        twitter: LBJanusek
+        github:
+        website:
+    slides:
+      -
+    videos:
+      -
+    description: |-
+      How long will that take? It’s a question we’ve all either asked or been asked. How long will it take to get that feature out the door? How much time would you need to build this kind of software? How many people would we need to get this project done in three months? This session will explore how to use Planning Poker — the Agile, consensus-based estimation technique — to generate thoughtful and accurate responses to those questions. Attendees will gain insight into the process with real-world examples and tips from an experienced project manager and product owner. They will learn how to use Planning Poker for a range of project types and team structures, how to leverage free online tools like a project-planning pro, and how to make the estimation process feel less like a chore and more like a game! This interactive session presents how to use Planning Poker — the Agile, consensus-based planning technique — to create accurate, data-backed estimations. Attendees will explore real-world examples from an experienced Agile team lead & will participate in a live estimations round using online tools!
+
+  - title: Introduction to Multiplatform Kotlin
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8002, Depaul University
+    authors:
+      - name: Ryan Perkins
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      -
+    description: |-
+      Often mobile teams find themselves siloed and solving the same solution two or three times across platforms. Many multiplatform tools and solutions have been developed to mitigate this issue, but the majority of them have been abandoned or not widely adopted by the community. In this talk learn what multiplatform Kotlin can offer you and your team and why it may help solve this issue from a different approach. This talk will discuss what multiplatform and native Kotlin is, how organizations and teams can utilize it in their projects, and the advantages and disadvantages of adopting it.
+
+  - title: Machine Learning Crash Course
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8010, Depaul University
+    authors:
+      - name: Samuel Taylor
+        twitter: SamuelDataT
+        github:
+        website: https://www.samueltaylor.org/
+    slides:
+    videos:
+      - https://youtu.be/7pOy5bSdXX8
+    description: |-
+      "Machine learning has so much hype around it that it can seem like magic. Learn the math behind the magic in this whirlwind tour of machine learning. After spending a few minutes learning about machine learning theory, we’ll jump right into practice with three different use cases: Teaching a computer sign language (supervised learning) Predicting hourly energy load in the state of Texas (time series/forecasting) Using machine learning to find your next job (recommender systems - content-based filtering) With each use case, we’ll discover new techniques applicable in real-world machine learning problems. You’ll walk away knowing what the different kinds of machine learning are, when to use each one, and some approaches to common problems we encounter practicing machine learning in the real world."
+
+  - title: Why U2F Security Keys Are Awesome
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8009, Depaul University
+    authors:
+      - name: Jen Tong
+        twitter: MimmingCodes
+        github:
+        website: https://mimming.com/
+    slides:
+      -
+    videos:
+      -
+    description: |-
+      "Phishing can work on almost anyone if you catch them in a moment of weakness, and hackers know that. Strong user authentication is a critical part of securing your data and infrastructure. We tried education on strong passwords, but that didn’t help. Authenticator apps and SMS codes were an improvement, but hackers found ways around them as well. After years of effort on the part of the FIDO Alliance, we have a better option. U2F security keys mitigate phishing risk by using dedicated hardware keys, special browser APIs, and public key cryptography. Before you depend on a technology as a building block of security, it’s important to understand how it works, and why it’s a good fit for your needs. This talk will cover these points, so you don’t have to read the specs yourself:    Why Phishing still happens    How U2F security keys work    Using them to protect yourself    Adding support to your software to protect your users"
+
+  - title: What are Progressive Web Apps and How do they Work?
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8005, Depaul University
+    authors:
+      - name: Kyle Paul
+        twitter: _KylePaul
+        github:
+        website:
+    slides:
+      -
+    videos:
+      -
+    description: |-
+      The web is advancing at an alarming rate and browsers are providing new features giving web developers the ability to features to engage with mobile users. Using PWAs, web developers can provide “app like” experiences for their web apps without the need for a native (or hybrid) app. As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) are experiences that combine the best of the web and the best of mobile apps using new web standards, including service workers, push notifications, and homescreen access. In this session, you’ll learn the the fundamentals needed for building Progressive Web Apps, including the app shell model, how to use service workers to cache the App Shell and your key application data and more!
+
+  - title: Finding Your Way Through the Navigation Framework
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8002, Depaul University
+    authors:
+      - name: Jerrell Mardis
+        twitter: jerrellmardis
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/uKNNGzFOIvQ
+    description: |-
+      Is the new Navigation Architecture Component worth investing your precisous time in? In this talk we’ll attempt to answer that by exploring its feature set and live coding examples. In this talk we’ll cover the new Navigation Architecture Component that was announced at Google I/O 2018. We’ll explain why this is a very important change to how we should consider building Android applications going forward and go through the features of the component via live coding examples.
+
+  - title: Papers Please! A Non-Dystopian Look at Modern Authentication
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8009, Depaul University
+    authors:
+      - name: Ado Kukic
+        twitter: kukicado
+        github:
+        website:
+    slides:
+      -
+    videos:
+      -
+    description: |-
+      From web applications to APIs, desktop to mobile apps, and everything in between there has never been a better or more complex time to write code. When it comes to securing the various types of applications you may be wondering what the right approach is. It may seem that with each new architecture, the rules of security get rewritten. JSON Web Tokens, Open ID, Authentication Flows, Oh My! In this talk, we’ll look at and demystify common security patterns for various types of modern app architectures.
+
+  - title: Outrun the 🐻! Performance Optimizations for Progressive Web Apps
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8010, Depaul University
+    authors:
+      - name: Chris Lorenzo
+        twitter: chiefcll
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/flLQRFskoQk
+    description: |-
+      Struggling to get your website to load in less than 5 seconds on a mobile phone? Switching pages are a little sluggish? You’re not alone! Most web developers can build a responsive site, but fail to meet performance requirements for mobile. Using the latest PRPL pattern and Progressive Web API’s, you can provide a compelling alternative to native apps, as long as performance remains your top feature. This talk will cover the architecture for Xfinity xFi, an enterprise PWA for Comcast, built with Google Polymer. We’ll then dive into the Chrome performance tools to optimize xFi loading time down by more than half. You’ll walk away knowing what it takes to create a successful PWA and how to find slow downs in your app startup.
+
+  - title: "Firebase for Pros: What's New in 2019?"
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8002, Depaul University
+    authors:
+      - name: Abe Haskins
+        twitter: abeisgreat
+        github:
+        website: https://abe.today/
+    slides:
+    videos:
+      - https://youtu.be/6v3JE7t3swI
+    description: |-
+      In 2019 we’re making the message clear - Firebase is ready for hard-core developers. We’re releasing CLI improvements, new local-testing tools, and lots of changes for CI/CD environments. It’s easier than ever to build high-quality galaxy-scale apps on Firebase, so here’s all our tips and tricks for you along the way. Come see what is coming up for Firebase in 2019 as well as recapping best practices and tips and tricks from 2018!
+
+  - title: Machine Learning + Human
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8005, Depaul University
+    authors:
+      - name: Mike Wolfson
+        twitter: mikewolfson
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LyXLV8Ewfzs
+    description: |-
+      "As we use Machine Learning in our software - we need to understand the impact on what we build. The Design team at Google has created a framework named Human-Centered Machine Learning (HCML) to help us focus and guide that understanding. I will introduce this concept and show how you can use it in your development process. I will show how HCML can be used to answer important questions like: Is ML right for this problem? What unique solution does ML provide? Are we using the right information to train our system? What is the impact of wrong results? Just like with the web and mobile revolutions, ML will force us to consider new possibilities for every experience we build. We must stay grounded in human needs while solving them in unique ways. HCML provides techniques to help us accomplish this. Human-Centered Machine Learning is a great way to help developers and designers understand the ways Machine Learning is changing our world. I would like to share some key concepts from this effort, and ways I have used them to help myself feel in control of technology, and not the other way around."
+
+  - title: Focus on Your Code, Not Infrastructure, with Google Cloud Functions
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8009, Depaul University
+    authors:
+      - name: Martin Omander
+        twitter: martinomander
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3ijjxU34ApA
+    description: |-
+      When you build a backend to a web app or mobile app, you want to focus on your business logic, not on your infrastructure. At the same time, you want the infrastructure to always be there for you, ready to run your code. Google Cloud Functions does that for you. In this talk, we will follow the story of the fictional startup “In Jest”, publishers of an app that tells jokes. At first, the developers at “In Jest” need to get a minimum viable product up and running in an hour. As their business grows they will have to integrate with Google Sheets, SQL databases, analytics systems, marketing systems and so on. We will see the code used to make this happen, without having to worry the team about servers and data centers.
+
+  - title: "Kotlin: The Next Frontier in Metaprogramming"
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8010, Depaul University
+    authors:
+      - name: Amanda Hinchman-Dominguez
+        twitter: hinchman_amanda
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/NxSHkgFRTI0
+    description: |-
+      "Since Google declared Kotlin as the official language for Android, Kotlin has become one of the fastest growing languages in the coding world and current projections forecast continued increased global use. One year ago, I started using Kotlin to help me solve everyday problems in the office. Then I wrote a programmatic wizard for sales people to generate live demos for prospective clients because, well, I’m lazy. I ended up writing my own drag-and-drop functionality because I didn’t know how to serialize my custom objects; the problem was that I was having a tough time debugging my micromanaged events, and I realized I needed testing for the UI. The other problem? I had no idea how to write UI tests. I thought— what if I used metaprogramming to generate these tests for me? So I set out to ask other developers and QA engineers:    What makes a good test?    What makes a bad test? TornadoFX-Suite started out with simply generating TornadoFX UI tests. But there’s more to it than that. If this project can be used by multiple people for multiple frameworks — could we collect that data and use machine learning to find these answers? The natural progression from metaprogramming is machine learning. Kotlin is not quite ready to call itself a data stack yet, but it has already started addressing the necessary components for a robust and stable software needed handle & analyze large data systems. This talk is an exploration in the philosophy of what makes an application, how we can formalize that philosophy in an abstraction of contract and property-based testing, and how we can use Tensorflow to help us find suggestive data points between the effectiveness of the tests we write and the circumstances surrounding the project being tested."
+
+  - title: "FED Achievement Unlocked: Modals, Boss Level"
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8014, Depaul University
+    authors:
+      - name: Santina Croniser
+        twitter: santinacroniser
+        github:
+        website:
+    slides:
+      -
+    videos:
+      -
+    description: |-
+      "Modals, popups, alerts - all that's 101 level front end development...until accessibility enters the picture. If you're ready slay massive accessibility beasts, modals have 'em all: Traps, key combos, focus, and more. Walking through a modal will help solidify accessibility concepts you can reuse in many other components. At the end of this talk, you'll walk away with some shiny new WAI ARIA weaponry to add to your coding arsenal."
+
+  - title: "Digital Discrimination: Cognitive Bias in Machine Learning"
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8010, Depaul University
+    authors:
+      - name: Maureen McElaney
+        twitter: Mo_Mack
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/duyBw6XHUh0
+    description: |-
+      From the power of open source, to tools built to detect and remove bias in machine learning models, there is a vibrant ecosystem of contributors who are working to build a digital future that is inclusive and fair. Now you can become part of the solution. With increasing regularity we see stories in the news about machine learning algorithms causing real-world harm. People’s lives and livelihood are affected by the decisions made by machines. Learn about how bias can take root in machine learning algorithms and ways to overcome it. From the power of open source, to tools built to detect and remove bias in machine learning models, there is a vibrant ecosystem of contributors who are working to build a digital future that is inclusive and fair. Now you can become part of the solution.
+
+  - title: "A DevOps State of Mind: Managing Microservices + Databases with Kubernetes"
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8014, Depaul University
+    authors:
+      - name: Chris Van Tuin
+        twitter: chrisvantuin
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/TxDc4ewAlD0
+    description: |-
+      "Rapid innovation, changing business landscapes, and new IT demands force businesses to make changes quickly.  In the eyes of many, DevOps + Microservices + Containers are at the brink of becoming pervasive in IT to accelerate business innovation. In this presentation, you’ll learn about managing containerized Microservices + Databases at scale:    Best practices for immutable and secure container images    Deployment strategies for Microservices including Recreate, Rolling, Blue/Green, A/B testing with Canaries    Managing Database migrations in a CI/CD pipeline."
+
+  - title: "Where to Run Your Code in the Cloud: Serverless, Containers, or VMs"
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8005, Depaul University
+    authors:
+      - name: Bret McGowen
+        twitter: BretMcG
+        github:
+        website:
+    slides:
+      -
+    videos:
+      -
+    description: |-
+      What do the terms serverless, containers, and virtual machines mean? Which should I use to build my app? The answer (as always) is "it depends." In this session learn the tradeoffs between these different approaches, whether you're building your app from scratch or want to move an existing web or mobile application to the cloud. We'll discuss open source tools such as Kubernetes, Isito, and Knative, and we'll discuss Google Cloud Platform tools like Compute Engine, Google Kubernetes Engine (GKE), App Engine, and Cloud Functions.
+
+  - title: "Flutter: 60 Frames of AOT Badassery"
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8002, Depaul University
+    authors:
+      - name: Scott Stoll
+        twitter: scottstoll2017
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/brhJWc3gcxg
+    description: |-
+      "This isn’t your daddy’s cross-platform solution. Let me dispel a misunderstanding right now. Unlike all of the other “cross-platform” solutions, Flutter doesn’t use bridges, proxies or interpreted code. It doesn’t normally ask the underlying framework to do things. Except for WebViews, which need to use JS and interpret it, other “cross-platform” solutions ask the frameworks to display the framework’s list view, text view or they ask the framework to display an image for them. Flutter, on the other hand, says: “Give me an OpenGL canvas. Thank you. Now hold my beer.” Flutter is 100% Ahead of Time compiled, machine code binary that runs independent of the underlying framework (just like a game engine). It draws straight to any OpenGL canvas you give it (even on Windows?) and has it’s own UI elements that are fully Material Design and Human Interface Design compliant. You’ll never have your app wrecked again because components you used were deprecated in the framework, because you aren’t using the components in the framework. (You hear that iOS?) All Material Design and Human Interface UI components are implemented pixel-for-pixel. Your users will never be able to tell the difference between a Flutter app and an Android or iOS one unless you want them to. You can put Material Design interfaces on devices made before Material Design was even a thing and imagine being able to craft an iOS UX that’s backward compatible all the way back to iPhone6! And it does all of this while adding less to the apk size than the ASL adds to your Android apps. So, are you in your seat waiting for this talk to start yet or should I tell you more?"
+
+  - title: Using Ethereum, React Native, and the Tasit SDK to Build 3rd-party Mobile Clients For dapps (decentralized apps)
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8011, Depaul University
+    authors:
+      - name: Paul Cowgill
+        twitter: paulcowgill
+        github: pcowgill
+        website: https://cowgill.io/
+    slides:
+    videos:
+      - https://youtu.be/NX7r7pdzbEQ
+    description: |
+      In this talk, I'll provide an introduction to developing with Ethereum, and I'll show how to use React Native to create a 3rd-party mobile app for an Ethereum dapp (decentralized app), using the Tasit SDK under the hood. Having built React Native apps with "traditional" back ends before, I can see that the tooling isn't quite there yet for Ethereum dapps such that a newer dev can ship a React Native MVP with new business logic or a sleeker design quickly without (A) worrying about Ethereum-related back-end details or (B) reinventing the wheel with some foundational onboarding features on the client-side. The Tasit SDK aims to solve those problems. The Tasit SDK supports ephemeral Ethereum accounts, simple onboarding, an API that abstracts away low-level Ethereum details, and first-class support for popular ERC standards. It's easy to mock today's Ethereum dapps for not having many users yet - the reason for the low user growth is that the UX of dapps is pretty terrible right now. Most dapps don't have standalone native mobile apps, and the onboarding is too confusing for regular people. Given that everything in Ethereum is permissionless and interoperable, if you nail the UX in your own 3rd-party mobile app for a dapp, it's easy to eclipse the number of users of the "real" dapp and become the de facto front end for the dapp. Having multiple front ends for a dapp is important for "right to exit" - that is, being able to use an alternative client implementation with a different feature set, different governance, and/or different pricing, without needing to export and import your data to do so. What's unique about the Ethereum ecosystem is that making a 3rd-party client is fully permissionless, which means there's no risk that the developers of a smart contract can suddenly "throttle" users of their "API" in the way that would have been possible in web 2.0.Using Ethereum, React Native, and the Tasit SDK to build 3rd-party mobile clients for dapps (decentralized apps)
+
+  - title: Taming Styles of Python Programming
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8009, Depaul University
+    authors:
+      - name: Jigyasa Grover
+        twitter: jigyasa_grover
+        github:
+        website: https://jigyasagrover.wordpress.com/
+    slides:
+      - https://docs.google.com/presentation/d/1GqK4hSI7Eq3EiFhsyMZjxPogMw8KrUn1sQigdMaJT30/edit?usp=sharing
+    videos:
+      - https://youtu.be/pYb_CwYZ0vM
+    description: |-
+      "The soaring popularity of Python and its assorted applications can be attributed to its simplicity and flexibility. In this talk, I will review the modern bloom & dominance of Python and discuss four major coding styles often used: Imperative, Procedural, Functional, and Object-Oriented. I will go over the fundamentals of each programming paradigm and discuss their positives, limitations and use cases especially in Python setting along-with a very simple hands-on example to illustrate how one routine can be coded in a different style. The talk will conclude with some pointers on how to choose a coding style for a given situation to make the code more readable, testable and coherent. This talk aims to introduce different programming styles of Python and encourage Pythonistas to reflect on the implications of each corresponding to their domain viz. data visualization, machine learning, functional programming, or embedded systems, web development. By better understanding these styles attendees will be empowered to design efficient solutions."
+
+  - title: Learnt Lessons from Mockito 2.x Migration
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8014, Depaul University
+    authors:
+      - name: Hazem Saleh
+        twitter: hazems
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RxD3XVcxWYM
+    description: |-
+      Mockito 2.x solves many problems that most of the Android developers had in their unit tests in Mockito 1.x. But what if we have today a large app with tons of unit tests written in Mockito 1.x and PowerMock, will it be an easy task to migrate? Unfortunately, it is not a straight forward task since Mockito 2.x is not fully compatible with the old behavior of Mockito 1.x. Adding to this complexity, if we have PowerMock in some of our old unit tests, then we have to face another dimension of complexity since most of PowerMock versions have integration issues with Mockito 2.x. This session goes through the learnt lessons and the tips and tricks that are needed to be considered to successfully migrate to Mockito 2.x. This session introduces techniques that can help developers to get rid of PowerMock and develop clean unit tests. This session has several demos to show the benefits of Mockito 2.x migration and the techniques for getting rid of PowerMock in unit tests.
+
+  - title: "Become a NegotiatHer: Learn the Secrets to Make More $ in Your Tech Career"
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8005, Depaul University
+    authors:
+      - name: Lauren Hasson
+        twitter: laurenrhasson
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/UhvFKOcJHi0
+    description: |-
+      Salary negotiation is an essential skill, but negotiating isn’t always so easy. Imposter syndrome, fear, and unconscious bias are real adversaries that can get in your way to a successful negotiation and earning what you deserve. The good news is that negotiation is a skill that can be learned. DevelopHer’s founder, Lauren Hasson shares how she tripled her base salary in less than two years by grounding herself in data and asking critical questions to uncover key leverage points and ultimately learned to negotiate with confidence. Attendees learn actionable steps they can take themselves to not only uncover their true market value, but also negotiate for the salary they deserve.
+
+  - title: How To Translate Your UX Skills To An Interfaceless World
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8010, Depaul University
+    authors:
+      - name: Keval Baxi
+        twitter: kevalbaxi
+        github: kevalbaxi
+        website:
+    slides:
+    videos:
+      - https://youtu.be/aw4CT4xpTng
+    description: |-
+      It doesn’t take a fortune teller to predict the dominance of interfaceless experience in the near future. Personal assistants like Siri and Google Home have already become household fixtures, and the impact of Amazon’s voice AI is perhaps best measured by the plummeting rate of parents naming their babies Alexa. And while the widespread embrace these platforms is a definite win for accessibility and inclusivity in user experience design, the prospect of crafting an interface for something that’s, well, interfaceless, can be daunting to even the most experienced UXer. But after several interfaceless design projects came across our desks, we realized that the transition to interfaceless design may be more seamless than you’d think. In fact, I argue that many of the same principles that govern the design of conventional UIs translate smoothly to this new voice-first frontier—we just need to tweak them a bit. In this talk, I’ll talk about how my agency approached interfaceless design projects, what we learned, and how we utilized our expertise to deliver some serious results.
+
+  - title: Reactive for the Impatient
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8009, Depaul University
+    authors:
+      - name: Mary Grygleski
+        twitter: mgrygles
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/g32onN-KGXk
+    description: |-
+      One way to deal with the complexity of asynchronicity in programming is to introduce reactivity onto the coding level (reactive programming), and/or to handle it on the design and architecture level (reactive systems design). This talk presents to the audience a few of the major Java-based reactive frameworks and toolkits in the market today, such as RxJava, Spring Reactor, Akka, and Vert.x. It will start by going over the basic tenets of reactive systems, and some examples of the problems that these systems aim to solve. It will discuss the 2 most commonly used Java frameworks for implementing reactive coding - RxJava and Spring Reactor, and will show some code samples. It will then bring the audience to the next level of “reactivity’ by introducing 2 reactive frameworks - Akka and Vert,x, which are usually used for implementing reactive microservices. It will draw some comparisons between these 2 frameworks and cite some real-life examples of their usages. The takeaways for the audience will be an understanding of the key differences between reactive programming versus reactive systems, and the strength and weaknesses of each of the surveyed frameworks.
+
+  - title: "Docker: From Development to Production"
+    lang: en
+    type: regular
+    time: 2019-02-01
+    room: Room 8002, Depaul University
+    authors:
+      - name: Kelly J. Andrews
+        twitter: kellyjandrews
+        github: kellyjandrews
+        website:
+    slides:
+    videos:
+      - https://youtu.be/M7jMRYizaGE
+    description: |-
+      Building applications across an organization can be a difficult process sometimes. Developer machines can have variation that can end up causing confusion and difficulty at deployment time. This can not only be problematic for the developers, but also the DevOps team as well. Moving application development to containers can reduce friction across all teams by simplifying the process in which new developers build and ship those applications. In this talk, Kelly will walk through utilizing Docker through the entire development lifecycle, from development to production of a containerized application. If you haven’t started using containers, now is the time to learn how.
