@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: FrontFest 2019
-  status: incomplete
+  status: complete
   series: frontfest.es
   tags:
     - web
@@ -18,5 +18,130 @@
     country: Spain 
     city: Madrid
   description: |-
-
 talks:
+
+  - title: "Pixies in your browser: service workers"
+    lang: es
+    type: regular
+    time: 2019-02-09
+    room: 
+    authors:
+      - name: PAQUI CALABRIA
+        twitter: zurribulle
+        github: fcalabria
+        website:
+      - name: ISMAEL NAVARRO
+        twitter: ismanapa
+        github: ismanapa
+        website:
+    slides:
+    videos:
+      - https://youtu.be/e-yaGG53yWg
+    description: |-
+      Have you ever thought that it would be great to have an extra help when it comes to your applications working? Now it is possible to have some little helpers in your browser, the service workers. In this talk we intend to make known all the possibilities behind the Services Workers beyond the caching of resources in client. We aim to demystify what lies behind this technology and show some of the many possibilities it offers. After an initial introduction we will show some examples of how to create your service workers and the different practical applications that you can get.
+
+  - title: Road to Web Components
+    lang: es
+    type: regular
+    time: 2019-02-09
+    room: 
+    authors:
+      - name: CRISTINA PONCE
+        twitter: CristinaGrim
+        github: crisgrim
+        website:
+    slides:
+    videos:
+      - https://youtu.be/y9RX6UjNQE4
+    description: |-
+      The webcomponent concept has been playing for a while and sounds louder every time thanks to libraries like Polymer or Stencil. Therefore, in this talk we will see what are the key concepts of a webcomponent, we will see how to create some examples and how to apply them in a real project. Also, we will analyze how is the standard in this sense, the advantages of using them and how we can take advantage of it to make our project more native and less attached to the framework we use in our project.
+
+  - title: How does a SPA router work? Case study with Vue Router
+    lang: es
+    type: regular
+    time: 2019-02-09
+    room: 
+    authors:
+      - name: EDUARDO SAN MARTÍN
+        twitter: posva
+        github: posva
+        website:
+    slides:
+    videos:
+    description: |-
+      When we develop a Single Page Application, it is necessary to use a Router. Each framework has its own router, React even has several packages available. And, although each framework is different and each router has a different approach, they all share the same principles. What is behind a simple and easy-to-use API? Is it really that difficult to implement a router by itself? What things fail today in Vue Router? During this talk, we will answer these questions using the official Vue Router as an example and explaining its internal functioning.
+
+  - title: "Equality in work spaces: challenges and benefits"
+    lang: es
+    type: regular
+    time: 2019-02-09
+    room: 
+    authors:
+      - name: JOSÉ ANTONIO VELA
+        twitter: ecosdegenero
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Work spaces are places where the work of very different people is shared. Diversity is an opportunity for learning and plurality of solutions, but without an assessment of it, it can become a source of disengagement and restraint. The presence of women in areas traditionally considered masculine can be perceived as a gain in wealth of human resources or, on the contrary, as an attack on traditional work dynamics. In the same way, other diversities, such as LGBT or skills, can be exploited or lost by generating violent spaces. The perception of diversity itself is influenced by the possibility of understanding new realities and questioning acquired prejudices. Throughout this paper will visit strategies and approaches that allow us to visualize the diversity and social patterns that prevent us from growing equally and take advantage of new enabling ways.
+
+  - title: How do we get it "designers" every day?
+    lang: es
+    type: regular
+    time: 2019-02-09
+    room: 
+    authors:
+      - name: JAMES HEDA WENG
+        twitter: JamesHedaWeng
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "Years ago you could draw a line between the work of a designer and that of a frontend developer easily: the designer organizes the appearance of the product and passes it on to the developer to build the interface. However, now we invest more in the user experience, in addition to looking at the appearance of the elements in the interface we also work on their behavior. As a result, the difficulty in communication between frontend designers and developers is growing in the daily workflow: the traditional form of design documentation is not flexible enough to reflect how the elements work, nor does it come in a developer-friendly format. In this talk I propose some tricks to improve the design / frontend communication in our daily work. In 40 minutes we will see in a practical way: Unification of the language in the design / frontend communication. Optimization and personalization of the content and responsibility of the work of both sides, both designers and frontend developers. As a designer, the way to provide the design in a format that is more developer-friendly. The introduction of a mediator between design and frontend in the workflow."
+
+  - title: How to program an animations engine taking care of the performance
+    lang: es
+    type: regular
+    time: 2019-02-09
+    room: 
+    authors:
+      - name: VICENTE LUCENDO
+        twitter: vlucendo
+        github:
+        website: http://vlucendo.com/
+    slides:
+    videos:
+    description: |-
+      "There are several very popular animation engines among the frontend community (TweenMax, Anime.js, Velocity, Popmotion ...) but few know how one really works. In this talk we will learn how to program one from scratch, reviewing the basic concepts of animation along the way, learning about some important aspects of the operation of a browser and finally adding all the necessary features to give our websites a "motion design" first. Once finished we will test it comparing its performance with others and we will see some of the advantages and disadvantages of programming our own libraries instead of using others already made."
+
+  - title: The rules have changed, Custom Properties!
+    lang: es
+    type: regular
+    time: 2019-02-09
+    room: 
+    authors:
+      - name: JESÚS OLAZAGOITIA
+        twitter: goiblas
+        github: goiblas
+        website:
+    slides:
+    videos:
+    description: |-
+      "It is the moment to take advantage of the potential of the custom properties, they do not come to replace the variables of the preprocessors but to offer us new ways of building the web, the next revolution after the responsive web design. The custom properties provide us with a new channel of communication with our CSS files, providing them with power and reducing the number of classes we need. But not everything is perfect, the custom properties have their peculiarities and it is necessary to know them so as not to take surprises. You will see some examples in the chat, like this or this one . Of course you will see how to modify them from Javascript, with several spectacular examples and with very few lines of code."
+
+  - title: Testing without dogmas
+    lang: es
+    type: regular
+    time: 2019-02-09
+    room: 
+    authors:
+      - name: SERGIO ARBEO
+        twitter: serabe
+        github: serabe
+        website:
+    slides:
+    videos:
+    description: |-
+      "The testing talks can be divided into two groups: the introductory ones, with generalities and comparisons without much depth; and the dogmatic, which lists what to do as if we learned the ten commandments. This talk tries to escape these two approaches and provide a series of principles, with their reasoning so you know how to use them and discard them according to the situation."
