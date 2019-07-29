@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: DevOps Conference 2019
-  status: incomplete
+  status: complete
   series: devopsconference.de
   tags:
     - devops
@@ -12,11 +12,466 @@
     videos: https://www.youtube.com/channel/UCttdqyJB5wuJOO2KXea6WMQ
     website: https://devopsconference.de/
   date:
-    from: 2019-06-11
-    to: 2019-06-14
+    from: 2019-12-02
+    to: 2019-12-05
   location:
     country: Germany
     city: Berlin
   description: |-
+    The Conference for Continuous Delivery, Microservices, Containers, Clouds and Lean Business
 
 talks:
+
+  - title: Binary Thinking is Destroying the World
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Julia Wester
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      It is so easy to think in binaries. I’m right and, because you don’t agree with me, you must be wrong. This is good and that’s something different so it must be bad. We see this type of thinking everywhere, from the political stage to corporate offices. From immigration stances to opinions of work methodologies, we see strong polarizing voices creating camps of extremism. The rising level of binary thinking that has emerged over the years has filled us with a bad taste in our mouths and made us almost lose sight of why we are communicating and working together in the first place. Binary thinking isn’t inherently bad. Like any other tool, it works out great when it’s needed but can cause massive damage when used in complex situations. Fortunately, we can begin to navigate the chasm that exists between the existing extremes by recognizing the spectrum of options between them and learning how to navigate them to reach your end goals. Come and learn how we can become spectrum thinkers and directional thinkers that care more about progress than being right or wrong. 
+
+  - title: Using Conflict and Dissent to create robust, resilient solutions
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Julia Wester
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      When we think through work we primarily focus on the happy path. this only gives us half the picture. When we take time to explore the dark side of work, we can anticipate many of the dangers lurking in wait. There are many ways to explore this dark side. This talk will cover why this is important and a handful of strategies for diving in and coming out the other side stronger. 
+
+  - title: Kick-start your DevOps Transformation as a Project
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: René Lippert
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Lido/Flight is a software build by Lufthansa Systems over the last 20+ years and is used by more than 80 airlines around the world. Its purpose is to calculate an optimal trajectory for a flight event. Due to the grown monolithic architecture, it had become very costly to maintain and enhance the software. We decided to change the architecture towards a micro services architecture and the way we build our software should follow the principals of Disciplined Agile Delivery. Mid of 2016 we have been through the first steps of our agile transformation and faced issues to rollout our software to the customers. Therefore, we decided to have a deeper look into DevOps practices and principles. Management agreed to run this as a project and I was assigned as project manger. Out of this role I will share the insights how we stated the project, what we learned during the project and what I would do different if I would have the change to do it again.
+
+  - title: Successfully scaling up an MVP – from incubator to real world – a Technologists’ view
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Clemens Utschig-Utschig
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      You got your first MVP going, your first pilot hit the street – all out of your incubator – but what’s up now? – How do you scale an MVP into a global IT organisation? This talk is about our journey, what we learned, what worked, and what failed … – from a technology perspective
+
+  - title: "DevOps ICU Workshop: Improving Dev Results by (Correctly) Integrating UX"
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Debbie Levitt
+        twitter: DevOpsICU
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "UX is driving you crazy, a black throwing off timelines and killing ideas. UX doesn’t seem Lean or Agile. They’re too siloed and not collaborating well with engineering. Can’t anybody make wireframes? Can’t we circumvent or exclude these people? Companies are figuring out that UX specialists and the User-Centered Design process are good investments that more than pay for themselves. Recent highly-publicized UX failures remind us that skimping on the UX process can alienate customers, create negative media attention, and burn millions of dollars. This workshop will explain how the UX process fits into Agile, saves companies money, augments DevOps goals, and increases customer satisfaction. Objectives include: 1) Learn that DevOps goals overlap with UX goals. 2) Correct integration of UX experts and tasks saves time and money, increases productivity and efficiency, creates the best idea execution for the target customers, and keeps engineering’s changes and rebuilds to a minimum. 3) Learn how UX specialists conduct user research; design your entire product, app, website, or system; validate it through user testing; iterate to fix flaws; and deliver vetted blueprints so you can build once. 4) How User-Centered Design fits into project timelines and development methodologies including Agile and Lean."
+
+  - title: "CI/CD Workshop: From Zero to Continuous Integration and Continuous Delivery"
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Nir Koren
+        twitter: korennir
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Continuous Integration (CI) and Continuous Delivery (CD) are development practice of applying small code changes frequently. It’s well known that it becomes more and more essential to any agile-based organization. This workshop will help you to understand the CI/CD concepts, mindset, and how to implement the practices that help to form the DevOps culture to implement CI/CD for software development. We will learn a briefly about Git, Github, Jenkins and Jenkins pipelines where finally – we will connect everything together with “Hello-world” application on your laptops.
+
+  - title: "CI/CD for Microservices: rule them all"
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Nir Koren
+        twitter: korennir
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Microservices development environment have become more and more popular in cloud-based companies to support better CI/CD methodologies. In this talk, I’ll show a case study illustrating the best practices for managing CI/CD for over 200 microservices on Docker/Kubernetes and Puppet production environments. I’ll also go over how developers can control all of these microservices using various tools, internal developments, and technologies.
+
+  - title: "Soothing the Pain: Easier CI/CD in a Kubernetes Microservices Environment"
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name:
+      - name: Nir Koren
+        twitter: korennir
+        website:
+    slides:
+    videos:
+    description: |-
+      Working on K8S Microservices environment with multiple deployments per a day from various locations (CI/CD systems, developers, production deployments etc’) – might be a confusing and leads to lack of control for the deployments tools & processes and also in Kubernetes resources management (secrets, configs, etc’). This is a pain point for almost any organization that deals with it. I would like to show a case study of how do we control our deployments and how did we solve the complexity of managing kubernetes resources and metadata for each service using internal innovative processes and tools.
+
+  - title: Well-controlled operations for your AWS infrastructure
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Syed Hamid Rasool
+        twitter: shamidrasool
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Amazon has been continually expanding its fleet of cloud services and is launching products to its large catalog. Their existing services also keep receiving regular updates to add the capabilities they have to offer. Since the past few years, AWS has consolidated a lot of management features to operation services, like Systems Manager and added more administrative capabilities. On the other end, thanks to a strong user base, there are also pretty useful and effective open source tools built by the community that exist in the wild that have proved to be extremely useful and reliable for daily operations and deployments. This talk uncovers a suite of AWS services in combination with third party tools that allow the infrastructure and platform teams running the cloud to effectively control their AWS operations. This includes handling and all the existing computation workloads and CI/CD pipelines and transitioning them to Infrastructure as Code by leveraging these relatively unknown options. The workflows introduced allow for comprehensive monitoring and securing the resources and can be applied wherever the customers are in their cloud journey.
+
+  - title: Continuous Delivery like you know no fear
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Christian Uhl
+        twitter: chrisuhl
+        github: christianuhlcc
+        website: https://uhl-steine-scherben.org/
+    slides:
+    videos:
+    description: |-
+      "Warning: This talk can make your own release process seem awfully slow and risky! Everybody does Continuous Integration – more or less, but I think a modern CD pipeline can fundamentally change the way we are collaborating while building Software. At Matmatch we’re pushing the boundaries of what Continuous Delivery can be by leveraging Gitlab and Kubernetes: Every Branch gets deployed into its own environment – and the Product Manager or the Stakeholder can release every feature directly to production with the click of a button. We don’t bundle releases anymore, every feature goes straight to production. Goodbye test systems, good riddance staging processes. Why did we, as a small startup, bother with pushing that system to its limits? To get faster feedback and to minimize risk! By releasing and failing faster than the rest, we are outpacing others when it comes to opportunities to learn. It’s a joy to work that way and and we could never imagine going back. In this talk I will walk you through our pipeline, the hiccups we had along the way to build it and the benefits we get from having this pipeline in place."
+
+  - title: "gVisor, Kata Container, Firecracker, Docker: Who is Who in the Container Space"
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Jörg Schad
+        twitter: joerg_schad
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Containers* have revolutionized the IT landscape and for a long time Docker seemed to be the the default whenever people were talking about containerization technologies**. But traditional container technologies might not be suitable if strong isolation guarantees are required. So recently new technologies such as gVisor, Kata Container, or firecracker have been introduced to close the gap between the strong isolation of virtual machines and the small resource footprint of containers. In this talk we will provide an overview of the different containerization technologies, discuss their tradeoffs, and provide guidance for different use cases. * We will define the term container in more detailed during the talk ** and yes we will also cover some of the pre-docker container space!
+
+  - title: Agile is tasty. Eat your own dog food
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Artur Margonari
+        twitter: arturmargonari
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "Even with an agile DNA, we sometimes find it challenging to work according to the agile values and principles we are so fond of. Mostly because it’s more challenging to implement Agile in a company which is not a software house. We asked ourselves: what does Agile mean for us on the inside? And in general, what does working in the agile way mean for a consulting company? That’s when some members of our team gathered around this subject and started working on it. In short sprints, with daily synchros, retrospectives, more face-to-face, transparency, collaboration and commitment. Many impediments, iterations and attempts later, we’ve reinvented all of our processes, implemented new tools and adopted new practices, keeping in mind our colleagues in France, Netherlands, Luxembroug and Switzerland. Through this session, I want to share with you this 4 years journey with all its failures & successes, the benefits and the challenges still lying ahead of us."
+
+  - title: Plumbing Kubernetes builds with Tekton
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Kamesh Sampath
+        twitter: kamesh_sampath
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Now that Kubernetes/OpenShift has become the defacto Linux container orchestration platform, it has still missed one crucial feature of in-cluster build of the container images. This missing feature made continuous integration and delivery inside of a Kubernetes cluster more challenging. The market had various solutions to solve the problem but 99% of the solutions missed something — “being Kubernetes native”. In this session, I will introduce you to Tekton – Kubernetes native way of defining and running CI/CD. The session explores the characteristics of Tekton; Cloud Native, Decoupled and Declarative. This demo filled session will show how to stitch various building blocks of Tekton to do in-cluster build and deploy (Tasks and Pipelines) a cloud native application.
+
+  - title: Cloud Agnostic Serverless with Fn Project
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Todor Todorov
+        twitter: totollygeek
+        github:
+        website: https://todorov.bg/
+    slides:
+    videos:
+    description: |-
+      Serverless is the new big player in town, that every cloud provider is pushing. It is hip and progressive, but all the vendors are locking you inside their stack or environment. Usually languages you can choose to write your functions/lambdas are limited. And don’t get me started on trying to migrate your serverless applications from one cloud provider to another or on-premises. Another hip thing lately is Docker containers and Kubernetes. Everybody loves them because they give you portability, flexibility and isolation. Now imagine what will happen if you manage to get the granularity of serverless with the power of docker containers. What if you can write your functions in any language you want, that can run in docker. In this session I will give you an overview of that and how it can happen. If you come and listen, I might just make that dream come true.
+
+  - title: "There’s no nice way to say this: Your DevOps has gone horribly wrong"
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Kalle Sirkesalo
+        twitter: Eficode
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      On a regular basis, my co-workers and I get called into a customer meeting to discuss their DevOps problems and trying to find solutions. Have you ever been in a meeting and known exactly the solution, but also known that saying it out loud will lead you to get kicked out of the room? Well, this is a story of DevOps being misused to the point that it ended up shooting the team in the foot. The team had a test environment and continuous deployment capability but this was precisely what was making the problem ever more serious in this case. The issue was velocity or rather, a lack of velocity. Join me in this talk to hear what the situation was we were confronted with, what factors led to it, and where we ended up in the end. You might also like to hear how we tried to explain this to a team that did not understand the depth of the problem they had. There was no nice way to say it. Or maybe there was.
+
+  - title: "Organizational Agility: Taking Retrospectives to the Next Level"
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Ben Linders
+        twitter: BenLinders
+        github:
+        website: https://www.benlinders.com/
+    slides:
+    videos:
+    description: |-
+      "Nowadays many agile teams are doing retrospectives regularly. They are investing time to reflect, learn, and take action to improve their way of working and deal with problems that they are facing in a structural way. Organizations are seeing the benefits from this: teams that are becoming empowered, being able to deliver more value, happy employees, and fewer people leaving the organization. It’s time to take retrospectives to a higher level, and use them to reveal and solve systematic organizational problems. Problems that exist at a project or product level, are related to the collaboration between teams and their stakeholders. Agile Retrospectives can be used to do that, but you need a different approach. In this session, Ben Linders will show how we can use retrospectives to improve the agility of organizations. He will explore: – How we can actively involve external stakeholders into the team retrospectives – What can be done to focus retrospectives on end-to-end goals and organizational-wide collaboration – How to do multi-team retrospectives at the project, product, or system level – How to create transparency on the targets and show how teams contribute to them in retrospectives – How to assist teams in self-assessing their agility"
+
+  - title: Serverless workloads with Knative
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Roland Huss
+        twitter: ro14nd
+        github:
+        website: https://ro14nd.de/
+    slides:
+    videos:
+    description: |-
+      "One of the hottest topics in Kubernetes land these days is Knative. It is a platform on top of Kubernetes which provides a set of building blocks to build, deploy and manage container-based applications and serverless workloads. This talk gives an overview of Knative and its subcomponents: “Knative build” brings the build aspect to Kubernetes. It adds an abstraction for building OCI image with various technologies like Kaniko, Buildpacks directly from within a Kubernetes cluster. We will also talk about the followup project “Tekton pipelines” which eventually will replace “Knative build” “Knative serving” provides primitives for serverless frameworks. It especially knows how to scale-to-zero and is already used in FaaS frameworks like Riff or OpenWhisk. “Knative eventing” is an eventing specification for sending CloudEvents, an emerging CNCF standard, from sources to sinks. Let’s a have a peek view on all of this, including many live demos."
+
+  - title: "PostgreSQL at low level: stay curious!"
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Dmitrii Dolgov
+        twitter: erthalion
+        github:
+        website: https://erthalion.info/
+    slides:
+    videos:
+    description: |-
+      Have you ever encountered a transient performance issue, that was hard to investigate only from the database point of view? On top of how many layers of abstraction your database is working? What is the difference between running your database on a bare metal, VM or inside a container? PostgreSQL does not work in the vacuum, it heavily relies on functionality provided by an underlying platform. And sometimes to answer these questions above one needs to step back and look at a problem not only from a database point of view. In this talk we will discuss how to achieve that, how to tame such tools as strace, perf or eBPF to troubleshoot intricate issues and stay curious.
+
+  - title: "Understanding Containers: How Namespaces, Cgroups etc. work"
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Erkan Yanar
+        twitter: erkuleswastaken
+        github:
+        website: http://linsenraum.de/
+    slides:
+    videos:
+    description: |-
+      Docker, LXC, systemd-nspawn, Rkt etc. and many others use the same kernel features of Linux to build containers. This talk is more of an interactive session in which we will look at the command line especially * namespaces * cgroups * chroot / pivot_root * overlay * network * mounts to build a container in the shell itself. The session helps to understand how containers work. Whether standalone, Docker Swarm Mode, Kubernetes or "younameit". This helps what / why / why / why to understand.
+
+  - title: "Hands-On Container Security: Sichererer Multi-Tenant-Betrieb in Kubernetes"
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Erkan Yanar
+        twitter: erkuleswastaken
+        github:
+        website: http://linsenraum.de/
+    slides:
+    videos:
+    description: |-
+      "In this HandsOn we set up a multitenant system. The question which we will answer will be how we manage different users / groups / projects to run a cluster in parallel without them get in each other's way. Say for a given cluster we go Piece by piece in securing various users and groups. We treat: * Create user (user management) * Namespaces (logical partitioning) * Resource Quotas (limit objects and resources) * LimitRanger (default resources as well as upper / lower limits) * NetworkPolicies (limit communication of the pods on the network side) * Bonus material depending on the time"
+
+  - title: Kubernetes Operators and how to implement them the Hard Way
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Roland Huss
+        twitter: ro14nd
+        github:
+        website: https://ro14nd.de/
+    slides:
+    videos:
+    description: |-
+      In this slideless session, we implement a Kubernetes Operator in nothing more than plain shell script together with some container images and Kubernetes resource descriptors. We see how to design a custom resource definition for a simple use case. There will be plenty of time for questions and discussions around operators and Kubernetes, so join us for this fun ride!
+
+  - title: "Defining priorities: Driving 100 projects with 1 number"
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Kamil Puk
+        twitter:
+        github:
+        website:
+      - name: Adam Nowak
+        twitter: lubieniebieski
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "We all know that putting a number behind our work is not so easy. It’s especially hard when you want to measure the unmeasurable, like quality or culture. As soon as we established DevOps values, we knew that we needed something which will help us to keep the CAMS (Culture Automation Metrics Sharing) model alive. As a fast-growing company, we struggled a lot with defining priorities for the entire company and cascading them down. We wanted to continuously improve, giving our teams a lot of freedom, but it was a challenge to keep all the teams aligned in common vision and direction. On one side, the project teams wanted to improve their game, on the other hand, the management wanted to make sure that we keep our strategic focus. We found a solution which helped us to keep everyone happy and start getting better outcomes every week.We would like to present you a case study and our lessons learned from introducing a virtual compound measure for our project teams. Items covered:    what were the ingredients? how did we communicate it within the company? automation and tooling we built the elements of continuous experimentation and continuous improvement we applied in our work"
+
+  - title: The first decade of DevOps is over! What’s next?!
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Konstantin Diener
+        twitter: Konstantin Diener
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "The DevOps movement started 2009 at a small conference in Ghent. I’ll take you on a journey through ten years of DevOps and try to show how the topic has evolved since that time. In the beginning DevOps was an experiment to improve the collaboration just between Dev and Ops people. Today DevOps is often seen as tooling, as many tremendous changes in IT happened since then: the rise of container technology, Microservices, Public Cloud Services, Serverless and Infrastructure as Code – just to name a few of them. But DevOps is much more than technology and tooling. Books like ‚The Phoenix Project‘ were an eye opener to the process and people aspects of DevOps. A big set of different collaboration models between Dev and Ops like SRE have been developed. We learned about topics like Continuous Delivery, Observability, ChatOps etc. and how more departments than Dev and Ops will be affected by this new way of delivering digital products. The talk will end up giving an outlook to the next exciting decade of DevOps …"
+
+  - title: "Real-world Continuous Delivery: Learn, Adapt, Improve"
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Michiel Rook
+        twitter: michieltcs
+        github:
+        website: https://www.michielrook.nl/
+    slides:
+    videos:
+    description: |-
+      This talk tells the story of a recent real life project I did together with 4 development teams. Learn how we adopted the textbook practices, patterns and principles of Continuous Delivery and applied them to an existing monolithic application. I’ll discuss what worked well & what didn’t, and how we dealt with the messy reality of failing pipelines, flaky tests and brittle infrastructure. Find out how we transitioned from mostly manual, bi-weekly, error-prone releases to 30 automated deployments per day, while significantly reducing overhead and increasing quality.
+
+  - title: DevSecOps – Security checks as part of a CI/CD-Pipeline
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Christian Schneider
+        twitter: cschneider4711
+        github:
+        website: https://www.christian-schneider.net/
+    slides:
+    videos:
+    description: |-
+      "In this #slideless session you will experience step by step how certain security checks can be integrated into CI/CD pipelines. Starting from static code scans as well as dependency analysis we will enhance a typical build pipeline with dynamic security scans — all with OpenSource tools. Finally we add a set of consolidation best practices, like false positive handling and custom scan policies."
+
+  - title: "Kubernetes Day 3: The State of Kubernetes Development Tooling"
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Ellen Körbes
+        twitter: ellenkorbes
+        github:
+        website: http://ellenkorbes.com/
+    slides:
+    videos:
+    description: |-
+      With Kubernetes emerging as the de facto standard in the service orchestration space, discussions around it shift from, “How does Kubernetes work?” to more specific concerns such as, “How do I optimize my development workflow?” Ellen Korbes takes a deep dive into the tooling available in the current landscape – such as Helm, Draft, Skaffold, Forge, Telepresence, Garden, and Tilt—and maps their capabilities to the needs of developers to answer those questions. With that knowledge in hand, discover which combinations of tools work synergistically together, and put them to use as end-to-end workflows that perform effectively in the real world, and Ellen discusses the gaps that aren’t covered by these tools. If you’re a developer working on Kubernetes-native applications and looking for better ways to bring code to production, this is a must-see.
+
+  - title: DevOps Patterns and Antipatterns for Continuous Software Updates
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Baruch Sadogursky
+        twitter: jbaruch
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      So, you want to update the software for your user, be it the nodes in your K8s cluster, a browser on user’s desktop, an app in user’s smartphone or even a user’s car. What can possibly go wrong? In this talk, we’ll analyze real-world software update fails and how multiple DevOps patterns, that fit a variety of scenarios, could have saved the developers. Manually making sure that everything works before sending update and expecting the user to do acceptance tests before they update is most definitely not on the list of such patterns. Join us for some awesome and scary continuous update horror stories and some obvious (and some not so obvious) proven ideas for improvement and best practices you can start following tomorrow.
+
+  - title: "DevOps Theory vs. Practice: A Song of Ice and Tire Fire"
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Baruch Sadogursky
+        twitter: jbaruch
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      In many DevOps talks, you see a speaker from a renowned tech company stand up and describe a perfect utopia of an environment. You look at the perfect environment and dedicated hordes of senior engineers they describe, and you despair of ever getting to that point. Your environment looks nothing like that.  Surprise – their environment doesn’t really look like that either! In this talk, a speaker from an unnamed tech unicorn describes their amazing environment– and then what they just said gets translated from "thought leader" into plain English for you by an official DevOps translator. Stop feeling sad– everything is secretly terrible!
+
+  - title: GitOps by courtesy of Jenkins-X
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Gerd Aschemann
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      We have to write Kloud with K for some time now, since it is ruled mostly by Kubernetes (k8s). Hence, we need to speak of GitOps as one important trend in DevOps. GitOps enables automatic and versioned Infrastructure-as-Code lifecycle management, i.e., setup and maintenance of k8s infrastructures based on Helm charts. Each change to the environment is filed in a branch and as a pull request to the respective environment (Git) repository. A build pipeline performs quality assurance and permission checking and applies the change to the target infrastructure. Developers and operators never get in touch with basic tools like kubectl for deployments anymore. Jenkins-X (JX) brings not only software builds to k8s but also has an integrated GitOps workflow. Besides, operations can even make use of the opinionated GitOps workflow without realizing that there is a Jenkins instance running the pipeline – treating it as a black box GitOps processor. In fact, JX runs the pipeline in a Kubeless (serverless) mode by using Prow and Knative. The latest version is even Jenkins-less by providing TektonCD as build processor. The talk will introduce Jenkins-X basics from an operations point of view. Then it will cover the GitOps methodology and how it is realized by JX. Besides, it will show what other benefits JX brings to a development team by simplifying the setup of new, or importing existing microservice applications to k8s.
+
+  - title: Service mesh with Istio for beginners
+    lang: en
+    type: regular
+    time: 2019-12-03
+    room: Hilton Munich Park
+    authors:
+      - name: Patrick Arnold
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Over the last few years, the release of different cloud-native tools has been hit hard. Docker, Kuberentes and now the subject of service meshing. The individual tools bring some advantages in the development of distributed system. As long as one speaks of a few individual services, the whole thing can be handled relatively easily with Kubernetes funds. But at some point, the challenge arises of managing a variety of services without losing sight of the true business value; Here is the tool Istio clearly. The session should focus on which support Istio provides and how it is structured.
