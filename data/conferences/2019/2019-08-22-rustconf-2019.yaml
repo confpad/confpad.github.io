@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: RustConf 2019
-  status: incomplete
+  status: complete
   series: rustconf.com
   tags:
     - rust
@@ -18,5 +18,205 @@
     country: United States
     city: Portland, OR
   description: |-
+    RustConf gathers Rust developers from around the world to learn and share with one another. It kicks off with optional training courses which lead into the Day 2 schedule of keynote speeches, technical talks and a community happy hour.
 
 talks:
+
+  - title: Class fixes; or, you become the Rust compiler
+    lang: en
+    type: regular
+    time: 2019-08-23
+    room: Romm A, Oregon Convention Center
+    authors:
+      - name: Isobel Redelmeier
+        twitter: 1z0b31
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "What's a "class fix"? Well, a class break is a is a security term for a type of vulnerability that breaks not just a single instance (e.g., a single database), but instead a whole category of systems (e.g., all MySQL databases). Let's think of class fixes, then, as the happy opposite: one solution that addresses a whole slew of problems - much like Rust does by enforcing code correctness so strictly. We'll go on a tour of the Rust features that provide us with class fixes, such as our dear, persistent friend, the borrow checker. But let's not stop there! Learning Rust can help train you to think more like the Rust compiler. We'll turn that into your new superpower, so that you can start applying the same rigor to even your non-Rust projects. Expect to walk a way with a better toolkit for holistic debugging and system design!"
+
+  - title: Messing around with fn main() and getting away with it
+    lang: en
+    type: regular
+    time: 2019-08-23
+    room: Romm B, Oregon Convention Center
+    authors:
+      - name: Yoshua Wuyts
+        twitter: yoshuawuyts
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      The introduction of return types in main has made writing binaries a lot nicer. But why stop there? What if we could make main an async fn to support top-level await? Or perhaps allow main to take command line arguments as parameters? In this talk I’ll show how to make fn main perform party tricks, make boilerplate disappear, and saw code size in half. And by the end of the show you’ll have a good picture to take home of what Rust might look like in the future.
+
+  - title: Towards an Open Ecosystem of Empowered UI Development
+    lang: en
+    type: regular
+    time: 2019-08-23
+    room: Romm A, Oregon Convention Center
+    authors:
+      - name: Adam Perry
+        twitter: adam_n_p
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Rustaceans want to write GUI apps in their "native language" and to do it with declarative syntax, type safety, great tooling, and minimal runtime overhead. Moxie is a platform-agnostic component library to provide just that, currently targeting the DOM, win32, and WebRender, with more targets to come. We're on a path to building Rust apps that instantly reflect user intent, correctly handle inputs, and save battery and CPU cycles. We discuss what makes UI hard, how others handled that in the past, and what we can do today in Rust to clear those hurdles and unlock new powers.
+
+  - title: Syscalls for Rustaceans
+    lang: en
+    type: regular
+    time: 2019-08-23
+    room: Romm B, Oregon Convention Center
+    authors:
+      - name: Gargi Sharma
+        twitter: gawwrgi
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Even if you haven't used Rust's nix package, and have just written println!("Hello, World!"), you have most certainly used syscalls. Syscalls are an interface between the operating system and a user program. strace can be used to debug git performance issues, examining internals of closed source programs, sandboxing programs and is a powerful debugging tool under your arsenal. This talk explains what syscalls are, how they work, how you can track them using strace and how you can write your own syscall tracer (strace) in Rust!
+
+  - title: Is This Magic!? Ferris Explores Rustc!
+    lang: en
+    type: regular
+    time: 2019-08-23
+    room: Romm A, Oregon Convention Center
+    authors:
+      - name: J Haigh
+        twitter: DebugSteven
+        github:
+        website:
+      - name: QuietMisdreavus
+        twitter: QuietMisdreavus
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Join our protagonist Ferris as they explore the wild unknown of the Rust compiler. With a little help from the locals, they manage to make a map of the various compiler crates, and gain an understanding of where each fits in the compiler. They also get to see where the locals congregate, and plan out their own expeditions. Eager for some extra hands, the locals start to teach Ferris the ropes of compiler development, from finding a good first issue, to setting up their own build, to testing their code. They even get some tips about working through the Pull Request workflow, to make sure their first contribution goes smoothly. Will Ferris discover the magic inside Rustc? Tune in to find out!
+
+  - title: "tokio-trace: scoped, structured, async-aware diagnostics"
+    lang: en
+    type: regular
+    time: 2019-08-23
+    room: Romm B, Oregon Convention Center
+    authors:
+      - name: Eliza Weisman
+        twitter: mycoliza
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      tokio-trace is a new set of Rust libraries that provide primitives for recording scoped, structured, and async-aware diagnostics. Unlike traditional logging, tokio-trace emits structured diagnostics that model the contextual and causal relationships between between events. tokio-trace was designed by the tokio project to solve problems with logging in asynchronous applications, but may be used in any Rust codebase. This talk presents the motivation and influences behind tokio-trace, introduces its core concepts, and demonstrates how it can be used.
+
+  - title: Monotron - Building a retro computer in Embedded Rust
+    lang: en
+    type: regular
+    time: 2019-08-23
+    room: Romm A, Oregon Convention Center
+    authors:
+      - name: Jonathan Pallant
+        twitter: therealjpster
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      I missed the simplicity of computers like the C64 and the Apple II and I wondered if I could recreate something like that, but using the inexpensive Cortex-M development board I had lying around on my desk. Can you generate VGA without a video chip? Can you render text without enough RAM to hold a bitmap framebuffer? Can I work out how to decode signals from a PS/2 keyboard? What about SD card support? What about audio output? A real-time clock? MIDI?! Parallel Printer support?!! I will outline the story of my ongoing obsession to cram as much functionality as possible into 256 KiB of Flash and 32 KiB of SRAM, using the power of Rust to build re-usable, testable components along the way.
+
+  - title: Taking constant evaluation to the limit
+    lang: en
+    type: regular
+    time: 2019-08-23
+    room: Romm B, Oregon Convention Center
+    authors:
+      - name: Oliver Schneider
+        twitter: oli_obk
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Have you ever wanted to write a static with a complex initial value? Are you programming microcontrollers? Do you want to run as little code as possible at runtime or are you trying to reduce your memory footprint? If you answered yes to any of these questions, then you probably want to evaluate all-the-things™ at compile-time with a constant evaluator. This talk will focus on explaining the inner workings of the new theoretically unrestricted constant evaluator in rustc (nicknamed Miri for "MIR interpreter") and give a short outlook on the future features Miri will enable in the Rust language.
+
+  - title: Rust for Weld, a High Performance Parallel JIT Compiler
+    lang: en
+    type: regular
+    time: 2019-08-23
+    room: Romm A, Oregon Convention Center
+    authors:
+      - name: Shoumik Palkar
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Weld is an open source Rust project that accelerates data-intensive libraries and frameworks by as much as 100x. It does so by JIT-compiling a custom parallel intermediate representation and optimizing across functions within a single library as well as across different libraries, so developers can write modular code and still get close to bare metal performance without incurring expensive data movement costs. We first describe our use of Rust to build an extensible, performance sensitive compiler for Weld. In particular, we discuss challenges in writing a native code generator with LLVM in Rust, challenges in reducing JIT compilation times within our compiler, and architecting the compiler for both extensibility using Rust's powerful trait system, but also portability of our library across other languages, such as Python and C. Finally, we discuss our experiences with building a parallel runtime in Rust, and the unique challenges associated with calling unsafe Rust from JIT'd code.
+
+  - title: From Electron, to WASM, to Rust (aaand back to Electron)
+    lang: en
+    type: regular
+    time: 2019-08-23
+    room: Romm B, Oregon Convention Center
+    authors:
+      - name: Irina Shestak
+        twitter: _lrlna
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "So you heard you can run WebAssembly in the browser, but what does this look like IRL? Seeking the much talked about performance benefits of running WASM in the browser, Compass (GUI for MongoDB) took the great leap forward and rewrote part of the application – a schema parser responsible for document analysis – in Rust. As it turns out, the rumours are true, I repeat the rumours are true: offloading parts of your application to Rust makes it fast, and in some of our cases, heaps fast. In this talk I will cover converting a part of an codebase from JavaScript to Rust, bringing it to Electron, adding WASM to an existing React app, and deploying this whole lot to production. As Compass still talks to MongoDB via Node.js, I will also cover how we used Rust to improve performance without losing data integrity. This talk is about a success story, but also about a bunch of smol mishaps, fun woopses and lil' dead ends we encountered and how we managed to overcome along the way."
+
+  - title: Bringing Rust Home to Meet the Parents
+    lang: en
+    type: regular
+    time: 2019-08-23
+    room: Romm A, Oregon Convention Center
+    authors:
+      - name: Jeremy Fitzhardinge
+        twitter: jsgf
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      How can you bring your love for Rust to your organization, and how can you set it up for success? Facebook has a ton of code written in a lot of languages. Is there room for Rust? Yes! This talk covers my journey of discovery integrating Rust into a large existing software ecosystem while trying to preserve all of Rust’s nice properties. Writing, building, testing, third-party code, foreign bindings, debugging, deployment, monitoring all need to be re-examined in the light of this new environment. How did we go from nothing to a core production service in Rust? No two orgs are alike - you’ll walk away with a practical set of questions you’ll need to consider for your org (and maybe some answers).
+
+  - title: The Symbiotic Relationship of C++ and Rust
+    lang: en
+    type: regular
+    time: 2019-08-23
+    room: Romm B, Oregon Convention Center
+    authors:
+      - name: Isabella Muerte
+        twitter: slurpsmadrips
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      For better or worse, Rust and C++ have a shared future ahead of them. C++ will affect the design of Rust, and so too will Rust affect the design of C++. Rust's future is most likely the same path as C++, but what does that mean exactly? In this talk, we'll learn about the evolution of these languages, how much they have in common, the power their respective communities have to shape them, and the responsibility these communities have to each other.
+
+  - title: Flatulence, Crystals, and Happy Little Accidents
+    lang: en
+    type: regular
+    time: 2019-08-23
+    room: Romm A, Oregon Convention Center
+    authors:
+      - name: Nick Fitzgerald
+        twitter: fitzgen
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Sometimes programming Rust can feel like serious business. Let's reject the absurdity of the real world and slip into solipsism with generative art. How does Rust hold up as a paint brush? And what can we learn when our fantasy worlds bleed back into reality?
