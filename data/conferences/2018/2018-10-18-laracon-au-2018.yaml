@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: Laracon AU 2018
-  status: incomplete
+  status: complete
   series: laracon.com.au
   tags:
     - php
@@ -18,5 +18,189 @@
     country: Australia
     city: Sydney
   description: |-
-
+    Two amazing days of learning, growing, and mingling with the Laravel community.
 talks:
+
+  - title: Resisting complexity
+    lang: en
+    type: regular
+    time: 2018-10-18
+    room: Monkey Baa
+    authors:
+      - name: Adam Wathan
+        twitter: adamwathan
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/UyaejTqR3Tc
+    description: |-
+
+  - title: A real-life journey into the opinionated world of 'utility-first' CSS
+    lang: en
+    type: regular
+    time: 2018-10-18
+    room: Monkey Baa
+    authors:
+      - name: Simon Vrachliotis
+        twitter: simonswiss
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2-q4asoHUqU
+    description: |-
+
+  - title: Turning stories into software
+    lang: en
+    type: regular
+    time: 2018-10-18
+    room: Monkey Baa
+    authors:
+      - name: Donna Benjamin
+        twitter: kattekrab
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cZhhhfu930M
+    description: |-
+
+  - title: "Goodbye, Silicon Valley: The Rise of the Indie Way"
+    lang: en
+    type: regular
+    time: 2018-10-18
+    room: Monkey Baa
+    authors:
+      - name: Kate Kendall
+        twitter: katekendall
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/qLFwonjpwiE
+    description: |-
+
+  - title: Building a complex product while scaling a team and a business on Laravel
+    lang: en
+    type: regular
+    time: 2018-10-18
+    room: Monkey Baa
+    authors:
+      - name: Alex Lüneburg
+        twitter: loonytoons
+        github:
+        website:
+      - name: Richard Wyke
+        twitter: richardwyke
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/eef3Pnxc5A0
+    description: |-
+
+  - title: Understanding git - even the scary parts
+    lang: en
+    type: regular
+    time: 2018-10-18
+    room: Monkey Baa
+    authors:
+      - name: Anwesha Chatterjee
+        twitter: AnweshaChatte12
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ofVcPhK2oYU
+    description: |-
+
+  - title: Introducing Telescope
+    lang: en
+    type: regular
+    time: 2018-10-18
+    room: Monkey Baa
+    authors:
+      - name: Taylor Otwell
+        twitter: taylorotwell
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0O6dLJX_k3w
+    description: |-
+
+  - title: Abusing Laravel for Fun and Profit
+    lang: en
+    type: regular
+    time: 2018-10-18
+    room: Monkey Baa
+    authors:
+      - name: David Hemphill
+        twitter: davidhemphill
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/dd-iHhmSi2k
+    description: |-
+
+  - title: Level up with a Microservices architecture
+    lang: en
+    type: regular
+    time: 2018-10-18
+    room: Monkey Baa
+    authors:
+      - name: Douglas Reith
+        twitter: douglas_reith
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/iAKfq4uJrBY
+    description: |-
+
+  - title: Modelling business requirements with Eloquent
+    lang: en
+    type: regular
+    time: 2018-10-18
+    room: Monkey Baa
+    authors:
+      - name: Kirk Bushell
+        twitter: kirkbushell
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/7k90hulVOGA
+    description: |-
+
+  - title: "Migrating to Laravel: Managing the ick"
+    lang: en
+    type: regular
+    time: 2018-10-18
+    room: Monkey Baa
+    authors:
+      - name: Mark Babič
+        twitter: bearcodi
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/R_0Q5rXGHXg
+    description: |-
+
+  - title: Patterns that pay off
+    lang: en
+    type: regular
+    time: 2018-10-18
+    room: Monkey Baa
+    authors:
+      - name: Matt Stauffer
+        twitter: stauffermatt
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/FNyUX2jVMeE
+    description: |-
