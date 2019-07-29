@@ -200,9 +200,7 @@ talks:
         github:
         website:
     slides:
-      -
     videos:
-      -
     description: |-
       Why does it have to be Serverless versus Microservices? Couldn’t it be rather Microservices with Serverless? Based on some of the well-accepted principles of Microservices we can use Serverless architectures and technologies to build highly focused Microservices – which we might call Nanoservices. Christian Weyer will show you a pragmatic approach how to build Nanoservices in Azure with Azure Functions, Azure Service Bus, Azure Storage & friends. Join him to see Serverless Azure in action, with .NET Core, JavaScript and Java – beyond the typical Functions-as-a-Service examples.
 
