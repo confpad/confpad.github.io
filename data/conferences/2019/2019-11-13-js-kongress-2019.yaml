@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: JS Kongress 2019
-  status: incomplete
+  status: complete
   series: js-kongress.com
   tags:
     - javascript
@@ -12,11 +12,305 @@
     videos: https://www.youtube.com/playlist?list=PL8ajgHZ7PoCviKPAFTeYRkp7cDAm6ZC50
     website: https://2019.js-kongress.com/
   date:
-    from: 2019-11-13
-    to: 2019-11-14
+    from: 2019-03-11
+    to: 2019-03-12
   location:
     country: Germany
     city: Munich
   description: |-
-
 talks:
+
+  - title: "Opening Keynote | Everything’s a plugin: Understanding webpack from the inside out"
+    lang: en 
+    type: regular
+    time: 2019-03-11
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Sean Larkin
+        twitter: TheLarkInn
+        github: thelarkinn
+        website:
+    slides:
+    videos:
+      - https://youtu.be/H3g0BdyVVxA
+    description: |-
+      "Webpack is one of the most depended on packages for front-end web development. With over 15 million monthly downloads on npm, it has been called the LLVM of the web and taken the JavaScript ecosystem by storm. However, few understand how webpack actually works and how to leverage some of its most powerful features: Custom Plugins! Join me as I walk you through the internal architecture of webpack, and show you how you can extend, implement, or modify any piece of it! Join me as we unravel the mystery behind webpack together!"
+
+  - title: "Future JavaScript: what is still missing?"
+    lang: en
+    type: regular
+    time: 2019-03-11
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Dr. Axel Rauschmayer
+        twitter: rauschma
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/rauschma/future-javascript-what-is-still-missing
+    videos:
+      - https://youtu.be/XYAgmj527PU
+    description: |-
+      In recent years, JavaScript has grown considerably in size. In this talk, we’ll explore what features are still missing and what features may not be needed.
+
+  - title: How To Combine Event Sourcing Architecture In Your Node.js Server
+    lang: en
+    type: regular
+    time: 2019-03-11
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Tamar Twena-Stern
+        twitter: SternTwena
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/tamartwena/event-sourcing-in-node-dot-js
+    videos:
+      - https://youtu.be/eOqgg0xmG3w
+    description: |-
+      The overall amount of data that our servers have to handle continue to grow every year, as servers need to handle more and more traffic. As such, event sourcing patterns become more useful to handle the load. In this talk, I would like to talk about the different architecture patterns to implement event sourcing in your Node.js server and what architecture can fit every case.
+
+  - title: A web platform feature is born! – massively distributed multiplayer engineering
+    lang: en
+    type: regular
+    time: 2019-03-11
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Mariko Kosaka
+        twitter: kosamari
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      One of the unique thing about the web is that no one owns the platform. There are multiple runtime environments available from different browser vendors, and new features are being added every day by different organizations. In this talk, we’ll look at how web platform features are proposed, developed, and tested. We’ll go over what kind of systems are in place to coordinate a massively distributed engineering project, and why you should get involved!
+
+  - title: "Taming reactive node.js: Stream-oriented architecture with NestJS"
+    lang: en
+    type: regular
+    time: 2019-03-11
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Kamil Myśliwiec
+        twitter: kammysliwiec
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/kamilmysliwiec/taming-reactive-node-dot-js-stream-oriented-architecture-with-nest
+    videos:
+      - https://youtu.be/c8hvW14VdkY
+    description: |-
+      The stream-oriented architectures are still very rare in the node.js world. While reactive programming becomes a first-class citizen in the front-end applications, we don’t have too many materials on how to apply some of these concepts in our server-side apps. In this talk, Kamil will show you Nest framework as well as introduce you to the world of event-driven systems, CQRS, and Event Sourcing concepts (and how to really take advantage of them).
+
+  - title: Mastering UIs with Finite State Machines
+    lang: en
+    type: regular
+    time: 2019-03-11
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Rubén Sospedra
+        twitter: sospedra_r) is
+        github:
+        website:
+    slides:
+      - https://github.com/sospedra/talks/blob/master/finite-state-machines/slides.pdf
+    videos:
+      - https://youtu.be/qouq0qkkIPM
+    description: |-
+      Did you ever feel like monkey patching your UI component? Adding too many if/else, handling a lot of complexity or hacking several non-desired side effects. Did you ever have a problem with double-clicking an async button? Fetching multiple times the same resource in a row? Did you have problems translating UX interfaces and mock-ups into your applications scenes? All this kind of problems can be properly fixed by applying a different point of view. An architecture based upon Mealy state machines. Also known as finite state machines or automatas. These machines are deterministic, pure and idempotents. Opening a new set of possibilities from predictable components to autogenerated tests. Let’s take a look at this new paradigm for UI components. You’ll discover a better and cleaner world 😉
+
+  - title: Like A Surgeon – Dissecting a completely Functional-Reactive JavaScript app for the very first time
+    lang: en
+    type: regular
+    time: 2019-03-11
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Netta Bondy
+        twitter: _bondit_
+        github: NettaB
+        website:
+    slides:
+      - https://www.slideshare.net/NettaBondy/like-a-surgeon-dissecting-a-completely-functional-reactive-javascript-app-for-the-very-first-time-1
+    videos:
+      - https://youtu.be/tchjAe0udO0
+    description: |-
+      Today we have the ability to write fully Functional-Reactive code in JavaScript, using RxJS. However, in our day-to-day life we often use RxJS alongside other libraries and patterns that make our life easier, but also distance us from pure Functional-Reactive Programming (FRP). What would an app that has been written completely in RxJS, and in-line with the principles of FRP, look like? In this talk we will examine such an app, and use it to understand what truly functional-reactive code in JavaScript looks like, and what are the principles that underlie it.
+
+  - title: Independent deployment of the frontend with Docker and Kubernetes
+    lang: en
+    type: regular
+    time: 2019-03-11
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Monica Lent
+        twitter: monicalent
+        github: mlent
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ZuzSEQGE9qM
+    description: |-
+      "We start with a use case: why would you even want to move to a microfrontends architecture? You’ll learn the motivation, core concepts and principles behind microservices, how they can help your frontend team work more efficiently, and the tradeoffs that are normally involved when you try to apply them to single-page applications. Luckily, Docker and Kubernetes can alleviate a lot of these issues, and we’ll walk through a minimal but concrete example of building a microfrontends architecture with these tools on your local machine. Finally, you’ll see how you could migrate gradually and what it takes to bring this architecture to production. No previous knowledge of Docker or Kubernetes is required."
+
+  - title: Crafting state management – A principle based architecture
+    lang: en
+    type: regular
+    time: 2019-03-11
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Michael Hladky
+        twitter: Michael_Hladky
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/eXNph3xMRWY
+    description: |-
+      State management is a very important topic that brings a lot of new concepts and complexity in an application’s architecture. Instead of focusing only on the implementation details of a specific lib, this talk will explain several beneficial principles of state management at a high level. Based on this knowledge you will not only be able to understand patterns like FLUX and REDUX but also get the knowledge to compare specific libraries like ngRx, ngxs, akita, redux-observable.
+
+  - title: "Opening Keynote: The big piece of the post-LAMP pie"
+    lang: en
+    type: regular
+    time: 2019-03-12
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Maria Shoaib
+        twitter: mariashoaib01
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/tdqoj7DZK9c
+    description: |-
+      "The advent of the cloud disrupted the software stack. The shift from the LAMP era to the cloud resulted in the shift of the software status quo. JavaScript is the biggest piece of the new, post-LAMP pie. It’s not only a front-end scripting language, but a software stack game changer that is equally powerful for both the front-end and back-end. The aim of this talk is to show how Javascript is one of the major platforms that is shaking up the stack landscape. The first half of the talk will cover the key drivers of the shift of the software status quo, touching upon the areas of deployment, integration, scalability, customization, and, distributed systems architecture. The second half will show the difference between stacks that once upon a time were more varied between client and server, due to JavaScript is now more fluid and homogeneous, with numerous frameworks like Koa, Meteor, React, and, Angular. The talk will be concluded by sharing resources with the attendees as migrations from the LAMP stack is as much a technical change as it is a cultural one. Required knowledge: Basics of Cloud computing, LAMP stack, Distributed Systems, and, JavaScript."
+
+  - title: "Decomposition and beyond: frontend engineering at scale"
+    lang: en
+    type: regular
+    time: 2019-03-12
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Nadia Makarevich
+        twitter: nadia_jsdev
+        github:
+        website:
+    slides:
+      - https://drive.google.com/file/d/1N9XdUqCMa6fZ0j0G4yvEs9I4MJJivIBZ/view
+    videos:
+      - https://youtu.be/UsEaqeUbNQo
+    description: |-
+      "How do you scale your codebase? We have more than 100 apps, 200 developers in 5 different time zones and more than 1 million lines of code in our frontend repository. With the codebase that big it’s vitally important to have shared patterns, principles and standards and it’s even more important to make sure everyone actually follows those standards. Learn about the architecture, patterns and technologies that Atlassian has developed to scale frontend development of it’s largest and most popular product: Jira, and lessons learned on that journey. No special knowledge is required, but familiarity and some experience with modern frontend tech stack and ecosystem would help you to get the most out of this talk."
+
+  - title: Angular, React, Vue and Co. – peacefully united thanks to Web Components and Micro Apps
+    lang: en
+    type: regular
+    time: 2019-03-12
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Manfred Steyer
+        twitter: ManfredSteyer
+        github: manfredsteyer
+        website:
+    slides:
+      - https://speakerdeck.com/manfredsteyer/angular-react-vue-and-co-peacefully-united-thanks-to-web-components-and-micro-apps-72bbaaf1-c226-47dc-b280-f2a5000c33e1
+    videos:
+      - https://youtu.be/AX11VVfex6U
+    description: |-
+      Web Development is exciting nowadays! We get new innovative technologies on a regular basis. While this is awesome it can also be overwhelming, especially when you have to maintain a product for the long term. Web Components and Micro Apps provide a remedy for this dilemma. They allow for decomposing a big solution into small self-contained parts that can be maintained by different teams using the best technology for the requirements in question. Come to this session and find out how this idea helps with writing applications that can evolve over a decade and more. Let’s peacefully unite the best technologies for the different parts of our big enterprise applications!
+
+  - title: Scaling Node.js applications with Kubernetes and Docker
+    lang: en
+    type: regular
+    time: 2019-03-12
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Erick Wendel
+        twitter: erickwendel_
+        github:
+        website:
+    slides:
+      - https://www.icloud.com/keynote/04VR3IquunOYEv3G83OTTYn8w#_Scaling_Node.js_applications_with_Kubernetes_and_Docker_-_JSKongress_-_12032019
+    videos:
+      - https://youtu.be/ZgMAYQmSJO4
+    description: |-
+      We will explore the benefits of DevOps process using Kubernetes, Docker, and Node.js. Showing how Docker and Node.js can work together, using the power of Kubernetes to release and to scale automatically stateless services. At this talk we will explore the key concepts and components to start working with Kubernetes, real scenarios and the differences between the traditional approach compared to Container based applications. Attendees will learn about the basics of Kubernetes and tips to scale Node.js applications furthermore they will learn the common problems that we face when we decide to change from monoliths to microservices using Docker and JavaScript.
+
+  - title: "Beyond JavaScript: The languages for the modern Web"
+    lang: en
+    type: regular
+    time: 2019-03-12
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Julian Antonielli
+        twitter: _jjant
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/gA6sZYKNfig
+    description: |-
+      After years of advancements in the field, creating better practices, libraries, and frameworks, it’s only natural we look at reinventing the language we use for programming the frontend. This talk will be an exposition to various modern frontend programming languages you can use today.
+
+  - title: Weaving Webs of Workers
+    lang: en
+    type: regular
+    time: 2019-03-12
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Trent Willis
+        twitter: trentmwillis
+        github: trentmwillis
+        website:
+    slides:
+      - https://noti.st/trentmwillis/RxTcdy/weaving-webs-of-workers#sAP3aNC
+    videos:
+      - https://youtu.be/voFXsFRc6jU
+    description: |-
+      The single-threaded nature of JavaScript can make handling lots of data or complex processing in your web application difficult to balance with providing a good user experience. Web Workers promise to help us find that balance and let us build fast and responsive applications even when doing heavy work, but the APIs for working with them leave much to be desired. In this talk, we’ll explore useful patterns for making Web Workers easier to work with and highlight effective ways to communicate between workers, handle complex data processing off the main thread, and test and debug them.
+
+  - title: Let your users decide what they want
+    lang: en
+    type: regular
+    time: 2019-03-12
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Narendra Shetty
+        twitter: narendra_shetty
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      We are all working towards one single goal. To create a best user experience. But most of the time we are wrong about what we think is good for the user. We usually have no idea if a feature is useful to the user until it is used by the customers. My talk is about letting the users help you understand what they need and if a particular feature is really useful for the users by using the technique of A/B testing. We are constantly running A/B tests to improve the customer experience by measuring the business metrics. Attend my talk to find out how to run A/B tests in your company at scale and what it takes to build the optimal tests.
+
+  - title: The Front-End Stands Alone
+    lang: en
+    type: regular
+    time: 2019-03-12
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Keerthana Krishnan
+        twitter: KeerthanaK17
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      With the advent of server-less architecture, front-end developers can now easily build and deploy their applications without a lot of overheads. This session aims to look at how to build a basic web application with serverless architecture and why it’s becoming more popular. The attendees should have previous experience with developing web applications with monolith or micro-service architecture.
+
+  - title: Streaming HTTP and GraphQL
+    lang: en
+    type: regular
+    time: 2019-03-12
+    room: The Alte Kongresshalle (Old Congress Hall)
+    authors:
+      - name: Rob Richard
+        twitter: rob_richard
+        github:
+        website:
+    slides:
+      - https://robrichard.net/jskongress-2019/#1
+    videos:
+      - https://youtu.be/MzRwwmKnrNQ
+    description: |-
+      Why choose between fewer network requests and slower larger responses? This talk will show you how to optimize network requests to minimize round trips without slowing down critical data paths. We will cover rarely-used but widely supported features to efficiently load data to give your app the fastest possible rendering times.
