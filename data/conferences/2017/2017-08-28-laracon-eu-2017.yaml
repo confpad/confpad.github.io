@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: Laracon EU 2017
-  status: incomplete
+  status: complete
   series: laracon.eu
   tags:
     - php
@@ -18,5 +18,445 @@
     country: Netherlands
     city: Amsterdam
   description: |-
+    Laracon EU is a unique international Laravel event with over 750 attendees. The conference has multiple tracks and is focusing on in-depth technical talks. Come learn about the state of the industry while networking with like-minded and diversely experienced developers.
 
 talks:
+
+  - title: From zero to multi-platform Chatbot with BotMan
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Marcel Pociot
+        twitter: marcelpociot
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Have you tried to write a Chatbot for multiple messaging platforms like Facebook, Telegram or Slack? It is quite cumbersome as each messaging platform has it's own way of communicating with your application. Let us find out how to simplify this task and create an intelligent Chatbot using PHP, BotMan and Laravel. When you come out of this session, I am sure you will want to start building your own chat bot.
+
+  - title: 'Denormalization With Eloquent: How, Why and When'
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Max Brokman
+        twitter: MaxBrokman
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/eh2iXuzBbTc
+    description: |- 
+      As developers we are often encouraged to store data in a normalized fashion. This improves the integrity of data and reduces data redundancy but sometimes makes read queries complex. We will explore how a denormalized data store can be used to improve the performance and developer experience of reports, listing pages and search systems. Specifically thinking about Eloquent we will see that it is possible to maintain a normalized store to ensure integrity while also automatically producing denormalized tables more suitable for running reports. The session will go through data normalization and why it is useful; the problems normalization introduces for reporting; how denormalization solves some of those problems; how we've used denormalization at Vice; strategies for automatically denormalizing your data with Eloquent; and how this could be further applied to populating search indexes.
+
+  - title: Write history, keep a diary
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Jachim Coudenys
+        twitter: coudenysj
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3Fn68v7JWKI
+    description: |- 
+      Nowadays developers, and others, have the habit to use Git or other version control systems when writing software. While the benefits of this are mostly seen by means of pull/merge requests, easy "undo" functionality, team collaboration and others, the real benefit is history. When did we change this piece of code, and more importantly: why? By using clever commit message and branch strategies, you can reconstruct the way your or your colleagues' brain was thinking a year ago! It will help you pinpoint the exact ticket where a client requested a specific change and by who it was sanctioned. Start keeping a diary today, and write history!
+
+  - title: Chat Bots
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Christoph Rumpel
+        twitter: christophrumpel
+        github:
+        website:
+    slides:
+    videos:
+    description: |- 
+
+  - title: Bruce Lee Driven Development
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Jeroen van der Gulik
+        twitter: n0x13
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LV-qXn42o6g
+    description: |- 
+      When Bruce Lee started his own martial art, he took all the best traits from the different flavours of Kung Fu and adapted it, to make his own unique version that suited him best. In this talk, I will draw parallels between software craftmanship and how Bruce Lee approached honing his skill. In the end, I will prove to you that Bruce Lee was, in fact, a software architect.
+
+  - title: Transforming PHP
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Christopher Pitt
+        twitter: assertchris
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0AZRp_8TT0U
+    description: |- 
+      If you use other languages, you've probably found features that you wish PHP had. Perhaps you miss that bit of C# class accessor syntax. Or perhaps you'd really like to use JS arrow functions... You can have those things, and you don't even have to write C to do it. I’m going to introduce you to a library that will allow you to use preprocessor macros, to turn your desired bit of syntax into valid PHP syntax. Then I’m going to show you a few libraries that use those macros to bring fresh and interesting new syntax to everyday PHP applications.
+
+  - title: Generate Laravel Code and Make Money.
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Povilas Korop
+        twitter: PovilasKorop
+        github:
+        website:
+    slides:
+    videos:
+    description: |- 
+
+  - title: Code review beyond code style
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Hannes Van De Vreken
+        twitter: hannesvdvreken
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/PwwnIBM8uec
+    description: |- 
+      Reviewing code can feel like a secondary task. Discussing code can be easy though, if you leave out syntax details. Following a couple of guidelines for pull requests can make code reviewing much easier. Some code style rules can drastically reduce the mental overhead needed to understand code changes. Furthermore this talk will give some general guidelines on how to give feedback on PRs as a peer developer or coworker. These rules are not to keep for yourself, share them with your peers and your life will get easier.
+
+  - title: 'Bad UX is Not an Option: Intuitive Software by being a Better Developer'
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Rizqi Djamaluddin
+        twitter: __rizqi
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_kXgWRN7weM
+    description: |- 
+      Just because you're a programmer doesn't mean you shouldn't make good user experiences. UX is often a second thought as we developers crunch time towards our own brand of "good" software; we spend all the time on tests, clean code and tidy commits. But we devs are actually the first line of defense in the war for user experience; good UX is not optional. We'll discuss how to think as a developer that encourages good user experiences. We'll look back at how the web evolved, and how we geeks think differently from your average user. We'll see exactly why developers tend to suck at UX. And we'll show how bad experiences can kill even the greatest apps. Then the good stuff: real tweaks to your workflow, as a developer, that makes good UX a first-class citizen in your project. Writing error messages and alerts. The evils of modals and validation balloons. Why even copy should be subject to scrutiny. How to clean up your interface and implement simple A/B testing to make the most of your design. Finally we'll cover the lifestyle changes - both as a professional and as a developer - we all need to make. Dogfood our own stuff. Keep detailed logs and information streams within our code to track user habits. Set up staging servers and field test your design over lunch. Make a habit of testing every page of your app on every device. Find true love... And then ask them to test your app, too.
+
+  - title: A Practical Intro into Snapshot Testing
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Freek van der Herten
+        twitter: sarah_edo
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/VsG5l5e44ZY
+    description: |- 
+      We talk a lot about how to animate on the web, and what's possible in browsers today, but where is animation heading? In this talk, we'll start with some bleeding edge techniques such as native-like page transitions with nuxt, but then we'll push it further. The intersection of health and animation with biofeedback sensors and Vue, the future of 3d in the browser complete with interviews with people who are writing these specs... this talk will show that in terms of animation on the web, we're just getting started
+
+  - title: 'Concept to Completion: Building a Lumen API handling in Excess of 10M requests per day'
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Anna Fohlmeister
+        twitter: aboutyoude
+        github:
+        website:
+    slides:
+    videos:
+    description: |- 
+      Superficially, one might assume, that API development has devolved into a cookie cutter problem - pick a framework, let the developers CRUD it out - and with less complexity than an IKEA wardrobe setup, you have your endpoints. But when your API is replacing an existing high-volume application and has to ramp from 0 to 100 within seconds, the stakes are exponentially higher to "get it right". I would like to take you back in time, starting with the deceivingly simple one-line spec "we need an API to handle baskets and wishlists" and taking you step by step to the completed application as it stands now. As a product manager, I will first be focusing on laying the groundwork - how we realized our KPIs were irreconcilable and then identifying the hidden trade-offs to make it work anyway. Then involving our stakeholders to define the best possible data structures and endpoint behavior to make the switch from the legacy application as hassle-free as possible. Last of all: finding solutions to mitigate the issues you will inevitably encounter when tracking merchandise availability. Following the planning phase, I'd like to focus on the application architecture - particularly why Lumen was a natural choice, and how we played to the framework's strengths. This was crucial, as beside the standard trifecta of secure, scalable and maintainable, the Basket API also needed to be exceptionally fault-tolerant ... and would have to be built in three weeks. Last of all, I would like to review the ongoing maintenance aspects: how we approached logging & monitoring. The painful experiences we gained in backups. How we ensure that the API continues to be easy to integrate and extend. What we would now do differently in retrospect.
+
+  - title: Monads in PHP
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Christopher Pitt
+        twitter: assertchris
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2th3L1RWvJk
+    description: |- 
+      Many developers get lost in the hype of object oriented design. They miss out on how expressive and succinct their code could be if they tried functional programming. Take Monads, for instance. Many developers haven't even heard the name, much less are able to describe what Monads are and how they can be useful in every-day code. In this talk, we'll gain a clear and simple understanding of what Monads are, and how they can help us to refactor our code to be clear and concise.
+
+  - title: Laravel Design Patterns
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Bobby Bouwmann
+        twitter: bobbybouwmann
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2th3L1RWvJk
+    description: |- 
+      Most of us use Design Patterns on a daily basis without noticing. Design patterns are commonly defined as solutions to recurring design problems. Frameworks like Laravel use Design Patterns throughout the codebase to keep structure and maintainability. In this talk we will explore the Design Patterns used in Laravel. Once we have a basis of the design patterns we go into some practical examples.
+
+  - title: 'Laravel on ABOUT YOU: Philosophies of Development at Scale'
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Robert Kilian and Pedro Nogueira
+        twitter: aboutyoude
+        github:
+        website:
+    slides:
+    videos:
+    description: |- 
+      Since it's inception in 2014 ABOUT YOU has been consistently growing as an e-commerce company throughout the years; with this comes an inevitable necessity to advance our processes and approaches to development. Scaling up the number of developers, teams and projects brings about a number of challenges that are often not obvious and impose trade-offs that call into question commonly used practices and ideas. In this talk, we’ll present to you our development philosophies and some of the main ideas within our Coding Guidelines and how they work in conjunction with our organisational model called MOVE. In addition, we’ll talk about how we make use Laravel and it's unique characteristics that make it a good fit to our culture.
+
+  - title: State of Laravel
+    lang: en
+    type: regular
+    time: 2019-08-29
+    room:
+    authors:
+      - name: Taylor Otwell
+        twitter: taylorotwell
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2pLL00WR5iU
+    description: |- 
+      Taylor Otwell is the creator and maintainer of the Laravel framework and Laravel Forge.
+
+  - title: 'Project Triage: What to Do When Everything Hits the Fan'
+    lang: en
+    type: regular
+    time: 2019-08-30
+    room:
+    authors:
+      - name: Eryn O'Neil
+        twitter: eryno
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/arE2x74-RK4
+    description: |- 
+      "Hope for the best and plan for the worst." We spend a lot of time talking about best practices: the ways we should run our projects and write our software so that everything turns out as well as possible. But when you add human beings to the mix—whether they're coworkers, clients, or, well, you and I—something will eventually go wrong. Using case studies from the interactive agency world (where no two clients are ever the same), we'll talk about methods for triage, what to do when you sense a project is on shaky ground, and ways to ensure everyone gets to the other side in one piece.
+
+  - title: Building a realtime dashboard with Laravel, Vue and Pusher
+    lang: en
+    type: regular
+    time: 2019-08-30
+    room:
+    authors:
+      - name: Freek Van der Herten
+        twitter: sarah_edo
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/jtB_rTh61Zo
+    description: |- 
+      On the wall mounted TV in our office a dashboard is displayed. At a glance we can see what the current tasks for each member of our team are, which important events are coming up, which music is playing, ... and much more. In this talk I'll explain how we leveraged both Laravel and Vue to build the dashboard. After demonstrating the dashboard itself we'll take a deep dive in the code. We'll take a look at the entire flow: the grid system, how events are broadcasted using Pusher, some cool Vue mixins and much more. After this talk you’ll be able to setup your dashboard using our open sourced code.
+
+  - title: Build an Airbnb-like search with Laravel, Algolia and Vue.js
+    lang: en
+    type: regular
+    time: 2019-08-30
+    room:
+    authors:
+      - name: Julien Bourdeau
+        twitter: algolia
+        github:
+        website:
+    slides:
+    videos:
+    description: |- 
+      Building search can be complicated, you have to find the relevant data, rank them, handle typos and of course, it has to be fast. In this talk I will show you how to build a typo-tolerant geo-aware lightning-fast search with Laravel and Algolia. We will basically reproduce Airbnb search experience in 45 minute.
+
+  - title: 'Debugging Design: 5 simple design principles to make your UI "not look terrible".'
+    lang: en
+    type: regular
+    time: 2019-08-30
+    room:
+    authors:
+      - name: Laura Elizabeth
+        twitter: laurium
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9z61670MVQo
+    description: |- 
+      "I can code pretty much anything, but when it comes to designing the front end, it's like I hit a brick wall.". Does that sound familiar? Many developers struggle with design. Maybe you know good design when you see it but you have **no idea how to replicate it.** Or perhaps you think design is reserved for the elusive 'creative folk'. But a nice, visually appealing design can do wonders for your product or website. It doesn't have to be award-winning or an _'at an angle on an iMac getting tons of faves on Dribbble'_ masterpiece. But a **smart, consistent design based on solid principles will take your designs to the next level.** I'm not going to teach you how to be a 'design ninja' but you'll walk away with **5 rock-solid principles** that you can apply to every bit of front end work you do. If you follow the simple exercises your designs WILL improve. They'll be usable, clean and structured. In this talk, you'll learn: 1. A repeatable process that you can use for creating any colour palette 2. Choosing the right fonts 3. Making sense of hierarchy 4. Coming up with decent layouts 5. How to make your designs look 'polished' You're going to walk away with a solid understanding of design principles that will not only help you in your day to day work but it will also help you and any designers you work with see eye-to-eye.
+
+  - title: 12 tried and tested top tips for better testing
+    lang: en
+    type: regular
+    time: 2019-08-30
+    room:
+    authors:
+      - name: Vladimir Novick
+        twitter: VladimirNovick
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/p6_6XA8RRYE
+    description: |- 
+      Vladamir shows us a simplified run through of how you could use subscriptions in your Vue apps.
+
+  - title: Building your API with Apiary & Dredd
+    lang: en
+    type: regular
+    time: 2019-08-30
+    room:
+    authors:
+      - name: Dries Vints
+        twitter: driesvints
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/bBxTGmF7kP4
+    description: |- 
+      Building API's often involves writing tests which are directly bound to the codebase of the API. Besides writing tests you also want to provide a thorough and up-to-date documentation of your API for your users or developers. Keeping your API in sync with your documentation can be a tedious thing. Apiary & Dredd can help you solve these problems. In this live-coding talk you will learn how to leverage Dredd to test your API against a Blueprint specification instead of using tests. After that we're going to see how we can use Apiary to provide public and constantly up-to-date documentation for your users and developers. We'll take a closer look at Dredd hooks and Blueprint to see how we can use it to its max. potential. Eventually we'll integrate all of this in a continuous integration workflow so we can automate the process altogether. To wrap it up we'll check into some extra features Apiary offers to build your API.
+
+  - title: JWT - To authentication & beyond!
+    lang: en
+    type: regular
+    time: 2019-08-30
+    room:
+    authors:
+      - name: Luís Cobucci
+        twitter: lcobucci
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xRIBYkSrwWo
+    description: |- 
+      Tokens are widely used to identify resources and try to add some security to insecure environments, but sometimes the management of those identifiers can get a bit complex - even more on distributed systems. What if we could have an intelligent token, one that simplifies the way things works without losing integrity or security? In this talk we present JSON Web Tokens as an alternative for smart and self contained tokens, explaining how to use each claim and giving some common use cases.
+
+  - title: Building your API with Apiary & Dredd
+    lang: en
+    type: regular
+    time: 2019-08-30
+    room:
+    authors:
+      - name: Dries Vints
+        twitter: ratracegrad
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/NHUiQvYXxw4
+    description: |- 
+
+  - title: Improve your developer's toolset
+    lang: en
+    type: regular
+    time: 2019-08-30
+    room:
+    authors:
+      - name: Paweł Lewtak
+        twitter: pawel_lewtak
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/TajEHYYdXMo
+    description: |- 
+      For PHP development we mainly focus on IDE, browser and maybe a bit of command line. I want to focus on command line tools which seem to be a bit forgotten these days. Let me show a few tools I'm using on daily basis and how they helped me become more productive. I'll prove it's possible to start up a new environment from scratch that feels like $HOME. Finally I want to convince you how important it is to constantly challenge yourself and your tools, how useful is a custom toolbox tailored to you.
+
+  - title: Stop listening to the internet
+    lang: en
+    type: regular
+    time: 2019-08-30
+    room:
+    authors:
+      - name: Femke van Schoonhoven
+        twitter: femkesvs
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DCmX4ahF8sM
+    description: |- 
+
+  - title: The Ramp Up to Vue
+    lang: en
+    type: regular
+    time: 2019-08-30
+    room:
+    authors:
+      - name: Charles Villard
+        twitter: cdvillard
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/q0UJSePrEg0
+    description: |- 
+      Charles talks about his very first experiences with Vue.js and all of the steps he took to understanding Vue. This talk is a brief look at what type of journey it could look like realistically when you’re first starting out.
+
+  - title: Inside Vue Components
+    lang: en
+    type: regular
+    time: 2019-08-30
+    room:
+    authors:
+      - name: Evan You
+        twitter: youyuxi
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/wZN_FtZRYC8
+    description: |- 
+      If you've used Vue with Laravel, you've likely become used to the single file Vue components that just works out of the box. This talk will discuss how we moved from the traditional language-based separation of concern to this new pattern for composing UI in our apps, how this trend is reflected in the bigger frontend scene as a whole, and some technical details on how all the magic happens under the hood
+
+  - title: 'Concept to Completion: Building a Lumen API handling in Excess of 10M requests per day'
+    lang: en
+    type: lightning
+    time: 2019-03-27
+    room:
+    authors:
+      - name: Anna Fohlmeister
+        twitter: aboutyoude
+        github:
+        website:
+    slides:
+    videos:
+    description: |- 
+      Superficially, one might assume, that API development has devolved into a cookie cutter problem - pick a framework, let the developers CRUD it out - and with less complexity than an IKEA wardrobe setup, you have your endpoints. But when your API is replacing an existing high-volume application and has to ramp from 0 to 100 within seconds, the stakes are exponentially higher to "get it right". I would like to take you back in time, starting with the deceivingly simple one-line spec "we need an API to handle baskets and wishlists" and taking you step by step to the completed application as it stands now. As a product manager, I will first be focusing on laying the groundwork - how we realized our KPIs were irreconcilable and then identifying the hidden trade-offs to make it work anyway. Then involving our stakeholders to define the best possible data structures and endpoint behavior to make the switch from the legacy application as hassle-free as possible. Last of all: finding solutions to mitigate the issues you will inevitably encounter when tracking merchandise availability. Following the planning phase, I'd like to focus on the application architecture - particularly why Lumen was a natural choice, and how we played to the framework's strengths. This was crucial, as beside the standard trifecta of secure, scalable and maintainable, the Basket API also needed to be exceptionally fault-tolerant ... and would have to be built in three weeks. Last of all, I would like to review the ongoing maintenance aspects: how we approached logging & monitoring. The painful experiences we gained in backups. How we ensure that the API continues to be easy to integrate and extend. What we would now do differently in retrospect.
+
+  
