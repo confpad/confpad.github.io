@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: DevOps Pro Europe 2019
-  status: incomplete
+  status: complete
   series: devopspro.lt
   tags:
     - devops
@@ -18,5 +18,697 @@
     country: Lithuania
     city: Vilnius
   description: |-
+    "Annual DevOps Pro Europe conference covers the core principles and concepts of the DevOps methodology and demonstrates how to use the most common DevOps patterns to develop, deploy and maintain applications on-premises and in the cloud. DevOps Pro Europe conference puts the spotlight on entire software delivery pipeline and the following domains: DevOps Approach: Continuous Delivery, Continuous Integration, Configuration Management, Automated Testing and Deployment. DevOps World Experience: Technology Adoption, Real Life Implementation Examples, Best Practices and Insights from the Field. DevOps Tools: Docker, Chef, Puppet, PowerShell, Kubernetes, GitHub, Ansible, SaltStack, Capistrano, Jenkins. DevOps Technologies: Virtualization, Containerization, Orchestration, Microservices, Cloud Computing (Google Compute Engine, Azure, OpenStack)"
 
 talks:
+
+  - title: Docker Image Journey - How to Shrink a Docker Image
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 5, Multikino
+    authors:
+      - name: Lothar Schulz
+        twitter: lothar_schulz
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_6R0nk_gWbY
+    description: |-
+      A team story how the docker image of one of the team’s project did change over time. Smaller docker images offer some advantages as well as disadvantages Lothar will share throughout this talk. Advantages of smaller docker images include less docker pull times and potentially reduced security surface. Disadvantages include missing tools like bash in smaller docker images.
+
+  - title: On-Call Experience at Uber
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 6, Multikino
+    authors:
+      - name: Steponas Dauginis
+        twitter:
+        github:
+        website:
+      - name: Vytautas Šaltenis
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/iJg1iTizues
+    description: |-
+      Monitoring systems is hard. Monitoring large systems is even harder. What do you do when your (good) monitoring detects that something is wrong? Alert the on-call with all you’ve got! What do the on-call engineers do? Panic! This is bound to happen unless you build a positive and productive experience for the on-call engineers. We’re here to tell you about the tools and practices that we develop to make on-call a healthy activity at Uber.
+
+  - title: Cynefin and Sense-Making in the Digital World
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 1, Multikino
+    authors:
+      - name: Kaimar Karu
+        twitter: kaimarkaru
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/NmDmUYRMTpM
+    description: |-
+      "Cynefin (meaning ‘habitat’ in Welsh) is a sense-making framework, developed by Dave Snowden, and used for improving situational awareness and helping with decision-making by managers and hands-on professionals in various industries, including IT. The framework differentiates between ordered and unordered systems and introduces five domains (simple, complicated, complex, chaotic, and disorder) that make it easier to identify the best next steps in any (challenging) situation. The session introduces the basic concepts in Cynefin and describes its applicability to IT management and DevOps. We will cover the following: – Supporting organisational change initiatives and transformation programs – How to recognise your context and choose suitable methods – How to make decisions in complex environments – How to avoid ‘one size fits all’ approaches – How to enable and support innovation – How to support continual improvement"
+
+  - title: "Syslog-ng for DevOps: Customized Logging with Python"
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 2, Multikino
+    authors:
+      - name: Peter Czanik
+        twitter: Pczanik
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/r2ajb4pEt-M
+    description: |-
+      "The syslog-ng application collects logs from many different sources, performs real-time log analysis by processing and filtering them, and finally it stores the logs, or forwards them for further analysis. It was originally developed in C due to its low footprint and high performance. Recently Python language bindings were added, so you can collect, process, and store log messages using embedded Python code. DevOps engineers often use syslog-ng due to its low footprint and high performance. The new Python bindings make it easy to extend syslog-ng without touching the core of the application or requiring a complex development development environment. Python bindings always have two parts: a configuration part – where you configure a source, parser, or destination – and the actual Python code part. You can store the code in-line in the syslog-ng configuration file, or in external files, if you have a larger project. Obviously the Python code is slower than native C code. On the other hand, extending syslog-ng in Python offers a lot more flexibility than development in C. It is easy to get started, as there is no need for extra setup. You can get proof-of-concept minimal setup working with a single method quickly. You can extend it later to have proper initialization and connection control for added robustness. Learn how to customize your log processing infrastructure in Python using syslog-ng, integrate your logs to local and cloud services, and the implementation details and benefits of such solutions."
+
+  - title: Logging, Instrumentation, Dashboards, Alerts
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 5, Multikino
+    authors:
+      - name: Henry Been
+        twitter: @henry_been
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Mf5gVdmFo5k
+    description: |-
+      "Embracing DevOps entails more than just shipping changes to production faster and faster. Your team is suddenly also responsible for monitoring your software in production and detecting and troubleshooting issues. To work together with operation specialists in your team or maybe even embrace a #NoOps approach, you as the developer, need to learn about monitoring. We will discuss logging frameworks and log analytics solutions. Next to that we will explore metrics: your software’s KPI’s. What metrics to choose and how to gather them. To let information come to us, we will use both logging and metrics to create dashboards and alerts that notify us when things go south. Or better yet: before things go south! Finally, we will combine all of this to see how we can quickly investigate and resolve production issues. Join Henry Been for a demo heavy session, including like NLog, Application Insights, Seq and more to see how to implement all of the above from scratch. During this session, you will learn everything you need to know to start monitoring your solutions and never lose any sleep ever again!"
+
+  - title: "Data Breaches: Barbarians in the Throne Room"
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 6, Multikino
+    authors:
+      - name: Dave Lewis
+        twitter: @gattaca
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9AJYPg1hFrw
+    description: |-
+      Websites these days strive to get your attention in the hopes that you will stick around long enough to buy a product or two from them. But, not all websites take security as seriously as they should. Dave has seen websites for financial services organizations that only permitted a 4 character password, ones that would expose customer data with a simple trick. These are just some examples that Dave has been through in which he will highlight the errors that can happen when deploying a site. He will provide examples of poor implementations, code errors discuss how security can be better deployed.
+
+  - title: Jenkins Scaling and Organization for an Efficient CI
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 1, Multikino
+    authors:
+      - name: Andrea Giardini
+        twitter: @GiardiniAndrea
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4_Af2Uu8vuY
+    description: |-
+      We can’t discuss automation and DevOps without discussing Continuous Integration and Deployment. At Camunda, we develop open-source software for workflow automation and, over the years, we’ve built an extensive CI/CD system based on Jenkins. Today our biggest instance has more than 2,500 jobs. On top of that, our other projects manage Jenkins instances autonomously, relying on Kubernetes. Reaching this scale was a challenge in terms of organization, performance and scalability. The infrastructure team at Camunda had to evaluate different solutions and find ways to manage such a complex scenario, while giving developers the right degree of freedom and trust. During his talk, Andrea will explain how his team is able to manage all these environments and which approach they found most successful for their use case.
+
+  - title: How the Future of Software Will be Different
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 2, Multikino
+    authors:
+      - name: Johannes Nicolai
+        twitter: @Pulipan1
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Pxzehy1Sfko
+    description: |-
+      Development is always changing. The software frameworks we use go in and out of fashion all the time, but how much has the process of development itself changed in recent history? Developing new ways of development has to happen to move software forward. The talk is about the type of innovation whose technology is already proven, but has barely reached mainstream development yet – Innovations in the areas of security and semantic code analysis, mixed with the advancements in machine-learning on large development activity data sets and Open Source community research. The audience will (hopefully) leave with a believable vision for what coding might look like for the next generation and get an idea what kind of programming jobs will continue to exist in 5 years and what programming tasks will already be partially automated by robots.
+
+  - title: "DevSecOps: How to Use DevOps to Make You More Secure"
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 5, Multikino
+    authors:
+      - name: Zane Lackey
+        twitter: @zanelackey
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/TBBc5tNKqgg
+    description: |-
+      This talk will share the lessons learned as CISO at Etsy building a security program at the leading edge of the DevOps movement. Specifically it will cover how, when done right, a modern approach to security actually empowers an organization to move faster, rather than act as a blocker.
+
+  - title: Accelerate AppDev with KIK (Kubernetes-Istio-Knative) 
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 6, Multikino
+    authors:
+      - name: Dharmesh Sheta
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/p_C7LvhFirs
+    description: |-
+      This session will show you (irrespective of dev or ops or both) how to reduce time to change production and master deployment with no downtime. You’ll learn how Google Kubernetes Engine reduces the administrative burden of running the infrastructure, giving your IT teams valuable time on innovation projects. You’ll also get a taste of Istio, the new open system for secure management of micro-service networks. Next step is to go serverless using Knative and become infrastructure independent.
+
+  - title: Business Analysis Activities in a CD Environment
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 1, Multikino
+    authors:
+      - name: Liviu-Stefanita Baiu
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1LzX35MI10M
+    description: |-
+      Continuous Delivery implementation is a challenge in an outsourcing project, and the BA contribution to such a project may vary but definitely needs to be there. From User Story sizing, Acceptance Criteria and Documentation approach, to help defining Quality Gateways, a BA contribution can have many shapes and nuances, and all converge to collaboration with the DevOps Specialist.
+
+  - title: Reliability Lessons from Running High Traffic Services for More Than 10 Years
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 2, Multikino
+    authors:
+      - name: Augusto Rosa
+        twitter: @kiniama
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/sCkVqBYFX0Q
+    description: |-
+      This talk focus on Augusto’s learnings of running many of Canada’s high traffic websites, from simple page-views, petabyte level video traffic, and large Black Friday retail commerce transactions, and real-time services. Learn from mistakes and some of the things Augusto learned through those years in making things run reliably. Augusto’s talk is part experience and part rant on things many services seem always to do. After this talk, you will be an expert in his reliability lessons from the Mission Impossible of running digital services reliability. You can take those with you and apply slowly to your practices. Some of these lessons improved uptime and reliability at many of the services Augusto worked in the last decade. Finally, he will review the latest news and tricks of running reliable services, including Google’s Site Reliability Engineering and Netflix Chaos Engineering practices.
+
+  - title: "DevOps in the Enterprise: My Experience at Accenture"
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 5, Multikino
+    authors:
+      - name: Jose Quaresma
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/GNUY89P8xio
+    description: |-
+      In this presentation, Jose will share what he has learned in the last years working in the DevOps area with big enterprises at Accenture. He will argue for why Agile and DevOps practices are so important, why it matters for software developers, will share some of the Agile and DevOps lessons that he has learned until now, and will also discuss some anti-patterns. Finally, he will take you through some real life examples to show you some of the DevOps work that he has been doing.
+
+  - title: Knative: A Kubernetes Framework to manage Serverless Workloads
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 6, Multikino
+    authors:
+      - name: Nikhil Barthwal
+        twitter: nikhilbarthwal
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/KiQW-VudGlw
+    description: |-
+      "Knative is a Kubernetes-based platform to build, deploy, and manage modern serverless workloads. It provides a set of middleware components that are essential to build modern, source-centric, and container-based applications that can run anywhere: on premises, in the cloud, or even in a third-party data center. Knative components are built on Kubernetes and codify the best practices shared by successful real-world Kubernetes-based frameworks. Each of the components under the Knative project attempt to identify common patterns and codify the best practices that are shared by successful real-world Kubernetes-based frameworks and applications. Knative components focus on solving many mundane but difficult tasks such as: – Deploying a container – Orchestrating source-to-URL workflows on Kubernetes – Routing and managing traffic with blue/green deployment – Automatic scaling and sizing workloads based on demand – Binding running services to eventing ecosystems This talk describes how Knative enables you to focus just on writing interesting code, without worrying about the “boring but difficult”parts of building, deploying, and managing an application. It shows how developers can even use familiar idioms, languages, and frameworks to deploy any workload: functions, applications, or containers."
+
+  - title: DevOps - The Automation of Compliance
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 1, Multikino
+    authors:
+      - name: Erwin Staal
+        twitter: erwin_staal
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/EPpuEensbdA
+    description: |-
+      "Many organizations are adopting DevOps patterns and practices, and are enjoying the benefits that come from that adoption: More speed. Higher quality. Better value. However, many teams often get stymied when dealing with information security, compliance, and audit requirements. There seems to be a misconception that DevOps practices won’t work in large organizations which are under regulations or have their own strict processes. DevOps actually helps teams meet compliance standards because automation is not only an integral part of DevOps, but a great way to make sure development and deploy practices are reliable, repeatable, and traceable. In this talk I’ll get you from lengthy cycle times and feedback loops to getting things done again. We will look at both the soft and technical practices. I will cover branch policies, checks you can do during your build and deployment, Azure Security Center and more."
+
+  - title: Getting Out of Quicksand, With DevOps!
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 2, Multikino
+    authors:
+      - name: Roman Pickl
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/19nZ7WJ2sPg
+    description: |-
+      "Join me in this talk about why high workload leads to increasing waiting times and is detrimental to your project’s success. We will not only talk about queuing theory and capacity management, but also about devops strategies to cope with high utilization and how to start a virtuous circle. Teams often find themselves in high workload situations, showing symptoms of overload and being to busy to implement the necessary changes or adopt the state-of-the-art tools to get the upper hand. This is a story of how we applied the Three Ways of DevOps to get out of a state we referred to as quicksand (The more you fight it, the more it pulls you in). I will not only talk about queueing theory and capacity management, but also about DevOps strategies to cope with high utilization and how to start a virtuous circle. Key Takeaways are: * Crisis situations are opportunities for change * Often it takes fresh eyes or at least courage to see the problems * High workload leads to increasing waiting times * Get out of the quicksand with devops: * Quantify the work and set goals * Measure * Less is more * Automate the right things * Establish a continuous improvement process * Start a virtuous circle"
+
+  - title: CI/CD with Kubernetes - the Good, the Bad and the Ugly
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 5, Multikino
+    authors:
+      - name: Hagai Barel
+        twitter: @HagaiBarel
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/42TIHAvX8VY
+    description: |-
+      CI/CD is in integral part of the DevOps culture. It allows us to provide a consistent, reproducible and automated way to build, test and deploy our code. The flexible nature of Kubernetes makes it an ideal platform to run CI/CD pipelines, dynamically and efficiently. In this talk we’ll explore the advantages kubernetes provides in regards to automation and CI/CD, the difficulties and pain points, and finally the workarounds and hacks to glue all the pieces together.
+
+  - title: Application Performances Monitoring with Elastic APM and the ELK Stack
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 6, Multikino
+    authors:
+      - name: Alain Lompo
+        twitter: alainlompo
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/m_iuvYFo7cc
+    description: |-
+      "The recent technological improvements have make it really difficult to properly monitor application performances. Luckily great tools such as Elastic APM are taking care of the problem efficiently. Learn in this presentation how to diagnose, analyse and monitor your applications using Elastic APM. In correlation with the fast paced technological evolution, software applications have also evolved to become more complex, more distributed and more dynamic. Cloud computing has pushed this evolution a step further. Therefore it is now more difficult to properly monitor application performances and ensure the end user that he will get the high-quality experience he is expecting. Luckily great tools such as Elastic APM are taking care of the problem efficiently. In this presentation I will introduce the audience to Elastic APM and then I will show them how to integrate it to their Spring boot applications and how to diagnose, analyse and monitor their applications. They will become familiar with the use of Elastic APM main components: the agent, the server and the user interface. I will show the audience how to instrument your applications to ship performance metrics to Elasticsearch in order to visualise them with Kibana’s pre-configured or customised dashboards. They will also learn how to analyse user request from the invocation sequence and detect the root causes of potential problems. They will learn by using the Elastic APM dedicated UI to identify bottlenecks and by taking advantage of the ELK Stack, to spot the code level related issues. They will finally see how easy it is to perform real time monitoring with Elastic APM in a production like environment."
+
+  - title: "Sync Work Items Between Multiple Team Projects on Azure DevOps: the Good, the Bad, the Ugly..."
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 1, Multikino
+    authors:
+      - name: Lorenzo Barbieri
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/o8HevFF8Wh0
+    description: |-
+      In this session, we’ll see how to migrate and continuously sync workitems in real-time between multiple Team Projects on Azure DevOps using Service Hooks and Azure serverless technologies. It seems easy on the surface, but you should be aware of some details 🙂
+
+  - title: Unicorns and Elephants - Establishing DevOps in an Established Environment
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 5, Multikino
+    authors:
+      - name: Rick Allan
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      DevOps is clearly the way forward for every organisation using software to sail the turbulent waters of 21st century. Where that organisation is relatively new, this approach is natural. Where an organisation has mainframes, running cobol systems that have been central to it’s services for decades, the problem is different. This session will explore how an established global insurance company have approached the introduction of DevOps tools and methodology within a complex technical environment.
+
+  - title: "MySQL on the Cloud: a Journey from Virtual Machines to Serverless Deployments"
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 6, Multikino
+    authors:
+      - name: Renato Losio
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/yTl1TO5j7aI
+    description: |-
+      "A relational database is a common bottleneck, hard to scale, harder to manage: from virtual machines to containers, from managed services to serverless options, there are different way to run a relational database on the cloud. What are the benefits of going serverless on MySQL? From AWS to Google Cloud, the major cloud providers offer different options to run a MySQL or a MySQL compatible database on the cloud. You can spin up virtual machines and configure your own cluster or rely on managed services with the ability to modify or scale vertically a database with the click of a button. From sharding to backups, from provisioning to monitoring, the talk will cover the operational costs of running relational databases on the cloud on a personal journey from virtual machines to running a serverless database."
+
+  - title: Gentoo as a Docker Build System?
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 1, Multikino
+    authors:
+      - name: Janos Pasztor
+        twitter: janoszen
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/bbC6HXUUjjg
+    description: |-
+      Compiling a piece of software from source is a massive hassle. Dockerizing such a software leads to massive images. Join me for this crazy project of using Gentoo Linux’ excellent build system in conjunction with multi-stage builds to produce a tiny Docker image with just what you need.
+
+  - title: "This Website is Not Secured" You Had One Job, Configuring the Edge Proxy!
+    lang: en
+    type: regular
+    time: 2019-03-20
+    room: Hall 2, Multikino
+    authors:
+      - name: Damien Duportal
+        twitter: @DamienDuportal
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1hJsQXBU0xU
+    description: |-
+      This talk introduces Traefik, an open source edge router which is used as a dynamic reverse proxy. Simplicity and automation are key concepts, so developers don’t waste time configuring or renewing SSL certificates. Traefik removes the need to update routing configurations by interfacing to backends such as Kubernetes, Docker, Mesos, and Consul, providing dynamic configuration. We will define what an edge router, a reverse proxy and a load-balancer are. Then we’ll present the concepts and features of Traefik and how to use it. Finally, we’ll dig deeper and show how we made Traefik distributed, scalable and fault tolerant.
+
+  - title: Workflow Orchestration Embedded in your DevOps Tool Chain
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 5, Multikino
+    authors:
+      - name: Alon Lebenthal
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3RFv8Q3xl7A
+    description: |-
+      DevOps is transforming how organizations develop and deliver new applications and digital services. Attend this session to learn how using a Jobs-as-Code approach helps a faster and safer deployment of applications that meet user expectations for performance and quality.
+
+  - title: "OpenShift: a Kubernetes Story in an Enterprise Environment"
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 6, Multikino
+    authors:
+      - name: Simonas Kareiva
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/I3_tEX-xUGc
+    description: |-
+      Learn what is being part of the team operating OpenShift Enterprise in production @ Danske Bank since 2017. OpenShift serves as a critical business application development platform for more than 700 bank’s users and over 2000 microservices.
+
+  - title: Smart Data-driven Alerts (SDdA) and How They Make DevOps Life Easier
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 1, Multikino
+    authors:
+      - name: Artem Demchenkov
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/GbwyF6xZwwc
+    description: |-
+      "One of the core responsibilities of DevOps is to keep the highest standard of availability and accessibility of infrastructure. And the help here comes from where it is not obvious to expect it to come: from data. Smart Data-driven Alerts is a concept which monitors a current state of application data (e.g. using pure SQL queries) and sends immediate alerts in case of deviations.Artem will share a way how his company does it now. His session also includes a live demo."
+
+  - title: "GitHub Actions: Open Source Workflow Automation"
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 2, Multikino
+    authors:
+      - name: Bas Peters
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Tl4mbL45PKU
+    description: |-
+      In this talk Bas Peters will give an overview and demo of GitHub Actions. GitHub Actions are a new way to automate your workflows as code hosted, shared and executed on GitHub.com. GitHub Actions apply open source principles to workflow automation allowing you to share and discover actions to use in your workflows. You can use them to build and test your code, to package and deploy, to send notifications on specific events like creating a release or to automate welcoming new users to your open source projects. We think GitHub Actions are going to have a big impact on software development and we would love to hear your feedback and ideas.
+
+  - title: A Startup in Three Stages
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 5, Multikino
+    authors:
+      - name: Will Button
+        twitter: wfbutton
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LziqrR3xmww
+    description: |-
+      Startups provide a unique landscape for DevOps. On one hand, a startup is a blank slate allowing you build the infrastructure you’ve dreamed of. On the other, the “fail fast” mentality of startups governed by growth, marketing, and limited capital. Balancing the two can be tricky. In this talk, I’ll show you how I break startups into 3 distinct stages and the DevOps tooling, philosophy, and culture that works best for each stage.
+
+  - title: Continuous Security at the Next Level
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 6, Multikino
+    authors:
+      - name: Martin Reinhardt
+        twitter: mreinhardt
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2-1bQsqPlZY
+    description: |-
+      Automated unit, integration and acceptance tests are essential quality controls in running a reliable continuous integration or continuous delivery pipeline. Too often, security tests are left out of this process because of the erroneous belief that security testing is solely the domain of leather-jacket-wearing security experts. The talk covers how easy it could be to integrate security aspects into a continuous delivery livecycle.
+
+  - title: Google Cloud Platform Solutions for DevOps Engineers
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 1, Multikino
+    authors:
+      - name: Marton Kodok
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/TMR478Sac4s
+    description: |-
+      Join this session to learn the DevOps essentials about cloud components, FaaS, PaaS architectural patterns that make use of Cloud Functions, Pub/Sub, Dataflow, Kubernetes and how we develop and deploy cloud software. You will get hands on information how to build, run, monitor highly scalable and flexible applications optimized to run on GCP. We will discuss cloud concepts and highlights various design patterns and best practices.
+
+  - title: How to Deploy Honeypots into your Kubernetes
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 2, Multikino
+    authors:
+      - name: Kayra Otaner
+        twitter: @kayraotaner
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/moGiapZDrrg
+    description: |-
+      We’ll demonstrate simple ways to deploy a typical Php application (PhpMyAdmin, Drupal or WordPress) and use Shadowd to create Honeypot in standard Kubernets (K8S) environment. It will be fun and easy to follow session hopefully.
+
+  - title: What’s under the hood of Docker?
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 5, Multikino
+    authors:
+      - name: Janos Pasztor
+        twitter: janoszen
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/5yQycuAjQKo
+    description: |-
+      Have you ever wondered how Docker does what it does? How can you run “cheap” virtual machines without the added overhead of running a true virtualization? Have you ever wondered what all this talk about cgroups, namespaces, and what not is? Join the talk and learn how the new Linux kernel features sparked the container revolution, and how these things actually work. This talk will contain some C code, but fear not, we will keep it simple. This is something every DevOps Engineer working with containers should understand.
+
+  - title: Terraform for Serverless. Best Practices. Lessons Learned.
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 6, Multikino
+    authors:
+      - name: Eugene Istrati
+        twitter: eistrati
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/itQ5ftoE4Kw
+    description: |-
+      Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Best practices include collaborative approach to infrastructure provisioning, use of version control systems and prevent manual changes, as well as efficient management of boundaries between different teams, roles, applications and deployment tiers. In this session we will walk you through our journey from early serverless “never thought our dreams would ever come true” adopters to enterprise “why are we still dealing with this crap” developers. We will focus on lessons learned and best practices that goes above and beyond official documentation.
+
+  - title: Create and Deploy Multi Tenant Applications on Azure with Azure DevOps
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 1, Multikino
+    authors:
+      - name: Benny Michielsen
+        twitter: @bennymichielsen
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/A9t4_OHXprA
+    description: |-
+      Building and deploying apps with Azure DevOps is a breeze. You can can quickly define environments and create steps that have to be performed. When building his latest app however Benny’s team was faced with a hard requirement which defined that data and the processing of it had to be physically separated per tenant. This basically means rolling out a unique environment per tenant. In this session he’ll show you the solution we came up with and how you still be able to leverage Azure DevOps and Azure AD in a dynamic fashion to create environments on demand and keep them up to date.
+
+  - title: DevOps! Let's Change QA!
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 2, Multikino
+    authors:
+      - name: Geoffrey van der Tas
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/FClEqAL5yZA
+    description: |-
+      "Testing, Quality Assurance and delivering quality. It all radically changed over the last few years. This all because of our new agile way of creating software. Now the last evolution called DevOps has been taking the stage more & more in the last 2 years. But how do you really deliver quality if changes go faster, when we are all working together & we are not supposed to be only testing. So what is the new role of testing? Testing, Quality Assurance and delivering quality. It all radically changed over the last few years. This all because of our new agile way of creating software. Now the last evolution called DevOps has been taking the stage more & more in the last 2 years. But how do you really deliver quality if changes go faster, when we are all working together & we are not supposed to be only testing. So what is the new role of testing? During this presentation we will take a look at:  – What are the good practices we need to keep; – What are the things we need to forget from the olden days; – What new things do we need to learn; -How will we get there? – Do we still need manual testers?  – How does it work for big banks like ING & Rabobank? During this presentation Geoffrey will give insight in practices and answer all questions raised above. Furthermorehewill show what are the biggest pitfalls of companieshe  hs consulted. All these things can help you to build software ‘first time right’ while being faster. But, most importantly, the presentation itself, it will be full of the most powerful tool for future DevOps development: examples!"
+
+  - title: Securing your CI/CD Pipeline
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 5, Multikino
+    authors:
+      - name: Jeroen Willemsen
+        twitter: @commjoenie
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4tRYmw7KwOo
+    description: |-
+      You probably heard of security automation, it’s a hot topic at the moment. Adding security checks in your CI/CD pipeline is great! But how to deal with the delays caused by this tooling? What about the developers that hate it when the pipeline is red due to false positives? And how do you secure the pipeline itself? These are all questions that need to be addressed to make sure that the automation becomes sustainable. Jeroen has distilled multiple best practices after having experienced various security automation implementation projects. Whether you are starting with security automation or are already at an advanced level. In this talk Jeroen will share his experience from various security automation implementation projects. Skip all the trials and learn to make a security CI\CD pipeline work.
+
+  - title: Docker and the Path to a Better Staging Environment
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 6, Multikino
+    authors:
+      - name: Gil Tayar
+        twitter: @giltayar
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/g87y67WRAiM
+    description: |-
+      Staging environments are notoriously difficult to setup and maintain. Unless you have a top notch DevOps team, staging environments are usually different from production environments, and because of that, are fraught with problems -from failing deployments, to out of disk space errors, and various other errors. Even when the staging environment is great, it has one problem – there’s only one. If you want to test a feature branch, you have to “allocate time”, or alternatively install the feature branch and risk disrupting other testers. It’s time the testers took control! And build their own testing environments using Docker, Docker-Compose, and Kubernetes. In this talk, I will show how to deploy an app on your local machine using Docker and Docker Compose, and run an E2E test on it. I will also describe the necessary changes needed to make the application deployable in such a setup – turning it into a Twelve-Factor Application.
+
+  - title: DevOps in the Era of Containers. Come Learn What Has Changed.
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 1, Multikino
+    authors:
+      - name: Guy Salton
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/XiUWIcw_j4s
+    description: |-
+      While it has already been established how containers technology is a major disruption to application runtime, orchestration, monitoring, security and more.. In fact, containers technology has also revolutionized the way we think and create CI/CD pipelines, reduce pipeline maintenance cost & risk and more. In this session we will cover a few best practices for modern CI/CD implementation.
+
+  - title: How to Achieve Scalable Environments using Kubernetes and VMSS on Azure Cloud
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 2, Multikino
+    authors:
+      - name: Noam Shochat
+        twitter: @noamshochat
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3Qh2Lh9gg8M
+    description: |-
+      One of the biggest challenges our industry have, especially web companies, is the flexibility of the development, QA and Production environments. In this session Noam will present how eToro took this challenge and implement solutions using Kubernetes and VMSS on Azure cloud.
+
+  - title: Git Best-Practice - Keeping a Diary
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 5, Multikino
+    authors:
+      - name: Jachim Coudenys
+        twitter: coudenysj
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/QkU8CQEVj6Y
+    description: |-
+      "Nowadays developers, and others, have the habit to use Git or other version control systems when writing software. While the benefits of this are mostly seen by means of pull/merge requests, easy “undo” functionality, team collaboration and others, the real benefit is history. When did we change this piece of code, and more importantly: why? By using clever commit message and branch strategies, you can reconstruct the way your or your colleagues’ brain was thinking a year ago! It will help you pinpoint the exact ticket where a client requested a specific change and by who it was sanctioned. Start keeping a diary today, and write history!"
+
+  - title: "Four Pillars and a Base: The Nuts and Bolts of a Microservice-based Project"
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 6, Multikino
+    authors:
+      - name: Gil Tayar
+        twitter: @giltayar
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/G-EyEnDelOU
+    description: |-
+      OK, OK, you get Microservices! Gil is not going to preach about the benefits and problems with Microservice-based architecture. You can find hundreds of those talks online. What Gil is going to show is how his company implemented a Microservice project. The nuts and bolts of creating a repo with all the microservices, the structure of the code of each microservice, and creating packages with the common code. Also how to build a docker image from these microservices, how we test the whole thing, how we build the project, how we deploy it in production, and how we monitor it. It’s going to be a really boring talk, full of lots of tips they learned in blood in the last year of implementing this. So be prepared to be bored! And, hopefully, educated… 
+
+  - title: Zero-Downtime Java Enterprise Applications With Kubernetes
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 1, Multikino
+    authors:
+      - name: Sebastian Daschner
+        twitter: @DaschnerS
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zKnKMtJZx9I
+    description: |-
+      The software world moves faster than ever. In order to stay competitive, new software versions need to be rolled out as soon as possible, without disrupting active users. Many enterprises have moved their workloads to Kubernetes, which has been built with production-readiness in mind. However, in order to achieve real zero-downtime with Kubernetes, without breaking or loosing a single in-flight request, we need to take a few more steps. This session shows what it takes to deploy and update Java Enterprise applications with minimal user disruption. We will see how to detect gaps in our deployments and how to enhance our applications as well as our Kubernetes deployments to close these gaps. We’ll also see how to upgrade cluster nodes without causing the running applications to go dark. All of the time will be spent live-demoing.
+
+  - title: Security in a DevOps World
+    lang: en
+    type: regular
+    time: 2019-03-21
+    room: Hall 2, Multikino
+    authors:
+      - name: Peter Souter
+        twitter: @petersouter
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0vKlG9vh6iY
+    description: |-
+      "The DevOps approach has revolutionised the operations world. However, something tends to get forgotten about in this new approach: Security. With a move to quick feedback loops, getting things done faster and failing faster, there’s a tendency to let security fall by the way-side. Sometimes that little question keeps coming up: Let’s do it this way… what’s the worst that could happen? But fear not! Security doesn’t have to be a casualty in the world of DevOps, and we’ll be discussing how you can ensure that a move to a DevOps culture is still safe and secure. We’ll be talking about keeping secrets, detecting when changes and how to integrate security into your planning processes, and whether the new DevSecOps term is actually useful."
