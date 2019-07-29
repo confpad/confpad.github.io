@@ -18,14 +18,13 @@
     country: Spain 
     city: Madrid
   description: |-
-
 talks:
 
-  - title: "3 solutions to the same problem: how do they implement React, Vue and Angular reactivity?"
+  - title: "3 soluciones a un mismo problema: ¿cómo implementan la reactividad React, Vue y Angular?"
     lang: es
     type: regular
     time: 2017-02-17
-    room: 
+    room: LA NAVE
     authors:
       - name: Javier Abadía
         twitter: javierabadia
@@ -35,13 +34,13 @@ talks:
     videos:
       - https://youtu.be/VyzlZl6LlqM
     description: |-
-      What is reactivity in a front-end framework? Why should I care? The synchronization between data and view is the central problem solved by all front-end frameworks and the solution that each poses to the same problem is the main characteristic that conditions the form of development, performance, operations not allowed, debugging facilities ... We will go deeply into the guts of the implementation of reactivity in the main frameworks and we will see the practical consequences that derive from it. If you know any of the 3 frameworks, this talk will help you to use it better, and who knows if you will discover that there is another framework that best suits your use case.
+      ¿Qué es la reactividad en un framework front-end? ¿Por qué debería importarme? La sincronización entre datos y vista es el problema central que resuelven todos los frameworks front-end y la solución que cada uno plantea al mismo problema es la principal característica que condiciona forma de desarrollo, rendimiento, operaciones no permitidas, facilidades de depuración... Entraremos a fondo en las tripas de la implementación de la reactividad en los principales frameworks y veremos las consecuencias prácticas que de ella se derivan. Si conoces cualquiera de los 3 frameworks, esta charla te ayudará a utilizarlo mejor, y quién sabe si a descubrir que hay otro framework que se adapte mejor a tu caso de uso.
 
-  - title: Are we creating the web in the correct way?
+  - title: ¿Estamos creando la web de la forma correcta?
     lang: es
     type: regular
     time: 2017-02-17
-    room: 
+    room: LA NAVE
     authors:
       - name: Iván Abascal
         twitter: abalozz
@@ -51,13 +50,13 @@ talks:
     videos:
       - https://youtu.be/1CexYcSkFl0
     description: |-
-      I think it is necessary to stop and think for a moment and ask ourselves this question. Are we really doing it right? The webs increasingly weigh more. The back button of the browser is no longer working. The links are no longer links. And, come now, do I really need all these tools to start creating a website? Can not I throw a few CSS and JS files into a folder and that's it? We will analyze objectively the practices we are following today, and reflect on when it is OK to follow them, and when not. To what extent Bootstrap streamlines work? Is CSS in JS good or bad? Is it necessary to preprocess and minify our code? Do you really need a JavaScript framework? The talk will be a critique of the current panorama of web development. Of course, always from a constructive point of view;)
+      Creo que es necesario pararnos a pensar un momento y hacernos esta pregunta. ¿Realmente lo estamos haciendo bien? Las webs cada vez pesan más. El botón de atrás del navegador está dejando de funcionar. Los enlaces ya no son enlaces. Y, venga ya, ¿de verdad necesito todas estas herramientas para comenzar a crear una web? ¿No puedo tirar unos cuantos archivos CSS y JS en una carpeta y ya? Vamos a analizar de forma objetiva las prácticas que estamos siguiendo hoy en día, y reflexionaremos sobre cuándo está bien seguirlas, y cuándo no. ¿Hasta qué punto Bootstrap agiliza el trabajo? ¿CSS en JS es bueno o malo? ¿Es necesario preprocesar y minificar nuestro código? ¿Realmente necesitas un framework de JavaScript? La charla será una crítica al panorama actual del desarrollo web. Por supuesto, siempre desde un punto de vista constructivo ;)
 
-  - title: Practical testing with JavaScript
+  - title: Testing práctico con JavaScript
     lang: es
     type: regular
     time: 2017-02-17
-    room: 
+    room: LA NAVE
     authors:
       - name: Ramón Guijarro
         twitter: soyguijarro
@@ -67,13 +66,13 @@ talks:
     videos:
       - https://youtu.be/DCPpDw_HfgI
     description: |-
-      Today we use JavaScript to build complex web applications with a significant amount of business logic in the browser, so taking testing seriously becomes a necessity. However in the JavaScript world there are an infinity of different tools for this purpose and testing applications in the browser presents some challenges. Mocha, Chai, Jasmine, Ava, Sinon, Karma, Jest ... What are all these tools and what is their relationship? How can we test code that uses browser APIs? How do we test user interfaces? How do we integrate the tests in our project? In this talk we will review the testing of JavaScript web applications to try to answer all these questions and some more.
+      Hoy en día usamos JavaScript para construir complejas aplicaciones web con una cantidad importante de lógica de negocio en el navegador, por lo que tomarse el testing en serio se convierte en una necesidad. Sin embargo en el mundo JavaScript hay una infinidad de herramientas diferentes para este propósito y testear aplicaciones en el navegador presenta algunos desafíos. Mocha, Chai, Jasmine, Ava, Sinon, Karma, Jest... ¿Qué son todas estas herramientas y qué relación tienen? ¿Cómo podemos testear código que utiliza APIs del navegador? ¿Cómo testeamos interfaces de usuario? ¿Cómo integramos los tests en nuestro proyecto? En esta charla daremos un repaso al testeo de aplicaciones web JavaScript para tratar de responder a todas estas preguntas y algunas más.
 
-  - title: Improving as developers
+  - title: Mejorando como desarrolladores
     lang: es
     type: regular
     time: 2017-02-17
-    room: 
+    room: LA NAVE
     authors:
       - name: Ramón Guijarro
         twitter: ladybenko
@@ -83,33 +82,33 @@ talks:
     videos:
       - https://youtu.be/DCPpDw_HfgI
     description: |-
-      The world of the front-end is vertiginous and there are always a thousand and one new things to learn. How can we train and improve as developers without abandoning our family, friends, hobbies, etc.? In this talk we will see some tips for this, and we will question common beliefs and myths in the software development industry.
+      El mundo del front-end es vertiginoso y siempre hay mil y una cosas nuevas que aprender. ¿Cómo podemos formarnos y mejorar como desarrolladores sin abandonar a nuestra familia, amigos, aficiones, etc.? En esta charla veremos algunos consejos para ello, y cuestionaremos creencias y mitos comunes en la industria del desarrollo de software.
 
-  - title: Artistic drawing applied to the web layout
+  - title: Dibujo artístico aplicado al maquetador web
     lang: es
     type: regular
     time: 2017-02-17
-    room: 
+    room: LA NAVE
     authors:
       - name: Carlos Mañas
         twitter: oneeyedman
-        github: oneeyedman
+        github: oneeyedman/
         website:
     slides:
     videos:
       - https://youtu.be/p-XhLT8-nQc
     description: |-
-      I would like to encourage the hardened modelers to make sketches with paper and pencil before facing a layout job. For these schemes you do not need much (we all know how to draw a square and a line) but I see that my colleagues do not usually have it as an option. The word drawing gives more fear than parallax or ajax , and I would like to change that. The paper and the pencil allow you to make mistakes and correct super fast, and almost without consequences. In addition, when you separate the design structure it is much easier to modularize components and have an overall idea of ​​the elements and how they relate to each other. Apart, these notes are recorded to fire with amazing ease with which then the work goes much more fluid, direct and focused. And the time you save is crazy. The title of the talk is a bit of a joke because in the 5th year of my career (I did Fine Arts) the professor who taught "Art drawing applied to design" did not know how to draw. And I thought it was great because for these notes you do not need to have special knowledge, but to lose the fear of paper. In my instagram account you can see some examples of the notes I take in my day to day.
+      Me gustaría animar a los maquetadores más aguerridos a hacer esquemas con papel y lápiz antes de enfrentarse a un trabajo de maquetación. Para estos esquemas no necesitas gran cosa (todos sabemos dibujar un cuadrado y una línea) pero veo que mis compañeros no lo suelen tener como una opción. La palabra dibujo da como más miedo que parallax o ajax, y me gustaría cambiar eso. El papel y el lápiz te permiten equivocarte y corregir super rápido, y casi sin consecuencias. Además, cuando separas la estructura del diseño es mucho más fácil modularizar componentes y tener una idea de conjunto de los elementos y de cómo se relacionan entre ellos. Aparte, estos apuntes se te graban a fuego con una facilidad asombrosa con lo cual luego el trabajo va mucho más fluido, directo y enfocado. Y el tiempo que ahorra es loquísimo. El título de la charla es un poco un chiste porque en 5º de carrera (yo hice Bellas Artes) el profesor que impartía "Dibujo artístico aplicado al diseño" no sabía dibujar. Y me ha parecido genial porque para estos apuntes no necesitas tener unos conocimientos especiales, pero sí perderle el miedo al papel. En mi cuenta de instagram podéis ver algunos ejemplos de las notas que tomo en mi día a día.
 
-  - title: The browser is not a fluzo condesador, and you know it ... or not?
+  - title: El navegador no es un condesador de fluzo, y lo sabes... ¿o no?
     lang: es
     type: regular
     time: 2017-02-17
-    room: 
+    room: LA NAVE
     authors:
       - name: Joan León
         twitter: nucliweb
-        github: nucliweb
+        github: nucliweb/
         website:
       - name: Jorge Barrachina
         twitter: NTKOG
@@ -119,13 +118,13 @@ talks:
     videos:
       - https://youtu.be/26rEU4G95tA
     description: |-
-      When we think of someone who dominates a subject, we imagine someone who knows perfectly the environment in which he works. Since we are frontends, do we really know our natural environment, the navigator? Do we know how it works? Knowing how browsers work internally, new features and APIs will help us achieve what is really important, a much more optimized result to improve the user experience. Power without control is useless. Now that we know the tips of the DevTools, it's time to get into the bowels of the browsers ... we have real gems like the Shader Editor for WebGL, the Canvas panel or StackTrace in the Network Panel. What hides chrome://about? What does the Servo engine, Quantum CSS, Quantum DOM or Quantum Render give us?
+      Cuando pensamos en alguien que domina una materia, imaginamos a alguien que conoce perfectamente el entorno en el que trabaja. Ya que somos frontends, ¿conocemos realmente nuestro entorno natural, el navegador? ¿Sabemos cómo funciona? Conocer cómo funcionan los navegadores de forma interna, las nuevas funcionalidades y APIs nos ayudará a conseguir lo que realmente es importante, un resultado mucho más optimizado para mejorar la experiencia de usuario. La potencia sin control no sirve de nada. Ahora que conocemos los tips de las DevTools, es hora de adentrarnos en las entrañas de los navegadores... tenemos auténticas joyas como el Shader Editor para WebGL, el panel Canvas o StackTrace en el Network Panel. ¿Qué esconde chrome://about? ¿Qué nos aporta el engine Servo, Quantum CSS, Quantum DOM o Quantum Render?
 
-  - title: "WebGL and shaders: programming light"
+  - title: "WebGL y shaders: programando luz"
     lang: es
     type: regular
     time: 2017-02-17
-    room: 
+    room: LA NAVE
     authors:
       - name: Vicente Lucendo
         twitter: vlucendo
@@ -135,13 +134,13 @@ talks:
     videos:
       - https://youtu.be/ddz3l5YyjSk
     description: |-
-      Talk with an introduction where we will briefly review the requirements to create a 3D scene in the browser, and where we will later program a simple shader that will give a small sample of all the possibilities that this type of programming opens up. What is WebGL? Differences between drawing with the CPU and with the GPU. Essential elements of a scene. What are the shaders and examples of what can be done with them. Vertex shader. Fragment shader. Illuminate an object step by step, with algebra, without the help of Three.js functionality. Change the effect to look like "toon shader", in the style of some Nintendo games. Optionally, if there is time, it could show how to make other artistic effects.
+      Charla con una introducción donde se repasarán brevemente los requisitos para poder crear una escena 3D en el navegador, y donde posteriormente programaremos un shader sencillo que dará una pequeña muestra de todas las posibilidades que abre este tipo de programación.    Qué es WebGL.    Diferencias entre dibujar con la CPU y con la GPU.    Elementos esenciales de una escena.    Qué son los shaders y ejemplos de lo que se puede hacer con ellos.    Vertex shader.    Fragment shader.    Iluminar un objeto paso a paso, con álgebra, sin la ayuda de la funcionalidad de Three.js.    Cambiar el efecto para que parezca "toon shader", al estilo de algunos juegos de Nintendo.    Opcionalmente, si quedara tiempo, podría mostrarse cómo hacer otros efectos artísticos.
 
-  - title: Mind your manners
+  - title: Cuida tus modales
     lang: es
     type: regular
     time: 2017-02-17
-    room: 
+    room: LA NAVE
     authors:
       - name: Eduardo Sada
         twitter: aeroalquimia
@@ -151,4 +150,4 @@ talks:
     videos:
       - https://youtu.be/6SenXnVGWD4
     description: |-
-      «Manners», «popups», «windows», have been with us since the beginning of the web. They were hated in the 90s, and today they are the solution to all our problems. Who has not heard our friend UX say "here we open a modal and that's it"? Have you ever wondered how many ways to create these "manners" and which is the best? I do. Not only have I asked myself but I have also suffered from finding the answer. From UX, accessibility, performance, and orientation (or not) to components. Lower the elbows of the table, remove your finger from your nose, and put that aria-hidden in that div. Mind your manners.
+      «Modales», «popups», «ventanitas», llevan con nosotros desde el inicio de la web. Fueron odiadas en los 90, y hoy son la solución a todos nuestros problemas. ¿Quién no ha escuchado a nuestro UX amigo decir «aquí abrimos una modal y ya está»? ¿Te has preguntado alguna vez cuántas maneras hay de crear estas «modales» y cuál es la mejor? Yo sí. No sólo me lo he preguntado sino que también he sufrido encontrando la respuesta. Desde UX, accesibilidad, performance, y orientación (o no) a componentes. Baja los codos de la mesa, sácate el dedo de la nariz, y pon ese aria-hidden en ese div. Cuida tus modales.
