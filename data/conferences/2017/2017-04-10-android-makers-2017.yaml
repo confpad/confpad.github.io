@@ -94,7 +94,7 @@ talks:
     description: |-
       "The industrialization of developments is not restricted to web and server applications! It also applies to mobile development. In this session, you will discover how Microsoft tools can help you industrialize the development of your Android applications. On the program: Xamarin Test Cloud, Hockey App and Visual Studio Mobile Center."
 
-  - title: Launch Screens: From a Tap to Your App
+  - title: "Launch Screens: From a Tap to Your App"
     lang: en
     type: regular
     time: 2017-04-10
