@@ -1,7 +1,7 @@
 ﻿conference:
-    
+
   name: Android Makers 2017
-  status: incomplete
+  status: complete
   series: androidmakers.fr
   tags:
     - android
@@ -21,3 +21,1035 @@
     Android Makers Paris, the biggest Android event in France. Android Makers brings in Paris the world class experts in Android for 2 days of sessions, workshops and showcases.
 
 talks:
+
+  - title: "Keynote: An Android Retrospective"
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Romain Guy
+        twitter: romainguy
+        github:
+        website:
+      - name: Chet Haase
+        twitter: chethaase
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xOccHEgIvwY
+    description: |-
+
+  - title: Develop a weather app with Kotlin
+    lang: fr
+    type: workshop
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Arnaud Giuliani
+        twitter: arnogiu
+        github: arnaudgiuliani
+        website:
+    slides:
+      - https://www.slideshare.net/arnaudgiuliani
+    videos:
+      - https://youtu.be/kcA2oSZWG8k
+    description: |-
+      "Kotlin is a JVM language developed by Jetbrains. Its version 1.0 (production ready) was released at the beginning of 2016 and made some buzz within the android community. Interest in this language is still relevant one year later. This session proposes to discover this language, which includes some aspects of groovy or scala, and which is very close to swift in syntax and concepts. This "new" language is very clearly prized, and rightly so, by the android community that is asking for it. Other Java communities, such as spring.io, open up clearly and officially to this language. This "handson" offers you to mount a 100% Kotlin android application, in order to discover different themes of the language. We will begin with a presentation of Kotlin, to scan the interesting points of language in a pragmatic way (which is interesting on a daily basis) and go to the functional and reactive programming (with Rx). Then, a TP of 2h will run around the demo application. Prerequisites: AndroidStudio 2.2+, Android SDK API 24, Build tools 24.0.3+, Kotlin 1.0.6+ plugin and GIT installed on your mobile."
+
+  - title: Deep Android Integrations
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Ty Smith
+        twitter: tsmith
+        github: tyvsmith
+        website: https://tysmith.me/ 
+    slides:
+      - https://speakerdeck.com/tysmith/deep-android-integrations
+    videos:
+      - https://youtu.be/5C5bgY84WXw
+    description: |-
+      Designing an elegant interface for developers to communicate with your Android app is crucial for building a mobile platform. Ty has been building mobile-focused developer platforms at Evernote, Twitter, and now Uber. In this talk, he'll walk you through many of the best practices that he has accumulated and you’ll find out how to allow third party developers to seamlessly interact with your users’ local data to shortcut more expensive server operations. Topics will include building single sign-on, surfacing your local databases, constructing well-defined Intent interfaces, using deep links, and binding services for programmatic communication. Ty will walk you through how to create a well-defined interface in your app – if that’s something you want to know, don’t miss it!
+
+  - title: Leboncoin on Android, flashback between pragmatism and requirement
+    lang: fr
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Pawoubadi Abalo
+        twitter: leboncoin
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mDlp7XjkkOY
+    description: |-
+      "In just over 4 years, the android leboncoin application has totaled more than 13 million downloads. Since the first version to today, we had to deal with the legacy and the desire to give the best to our users (crash-free session: 99.85%, score: 4.25). You will learn more about the leboncoin app. Back on the milestones of this application, the structuring choices and the perspectives for the future."
+
+  - title: Industrialization of mobile developments
+    lang: fr
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Jean-Sébastien Dupuy
+        twitter: dupuyjs
+        github:
+        website:
+      - name: Samuel Metias
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/usB2rCFs1j8
+    description: |-
+      "The industrialization of developments is not restricted to web and server applications! It also applies to mobile development. In this session, you will discover how Microsoft tools can help you industrialize the development of your Android applications. On the program: Xamarin Test Cloud, Hockey App and Visual Studio Mobile Center."
+
+  - title: Launch Screens: From a Tap to Your App
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Cyril Mottier
+        twitter: cyrilmottier
+        github: cyrilmottier
+        website: http://cyrilmottier.com/
+    slides:
+      - https://speakerdeck.com/cyrilmottier/launch-screens-from-a-tap-to-your-app
+    videos:
+      - https://youtu.be/oJAS7T-qurk
+    description: |-
+      The launch screen is a user’s first experience of your application and, hence, should be designed with great care. In this talk, we will deep dive into the concept of launch screen, discover how to measure, debug & optimise them efficiently, and learn more about how to implement them correctly. In other words, this talk is all about discussing for ±45 min about screens displayed less than 5 seconds.
+
+  - title: Let's Get Functional? Seriously!
+    lang: fr
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Cédric Creusot
+        twitter:
+        github:
+        website:
+      - name: Geoffrey TAN
+        twitter:
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1WsmcgeCiHrGBv9YE6yQSN2xtYbZVkhQH3eM-xNmO0ME/edit?usp=sharing
+    videos:
+      - https://youtu.be/OE-bV8h3lvc
+    description: |-
+      "An application without tests is like a box of chocolates, you never know what you're going to fall on. We do not teach you anything. In any case, we hope so. Are you fed up with replaying the same scenarios by hand, tirelessly repeating the same sequence of clicks, scrolls and flings to make sure that your favorite application always works perfectly? You need cream in your coffee: automated functional tests. In 2014, we jumped into the wagon of functional tests on Android. We had a real gain in making these tests understandable by the job. We will present our feedback on the technologies that allow to perform such tests (Calabash, Cucumber, ...), their integrations in our application and within our build chain. And to finish our advanced on the subject, and the pains to which you will have to prepare yourself ..."
+
+  - title: Scaling Android @PagesJaunes
+    lang: fr
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Thibault Fighiera
+        twitter: YellowTeamAndro
+        github:
+        website:
+      - name: Alexandre Badie
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/14sngW9WGFA
+    description: |-
+      When we want to do more, we often hear that it takes ... 1 developer more! Then as the team grows, you can quickly spend more time coordinating than developing. An important volume of code is produced and it quickly becomes essential to ensure the coherence of the architecture, the functionalities, the components ... Then, our developer of more which appeared a priori like the solution does not increase proportionally the velocity of the 'team. Pity! With 13 Android developers spread across 5 Feature Teams, all developing on the same application, our daily lives can look like a human and technical challenge. In other words, we had better find the right answers to these problems. We will be happy to share with you our organization and the proven solutions of our community of practice. In particular, we will detail our approach to proofreading code to transform it into a moment of sharing and elevation of the collective level. We will also see how the Feature Flipping allows us to streamline production, lighten the maintenance of our branches and ensure the quality of the application.
+
+  - title: RxJava is dead, long live RxJava 2!
+    lang: fr
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: David Wursteisen
+        twitter: dwursteisen
+        github: dwursteisen
+        website:
+    slides:
+      - https://speakerdeck.com/dwursteisen/rxjava-est-mort-vive-rxjava-2
+    videos:
+      - https://youtu.be/fwbWAfBLcDI
+    description: |-
+      The migration of RxJava 2 started in 2016. But 2017 will be its flagship year and will be able to take advantage of the path already traced by its previous version. What are the changes made by this new version, in terms of API or performance? How are RxJava and RxJava 2 different? Should I migrate to RxJava 2 right away? This lecture will give a brief history of these libraries before answering these different questions.
+
+  - title: Merge like it's 2099
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Xavier F. Gouchet
+        twitter: xgouchet
+        github: xgouchet
+        website:
+    slides:
+      - https://speakerdeck.com/xgouchet/merge-like-its-2099-androidmakers-2017
+    videos:
+      - https://youtu.be/C9HYMqm3zRM
+    description: |-
+      Every developer working in a team of more than 2 person has experienced conflicts when merging, rebasing or cherry picking a commit. Resolving those conflicts is a tedious task and it's time for a change. This talk will propose a solution to merge smarter and not harder.
+
+  - title: Mobile Print – Disruption, Collaboration and Opportunity
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Mark Boyt
+        twitter: Boytie
+        github:
+        website: https://mopria.org/
+    slides:
+    videos:
+      - https://youtu.be/039KuUBnYUM
+    description: |-
+      Why should app developers add print capability to their apps? Explain the Mobile print ecosystem – gap and opportunity and then expain What is Mopria Print Service and what can it offer your users
+
+  - title: Remote, lonely and productive
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: David González
+        twitter: dggonzalez
+        github: malmstein
+        website:
+    slides:
+      - https://speakerdeck.com/malmstein/remote-and-lonely
+    videos:
+      - https://youtu.be/Ai_8RuBWPYo
+    description: |-
+      Being the only developer in a project can be frustrating, everything falls into your shoulders and it's very easy to get trapped into bad habits. You are not alone! There are many tools, practices and services that will make your life easier... and efficient! Several months ago I joined Help Scout as the only Android Developer with the main purpose of building their Android application from scratch. Coming from an agency environment where there were more than 30 developers willing to discuss and present different ideas, it's been quiet a challenge. This talk shares my experience, explaining what tools, practices and methodologies I've followed. Being the only developer is no impediment to build great quality code, follow good design patterns and delight your users. How to do Pull Requests, Code Reviews, Design Reviews, Continuous Delivery and Integration... Wether you are a one man band or work with a team, these tips will help you become a better programmer!
+
+  - title: Developing for Android Wear 2.0
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Hoi Lam
+        twitter: hoitab
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/o3nqRsBzJt0
+    description: |-
+      In this session, Hoi will explore the past, the present and the future of Android Wear. Come and find out the new developer features in Android Wear 2.0 and what developers / designers should do to get ready!    
+
+  - title: "Genius Scan and NDK: performance and multiplatform"
+    lang: fr
+    type: workshop
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Guillaume Gigaud
+        twitter: thegrizzlylabs
+        github:
+        website: https://www.thegrizzlylabs.com/
+    slides:
+      - https://drive.google.com/file/d/0B7EXFGe-e1u_R1RBUjVISUp4cGc/view
+    videos:
+      - https://youtu.be/iFvE1SFx4T0
+    description: |-
+      Sharing a codebase across multiple platforms is often a tradeoff between features, complexity and maintenance. To develop the heart of Genius Scan, we chose C ++ and NDK. In addition to the performance gain for image processing algorithms, this solution simplifies code maintenance on iOS and Android. In addition, the tools built into Android Studio significantly reduce the complexity of native development and the heaviness of NYI.
+
+  - title: Develop a video game (when you do not know anything about video game development)
+    lang: fr
+    type: workshop
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: David Wursteisen
+        twitter: dwursteisen
+        github: dwursteisen
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mSa3BVO0tvc
+    description: |-
+      How do you develop a video game? Is it complicated to display a character on the screen and move it later? Is programming a game comparable to programming a backend application or an Android application? What are the tools to use? How to make a game fun? I had to ask myself these questions to make my first mobile game. This presentation will try to answer it and will make a return on the different experiments carried out before obtaining a game.
+
+  - title: Android Things for IoT
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Wayne Piekarski
+        twitter: waynepiekarski
+        github: waynepiekarski
+        website:
+    slides:
+    videos:
+      - https://youtu.be/SpB6kyxNBr0
+    description: |-
+      Google recently announced the Developer Preview for Android Things, a comprehensive way to build IoT products with the power and security of Android. This talk will show how developers can use familiar tools such as Android Studio and the Android SDK to easily develop IoT software, and then to scale the hardware from a single prototype into production.
+
+  - title: Android modules, an effective way to work with legacy code
+    lang: fr
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Gabriel Adgeg
+        twitter: g_adgeg
+        github: adgeg
+        website:
+      - name: Damien Locque
+        twitter:
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/OCTOTechnology/one-year-of-clean-architecture-the-good-the-bad-and-the-bob
+    videos:
+      - https://youtu.be/IOzZQXZb91E
+    description: |-
+      "It all starts from a business need: to optimize or to propose a new user experience initially available for a Meetic application functionality but, on a longer-term vision, potentially accessible from another feature or even another application. We naturally oriented ourselves towards the implementation of libraries in our project. The benefits found were beyond our expectations. In addition to our need for reuse, big productivity gains soon came to us. The launch time of unit tests has become short enough to work in TDD. And the use of static data in a demo application has greatly reduced deployment time. So much so that we now design a lot of our features in this mode of development. This presentation will show you that using modules is a way to increase your productivity on large projects of tens of thousands of lines of code. It will also be an opportunity to discuss the issues we have encountered (dependency reversal, ...)"
+
+  - title: Automate with Fastlane
+    lang: fr
+    type: workshop
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Antoine Descamps
+        twitter: _antdesc
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/antdesc/fastlane-android-makers-paris-04-2017
+    videos:
+      - https://youtu.be/l7wtqKgjfC8
+    description: |-
+      "Fastlane is a command-line tool that automates actions. It is intended specifically for mobile projects. Initially an iOS project, Fastlane has been supporting Android for over a year and can automate many actions. Learn to: Compile, sign and send to the playstore an apk in 5 lines of code and a command line. Automate localized screenshots and send them to the Playstore listing without launching a web browser. Packager and deploy an Android library to an artifact manager from a user station. Interfacer Fastlane with a continuous integration platform like Jenkins. It's simple, efficient and can save a lot of time in a mobile development team."
+
+  - title: ExoPlayer, media player for your applications and virtual reality
+    lang: fr
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Julien Salvi
+        twitter: JulienSalvi
+        github: Oleur
+        website:
+    slides:
+      - https://speakerdeck.com/oleur/exoplayer-player-multimedia-pour-les-applications-et-la-realite-virtuelle
+    videos:
+      - https://youtu.be/NvDoNB5bZeA
+    description: |-
+      This presentation will begin with an introduction to ExoPlayer that makes it a natural replacement for MediaPlayer. The functionalities of the v1 to v2 will be exposed with pros and cons, the different formats supported by the player, its different extensions ... You will be shown how to migrate your MediaPlayer code to ExoPlayer in a few lines of code. We will end up with the ability of ExoPlayer to be used in the field of virtual reality on Android to create players for Cardboard / Daydream or GearVR and how to use it with a plugin on Unity.
+
+  - title: "GoMobile at Zenly: Go on Android"
+    lang: en
+    type: workshop
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Steeve Morin
+        twitter: steeve
+        github: steeve
+        website: https://zen.ly/home
+    slides:
+    videos:
+      - https://youtu.be/x6R9lIekirM
+    description: |-
+      GoMobile is a technology that allows regular Android and iOS. It is used for both the underlying system and the client apps. Since GoMobile has limited support for complex types and the callback / delegate pattern does not fit the Go paradigm, we will also present RxProto. RxProto allows you to pass a complex data type between the two runtimes in an easy way and type safe manner. By leveraging Rx, it also provides seamless interfacing with the Go concurrency primitives without feeling foreign to the Android ecosystem. In this talk we will present GoMobile, RxProto and the journey on the back of our iOS and Android apps, starting with JSON / REST to Go / GRPC / Protobuf / Java.
+
+  - title: How to reactively load and cache data without even trying
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Mike Nakhimovich
+        twitter: friendlyMikhail
+        github: digitalbuddha
+        website:
+    slides:
+      - https://www.slideshare.net/nakhimovich/data-loading-made-easy-with-mike-nakhimovich-droidcon-italy-2017
+    videos:
+      - https://youtu.be/G1MebI2k9aA
+    description: |-
+      "Android has a wealth of open source libraries covering everything from network clients to UI frameworks. Something that is missing is a library to help load data from multiple sources, particularly 2 levels of caching + network. NY Times has recently open sourced such a library built on RxJava, Guava + OKIO which will dramatically simplifiy the common task of “get from mem cache, if not there get from disk, if not there hit the network, parse and update cache“. I'll be taking users through the problems that we tried to solve and the solution that we propose for it. The library is Store NYTimes/Store. Stores dramatically simplify data loading and caching while being exposed through reactive interfaces. Stores are the foundation of the NY Times app and allow us to both have best in class startup time as well as allowing us to work offline. In this talk I'll introduce the library and then go through the open source tools we used to build it. Topics will include: Streaming data from OKHTTP using BufferedSource/Sink, Creation a blazing fast file system. Using Guava for intelligent caching, leveraging RxJava for combining and transforming multiple data sources"
+
+  - title: "Android and Pepper: a love story"
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Thalía Cruz Castañares
+        twitter:
+        github:
+        website:
+      - name: Erwan Pinault
+        twitter: ghostwan
+        github:
+        website:
+    slides:
+      - https://we.tl/GVg5Tx2yCJ
+    videos:
+      - https://youtu.be/d3VoQmcpu5U
+    description: |-
+      "“Once upon a time there was a humanoid robot called Pepper. He was one of a kind: with a body all covered in white and a display to show beautiful images. One day, a green stranger stepped into Pepper's life. His name was Android. At the beginning they were both shy. They didn't speak the same language but somehow they knew they were made for each other…“"
+
+  - title: Workshop on Android Things for IoT
+    lang: en
+    type: workshop
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Wayne Piekarski
+        twitter: waynepiekarski
+        github: waynepiekarski
+        website:
+      - name: Jonathan Koren
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/SpB6kyxNBr0
+    description: |-
+      Google recently announced the Developer Preview for Android Things, a comprehensive way to build IoT products with the power and security of Android. In this session, you will have the opportunity to develop your own IoT applications with the assistance of Developer Advocates from Google. We will be available for answering your questions, and also to give feedback to the engineering team. Come and try out the use of familiar tools such as Android Studio and the Android SDK to easily develop IoT software.
+
+  - title: Kotlin in the real world. What you should be aware of before starting a Kotlin project
+    lang: fr
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Rémi Pradal
+        twitter: RemiPradal
+        github: rpradal
+        website:
+    slides:
+      - https://speakerdeck.com/rpradal/kotlin-in-the-real-world
+    videos:
+      - https://youtu.be/h7z01GhMPW4
+    description: |-
+      Kotlin is now recognized as a powerful and viable alternative to Java for Android development. Many are the articles which focus on the different assets of this language. In this talk, I will highlight the differents tools and behaviors which are still missing in Kotlin and might be a handicap for you if you decide to migrate to this language.
+
+  - title: Taking care of your UI tests
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Florian Mierzejewski
+        twitter: florianmski
+        github: florianmski
+        website: https://florianmski.fr/
+    slides:
+      - https://speakerdeck.com/florianmski/taking-care-of-your-ui-tests
+    videos:
+      - https://youtu.be/dcWTq7MyrBQ
+    description: |-
+      Most Android UI testing talks focus on how Espresso works and how to start writing simple tests. This is fine for a simple app but maintaining and expanding those tests gets harder as the app grows. This talk will focus on writing complex tests scenarios while making sure we keep them maintenable, extandable and readable. I’ll use a released app we developed as an example. This will involve multi-screen scenarios, handling asynchronous operations, providing a fake environment as well as some common and less common Espresso gotchas.
+
+  - title: "Offline mode: Our Android application works at level -5 of a parking"
+    lang: fr
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Romain Potier
+        twitter: PotierRomain
+        github: romainpotier
+        website:
+      - name: Mathieu Hausherr
+        twitter: mhausherr
+        github: mhausherr
+        website: https://mathieu-hausherr.com/
+    slides:
+      - https://speakerdeck.com/mhausherr/mode-offline-notre-application-android-fonctionne-au-niveau-5-dun-parking
+    videos:
+      - https://youtu.be/0WhDgKY9j-s
+    description: |-
+      "Does your Android application work perfectly in offline mode? For Virtuo, it's essential. Virtuo is the French start-up that offers a new car rental experience. Everything is done from a mobile: account creation, booking, inventory and opening of the car. Thanks to that, no more at the ticket counter to get his key back. Because we are not afraid of challenges, our customers never have a key and use their smartphone or smartwatch to open and start their vehicle for the duration of the rental. And it works, since Virtuo already has more than 7,000 days of rentals that always start in the same way: in the basement of a car park, without access to 3G. On the program: BLE: The only quick and really offline solution HTTP cache: Do you know the max-stale header Synchronization and conflicts: Which strategy to adopt Reactive programming: Why it helped us to improve UX / Design: How a banner allows improve the experience Cache strategy depending on the context: Why can not we apply the same strategy before, during or after a reservation?"
+
+  - title: Heat the neurons of your Android Smartphone with Deep Learning
+    lang: fr
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Qian Jin
+        twitter: bonbonking
+        github:
+        website: http://potatobon.com/
+      - name: Yoann Benoit
+        twitter: YoannBENOIT
+        github: ybenoit
+        website:
+    slides:
+      - https://speakerdeck.com/jinqian/heat-the-neurons-of-your-smartphone-with-deep-learning
+    videos:
+      - https://youtu.be/znjGEW6pESQ
+    description: |-
+      "Today, we hear about Deep Learning everywhere: recognition of images, sounds, text generation, etc. But, although the techniques and frameworks are being democratized, it remains difficult to see concrete applications in business, let alone mobile applications. So we decided to build a Proof Of Concept to meet the challenges of the field. We will present an example of an educational mobile application using Deep Learning for image recognition. Through this example, we will discuss the impact of this type of model on smartphones, but also architecture for the training and deployment of models. Whether you're somewhere between Data Science and Android development, there's something for everyone!"
+
+  - title: "One year of Clean Architecture : the Good, the Bad and the Bob"
+    lang: fr
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Gabriel Adgeg
+        twitter: g_adgeg
+        github: adgeg
+        website:
+      - name: Dorian Lamande
+        twitter: dorianlamande
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/OCTOTechnology/one-year-of-clean-architecture-the-good-the-bad-and-the-bob
+    videos:
+      - https://youtu.be/IOzZQXZb91E
+    description: |-
+      "After hours of watching this damn uncle, and aware that obviously, there was a better way, it was time to upgrade to the MVP. That's what we did, implementing different interpretations of the Clean Architecture on our missions, on existing applications as well as on-scratch. ((MVVM + Interactor + Kotlin) x Executor * TU + Acceptance Test) TDD = pleasure assured;). We started from Uncle Bob's postulates: to have an architecture independent of the frameworks, the UI, the back-ends and the BDDs. And above all: testable. For once, we did not put the technical stack at the center of our architectural choice. Because as he says so well, a good architect is someone who delays the choice of tools at the latest. We focused on the business rules. In pure java. In pure KOTLIN. Without libraries. This model has revolutionized the way we design an application for our different customers (BNP, SNCF, Meetic ...). We will share with you our pride, our pains and the questions that remain open. So come and enjoy young idiot! The MOB tribe, aka Uncle BOB's (r) want"
+
+  - title: The ART of organizing resources
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Jeroen Mols
+        twitter: molsjeroen
+        github: JeroenMols
+        website: https://jeroenmols.com/
+    slides:
+      - https://speakerdeck.com/jeroenmols/the-art-of-organizing-resources
+    videos:
+      - https://youtu.be/AjSgAHZT9a0
+    description: |-
+      "Do you remember the last time you had to dig into strings.xml to find the right String to use? Or that you manually had to go over all drawables to find the one you needed? Whenever we start a new project, we take a lot of care in setting up our architecture, CI, build flavors,… But do you also have a strategy to name your resources? You should! Because the lack of XML namespaces, makes managing Android resources tedious. And causes things to grow out of control easily, especially in large projects. So let's introduce a simple scheme that will solve your pains: - easy lookup of any resource (autocomplete) - logical, predictable names - clean ordering of resources - strongly typed resources. This talk will explain the mechanism, its advantages, limitations and provide an easy to use cheat sheet."
+
+  - title: Android Auto - live coding
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: David Fournier
+        twitter: smartnsoft
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/u-799IyJ0TY
+    description: |-
+      Announced in 2014, Android Auto was the Google response to Apple CarPlay. It was however complicated for a developer to make Android Auto apps as the development tools were scarce and not really adapted. With the release of Android Auto 2.0 in November 2016, the developer has now a fully functional testing platform with Google releasing an Android Auto simulator and an Android mobile app. This new version has encouraged a growing number of constructors to include Android Auto devices in their cars, and it becomes more appealing to start developing apps for this platform, either specifically or as a spin-off of an already existing app. In this session of live coding, we will show how to use the Android Auto SDK to make a small application capable of playing songs and live streams, controllable with touch commands or the user voice. We will show what are the good practices, the functionalities and limits of the SDK while giving the opportunity for attendants to have a quick look of the possibilities offered Android Auto. A Github repository containing the code written during the presentation will be available at the end of it.
+
+  - title: The Fabulous Journey to Material Design Award
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Taylor Ling
+        twitter: taylorling
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/taylorling/designing-fabulous-journey-to-material-design-award
+    videos:
+      - https://youtu.be/8o6DnPPxD1I
+    description: |-
+      Taylor will be sharing his experience as a design co-founder of Fabulous, an app that recently got the Material Design Award, from design and marketing perspective. The audience is expected to walk away with some lessons learned by Taylor while building Fabulous, including like why Details matter, the use of illustrations in Fabulous, data-driven design etc. which hopefully help to inspire the audience for further enhancement of their app.
+
+  - title: OpenGL, a noob's guide for Android developers
+    lang: en
+    type: regular
+    time: 2017-04-10
+    room: The Salons of Aveyron
+    authors:
+      - name: Benjamin Monjoie
+        twitter: Xzan
+        github: bmonjoie
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1SBgVb2Dw_h1VUU5Dg0Oe4nRe48zofTrM6L5Y7dlx3b0/edit?usp=sharing
+    videos:
+      - https://youtu.be/8n11IUI6n4o
+    description: |-
+      OpenGL is often regarded as too complex, obscur or even too low level to be considered when developing an application. Most people will even try to go around it and develop what they want using Views and Canvas to avoid developing with it. Nevertheless, it's not always possible nor the best solution. As someone who have been going through all the learning of OpenGL recently, I have encountered a lot of frustration but also a lot of “aha!“ moment. In this talk, I will try to demystified OpenGL and share the basics of what it is and how to use it in Android to make applications perform better. Also, I will share all the pitfalls and key concepts that you should know when starting with OpenGL.
+
+  - title: "Keynote: Android First"
+    lang: en
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Lisa Wray
+        twitter: lisawrayz
+        github: lisawray
+        website: http://www.xwray.com/
+    slides:
+    videos:
+      - https://youtu.be/QTHLnVNEgNE
+    description: |-
+      In the global election of mobile platforms, the world has spoken and it wants Android. So why is it still the tech world's second choice? Let's take an honest, no-holds-barred look at our industry’s greatest failure -- the phenomenon of the iOS-first launch -- and what it means for the past, present, and future of Android.
+
+  - title: Evolution of notifications - Tips & tricks
+    lang: fr
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Jeremie Martinez
+        twitter: JeremMartinez
+        github: jeremiemartinez
+        website: http://jeremie-martinez.com/
+    slides:
+      - https://speakerdeck.com/jeremiemartinez/the-evolution-of-android-notification
+    videos:
+      - https://youtu.be/hh0q3lGoPWE
+    description: |-
+      Notifications are one of the essential elements of Android applications. Indeed, they are a very interesting entry point for your users and can bring a real added value if they are used correctly. In this talk, we will start with a bit of history and context, especially about their evolution during the Android versions from a UX and design point of view. Introduced in version # 1 of Android, they are often underestimated and misused. We will then see how to be a good citizen of notifications based on concepts such as category, relevance and legitimacy. Finally, we will cover a series of tips & tricks to perfectly match their uses to the needs of your users. By addressing topics such as multi-device management, triggering and the framework's unrecognized APIs, we will take a real look at their possibilities and associated best practices.
+
+  - title: "Toothpick: a fresh approach to Dependency Injection on Android"
+    lang: en
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Stéphane Nicolas
+        twitter:
+        github: stephanenicolas
+        website:
+      - name: Daniel Molinero Reguera
+        twitter: D_Lemures
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/stephanenicolas/toothpick-a-fresh-approach-to-dependency-injection-di-on-android
+    videos:
+      - https://youtu.be/rn4EAzimslw
+    description: |-
+      You find RoboGuice simple but slow? And you think Dagger 1 & 2 are fast but complex and bloated? Toothpick is the best of both worlds! Toothpick is a scope tree based, runtime but reflection free implementation of JSR 330. It is pure Java, with a special focus on Android. Toothpick is fast (even faster than Dagger 2 in some cases!) and is simpler to use, with less boilerplate code. Its syntax is very close to Guice. It supports named dependencies, lazy dependencies, providers, and has built-in support for custom scopes. As compared to Dagger 2, Toothpick provides more powerful testing support, allowing you to leverage DI to mock dependencies using either mockito or easymock. Its explicit scope tree helps developers to build more robust apps. It provides more fine grained control to easily implement complex user flows that span multiple activities or state preservation across configuration changes (e.g. rotations), a common issue when implementing the MVP pattern. During this talk for experts, we will introduce Toothpick, its main features and how it compares to other DI libs. We will explain how Toothpick scopes and scope annotations can solve advanced use cases.
+
+  - title: Attacking Android Applications
+    lang: en
+    type: workshop
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Dario Incalza
+        twitter: h4oxer
+        github: DarioI
+        website: http://www.darioincalza.be/
+    slides:
+    videos:
+      - https://youtu.be/hy8GxwZ4oi4
+    description: |-
+      In this talk we aim at showing how easy it is to reverse engineer an Android application. We show how to perform static analysis on an application. Secondly, we illustrate how applications are attacked dynamically in orde to investigate or alter the program flow of the application. Attendees walk away with tools and information to perform basic pentesting techniques on their own applications.
+
+  - title: "Android Design Tools : New features and tools for rapid UI development"
+    lang: en
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Nicolas Roard
+        twitter: camaelon
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/camaelon/android-design-tools-new-features-and-tools-for-rapid-ui-development
+    videos:
+      - https://youtu.be/Tol1_GHgrEo
+    description: |-
+      Android Studio provides powerful tools to help you develop your application user interface. With many capabilities added in the past year, there's a lot to discover for developers. This talk will cover how you can use those new tools and how they integrate with existing libraries. We will also cover new approaches such as ConstraintLayout to craft flexible user interfaces quickly.
+
+  - title: Develop your next application with Kotlin
+    lang: fr
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Arnaud Giuliani
+        twitter: arnogiu
+        github: arnaudgiuliani
+        website:
+    slides:
+      - https://www.slideshare.net/arnaudgiuliani
+    videos:
+      - https://youtu.be/kcA2oSZWG8k
+    description: |-
+      Kotlin is a language developed by Jetbrains. Its version 1.0 (production ready) was released early 2016, making a buzz in the Android community. Today in version 1.0.6, and soon 1.1, Kotlin continues to arouse a keen interest. In ekito, we have been working on this language for more than a year, and today we are no longer hesitating to launch production applications with Kotlin. This session proposes to discover this language, which includes some aspects of groovy or scala, and which is very close to swift in syntax and concepts. We'll see how Kotlin boosts the productivity of Android application development and why you can not live without it;)
+
+  - title: "Iot Inception: Measuring the Energy of Android Things on Raspberry with Arduino"
+    lang: fr
+    type: workshop
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Olivier Philippot
+        twitter: simplygreenit
+        github:
+        website:
+    slides:
+      - https://www.slideshare.net/ophilippot/iotception-energy-measurement-of-android-things-on-raspberry-pi-3-with-arduino-uno
+    videos:
+      - https://youtu.be/cUbryUWvEkY
+    description: |-
+      Autonomy is critical for the mobile and even more so for the IOT. Android offers measurement APIs to make software measurements but with the new Android SDK for Android (IoT) it's not that simple. Manufacturer data are no longer sufficient to make estimates, you have to put your hands in the engine to measure energy. In this session, I will show you how to use an Arduino Uno to measure the consumption of Raspberry PI 3 with Android Things It's time to see what this newcomer of the Android family has in the womb!
+
+  - title: Drunk, he marketed Android apps alone
+    lang: fr
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Pierre Benayoun
+        twitter: Pierre_Benayoun
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1afPtkSb_BUtD6t61wV2eaVLVzbnYQ9D6quaFCG9D4LI/edit
+    videos:
+      - https://youtu.be/XewIS5DwnZ0
+    description: |-
+      "If you are a normally constituted developer you have already thought about it: make an app all by yourself and become rich and / or famous. Well for 3 years, I tried and even several times. In this conference I will give you a feedback on this "One man Startup" experience on Android apps. We will discuss development (obviously) but also product strategy, marketing and UX. We will not forget to talk about money. We will also talk about the pleasure of developing its application to oneself from A to Z and all that one learns there."
+
+  - title: An Introduction to Google Home, Google Assistant and Actions on Google
+    lang: en
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Elaine Dias Batista
+        twitter: elainedbatista
+        github:
+        website: https://www.sfeir.com/
+      - name: Wajdi Ben Rabah
+        twitter: WajdiBenRabah
+        github: wadjo
+        website: http://www.wajdibr.com/
+    slides:
+      - https://speakerdeck.com/elainedb/intro-to-google-assistant-and-actions-on-google
+    videos:
+      - https://youtu.be/Yto-5yiLOg8
+    description: |-
+      Google Home is a voice-activated speaker powered by the Google Assistant. You can ask questions, tell it to do things. It’s your own Google, always ready to help. On this talk I will present and demonstrate the main features of the Google Home. Further on, I will show how to create custom actions through Actions on Google and make them available for all Google Home users.
+
+  - title: Dependency Injection in Android - Best Practices
+    lang: en
+    type: workshop
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Vasiliy Zukanov
+        twitter:
+        github:
+        website: https://www.techyourchance.com/about/
+    slides:
+      - https://www.slideshare.net/VasiliyZukanov/dependency-injection-in-android-74836565?trk=v-feed
+    videos:
+      - https://youtu.be/6xB5MWK4tuQ
+    description: |-
+      Dependency injection techniques and frameworks constitute the foundation on which testable and maintainable applications are built. However, when used incorrectly or abused, dependency injection might not reveal its full strengths, and, in some cases, might even incur some not-so-evident penalties. In this session we will review a set of “best practices“ that will maximize the gain from using dependency injection in Android.
+
+  - title: Improve your Android skills by making Android Wear dials
+    lang: fr
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Gautier Mechling
+        twitter: Nilhcem
+        github: Nilhcem
+        website:
+    slides:
+      - https://www.slideshare.net/Nilhcem/android-wear-essentials
+    videos:
+      - https://youtu.be/hpoOuIXR8JA
+    description: |-
+      "Let's be honest: there is very little chance that you will ever have a professional project on Android Wear. On the other hand, learning Android Wear can help you dramatically improve your native Android skills, and make you a better Android professional developer. This is the conclusion that I could make after developing several dials on this platform. During this talk, I'll explain everything you need to know to understand Android Wear, starting with the constraints of the platform. Then there will be a step by step explanation to make a very nice dial, all only via draw and canvas operations, without using any image. Did you think that radians, shaders, radial gradients, canvas, paths, Xfer modes, and other quadratic curves were super galley concepts? In reality these concepts are very simple and at the end of this talk, you will be able to understand them and use them in your Android applications to make super beautiful custom views or even animations."
+
+  - title: Testable Android Architecture
+    lang: en
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Chuck Greb
+        twitter: ecgreb
+        github: ecgreb
+        website:
+    slides:
+      - https://speakerdeck.com/ecgreb/testable-android-architecture-android-makers-france
+    videos:
+      - https://youtu.be/pnU5wKv9l_s
+    description: |-
+      Today we have many testing tools for Android including JUnit, Mockito, PowerMock, Robolectric, Espresso, and more. But how can you design your application to leverage each one most effectively? This talk introduces a modified version of the Model View Presenter (MVP) architecture that organizes your code to be more flexible, maintainable, and testable. Using classic software design principles and modern code examples we will explore the topics of clean architecture and testability on Android. This talk covers all levels of the test pyramid including unit, integration, and UI tests. Other topics will include unit test rules, naming conventions, presenter lifecycle, persisting state, testing concurrency, mocking strategies, and working with legacy code.
+
+  - title: "DataBinding: simplify the management of your views!"
+    lang: fr
+    type: workshop
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Julie Petit
+        twitter: J_TShyNe
+        github:
+        website:
+      - name: Yann Huriez
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "You hear about DataBinding for a long time but do not know what it is, or what it can bring to your project, and you're curious to know more? So this Workshop is for you! Objective of the Workshop: During this workshop, we propose you to discover the basics of Android DataBinding and how much you gain in view management. Program: Through a series of exercises, we will teach you to: Create a binding and let your layout manage its own data, Make your views easily reusable with ViewModels and MVVM, Easily manage dynamic changes on your screens, Access inaccessible fields from XML with Binding Adapters, Uncompressing the Adapter of the RecyclerView, Prerequisites, Experience required. Developers of all levels are invited: the exercises adapt to your rhythm and go from the simplest to the most complex according to your ease. Equipment: A PC with Java 7 or more is enough. If you do not have Android Studio installed, we will help you install it on site. Do not hesitate to come to the rendezvous!"
+
+  - title: App Live Review by GDEs
+    lang: en
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Cyril Mottier
+        twitter: cyrilmottier
+        github: cyrilmottier
+        website: http://cyrilmottier.com/
+      - name: Lisa Wray
+        twitter: lisawrayz
+        github: lisawray
+        website: http://www.xwray.com/
+      - name: Eyal Lezmy
+        twitter: Eyal_Lezmy
+        github: eyal-lezmy
+        website:
+      - name: Mike Nakhimovich
+        twitter: friendlyMikhail
+        github: digitalbuddha
+        website:
+      - name: Ty Smith
+        twitter: tsmith
+        github: tyvsmith
+        website: https://tysmith.me/
+      - name: David González
+        twitter: dggonzalez
+        github: malmstein
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-Llj5SlKQ5g
+    description: |-
+      Your favorite Google Developer Experts will open for the very first time a few applications, on stage. Please send your APK or Play Store link at contact@androidmakers.fr
+
+  - title: "The root: a stranger at home?"
+    lang: fr
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Bruce Bujon
+        twitter: hardcoding
+        github: PerfectSlayer
+        website: https://blog.hardcoding.fr/
+    slides:
+      - https://speakerdeck.com/perfectslayer/le-root-un-inconnu-chez-soi
+    videos:
+      - https://youtu.be/d5FKr0cCspo
+    description: |-
+      "Would you leave the admin account of your laptop to a stranger? Or even your Gmail password? So why are so many users installing root on their devices? Come discover how this hack really works, its evolution in recent years and its implications a little too quickly forgotten."
+
+  - title: Discovering and mastering obfuscation on Android
+    lang: fr
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Renaud Boulard
+        twitter: _renaudb
+        github: renaudboulard
+        website:
+      - name: François Lolom
+        twitter: flolom
+        github: flolom
+        website:
+    slides:
+      - https://speakerdeck.com/renaudboulard/getting-the-most-of-android-obfuscation-tools
+    videos:
+      - https://youtu.be/c0KZh_j_djQ
+    description: |-
+      "Developing applications is good! Securing them is better ... And even more so if these applications handle sensitive or personal data. Protecting its applications against reverse-engineering is something that should be done systematically before opening to the general public: Unfortunately, this step is still too often neglected. While obfuscating its code allows, to make the understanding of your system more difficult for a third party, to avoid the theft of your intellectual property and to limit the leakage of information. The purpose of this presentation is to introduce you to the obfuscation of an SDK or an application, to introduce you to the different issues and to prove to you that activating proguard is not always synonymous with crash! François and Renaud will show you step by step and in a practical way how to obfuscate an application starting from scratch, while analyzing the result and the quality of it. More advanced techniques will also be presented, the aim being to make the most of the various tools available to us for free. The limit of free tools versus paid tools will also be discussed."
+
+  - title: Make or brake… using Gradle.
+    lang: en
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Stanojko Markovik
+        twitter: smarkovik
+        github:
+        website:
+    slides:
+      - https://speakerdeck.com/smarkovik/make-or-break
+    videos:
+      - https://youtu.be/vcqA-_KbMr0
+    description: |-
+      This talk will focus on automating the tedious tasks every team has. Everyone knows you should write clean code, unit test, and check for common bugs. But sometimes, it's hard... Sometimes you forget... Well in this talk we will focus on making it easier. How to automate the process, make your build servers do most of the stuff for you, and increase visibility of your tasks and their progress to your team. I will focus on both a setup for a new project, where you start from scratch and where you will want to keep the slate clean, but also for existing projects where you will want to pay your technical debt, a bit at a time, fixing your project, but also not disrupting your daily routine.
+
+  - title: Actions on Google Workshop
+    lang: en
+    type: workshop
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Elaine Dias Batista
+        twitter: elainedbatista
+        github:
+        website: https://www.sfeir.com/
+      - name: Wajdi Ben Rabah
+        twitter: WajdiBenRabah
+        github: wadjo
+        website: http://www.wajdibr.com/
+    slides:
+    videos:
+    description: |-
+      Come and create conversation actions for the Google Assistant using Actions on Google. We'll show how you can integrate your existing services (or you can create a brand new one!) into the Google Assistant ecosystem, available on phones, android wear smartwatches and the Google Home. We'll build our actions with the API.AI platform.
+
+  - title: Streamlining Payments on Mobile
+    lang: fr
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Mathieu Calba
+        twitter: Mathieu_Calba
+        github: MathieuCalba
+        website: http://lyaug.fr/
+    slides:
+      - https://speakerdeck.com/mathieu_calba/streamlining-payments-on-mobile
+    videos:
+      - https://youtu.be/kwruiDw31T0
+    description: |-
+      "Payments on Mobile is not an easy task but it is certainly one of the most important in a commerce application. At Capitaine Train it was a very important part of our mission to help people purchase their train tickets easily and we improved the paying experience multiple times since the first release of the application. In this talk, we will see how to build a payment process from scratch: from the simplest payment form to the more evolved one, handling 3DSecure, how to use fingerprint to streamline even more the process, handling multiple payment methods."
+
+  - title: Mobile design is not easy!
+    lang: fr
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Quentin Sallat
+        twitter: Aerilys
+        github:
+        website: http://blog.aerilys.fr/
+    slides:
+      - https://www.slideshare.net/aerilys/le-design-mobile-cest-pas-facile-74910698
+    videos:
+      - https://youtu.be/nFoZLc00Kwc
+    description: |-
+      Realizing the design of a mobile application should not be that complicated. After all, small screen = small design no? Certainly not! This conference offers you to demystify the design on Android and iOS. Through very concrete examples, you will discover the requests sometimes far-fetched, but often legitimate, that we were able to receive, and how to make a correct design anyway. This will be an opportunity to give you some keys to convince your customers to do things right. If you're tired of creating an iOS design for your Android apps, or worse, having to apply a bootstrap pseudo-style to your iPad app, you're not alone, come see us!
+
+  - title: "Modern Android: How to ditch Activities and Fragments"
+    lang: en
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Fabien Devos
+        twitter: Fabien_Devos
+        github: fabiendevos
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1Ehc6B78kWnX23W1SZvUtpP42LMsSJwdEvD0WIkgACmk/mobilepresent?slide=id.p
+    videos:
+      - https://youtu.be/cfXflRUUC48
+    description: |-
+      "Activities get destroyed when you rotate the screen and have a complex lifecycle. Using Fragments is error-prone and their lifecycle is even worse. How would you like a Screen that doesn't get destroyed on rotation, and a navigation as simple as calling goTo(screen)? That's what modern Android development should look like. In this presentation you'll learn how we implemented a single Activity architecture with a custom navigation system, and how we use it everyday in production thanks to a library we created: Magellan."
+
+  - title: About React Native inside your existing Android App
+    lang: en
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Damien Cavaillès
+        twitter: thedamfr
+        github: thedamfr
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hNhSLMSF7mU
+    description: |-
+      Yeah, React Native so What? It's not about cross-platform apps. It's not about that having web developers building apps. React Native is a game changer for every Android Developer. Remember those shitty webviews your manager wants to keep? ReactNative is there to kill that and make your app more flexible keeping a native look and feel (yes it's React Native). Come to understand why it's a big deal to understand React Native for an Android Developer (and a few hints about how to catch the train while it's not too late!)
+
+  - title: Android Leaks live episode
+    lang: fr
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Benjamin Monjoie
+        twitter: Xzan
+        github: bmonjoie
+        website:
+      - name: Yannick Lemin
+        twitter: theyann
+        github:
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1SBgVb2Dw_h1VUU5Dg0Oe4nRe48zofTrM6L5Y7dlx3b0/edit?usp=sharing
+    videos:
+      - https://youtu.be/8n11IUI6n4o
+    description: |-
+      A live episode of the Android Leaks podcast with Yannick Lemin and Benjamin Monjoie
+
+  - title: "Putting the “Pro” in “Proximity”: Interactive Demos of the Nearby API"
+    lang: en
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Chad Schultz
+        twitter: thechadschultz
+        github: chadschultz
+        website:
+    slides:
+      - https://docs.google.com/presentation/d/1Dblfk4lL2dh79EQFJ5AeT7Ur0nZJPz7dXkOwwrcMIXM/edit?usp=sharing
+    videos:
+      - https://youtu.be/akOYiMDP6co
+    description: |-
+      What if… - you could share a meeting agenda, link, or access to a document to a roomful of people without having to enter their email addresses? - you could collaborate seamlessly with a group of people on a proposal, lunch order or crowdgame just by being in the same room? - when you walked up to a locked door, it knew you were there and unlocked for you without having to pull out an ID card? - you could navigate to your parked car in a huge concrete garage as easily as you could navigate across town with GPS? All of these concepts, and many more, are possible thanks to the Nearby API. Before, it was often easier to have one phone talk to another around the world than one in the same room. Now the Nearby API greatly simplifies the process of proximity-based communication between phones, and of working with beacons. It’s easy for you to become a pro at handling proximity in your apps! We’ll go over ideas of what the Nearby API can add to your app, how to implement it, and what Google doesn’t tell you about the Nearby API. We’ll also be able to try some apps hands-on together to see the potential firsthand! There will be a smorgasbord of interesting information. Bon app-etit!
+
+  - title: The Business of Technology Business Technology
+    lang: en
+    type: regular
+    time: 2017-04-11
+    room: The Salons of Aveyron
+    authors:
+      - name: Chet Haase
+        twitter: chethaase
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/afL8AvxNURw
+    description: |-
+      Technology is really important. So is business. So the business of the technology business technology is even more so. This talk will convince you that you need to hire me to help you navigate these wet, wet waters.
