@@ -1,7 +1,7 @@
 ﻿conference:
 
   name: PHP UK Conference 2019
-  status: incomplete
+  status: complete
   series: phpconference.co.uk
   tags:
     - php
@@ -20,3 +20,324 @@
   description: |-
   
 talks:
+
+  - title: "Your App Lives on a Network: Networking for Web Developers"
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Wim Godden
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/t0JdGOYuQzc
+    description: |-
+      Our job might be to build web applications, but we can't build apps that rely on networking if we don't know how these networks and the big network that connects them all (this thing called the Internet) actually work. I'll walk through the basics of networking, then dive a lot deeper (from TCP/UDP to IPv4/6, source/destination ports, sockets, DNS, switching, firewalling and even OSPF, VRRP and BGP). Prepare for an eye-opener when you realize how much a typical app relies on all of these (and many more) working flawlessly... and how you can prepare your app for failure in the chain.
+
+  - title: Test to Break Principles
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Rob Waller
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JDwFyRXbVHQ
+    description: |-
+      "The talk aims to highlight the importance of testing, why developers must spend more of their time testing, how testing generates more robust applications and why testing makes developers' lives easier. The talk is based around a live coding demo.  The talk will: - Explain the difference between tests that prove an application works and tests which aim to break the application logic.  - Highlight how test to break principles force developers to introduce logic to handle unexpected behaviour. - Show how test to break principles result in more robust applications as developers write code that can only be used in one way.  - Encourage developers to apply test to break principles to all types of tests, including manual tests."
+
+  - title: Massively Scaled High Performance Web Services with PHP
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Demin Yin
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_Yjk7EcZ2dI
+    description: |-
+      Over the years, software teams have questioned if PHP is a good choice for building web services. In this talk, I will share how we use PHP on the backend for Glu Mobile’s flagship mobile game Design Home, enabling it to regularly rank amongst the top free mobile games - both in downloads and grossing - since its launch in the Apple App Store and the Google Play Store in Q4 2016. Design Home reaches over 1 million daily active users, serving over 100,000 requests per minute while maintaining a user base of over 30 million players. To date, over 1 billion designs have been made by players. We will deep dive into the thought processes, development, testing and deployment strategy, showcasing what we have achieved with PHP and why we love it and rely on it. My goal is to share with the community that, when done the right way, PHP can be used to build and maintain reliable, massively-scalable and high-performance backends using web services.
+
+  - title: From Dev to Prod with GitLab CI
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Stephan Hochdorfer 
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Fx0yYvK-aRE
+    description: |-
+      Continuous Delivery Pipeline as code is key helping you to ensure long term maintainability. Treating your pipeline as code helps you to version it in your SCM of choice, makes changes easily traceable and lets anyone on your team make required changes. In this session I will show you how we build and maintain our Continuous Delivery pipeline using tools like GitLab CI, Docker, Nexus and Traefik. Together we will take a deep dive into the GitLab CI Build Pipelines to build and deploy docker containers to dev, stage and production environments.
+
+  - title: Dive Deep Into Blockchain
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Tomasz Kowalczyk
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/CD_t5jZtX48
+    description: |-
+      The blockchain is a hot new topic in the technology due to the rise of various cryptocurrencies, Bitcoin being a most prominent example. How does it work? What advantages does it give? What problems do they solve? What problems can be solved that way? I want you to dive with me into the immutable world of blocks where I will explain everything, from a simple hash, through Merkle trees, up to implementing your own blockchain.
+
+  - title: Controlling the Variables
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Thijs Feryn
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/f3EU-sd9KPY
+    description: |-
+      As a kid, do you have ambitions for the future? “When I grow up I want to become a …”. Maybe you wanted to become a fireman, an astronaut, a nurse, a teacher, or a police officer? As you grow up, these ideas evolve and get replaced with actual ambitions, actual hopes and dreams. These might be entirely different than your childhood dreams. But how do you reach these goals? How do you accomplish these dreams? By listening to your parents, friends, or teachers? By doing it yourself? Or maybe, you have given up and settled for a watered down version of the career and life you envisioned? People often attribute success to luck, and lack of success to incompetence. But what if I told you it’s all about controlling the variables? Luck is something that you can control in a way. The more you figure out the context, the key players, the relationships, the values, and the rules of the ecosystem in which you want to succeed, the easier it is to gain from it. The more variables you control, the easier it is to find potential opportunities and to bank on them. Maybe you didn’t get lucky, maybe you just saw it coming, and prepared yourself for it. In this talk, Thijs is going to share his experiences, his hopes, his dreams, and how he applies a positive mental attitude to level up in his career, and in life in general. This is not a growth hacking talk, but a simple set of tips and tricks to succeed, even if it seems like the odds are stacked against you.
+
+  - title: Database Encryption in a GDPR World
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Scott Dutton
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RTZXgxYGOWA
+    description: |-
+      15 years ago, plain text password storing was normal with some using MD5. We look back now and wonder what we were thinking! With GDPR and people thinking more about personal details, its about time we caught up and started storing them securely. There are many uses for personal data and is often sought after by criminals for targeting people. How can you prevent your customers data being used in these attacks ? Encrypting your database is a fantastic way! PHP is the first language to have modern encryption built in to the core, This talk will show you how to use these methods to allow your data to be secure and also not lose the speed which you can currently search for this data in your application. This talk will touch on architecture and will be focused on MySQL although the same techniques can be used for any storage engine.
+
+  - title: Everything is Awesome
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Paul Verbeek Mast
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/gzUL5cPhD8Q
+    description: |-
+      The Lego Movie came out almost 4 years ago, and it taught children everywhere the importance of teamwork. And what teamwork, and working in harmony, actually is. Let’s just hope that those lessons really stick with these kids. Because let’s be honest, we’re making a mess of it. But it’s not too late for us. We can learn from the Lego Movie as well. I’ll show you how you can help to make sure everyone feels safe and respected in your team and your company. How you can feel better being the unique person you are within your team. And how you can make your, and everyone else’s, life more awesome!
+
+  - title: Running Your PHP Site on AWS Lambda
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Neal Brooks
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/TTyIBOnpI9s
+    description: |-
+      APIs and microservices are how we build modern web applications and serverless technologies make this easy. This session will show you how serverless applications are built and how you can leverage your PHP skills to build APIs of all shapes and sizes. We will cover how to use your current knowledge to build applications in PHP within Apache OpenWhisk, leveraging the API Gateway to build robust APIs quickly and easily. By the end of the session, you’ll be well placed to design and build your own applications that take full advantage of the power of serverless technologies.
+
+  - title: I Deploy on Fridays (And Maybe You Should Too)
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Michiel Rook
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/clbnkvJb_mM
+    description: |-
+      Have you ever heard yourself or someone else say “Don’t deploy on Friday”? Perhaps it’s your company’s policy?
+
+  - title: Learning The Hows and Whys of Machine Learning
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Liam Wiltshire
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hr6l9g2Fbis
+    description: |-
+      Since it's founding, Tebex has processed over 18 million payments for games servers around the world. This is a rich data source, and one that we've significantly under-used. We know there should be ways of using this data to improve our product and to make our merchant's lives easier - how and where to start, now that's a totally different question! Join Liam as he shares Tebex's initial experiences in experimenting with machine learning to use past data to prevent fraud in the future - different algorithms we've tried, (many) failed experiments, the situation today and plans for the future.
+
+  - title: From Good To SOLID: How to Become a Better PHP Developer?
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Katerina Trajchevska
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ILFcofVJUF4
+    description: |-
+      PHP's flexibility makes it easy for beginners to start programming, but it also allows for projects to easily evolve into a coupled spaghetti architecture that makes them hard to maintain. SOLID design principles can help us write code that's easier to understand, extend and maintain.
+
+  - title: Get GOing with a New Language
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Kat Zien
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/grHWdBzQKG4
+    description: |-
+      Learning more than one programming language is key to becoming a better developer. It is like adding a new tool to your toolbox. The more tools you have, the easier and quicker you’ll be able to tackle whatever job you need to do. You’ll also be able to use the right tool for the job, and who doesn’t like that?! I picked up Go (golang) a few years ago as it was becoming more popular among developers. Coming from a PHP background, I had no idea what channels or goroutines were or how is concurrency different from parallelism. I’ve got to say, it was a whole new world. Very different, but very cool. I was hooked! By happy coincidence, my company was looking to rewrite a legacy PHP app in Go. It was over 2000 lines of procedural and messy PHP4 with more downtime than I’m willing to admit to. I took on this project, and soon enough we had a much faster, more maintainable and much more reliable app for our customers. Go gave us options we would not have in PHP. The goal of this talk is to give you a good idea of what Go is and how it compares with PHP. We’ll look at the language itself as well as the tooling and communities around it. Even if you’re not sold on Go by the end of it, I hope you’ll leave inspired to go out there and learn whatever language you wanted to look into next.
+
+  - title: "MySQL 8.0: Not Only Good, it's GREAT"
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Gabriela D'Avila Ferrara
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/tADkhBB-oIg
+    description: |-
+      Learn in this talk the new out of the box features of the most popular database in the world! It will blow your mind what you can do with just plain old SQL. Come on and watch the live demo!
+
+  - title: Does Your Code Measure Up?
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Adam Culp
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/dVu1AShtuQo
+    description: |-
+      After days, weeks, or months of coding many developers don’t know how to gauge the quality of their code. I’ll introduce tools to grade, benchmark, and analyze PHP code in an automated fashion allowing developers to write better quality software. Then I’ll explain key metrics to help understand what may need to be refactored, and use code smells to point out bugs before end-users discover them. Attendees will see how to use these tools, know where to find them, and be able to implement them in their own workflows.
+
+  - title: Storing Non-Scalar Data
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Derick Rethans
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/sIJithgF6f0
+    description: |-
+      In this presentation we will look at storing complex data in a single field. Many noSQL solutions are created around this (such as Redis’ lists, sets and hashes; MongoDB’s records), and many relational database now also support storing complex data in a single field through specific data types (such as PostGreSQL’s JSONB or hstore). Each of the different database engines support different things, and handle these data types in different ways. In this session we compare the different approaches to storage, indexing and interactions with these data types in different databases.
+
+  - title: How De-normalizing Your Data with JSON Can Boost Query Performance
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: David Stokes
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Y7Z1vwbG7rY
+    description: |-
+      Database joins can be expensive and you can reduce dives into the indexes/data by using JSON columns. By loading data kept in smaller 'stub' tables into main tables it is possible to minimize joins for simple data like address, phone numbers, and the like in schemaless JSON documents. Yes, third normal form or better has advantages at many levels but it is a design that is costly for many-to-many relations! It is very easy to refactor data is is often stagnant or infrequently updated to take advantage of hybrid SQL/NoSQL databases to greatly increase overall query performance plus increase code readability. This approach can completely change your ideas on data architecture and provide easy mutability for future changes.
+
+  - title: More Secrets of Cryptography
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Chris Riley
+        twitter:
+        github:
+        website:
+    slides:
+      -
+    videos:
+      - https://youtu.be/Nny7xf-anfU
+    description: |-
+      "Alice and Bob have covered the basics of secure communication but cryptography can offer us more than this. After a brief refresher on the basics, we'll take a look at some of these other aspects of cryptography including hash functions, elliptic curves and quantum cryptography. Then we'll take a look at some practical applications answering questions such as: can I trust a web of trust? or should I use a block chain for this?"
+
+  - title: Microservices Gone Wrong - Anthony Ferrara
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name:
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/5QIpzNPVDaY
+    description: |-
+      "Microservices are the latest architectural trend to take the PHP community by storm. Is it a good pattern? How can you use it effectively? In this talk, we'll explore real world experience building out a large scale application based around microservices: what worked really well, what didn't work at all, and what we learned along the way. Spoiler alert: we got a lot wrong."
+
+  - title: Building first-class REST APIs with Symfony
+    lang: en
+    type: regular
+    time: 2019-02-20
+    room: The Brewery
+    authors:
+      - name: Michael Cullum
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zvl5__Wov9o
+    description: |-
+      Building REST APIs is becoming an ever more common task for PHP developers to do and whilst the task may often sound simple in that it involves reading some input, and getting (or persisting) to a data source and returning some JSON, there are a lot of common pitfalls and complications that you might encounter along the way. In this talk we'll look at how we can build a simple maintainable REST API using the Symfony components that can perform some simple operations in ways that are clean and simple.
