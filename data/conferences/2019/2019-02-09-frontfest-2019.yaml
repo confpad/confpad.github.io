@@ -20,7 +20,7 @@
   description: |-
 talks:
 
-  - title: "Pixies in your browser: service workers"
+  - title: "Duendecillos en tu navegador: service workers"
     lang: es
     type: regular
     time: 2019-02-09
@@ -38,7 +38,7 @@ talks:
     videos:
       - https://youtu.be/e-yaGG53yWg
     description: |-
-      Have you ever thought that it would be great to have an extra help when it comes to your applications working? Now it is possible to have some little helpers in your browser, the service workers. In this talk we intend to make known all the possibilities behind the Services Workers beyond the caching of resources in client. We aim to demystify what lies behind this technology and show some of the many possibilities it offers. After an initial introduction we will show some examples of how to create your service workers and the different practical applications that you can get.
+      ¿Nunca has pensado que sería genial poder contar con una ayuda extra a la hora de que tus aplicaciones trabajaran? Ahora es posible contar con unos pequeños ayudantes en tu navegador, los service workers. En esta charla pretendemos dar a conocer todas las posibilidades que hay detras de los Services Workers más allá del cacheo de recursos en cliente. Tenemos como objetivo desmitificar lo que se esconde detrás de esta tecnología y mostrar algunas de las muchas posibilidades que ofrece. Tras una introducción inicial mostraremos algunos ejemplos de como crear tu service workers y las distintas apliciones prácticas que puedes llegar a conseguir. 
 
   - title: Road to Web Components
     lang: es
@@ -54,9 +54,9 @@ talks:
     videos:
       - https://youtu.be/y9RX6UjNQE4
     description: |-
-      The webcomponent concept has been playing for a while and sounds louder every time thanks to libraries like Polymer or Stencil. Therefore, in this talk we will see what are the key concepts of a webcomponent, we will see how to create some examples and how to apply them in a real project. Also, we will analyze how is the standard in this sense, the advantages of using them and how we can take advantage of it to make our project more native and less attached to the framework we use in our project.
+      El concepto webcomponent lleva sonando un tiempecillo y cada vez suena más fuerte gracias a librerías como Polymer o Stencil. Por ello, en esta charla veremos cuáles son los conceptos clave de un webcomponent, veremos como crear algunos de ejemplo y como aplicarlos en un proyecto real. Así también, analizaremos como está el estándar en este sentido, las ventajas de utilizarlos y como podemos aprovecharlo para hacer de nuestro proyecto algo más nativo y menos pegado al framework que usemos en nuestro proyecto. 
 
-  - title: How does a SPA router work? Case study with Vue Router
+  - title: ¿Cómo funciona un router SPA? Caso práctico con Vue Router
     lang: es
     type: regular
     time: 2019-02-09
@@ -68,10 +68,11 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/MXUeo-dUClo
     description: |-
-      When we develop a Single Page Application, it is necessary to use a Router. Each framework has its own router, React even has several packages available. And, although each framework is different and each router has a different approach, they all share the same principles. What is behind a simple and easy-to-use API? Is it really that difficult to implement a router by itself? What things fail today in Vue Router? During this talk, we will answer these questions using the official Vue Router as an example and explaining its internal functioning.
+      Cuando desarrollamos una Single Page Application, es necesario usar un Router. Cada framework tiene su propio router, React incluso tiene varios paquetes disponibles. Y, aunque cada framework sea diferente y cada router tenga un enfoque diferente, todos comparten los mismos principios. ¿Qué se esconde detrás de una API simple y fácil de usar? ¿Es realmente tan difícil implementar un router por sí mismo? ¿Qué cosas fallan hoy en día en Vue Router? Durante esta charla, responderemos a estas preguntas usando el Router oficial de Vue como ejemplo y explicando su funcionamiento interno. 
 
-  - title: "Equality in work spaces: challenges and benefits"
+  - title: "La igualdad en los espacios laborales: retos y beneficios"
     lang: es
     type: regular
     time: 2019-02-09
@@ -83,10 +84,11 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/640YazUAORU
     description: |-
-      Work spaces are places where the work of very different people is shared. Diversity is an opportunity for learning and plurality of solutions, but without an assessment of it, it can become a source of disengagement and restraint. The presence of women in areas traditionally considered masculine can be perceived as a gain in wealth of human resources or, on the contrary, as an attack on traditional work dynamics. In the same way, other diversities, such as LGBT or skills, can be exploited or lost by generating violent spaces. The perception of diversity itself is influenced by the possibility of understanding new realities and questioning acquired prejudices. Throughout this paper will visit strategies and approaches that allow us to visualize the diversity and social patterns that prevent us from growing equally and take advantage of new enabling ways.
+      Los espacios laborales son lugares de puesta en común del trabajo de personas muy distintas. La diversidad es una oportunidad de aprendizaje y de pluralidad de soluciones pero, sin una valoración de la misma puede transformarse en una fuente de desentendimiento y freno. La presencia de mujeres en ámbitos tradicionalmente considerados masculinos puede ser percibida como una ganancia en riqueza de recursos humanos o, por el contrario, como un ataque a las dinámicas tradicionales de trabajo. Del mismo modo, otras diversidades, como la LGBT o de capacidades pueden aprovecharse o perderse al generar espacios violentos. La percepción de la diversidad misma está influida por la posibilidad de entender nuevas realidades y de cuestionarse prejuicios adquiridos. A lo largo de esta ponencia se visitarán estrategias y planteamientos que nos permitan visibilizar la diversidad y los patrones sociales que nos impiden crecer igualitariamente y aprovecharnos de nuevos caminos capacitantes. 
 
-  - title: How do we get it "designers" every day?
+  - title: Cómo te la "colamos" los diseñadores todos los días
     lang: es
     type: regular
     time: 2019-02-09
@@ -98,10 +100,11 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/srS8imBcAmc
     description: |-
-      "Years ago you could draw a line between the work of a designer and that of a frontend developer easily: the designer organizes the appearance of the product and passes it on to the developer to build the interface. However, now we invest more in the user experience, in addition to looking at the appearance of the elements in the interface we also work on their behavior. As a result, the difficulty in communication between frontend designers and developers is growing in the daily workflow: the traditional form of design documentation is not flexible enough to reflect how the elements work, nor does it come in a developer-friendly format. In this talk I propose some tricks to improve the design / frontend communication in our daily work. In 40 minutes we will see in a practical way: Unification of the language in the design / frontend communication. Optimization and personalization of the content and responsibility of the work of both sides, both designers and frontend developers. As a designer, the way to provide the design in a format that is more developer-friendly. The introduction of a mediator between design and frontend in the workflow."
+      " Hace años se podía dibujar una línea entre el trabajo de un diseñador y el de un desarrollador frontend fácilmente: el diseñador organiza la apariencia del producto y se la pasa al desarrollador para construir la interfaz. Sin embargo, ahora invertimos más en la experiencia de usuario, además de fijarnos en la apariencia de los elementos en la interfaz también trabajamos en su comportamiento. Como resultado, la dificultad en la comunicación entre diseñadores y desarrolladores frontend está creciendo en el workflow diario: la forma tradicional de documentación de diseño no es suficientemente flexible para reflejar cómo funciona los elementos, tampoco viene en un formato developer-friendly. En esta charla propongo unos trucos para mejorar la comunicación diseño/frontend en nuestro trabajo diario. En 40 minutos veremos de forma práctica:    Unificación del lenguaje en la comunicación de diseño/frontend.    Optimización y personalización del contenido y responsabilidad del trabajo de ambos lados tanto diseñadores como desarrolladores frontend.    Como diseñador, la forma de proveer el diseño en un formato que sea más developer-friendly.    La introducción de un mediador entre diseño y frontend en el workflow."
 
-  - title: How to program an animations engine taking care of the performance
+  - title: Cómo programar un motor de animaciones cuidando el rendimiento
     lang: es
     type: regular
     time: 2019-02-09
@@ -113,10 +116,11 @@ talks:
         website: http://vlucendo.com/
     slides:
     videos:
+      - https://youtu.be/jkKs10HZQLA
     description: |-
-      "There are several very popular animation engines among the frontend community (TweenMax, Anime.js, Velocity, Popmotion ...) but few know how one really works. In this talk we will learn how to program one from scratch, reviewing the basic concepts of animation along the way, learning about some important aspects of the operation of a browser and finally adding all the necessary features to give our websites a "motion design" first. Once finished we will test it comparing its performance with others and we will see some of the advantages and disadvantages of programming our own libraries instead of using others already made."
+      "Existen varios motores de animaciones muy populares entre la comunidad frontend (TweenMax, Anime.js, Velocity, Popmotion...) pero pocos saben cómo funciona uno realmente. En ésta charla aprenderemos cómo programar uno desde cero, repasando por el camino conceptos básicos de animación, aprendiendo sobre algunos aspectos importantes del funcionamiento de un navegador y finalmente añadiendo todas las funcionalidades necesarias para dotar a nuestras webs de un motion design de primera. Una vez terminado lo pondremos a prueba comparando su rendimiento con otros y veremos algunas de las ventajas e inconvenientes de programar nuestras propias librerías en lugar de usar otras ya hechas."
 
-  - title: The rules have changed, Custom Properties!
+  - title: Las reglas han cambiado, Custom Properties!
     lang: es
     type: regular
     time: 2019-02-09
@@ -128,10 +132,11 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/NroY5YLLcVY
     description: |-
-      "It is the moment to take advantage of the potential of the custom properties, they do not come to replace the variables of the preprocessors but to offer us new ways of building the web, the next revolution after the responsive web design. The custom properties provide us with a new channel of communication with our CSS files, providing them with power and reducing the number of classes we need. But not everything is perfect, the custom properties have their peculiarities and it is necessary to know them so as not to take surprises. You will see some examples in the chat, like this or this one . Of course you will see how to modify them from Javascript, with several spectacular examples and with very few lines of code."
+      "Es el momento de aprovechar el potencial de las custom properties, no vienen a sustituir las variables de los preprocesadores sino a brindarnos nuevas formas de construir la web, la siguiente revolución después del responsive web design. Las custom properties nos brindan un nuevo canal de comunicación con nuestros archivos CSS, dotándolos de potencia y reduciendo el número de clases que necesitamos. Pero no todo es perfecto, las custom properties tienen sus peculiaridades y es necesario conocerlas para no llevarse sorpresas. Se verán agunos ejemplos en la charla, como este o este. Por supuesto que se verá como modificarlas desde Javascript, con varios ejemplos espectaculares y con muy pocas lineas de código."
 
-  - title: Testing without dogmas
+  - title: Testing sin dogmas
     lang: es
     type: regular
     time: 2019-02-09
@@ -143,5 +148,6 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/WH3lva8J0IA
     description: |-
-      "The testing talks can be divided into two groups: the introductory ones, with generalities and comparisons without much depth; and the dogmatic, which lists what to do as if we learned the ten commandments. This talk tries to escape these two approaches and provide a series of principles, with their reasoning so you know how to use them and discard them according to the situation."
+      "Las charlas de testing pueden dividirse en dos grupos: las introductorias, con generalidades y comparaciones sin mucha profundidad; y las dogmáticas, en las que se enumera lo que hacer como si nos aprendiéramos los diez mandamientos. Esta charla trata de huir de estas dos aproximaciones y aportar una serie de principios, con sus razonamientos para que sepas usarlos y descartarlos según la situación."
