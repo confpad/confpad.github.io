@@ -129,7 +129,6 @@ talks:
         website:
     slides:
     videos:
-      - 
     description: |-
       "A beginner-friendly workshop about programming in Python and Django for women. There will be dedicated coaches who will guide you during the workshop. The ratio is 1 coach: 3-5 participants More info: https://tutorial.djangogirls.org Before the workshop we ask attendees to read a first chapter "How the Internet works". You will also need to: 1. Install the following: - Python3 - Virtualenv - Pip - Django - Code Editor (Gedit or Sublime Text 3) - Git 2. Create a PythonAnywhere Account It's ideal to finish the installations before the workshop so you can have a better coding experience during the workshop. Installing prerequisites and setting up your environment can be a challenge, especially if you've never done this before; many things depend on your operating system, and sometimes the process isn't so smooth. But don't worry, your coach will be there to help you! Just be aware that the installation might take anywhere from 30 minutes to a few hours, so have patience and keep smiling! :)"
 
