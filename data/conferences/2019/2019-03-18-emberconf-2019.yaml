@@ -22,6 +22,26 @@
 
 talks:
 
+  - title: Opening Keynote
+    lang: en
+    type: regular
+    time: 2019-03-19
+    room: Oregon Convention Center
+    authors:
+      - name: Yehuda Katz
+        twitter: wycats
+        github:
+        website:
+      - name: Tom Dale
+        twitter: tomdale
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zYwdBcmz6VI
+    description: |-
+      Join Tom and Yehuda for a review of Ember in 2018/2019 and a look forward to the future.
+
   - title: Building a UI Styleguide in Ember
     lang: en
     type: regular
@@ -153,7 +173,7 @@ talks:
   - title: Dealing with Data in 2019
     lang: en
     type: regular
-    time: 2019-03-19
+    time: 2019-03-20
     room: Oregon Convention Center
     authors:
       - name: Igor Terzic
@@ -169,7 +189,7 @@ talks:
   - title: The State of Community Documentation
     lang: en
     type: regular
-    time: 2019-03-19
+    time: 2019-03-20
     room: Oregon Convention Center
     authors:
       - name: Kenneth Larsen
@@ -185,7 +205,7 @@ talks:
   - title: Communication and Convention
     lang: en
     type: regular
-    time: 2019-03-19
+    time: 2019-03-20
     room: Oregon Convention Center
     authors:
       - name: Julia Donaldson
@@ -201,7 +221,7 @@ talks:
   - title: Ember is for Everyone
     lang: en
     type: regular
-    time: 2019-03-19
+    time: 2019-03-20
     room: Oregon Convention Center
     authors:
       - name: Kenigbolo Meya Stephen
@@ -216,7 +236,7 @@ talks:
   - title: Building Better Components
     lang: en
     type: regular
-    time: 2019-03-19
+    time: 2019-03-20
     room: Oregon Convention Center
     authors:
       - name: Dianne Eramo
@@ -232,7 +252,7 @@ talks:
   - title: Composable Concurrency Tasks
     lang: en
     type: regular
-    time: 2019-03-19
+    time: 2019-03-20
     room: Oregon Convention Center
     authors:
       - name: Isaac Ezer
@@ -248,7 +268,7 @@ talks:
   - title: "New to Ember: What ARE All These Things?"
     lang: en
     type: regular
-    time: 2019-03-19
+    time: 2019-03-20
     room: Oregon Convention Center
     authors:
       - name: Jennifer Wong
@@ -260,11 +280,101 @@ talks:
       - https://youtu.be/KzxF6dIyfTw
     description: |-
       New to Ember? So am I! What are all these things? A new code base often means unfamiliar words and paradigms. I definitely had my share in this Ember new world. When I saw mut, I thought of adorable dogs. When I saw can I thought of soup. Eventually, I realized the mystery words are part of Ember addons! But with so many to learn, I was quickly overwhelmed. Let me walk you through my exploration of addons. How do you balance code time with addon learning time? From ember-a11y-testing to zoey, we’ll dig into Ember & its addons, and strategies for persistent, sustained learning anyone can rely on
+  
+  - title: How to Grow or Save your Favorite Open Source Project
+    lang: en
+    type: lightning
+    time: 2019-03-20
+    room: Oregon Convention Center
+    authors:
+      - name: Jen Weber
+        twitter: jwwweber
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/S8VI0ULzFvU
+    description: |-
+  
+  - title: How I Learned to Stop Worrying and Love the Mono Repo
+    lang: en
+    type: lightning
+    time: 2019-03-20
+    room: Oregon Convention Center
+    authors:
+      - name: Hassan Abdel-Rahman
+        twitter: 
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Q7QPqEAGu_U
+    description: |-
+  
+  - title: "From Mainframe to Mainstream: A Case Study in Emberification"
+    lang: en
+    type: lightning
+    time: 2019-03-20
+    room: Oregon Convention Center
+    authors:
+      - name: Ryan Mark
+        twitter: 
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/GzsYOvhYKvE
+    description: |-
+  
+  - title: How to build a Blog Engine in 15m with Ember and NodeJS
+    lang: en
+    type: lightning
+    time: 2019-03-20
+    room: Oregon Convention Center
+    authors:
+      - name: Chris Manson
+        twitter: 
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/GHbjdesHhPA
+    description: |-
+  
+  - title: What's Behind Ember Observer's Scores?
+    lang: en
+    type: lightning
+    time: 2019-03-20
+    room: Oregon Convention Center
+    authors:
+      - name: Katie Gengler
+        twitter: 
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/f_44WXjQ9CI
+    description: |-
+  
+  - title: Broccoli Update
+    lang: en
+    type: lightning
+    time: 2019-03-20
+    room: Oregon Convention Center
+    authors:
+      - name: Oli Griffiths
+        twitter: 
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/wm3QkDLA4RI
+    description: |-
 
   - title: "No Bad Legos: A Toy Box For Everybody"
     lang: en
     type: regular
-    time: 2019-03-19
+    time: 2019-03-20
     room: Oregon Convention Center
     authors:
       - name: Howie Bollinger
