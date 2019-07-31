@@ -1,4 +1,4 @@
-﻿conference:
+conference:
 
   name: NationSS Frontrunners 2019
   status: complete
@@ -160,6 +160,7 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/4K1l7RcD938
     description: |-
       You can choose to be a code executer and keep spending your time running code that other people wrote. But a true Jedi developer knows how to use the power of the source. In this session, we will peek under the hood of a famous library and see how much we can learn from it. By the end of this session, you will get both practical tips and motivation to explore open source code and become a Jedi developer, May the source be with you.
 
@@ -174,6 +175,6 @@ talks:
         github:
         website:
     slides:
-    videos:
+    videos: https://youtu.be/11DHJISR3b8
     description: |-
       In 1985 pop music was mesmerized by the a-ha “Take on me” music video. It’s been almost 35 years since then, the world needs new catchy tunes with impressive video animations… on the web. Let’s learn how we can edit videos and create immersive experiences worthy of the ‘80s using JavaScript and CSS.
