@@ -1,7 +1,7 @@
-﻿conference:
+conference:
 
   name: NationSS Frontrunners 2019
-  status: incomplete
+  status: complete
   series: nationjs.com
   tags:
     - javascript
@@ -9,7 +9,7 @@
     -
   link:
     twitter: nationjs
-    videos: https://www.youtube.com/channel/UCgRpkkcigKZk52JyAOYNs6w
+    videos: https://www.youtube.com/playlist?list=PLeGxIOPLk9EIcn3_m4Qb8NHctlOp8obUe
     website: http://nationjs.com/
   date:
     from: 2019-05-10
@@ -18,5 +18,163 @@
     country: United States
     city: Washington DC
   description: |-
-
 talks:
+
+  - title: "Futurist Code Bases: Integrating JS of the FutureToday"
+    lang: en
+    type: regular
+    time: 2019-05-10
+    room: The Burke Theater (US Navy Memorial - Naval Heritage Center)
+    authors:
+      - name: Brian Holt
+        twitter: holtbt
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/T2NcrEvFsL0
+    description: |-
+      "The future is now. Or then. Or it will be soon be now, but now is then. JavaScript and its ecosystem is ever evolving and JS fatigue can be real. It's a lot to keep up with. Staying up to date on the ever moving system feels like a fool's errand and to some degree it can be. But in this talk we're going to chat about a few things: what's new and important now with ES2018, ES2019 and beyond, what's new and important in the JavaScript ecosystem and tooling, and how to sanely integrate new features, tools, and such into your existing codebase today. Come chat about the future and how to touch it today. "
+
+  - title: "The Hybrid Experiment: Merging Node.js, WordPress, and React"
+    lang: en
+    type: regular
+    time: 2019-05-10
+    room: The Burke Theater (US Navy Memorial - Naval Heritage Center)
+    authors:
+      - name: Chiedo 
+        twitter: chiedo
+        github:
+        website: https://labs.chiedo.com/
+    slides:
+    videos:
+      - https://youtu.be/QKe0GWDtUsI
+    description: |-
+      Marketing folk almost always insist that we build in WordPress. And it’s great for informational sites. But we refuse to build custom web apps upon the WordPress ecosystem. But sometimes we’re asked to and we can at least appear to comply… Thus we launched a Hybrid experiment. An attempt to build React apps that seamlessly blended together and worked along side WordPress. Ultimately, so we could use WordPress to grant the marketing teams access to the WordPress plugin Ecosystem, Blog functionality, and Page builders, while allowing us to build everything else in React. 
+
+  - title: I Don't Hate JavaScript Anymore
+    lang: en
+    type: regular
+    time: 2019-05-10
+    room: The Burke Theater (US Navy Memorial - Naval Heritage Center)
+    authors:
+      - name: Michael Szul
+        twitter: szul
+        github: szul
+        website: https://michael.szul.us/
+    slides:
+    videos:
+      - https://youtu.be/1lnk2qsra4M
+    description: |-
+      JavaScript is the assembly language of the web, but that hasn't prevented it from being the punchline of jokes for the last decade or more because of its weird quirks and browser implementations. It doesn't have to be this way. Modern browsers and Node.JS support ES6 and beyond. This isn't the JavaScript of the early 90's, 00's, or even ten years ago, and if you still hate JavaScript, you're doing it wrong. In this session, you'll cringe at the wounds of JavaScript past, but rejoice in the newer browser APIs, language syntax, and Node.JS packages that now make JavaScript a joy. Michael Szul has spent almost two decades in software engineering in industries as diverse as insurance, energy, travel, and higher education. He has worked in both application and product development, as well as framework creation, code generation, API building, and machine learning. Szul is the co-host of the Codepunk podcast–a podcast about programming, technology, and the digital lifestyle. He records programming tutorials on YouTube, blogs at codepunk.io, edits the Bots + Beer email newsletter, speaks at conferences, and is also a Microsoft MVP in Developer Technologies. He is the author of an upcoming book on building chatbots with TypeSript and the Bot Framework.
+
+  - title: JavaScript, JavaScript…. Rocks You!
+    lang: en
+    type: regular
+    time: 2019-05-10
+    room: The Burke Theater (US Navy Memorial - Naval Heritage Center)
+    authors:
+      - name:  Vitalii Bobrov 
+        twitter:
+        github:
+        website: https://bobrov.dev/
+    slides:
+    videos:
+      - https://youtu.be/Hn8CvYKEm3E
+    description: |-
+      Take your old scratched Les Paul or Stratocaster from the case and fill all the space around with warm riffs. I’m going to show how to transform the code into Kirk Hammett’s wah-wah, Stevie Ray Vaughan’s overdrive and Kurt Cobain’s distortion. You’ll learn how to parse audio input in real-time using JavaScript and the Web Audio API. I’ll be jamming live on stage with my guitar to demo every code example, and we’ll also use WebRTC to jam with friends across the world! After this talk, you will be familiar with the principles behind pedal sound effects and how to create them in code. Let’s rock the Web 🤘! 
+
+  - title: Authentication for the REST of us
+    lang: en
+    type: regular
+    time: 2019-05-10
+    room: The Burke Theater (US Navy Memorial - Naval Heritage Center)
+    authors:
+      - name: Divya Sasidharan
+        twitter: shortdiv
+        github:
+        website: http://shortdiv.com/
+    slides:
+    videos:
+      - https://youtu.be/7BDbrfh5pqo
+    description: |-
+      Auth is a a daunting concept to grok, especially for the uninitiated. In addition to the many authentication strategies to choose from, there are also many cloud based authentication services available. Deciding the best authentication strategy for your application can be an incredibly overwhelming decision. In this session, we journey through the steps of securing a web application by taking a bare bones web application and progressively adding authentication to it. In the process of adding authentication, we will demystify the wonderful world of web authentication to take our web security skills to the next level! In addition to covering a real world example, I will be covering simple tools and techniques you can use to start integrating authentication into applications without the stress. 
+
+  - title: Controlling a swarm of drones with JavaScript
+    lang: en
+    type: regular
+    time: 2019-05-10
+    room: The Burke Theater (US Navy Memorial - Naval Heritage Center)
+    authors:
+      - name: Jasper Schulte
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/gFavIbhC7QQ
+    description: |-
+      We’re pretty used to drones flying around us by now. Until now most of these drones were still controlled by a human operator. But what if we could control them solely using our code? In this talk I will show how to control multiple drones using JavaScript. With the help of Node.js we’ll send commands to the drones and read back their telemetry. I will talk about the difficulties of flying and keeping control of a drone completely without human interference. In the second part we will actually send the drones flying and I’ll ask two audience members to participate in a small ‘drone’ game. 
+
+  - title: "Building Bridges, Not Walls: An Approach to Accessibility"
+    lang: en
+    type: regular
+    time: 2019-05-10
+    room: The Burke Theater (US Navy Memorial - Naval Heritage Center)
+    authors:
+      - name:  Ashley Jean
+        twitter: AshhJean
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/wslxTb7x75M
+    description: |-
+      You could argue that web accessibility is the most important consideration when building web applications. Web accessibility enables an inclusive experience for all. Yet it tends to be overlooked due to its complex nature. Let’s change that! Recently, I was tasked with creating a company-wide web accessibility plan. I drafted a plan, collaborated with the team, and the result is now the standard for our applications. In this talk, we will discuss how I constructed this plan and the lessons learned. Lastly, I will give you tips you can use for your own accessibility plan–not just create one, but get it adopted as part of the fabric of your team. Ashley Jean is a software engineer at mdlogix and a part-time Computer Science graduate student who resides in Baltimore, Maryland. In her spare time, Ashley enjoys reading and hosting book club gatherings. Additionally, she enjoys organizing events in Baltimore for folks learning to code. She is a co-organizer for the Baltimore Hackathon and sits on the industry advisory board for Code in the Schools.
+
+  - title: How I Learned to Stop Worrying and Love TypeScript
+    lang: en
+    type: regular
+    time: 2019-05-10
+    room: The Burke Theater (US Navy Memorial - Naval Heritage Center)
+    authors:
+      - name:  Tommy O'Keefe
+        twitter: tommyokeefe
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-sm8h1wHkwE
+    description: |-
+      Have you considered using TypeScript but can’t bring yourself to take the plunge? Are you worried that the cost will outweigh the benefits? As someone who has gone all in on TypeScript I’ll detail my journey from TypeScript skeptic to TypeScript fanboy using examples from real world usage at NPR. Tommy O'Keefe is a full stack developer at NPR, formerly a full stack developer at Atlantic Media Strategies, the digital consultancy of The Atlantic magazine. Currently he is writing a lot of TypeScript for voice platforms like Amazon Alexa and Google Assistant. Tommy thinks of himself as a “life long learner” and is always looking for connections between the world of technology and other fields of study. When he isn’t writing code, he can often be found hanging out with his family, riding his bicycle, or reading a book and drinking good coffee.
+
+  - title: Be a Jedi developer. Become one with the Source, and the Source will guide you. 
+    lang: en
+    type: regular
+    time: 2019-05-10
+    room: The Burke Theater (US Navy Memorial - Naval Heritage Center)
+    authors:
+      - name: Nir Kaufman
+        twitter: nirkaufman
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4K1l7RcD938
+    description: |-
+      You can choose to be a code executer and keep spending your time running code that other people wrote. But a true Jedi developer knows how to use the power of the source. In this session, we will peek under the hood of a famous library and see how much we can learn from it. By the end of this session, you will get both practical tips and motivation to explore open source code and become a Jedi developer, May the source be with you.
+
+  - title: Take on me, web browsers!
+    lang: en
+    type: regular
+    time: 2019-05-10
+    room: The Burke Theater (US Navy Memorial - Naval Heritage Center)
+    authors:
+      - name: Eva Ferreira
+        twitter: evaferreira92
+        github:
+        website:
+    slides:
+    videos: https://youtu.be/11DHJISR3b8
+    description: |-
+      In 1985 pop music was mesmerized by the a-ha “Take on me” music video. It’s been almost 35 years since then, the world needs new catchy tunes with impressive video animations… on the web. Let’s learn how we can edit videos and create immersive experiences worthy of the ‘80s using JavaScript and CSS.
