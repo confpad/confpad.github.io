@@ -175,6 +175,7 @@ talks:
         github:
         website:
     slides:
-    videos: https://youtu.be/11DHJISR3b8
+    videos:
+      - https://youtu.be/11DHJISR3b8
     description: |-
       In 1985 pop music was mesmerized by the a-ha “Take on me” music video. It’s been almost 35 years since then, the world needs new catchy tunes with impressive video animations… on the web. Let’s learn how we can edit videos and create immersive experiences worthy of the ‘80s using JavaScript and CSS.
