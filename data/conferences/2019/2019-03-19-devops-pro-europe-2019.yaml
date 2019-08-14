@@ -233,7 +233,7 @@ talks:
     description: |-
       In this presentation, Jose will share what he has learned in the last years working in the DevOps area with big enterprises at Accenture. He will argue for why Agile and DevOps practices are so important, why it matters for software developers, will share some of the Agile and DevOps lessons that he has learned until now, and will also discuss some anti-patterns. Finally, he will take you through some real life examples to show you some of the DevOps work that he has been doing.
 
-  - title: Knative: A Kubernetes Framework to manage Serverless Workloads
+  - title: "Knative: A Kubernetes Framework to manage Serverless Workloads"
     lang: en
     type: regular
     time: 2019-03-20
