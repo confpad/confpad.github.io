@@ -327,7 +327,7 @@ talks:
     time: 2018-12-04
     room: Hilton Munich Park
     authors:
-      - name: Sabine Fontanive-Michael
+      - name: Sabine Fontanive Michael
         twitter:
         github:
         website:
@@ -428,7 +428,7 @@ talks:
     description: |-
       Microservices development environment becomes more and more popular in cloud-based companies in order to support better CI/CD methodologies. I would like to show a case study which leads to best practices of how do we manage CI/CD for 200 microservices based both on Docker/Kubernetes and Puppet under production environments and be able to control them all using various of tools, internal developments and technologies.
 
-  - title: Whispers in the Chaos: Monitoring Weak Signals
+  - title: "Whispers in the Chaos Monitoring Weak Signals"
     lang: en
     type: regular
     time: 2018-12-04
@@ -617,7 +617,7 @@ talks:
     slides:
     videos:
     description: |-
-      ""Blameless postmortems" and "learning from failure" are very en vogue in the technology industry right now. Both fall into that less-discussed category of "CI": Continuous Improvement. But for as much as we all talk about them, in many organizations and teams, the outcome of continual organizational learning and improvement remains elusive. Why is this? In this talk, we’ll look at five "dirty words"* that are often thrown around during postmortems, retrospectives, and other learning exercises that not only make it difficult for teams to discuss learning, but promote activities and behaviors that are actually counterproductive to continuous improvement. We’ll dig into the existing research on why this is – it turns out we’re not the only industry struggling with this! – and look at some different language we can start using that can more ably facilitate sustainable Continuous Improvement in our work environments. *Not actually dirty words."
+      "Blameless postmortems and learning from failure are very en vogue in the technology industry right now. Both fall into that less-discussed category of "CI": Continuous Improvement. But for as much as we all talk about them, in many organizations and teams, the outcome of continual organizational learning and improvement remains elusive. Why is this? In this talk, we’ll look at five "dirty words"* that are often thrown around during postmortems, retrospectives, and other learning exercises that not only make it difficult for teams to discuss learning, but promote activities and behaviors that are actually counterproductive to continuous improvement. We’ll dig into the existing research on why this is – it turns out we’re not the only industry struggling with this! – and look at some different language we can start using that can more ably facilitate sustainable Continuous Improvement in our work environments. *Not actually dirty words."
 
   - title: "Distributed Monitoring: How to understand the Chaos"
     lang: en
