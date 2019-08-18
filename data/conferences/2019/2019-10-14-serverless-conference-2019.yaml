@@ -1,4 +1,4 @@
-﻿conference:
+conference:
     
   name: Serverless Architecture Conference 2019
   status: complete
@@ -9,7 +9,7 @@
     -
   link:
     twitter: serverlesscon
-    videos: https://www.youtube.com/playlist?list=UUDktNpuKVzVdQinivTMdDcQ
+    videos: https://www.youtube.com/channel/UCDktNpuKVzVdQinivTMdDcQ
     website: https://serverless-architecture.io/
   date:
     from: 2019-10-14
