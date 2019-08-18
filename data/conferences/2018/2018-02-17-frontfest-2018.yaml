@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: FrontFest 2018
-  status: incomplete
+  status: complete
   series: frontfest.es
   tags:
     - web
@@ -18,5 +18,136 @@
     country: Spain 
     city: Madrid
   description: |-
-
 talks:
+
+  - title: "3 soluciones a un mismo problema: ¿cómo implementan la reactividad React, Vue y Angular?"
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: LA NAVE
+    authors:
+      - name: Javier Abadía
+        twitter: javierabadia
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/VyzlZl6LlqM
+    description: |-
+      ¿Qué es la reactividad en un framework front-end? ¿Por qué debería importarme? La sincronización entre datos y vista es el problema central que resuelven todos los frameworks front-end y la solución que cada uno plantea al mismo problema es la principal característica que condiciona forma de desarrollo, rendimiento, operaciones no permitidas, facilidades de depuración... Entraremos a fondo en las tripas de la implementación de la reactividad en los principales frameworks y veremos las consecuencias prácticas que de ella se derivan. Si conoces cualquiera de los 3 frameworks, esta charla te ayudará a utilizarlo mejor, y quién sabe si a descubrir que hay otro framework que se adapte mejor a tu caso de uso.
+
+  - title: ¿Estamos creando la web de la forma correcta?
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: LA NAVE
+    authors:
+      - name: Iván Abascal
+        twitter: abalozz
+        github: abalozz
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1CexYcSkFl0
+    description: |-
+      Creo que es necesario pararnos a pensar un momento y hacernos esta pregunta. ¿Realmente lo estamos haciendo bien? Las webs cada vez pesan más. El botón de atrás del navegador está dejando de funcionar. Los enlaces ya no son enlaces. Y, venga ya, ¿de verdad necesito todas estas herramientas para comenzar a crear una web? ¿No puedo tirar unos cuantos archivos CSS y JS en una carpeta y ya? Vamos a analizar de forma objetiva las prácticas que estamos siguiendo hoy en día, y reflexionaremos sobre cuándo está bien seguirlas, y cuándo no. ¿Hasta qué punto Bootstrap agiliza el trabajo? ¿CSS en JS es bueno o malo? ¿Es necesario preprocesar y minificar nuestro código? ¿Realmente necesitas un framework de JavaScript? La charla será una crítica al panorama actual del desarrollo web. Por supuesto, siempre desde un punto de vista constructivo ;)
+
+  - title: Testing práctico con JavaScript
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: LA NAVE
+    authors:
+      - name: Ramón Guijarro
+        twitter: soyguijarro
+        github: soyguijarro
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DCPpDw_HfgI
+    description: |-
+      Hoy en día usamos JavaScript para construir complejas aplicaciones web con una cantidad importante de lógica de negocio en el navegador, por lo que tomarse el testing en serio se convierte en una necesidad. Sin embargo en el mundo JavaScript hay una infinidad de herramientas diferentes para este propósito y testear aplicaciones en el navegador presenta algunos desafíos. Mocha, Chai, Jasmine, Ava, Sinon, Karma, Jest... ¿Qué son todas estas herramientas y qué relación tienen? ¿Cómo podemos testear código que utiliza APIs del navegador? ¿Cómo testeamos interfaces de usuario? ¿Cómo integramos los tests en nuestro proyecto? En esta charla daremos un repaso al testeo de aplicaciones web JavaScript para tratar de responder a todas estas preguntas y algunas más.
+
+  - title: Mejorando como desarrolladores
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: LA NAVE
+    authors:
+      - name: Ramón Guijarro
+        twitter: ladybenko
+        github: belen-albeza
+        website: https://www.belenalbeza.com/
+    slides:
+    videos:
+      - https://youtu.be/DCPpDw_HfgI
+    description: |-
+      El mundo del front-end es vertiginoso y siempre hay mil y una cosas nuevas que aprender. ¿Cómo podemos formarnos y mejorar como desarrolladores sin abandonar a nuestra familia, amigos, aficiones, etc.? En esta charla veremos algunos consejos para ello, y cuestionaremos creencias y mitos comunes en la industria del desarrollo de software.
+
+  - title: Dibujo artístico aplicado al maquetador web
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: LA NAVE
+    authors:
+      - name: Carlos Mañas
+        twitter: oneeyedman
+        github: oneeyedman/
+        website:
+    slides:
+    videos:
+      - https://youtu.be/p-XhLT8-nQc
+    description: |-
+      Me gustaría animar a los maquetadores más aguerridos a hacer esquemas con papel y lápiz antes de enfrentarse a un trabajo de maquetación. Para estos esquemas no necesitas gran cosa (todos sabemos dibujar un cuadrado y una línea) pero veo que mis compañeros no lo suelen tener como una opción. La palabra dibujo da como más miedo que parallax o ajax, y me gustaría cambiar eso. El papel y el lápiz te permiten equivocarte y corregir super rápido, y casi sin consecuencias. Además, cuando separas la estructura del diseño es mucho más fácil modularizar componentes y tener una idea de conjunto de los elementos y de cómo se relacionan entre ellos. Aparte, estos apuntes se te graban a fuego con una facilidad asombrosa con lo cual luego el trabajo va mucho más fluido, directo y enfocado. Y el tiempo que ahorra es loquísimo. El título de la charla es un poco un chiste porque en 5º de carrera (yo hice Bellas Artes) el profesor que impartía "Dibujo artístico aplicado al diseño" no sabía dibujar. Y me ha parecido genial porque para estos apuntes no necesitas tener unos conocimientos especiales, pero sí perderle el miedo al papel. En mi cuenta de instagram podéis ver algunos ejemplos de las notas que tomo en mi día a día.
+
+  - title: El navegador no es un condesador de fluzo, y lo sabes... ¿o no?
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: LA NAVE
+    authors:
+      - name: Joan León
+        twitter: nucliweb
+        github: nucliweb/
+        website:
+      - name: Jorge Barrachina
+        twitter: NTKOG
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/26rEU4G95tA
+    description: |-
+      Cuando pensamos en alguien que domina una materia, imaginamos a alguien que conoce perfectamente el entorno en el que trabaja. Ya que somos frontends, ¿conocemos realmente nuestro entorno natural, el navegador? ¿Sabemos cómo funciona? Conocer cómo funcionan los navegadores de forma interna, las nuevas funcionalidades y APIs nos ayudará a conseguir lo que realmente es importante, un resultado mucho más optimizado para mejorar la experiencia de usuario. La potencia sin control no sirve de nada. Ahora que conocemos los tips de las DevTools, es hora de adentrarnos en las entrañas de los navegadores... tenemos auténticas joyas como el Shader Editor para WebGL, el panel Canvas o StackTrace en el Network Panel. ¿Qué esconde chrome://about? ¿Qué nos aporta el engine Servo, Quantum CSS, Quantum DOM o Quantum Render?
+
+  - title: "WebGL y shaders: programando luz"
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: LA NAVE
+    authors:
+      - name: Vicente Lucendo
+        twitter: vlucendo
+        github:
+        website: http://vlucendo.com/
+    slides:
+    videos:
+      - https://youtu.be/ddz3l5YyjSk
+    description: |-
+      Charla con una introducción donde se repasarán brevemente los requisitos para poder crear una escena 3D en el navegador, y donde posteriormente programaremos un shader sencillo que dará una pequeña muestra de todas las posibilidades que abre este tipo de programación.    Qué es WebGL.    Diferencias entre dibujar con la CPU y con la GPU.    Elementos esenciales de una escena.    Qué son los shaders y ejemplos de lo que se puede hacer con ellos.    Vertex shader.    Fragment shader.    Iluminar un objeto paso a paso, con álgebra, sin la ayuda de la funcionalidad de Three.js.    Cambiar el efecto para que parezca "toon shader", al estilo de algunos juegos de Nintendo.    Opcionalmente, si quedara tiempo, podría mostrarse cómo hacer otros efectos artísticos.
+
+  - title: Cuida tus modales
+    lang: es
+    type: regular
+    time: 2017-02-17
+    room: LA NAVE
+    authors:
+      - name: Eduardo Sada
+        twitter: aeroalquimia
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/6SenXnVGWD4
+    description: |-
+      «Modales», «popups», «ventanitas», llevan con nosotros desde el inicio de la web. Fueron odiadas en los 90, y hoy son la solución a todos nuestros problemas. ¿Quién no ha escuchado a nuestro UX amigo decir «aquí abrimos una modal y ya está»? ¿Te has preguntado alguna vez cuántas maneras hay de crear estas «modales» y cuál es la mejor? Yo sí. No sólo me lo he preguntado sino que también he sufrido encontrando la respuesta. Desde UX, accesibilidad, performance, y orientación (o no) a componentes. Baja los codos de la mesa, sácate el dedo de la nariz, y pon ese aria-hidden en ese div. Cuida tus modales.
