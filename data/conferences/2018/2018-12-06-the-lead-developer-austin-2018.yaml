@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: The Lead Developer Austin 2018
-  status: incomplete
+  status: complete
   series: theleaddeveloper.com
   tags:
     - management
@@ -18,5 +18,215 @@
     country: United States
     city: Austin
   description: |-
-
 talks:
+
+  - title: Navigating team friction
+    lang: en
+    type: regular
+    time: 2018-12-06
+    room: Austin Public Library
+    authors:
+      - name: Lara Hogan
+        twitter: lara_hogan
+        github:
+        website: https://larahogan.me/
+    slides:
+    videos:
+      - https://youtu.be/QArfW-IcQls
+    description: |-
+      Friction is a common, and necessary, part of team growth—but when left unchecked, team friction is unhealthy for you, your coworkers, your company, and ultimately your end users. In this presentation, I draw on my experiences at organizations large and small to illuminate the sources of team tension, how you can better understand and manage unexpected teammate reactions, and the best ways to give actionable feedback without escalating drama. Your coworkers, your organization, your users, and you will reap the benefits.
+
+  - title: Is Kotlin right for you?
+    lang: en
+    type: regular
+    time: 2018-12-06
+    room: Austin Public Library
+    authors:
+      - name: Todd Ginsberg
+        twitter: toddginsberg
+        github:
+        website: https://todd.ginsberg.com
+    slides:
+    videos:
+      - https://youtu.be/uDXUMjOSaW0
+    description: |-
+      Kotlin sure has been receiving a lot of buzz lately, is there something to it? Developed by JetBrains, Kotlin has been catching on lately because of its null safety guarantees, functional nature, type inference, full interoperability with Java, cross-platform support, and ease of use with Android and Spring. Is this something you and your team should considering spending time to learn? In this session we will go over what Kotlin is, what problems it solves, and what makes it stand out from other JVM languages. You’ll come away with enough knowledge to decide if this is something you and your team should consider adopting.
+
+  - title: Code reviews, for the culture
+    lang: en
+    type: regular
+    time: 2018-12-06
+    room: Austin Public Library
+    authors:
+      - name: Erica Stanley
+        twitter: ericastanley
+        github:
+        website: https://ericastanley.io
+    slides:
+    videos:
+      - https://youtu.be/xT3oFHBDEZY
+    description: |-
+      Our engineering workflow revolves around our code review process. Code reviews are more than just a way to make sure we don’t introduce new bugs into the codebase. They have become pillars of our team’s engineering culture—ensuring code quality, encouraging collaboration and providing valuable teaching and learning opportunities. We’ll look at the ways your code review process can define, reflect and reinforce your team's culture. These methods can be useful whether you're building and managing engineering teams at startups, large companies or even open source communities. We’ll then walk through the process with actual Pull Requests and identify best practices for more productive code reviews.
+
+  - title: How to get away with refactoring
+    lang: en
+    type: regular
+    time: 2018-12-06
+    room: Austin Public Library
+    authors:
+      - name: Maude Lemaire
+        twitter: qcmaude
+        github:
+        website: http://maudethecodetoad.com
+    slides:
+      - http://maudethecodetoad.com/how_to_get_away_with_refactoring.pdf
+    videos:
+      - https://youtu.be/34tLTZgvOxM
+    description: |-
+      Slack is the leading global collaboration hub that makes people’s working lives simpler, more pleasant and more productive. From global Fortune 100 companies to corner markets, businesses and teams of every kind use Slack to bring the right people together with all the right information. Whereas just two years ago the product had 2 million daily active users (DAUs), today it boasts over 6 million. Unfortunately, with quick growth come tough growing pains, and Slack was (and still isn’t) immune to them. Around April of last year, our product was plagued with relentless performance-related outages facing our largest customers. Instead of shipping scrappy, short-term fixes in the hopes that we could survive another Monday morning, we opted to address the root problem and completely change our data model around channels and channel membership. This is the tale of that undertaking, following one engineer (me!), through many obstacles and hiccups she overcame to boost both application performance and company-wide developer productivity.
+
+  - title: Building and scaling distributed teams
+    lang: en
+    type: regular
+    time: 2018-12-06
+    room: Austin Public Library
+    authors:
+      - name: Katie Womersley
+        twitter: katie_womers
+        github:
+        website: http://katiewomersley.com/
+    slides:
+      - https://speakerdeck.com/katielo/building-and-scaling-distributed-teams
+    videos:
+      - https://youtu.be/lam-94VHHsM
+    description: |-
+      Remote work is the number one desired workplace setup for developers. As a lead dev, you’re able to hire from a global talent pool, and your team’s productivity, engagement and retention can soar as everyone works in the way that’s best for them. But done wrong, it’s a recipe for isolation, miscommunication and massive lost opportunity. This holds many of us back from embracing remote work on our teams. In this talk, I’ll share the tools and practices we’ve figured out at Buffer, a globally distributed team with no offices. As a lead, you’ll learn how to make and communicate decisions remotely, solve those pesky collaboration problems, be a great manager when you don’t see your team face to face, and hire and onboard remotely. These are the four key areas you need to get right to build and scale a vibrant, effective distributed team. Whether you have just a few teammates who work from home some days, or you’re fully distributed, this talk will help you make remote work your team’s superpower.
+
+  - title: Bootstrapping inclusion
+    lang: en
+    type: regular
+    time: 2018-12-06
+    room: Austin Public Library
+    authors:
+      - name: Jason Wong
+        twitter: attackgecko
+        github:
+        website: https://www.attack-gecko.net
+    slides:
+      - https://speakerdeck.com/jwongworks/bootstrapping-inclusion
+    videos:
+      - https://youtu.be/YEWTgeQGJKA
+    description: |-
+      Diversity and Inclusion are hot topics right now. But, year after year, our industry fails to move the numbers significantly. It seems everyone is talking about it, but how do you actually bring about change? In this presentation, I’ll share the concrete actions from my efforts to bring inclusive practices into an engineering organization. From conceptualization to communication and implementation, you’ll hear about what worked and where I struggled. You’ll walk away with real world tactics—going beyond unconscious bias training and rooney rules—that you can use to start building your own inclusive workplaces.
+
+  - title: Suplexes and superpowers
+    lang: en
+    type: regular
+    time: 2018-12-06
+    room: Austin Public Library
+    authors:
+      - name: Kevin Stewart
+        twitter: kstewart
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/eswdhgANzrc
+    description: |-
+      In most forms of entertainment, it all comes down to the story. Whether it's a good vs evil dynamic or just overcoming adversity, many storytellers embed lessons from real life into their fictional worlds. It is in the most fictional of worlds, professional wrestling and superhero movies, that we find useful patterns to apply in our day-to-day as engineering leaders. In this talk, I will explore several examples from inside the ring and the big screen that illustrate approaches to building teams and achieving goals. We will also discuss a few real world situations where I have applied these tools. This presentation is applicable to anyone that is part of a software team. No spandex required.
+
+  - title: Why GraphQL?
+    lang: en
+    type: regular
+    time: 2018-12-06
+    room: Austin Public Library
+    authors:
+      - name: Chris Arcand
+        twitter: chrisarcand
+        github:
+        website: https://chrisarcand.com
+    slides:
+    videos:
+      - https://youtu.be/-2bbLuW8lmk
+    description: |-
+      If you don’t know much about GraphQL, you probably just identify it as the hip, shiny new thing companies are adopting to replace their RESTful APIs. Sure, sure – clients can ask for only what they need in a single request – but is that it? What really makes GraphQL so special? In this talk you’ll be introduced to GraphQL beyond just the usual explanations of the query language and learn why things like GraphQL’s introspection and type system make it an enormous advancement in web technologies.
+
+  - title: Zero to data infrastructure
+    lang: en
+    type: regular
+    time: 2018-12-06
+    room: Austin Public Library
+    authors:
+      - name: Brad Urani
+        twitter: bradurani
+        github:
+        website: http://fractalbanana.com/
+    slides:
+    videos:
+      - https://youtu.be/iANzEw0t5GM
+    description: |-
+      "Your team needs data so they can make the right decisions. Unless they have the right data in the right place, they're left to act on intuition, opinions and hunches. With a modicum of data infrastructure, you can give them what they need. Join us and learn how to build the foundations of your analytical data systems. We'll discuss data collection: identifying what you can measure that will deliver the most value. We'll explore the minimum viable data toolkit, and how managed hosted solutions can save you time and effort. We'll dissect stream processing, batch processing and several different types of databases to demonstrate what you should focus on in this rapidly changing ecosystem. See how - with the cost and effort of running data systems dropping every day - it's easier than ever to give your team the data it needs."
+
+  - title: "A retro of retros: how Sprint retrospectives can be both fun and productive"
+    lang: en
+    type: regular
+    time: 2018-12-06
+    room: Austin Public Library
+    authors:
+      - name: Cecy Correa
+        twitter: cecycorrea
+        github:
+        website: https://cecycorrea.com
+    slides:
+    videos:
+      - https://youtu.be/qX3yrzvLWmc
+    description: |-
+      "What do Stairway to Heaven, air balloons, and the 3 Little Pigs have in common? They’re all fun formats for sprint retrospectives! For the last few months, my team tried different retrospective formats, ranging from the highly creative, to the exceedingly dull. This exercise helped our team determine: 1) what information the team finds valuable in retrospectives, 2) what topics need to be discussed as a team (day to day vs. big picture), and 3) and how often certain topics need to be discussed. After exhausting all of the retro formats we could find, we had a Retro of retros, in which we selected the format that fit our team operating system the best. While this process helped establish an operating system for a fairly new team, it can also be used to re-invigorate team dynamics or increase engagement for an existing team. In this talk, I will cover the various formats we tried, explain the pros and cons of each, and what your team can gain from following a similar approach."
+
+  - title: Experiential learning for developers
+    lang: en
+    type: regular
+    time: 2018-12-06
+    room: Austin Public Library
+    authors:
+      - name: Allison McMillan
+        twitter: allie_p
+        github:
+        website: http://daydreamsinruby.com/
+    slides:
+    videos:
+      - https://youtu.be/FI-WvXYCmIM
+    description: |-
+      Interactive workshops are the best way to engage teams and individuals and help everyone remember lessons learned. They may seem difficult to plan, hard to execute, and very time consuming to do both but any individual can create these compelling and interesting sessions by following a simple formula. Learn what this formula is and create a workshop that you can take back to your team, colleagues, and peers. You'll leave with examples, a template, and a new confidence in your ability to create imaginative and meaningful activities that catapult your team forward.
+
+  - title: A tour of Apache Pulsar
+    lang: en
+    type: regular
+    time: 2018-12-06
+    room: Austin Public Library
+    authors:
+      - name: Jowanza Joseph
+        twitter: jowanza
+        github:
+        website: https://www.jowanza.com/
+    slides:
+    videos:
+      - https://youtu.be/7h7hA7APa5Y
+    description: |-
+      Apache Pulsar is a distributed pub/sub system develop at Yahoo! This talk covers Apache Pulsar's underlying design and protocol level semantics. We'll cover some of the advantages and disadvantages over systems like Apache Kafka and RabbitMQ. The talk will end with a story of a real world experience with Pulsar.
+
+  - title: Eiffel's tower
+    lang: en
+    type: regular
+    time: 2018-12-06
+    room: Austin Public Library
+    authors:
+      - name: Nickolas Means
+        twitter: nmeans
+        github:
+        website: https://nickol.as
+    slides:
+    videos:
+      - https://youtu.be/dLPi4lfk8is
+    description: |-
+      When Gustave Eiffel built his namesake tower, it was nearly twice as tall as the tallest structure on Earth. His crews built it in an astounding 22 months, pioneering new construction techniques to deliver it in time for the opening of the 1889 Exposition Universelle. It was amazing then, and it’s just as captivating today. We all say we want to do groundbreaking work, just like Eiffel, but what does it actually take to push an organization forward? The answer starts long before the work itself. Let’s see what we can learn from how Gustave Eiffel went about building his record-shattering tower.
