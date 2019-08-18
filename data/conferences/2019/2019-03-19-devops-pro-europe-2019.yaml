@@ -1,4 +1,4 @@
-﻿conference:
+conference:
     
   name: DevOps Pro Europe 2019
   status: incomplete
@@ -18,7 +18,8 @@
     country: Lithuania
     city: Vilnius
   description: |-
-    "Annual DevOps Pro Europe conference covers the core principles and concepts of the DevOps methodology and demonstrates how to use the most common DevOps patterns to develop, deploy and maintain applications on-premises and in the cloud. DevOps Pro Europe conference puts the spotlight on entire software delivery pipeline and the following domains: DevOps Approach: Continuous Delivery, Continuous Integration, Configuration Management, Automated Testing and Deployment. DevOps World Experience: Technology Adoption, Real Life Implementation Examples, Best Practices and Insights from the Field. DevOps Tools: Docker, Chef, Puppet, PowerShell, Kubernetes, GitHub, Ansible, SaltStack, Capistrano, Jenkins. DevOps Technologies: Virtualization, Containerization, Orchestration, Microservices, Cloud Computing (Google Compute Engine, Azure, OpenStack)"
+    Annual DevOps Pro Europe conference covers the core principles and concepts of the DevOps methodology and demonstrates how to use the most common DevOps patterns to develop, deploy and maintain applications on-premises and in the cloud. DevOps Pro Europe conference puts the spotlight on entire software delivery pipeline and the following domains: DevOps Approach: Continuous Delivery, Continuous Integration, Configuration Management, Automated Testing and Deployment. DevOps World Experience: Technology Adoption, Real Life Implementation Examples, Best Practices and Insights from the Field. DevOps Tools: Docker, Chef, Puppet, PowerShell, Kubernetes, GitHub, Ansible, SaltStack, Capistrano, Jenkins. DevOps Technologies: Virtualization, Containerization, Orchestration, Microservices, Cloud Computing (Google Compute Engine, Azure, OpenStack)
+
 talks:
 
   - title: Docker Image Journey - How to Shrink a Docker Image
@@ -327,7 +328,7 @@ talks:
     videos:
       - https://youtu.be/o8HevFF8Wh0
     description: |-
-      In this session, we’ll see how to migrate and continuously sync workitems in real-time between multiple Team Projects on Azure DevOps using Service Hooks and Azure serverless technologies. It seems easy on the surface, but you should be aware of some details 🙂
+      In this session, we’ll see how to migrate and continuously sync workitems in real-time between multiple Team Projects on Azure DevOps using Service Hooks and Azure serverless technologies. It seems easy on the surface, but you should be aware of some details
 
   - title: Unicorns and Elephants - Establishing DevOps in an Established Environment
     lang: en
@@ -376,7 +377,7 @@ talks:
     description: |-
       Compiling a piece of software from source is a massive hassle. Dockerizing such a software leads to massive images. Join me for this crazy project of using Gentoo Linux’ excellent build system in conjunction with multi-stage builds to produce a tiny Docker image with just what you need.
 
-  - title: "This Website is Not Secured" You Had One Job, Configuring the Edge Proxy!
+  - title: '"This Website is Not Secured" You Had One Job, Configuring the Edge Proxy!'
     lang: en
     type: regular
     time: 2019-03-20
