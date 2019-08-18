@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: PyCon APAC 2019
-  status: incomplete
+  status: complete
   series: pycon-apac
   tags:
     - python
@@ -18,5 +18,476 @@
     country: Philippines
     city: Makati City
   description: |-
+    "PyCon APAC is a volunteer-run, not-for-profit annual conference centered around the Python Programming language. The goal of the conference is to provide a venue where the Python programming language and surrounding technologies can be explored, discussed and exercised. PyCon APAC is the regional counterpart of PyCon in Asia-Pacific. It is hosted in one (1) of the following countries every year: Singapore, Malaysia, Indonesia, Philippines, Thailand, South Korea, Hong Kong, Vietnam, Japan, Taiwan, India and Bangladesh. This 2019, PyCon APAC will be hosted in the Philippines for the very first time. Learn something new, teach something new, find opportunities, build cool things, make friends, geek out! Come celebrate and enjoy this event with us! "
 
 talks:
+
+  - title: Opening Remarks
+    lang: en
+    type: regular
+    time: 2019-02-23
+    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Matt Lebrun
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Matt Lebrun welcomes delegates at PYCON APAC 2019 opening.
+
+  - title: "Keynote 1: PyCon APAC - Back to the Future!"
+    lang: en
+    type: regular
+    time: 2019-02-23
+    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Beng Keat Liew
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lFWSq0c6vPo
+    description: |-
+      This talk will present the state of affairs with PyCon's and Python communities around the region. We will also 'jump back' into history with PyCon APAC and derive the common lessons learned and insights and wishes for the future.
+
+  - title: "Keynote 2: Interviewing as a Python engineer"
+    lang: en
+    type: regular
+    time: 2019-02-23
+    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Jacob Kaplan-Moss
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/WtPzxEnDQog
+    description: |-
+      Jacob has been a hiring manager for many years, and have hired a ton of programmers. He will talk about how to prepare for and execute a good interview.
+
+  - title: "Keynote 3: How did you know? Explaining Black Box Model Predictions in Python"
+    lang: en
+    type: regular
+    time: 2019-02-23
+    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Suzy Lee
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/8dx42JUk8OE
+    description: |-
+      As algorithms get more and more complex (i.e. Ensemble models - XGBoost, Random Forest, Neural Networks), it becomes harder to explain the predictions they make. These “Black Box” models may produce more accurate results but may in fact hard to operationalize in the real world as it gets harder and harder to explain to business decision makers how a model came up with the prediction. In certain cases such as in credit scoring model interpretability is crucial particularly for regulatory compliance. This talk will highlight certain Python tools and libraries such as LIME, ELI5 and Skater, that would allow data scientists to finally be able to explain how their models came up with its predictions.
+
+  - title: Python’s role in accelerating biomedical science
+    lang: en
+    type: regular
+    time: 2019-02-23
+    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Li Ting Chen
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Qm3nbKB3-0Y
+    description: |-
+      Python has an increasingly important role in biomedical research due to its diverse modules available and the flexibility for utilization. In this talk, I will showcase how Python helped us in solving questions in cancer evolution.
+
+  - title: Data Science and Machine Learning with Python
+    lang: en
+    type: regular
+    time: 2019-02-23
+    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Argeo Tuble Alecha
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lCq5qp_nHgA
+    description: |-
+      This is a combination of slides and interactive presentation/demo in coding and notebook operations. Presenting Python packages and tools for Data Science and Machine Learning like Numpy, Pandas, ScikitLearn, Matplotlib, etc.
+
+  - title: "Workshop: Django Girls Workshop"
+    lang: en
+    type: workshop
+    time: 2019-02-23
+    room: 9F, Classroom 1, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Freilla Mae Espinola
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "A beginner-friendly workshop about programming in Python and Django for women. There will be dedicated coaches who will guide you during the workshop. The ratio is 1 coach: 3-5 participants More info: https://tutorial.djangogirls.org Before the workshop we ask attendees to read a first chapter "How the Internet works". You will also need to: 1. Install the following: - Python3 - Virtualenv - Pip - Django - Code Editor (Gedit or Sublime Text 3) - Git 2. Create a PythonAnywhere Account It's ideal to finish the installations before the workshop so you can have a better coding experience during the workshop. Installing prerequisites and setting up your environment can be a challenge, especially if you've never done this before; many things depend on your operating system, and sometimes the process isn't so smooth. But don't worry, your coach will be there to help you! Just be aware that the installation might take anywhere from 30 minutes to a few hours, so have patience and keep smiling! :)"
+
+  - title: Using Asyncio in Python 3
+    lang: en
+    type: regular
+    time: 2019-02-23
+    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Marte Soliza
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/zhV-_pkUkyE
+    description: |-
+      Asyncio (together with async / await syntax) is one of the most exciting new features in Python 3. Marte will detail what it is and how it can be used, together with concepts surrounding it.
+
+  - title: Python's AI/ML for the Crypto-Industry
+    lang: en
+    type: regular
+    time: 2019-02-23
+    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Phillip Andrew Espina
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/hPlssCNUd9E
+    description: |-
+      How does python shape the cryptocurrency industry? It's role and how can python developers benefit from it? What business owners. devs and users alike should look out for as python progresses especially in the field of AI and ML.
+
+  - title: Property Based Testing in Python with Hypothesis
+    lang: en
+    type: regular
+    time: 2019-02-23
+    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Anthony Khong
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/58pvnRJ0prI
+    description: |-
+      High unit-test coverage is great, but it cannot effectively find bugs triggered by interactions between multiple features. Since it is not scalable to write tests for all possible interactions, we turn to property-based testing - an approach where we *generate* tests instead of *writing* them. Property-based testing (PBT) is a random-testing approach that first became popular in the Haskell community as QuickCheck. It works by generating random examples to find minimal counterexamples to a pattern or law that ought to always hold true. PBT is especially useful in testing edge cases and interactions between multiple features, particularly in stateful systems. This talk introduces the principles of PBT along with its history and success stories. We then illustrate PBT patterns and examples in Python using Hypothesis. Finally, we see how it fits in with TDD and integration testing.
+
+  - title: A Framework for Transfer Learning on Multi-lingual Text Data for Sentiment Classification
+    lang: en
+    type: regular
+    time: 2019-02-23
+    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Gyenn Neil Ibo
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/9JA4sZ8BmJU
+    description: |-
+      Labeled Training Datasets or off-the-shelf tools for labeling training datasets for Sentiment Classification are readily available for English and other major languages. For Tagalog and other Filipino languages, however, this is rarely the case. I developed a novel technique that essentially transfers the knowledge of the labeled training dataset on one language (English) into Tagalog and other Filipino languages. This thus enables one to develop Neural Network Sentiment Classification models on several Filipino languages, leveraging on the availability of large amounts of training data on the English language. This is a better approach than manually labeling data on Filipino languages, as it would take too many resources, and Neural Networks need huge amounts of training data in order to be effective.
+
+  - title: Empathy Maketh an Engineer
+    lang: en
+    type: regular
+    time: 2019-02-23
+    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Narendran
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/-OROHOU5tkY
+    description: |-
+      The journey towards becoming a better developer involves in more than just coding. If there is one thing that you want to learn this year to make yourself a better developer, it will be empathy. In this talk, we will see, as a developer how to practice empathy and write code empathetically. Also, we will discuss how empathy driven development will make one a better software craftsman and build great teams.
+
+  - title: Homemade scientific clusters in Python
+    lang: en
+    type: regular
+    time: 2019-02-23
+    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Taihsiang Ho
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/fO3OOFxZlMU
+    description: |-
+      As a great glue language, Python could (definitely) orchestrate many modern and powerful tools to build a scientific cluster. This talk will illustrate one of the real world examples, which is a cluster built and running on top of KVM.
+
+  - title: "Keynote 4: Here Come The Robots - Python and Machine Learning"
+    lang: en
+    type: regular
+    time: 2019-02-24
+    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Tom Dyson
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/k7dQm_TORqM
+    description: |-
+      "Machine Learning is probably the most important development in our industry (and possibly our civilisation!). Previously restricted to math geniuses with access to supercomputers and massive data centres, machine learning tools are increasingly available as web services which are easily consumed from more traditional web applications. Python has become the lingua franca of machine learning, so Python developers are well placed to take advantage of the next wave of application development. This talk outlines the various machine learning platforms and provides a set of practical examples that demonstrate how Python developers can start taking advantage of artificial intelligence in their own applications. The intended audience is pretty wide: web developers, students, data scientists should all come away with a set of ideas and tools for implementing machine learning without needing a degree in artificial intelligence!"
+
+  - title: Building Analytics Workflow using Airflow and Spark
+    lang: en
+    type: regular
+    time: 2019-02-24
+    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Yohei Onishi
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/fkCxgRDBNeI
+    description: |-
+      Yohei had built and operates a data analytics system for global retail logistics operations using Airflow and Spark since the end of last year. In this session, He will talk about how you can build a scalable analytics workflow system based on Airflow (Python) and write extensible job using Python. GCP has provided fully managed Airflow service called Cloud Composer. So he will explain how you can easily build Airflow cluster compared to building your own Airflow cluster on the on-premise server or AWS EC2.
+
+  - title: Using Artificial Intelligence and Satellite Imagery to Zero In on the Philippines’ Most Vulnerable Communities
+    lang: en
+    type: regular
+    time: 2019-02-24
+    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Ardie Orden
+        twitter:
+        github:
+        website:
+      - name: Kevin Go
+        twitter:
+        github:
+        website:
+      - name: Issa Tingzon
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/apOYxPluPIo
+    description: |-
+      One major challenge in fighting poverty today is the lack of reliable socioeconomic data, which is highly expensive, time-consuming, and labour-intensive to collect through ground surveys. We tackled this problem by using a combination of machine learning, satellite imagery, nighttime lights, and various alternative data sources as a low-cost and robust way to provide reliable estimates of poverty during periods or in areas without sufficient census data. Thinking Machines' team of ML researchers including Issa Tingzon, Ardie Orden, and Kevin Go will present the research methodology and results.
+
+  - title: Serverless Python on AWS Lambda using the Serverless Framework
+    lang: en
+    type: regular
+    time: 2019-02-24
+    room: 9F, Classroom 2, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Ted Mathew dela Cruz
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Ac8JnFHRQ7g
+    description: |-
+      The Serverless Framework is one of the most widely adopted toolkits for building serverless applications. This talk will discuss the basics to get a simple Python serverless up and running on AWS Lambda using the Serverless Framework (https://serverless.com/)
+
+  - title: Automate the Boring Stuff with Slackbot
+    lang: en
+    type: regular
+    time: 2019-02-24
+    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Takanori Suzuki
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/iex9DAGxl_o
+    description: |-
+      "Today, there are many tasks to repeat in the company/community. In addition, we often use chat such as Slack for daily communication. So, Takanori-san created a chatbot(PyCon JP Bot: https://github.com/pyconjp/pyconjpbot) to automate various boring tasks related to holding PyCon JP. In this talk, Takanori-san will first explain how to create a chatbot using slackbot (https://github.com/lins05/slackbot). He will tell you how to register bot's integration on Slack and how to create a simple bot in Python that responds to specific keywords. As specific examples, Takanori-san will explain how to make a bot command to perform the following operations and technical problems. - Emoji reaction - Calculator: SymPy - Karma(plusplus): Peewee - Search issues, display issue details: JIRA API - Create multiple issues from a template: JIRA API, Sheets API - Search files from Google Drive: Google Drive API - Account management of G Suite(user, alias, group and member): G Suite API - etc."
+
+  - title: Faster Python apps with open source APM
+    lang: en
+    type: regular
+    time: 2019-02-24
+    room: 9F, Gallery, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Aravind Putrevu
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JKUncHxSAVM
+    description: |-
+      "Slow applications are no fun. Application performance monitoring (APM) makes tracking down issues problems much easier. But which tools should you use? With the release of Elastic APM, there’s a new option. Language server and Python client is fully open source so you can get started with any app. Elastic’s APM was released some time ago, so it’s a very fresh option for tracing performance problems in Python applications (and other runtimes as well). The basic platform is free so it should be a welcome change for Go developers used to spending huge bills on comparable hosted platforms. It’s useful out of the box for tracing basics on web requests including  : -Request details  - Response time percentiles - Transaction timelines  - Application errors and stack traces  - Individual code lines  - Distributed Tracing It can also be used to track any custom span in any Go application to find out where time is being lost and users are being slowed down. Aravind is passionate about evangelizing technology, meeting developers and helping in solving their problems. He is a backend developer and has seven years of development experience. Currently, he works at Elastic as Developer Advocate and looks after the Developer Relation function of India. Previously, He worked at McAfee Antivirus as a Sr. Software Engineer in Cloud Security Domain. He has a deep interest in Search, Machine Learning, Security Incident Analysis, and IoT tech. In his free time, he plays around Raspi or an Arduino."
+
+  - title: "Workshop: Demystifying Natural Language Processing using Python (Scikit-Learn/ Keras)"
+    lang: en
+    type: workshop
+    time: 2019-02-24
+    room: 9F, Classroom 2, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Vaibhav Srivastav
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/PdwjzX0J9_o
+    description: |-
+      By learning how to transform text into data that is usable by machine learning models, you drastically increase the amount of data that your models can learn from. In this tutorial, we’ll build and evaluate predictive models from real-world text using scikit-learn.
+
+  - title: "Workshop: Introduction to Testing in Python"
+    lang: en
+    type: workshop
+    time: 2019-02-24
+    room: 9F, Classroom 3, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Aniruddha Adhikary
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RReO5-a-Mj8
+    description: |-
+      This workshop aims to explore the rich Testing ecosystem of Python. It will take the participants in a voyage through basic unit tests, test runners, mocking, doctests and coverage analysis through a TDD-focused coding exercise.
+
+  - title: "Workshop: Graphene for Beginners"
+    lang: en
+    type: workshop
+    time: 2019-02-24
+    room: 9F, Classroom 4, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Nicole Tibay
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/FIT3R7CKf8Y
+    description: |-
+      "This will be an introductory workshop to learn GraphQL in Python using Graphene. The workshop will introduce first basic GraphQL concepts before getting the attendees' hands dirty creating a schema and playing with it. We expect participants to have basic Python programming knowledge. Please have the following installed prior to the workshop: 1. Python3 (Bundled with the venv module to create virtual environments) 2. Virtualenv if `venv` is not available 3. Pip 4. Code Editor 5. git (optional) And follow the setup instructions here https://github.com/neequole/bahay-kubo. If you have any setup problem, please come to the workshop at least 30 minutes so we can assist. See you!"
+
+  - title: "Workshop: Setting up Computer Vision with Kivy using Tensorflow"
+    lang: en
+    type: workshop
+    time: 2019-02-24
+    room: 9F, Classroom 5, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Jairus Jimenez
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/jT1L9-hRpI4
+    description: |-
+      "Kivy is an open source, cross-platform Python framework for the development of applications that make use of innovative, multi-touch user interfaces. In this workshop, the aim is to utilize Kivy and Tensorflow to create a Computer Vision application. We'll be using Google's Inception-v3 for our image recognition model. Software needed: - Python 3.6 - Tensorflow - Kivy - OpenCV Optional: - Anaconda"
+
+  - title: "Workshop: Learn How to Dockerize Your Python Application"
+    lang: en
+    type: workshop
+    time: 2019-02-24
+    room: 9F, Classroom 6, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Paul de Paula
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/uKVAgX6iyHA
+    description: |-
+      "Our workshop will focus on the basic of docker and kubernetes for python and for participants to gain some hands-on-experience. We will be using a python application based on flask framework all throughout the workshop. — learn the basic of docker — How to convert your python app a flask based rest application into micro services — Minikube or Docker Desktop — Learn how to basic of kubernetes on your local machine — pods, label, services, deployments, replication controller, stateful sets — Kubernetes on GCP — How to deploy your python application in auto pilot Software needed: Python 3 Mac: Docker for Mac - https://docs.docker.com/docker-for-mac/install/ Windows: Docker for windows - https://docs.docker.com/docker-for-windows/install/ Google Cloud Account - get a free account from https://cloud.google.com/free/"
+
+  - title: Best tools for Jupyter notebooks
+    lang: en
+    type: regular
+    time: 2019-02-24
+    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Dmitry Trofimov
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JO-sysLpXZ4
+    description: |-
+      "The jupyter notebook is now a default format for scripting in many areas of computer engineering and education like data science, machine learning, and artificial intelligence. But what are the most efficient practices to work with Jupyter notebooks to get the most out of this technology? In this talk Dmitry Trofimov, team lead of PyCharm IDE, will show how different tools help you solve your daily tasks using Jupyter notebooks: JupyterLab, Hydrogen plugin for Atom, VS Code, and PyCharm (all tools are open-sourced). We will discuss their pros and cons and look at them in action. Dmitry Trofimov currently leads the development of PyCharm, a popular Python IDE by JetBrains. Dmitry is passionate about automation and software tooling. Before PyCharm, he implemented many different tools for a variety of companies including a visual site-scraper generator, model-to-code mappers, and even a code generator for hardware used in submarines. In his spare time, Dmitry enjoys cycling, playing guitar, and skiing."
+
+  - title: Exploiting Auxiliary Information for Better Recommendation
+    lang: en
+    type: regular
+    time: 2019-02-24
+    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Sun Zhu
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/fDoekg_Usjg
+    description: |-
+      Recommender systems inherently suffer from data sparsity and cold start problem. To address these issues, the auxiliary information (e.g., feature hierarchy, knowledge graph) has been incorporated into recommendation. This talk is focused on the latest recommendation algorithms with incorporation of feature hierarchy and knowledge graph.
+
+  - title: Turn your Flask App into Async using Quart
+    lang: en
+    type: regular
+    time: 2019-02-24
+    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Doni Rubiagatra
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/WXSn6SsmELE
+    description: |-
+      Do you already use our beloved micro-framework Flask but have a problem with the speed and scalability? We hear a lot of buzz with the new fancy asynchronous Python programming using async/await keyword to make our Python code run faster. But really how async works are still not spread well and the majority of Python programmer still not familiar using async/await keyword. In this talks, because Flask is not intended to support async (yet), we are will explore Quart, the Python ASGI web microframework. It is intended to provide the easiest way to use asyncio functionality in a web context, especially with existing Flask apps. This is possible as the Quart API is a superset of the Flask API. So you can instantly migrate your Flask app easily!
+
+  - title: The Use of Python in the Data World
+    lang: en
+    type: regular
+    time: 2019-02-24
+    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Lai-Man Sung
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0Qk1041wkPY
+    description: |-
+      I am a data professional with experience in data engineering and data analytics. My background is in data architecture in both RDBMS and Big Data, across many industries such as telecoms, insurance, and utilities. At Accenture, I run the Data Studio, dealing with Data In The New, which are the future data technologies and systems that will start appearing at scale over the next few years.
+
+  - title: Python with NoSQL + SQL = MySQL 8.0
+    lang: en
+    type: regular
+    time: 2019-02-24
+    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
+    authors:
+      - name: Ronen Baran
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/yaqevCd8rU8
+    description: |-
+      MySQL 8.0 is a new and exciting version of MySQL with many changes. This talk will present some new features like CTE and Window Function, but will mainly show how to use MySQL as both NoSQL and SQL database with Python.
