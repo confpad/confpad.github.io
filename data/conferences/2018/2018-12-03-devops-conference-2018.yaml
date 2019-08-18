@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: DevOps Conference 2018
-  status: incomplete
+  status: complete
   series: devopsconference.de
   tags:
     - devops
@@ -18,5 +18,810 @@
     country: Germany
     city: Munich
   description: |-
-
+    The Conference for Continuous Delivery, Microservices, Containers, Cloud & Lean Business
 talks:
+
+  - title: "Staying Alive: Patterns for Failure Management from the Bottom of the Ocean"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Ronnie Chen
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/kW5_wkJJf3A
+    description: |-
+      Training for technical diving prepares you for situations in a high pressure environment where failures are unavoidable but also highly dangerous. It means surviving in a hostile environment with limited resources where the failure of individual components can trigger deadly failure cascades. A diver who can’t understand how to do proper post-accident analysis and who hasn’t learned to repeatedly survive through failure is a liability to themselves and to others. This talk uses the framework of technical SCUBA and rebreather diving to talk about patterns for failure management and how they can be applied in an engineering context.
+
+  - title: Kubernetes 101 (for Devs)
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Erkan Yanar
+        twitter: erkuleswastaken
+        github:
+        website: http://linsenraum.de/
+    slides:
+    videos:
+    description: |-
+      In this session, we do not look at how Kubernetes is structured. Because this may and may not be the same as the user. Let's take a look at how pods roll out via deployments and automatically scale over self-generated / published metrics. Needless to say, we also configure the reverse proxy (ingress) so that our application can be reached via the Internet. We also look at how we do Canary Deployments with Kubernetes. Other buzzwords we will use are ServiceDiscovery with (Headless) Services and Storage Management.
+
+  - title: Effective Leadership in Agile and DevOps Environments
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Michiel Rook
+        twitter: michieltcs
+        github:
+        website: https://www.michielrook.nl/
+    slides:
+    videos:
+      - https://youtu.be/tT35LvL1ks4
+    description: |-
+      The Agile and DevOps movements place a lot of emphasis on the autonomy, self-organization and responsibility of teams. A common misconception is that there is little or no role for leaders of such teams. On the contrary! In this rapidly changing world, where competition is fierce and the pressure to deliver is high, effective leaders create environments that allow teams to thrive. They enable, coach and inspire. But what makes a leader an effective leader? Attend this talk to learn more about various leadership theories, how they can be applied in practice, and my thoughts on leadership based on experience as a tech lead and scrum master and from military service.
+
+  - title: "Cloud Security Made Easy: Best Practices and Solutions to harden your Cloud Infrastructure"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Andreas Mohrhard
+        twitter: amohrhard
+        github:
+        website: https://www.cosee.biz/
+    slides:
+    videos:
+    description: |-
+      "Whether starting a greenfield project in one of the public clouds or implementing a lift-and-shift project – cloud security always is and will be an important topic. Even more so with the “privacy by design” principle that was put in place by GDPR. There are lots of best practices out there: multi-account strategies, principle of least privilege, automated patching and scanning security vulnerabilities and enforcing encryption – just to name a few measures to harden your cloud infrastructure. Ideally all these are driven by CI/CD pipelines to enable confident changes and short cycle times. The session will cover AWS-based examples on proven best practices and solutions that can be used to harden your cloud infrastructure with little effort using the already available features and components."
+
+  - title: "Running Kubernetes in Production at Scale: Centralizing Operations and Governance"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Oleg Chunikhin
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "Containers and Kubernetes are becoming the de-facto standard for software distribution, management, and operations. Development teams see and realize the power of these technologies to improve efficiencies, save time, and focus on the unique business requirements of each project. At the same time, the process of deploying, running, managing, and handling upgrades for Kubernetes is time-consuming and requires significant in-house expertise. InfoSec, infrastructure, and software operations teams, for example, face a myriad of challenges when managing a new set of tools and technologies as they integrate them into an existing enterprise infrastructure.  In this session, Oleg will outline the unique challenges organizations embarking on a containerization and Kubernetes journey must consider. In particular, he’ll focus on following critical elements: ·               Centralized monitoring and log collection ·               Security, identity and access management, audit ·               Governance and resource management ·               Backup and disaster recovery ·               Infrastructure management Oleg will also provide an overview of the general architecture of a centralized Kubernetes operations layer based on open-source components such as Prometheus, Graphana, ELK Stack, KeyCloak, etc. By breaking down each of these areas, attendees will gain a good understanding of what it takes to ensure successful container and Kubernetes ‘Day 2’ operations."
+
+  - title: Improve your Product Roadmap with DevOps
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Kristen Womack
+        twitter: kristen_womack
+        github:
+        website: https://www.kristenwomack.io/
+    slides:
+    videos:
+      - https://youtu.be/pw1h-q686N8
+    description: |-
+      This talk is about how to strategically think about using system data and operations to uncover the deeper story of your product, to understand what users want without asking them and without guessing. Make better use of system logs and other data to inform what we build focusing on the "learn" aspect of the build-measure-learn development cycle. Think of it as bringing a deeper connection between product roadmaps and a DevOps culture.
+
+  - title: "Kata Container: More security for developers without extra effort for ops"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Nils Magnus
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "Developers love containers: they help to package applications neatly and unravel library dependencies. Some ops teams take a more sober view of the technology, though. They are responsible for the infrastructure and the security. Shared kernels separating applications only by namespaces and groups, cause raised eyebrows now and then. The level of isolation provided by real VMs was more credible, some say. Kata containers are about to overcome this gap: The project starts containers in extremely lightweight VMs but keeps the interface. All calls and integrations to Docker or Kubernetes remain the same because the project implements the OCI interface. The talk introduces to the architectural design of Kata Containers, explains the easy installation using a Docker runtime environment and shows how to use it. We present the results of the simple benchmarks and discuss differences to purely namespace-based containers. Finally, we look at improved memory consumption and some other features, that got introduced in the more recent updates of Kata Containers."
+
+  - title: "Shell Ninja: Mastering the Art of Shell Scripting #slideless"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Roland Huss
+        twitter: ro14nd
+        github:
+        website: https://ro14nd.de/
+    slides:
+    videos:
+      - https://youtu.be/1mt2-LbKuvY
+    description: |-
+      Shell scripts have been our constant companions since the seventies and although there have been many other contenders like Perl, Python or Ruby, Shell scripts are still here, alive and kicking. With the rise of the container, writing shell scripts becomes an essential skill again, since plain shell scripts are the least common denominator for every Linux container. A lot of historical dust settled on our rusty shell scripts which makes them hard to maintain and to extend. In this hands-on session, we will see how we can polish our shell. An opinionated approach about conventions will be demonstrated for writing modular and maintainable scripts. We will learn how to write integration tests for our shell scripts. This and much more will be part of our ride through the world of Bash and co. Come and enjoy some serious shell script coding, you won’t regret it.
+
+  - title: "Continuous Improvement: How to make sure that Failures happen only once"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Tomasz Koczorowski
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      At Mapp Digital Cloud Team we strive to deliver best digital marketing experience to our customers and their end users. However, as everyone working with complex technology, we too have our ups and downs. I want to share our experience on the failure approach journey. We have come long way by applying industry best standards on blameless postmortems and implementing just culture. I will cover improvement of internal processes and go through few technical incidents with detailed analysis. Focus will be set on continuous improvement as means for avoiding same mistake to happen again or at least minimizing its impact next time in microservice hybrid-cloud environment.
+
+  - title: “Hey, HELM, can you scale…??”
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Baruch Sadogursky
+        twitter: jbaruch
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Zq6R_8tnSOY
+    description: |-
+      Package managers are hard. Helm learned a lot of lessons from others’ mistakes, but also repeated some. For example, having a single index file per repository is not scalable. It’s the same mistake that NPM made and it causes slower CI, high memory consumption, slower searches, and more. Another example is not having private enterprise repositories in mind, leaving out authorization and authentication features. In this talk, we’ll explore several solutions to those problems, their strengths, and their weaknesses.
+
+  - title: Seeding and Growing – Large Scale Cloud Transformation
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Dirk Lehmann
+        twitter: doergn
+        github:
+        website:
+      - name: Heiko Schüßler
+        twitter: _heikoS
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      The consistent application of DevOps and Continuous Delivery practices requires transformation within almost all functions of an company. While this is a challenge for small and medium-sized companies, it is a giant task for large international corporations. Heiko and Dirk will introduce SAP’s Cloud Transformation in their talk, during which they will focus on the transformation of SAP quality working model. Away from a strong centralized governance role to a supportive approach that uses coaching practices to prepare development teams for the cloud.
+
+  - title: Get Application Security in sync with Application Development
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Roman Borovits
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Digital economy makes applications the center of your world and the trust anchor of your customer. At the same time, your customer expects the highest comfort which makes it necessary to keep your applications up to date with new features as quick as possible. This results in several release cycles per day which need to be in sync with your security policy. To get this managed, it is necessary to get your application security infrastructure over infrastructure as code integrated in your CI/CD system. In this presentation, we will show a declarative approach to keep the integration as simple as possible together with the capability to integrate RBAC to get the domain specific knowledge of different teams like SecOps, DevOps and NetOps seamlessly integrated.
+
+  - title: Continuous Delivery requires Release Orchestration
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Peter Caron
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "1. Speed – rapid iterations require agile coordination 2. Relevance – integrating market feedback requires integrated communication 3. Quality and Testing (not "testing quality”) are built into every step of the process The above is well-documented and widely accepted as part of the DevOps revolution. But we have not yet won the battle! The solution lies not in adopting new tools, which only would be little more than an improved means to an unimproved end, but in changing our concept of what a product is, how we architect it, how we build it, how we test it, and how we orchestrate its release. We need to stretch our imagination and reassess our goals to include the larger organization. Orchestrating the release of a product is not a technical exercise: it requires coordination between many people and groups within in the organization and the right people need to be involved. None need to be more committed to the transformation than middle-level managers, architects, and team leads."
+
+  - title: "KISS it: Continuous Delivery Pipeline Architecture & Design."
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Ambreen Sheikh
+        twitter: anbreensh
+        github:
+        website: http://anbreensheikh.com/
+    slides:
+    videos:
+      - https://youtu.be/JJm3lp68KuM
+    description: |-
+      The purpose of the talk is to motivate teams to take a moment and reflect on their Continuous Delivery pipeline architecture for the sole purpose of improvement and encourage them to KISS "Keep it simple, (maybe not stupid)" their continuous delivery architecture all the way. The architecture of continuous delivery pipelines is becoming complicated and complex everyday, I will go on and add that sometimes the continuous delivery pipeline architecture of a product ends up being more complicated and resource intensive than the actual product. In this session I intend to highlight the different reasons that may be contributing to the over complexity of continuous delivery pipeline architectures and eventually also talk about different ways to adopt to keep the architecture simple and manageable in the long run.
+
+  - title: We live in a hybrid world – a Digital Transformation Journey – making transformation projects a success with security
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Hannes Steiner
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "In the course of digital transformation, many business processes are currently undergoing fundamental change. Management wants the cloud in order to better face cost and competitive pressure. There is hardly a company that does not start strategic cloud initiatives. According to independent market research, by 2020 more computing power will be used as a IaaS than in traditional on-premise infrastructures. No Cloud will be as rare as No Internet. Apart from all the advantages such as agility, costs, and efficiency as well as automation, hybrid architectures also entail various challenges:  – Multiple environments – too many tools – Operational Challenges – lack of skills and professionals – Advanced threats – Compliance requirements in increasingly regulated markets Modern infrastructures can perfectly balance cloud and on-premise parts for every requirement. Learn how to leverage the value of cloud infrastructures while addressing challenges."
+
+  - title: "A one year DevOps revolution in healthcare: from zero to Continuous Delivery"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Darío Blanco
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "How to apply DevOps in a traditional and large enterprise is a hot topic. Terms like digitization and transformation are now common buzzwords among management, thus defining a technology roadmap and reinventing your business with software is a must if you want to excel or even survive. It is clear that today, no company can’t compete without technology, the question is: how do we use that technology efficiently? For years, the community has given answers to the growing and demanding IT requirements: Agile methodologies are there since the early 2000s, as a result, in the last 10 years a DevOps culture has been developed, and there are multiple successful stories that prove its value. Nonetheless, often stakeholders are very disappointed about how IT works in their companies: software often fails, misses deadlines, is expensive, unmaintainable and tech trends change rapidly. Even if state of the art technologies are applied and enable such transformations, there is still a long road ahead to achieve such DevOps culture. At MindDoc, we have the ambitious challenge of transforming traditional healthcare services with software solutions that improve the delivery of care to our patients. At first glance, nothing differs from any other business who wants to transform. However, there are many ways in which you can approach digitization in a traditional enterprise, often with a strong focus on outsourcing. Instead, we follow a "digital unit" approach, which puts an emphasis on organizational independence, in-house development, and fewer communication dependencies. Getting the best of a startup and a big company is mainly the goal of such approach, with plenty of challenges and tough decisions. As a result, we present the chronology of how is the internal development of an online therapy platform in one year, from zero to a product that can be constantly shaped based on the needs of our patients and therapists. Challenges like recruitment, old IT interfacing, keep solving problems with code, cross-functional communication, scaling Agile teams, process compliance, security, what to outsource… are still there, and a digital unit approach gives the flexibility needed to provide solutions for them."
+
+  - title: "Open Source Software Flood: Learning to swim"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Stanislav Sivak
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      If you want to be in nowadays, you count on open source software (OSS) to stay flexible and avoid reinventing the wheel. Many applications contain more open source code than proprietary code. Using components with known vulnerabilities is one of the most common OWASP risks. In this presentation, we will look at the security, operational and legal challenges associated with the use of third-party components which are mostly open source. Next, we discuss how these risks can be addressed using various make-it-yourself or buy-it approaches so that you can stay atop of the OSS flood.
+
+  - title: Application Security in Continuous Delivery Pipelines
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Christian Treutler
+        twitter:
+        github:
+        website:
+      - name: Tim Arenz
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Applications today are deployed in fully automatic environments like microservices, containers or clouds, which allow seamless load balancing, auto-scaling and other infrastructure-dependent services. To secure such applications many different security policies need to be applied, like SSL/TLS, ACLs, IP Reputation, WAF and more. This talk will look at the challenges and solutions how to integrate a modern WAF into an application development pipeline and how to create processes that support both security and development requirements. We will share a reference implementation and present a demo environment where we implemented these processes.
+
+  - title: "Open Source Pentesting and Security Analysis Tools: the DevOps way… #slideless"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Christian Schneider
+        twitter: cschneider4711
+        github:
+        website: https://www.christian-schneider.net/
+    slides:
+    videos:
+      - https://youtu.be/xfcnt6hSXvo
+    description: |-
+      Experience live how open source tools can be used to check the security of a web application – fully automated as part of a DevOps build pipeline. See how a dynamic and static security analysis toolset identifies vulnerabilities and gives remediation advice. Also learn how to generate vulnerability reports and consolidate findings. Enhance your security tool-belt and be prepared to check your applications afterwards…
+
+  - title: Agile & DevOps transformations require a truly agile ecosystem
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Sabine Fontanive Michael
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "DevOps aims for increasing business efficiency through IT – thus requiring, next to automation practices, changes in the way of working and collaboration between Dev and Ops. But for those who thought this is where the story ends: sorry, you’re wrong! I’ve seen many examples where the “Pulse of DevOps” is not been transferred to the entire enterprise ecosystem, and much more: where other business units and departments are not even prepared for the speed that DevOps requires for many actions and decisions.In this talk you will hear from real live examples and client discussions on how to enable the overall organization to fully support the Agile/DevOps Transformation."
+
+  - title: Off the beaten track – Gaining situational awareness of our network at work
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Marc Burgauer
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "Gene Kim articulates: “The Third Way (of DevOps) is about creating a culture that fosters two things: continual experimentation, taking risks and learning from failure; and understanding that repetition and practice is the prerequisite to mastery.” Yet, as DevOps is getting popular traction, what we experience are misinterpretations (the DevOps team or DevOps Person), land-grabs by methods sellers or asking big consultancies to roll it out, instead of trusting seasoned and experienced practitioners. They’re changing work environments and relocate people routinely into new teams or locations. Solutions are all about reengineering work flows, not about meeting workers’ needs. We’re replacing old constraints with new ones and the transformation grinds to a halt. The Third Way asks us to reflect on our beliefs and go off piste to look for ideas to improve. We do little to understand the social impact when we aim to transform our organisation. We ask the organisation to adapt towards our engineering excellence and resist to adapt ourselves to the needs of the organisation. How do we gain situational awareness of the social network in which we do work and how does it help DevOps? I will present experiences applying these ideas."
+
+  - title: "Seven Security Sins: the seven biggest Security Problems of agile Projects"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Christian Schneider
+        twitter: cschneider4711
+        github:
+        website: https://www.christian-schneider.net/
+    slides:
+    videos:
+      - https://youtu.be/BQOV3rm0X8Q
+    description: |-
+      This talk calls attention to the seven biggest problems encountered when building security into agile projects. Based on rules of thumb from security consulting, you will experience first-hand the expected (and unexpected) obstacles you can meet. You will hear about technical, organizational, process-oriented, and even skill-related issues with which teams find themselves confronted when trying to improve the security of their projects in a sustainable way. As a content-related takeaway, you will receive tailor-made solution models that are applicable and effective for both large companies and specialized service providers alike.
+
+  - title: Build your own production kubernetes cluster on a workstation
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Stefan Walker
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Installation of KVM by Ansible Playbook on a Linux workstation Setting up multiple nodes on local KVM with Terraform Installation of Kubernetes clusters with hyperkube
+
+  - title: "Puppet Pipelines: A true CI/CD Solution for modern Development"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Walter Gildersleeve
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Puppet Pipelines simplifies continuous delivery and unifies workflows across your Dev and Ops teams. It automates the build and deployment of your applications — whether they’re traditionally packaged or container-based apps running in Kubernetes — and gives you deep visibility and audit trails for every action taken. Join us for a demonstration of the power of Puppet Pipelines to coordinate your entire software development lifecycle!
+
+  - title: Service Mesh – Kilometer 30 in a Microservices Marathon
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Michael Hofmann
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "Distributed applications like microservices shift some of their complexities into the interaction of services. Such a service mesh, which can have hundreds of runtime instances, is very difficult to manage. You will be concerned with some of the following questions: • which service will be requested by which other services in which version and how often depending on the request content? • how can you test the interaction and how can you replace single services with new ones? These and other questions will be discussed in this session. Tools to make your live easier with a service mesh will also be introduced."
+
+  - title: "Continuous Integration/Continuous Delivery for Microservices: Rule them all"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Nir Koren
+        twitter: korennir
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Qm4uDFPCyiY
+    description: |-
+      Microservices development environment becomes more and more popular in cloud-based companies in order to support better CI/CD methodologies. I would like to show a case study which leads to best practices of how do we manage CI/CD for 200 microservices based both on Docker/Kubernetes and Puppet under production environments and be able to control them all using various of tools, internal developments and technologies.
+
+  - title: "Whispers in the Chaos Monitoring Weak Signals"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: J. Paul Reed
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "The complexity of the socio-technical systems we engineer, operate, and exist within is staggering. Despite this complexity, it remains a fact of life in software development and operations, one which can become easy to ignore, due to our daily interactions with and familiarity of that system (and, let’s face it, as a good strategy to cope with it). When those systems falter or fail, we often find in the postmortems and retrospectives afterward that there were "weak signals" that portended doom, but we didn’t know they were there or how to sense them. In this talk, we’ll look at what decades of research in the safety sciences has to say about humans interacting with and operating complex socio-technical systems, including what air craft carriers have to do with Internet infrastructure operations, how resilience engineering can help us, and the use of heuristics in incident response. All of these provide insight into ways we can improve one the most advanced — and most effective — monitoring tools we have available to keep those systems running: ourselves."
+
+  - title: User-Management in Kubernetes
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Erkan Yanar
+        twitter: erkuleswastaken
+        github:
+        website: http://linsenraum.de/
+    slides:
+    videos:
+    description: |-
+      We look at how authentication works in and on Kubernetes. After a small excursion into the world of TLS certificates in which we create a user using OpenSSL, we turn to the possibility to authenticate users via OpenID-Connect. This allows us to authenticate users, e.g. Google, Gitlab or your own Keycloak instance. Right now I tend to Keycloak. The connection to an AD / LDAP is e.g. possible via Dex. Although this is briefly explained but not demonstrated.
+
+  - title: Dev + Ops = Go
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Christoph Petrausch
+        twitter:
+        github:
+        website:
+      - name: Igor Lankin
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      In the last three years we have built the infrastructure of the television platform waipu.tv. We started writing tools for the operation in Golang. Some of the tools turned into core services that easily take away the burden of a FIFA World Cup broadcast. We want to show you how to use the same tool chain (Golang & Co) to solve operational problems and develop critical business applications. Classic DevOps or Golden Hammer?
+
+  - title: Using Go in DevOps
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Natalie Pistunovich
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/PZkx4Ai55s0
+    description: |-
+      "Go is not a language traditionally used in SysOps. However, as SysOps transforms to DevOps and systems complexity keeps increasing, the need for scalability is increasing as well. Scalable system need generalized support, less scripting and more software development, ideally using a cross-platform language that supports concurrency and parallelism. This is a great time to refresh the toolbox. Looking at recent observability and operations tools, many are written in Go: Docker, Kubernetes, Prometheus, CoreOS, Istio, Grafana, Jaeger, Moby, etc.  Why Go? In this talk we will talk about the language, when its use makes sense and what features make it a good choice, e.g. type safety, clear syntax designed for concurrency, built-in support for parallelism, and the built-in cross platform and cross architecture support that doesn’t require dependencies management. "
+
+  - title: What’s new for Java in the Cloud?
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Sebastian Daschner
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/M5YU9YYDs08
+    description: |-
+      Over the last year or so much has been happening to Java the JVM and the Java ecosystem. Yet there is so much more to come. In this talk hear how the Java application stack, the related open source technologies and the Java ecosystem is changing to meet the demands of Cloud. Learn what has happened so far and what more there is to come. Whether improved memory footprint, new operating modes, different deployment models or even new hardware the future of the Java in the Cloud is demanding more of developers and IT teams alike. This talk will help you understand the economic and technical forces driving the evolution of Java and will show you a future thats even more amazing than you might imagine. Out with the old and in with the new. Are you ready?
+
+  - title: "Defending against CDD: Chaos-Driven Delivery"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Julia Wester
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/lhtKyJqbKQQ
+    description: |-
+      "You’ve probably heard of BDD and TDD. Well, many teams struggle with CDD: Chaos-Driven Delivery. That is, teams struggle with how to handle the constant onslaught of overwhelming amounts of work and begin to lose hope. The good news is that if you understand operating systems, you already know a great deal about how to tame the chaos! Process management is an integral part of an operating system. The OS makes decisions about scheduling, sharing information between jobs, handling interrupts and multi-tasking. It also has to manage the resources of a process and be concerned with process synchronization, just as we mere humans do. This presentation will show you how to apply common concepts from operating system process management to the way teams process work. Learn how to help your team kick CDD to the curb!"
+
+  - title: 0800-I don’t care … better ask your ChatBot
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Till Huslik
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "From traditional IT operations and support to AI driven ChatOps: Having the right information, at the right time often makes a difference. In life… and in IT Operations and “DevOps” teams. In this breakout session you will get an overview about ChatOps, how it can help to fasten up problem solving and make collaboration more efficient. You will hear some real-life stories and integration examples."
+
+  - title: The Projects and Workings of the Cloud Native Computing Foundation
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Iago López Galeiras
+        twitter:
+        github:
+        website:
+      - name: Chris Kühl
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      The first half of this talk will provide an overview of what the Cloud Native Computing Foundation (CNCF) is, its purpose, how it works, and provide an overview of CNCF-hosted projects. We will go into some detail about the process that projects go through to get accepted into the CNCF and what kinds of benefits this provides to those projects. The second part of this talk will provide a technical overview of the projects with demos and details of some selected projects. We will particularly focus on how various CNCF-hosted projects can be deployed and used with Kubernetes.
+
+  - title: Kubernetes in a grown environment and integration into existing Continuous Delivery processes
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Stephan Fudeus
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      When integrating Kubernetes into an existing environment there are special requirements to consider, especially when migrating high-load applications. This talk will highlight some practical experiences during a central infrastructure project to internally provide Kubernetes at 1&1 Mail & Media. Besides the platform topics, the talk addresses demands to software development and operations while integrating with a recently introduced continuous delivery environment. A basic understanding of Kubernetes components and object types will be helpful to get the best out of this talk.
+
+  - title: 7 Principles for Production Ready Kubernetes
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Ovidiu Hutuleac
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Kubernetes and Docker have become nowadays the standard for building reliable and flexible software services, but with flexibility comes responsibility. In this talk we will share 7 Principles we defined for running production ready Kubernetes and you will learn how not to repeat the same mistakes we did in the past years. We will embrace the failures and talk about solutions that work in today’s complex world of Kubernetes.
+
+  - title: "Beyond Cloud: A road trip into AWS and back to bare metal"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Torsten Köster
+        twitter: tboeghk
+        github:
+        website: https://www.thiswayup.de/
+    slides:
+    videos:
+    description: |-
+      "Public cloud services have become a commodity asset in the past years. Shopping24 though is currently running all systems on pure bare metal. With this we’re not alone: Etsy is a popular example for choosing a classic datacenter over a cloud one. In this use case, I’ll lay out Shopping24’s move into the Amazon AWS cloud a few years back and our recent journey back into a classic datacenter. Myths about pricing, noisy neighbors and machine sizing will get busted (or approved). The bottom line for doing effective DevOps in both classic and cloud infrastructure is automatization. I’ll explain how this can be achieved with the right toolset (Ansible) and the modern server chassis and how Kubernetes came to the rescue."
+
+  - title: The five dirty Words of CI
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: J. Paul Reed
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "Blameless postmortems and learning from failure are very en vogue in the technology industry right now. Both fall into that less-discussed category of "CI": Continuous Improvement. But for as much as we all talk about them, in many organizations and teams, the outcome of continual organizational learning and improvement remains elusive. Why is this? In this talk, we’ll look at five "dirty words"* that are often thrown around during postmortems, retrospectives, and other learning exercises that not only make it difficult for teams to discuss learning, but promote activities and behaviors that are actually counterproductive to continuous improvement. We’ll dig into the existing research on why this is – it turns out we’re not the only industry struggling with this! – and look at some different language we can start using that can more ably facilitate sustainable Continuous Improvement in our work environments. *Not actually dirty words."
+
+  - title: "Distributed Monitoring: How to understand the Chaos"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Gianluca Arbezzano
+        twitter: gianarb
+        github:
+        website: https://gianarb.it/
+    slides:
+    videos:
+      - https://youtu.be/9vbB0SxVFxs
+    description: |-
+      Modern software development is increasingly taking a “microservice” approach that has resulted in an explosion of complexity at the network level. We have more applications running distributed across different datacenters. Distributed tracing, events, and metrics are essential for observing and understanding modern microservice architectures. This talk is a deep dive on how to monitor your distributed system. You will get tools, methodologies, and experiences that will help you to realize what your applications expose and how to get value out from all these information. Gianluca Arbezzano, SRE at InfluxData will share how to monitor a distributed system, how to switch from a more traditional monitoring approach to observability. Stay focused on the server’s role and not on the hostname because it’s not really important anymore, our servers or containers are fast moving part and it’s easy to detach it from the right in case of trouble than call the server by name as a cute puppet. How to design a SLO for your core services and now to iterate on them. Instrument your services with tracing using tools like Zipkin or Jaeger to measure latency between in your network.
+
+  - title: I deploy on Fridays (and maybe you should too)
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Michiel Rook
+        twitter: michieltcs
+        github:
+        website: https://www.michielrook.nl/
+    slides:
+    videos:
+      - https://youtu.be/cEKKf_XFkxg
+    description: |-
+      Have you ever heard yourself or someone else say “Don’t deploy on Friday”? Perhaps it’s your company’s policy? I used to have a “Fear of Fridays” too! Join me as I tell you about my experiences, how I improved. Learn about risk and confidence, build pipelines with Jenkins, automated testing, continuous deployment and monitoring. Discover the details of trunk based development, feature toggles, pair programming and other best practices, and gain the confidence to deploy multiple times per day, any day of the week!
+
+  - title: "Democratizing Serverless: the Fn Project"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: David Delabassee
+        twitter: delabassee
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Development teams are looking more and more to Serverless for new projects, and for many teams that means using a commercial Functions service. But, there are options. In this talk, we’ll discuss Serverless concepts and work with the Fn Project, an open source, cloud-agnostic functions platform which can be deployed across your existing cloud estate.
+
+  - title: DevOps – Release your flow brakes
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Bernd Rederlechner
+        twitter:
+        github:
+        website:
+      - name: Boris Folgmann
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Every new project in nearly every organization wants to include DevOps, and every team wants to get faster. However, putting every person in a room together and introducing some new technologies does not guarantee for even slightly improved lead times. What is the reason? Does DevOps really work for the world outside our IT bubble? Let´s switch perspectives and find out how speed and flow is perceived by the end users of our systems. What are possible brakes and how can we release them?
+
+  - title: Azure Container Registry – a Serverless Docker Registry-as-a-Service
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Rainer Stropek
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/o1K5F1HJd2c
+    description: |-
+      If you want to privately deliver your Docker images to your data centers or customers world-wide, you will need to run your own registry. Running it yourself or using IaaS in the cloud for that means investing a lot of effort. Ready-made registries in the cloud are an alternative. Long-time Azure MVP and Microsoft Regional Director Rainer Stropek spends this session showing you how to setup, configure and use the serverless Container Registry in Microsoft’s Azure cloud.
+
+  - title: "Running Kubernetes in Production: A Million Ways to Crash Your Cluster"
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Henning Jacobs
+        twitter: try_except_
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Bootstrapping a Kubernetes cluster is easy, rolling it out to nearly 200 engineering teams and operating it at scale is a challenge. In this talk, we are presenting our approach to Kubernetes provisioning on AWS, operations and developer experience for our growing Zalando developer base. We will walk you through our horror stories of operating 80+ clusters and share the insights we gained from incidents, failures, user reports and general observations. Most of our learnings apply to other Kubernetes infrastructures (EKS, GKE, ..) as well. This talk strives to reduce the audience’s unknown unknowns about running Kubernetes in production.
+
+  - title: Continuously keeping an eye on quality goals
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Steffen Schluff
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Tool-supported quality assurance has been part of software development since the very beginning and thanks to the idea of release pipelines, there is now a "natural" starting point for it. But what kind of quality control should be attached to which pipeline stage and is the pipeline the right place for this at all? The presentation shows which areas can currently be checked by tools, from security over license compatibility to architecture analysis. It also highlights where automated quality control has failed in the past and what we can learn from these failures, for example regarding the duration of a practicable feedback loop.
+
+  - title: Enabling Communication across Dimensions – Top down, Bottom up, across Silos
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Markus Andrezak
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      "Time and time and time again, we see people doing incredibly stupid things. Once we start talking it turns out things aren’t as stupid as they seem to be﻿. From a different perspective things make perfect sense – all of a sudden. Perspectives that are usual in companies but can blur the view and make things look stupid can be the following: a view from higher up the ladder, further down (vertical) or form a different silo (horizontal). A horizontal change in perspective can makes things appear wrong. A vertical shift may make things look too detailed (from higher up) or irrelevant (from lower down). In his talk, Markus will explain these phenomena and how they can lead to dysfunctional organizations, and gives examples of ways that helped him and companies he worked with to deal with them."
+
+  - title: DevOps simulation – feel and release your flow brakes
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Bernd Rederlechner
+        twitter:
+        github:
+        website:
+      - name: Boris Folgmann
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      “Feeling means believing”. As a complement to our keynote, we offer a simple game. The game will simulate how to feel and perceive DevOps speed. We use the widely known exercise of paper mail enveloping to model a flow close to software development. Given this model, we can observe typical brakes and boosts in a condensed time frame, while having interesting discussions and fun.
+
+  - title: From Legacy To Cloud
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Roland Huss
+        twitter: ro14nd
+        github:
+        website: https://ro14nd.de/
+    slides:
+    videos:
+    description: |-
+      Everybody is enthusiastic about the “cloud”, but how do I can transfer my old rusty application to this shiny new world? This presentation describes the migration process of a ten-year-old web application to a Kubernetes based platform. The app is written in Java with Wicket 1.4 as the Web framework of choice, running on a plain Jetty 6 servlet engine with Mysql 5.0 as backend. Step by step we will migrate this application to Docker containers, eventually running on a self-provisioned Kubernetes cluster in the cloud. We will hit some stumbling blocks, but still, we will see how this migration could be performed relatively effortless. In the end, we have learned, that “containerisation” does not only make sense for green-field projects but also for older applications to pimp up their legacy.
+
+  - title: When Performance matters – Effective Performance Testing from the Ground up
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Hassy Veldstra
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      The ever-increasing complexity of modern systems, modern DevOps and continuous delivery-centric workflows place new demands on performance and reliability testing approaches. When systems are comprised of many distributed components, each with its own performance and reliability characteristics, and when a misconfiguration that causes a cascading failure under load can be automatically deployed across environments all the way from dev to production in a matter of hours, you really need to make sure that a rigorous, well-understood, and easy-to-follow performance testing process is in place. In this talk, we will look at how an effective performance testing process can be implemented from the ground up (using the open-source Artillery.io toolkit) to be an integral part of an organization’s continuous delivery pipeline. This talk is for developers, QAs, and engineering managers who are working on a greenfield project with high performance and reliability requirements or working on production systems which are experiencing issues when under load.
+
+  - title: OpenDevStack – An introduction to rapid, CI driven Openshift development
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Clemens Utschig-Utschig
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      While Openshift provides a lot of prebaked components, one can install thru the catalog – it’s NOT setting you up for rapid, well integrated and goverened software development. It’s an endless open toolkit. That is why we have started github/opendevstack, with the goal that developers can focus on features and not on getting CI/CD to work. This session introduces the why and shows how opendevstack works – from provisioniong to run in less than 3 minutes, based on Jenkins, sonarqube and other usefull CI components.
+
+  - title: Majestic Modular Monoliths
+    lang: en
+    type: regular
+    time: 2018-12-04
+    room: Hilton Munich Park
+    authors:
+      - name: Axel Fontaine
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Iz23skp-apM
+    description: |-
+      "Microservices are everywhere. Everyone seems to be either going into that direction or is talking about doing so. But are they really the best choice for you? Developers! Architects! Buckle up as we’re going to cut through the hype. Instead of going all-in on microservices or all-in on big ball of mud, we’ll introduce a third choice: the Majestic Modular Monolith! We’ll look at what it brings to the table, when it may be a good fit and how it compares to the other two approaches in terms of code organization, productivity, scalability and much more. We’ll look at how this can be designed and implemented in practice. Get ready. We won’t shy away from the hard questions."
