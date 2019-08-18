@@ -1,0 +1,22 @@
+conference:
+
+  name: DevOpsCon Spring 2019
+  status: incomplete
+  series: devopsconference.de
+  tags:
+    - devops
+    -
+    -
+  link:
+    twitter: devops_con
+    videos: https://www.youtube.com/playlist?list=PLcCcZh4f8l1M2ZC5OoX8kbtB7Fb2-gXsE
+    website: https://devopsconference.de/
+  date:
+    from: 2019-06-11
+    to: 2019-06-14
+  location:
+    country: Germany
+    city: Berlin
+  description: |-
+
+talks:
