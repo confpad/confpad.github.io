@@ -1,7 +1,7 @@
 ﻿conference:
 
   name: DevOne 2019
-  status: incomplete
+  status: complete
   series: devone.at
   tags:
     - devops
@@ -18,5 +18,182 @@
     country: Austria
     city: Linz
   description: |-
+     The only constant in the world is change. Our mission at DevOne is to embrace change. To grow, to scale, to let in new technology as it transforms us as people. In our third year, we want to take small steps to the big leaps of humanity. By inviting engineers from all over the world who found solutions to problems beyond our imagination. 
 
 talks:
+
+  - title: Scaling Sparta
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room: Tabakfabrik Linz
+    authors:
+      - name: Emily Freeman
+        twitter: editingemily
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/SgAdrpY4UMA
+    description: |-
+      "Scaling systems is hard, but we’re developers — that’s kind of our thing. Scaling people? Well, that’s significantly harder. Humans are complicated. Broadly speaking, companies have three stages of development: infancy, those awkward teenage years and — if they survive the trials of adolescence — adulthood. An infant startup is so drastically different from its adult incarnation that they can be considered different companies. Each will have a unique mission and culture. Scaling isn’t just about making what you have bigger. An ant can’t be scaled to the size of an elephant. Because the internal structure is fundamentally different. Instead, companies have to evolve. But companies aren’t living, breathing organisms. They’re collections of people — families, tribes and civilizations. So how do you scale a team of two to twenty? The answer starts over 2,000 years ago in Sparta. This talk will focus on three distinct military organizations: Spartans, Mongols and Romans. Sparta’s standing army numbered 10,000 whereas Rome’s peaked at half a million. We’ll look at the structure of each military and apply the lessons learned to our development teams and organizations. Options."
+
+  - title: SPA Revolution with WebAssembly and ASP.NET Blazor
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room: Tabakfabrik Linz
+    authors:
+      - name: Rainer Stropek
+        twitter: rstropek
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_gYgkZ1UBQ4
+    description: |-
+      WebAssembly (WASM) is challenging JavaScript's monopoly in the browser. Many higher-level languages are currently evaluating whether WASM is a way for them to conquer the web client. .NET is spearheading this movement. In 2017, we saw the first .NET prototypes running on WASM. Based on that, Blazor, the new .NET- and WASM-based Single-Page-App (SPA) framework has appeared. The .NET community is thrilled but Blazor could be interesting for developers new to .NET, too. Rainer Stropek engaged early in the Blazor open source project. Join him in this fast-paced, demo-heavy session and see what's behind this new contender in the world of browser development.
+
+  - title: "Tinkertoys, Microservices, and Feature Management: How to Build for the Future"
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room: Tabakfabrik Linz
+    authors:
+      - name: Heidi Waterhouse
+        twitter: wiredferret
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/VJVctM97bbU
+    description: |-
+      Lots of us aren’t developing tidy, discrete features that are easy to manage. How do you plan to move from a tangle of interconnected features to something that you can test and deploy each part of? How do you manage the combinatorial complexity of individual feature testing? Join us for an overview on the conceptual basis of designing for feature management. It sounds simple to say that we will build one feature at a time, give it an API interface and allow it to connect with other features and microservices. The implementation is anything but simple. This talk explores how you can start migrating your existing features and services to a more modular, testable, and resilient system. Since containers are not state-aware, how do you make changes to their presentation without needing to rebuild them entirely? With feature flags, your container can be stable and your presentation dynamic. How can you test a distributed architecture on your laptop? How can you simulate partial outages? This talk is going to touch on some of the best practices that you can use to bring new life to your brown fields.
+
+  - title: "Architectures for huge Angular based Enterprise Applications: npm Packages, Monorepos and Microservices"
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room: Tabakfabrik Linz
+    authors:
+      - name: Manfred Steyer
+        twitter: ManfredSteyer
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/4ILauSLMpb4
+    description: |-
+      Nowadays, we build large enterprise applications with Angular. But how to best structure such projects to ensure long-term maintainability and reusability? This session provides multiple answers! We explore how to split large projects into individually reusable npm packages and discuss the monorepo approach as an alternative. Then, we look at Micro Apps and different strategies to implement this idea with Angular. Implementation options, advantages and disadvantages are investigated. By the end you will know the different options and which approach works best in your current project.
+
+  - title: It's Dangerous To Go Alone, Take This! Navigating the Overworld of Cloud Native and Open Source
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room: Tabakfabrik Linz
+    authors:
+      - name: Carmen Andoh
+        twitter: carmatrocity
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/nCE_2Y4piQU
+    description: |-
+      "Over the last 2 decades, the world has embraced open source as a winning strategy. It has revolutionized the way we build software and digitized markets, and has even enabled the next big movement: Cloud. But we in the open source ecosystem are going through an existential crisis of sorts. Cloud Providers are coming in and offering managed services that compete with our monetization strategies. It feels like the ecosystem is consolidating. How can navigate these changes as developers and companies? Let's explore this rapidly shifting landscape together."
+
+  - title: Polyglot Builds with Bazel
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room: Tabakfabrik Linz
+    authors:
+      - name: Ulf Adams
+        twitter: ulfjack
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/2JQrpvYzNfY
+    description: |-
+      "Using a build system to build all parts of your software stack in a single polyglot build comes with a number of unique advantages: 1) it supports higher-level integration tests, 2) it improves static and dynamic code analysis capabilities, 3) it makes it easier to embed security into the software development life cycle, and 4) it improves collaboration and a sense of shared responsibility. Research has shown that these are key capabilities for improved business outcomes. Here's how Google does it, and how you can, too."
+
+  - title: Composing the Cloud, 2.0
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room: Tabakfabrik Linz
+    authors:
+      - name: Matheus Fernandes
+        twitter: matheusfrndes
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/JvbXyh9Htxw
+    description: |-
+      In 2017, Matheus spoke to 1500 developers in Brazil about how to develop their web applications in a way that they would scale independently, cheaply and reliably, with the help of microservices. Now, after almost 2 years of thinking and working on scaling web applications at ZEIT, he is ready to talk about how to Compose the Cloud, again – with a plot twist.
+
+  - title: The culture of Site Reliability Engineering
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room: Tabakfabrik Linz
+    authors:
+      - name: Wolfgang Hennerbichler
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/cxkAEdn094Y
+    description: |-
+      Site Reliabilty Engineering (SRE) is a pessimistic job. While many developers write their code in an optimistic way, thinking about how things will work, SREs mostly think about what can go wrong. They try to optimize distributed systems for the worst case scenarios - traffic overload, cascading failures and how databases can go corrupt. This talk will be about the culture of SREs, how to establish trust between developer teams and SRE teams and how to prevent failure.
+
+  - title: Resiliency and Availability Design Patterns for the Cloud
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room: Tabakfabrik Linz
+    authors:
+      - name: Adrian Hornsby 
+        twitter: adhorn
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/mLg13UmEXlw
+    description: |-
+      We have traditionally built robust software systems by trying to avoid mistakes and by dodging failures when they occur in production or by testing parts of the system in isolation from one another. Modern methods and techniques take a very different approach based on resiliency, which promotes embracing failure instead of trying to avoid it. Resilient architectures enhance observability, leverage well-known patterns such as graceful degradation, timeouts and circuit breakers. In this session, will review the most useful patterns for building resilient software systems and especially show the audience how they can benefit from the patterns.
+
+  - title: Performance tuning Twitter services with Graal and Machine Learning
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room: Tabakfabrik Linz
+    authors:
+      - name: Chris Thalinger
+        twitter: christhalinger
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/6W0Z2gjL9QY
+    description: |-
+      Running Twitter services on Graal has been very successful and saved Twitter a lot of money on datacenter cost. But we would like to run more efficient to reduce cost even more. I mean, who doesn’t? In order to do this we are using our Machine Learning framework called Autotune to tune Graal inlining parameters. This talk will show how much performance improvement we got by autotuning Graal.
+
+  - title: We don't make mistakes
+    lang: en
+    type: regular
+    time: 2019-04-11
+    room: Tabakfabrik Linz
+    authors:
+      - name: Mathieu Henri
+        twitter: p01
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/jLhLyUJVoOY
+    description: |-
+      Our daily work might seem rigid at times. But there is always room to take a step back and embrace a creative approach where you don't make mistakes. Exploring techniques outside of our domain, having "happy accidents", feels liberating and sharpens our skills. This is the story of how teaching, making audio-visual art and delivering enterprise projects for +100M users collide to bring a whole new perspective to solve problems, and how this serendipitous approach can work for you too.
