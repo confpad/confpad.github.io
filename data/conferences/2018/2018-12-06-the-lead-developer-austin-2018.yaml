@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: The Lead Developer Austin 2018
   status: complete
   series: theleaddeveloper.com
@@ -18,6 +18,8 @@
     country: United States
     city: Austin
   description: |-
+    A 1-day conference for technical leads and engineering managers.
+
 talks:
 
   - title: Navigating team friction

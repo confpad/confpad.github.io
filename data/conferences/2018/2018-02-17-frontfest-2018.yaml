@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: FrontFest 2018
   status: complete
   series: frontfest.es
@@ -15,9 +15,11 @@
     from: 2018-02-17
     to: 2018-02-17
   location:
-    country: Spain 
+    country: Spain
     city: Madrid
   description: |-
+    Segunda edición del evento exclusivamente dedicado al mundo del front-end en Madrid
+
 talks:
 
   - title: "3 soluciones a un mismo problema: ¿cómo implementan la reactividad React, Vue y Angular?"

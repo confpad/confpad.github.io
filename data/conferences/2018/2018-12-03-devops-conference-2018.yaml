@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: DevOps Conference 2018
   status: complete
   series: devopsconference.de
@@ -19,6 +19,7 @@
     city: Munich
   description: |-
     The Conference for Continuous Delivery, Microservices, Containers, Cloud & Lean Business
+
 talks:
 
   - title: "Staying Alive: Patterns for Failure Management from the Bottom of the Ocean"

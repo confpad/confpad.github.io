@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: Laracon AU 2018
   status: complete
   series: laracon.com.au
@@ -19,6 +19,7 @@
     city: Sydney
   description: |-
     Two amazing days of learning, growing, and mingling with the Laravel community.
+
 talks:
 
   - title: Resisting complexity

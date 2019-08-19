@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: ReactFoo 2017
   status: complete
   series: reactfoo.in
@@ -16,8 +16,9 @@
     to: 2017-09-14
   location:
     country: India
-    city: BANGALORE
+    city: Bangalore
   description: |-
+    A conference on React.js and React Native
 
 talks:
 
@@ -130,7 +131,7 @@ talks:
         twitter:
         github: kepta
         website:
-    slides: 
+    slides:
       - https://speakerdeck.com/kepta/better-async-redux-saga
     videos:
       - https://youtu.be/5j4JKtwdLt8
@@ -160,7 +161,7 @@ talks:
     room: Auditorium, MLR Convention Centre J P Nagar
     authors:
       - name: Abraar Syed
-        twitter: 
+        twitter:
         github: abraarsyed
         website:
     slides:

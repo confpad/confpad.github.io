@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: VueConf US 2019
   status: complete
   series: vueconf.us
@@ -21,8 +21,7 @@
     VueConf.US will take place in beautiful Tampa, Florida. We'll be in the heart of downtown on the river, and within a short drive of Tampa's amazing beaches.
 
 talks:
-      
-  
+
   - title: State of Vuenation
     lang: en
     type: regular
@@ -36,7 +35,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/7_ZzayG45Mk
-    description: |- 
+    description: |-
       Evan You is the creator of Vue.js. In his State of Vuenation talk, he will cover what has been happening with Vue.js in the last few months, growth that has taken place, and exciting new things to look forward to.
 
   - title: Getting Started with Nuxt.js
@@ -51,7 +50,7 @@ talks:
         website:
     slides:
     videos:
-    description: |- 
+    description: |-
       So you know the Vue basics but keep on hearing about this Nuxt.js framework. Perhaps you’re wondering if you should use it on your next project? In this talk Gregg Pollack will visually explain why you should care about Nuxt and cover all the basics of using the framework to create scalable Vue applications. By the end you’ll see why Gregg describes Nuxt.js as: production ready Vue which helps you employ best practices as you build.
 
   - title: Vue.js In Practice at Optoro
@@ -67,7 +66,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/7FBPqzW_Qig
-    description: |- 
+    description: |-
       EvanWe’ve learned a lot since deploying our first Vue.js app in production over one year ago. I’d love to share our experience shipping Vue.js to desktop and mobile devices and leveling up our engineering team in the process. I’ll discuss lessons learned from deprecating AngularJS and Bower to adopting Vue.js and deploying an internal NPM repo. I’ll talk about the benefits we’ve seen with Vue.js by providing real stories from the volunteers that upgraded our tooling and the engineers that build the apps today. This is how Optoro upgraded its enterprise front-ends with Vue.js.
 
   - title: Vuex Explained Visually
@@ -82,7 +81,7 @@ talks:
         website:
     slides:
     videos:
-    description: |- 
+    description: |-
       We've learned a lot since deploying our first Vue.js app in production over one year ago. I'd love to share our experience shipping Vue.js to desktop and mobile devices and leveling up our engineering team in the process. I'll discuss lessons learned from deprecating AngularJS and Bower to adopting Vue.js and deploying an internal NPM repo. I'll talk about the benefits we've seen with Vue.js by providing real stories from the volunteers that upgraded our tooling and the engineers that build the apps today. This is how Optoro upgraded its enterprise front-ends with Vue.js.
 
   - title: Zen and The Art of Vue.js
@@ -98,7 +97,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/wCU-kDlXY58
-    description: |- 
+    description: |-
       Jen is a web/mobile developer who is also the founder of Vue Vixens. In this talk, she shows us how a rich artistic tradition can inspire and inform our craft as Vue.js developers.
 
   - title: 'Demystifying: The Dark Art of SFC Compilation'
@@ -114,7 +113,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/Ceo771OXaCY
-    description: |- 
+    description: |-
       JenVue single file components empowers developers with the ability to write declarative render functions using plain HTML-like syntax. The so-called SFCs also provide features like collocation and scoped styles. We tend to use these SFCs effortlessly as any other JavaScript file but to reach that level of ease, Vue does the heavy lifting of transpilation. This talk takes a deep dive in the compilation process of Vue components and explains how to write a custom block processor. It also discovers some less known facts about SFCs.
 
   - title: Advanced Animations with Vue.js
@@ -129,7 +128,7 @@ talks:
         website:
     slides:
     videos:
-    description: |- 
+    description: |-
       In this talk, I’ll walk you through the coolest features of Vue.js and explore how to combine them with advanced CSS animations and transitions in order to create fancy interactive animations. We'll dive into a game built with Vue.js and how to apply similar techniques to spice up real-world applications.
 
   - title: Building Desktop Applications with Vue
@@ -144,7 +143,7 @@ talks:
         website:
     slides:
     videos:
-    description: |- 
+    description: |-
       With Vue framework your experience is not limited to web or mobile applications - you can create a desktop app as well! Let's check what options do we have to create one...
 
   - title: Dynamic CSS with Vue
@@ -160,7 +159,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/VsG5l5e44ZY
-    description: |- 
+    description: |-
       Understand how CSS can work with Vue.
 
   - title: The Future of Web Animation
@@ -176,7 +175,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/VsG5l5e44ZY
-    description: |- 
+    description: |-
       We talk a lot about how to animate on the web, and what's possible in browsers today, but where is animation heading? In this talk, we'll start with some bleeding edge techniques such as native-like page transitions with nuxt, but then we'll push it further. The intersection of health and animation with biofeedback sensors and Vue, the future of 3d in the browser complete with interviews with people who are writing these specs... this talk will show that in terms of animation on the web, we're just getting started
 
   - title: 'Vue 3: What I,m Most Excited About'
@@ -192,7 +191,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/b554XmaTWrw
-    description: |- 
+    description: |-
       Let's discuss the interesting features in the upcoming Vue 3 release!
 
   - title: 9 Performance Secrets Revealed
@@ -208,7 +207,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/5B66qer8cZo
-    description: |- 
+    description: |-
       A look at performance secrets that improve an app's performance to create a better user experience.
 
   - title: Building Fast and Semantic Input Masks in VueJS
@@ -224,7 +223,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/FDqKAlrUm0k
-    description: |- 
+    description: |-
       Input masking is a common pattern in form design that guide users to enter information in the correct format in a consistent manner. Typically this involves formatting user input according to the type of data they represent like dates, phone numbers, addresses and credit card numbers. You can achieve an input mask in Vue by leaning heavily Vue’s reactivity system chiefly methods, computed, and watchers. In this talk, we will cover the distinction between the various components that make up Vue’s reactivity system and how to leverage it in order to create semantic and robust input elements that respond seamlessly to user feedback
 
   - title: 'Back to the Vueture: Stuck in the Event Loop'
@@ -240,7 +239,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/f7koqC8875Y
-    description: |- 
+    description: |-
       Do you feel like you're stuck in the event loop of hell, forced to fumble through setTimeout after setTimeout day after day when all you want to do is leap out of bed singing "I got Vue babe" and wielding nextTick in style? Join us as we dive into the source code of nextTick and microtasks and make nextTick work for you today!
 
   - title: Web Accessibility with VueJS
@@ -256,7 +255,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/mHubDB6DIfE
-    description: |- 
+    description: |-
       A Board Certified Assistant Behavior Analyst turned Web Developer gives you a different take on accessibility and why it is important. Web Accessibility is a way to make everyone - regardless of hardware, software, language, location, or ability - have access to the web and internet in whole. Let's use Vue.js to create accessible web apps!
 
   - title: Run Your Vue and Node App Anywhere
@@ -272,7 +271,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/5Fqh_ZM6g_k
-    description: |- 
+    description: |-
       You built your Vue app but does it run everywhere? We'll explore how a Vue frontend with a Node.js backend can be structured, how to build them, debug them, and how to set up the app with Docker. We'll debug the app running in Docker, stream the logs, and deploy it to the cloud - ultimately showing how you can run your Vue app anywhere!
 
   - title: Ionic & Vue for Fast Mobile Apps
@@ -288,7 +287,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/kr27VKEsMdw
-    description: |- 
+    description: |-
       Vue as a framework prides itself for providing an excellent developer experience out of the box so devs can build awesome apps with it. Ionic as a component library shares these same values while providing a great UI for any kind of app. In this talk, we'll look at how we can use Ionic and Vue together to quickly create a compelling mobile application that can be deployed to the iOS, Android, and the Web.
 
   - title: Phenomenal Design Patterns In Vue
@@ -304,7 +303,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/RF1bbhRw9sg
-    description: |- 
+    description: |-
       Jacob provides a high level overview of common features that can be solved with time tested design patterns from the Gang of Four and mixed with Vue with Vuex to solve common problems like:The Memento for undo and redo The Bridge for an awesome drawing API The Decorator for making games with.It's not always easy to figure out where these classic design patterns fit in a modern framework like Vue which has solved many specific problems already, but Jacob will show you how they fit in perfectly
 
   - title: Accessibility for Everyone or Accessibility 101
@@ -320,7 +319,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/LQP-lSiuC0U
-    description: |- 
+    description: |-
       Chris talks to us about Web accessibility and how it means that everyone can have an amazing user experience, regardless of disability. He sheds light on different types of impairments and how the Web can be accessible to all.
 
   - title: Using Subscriptions in Your Vue Apps
@@ -336,7 +335,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/p6_6XA8RRYE
-    description: |- 
+    description: |-
       Vladamir shows us a simplified run through of how you could use subscriptions in your Vue apps.
 
   - title: Quickly Delivering Value to Users
@@ -352,7 +351,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/9hmG2P3Bo-A
-    description: |- 
+    description: |-
       Brad is a senior software engineer at Bloomberg. He discusses with us his experiences using Vue.js to quickly deliver value to users and how to do the same.
 
   - title: Progressively Enhanced From Validation
@@ -368,7 +367,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/hJBWqcXVgxA
-    description: |- 
+    description: |-
       Matt works for the engineering department of Urban Outfitters. In his talk, he walks us through a how to of progressively enhancing your form validation.
 
   - title: How to Reduce Your Vue Bundle Size With Webpack
@@ -384,7 +383,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/NHUiQvYXxw4
-    description: |- 
+    description: |-
 
   - title: Global vs. Component State in Vuex
     lang: en
@@ -399,7 +398,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/qbCJmWGXzZU
-    description: |- 
+    description: |-
       Jaimes goes over specific instances in which data belongs in a global state and when data belongs in a component state.
 
   - title: Building a Better Tomorrow
@@ -415,7 +414,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/s92R_ANX0M0
-    description: |- 
+    description: |-
       Jennifer gives a background on how Stanley Black & Decker currently accomplishes tasks. She goes into detail about how Vue.js graphs and charts help visualize the tasks completed efficiently.
 
   - title: The Ramp Up to Vue
@@ -431,7 +430,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/q0UJSePrEg0
-    description: |- 
+    description: |-
       Charles talks about his very first experiences with Vue.js and all of the steps he took to understanding Vue. This talk is a brief look at what type of journey it could look like realistically when you’re first starting out.
 
   - title: Vue + i18n = FUN
@@ -447,7 +446,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/B_khmwr6gxw
-    description: |- 
+    description: |-
       Casie shows us how to implement internationalization using i18n. She goes over the many reasons why this will make your app better from a larger scope and the steps that you will need to take to implement i18n.
 
   - title: Cloudinary's New Vue SDK
@@ -463,7 +462,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/EUpEY181Egk
-    description: |- 
+    description: |-
       Doug teaches us all about Cloudinary’s features and how to use its recently released Vue SDK as well as what that comes with.
 
   - title: Sub-second Vue
@@ -479,7 +478,7 @@ talks:
     slides:
     videos:
       - https://youtu.be/87gaVAzMxTA
-    description: |- 
+    description: |-
       Lucas is a full-stack architect. After working with Vue over the years, Lucas has gathered some performance tips along the way and shares them with us in this talk.
 
   - title: KnowBe4 Human error. Conquered.
@@ -495,15 +494,15 @@ talks:
     slides:
     videos:
       - https://youtu.be/EZnXIlfYVgo
-    description: |- 
+    description: |-
       Benji works for a company called KnowBe4. He has been using Vue since its beginning days and even got to sway KnowBe4 into using Vue.js. He talks about what the process was like for them to start using Vue.
 
 
-      
-      
-      
-      
-      
-      
-      
-      
+
+
+
+
+
+
+
+

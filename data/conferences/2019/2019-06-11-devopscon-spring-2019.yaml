@@ -18,5 +18,6 @@ conference:
     country: Germany
     city: Berlin
   description: |-
+    The Conference for Continuous Delivery, Microservices, Containers, Cloud & Lean Business
 
 talks:

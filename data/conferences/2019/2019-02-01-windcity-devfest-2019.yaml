@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: Windcity DevFest 2019
   status: complete
   series: windycity.devfest.io
@@ -19,6 +19,7 @@
     city: Chicago
   description: |-
     A community-run conference offering sessions, hack-a-thons, and codelabs across many different technologies
+
 talks:
 
   - title: "Fusing AI with AR: Custom Markers"

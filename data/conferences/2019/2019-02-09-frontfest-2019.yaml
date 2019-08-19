@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: FrontFest 2019
   status: complete
   series: frontfest.es
@@ -15,16 +15,18 @@
     from: 2019-02-09
     to: 2019-02-09
   location:
-    country: Spain 
+    country: Spain
     city: Madrid
   description: |-
+    La conferencia para toda la comunidad frontend
+
 talks:
 
   - title: "Duendecillos en tu navegador: service workers"
     lang: es
     type: regular
     time: 2019-02-09
-    room: 
+    room:
     authors:
       - name: PAQUI CALABRIA
         twitter: zurribulle
@@ -38,13 +40,13 @@ talks:
     videos:
       - https://youtu.be/e-yaGG53yWg
     description: |-
-      ¿Nunca has pensado que sería genial poder contar con una ayuda extra a la hora de que tus aplicaciones trabajaran? Ahora es posible contar con unos pequeños ayudantes en tu navegador, los service workers. En esta charla pretendemos dar a conocer todas las posibilidades que hay detras de los Services Workers más allá del cacheo de recursos en cliente. Tenemos como objetivo desmitificar lo que se esconde detrás de esta tecnología y mostrar algunas de las muchas posibilidades que ofrece. Tras una introducción inicial mostraremos algunos ejemplos de como crear tu service workers y las distintas apliciones prácticas que puedes llegar a conseguir. 
+      ¿Nunca has pensado que sería genial poder contar con una ayuda extra a la hora de que tus aplicaciones trabajaran? Ahora es posible contar con unos pequeños ayudantes en tu navegador, los service workers. En esta charla pretendemos dar a conocer todas las posibilidades que hay detras de los Services Workers más allá del cacheo de recursos en cliente. Tenemos como objetivo desmitificar lo que se esconde detrás de esta tecnología y mostrar algunas de las muchas posibilidades que ofrece. Tras una introducción inicial mostraremos algunos ejemplos de como crear tu service workers y las distintas apliciones prácticas que puedes llegar a conseguir.
 
   - title: Road to Web Components
     lang: es
     type: regular
     time: 2019-02-09
-    room: 
+    room:
     authors:
       - name: CRISTINA PONCE
         twitter: CristinaGrim
@@ -54,13 +56,13 @@ talks:
     videos:
       - https://youtu.be/y9RX6UjNQE4
     description: |-
-      El concepto webcomponent lleva sonando un tiempecillo y cada vez suena más fuerte gracias a librerías como Polymer o Stencil. Por ello, en esta charla veremos cuáles son los conceptos clave de un webcomponent, veremos como crear algunos de ejemplo y como aplicarlos en un proyecto real. Así también, analizaremos como está el estándar en este sentido, las ventajas de utilizarlos y como podemos aprovecharlo para hacer de nuestro proyecto algo más nativo y menos pegado al framework que usemos en nuestro proyecto. 
+      El concepto webcomponent lleva sonando un tiempecillo y cada vez suena más fuerte gracias a librerías como Polymer o Stencil. Por ello, en esta charla veremos cuáles son los conceptos clave de un webcomponent, veremos como crear algunos de ejemplo y como aplicarlos en un proyecto real. Así también, analizaremos como está el estándar en este sentido, las ventajas de utilizarlos y como podemos aprovecharlo para hacer de nuestro proyecto algo más nativo y menos pegado al framework que usemos en nuestro proyecto.
 
   - title: ¿Cómo funciona un router SPA? Caso práctico con Vue Router
     lang: es
     type: regular
     time: 2019-02-09
-    room: 
+    room:
     authors:
       - name: EDUARDO SAN MARTÍN
         twitter: posva
@@ -70,13 +72,13 @@ talks:
     videos:
       - https://youtu.be/MXUeo-dUClo
     description: |-
-      Cuando desarrollamos una Single Page Application, es necesario usar un Router. Cada framework tiene su propio router, React incluso tiene varios paquetes disponibles. Y, aunque cada framework sea diferente y cada router tenga un enfoque diferente, todos comparten los mismos principios. ¿Qué se esconde detrás de una API simple y fácil de usar? ¿Es realmente tan difícil implementar un router por sí mismo? ¿Qué cosas fallan hoy en día en Vue Router? Durante esta charla, responderemos a estas preguntas usando el Router oficial de Vue como ejemplo y explicando su funcionamiento interno. 
+      Cuando desarrollamos una Single Page Application, es necesario usar un Router. Cada framework tiene su propio router, React incluso tiene varios paquetes disponibles. Y, aunque cada framework sea diferente y cada router tenga un enfoque diferente, todos comparten los mismos principios. ¿Qué se esconde detrás de una API simple y fácil de usar? ¿Es realmente tan difícil implementar un router por sí mismo? ¿Qué cosas fallan hoy en día en Vue Router? Durante esta charla, responderemos a estas preguntas usando el Router oficial de Vue como ejemplo y explicando su funcionamiento interno.
 
   - title: "La igualdad en los espacios laborales: retos y beneficios"
     lang: es
     type: regular
     time: 2019-02-09
-    room: 
+    room:
     authors:
       - name: JOSÉ ANTONIO VELA
         twitter: ecosdegenero
@@ -86,13 +88,13 @@ talks:
     videos:
       - https://youtu.be/640YazUAORU
     description: |-
-      Los espacios laborales son lugares de puesta en común del trabajo de personas muy distintas. La diversidad es una oportunidad de aprendizaje y de pluralidad de soluciones pero, sin una valoración de la misma puede transformarse en una fuente de desentendimiento y freno. La presencia de mujeres en ámbitos tradicionalmente considerados masculinos puede ser percibida como una ganancia en riqueza de recursos humanos o, por el contrario, como un ataque a las dinámicas tradicionales de trabajo. Del mismo modo, otras diversidades, como la LGBT o de capacidades pueden aprovecharse o perderse al generar espacios violentos. La percepción de la diversidad misma está influida por la posibilidad de entender nuevas realidades y de cuestionarse prejuicios adquiridos. A lo largo de esta ponencia se visitarán estrategias y planteamientos que nos permitan visibilizar la diversidad y los patrones sociales que nos impiden crecer igualitariamente y aprovecharnos de nuevos caminos capacitantes. 
+      Los espacios laborales son lugares de puesta en común del trabajo de personas muy distintas. La diversidad es una oportunidad de aprendizaje y de pluralidad de soluciones pero, sin una valoración de la misma puede transformarse en una fuente de desentendimiento y freno. La presencia de mujeres en ámbitos tradicionalmente considerados masculinos puede ser percibida como una ganancia en riqueza de recursos humanos o, por el contrario, como un ataque a las dinámicas tradicionales de trabajo. Del mismo modo, otras diversidades, como la LGBT o de capacidades pueden aprovecharse o perderse al generar espacios violentos. La percepción de la diversidad misma está influida por la posibilidad de entender nuevas realidades y de cuestionarse prejuicios adquiridos. A lo largo de esta ponencia se visitarán estrategias y planteamientos que nos permitan visibilizar la diversidad y los patrones sociales que nos impiden crecer igualitariamente y aprovecharnos de nuevos caminos capacitantes.
 
   - title: Cómo te la "colamos" los diseñadores todos los días
     lang: es
     type: regular
     time: 2019-02-09
-    room: 
+    room:
     authors:
       - name: JAMES HEDA WENG
         twitter: JamesHedaWeng
@@ -108,7 +110,7 @@ talks:
     lang: es
     type: regular
     time: 2019-02-09
-    room: 
+    room:
     authors:
       - name: VICENTE LUCENDO
         twitter: vlucendo
@@ -124,7 +126,7 @@ talks:
     lang: es
     type: regular
     time: 2019-02-09
-    room: 
+    room:
     authors:
       - name: JESÚS OLAZAGOITIA
         twitter: goiblas
@@ -140,7 +142,7 @@ talks:
     lang: es
     type: regular
     time: 2019-02-09
-    room: 
+    room:
     authors:
       - name: SERGIO ARBEO
         twitter: serabe

@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: JSConf Hawai 2019
   status: incomplete
   series: jsconfhi.com
@@ -18,5 +18,6 @@
     country: United States
     city: Honolulu
   description: |-
+    A three day, single track conference dedicated to web development, JavaScript and building a community.
 
 talks:

@@ -19,6 +19,7 @@ conference:
     city: Sofia
   description: |-
     <React.NotAConf /> is an initiative brought to live by <React.Sofia /> meetup - a community of 700+ React enthusiasts. ⚛️ In 2018, we successfully shipped the first edition of the conference. 🚀 In 2019 we are planning something even better. 🤩
+
 talks:
 
   - title: Opening

@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: StarCon 2018
   status: complete
   series: starcon.io
@@ -20,9 +20,8 @@
   description: |-
     Make Computer Science and its related technologies accessible to everyone, taking into consideration race, class, gender, ability, religion or sexual orientation, and intersections thereof.Create a culture that fosters learning and community building through knowledge sharing among people from diverse backgrounds.
 
-
 talks:
- 
+
   - title: Keynotes 'So you want to be a wizard?'
     lang: en
     type: regular
@@ -34,7 +33,7 @@ talks:
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/FBMC9bm-KuU
     description: |-
       I don’t always feel like a wizard. I’m not the most experienced member on my team, like most people I sometimes find my work difficult, and I still have a TON TO LEARN.But along the way, I have learned a few ways to debug tricky problems, get the information I need from my colleagues, and get my job done. We’re going to talk about.
@@ -50,7 +49,7 @@ talks:
         github: captainsafia
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/JcspmEdaTyY
     description: |-
       Working in open source provides interesting insights on technology and people culture. In this keynote, Safia shares the lessons learned and ideas gather from her experience as an open source contributor and maintainer.
@@ -66,7 +65,7 @@ talks:
         github: DinahDavis
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/dIohOKKNf0M
     description: |-
       This past year was all about large Ransomware hacks like WannaCry, Petya/NotPetya, and CRYPSHED to name a few. In this talk Dinah will detail how it works, how to avoid it, and what is coming next in the world of Ransomware. She will also demonstrate what happens when ransomware is exploded on a computer from the Arctic Wolf labs.
@@ -82,7 +81,7 @@ talks:
         github: lastontheboat
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/TBKRCyNp37w
     description: |-
       Investigating programming languages that never went mainstream can help us better appreciate the subtle trade-offs that are required when designing a programming language. In “Remembering MegaZeux: Concurrent, Assembly-ish Actor-based Programming for Teens”, we will focus on one such language in particular. In 1994, a small community of teenagers started using Robotic: an unusual, forward-thinking programming language intended for creating computer games inside the game creation system MegaZeux. We’ll examine the design of Robotic and how it compared to academic research and industrial practice at the time, as well as how it reflects current trends and practices. We’ll contemplate the unorthodox choices that Robotic made and how these helped position it as a viable introduction to programming for so many aspiring game developers. Through these examples and comparisons we will better appreciate the broad scope in programming language design that exists outside of the languages that we most commonly experience.
@@ -98,7 +97,7 @@ talks:
         github: christinatruong
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/KFNpYLFV9HM
     description: |-
       CSS is sometimes undervalued and misinterpreted as being “easy” because it is not a programming language. So planning and writing efficient, scalable and maintainable CSS sometimes falls by the wayside. But it shouldn’t! From small projects to large projects, creating and planning the CSS architecture right from the beginning will help make it easier to maintain the project and onboard new team members.
@@ -114,10 +113,10 @@ talks:
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/2_Z-jk2pfp8
     description: |-
-      Do you want to write code you can be confident in, and test your programs thoroughly? Formal methods is a powerful discipline of software engineering that uses logic and automated reasoning to prove correctness of programs or find counterexamples to assertions. 
+      Do you want to write code you can be confident in, and test your programs thoroughly? Formal methods is a powerful discipline of software engineering that uses logic and automated reasoning to prove correctness of programs or find counterexamples to assertions.
 
   - title: 'Of Tracked Changes and Diffs: Moving  from Editorial to Engineering'
     lang: en
@@ -130,10 +129,10 @@ talks:
         github: breanneboland
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/rZtypYZUyi8
     description: |-
-      I worked in online content in varying capacities for more than a decade before I made the shift to software engineering. While my ability to communicate verbally and in writing were early helpers as I completed this transition, the lessons I learned from editorial life were also surprisingly helpful. It turned out that years of workshopping stories, trading edits, laboring over drafts, and seeking buy-in and input are directly applicable to surviving and thriving in code reviews. 
+      I worked in online content in varying capacities for more than a decade before I made the shift to software engineering. While my ability to communicate verbally and in writing were early helpers as I completed this transition, the lessons I learned from editorial life were also surprisingly helpful. It turned out that years of workshopping stories, trading edits, laboring over drafts, and seeking buy-in and input are directly applicable to surviving and thriving in code reviews.
 
   - title: 'Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving'
     lang: en
@@ -146,7 +145,7 @@ talks:
         github: fboxwala
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/V4yX_O51jrU
     description: |-
       Docker has become an extremely popular tool in the tech industry. Docker containers can be found playing a hugely important role in the infrastructure of companies from the tiniest startup to the giantest of the giants. Despite it’s ubiquity, much of the inner-workings of Docker remain shrouded in mystery for developers, even for some people that work with the application regularly. And a lot of the times, the only way to figure out what’s going on is by experimenting and testing yourself. One particularly confusing aspect of Docker, and linux containers in general, is how exactly the networking inside the container works. In my talk: Notworking with a Whale: A Tale of Dockers, Networks, and Problem Solving, I will be giving a short but practical introduction to networking inside Docker and linux containers. The audience will first be introduced to the idea of network namespaces inside linux systems, and how these apply to containers and Docker. They will then be exposed to tools that can be used to interact with and troubleshoot networking issues inside a container. I will introduce these tools by sharing my own, very frustrating, experience with networking and Docker, in a problem-strategy-solution narrative. My talk will present information that will teach listeners information about linux containers, and offer some personal strategies and tools that have worked well for me.
@@ -162,7 +161,7 @@ talks:
         github: rudi-c
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/jIR0Ngov7vo
     description: |-
       With the rise of cloud applications, more and more software is becoming collaborative. That is, multiple people can be viewing and editing the same document or information at the same time. This can lead to tricky issues figuring out what the end result should be when two users simultaneously do conflicting operations (e.g. in Google Docs, two users typing in the same place). The conflict-resolution algorithms so solve these problems are increasingly important, but selfdom mentioned in any curriculum. This talk will present a newer approach to build a collaborative text editor easier to understand than common techniques found on the Internet. The technique will be presented one small layer of complexity at the time, such that at every step, the audience can get an intuition for the nature of the solution and be easily be convinced that it works. I’ll also make sure to un-dry the technical aspects talk by using humor and analogies to kiwis and water buffalos.
@@ -178,7 +177,7 @@ talks:
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/vPNG_z1NH6o
     description: |-
       I often used to feel that if we only had more time for testing, we’d find all the bugs and everything would be awesome. But the longer I’ve been working on software projects, the more times I’ve seen that this might not be true. Most of the escaped defects in my recent memory were hiding in the areas I didn’t even know to ask about, in the small differences between our test and production environments, and in the things we depend on but don’t have full control over. So lately, while I will always value doing good testing, it doesn’t feel as useful to spend a lot of time striving for truly excellent coverage. Instead, I prefer to invest in planning for phased roll outs, and gaining confidence in our ability to quickly detect and resolve problems in production. I’d like to share a few stories about defects I missed that I wouldn’t have found with all the time in the world, and about times I have been saved by solid monitoring and roll-back strategies.
@@ -210,7 +209,7 @@ talks:
         github: hyfen
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/hlx5e9kWgXU
     description: |-
       Once upon a time, a “computer” was literally a large room filled with hundreds of workers hunched over desks doing math. Almost a century later, we’ve arrived at the internet but what we have now was by no means inevitable.
@@ -238,14 +237,14 @@ talks:
     room:
     authors:
       - name: Tim McLean
-        twitter: 
+        twitter:
         github: timmclean
         website:
     slides:
     videos:
       - https://youtu.be/GpnoLCA9zd4
     description: |-
-      It’s well-known that cryptography code is hard to get right. Small mistakes often have disproportionately large consequences, like handing an attacker your encryption keys.One key category of pitfalls that cryptography engineers face are timing leaks. When a program runs on a computer, it subtly but measurably interferes with the performance of other processes. Cryptography code must ensure that these interference patterns do not reveal sensitive information to attackers.  
+      It’s well-known that cryptography code is hard to get right. Small mistakes often have disproportionately large consequences, like handing an attacker your encryption keys.One key category of pitfalls that cryptography engineers face are timing leaks. When a program runs on a computer, it subtly but measurably interferes with the performance of other processes. Cryptography code must ensure that these interference patterns do not reveal sensitive information to attackers.
 
   - title: Undoing the Chatbot
     lang: en
@@ -261,7 +260,7 @@ talks:
     videos:
       - https://youtu.be/SxWyj7RGDbQ
     description: |-
-      In this talk, we’ll be taking a look at the history and present of chatbots and digital personal assistants in English-speaking North America from a technological and social perspective. Whether we’re looking at virtual assistant bots, Facebook Messenger bots, or Slackbots, what do we expect from our bots, and why? What else can we imagine for and with our bots? 
+      In this talk, we’ll be taking a look at the history and present of chatbots and digital personal assistants in English-speaking North America from a technological and social perspective. Whether we’re looking at virtual assistant bots, Facebook Messenger bots, or Slackbots, what do we expect from our bots, and why? What else can we imagine for and with our bots?
 
   - title: Introduction to Software Defined Radios
     lang: en
@@ -341,7 +340,7 @@ talks:
     videos:
       - https://youtu.be/eHRpCXo0mi0
     description: |-
-      Cryptocurrencies such as Bitcoin, Ethereum, and others have recently become (in)famous in the news. In my talk, “Imagining a world with Ethereum”, I will explore Ethereum’s fundamentals by contrasting it with Bitcoin. Then I will show why this technology is powerful and what projects have been established in this space. I’ll discuss their impact and lessons learned (especially surrounding hacks and governance), and explore what comes next. Ultimately, I will show you that we need everyone to understand and be involved in cryptocurrency to build a financial system 2.0 (or else someone else will build it for us)!   
+      Cryptocurrencies such as Bitcoin, Ethereum, and others have recently become (in)famous in the news. In my talk, “Imagining a world with Ethereum”, I will explore Ethereum’s fundamentals by contrasting it with Bitcoin. Then I will show why this technology is powerful and what projects have been established in this space. I’ll discuss their impact and lessons learned (especially surrounding hacks and governance), and explore what comes next. Ultimately, I will show you that we need everyone to understand and be involved in cryptocurrency to build a financial system 2.0 (or else someone else will build it for us)!
 
   - title: How Rust Makes Advanced Type Systems  Accessible to the Masses
     lang: en
@@ -373,7 +372,7 @@ talks:
     videos:
       - https://youtu.be/nZ--FSzz5dI
     description: |-
-      Text editors do a lot more than just edit characters in a buffer. Whether you use vim, emacs, submile text, atom, or something else, you probably configured your editor to highlight syntax, provide auto-completions, jump to defintions, and maybe even evaluate code. These plugins often spawn processes that evaluate code alongside your editor, and sometimes they even make and receive network connections. What if you could hack them? In my talk, I’ll describe a vulnerability in the Vim plugin for the Elixir programming language and show an exploit I wrote that allows any website to execute code on your computer if you browse it while editing an Elixir file. 
-      
-      
-      
+      Text editors do a lot more than just edit characters in a buffer. Whether you use vim, emacs, submile text, atom, or something else, you probably configured your editor to highlight syntax, provide auto-completions, jump to defintions, and maybe even evaluate code. These plugins often spawn processes that evaluate code alongside your editor, and sometimes they even make and receive network connections. What if you could hack them? In my talk, I’ll describe a vulnerability in the Vim plugin for the Elixir programming language and show an exploit I wrote that allows any website to execute code on your computer if you browse it while editing an Elixir file.
+
+
+

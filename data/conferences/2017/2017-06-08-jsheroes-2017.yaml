@@ -18,7 +18,8 @@
     country: Romania
     city: Cluj
   description: |-
-  
+    JSHeroes is an Open-Source Community Event, created by and for the JavaScript Community.
+
 talks:
 
   - title: Unleash the power of Angular Reactive Forms

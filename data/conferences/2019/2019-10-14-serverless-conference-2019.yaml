@@ -1,5 +1,5 @@
 conference:
-    
+
   name: Serverless Architecture Conference 2019
   status: complete
   series: serverless-architecture.io
@@ -18,6 +18,8 @@ conference:
     country: Germany
     city: Berlin
   description: |-
+    Join Serverless Architecture Conference in Berlin and gain key knowledge and skills for this new era of computing
+
 talks:
 
   - title: The Serverless First Mindset

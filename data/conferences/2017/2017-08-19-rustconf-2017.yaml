@@ -1,5 +1,5 @@
 conference:
-    
+
   name: RustConf 2017
   status: complete
   series: rustconf.com
@@ -18,6 +18,7 @@ conference:
     country: United States
     city: Portland, OR
   description: |-
+    RustConf is a gathering of both Rust's established community and its newcomers. We're excited to all get to spend time together, deep-diving into all things Rust.
 
 talks:
 
@@ -127,7 +128,7 @@ talks:
         twitter: isislovecruft
         github:
         website:
-      - name: Henry De Valence 
+      - name: Henry De Valence
         twitter: hdevalence
         github:
         website:

@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: JS Kongress 2019
   status: complete
   series: js-kongress.com
@@ -18,10 +18,12 @@
     country: Germany
     city: Munich
   description: |-
+    (R)evolution of Architectures - we will dig deeper into the role of JavaScript as a driving force for modern software and cloud architectures
+
 talks:
 
   - title: "Opening Keynote | Everything’s a plugin: Understanding webpack from the inside out"
-    lang: en 
+    lang: en
     type: regular
     time: 2019-03-11
     room: The Alte Kongresshalle (Old Congress Hall)

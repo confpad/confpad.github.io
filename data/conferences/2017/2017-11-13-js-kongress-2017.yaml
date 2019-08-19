@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: JS Kongress 2017
   status: complete
   series: js-kongress.de
@@ -18,6 +18,7 @@
     country: Germany
     city: Munich
   description: |-
+    Int. JavaScript Kongress about the Future of JavaScript. Topics: PWA, Angular, React, Architecture, Node, Performance
 
 talks:
 
@@ -67,7 +68,7 @@ talks:
       - https://youtu.be/Eh54j-hFbQg
     description: |-
       API development is a common challenge for many teams and companies. In a world of micro-services, multiple backends and ever more demanding front-ends, building the right set of APIs becomes more important. How can a single API support a diverse set of clients, different data access patterns, and multiple SLAs? Backend for Frontend (BFF) is a pattern that has emerged to solve some of these challenges and help software engineers build better-focused APIs that can cater to different user experiences. This is achieved by actually building one backend for every frontend client. In this talk, I want to discuss and present some of the experience and the challenges me and my team ran into while building API services for all our frontends at IFTTT.
-  
+
   - title: Reactive Brain Waves
     lang: en
     type: regular
@@ -338,4 +339,4 @@ talks:
     videos:
       - https://youtu.be/xCBWS8G5Cm0
     description: |-
-      The browser needs to get faster. The first browser was created almost 30 years ago. Since then, the browser has moved from its past as a simple document viewer towards a future as a fully-featured application platform. But those applications are testing the limits of current browsers, especially on devices like smartphones. To support those applications, browsers need to adapt to modern hardware… they need to go parallel. In this talk, Lin explains how the browser works today. She’ll share what browser vendors need to do over the next few years to ensure their browsers (and the web itself) meet the upcoming demands. 
+      The browser needs to get faster. The first browser was created almost 30 years ago. Since then, the browser has moved from its past as a simple document viewer towards a future as a fully-featured application platform. But those applications are testing the limits of current browsers, especially on devices like smartphones. To support those applications, browsers need to adapt to modern hardware… they need to go parallel. In this talk, Lin explains how the browser works today. She’ll share what browser vendors need to do over the next few years to ensure their browsers (and the web itself) meet the upcoming demands.

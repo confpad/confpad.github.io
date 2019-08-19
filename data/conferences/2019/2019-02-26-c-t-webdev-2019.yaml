@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: c't webdev 2019
   status: incomplete
   series: ctwebdev.de
@@ -15,8 +15,9 @@
     from: 2019-02-06
     to: 2019-02-07
   location:
-    country: Germany 
+    country: Germany
     city: Cologne
   description: |-
+    Die Konferenz zeigt in Vorträgen und Workshops, wie man Web-Frontends und andere Bedienoberflächen baut.
 
 talks:

@@ -18,6 +18,8 @@ conference:
     country: United States
     city: Washington DC
   description: |-
+    The Mid-Atlantic's JavaScript and full web stack conference series!
+
 talks:
 
   - title: "Futurist Code Bases: Integrating JS of the FutureToday"
@@ -42,7 +44,7 @@ talks:
     time: 2019-05-10
     room: The Burke Theater (US Navy Memorial - Naval Heritage Center)
     authors:
-      - name: Chiedo 
+      - name: Chiedo
         twitter: chiedo
         github:
         website: https://labs.chiedo.com/
@@ -50,7 +52,7 @@ talks:
     videos:
       - https://youtu.be/QKe0GWDtUsI
     description: |-
-      Marketing folk almost always insist that we build in WordPress. And it’s great for informational sites. But we refuse to build custom web apps upon the WordPress ecosystem. But sometimes we’re asked to and we can at least appear to comply… Thus we launched a Hybrid experiment. An attempt to build React apps that seamlessly blended together and worked along side WordPress. Ultimately, so we could use WordPress to grant the marketing teams access to the WordPress plugin Ecosystem, Blog functionality, and Page builders, while allowing us to build everything else in React. 
+      Marketing folk almost always insist that we build in WordPress. And it’s great for informational sites. But we refuse to build custom web apps upon the WordPress ecosystem. But sometimes we’re asked to and we can at least appear to comply… Thus we launched a Hybrid experiment. An attempt to build React apps that seamlessly blended together and worked along side WordPress. Ultimately, so we could use WordPress to grant the marketing teams access to the WordPress plugin Ecosystem, Blog functionality, and Page builders, while allowing us to build everything else in React.
 
   - title: I Don't Hate JavaScript Anymore
     lang: en
@@ -74,7 +76,7 @@ talks:
     time: 2019-05-10
     room: The Burke Theater (US Navy Memorial - Naval Heritage Center)
     authors:
-      - name:  Vitalii Bobrov 
+      - name:  Vitalii Bobrov
         twitter:
         github:
         website: https://bobrov.dev/
@@ -82,7 +84,7 @@ talks:
     videos:
       - https://youtu.be/Hn8CvYKEm3E
     description: |-
-      Take your old scratched Les Paul or Stratocaster from the case and fill all the space around with warm riffs. I’m going to show how to transform the code into Kirk Hammett’s wah-wah, Stevie Ray Vaughan’s overdrive and Kurt Cobain’s distortion. You’ll learn how to parse audio input in real-time using JavaScript and the Web Audio API. I’ll be jamming live on stage with my guitar to demo every code example, and we’ll also use WebRTC to jam with friends across the world! After this talk, you will be familiar with the principles behind pedal sound effects and how to create them in code. Let’s rock the Web 🤘! 
+      Take your old scratched Les Paul or Stratocaster from the case and fill all the space around with warm riffs. I’m going to show how to transform the code into Kirk Hammett’s wah-wah, Stevie Ray Vaughan’s overdrive and Kurt Cobain’s distortion. You’ll learn how to parse audio input in real-time using JavaScript and the Web Audio API. I’ll be jamming live on stage with my guitar to demo every code example, and we’ll also use WebRTC to jam with friends across the world! After this talk, you will be familiar with the principles behind pedal sound effects and how to create them in code. Let’s rock the Web 🤘!
 
   - title: Authentication for the REST of us
     lang: en
@@ -98,7 +100,7 @@ talks:
     videos:
       - https://youtu.be/7BDbrfh5pqo
     description: |-
-      Auth is a a daunting concept to grok, especially for the uninitiated. In addition to the many authentication strategies to choose from, there are also many cloud based authentication services available. Deciding the best authentication strategy for your application can be an incredibly overwhelming decision. In this session, we journey through the steps of securing a web application by taking a bare bones web application and progressively adding authentication to it. In the process of adding authentication, we will demystify the wonderful world of web authentication to take our web security skills to the next level! In addition to covering a real world example, I will be covering simple tools and techniques you can use to start integrating authentication into applications without the stress. 
+      Auth is a a daunting concept to grok, especially for the uninitiated. In addition to the many authentication strategies to choose from, there are also many cloud based authentication services available. Deciding the best authentication strategy for your application can be an incredibly overwhelming decision. In this session, we journey through the steps of securing a web application by taking a bare bones web application and progressively adding authentication to it. In the process of adding authentication, we will demystify the wonderful world of web authentication to take our web security skills to the next level! In addition to covering a real world example, I will be covering simple tools and techniques you can use to start integrating authentication into applications without the stress.
 
   - title: Controlling a swarm of drones with JavaScript
     lang: en
@@ -114,7 +116,7 @@ talks:
     videos:
       - https://youtu.be/gFavIbhC7QQ
     description: |-
-      We’re pretty used to drones flying around us by now. Until now most of these drones were still controlled by a human operator. But what if we could control them solely using our code? In this talk I will show how to control multiple drones using JavaScript. With the help of Node.js we’ll send commands to the drones and read back their telemetry. I will talk about the difficulties of flying and keeping control of a drone completely without human interference. In the second part we will actually send the drones flying and I’ll ask two audience members to participate in a small ‘drone’ game. 
+      We’re pretty used to drones flying around us by now. Until now most of these drones were still controlled by a human operator. But what if we could control them solely using our code? In this talk I will show how to control multiple drones using JavaScript. With the help of Node.js we’ll send commands to the drones and read back their telemetry. I will talk about the difficulties of flying and keeping control of a drone completely without human interference. In the second part we will actually send the drones flying and I’ll ask two audience members to participate in a small ‘drone’ game.
 
   - title: "Building Bridges, Not Walls: An Approach to Accessibility"
     lang: en
@@ -148,7 +150,7 @@ talks:
     description: |-
       Have you considered using TypeScript but can’t bring yourself to take the plunge? Are you worried that the cost will outweigh the benefits? As someone who has gone all in on TypeScript I’ll detail my journey from TypeScript skeptic to TypeScript fanboy using examples from real world usage at NPR. Tommy O'Keefe is a full stack developer at NPR, formerly a full stack developer at Atlantic Media Strategies, the digital consultancy of The Atlantic magazine. Currently he is writing a lot of TypeScript for voice platforms like Amazon Alexa and Google Assistant. Tommy thinks of himself as a “life long learner” and is always looking for connections between the world of technology and other fields of study. When he isn’t writing code, he can often be found hanging out with his family, riding his bicycle, or reading a book and drinking good coffee.
 
-  - title: Be a Jedi developer. Become one with the Source, and the Source will guide you. 
+  - title: Be a Jedi developer. Become one with the Source, and the Source will guide you.
     lang: en
     type: regular
     time: 2019-05-10
