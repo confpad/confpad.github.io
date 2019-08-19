@@ -81,7 +81,7 @@ talks:
     slides:
       - https://www.slideshare.net/IlonaDemidenko/conversational-sign-up-with-chatbotlike-experience-with-react-and-redux?fbclid=IwAR2H7oarLjC0_BiGj5KLtYQ45Rh_d3yWhDLmog7ng7dHw4dq2-1rjJqPL3k
     videos:
-      - https://youtu.be/06oBhxzQpj8only
+      - https://youtu.be/06oBhxzQpj8
     description:
 
   - title: "Write better React with ReasonML"
