@@ -1,7 +1,7 @@
 conference:
 
   name: <React.NotAConf /> 2019
-  status: incomplete
+  status: complete
   series: react-not-a-conf.com
   tags:
     - javascript
@@ -12,21 +12,20 @@ conference:
     videos: https://www.youtube.com/playlist?list=PLOEJ0eNOcZeosJfuT0dRcRWvNz4pru7SD
     website: http://react-not-a-conf.com
   date:
-    from: 2018-05-11
-    to: 2018-05-11
+    from: 2019-05-11
+    to: 2019-05-11
   location:
     country: Bulgaria
     city: Sofia
   description: |-
     <React.NotAConf /> is an initiative brought to live by <React.Sofia /> meetup - a community of 700+ React enthusiasts. ⚛️ In 2018, we successfully shipped the first edition of the conference. 🚀 In 2019 we are planning something even better. 🤩
-
 talks:
 
   - title: Opening
     lang: en
     type: regular
     time: 2019-05-11
-    room:
+    room: Sofia Hall
     authors:
       - name: "Janet Todorova"
         twitter: janettodorova
@@ -34,125 +33,142 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/yCB0rJ3F5Co
     description:
 
   - title: "The evolution of React APIs"
     lang: en
     type: regular
     time: 2019-05-11
-    room:
+    room: Sofia Hall
     authors:
       - name: "Mihail Mikov"
         twitter: debelbot
         github: debel
         website:
     slides:
+      - https://debel.github.io/react-evolution/
     videos:
+      - https://youtu.be/3ctNyxoDNsc
     description:
 
   - title: "An SVG’s Tale"
     lang: en
     type: regular
     time: 2019-05-11
-    room:
+    room: Sofia Hall
     authors:
       - name: "Elizabet Oliveira"
         twitter: miuki_miu
         github: miukimiu
         website:
     slides:
+      - https://docs.google.com/presentation/d/1kPlu6nIYiR-aGPG5DJP9dE9qg1u0wxi6JxQ3sp3oYd4/edit?fbclid=IwAR2fmFHb2mP06j9DMToJ0B1tqhngdWuvrWZt_WTLfS3H6PBNUsOco5Oept8
     videos:
+      - https://youtu.be/vMHHsREvAiE
     description:
 
   - title: "Conversational sign up with chatbot-like experience with React and Redux"
     lang: en
     type: regular
     time: 2019-05-11
-    room:
+    room: Sofia Hall
     authors:
       - name: "Ilona Demidenko"
         twitter: ilonacodes
         github: ilonacodes
         website:
     slides:
+      - https://www.slideshare.net/IlonaDemidenko/conversational-sign-up-with-chatbotlike-experience-with-react-and-redux?fbclid=IwAR2H7oarLjC0_BiGj5KLtYQ45Rh_d3yWhDLmog7ng7dHw4dq2-1rjJqPL3k
     videos:
+      - https://youtu.be/06oBhxzQpj8only
     description:
 
   - title: "Write better React with ReasonML"
     lang: en
     type: regular
     time: 2019-05-11
-    room:
+    room: Sofia Hall
     authors:
       - name: "David Kopal"
         twitter: coding_lawyer
         github: codinglawyer
         website:
     slides:
+      - https://speakerdeck.com/codinglawyer/write-better-react-v3-reasonreact
     videos:
+      - https://youtu.be/pS1YSew89Gg
     description:
 
   - title: "How not to hate your life when dealing with forms"
     lang: en
     type: regular
     time: 2019-05-11
-    room:
+    room: Sofia Hall
     authors:
       - name: "Radoslav Stankov"
         twitter: rstankov
         github: rstankov
         website: "http://rstankov.com"
     slides:
+      - https://speakerdeck.com/rstankov/how-not-to-hate-your-life-when-dealing-with-forms
     videos:
+      - https://youtu.be/kIi9OV338c4
     description:
 
   - title: "Serverless - a backend thing that gives superpowers to frontend developers"
     lang: en
     type: regular
     time: 2019-05-11
-    room:
+    room: Sofia Hall
     authors:
       - name: "Slobodan Stojanović"
         twitter: slobodan_
         github: stojanovic
         website:
     slides:
+      - https://speakerdeck.com/slobodan/2d70d0cd-66b9-4363-8ad5-5518bae4bcf6
     videos:
+      - https://youtu.be/zgCiii0wWE8
     description:
 
   - title: "Building resilient frontend architecture"
     lang: en
     type: regular
     time: 2019-05-11
-    room:
+    room: Sofia Hall
     authors:
       - name: "Monica Lent"
         twitter: monicalent
         github: mlent
         website:
     slides:
+      - https://monicalent.com/building-resilient-frontend-architecture.pdf
     videos:
+      - https://youtu.be/W3HQII-l8Tk
     description:
 
   - title: "Architecting React plugins"
     lang: en
     type: regular
     time: 2019-05-11
-    room:
+    room: Sofia Hall
     authors:
       - name: "Martin Chaov"
         twitter:
         github: mchaov
         website:
     slides:
+      - https://github.com/mchaov/plugins-with-typescript-mobx-and-react
     videos:
+      - https://youtu.be/hNDsPrYE_CE
     description:
 
   - title: "Nadcast Panel"
     lang: en
     type: regular
     time: 2019-05-11
-    room:
+    room: Sofia Hall
     authors:
       - name: "Krasimir Tsonev"
         twitter: KrasimirTsonev
@@ -160,5 +176,5 @@ talks:
         website: "http://krasimirtsonev.com"
     slides:
     videos:
+      - https://youtu.be/iUzIiT9tdUU
     description:
-
