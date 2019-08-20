@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: Android Makers 2018
-  status: incomplete
+  status: complete
   series: androidmakers.fr
   tags:
     - android
@@ -18,6 +18,1195 @@
     country: France
     city: Paris
   description: |-
-    Android Makers Paris, the biggest Android event in France. Android Makers brings in Paris the world class experts in Android for 2 days of sessions, workshops and showcases.
+    Join us in tackling the future of Android with the hottest experts of the domain.There'll be technical sessions, workshops, debates, networking, plus a chance to demo your project in the Makers Area.The 2nd edition of Android Makers gathers 4 events in 1.
 
 talks:
+
+  - title: 'Keynote: Modern Android Development'
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Romain Guy
+        twitter: romainguy
+        github:
+        website:
+      - name: Chet Haase
+        twitter: chethaase
+        github:
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/8GFLCL0u1lw
+    description: |-
+      The last couple of years have seen a plethora of new features and patterns for Android developers. But how do developers know when to use existing APIs and features vs. new ones? This session will help developers understand how they all work together and learn what they should use to build solid, modern Android applications.
+
+  - title: ConstraintLayout 2.0
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Nicolas Roard
+        twitter: h2net_software
+        github:
+        website:
+      - name: John Hoford
+        twitter: johnhoford
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/W39H7972buY
+    description: |-
+      ConstraintLayout 1.0, announced at Google IO'16, is now widely used by application developers to create user interfaces. We have been working on the next version of the library, which adds more advanced concepts to create and organize your UI.This talk will include examples and demonstrations on how best to take advantage of those new capabilities and concepts, how to fine tune layouts to get the best performance, as well as presenting some of the new ConstraintLayout tooling available in Android Studio 3.2.
+
+  - title: Lifecycle, LiveData, ViewModels - The inner wiring
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Florina Muntenescu
+        twitter: FMuntenescu
+        github: florina-muntenescu
+        website:
+    slides:
+    videos:
+      - https://youtu.be/U6Lgym1XEBI
+    description: |-
+      Android Architecture Components is a set of libraries for designing great apps. It contains APIs for implementing concepts like Lifecycle and ViewModel.Whilst these APIs are great, they do come with some questions:• How do Lifecycle, LiveData and ViewModels work under the hood? How and where should each of them be used?• What is the difference between a ViewModel from Architecture Components and the one from the MVVM pattern?• Lifecycle components exist for Activities, Fragments and Application. Why don’t we have the same for Views?• Can we have ViewModels for Views also?s LiveData a replacement for RxJava? Can they live side by side?How does LiveData work with DataBinding?
+
+  - title: Check your app's vitals
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Wojtek Kaliciński
+        twitter: wkalic
+        github: wojtek-kalicinski
+        website:
+    slides:
+    videos:
+      - https://youtu.be/7BegrYHwwYY
+    description: |-
+      There are four primary vital signs: body temperature, blood pressure, pulse (heart rate), and breathing rate (respiratory rate).Can we identify basic signals that would show us the health of an Android app? How about checking for common problems, such as battery drain, jank, crash rate and excessive network usage?Of course, no amount of local testing under laboratory conditions can identify these problems reliably, not with a limited number of devices and users. That's why it's better to check vitals on a living organism, or in this case, an app that is released to users. Open Android Vitals on the Google Play Console to find out about real issues that real users are encountering in the wild.Requiring no special instrumentation from your side, you will get detailed alerts about stuck wakelocks, wrong wakeup and network usage patterns and many more known bad behaviors.But diagnosing the problems is just half of the solution. During this session I will show tools and techniques on how to deal with the issues using tools that we have at our disposal, such as Android Profilers, Systrace, Strict mode, Battery Historian and more.
+
+  - title: Creating Layouts doesn’t have to be painful
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Vadim Caen
+        twitter: vadimcaen
+        github: vcaen
+        website:
+      - name: Jerome Gaillard
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/XGCFhtI6G4U
+    description: |-
+      Nowadays, Android app design needs are more and more complex: shadows, animations, illustrations, dynamic content. Building layouts that incorporate all those features can be time consuming and, made the wrong way, they will have a significant negative impact on the overall app performance.In this talk we are going to go through building a layout from scratch in Android Studio, demonstrating how developers can take advantage of the latest features to make the whole process as efficient as possible.Along the way we will highlight some of the best practices and show how to avoid common pitfalls in order to create complex yet lightweight layouts.
+
+  - title: 'Typesetting: designing and building beautiful text layouts'
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Nick Butcher
+        twitter: crafty
+        github: nickbutcher
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ccEMHdTc0ZM
+    description: |-
+     The design and usability of an app can be heavily influenced by one of the most common UI elements: TextViews. From font selection and pairing, type size, scale and alignment to line breaking… there’s a lot to consider when displaying text. There are many best practices from print and the web that we can learn from. This talk covers the design principles behind producing balanced, legible text layouts and how to implement them on Android.
+
+  - title: Migrating from installed to instant app, a retrospective
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Ben Weiss
+        twitter: keyboardsurfer
+        github: keyboardsurfer
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Z6Qn8OO3R9s
+    description: |-
+      This session doesn’t cover anything of the above, but will show my approach when migrating the Topeka sample to an instant app with multiple, independent feature modules and what I learned. Topeka is a non-trivial sample application with custom sign in, animations, transitions and several Activities and Fragments.I’ll talk about the steps I took and explain the rationale behind them. This will enable you to experiment with Android Instant Apps until you feel your instant app is ready for deployment to production. If you're experimenting with instant apps, you'll have enough to get started and to make a demo for your team. If you're committed to making an instant app, you'll learn how to reduce friction during the refactoring while still maintaining a cod
+
+  - title: Bootstrapping multiplatform development and Android Wear
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Hoi Lam
+        twitter: hoitab
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/u70oRndjpWo
+    description: |-
+      We will kick off with an update from the Android Wear team post Baselworld (the watch world's leading trade show) and talk about some of the practical challenges (and solutions!) to bootstrap multiplatform development.  
+
+  - title: Android Gradle Plugin internals
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Ivan Gavrilovic
+        twitter: gavra0
+        github: gavra0
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_FhjPOMXPmk
+    description: |-
+      You are probably using Gradle and the Android Gradle plugin every day to build your Android apps. Ever wondered how this is implemented? Interested in extending the Gradle build system with Plugins that would play well with the Android Gradle Plugin, this talk will give you hints on how to proceed.Second part of the talk will focus on the future extensions points that we are in the process of implementing. These extensions points will allow anyone to hook into the Android build process in a non intrusive and incremental way.
+
+  - title: Gradle in Android Studio 3.2 and beyond
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Bradley Smith
+        twitter:
+        github:
+        website:
+      - name: Lucas Smaira
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Ukiiv-zhOoQ
+    description: |-
+      Android Studio is a build system-centric IDE, where Gradle is the source of truth. This decision was made when we started Android Studio back in 2013, with the following benefits in mind:1. IDE configuration files (IML files) are generated when syncing a project with Gradle. Developers no longer have to manually edit IML files.2. By delegating builds to Gradle, build output will be the same regardless of where the build is executed: IDE, command line or CI server.
+
+  - title: Who’s afraid of Machine Learning? First steps with TensorFlow for Android.
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Britt Barak
+        twitter: brittbarak
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/8YDt2J7dHXA
+    description: |-
+      Although it is buzzing nowadays, machine learning is still a mystery to many of us. However, worry not! Making your app smarter has just become easier with the new TensorFlow for Android. On this talk, we’ll get to know some basic ML concepts to clear the air around the topic, and learn how to create our first machine learning Android app with TensorFlow!
+
+  - title: ADB, Break On Through To the Other Side
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Eyal Lezmy
+        twitter: Eyal_Lezmy
+        github: eyal-lezmy
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3yW_uX25XD8
+    description: |-
+      ADB is maybe one of the most used tools by the Android developers. But it is for sure the less known. If you ever wondered how ADB is working? Why is it faster now? How Android Studio is using it under the hood? Why my ADB server is killed sometimes? And by the way, what this server is about? This talk is made for you.I spent several weeks diving into the ADB source code and I learned interesting things about this project, its history, the internals, the interaction with the developers tools, ... It's time for me to share this with you.Here is an outline of the presentation:How ADB works (the big picture)Some ADB commands you maybe never heard aboutThe history of the projectThe ADB Internals (the ADB protocols, the structure of the software)How development tools are using ADB?
+
+  - title: 'Party like it,s 1970: Conversational interfaces are back (into your Android app)'
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Adrián Catalan
+        twitter: ykro
+        github: ykro
+        website:
+      - name: Carmen Lucía González Peralta
+        twitter: caluuuux
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      Behold the promise land of AI. Machine learning has brought natural language processing right into our backyards and with it, the possibilities of different ways of interaction, such as conversations. But the challenges have evolved, as recognizing the input can be done via an API (like DialogFlow), we also need to consider the interface and how to give an experience so natural that it seem like a human conversation. “Oh hi, how are you holding up? because I'm a potato” it's not longer enough, we need conversationally-enabled Android apps built with a different set of design concepts. In this talk we'll review examples of conversational interfaces, benefits of having one on your app, and the core principles for the design process of conversational experiences.
+
+  - title: Kotlin DSLs
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Wolfram Rittmeyer
+        twitter: RittmeyerW
+        github: writtmeyer
+        website:
+    slides:
+    videos:
+      - https://youtu.be/gFP5PMEj_tA
+    description: |-
+      Kotlin is not just about null safety or data classes. Kotlin has much more to offer. One of the nice things is the ability to use Kotlin's features to create domain specific languages (DSLs).In this talk you will see samples of DSLs you can use in your Android projects and learn how they work.Kotlin DSLs are actually made of many simple Kotlin features - some of which you surely already use, some of which are a bit more obscure. But combined together they give us a powerful way to create nice DSLs.
+
+  - title: Tools of the Trade
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Ty Smith
+        twitter: tsmith
+        github: tyvsmith
+        website:
+    slides:
+    videos:
+      - https://youtu.be/OXnVONS00_k
+    description: |-
+      With all the great resources and libraries available, building a new mobile app is easier than it’s ever been! But when your users come to expect your product to be as reliable as running water at a global scale, you’ll need to go above and beyond what’s currently available.Join Ty as he walks down memory lane to cover the history of the Uber app development process. He’ll cover how it grew, the pain points discovered and lessons learned, and the tooling developed and open-sourced to scale to millions of users served by hundreds of contributors across many apps.Topics covered will include: Buck, Uber’s architecture solution, RIBs, Proper Experimentation, Continuous integration, Code Verification and Static Analysis, and the company processes needed to facilitate a large app.
+
+  - title: Adding conversational features to your mobile app
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Elaine Dias Batista
+        twitter: elainedbatista
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      The Google Assistant - your own Google, always ready to help - and its developer platform have been out for more than a year.Besides controlling your music, lights and asking about the weather, Assistant apps have been struggling to get into the users' daily routine. It is time for you to be on the forefront of the revolution by adding some conversational features in your mobile app.In this talk, we're going to explain how you can implement a custom conversational feature in your existing Android or iOS app. Today, mobile apps are the medium people use to get their information and get things done, and is the perfect way of getting them used to this new world of conversational apps.In this talk, we're going to explain how you can implement a custom conversational feature in your existing Android or iOS app. Today, mobile apps are the medium people use to get their information and get things done, and is the perfect way of getting them used to this new world of conversational apps.
+
+  - title: Up close and personal with Nearby
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Hugo Visser
+        twitter: botteaap
+        github: hvisser
+        website:
+    slides:
+    videos:
+      - https://youtu.be/5kL5MLaRVg0
+    description: |-
+      In this talk we'll go over the three components of Nearby: Notifications, Messages and Connections, their characteristics and related tools. We’ll of course take a look at the recently updated APIs that make Nearby tick. You'll learn what the different Nearby features are and how you can use them in your apps. There will be plenty of code samples and taunting of the demo gods to show you what Nearby has to offer.
+
+  - title: De la domotique faite-maison avec Android Things et le Google Assistant
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Gautier Mechling
+        twitter: Nilhcem
+        github: Nilhcem
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ZWZwTbmmg94
+    description: |-
+      La domotique, c'est aussi cool que c'est reuch. Mais l'avantage à être pauvre, c'est qu'on peut apprendre plein de choses en les faisant nous même.Comme si on allait dépenser plus de 100€ pour des ampoules compatibles Google Home alors que pour 10 fois moins cher on peut tout faire nous-même en achetant des objets sur des sites chinois pour les retro-engineerer et écrire du code Android Things et Actions on Google afin de pouvoir les contrôler à la voix.Tiens ben d'ailleurs c'est ce qu'on va faire, ça va nous permettre de découvrir Android Things, le Google Assistant, voir comment on peut hacker des objets made-in-china, et surtout, ça nous permettra d'économiser des billets violets.
+
+  - title: The big rewrite
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Jeroen Mols
+        twitter: molsjeroen
+        github: JeroenMols
+        website:
+    slides:
+    videos:
+      - https://youtu.be/k-utOwkCEfk
+    description: |-
+      Are you living the dream? An architecture so SOLID you could literally build your house on? Tests so fast you can't even sip your coffee before they finish? Code so clean it literally hurts your eyes?No? Then why don't you convince management to start over? Things will be different, you'll do things right.Truth be told, app rewrites seldom work out: estimates turn out to be overly optimistic, functionality a lot more complex and crucial details have been deeply buried in the legacy code. Result: pressure to ship increases and technical debt again piles up.Join this keynote to get a better understanding of the unique challenge of today's ever-growing, more and more complex apps. Learn how we can efficiently tackle legacy code bases and how to get back your developer happiness.
+
+  - title: Design Tools and Handoffs*
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Taylor Ling
+        twitter: taylorling
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_yIsiEiBk5s
+    description: |-
+      The talk is about all the tooling used by the speaker in designing UI and Interactions at Fabulous and how the handover happened between design and dev team to ensure best quality app implementation. It also talks about some of the common obstacles in efficient communication between designer and developer and how to address them for better communication.This is mainly aimed as a sharing to the developers on what/how a usual designer used for designing, and what are some of the tools that can help in better communication between designer and developer.
+
+  - title: Better asynchronous programming with Kotlin Coroutines
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Erik Hellman
+        twitter: ErikHellman
+        github: ErikHellman
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Bb4CVrf5al4
+    description: |-
+      Android application development is inherently asynchronous. Even the simplest Android application requires the developer to track asynchronous callbacks of the activity, often leading to the infamous callback hell. In this talk, we will have a look at the latest addition to the solutions for dealing with asynchronous programming on Android; Kotlin Coroutines. We'll learn about what coroutines are, how they differ from other models and how to use it with Kotlin on Android.
+
+  - title: Tips for Library Development (from a Startup Developer)
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Lisa Wray
+        twitter: lrwray
+        github: lisawray
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3fqbfTa76R8
+    description: |-
+      Are you ready to take a long shot and invest… in your code? As a veteran of both Google and two startups and counting, Lisa will share with you how to chase the dream of open source, fame, and fortune, no matter the size of your company.
+
+  - title: 'Themes, styles & more: from zero to hero'
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Cyril Mottier
+        twitter: cyrilmottier
+        github: cyrilmottier
+        website:
+    slides:
+    videos:
+      - https://youtu.be/q_LJG4VuU3Q
+    description: |-
+      Haven’t you ever wanted to globally change the appearance of your `EditText`s or the font face of all `TextView`s in your Android application? Themes and styles have always been at the heart of Android development when it comes to UI design. They have been around since API 1 after all and a lot of the Android features are built around them. But do you even know how themes and styles works? What is an attribute? And can you explain the difference between a style, a theme, a text appearance or a theme overlay?Haven’t you ever wanted to globally change the appearance of your `EditText`s or the font face of all `TextView`s in your Android application? Themes and styles have always been at the heart of Android development when it comes to UI design. They have been around since API 1 after all and a lot of the Android features are built around them. But do you even know how themes and styles works? What is an attribute? And can you explain the difference between a style, a theme, a text appearance or a theme overlay?If you have never heard of styles and themes or are not entirely sure you can answer the questions above, this presentation is made for you. This talk will dive deep into the Android styling and theming system. You will learn how to leverage it to customize your Android application, reduce duplication in your code and make your styles cleaner, more manageable and more reusable.
+
+  - title: Ghost in the Machine - Bridging VR and IoT
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Etienne Caron
+        twitter: kanawish
+        github: kanawish
+        website:
+    slides:
+    videos:
+      - https://youtu.be/aH28s7DPjK8
+    description: |-
+      In this session, we'll bridge the real and the virtual. We'll first see how to build a simple Android Things powered robot with off-the-shelf parts. Then we'll build a VR remote control app, using Google's Daydream SDK.Samples shown in this session are written in Kotlin. Some familiarity with OpenGL is helpful, but not required.
+
+  - title: 'Portable Material: Flutter physical models'
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Sebastiano Poggi
+        twitter: seebrock3r
+        github: rock3r
+        website:
+      - name: Eugenio Marletti
+        twitter: workingkills
+        github: Takhion
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ik1xpNT_ffQ
+    description: |-
+      One of the most interesting new technologies to reach the mainstream eye in 2017 is undoubtedly Flutter, a novel cross-platform framework from Google that targets Android, iOS and the oh-so-elusive Fuchsia OS.Whether you’ve heard of Flutter or not, you will be fascinated by the intriguing design that lurks under the Surface. We’ll dive in to how exactly your Flutter widgets get drawn on screen, from your code all the way down to Skia. Did you know that the UI toolkit in Flutter is based on physical models, and that Material is just one of those? Or that in Flutter the Material and Cupertino (iOS) toolkits share a common heritage in their roots?
+
+  - title: 'From ProGuard to R8: Take care of your bytecode'
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Qian Jin
+        twitter: bonbonking
+        github: jinqian
+        website:
+    slides:
+    videos:
+      - https://youtu.be/w3bOfxYNY8o
+    description: |-
+      En tant que développeur Android, vous avez probablement une relation amour-haine avec ProGuard. Il réduit, optimise et obscurcit le code, ce qui rend l'APK généré plus léger et plus difficile à la rétro-ingénierie ; Mais il peut également casser votre build si les règles ne sont pas appliquées correctement.Google travaille actuellement sur un remplaçant expérimental du ProGuard - R8, qui fonctionnera de manière transparente avec les règles ProGuard existantes.Activer ProGuard peut être une expérience obscure au début. Cette présentation vise à démystifier ProGuard et montrer les avantages de prendre soin de votre bytecode avec tels outils.
+
+  - title: The State of Representing State
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Christina Lee
+        twitter: RunChristinaRun
+        github: christinalee
+        website:
+    slides:
+    videos:
+      - https://youtu.be/YGmxbwI3a-4
+    description: |-
+      A core part of any app is the ability to know at any given time the set of conditions that make up its current operations. As developers, we need to know this for a variety of reasons, including because knowing this tells us whether we should be queuing any changes and gives us the ability to return the user to their current experience should the application display be interrupted. But despite it’s crucial nature, codifying the state of an application at any given point in time can often be messy and error prone work. In this talk, we’ll look at the reasons representing state can be problematic, and some practical ways to make it better.
+
+  - title: Android all the things!
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Marc Poppleton
+        twitter: marcpoppleton
+        github: marcpoppleton
+        website:
+    slides:
+    videos:
+      - https://youtu.be/pRlEaMfJGnM
+    description: |-
+      Want to build your own DIY smart house stuff but cannot handle a soldering iron without turning everything into a smoldering pile of ash?I've got you covered! All you need is a Raspberry Pi, a bunch of off-the-shelf sensors and some Kotlin code (and a bit of Javascript). I'll show you how I made my smart house system using Android Things, Firebase, an Android App and Actions for Google without setting anything on fire unintentionally.
+
+  - title: Frustration-free orientation changes
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Cketti
+        twitter: cketti
+        github: cketti
+        website:
+    slides:
+    videos:
+      - https://youtu.be/8bXdWQLJBmE
+    description: |-
+      Many apps do unexpected things when a user rotates the device. A message that has been painfully composed using the on-screen keyboard is just gone. Dialogs are disappearing. Data that took a while to load and display is gone and now the app is making the user wait again.All of this is very frustrating to users. But if you know that an Activity is destroyed and then recreated on orientation change, this is not too surprising to you. Still, many beginners don’t know what is going on behind the scenes and consequently come up with flawed or incomplete ways to deal with the lifetime of an Activity.If you have ever “fixed” a bug by changing your app’s manifest to manually handle orientation changes or by locking the device orientation, this talk is for you. It aims to give attendees a better understanding of the Activity lifetime/lifecycle. And we will look at the fundamental ways to deal with this situation. So you can write better apps.     
+
+  - title: Remote control your application
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Stan Kocken
+        twitter: stan_kocken
+        github: stankocken
+        website:
+    slides:
+    videos:
+      - https://youtu.be/AzdabAwoZHc
+    description: |-
+      How can you change something on your application without publishing an app update?Copy, feature activation, A/B test, screen style… Be ready to live-update your applications on demandThis talk is about:show all the area that can be remote-controlled, and the one you cannot explore few 3rd party services hints on how to build your own solution  
+
+  - title: Android Leaks at Android Makers take 2
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Benjamin Monjoie
+        twitter: Xzan
+        github: bmonjoie
+        website:
+    slides:
+    videos:
+      - https://youtu.be/QeCL4YHVEP8
+    description: |-
+      Android Leaks en live, ils reviennent, vous serez toujours aussi déçu ... ou pas ... ou peut-être bien que si !
+
+  - title: Recette d’un sdk (presque) parfait
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Djavan Bertrand
+        twitter: Djava7
+        github: djavan-bertrand
+        website:
+    slides:
+    videos:
+      - https://youtu.be/f9tcIs_ZYc8
+    description: |-
+      De plus en plus de développeurs mettent à disposition des bibliothèques Android, voire même des SDKs.Dans cette présentation nous évoquerons les points clés de la création d'un SDK, de sa genèse jusqu'à sa livraison et sa maintenance.Ayant travaillé bientôt 4 ans sur le SDK pour drones Parrot, je vous ferai un retour d'experience complet et évoquerai les actions que nous prenons pour l'améliorer.
+
+  - title: The bytecode gobbledygook
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Raimon Ràfols
+        twitter: rrafols
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/EzaIUiUnEMY
+    description: |-
+      One We know one of the main characteristics of Java is portability, and that usually means it is not as efficient as it should be. That might be the reason Java has never been associated with high performance, but nowadays there are a lot of Java powered devices in the world and lots of people are building applications for them.Compilers that produce native machine code do a great optimization job because they know where the code is going to be executed. But because of the portability feature, the Java Compiler could not assume anything about where our program is going to run and leaves all the optimizations to be done by the JVM while loading or, even, running our code. This has been the case until Google introduced Jack and Jill compilers, but now that has already deprecated them in favour of Java 8 tooling and introducing the new D8 compiler, will this assumption still be true? Also, with the recent addition of Kotlin, there is another language that generates bytecode. How will it perform compared with plain Java code?In this session, you will not only learn what to avoid when looking for critical performance, you’ll also get a bigger understanding of how the java compiler works
+
+  - title: Resources internals
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Mårten Kongstad
+        twitter: martenkongstad
+        github: amhk
+        website:
+      - name: Zoran Jovanovic
+        twitter: jovzoran
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/e6IdcbrI-Cs
+    description: |-
+      Has R.java ever made you wonder what exactly those strange number IDs mean? Do you want to know what powers the theming engines on your favorite devices and mods? In this talk you will learn from the creators of Runtime resource overlays exactly how resources are implemented in Android, how to use them most efficiently and further more how to replace them, split them and do just about anything with them using tools of OEMs and modders.
+
+  - title: 'The JPEG of 3D: Bringing 3D scenes and objects into your 2D Android app with glTF'
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Pierre-Antoine LaFayette
+        twitter: 03lafaye
+        github: 03lafaye
+        website:
+    slides:
+    videos:
+      - https://youtu.be/SF672uJn9lg
+    description: |-
+      Learn how we brought another new media type to Facebook with interactive 3D posts. glTF is a new standard transmission format for 3D from the Khronos group. It has a ton of momentum behind it with lots of industry support. In this talk, we'll discuss why we chose glTF for our 3D format and cover the technical details of how we made it possible to share and view your VR art from Oculus Medium and Facebook Spaces in Facebook for Android.3D posts were brought to you by the Social VR and 360 Media teams at Facebook.
+
+  - title: Vectorial Victories
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: François Blavoet
+        twitter: francoisblavoet
+        github: 
+        website:
+    slides:
+    videos:
+      - https://youtu.be/POkK5wGfkRk
+    description: |-
+      Vous en avez assez de devoir dupliquer tous les assets afin de gérer toutes les densités d'Android ? Les Vector Drawables sont là pour résoudre ce problème !Sauf que... ce n'est malheureusement pas si facile, dans la pratique il y a quelques pièges qu'il faut connaître afin de vraiment pouvoir tirer pleinement parti de ce format.Nous allons donc voir comment le dessin vectoriel fonctionne, comment il a été adapté à Android, et finalement un de ses gros avantages : les animations !Tired of having to duplicate all your assets in order to manage Android's densities? Vector Drawables are here to save the day!Except... it is not that easy. There are some nasty traps you need to know in order to really take advantage of this format.We will see how vectorial drawing works, how it has been adapted to Android and finally one of its biggest strengths: animations!
+
+  - title: Les mauvaises surcouches constructeurs sont-elles du passé ?
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Mathieu Hausherr
+        twitter: mhausherr
+        github: mhausherr
+        website:
+    slides:
+    videos:
+      - https://youtu.be/akRRdXtDtB4
+    description: |-
+      Malgré tout mes conseils éclairés mes utilisateurs n'ont pas tous acheté un Pixel ou un Nexus. Certains ont encore une version modifiée d'Android qui pose des problèmes pour utiliser mon application.Même des choses qui nous semblent pourtant acquises peuvent poser problème. Saviez vous que la classe StringUtils est absente de certains téléphones “pour des raison d'optimisation” ? Saviez vous que certains téléphone refusent de serialiser des enums en JSON ?Chez Virtuo, nous essayons de satisfaire même l'utilisateur qui a importé un téléphone chinois noté 1/10 sur FRAndroid à 10€ malgré tous les conseils de ses amis. Comment ? En trois étapes :1) Détecter et qualifier le problème en production2) Corriger et tester même sans acheter le-dit téléphone chinois3) Recontacter l'utilisateur pour le faire revenir, et consommer dans l'application
+
+  - title: 'Accessibilité sur Android : comprendre les aveugles pour répondre à leur besoin'
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Thierry Lee
+        twitter:
+        github: thierrylee
+        website:
+    slides:
+    videos:
+      - https://youtu.be/esa2bAIapGU
+    description: |-
+      Si vous suivez un peu l'actualité, on se rend compte que le nombre de smartphones à touches physiques sur le marché se compte sur les doigts de la main.'En quoi est-ce problématique ?'Depuis les écrans tactiles, on ne s'est jamais autant appuyé sur notre vue pour naviguer sur notre smartphone. Avec des touches physiques, on peut taper son prénom sur un clavier sans regarder. Sur un smartphone... c'est plus compliqué n'est-ce pas ?'Hmm... et donc ?' me direz-vousLa nécessité d'avoir un smartphone de nos jours pousse la population non-voyante à investir sur un appareil, quitte à ce qu'il soit uniquement tactile.Ils utilisent des outils d'accessibilité mis à disposition sur Android, je vous propose d'y jeter un œil durant ce talk.Les outils c'est bien, mais c'est pas magique : un lecteur de code-barres sur une feuille blanche, ça fait rien. Pour vos applications c'est pareil, il faudra présenter des code-barres aux outils d'accessibilité... façon de parler. Je vais vous montrer comment, ainsi que quelques tips.
+
+  - title: Traitement d'image simple et rapide avec Renderscript
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Quentin Menini
+        twitter: QMenini
+        github: qhutch
+        website:
+    slides:
+    videos:
+      - https://youtu.be/EvSoi_wId34
+    description: |-
+      Vous avez toujours voulu faire du traitement d'image sur Android ? Blur sur les images, filtres à la snapchat, édition à la instagram... Les performances sont un frein pour vous ? Grâce à ma méthode, vous allez apprendre comment simplement utiliser le calcul parallèle pour enfin éditer des images à la vitesse de l'éclair. En m'appuyant sur des exemples concrets, comme l'ajout du blur sur une image compromettante, ou l'amélioration de la luminosité d'une image en analysant son contenu, je vous montrerai la simplicité de cet outil.
+
+  - title: OK Google, déploie mon App en prod !
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Thomas Salandre
+        twitter: thomsala42
+        github:
+        website:
+      - name: Damien Locque
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/CON7iXMWXFA
+    description: |-
+      Toi aussi tu as utilisé Google Home une journée pour qu’elle te raconte une blague ou imite les ch'tis. Et si elle pouvait en faire plus ?A Meetic, l'assistant vocal est un membre productif au sein de l'équipe. Et si les tâches répétitives d’une équipe de développement Android pouvait être effectuées par notre assistant ?OK Google, lance un build de mon application pour mes 4 marques toutes languesHey Google, lance les tests de la branche developMieux encore, si on arrêtait de lui donner des ordres mais qu’elle devenait proactive, comme une vraie personne en se réveillant pour dire :Vous avez reçu un nouveau commentaire 5 étoiles sur votre application MeeticLe taux d’erreur 400 sur Meetic est anormalement haut
+
+  - title: Android ou l'ART d'optimiser le code Java
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Adrien Grassein
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/DH2AXeuGQVg
+    description: |-
+      Android utilise depuis longtemps le langage Java pour ces applications. Cependant ce langage a mauvaise réputation concernant son temps d'execution.Regardons ensemble comment Google, à travers les versions d'Android, a essayé de rendre l'execution du code Java la plus optimisée possible.Nous ferons le point sur l'introduction du JIT, puis au passage de Dalvik à ART qui à complètement changé la donne en matière d'execution de Bytecode sur Android.
+
+  - title: Application monolithique, c'est pas automatique
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Antoine Descamps
+        twitter: _antdesc
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/wx136wOwh54
+    description: |-
+      Comment gérer l'accumulation de fonctionnalités dans une seule application ? Pourquoi continuer à maintenir une codebase monstrueuse de ouatmille fonctionnalités ? Et si vous découpiez votre grosse application en plusieurs petites applications ?Un besoin client nous a poussé à expérimenter des solutions techniques pour s'affranchir à terme de la mono-application à 200 000 lignes de code. L'expérimentation a passé l'étape de la mise en production avec succès. Il est désormais temps de partager notre retour d'expérience à ce sujet :Dans quel contexte un écosystème multi-applications peut s'avérer être le meilleur choix techniqueComment partager des informations entre applications de manière sécuriséeCas d'usage : se loguer dans une application mère et être automatiquement authentifié dans une application filleCas d'usage : naviguer d'une application mère à une application fille avec mise à jour des données en toute transparence pour l'utilisateurCas d'usage : intégrer ce fonctionnement avec une codebase reactive
+
+  - title: Dagger-android, under the hood
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Yannick Badoual
+        twitter: badoualy
+        github: badoualy
+        website:
+    slides:
+    videos:
+      - https://youtu.be/g4JVCb8xmzM
+    description: |-
+      Dagger is the most popular dependency injection framework for Android development. Recently Google released version 2.10 and 2.11 to simplify a lot the usage, but do you really understand how the magic works when using AndroidInjection.inject(this)?From AndroidInjectionModule to ContributesAndroidInjector, we'll see how to use the new versions and what is really happening under the hood when calling this code.A basic understanding of how to use Dagger 2 is strongly recommended to fully understand this talk.
+
+  - title: Place de Gitlab au sein des process d'une équipe mobile
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Marc Daniel
+        twitter: _daniel_twi
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/pd8U6qwcwUM
+    description: |-
+      De nombreux développeurs connaissent déjà les avantages de Gitlab pour l'intégration continue et la relecture des merges requests. Mais du point de vue d'un product manager, d'un designer ou même d'un client, l'utilisation de Gitlab peut aussi permettre la génération de changeLog, la mise à disposition d'un store de Review Apps pour valider une feature, un comportement, une animation ou encore sa validation par l'équipe SQA.Il s'agit donc d'une présentation des possibilités de l'API Gitlab et de Gitlab CI au travers du code d'une application client.
+
+  - title: Par delà le MediaRouter, fabriquons notre FooBarCast !
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Pierre Crépieux
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ile_SKAFGdA
+    description: |-
+      Dans cette session, nous allons explorer les APIs disponibles sur Android pour détecter et contrôler un RaspberryPi que l'on intégrera avec le MediaRouter. En jouant avec le NsdManager, le MediaRouteProvider, ainsi qu'un SDK open source (OCast), nous nous familiariserons avec mDNS, DIAL et verrons comment articuler tout ce petit monde pour diffuser du contenu sur une TV depuis son appli Android.
+
+  - title: Rock the Gradle, rule the world
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Xavier F. Gouchet
+        twitter: xgouchet
+        github: xgouchet
+        website:
+    slides:
+    videos:
+      - https://youtu.be/o7gxsQflGsE
+    description: |-
+      More often than none, Android build.gradle file grow larger and more complex to adapt to specific build constraints and scenarios which are not supported by default. Custom tasks, advanced usages, … the use cases are infinite.Gradle offers the possibility to integrate custom plugins directly in your project, without the need to make a separate project and publish the artifact in a maven repository. This presentation will walk you through this concept, with a couple of concrete example of plugins you can write yourself.
+
+  - title: Want to make a change? Stop talking and start listening
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Jonathan Maltz
+        twitter: maltzj
+        github: maltzj
+        website:
+    slides:
+    videos:
+      - https://youtu.be/NHp9OcRObCM
+    description: |-
+      As Android developers, we’re constantly trying to improve our teams by convincing others to move in a new direction. Whether it’s convincing other engineers to adopt Kotlin or convince your design team to create Android mocks, almost any improvement you want to make requires convincing others to make a change.In this talk, we’ll discuss how to effectively create the change you want by focusing on the incentives of others. We’ll start by discussing how to understand what other parties want so that you can make it clear how your initiative helps all stakeholders. Next, we’ll talk about how to identify areas of risk that may prevent your idea from moving forward, as well as how to mitigate that risk. Finally, we’ll discuss the critical role of trust in creating change, and how to use every interaction as a chance to build the trust you need to help you succeed.
+
+  - title: The Curious Case of Android Button
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Nicola Corti
+        twitter: cortinico
+        github: cortinico
+        website:
+    slides:
+    videos:
+      - https://youtu.be/_AzLGxH26iM
+    description: |-
+      We interact with buttons every day to get coffee, order pizza, or start a new Gradle build. They may look simple and straightforward, but they have a fundamental role in our environment: create a sense of power.We all love to feel empowered and we all hate being frustrated by bad design. Your users know this as well, they want to feel immediately rewarded when they interact with your UI, and they will quickly drop your app if they get annoyed.At Yelp, we get tens of millions button clicks a day. At that kind of scale, every pixel matters. We tune every single aspect of our buttons to make them simple and powerful, but adjusting every single shadow cast, click animation, or color layer can be tricky. In this talk, we will provide a deep dive into the Android framework and the Support Library to understand how buttons are rendered.
+
+  - title: Sign here please!
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Ana Baotić
+        twitter: abaotic
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/pE5cCHCzOy0
+    description: |-
+      An application ID might define your app among all others, but its signature is what proves and confirms its identity and integrity. From working in distributed teams to fending off fraudulent clones of your application, you eventually come to understand the importance of signatures.In this talk we'll take a deep dive into the Android keystore system, certificates and signatures, and go over key points necessary for any application's long and productive life. Also, we will cover some security tips and tricks that will help ensure your app is safe to use, even if the users are faced with its evil twin.At the end you should walk away with a deeper insight into everyday mechanisms that are often taken for granted, and the impact that they have on your users' security.
+
+  - title: Push Notifications that Don’t Suck
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Zan Markan
+        twitter: zmarkan
+        github: zmarkan
+        website:
+    slides:
+    videos:
+      - https://youtu.be/31VTSgkWFIE
+    description: |-
+      In the age where apps in every category battle it out against each other for conversion rates and session times, push notifications have become the de-facto way to generate repeat visits and therefore hitting those all-important KPIs. The end result? Billions of people annoyed by irrelevant notifications which are generally ignored. I believe we can do better.This talk will cover tips and tricks for better user targeting, showing relevant content, as well as styling them using the latest and greatest of Oreo’s APIs and best practices.
+
+  - title: Reusable Cross-Platform Frameworks with Kotlin/Native
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Simone Civetta
+        twitter: viteinfinite
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/F0bv1LX2M_E
+    description: |-
+      While building entire cross-platform apps might often turn out to be a bad idea, mission-critical client-specific logic can greatly benefit from an unique codebase, allowing code to be written - and tested - once. Since end 2016, Kotlin/Native can compile Kotlin code to a binary form, which can be embedded into a native app. In this talk you will learn why it makes sense, and how, to leverage these experimental features and build a cross-platform module reusable on both Android and iOS.
+
+  - title: Kotlinify your Gradle
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Alexander Gherschon
+        twitter: galex
+        github: galex
+        website:
+    slides:
+    videos:
+      - https://youtu.be/COFcFXBnEW0
+    description: |-
+      The Gradle build tool is based on the JVM, so where does Kotlin fit in that ecosystem? We will see how Kotlin finds its place in that world, would it be by extending Gradle or by using Gradle Plugins with Kotlin.
+
+  - title: 'Commonly Overlooked Areas of Security: Revisited'
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Clive HG Lee
+        twitter: CliveHyunGuLee
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/o2oMzJP80DM
+    description: |-
+      Imagine the following. You're happily coding along when you suddenly realize that there is a serious security flaw with your app. At first you may be in disbelief. You might turn to your co-worker and ask, “Does this sound right to you?“ Then the realization of the magnitude of the problem slowly dawns on you. You might swear, walk outside for fresh air, or even laugh out loud, not knowing how else to respond.Maybe you haven't experienced anything like that. In Clive's talk, you will explore some commonly overlooked areas of Android programming that may pose serious security concerns, so that this doesn't happen to you in the future.Why overlooked? Because most of the issues Clive brings up may seem like it has nothing to do with security, even to an experienced Android developer. Addressing these issues may seem like busy work that someone on the team should do, but no one ends up doing because no time is allotted for it. These issues include, for example, logging, obfuscation, NDK, library dependencies, and more! Clive's hope for this talk is that we recognize the security implications of these overlooked areas and thus prioritize addressing these issues
+
+  - title: Adding conversational features to your mobile app
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Jade Chabaro
+        twitter: jadechabaro
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+      The Google Assistant - your own Google, always ready to help - and its developer platform have been out for more than a year.Besides controlling your music, lights and asking about the weather, Assistant apps have been struggling to get into the users' daily routine. It is time for you to be on the forefront of the revolution by adding some conversational features in your mobile app.In this talk, we're going to explain how you can implement a custom conversational feature in your existing Android or iOS app. Today, mobile apps are the medium people use to get their information and get things done, and is the perfect way of getting them used to this new world of conversational apps.Google is really pushing this new platform forward by adding a plethora of new features to the Google Assistant such as support for more languages, family-friendly apps, an improved app directory and making it available on a lot of devices, from your phone to cars and smart speakers.
+
+  - title: Add some reality to your app with ArCore
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Yuliya Kaleda
+        twitter: YuliyaKaleda
+        github: Yuliya-Kaleda
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ly-KHn5d5pA
+    description: |-
+      AR and VR are buzzwords that we hear everywhere. Project Tango was the first big step in bringing AR experience to many platforms. But it requires special hardware. ARCore is a fast, performant, Android-scale SDK that enables high-quality augmented reality across millions of qualified mobile devices. During the talk we discuss AR main principles, 3D modeling, object rendering and I will provide some practical tips on how to build AR focused apps.
+
+  - title: Better, Faster Code Reviews in an Agile World
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Marius Constantin
+        twitter: mariusc83
+        github: mariusc83
+        website:
+    slides:
+    videos:
+      - https://youtu.be/tMZMq1oSrmA
+    description: |-
+      Everyone knows you need to do code reviews, but with more than 2-3 developers, and in a sprint with 10+ tasks in the backlog, this is becoming an issue. This presentation will be about how we have managed to overcome this challenge and how we have made code reviews fast, efficient, and a part of our daily routine (without adding them to the list of tasks). We will emphasize on the Git approach and the methodologies around this and similar tools. We will share all our trials, fails and wins and discuss how we can make this work for you too.
+
+  - title: Quickly build your app alone with Firebase.
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Renaud Mathieu
+        twitter: renaud_mathieu
+        github: renaudmathieu
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RQ4-mdPx78I
+    description: |-
+      Creating a personal Android app requires us to solve a lot of common challenges. Sometimes some of these challenges require so much time that we start to forget about the product we are building. Firebase can act as a toolbox to give functionality like analytics, databases, messaging and crash reporting so we can move quickly and focus on our users.
+
+  - title: Hands-on Android Architecture & Architecture Components
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Arnaud Giuliani
+        twitter: arnogiu
+        github: arnaudgiuliani
+        website:
+      - name: Laurent Baresse
+        twitter: baresse
+        github: Baresse
+        website:
+    slides:
+    videos:
+      - https://youtu.be/eAz1hP0-aJo
+    description: |-
+      Android developers, we propose you to come experiment the MVP & MVVM Android architectures! From a simple Android app, we will work on why and how to implement architectures principles. We will see how to go from MVP to MVVM with Android Architecture Components.At the agenda: Kotlin, RxJava, Refactoring, Unit Tests and Android architecture components & Koin.Warm up your AndroidStudio!!!Requirements:AndroidStudio 3.0, and Kotlin plugin 1.1.x or + Knowledge: RxJava, Kotlin
+
+  - title: Let's make some noise with Android
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Yannick Lemin
+        twitter: theyann
+        github: theyann
+        website:
+    slides:
+    videos:
+      - https://youtu.be/v3XXZDc_6Ss
+    description: |-
+      Sound on Android is a topic that is rarely covered, which is why I wanted to shed some lights in my experience with the sound management APIs on Android.So in this talk, we'll touch on how sounds actually work programmatically, and we'll talk about how to play a sound on Android in the most simple way. We will also cover the principle of sound focus, what it is, how and when to use it. We'll see what we can do with MIDI as well. And finally, we'll go deeper in the rabbit hole and get introduced to the lower levels of sounds processing with the help of OpenSL ES and the SuperPowered library.
+
+  
+  - title: Android Auto, vos médias dans votre voiture.
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Antoine Danois
+        twitter: Antoinedroid
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/r5skn-UtwzY
+    description: |-
+      Android Auto, une plateforme en forte croissance grâce aux constructeurs automobiles qui l’intègrent dans leurs voitures et soutenu par énormément d’entreprise de l’Open Automotive Alliance. Aujourd'hui, on peut être de plus en plus en contact avec nos médias favoris, y compris dans notre voiture, même en roulant à 250km/h sur le périph.Chez Canal+, nous avons sauté le pas et mis en production une application Android Auto. Le but de cette présentation sera de vous introduire au joyeux monde du développement d’application pour les voitures connectées.Au programme, une introduction à Android Auto, comment tester l'application (sans voiture, ma boite n'a pas voulu installer de Renault Espace dans l'open space). Mais aussi, comment intégrer Exoplayer, les MediaSession, ainsi qu'une explication des contraintes très présentes, notamment au niveau de la sécurité bien évidemment, mais rien d'insurmontable vous pouvez me faire confiance.
+
+  - title: Explore Kotlin.Collections API
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Kirill Suslov
+        twitter: k_suslov
+        github: iwuvhugs
+        website:
+    slides:
+    videos:
+      - https://youtu.be/q3wHFdffkdE
+    description: |-
+      Kotlin is out here for a while now but many developers don’t use full power of it and write Java-style of Kotlin. let and apply are the only language features get adopted. This talk is aimed to overcome a small learning curve in one very common thing developers work every day with: collections. Backed by familiar Java collection API but supplemented by a set of handy functions, Kotlin collection API becomes a versatile tool that helps to develop faster and makes code clearer and nicer.In this talk we’ll look into most common functions and how to mix and apply them into practice.
+
+  - title: Fonts, Emoji and Text Using Support Libraries
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Anita Singh
+        twitter: anitas3791
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/HnlsU6xAsCY
+    description: |-
+      Android Oreo introduced exciting text changes that make it easier to use custom fonts, communicate with emojis, reduce APK size, and expand or contract textviews dynamically. Luckily, the Support Libraries from v26 onwards allow us to implement these new features with backwards compatibility.In this talk, you will learn how to implement these text changes with the help of the Support Libraries, and their limitations. You will also learn about how they are natively implemented in Android Oreo versus the Support Libraries.At the end of this talk, you will have an increased understanding of the inner workings of Fonts in XML, Downloadable Fonts, EmojiCompat and autosizing of TextViews, as well as be ready to update your apps with them without the fear of the unknown!
+
+  - title: Travelling across Asia - Our journey from Java to Kotlin
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Amal Kakaiya
+        twitter: k4kya
+        github: K4KYA
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ZaPIcI42Qtw
+    description: |-
+      Kotlin brought new excitement to Android development, but the thought of converting a Java codebase to Kotlin can be quite daunting. Where do you start? What problems will you run into? How long will it take?Deliveroo’s journey to Kotlin started over a year ago. This session will take you through their journey, the issues they’ve faced and how Kotlin can improve your codebase, your app and your sanity.
+
+  - title: 'Android DevOps: Espresso on Genymotion in AWS'
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Michael Aubert
+        twitter: michaelaubertfr
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1pmXNo04zj4
+    description: |-
+      How do you create a mobile-only bank account that customers trust enough to deposit money in? The mobile application needs to be high quality. After evaluating and comparing what other companies, small and big, do to test their android applications and the available technologies (device farms, hypervisors...), we picked Genymotion on Demand and built a continuous integration system in the AWS cloud. The cost and coverage of running tens of thousands of Espresso tests every day are tracked. We have fragmentation of OS versions and screen sizes. Tests are sharded to reduce build time. Videos of tests are recorded. JUnit test reports are generated. We had to adapt to open source libraries breaking because of new versions of the Android toolchain. This is a multi-technology stack using Android, Bash, Gradle, Cloud Formation, Teamcity, Slack, C++, Python, Groovy, Artifactory... This is about sharing the journey and what we learned along the way, from building internal buy-in to providing feedback to Genymotion itself and the many technical things that broke along the way. We are using this system and plan to expand it with Appium tests for application upgrade and stress testing.
+
+  - title: Kotlin Backstage
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Mitchell Tilbrook
+        twitter: sir_tilbrook
+        github: marukami
+        website:
+    slides:
+    videos:
+      - https://youtu.be/bhlYKBjcjjw
+    description: |-
+      Kotlin offers a modern language design in contrast to Java, while at the same time maintaining full Java interoperably: Data classes, properties, delegation, inline functions, string interpolation and much more. But, if Java can't offer these features how come Kotlin can? What does Kotlin do to make it possible to use this Syntactic sugar?In this talk, we will go backstage and dig into the Bytecode that Kotlin generates to make all the features we love work on a runtime that technically does not support them. We will look at the impact kotlin code generations has on method count. Get a deeper understanding of how Object and companion object work and see the implications of the use of either under different circumstances. Finally look at common patterns that can help reduce the size of both the bytecode and method count.
+
+  - title: Pragmatic Testing
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Zac Sweers
+        twitter: pandanomic
+        github: hzsweers
+        website:
+    slides:
+    videos:
+      - https://youtu.be/otuEh24r8wI
+    description: |-
+      You open a pull request only to find that some tests are now failing. What goes through your mind?Did I break something? Do I need to update the tests? Just what is that test testing anyway?Ideally, 2 would almost never be the case, as rewriting a test usually means it's lost the regression testing value of its original form. How can we get there though? There’s no one right way to write tests, and it’s surprisingly easy to fall into the trap of writing change tests. There are good patterns you can leverage to scale them and maximize their long term value. This talk will detail simple patterns you can follow for healthy, pragmatic testing with a focus on test design, correctness, and how these values can translate into better overall API design of your code.
+
+  - title: When Metrics Lie
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Ryan Cooke
+        twitter: the__Ryanator
+        github: ryanzor
+        website:
+    slides:
+    videos:
+      - https://youtu.be/p0xBqF13RJY
+    description: |-
+      We are now operating in a data-driven world. If your company isn't using metrics to determine what their next step is, then your company is likely moving blindly. That is fairly universally accepted, but what's worse is when what your metrics tell you isn't true. It is very easy for a metric logging error to complete invalidate your conclusion. This talk discusses what we at Pinterest do to avoid this.
+
+  - title: Gérer vos tests d'UI de manière simple et efficace
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Jean-Philippe Barbaud
+        twitter: jpbarbaud
+        github: jipeprojects
+        website:
+    slides:
+    videos:
+      - https://youtu.be/FnIYxmA8Z9Y
+    description: |-
+      Les test d'UI sont une étape importante dans le processus de création d'une application robuste et stable sur le long terme. Pourtant, une grande majorité des développeurs android sautent cette étape soit par manque de temps soit parce que les tests d'UI sont compliqués et laborieux à écrire. Depuis que nous sommes organisés en feature team au Boncoin et que nos livraisons se font toutes les 3 semaines, nous avons besoin de faciliter et d'automatiser au maximum l'écriture et l'exécution des tests d'UI. C'est pour cela que nous avons mis en place une solution composée de Barista, une surcouche d'espresso, de Swarmer, permettant de gérer et d’exécuter une batterie d’émulateurs et enfin Composer pour orchestrer le tout et générer les rapports de tests. C'est cette solution que nous allons vous présenter outils par outils puis au sein de notre CI avec une démo en situation réelle.
+
+  - title: Modules in 7 steps
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Oleg Petshjonkin
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/dZ8j-rvK7h0
+    description: |-
+      Modular application approach is becoming more and more popular. Apart from obvious benefits like build speed and modules re-usability it gives better encapsulation, configurability, and testability.This talk is about Trainline application evolution from single module to 20+ modules. It describes problems we faced during this journey and shows a few not-so-obvious solutions to those problems.
+
+  - title: Android dans la voiture
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Emmanuel Cabestan
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/v4ZgfJ6VFBo
+    description: |-
+      Bien qu’il existe des autoradios Android depuis quelques années, le framework prend en compte la voiture officiellement depuis Android O. Après une introduction aux problématiques logiciels dans la voiture, je vous propose une présentation des services proposés par Android pour la voiture pour ensuite traiter un cas concret, qui parlera plus aux développeurs. Cette présentation se destine à tous ceux qui veulent renforcer leur connaissance générale d’Android et aussi à ceux qui voudraient développer des applications pour l’automobile.
+
+  - title: Kotlin's hidden costs, revisited
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Christophe Beyls
+        twitter: BladeCoder
+        github: cbeyls
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xaVLJmTf1kA
+    description: |-
+      Kotlin has become the default modern programming language for many Android developers, with first-class support in Android Studio. But exactly how much performance and code size are we sacrificing for making use of all the additional features this language provides compared to Java?We'll study the Java bytecode generated by the Kotlin compiler in various scenarios in order to find out which code constructs come with hidden performance penalties and learn how to become better Kotlin programmers. Some significant improvements in the recent versions of Kotlin will also be highlighted.This talk is based on the series of blog posts from the speaker and extends it in some areas.
+
+  - title: App Clinic
+    lang: en
+    type: regular
+    time: 2018-04-24
+    room:
+    authors:
+      - name: Lorica Claesson
+        twitter: lorica
+        github:
+        website:
+    slides:
+    videos:
+    description: |-
+     
+  
+  
+      
+      
