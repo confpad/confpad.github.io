@@ -1,7 +1,7 @@
 ﻿conference:
     
   name: DelEx Conf 2018
-  status: incomplete
+  status: complete
   series: delex-conf.com
   tags:
     - devops
@@ -18,5 +18,432 @@
     country: Belarus
     city: Minsk
   description: |-
+    Delex stands for Delivery Excellence. Proper use of Test Automation and DevOps can shift delivery to a new heights.We introduce two-day event filled up with progressive ideas from changemakers and the most inspiring thinkers.Talks on conference will cover different level of Automated Testing, DevOps activities and tools.
 
 talks:
+
+  - title: Wild Microservices and Imaginary DevOps
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Kirill Tolkachev
+        twitter: tolkv
+        github: lavcraft
+        website:
+    slides:
+    videos: 
+      - https://youtu.be/sfIX-pdIaxI
+    description: |-
+      Today, very often you can hear a lot of buzz words, but even among them, DevOps and Microservices excite the minds of people as something special. For a typical engineer, DevOps and Microservices are just a marketing profanity. It's more important to "keep DevOps in your hands" and be able to use it. I want to understand where our and other people's fantasies come to an end, where really useful practices begin, what tools will help us and what fundamental principles will help increase the profit from the used practices and tools. The talk is primarily about the implementation of various technologies, tools and methodologies in a large organization. I will share the problems that we encountered in the implementation of various principles and technologies, I will talk about solutions and developed principles of scaling processes / tools. Today our slogan will be "DevOps in the hands and not in the heads." But what is in the minds is still important, although this is a completely different story.
+
+  - title: Infrastructure as Code in Azure and Azure Stack
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Alexander Shapoval
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/pF-hih9eEyk
+    description: |-
+      Infrastructure as Code (IaC), one of the DevOps practices, assumes a declarative description of the infrastructure resources required to deploy and test the build / project. Accordingly, there should be a mechanism for automating the processing of such declarative files and allocating / modifying the necessary resources. In the public cloud of Microsoft Azure, Azure Resource Manager (ARM) serves as the mechanism, and the so-called ARM templates (ARM Templates) perform the role of declarative files. In the report you will get acquainted with the structure of ARM-templates and the variants of their application in CI / CD. In addition, you will learn how these templates can be applied in the Azure Stack - the hardware and software complex, on the basis of which a subset of Microsoft Azure services is provided locally
+
+  - title: DevOps @ Multi vendors Enterprise
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Victor Vedmich
+        twitter: 
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/LACJkpQwqKc
+    description: |-
+      How to work in an environment with multi vendors. Real experience with SAF / Nexus
+
+  - title: Automating experiments with Kotlin DSL
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Alexander Tarasov
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/M97kOAkUBAM
+    description: |-
+      In a large project, you can not just take it and make it available to all customers. Therefore, experiments are conducted that require manual changes that lead to time costs and sometimes errors. To remove these factors, Odnoklassniki decided to automate the preparation and launch of experiments. In the report, Alexander Tarasov will tell you why Kotlin was chosen for this, rather than the classic configuration management tools (such as Ansible), why a good DSL and toolkit are critical to this task and what problems had to be overcome in order for everything to work as originally conceived.
+
+  - title: BDD Automation puzzlers
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Anna Chernyshova
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/6DjdFX5Dtqo
+    description: |-
+      Consider an interesting use cases that you can encount while working with such BDD frameworks as JBehave, Cucumber, Serenity. We will dive deep into the implementation details of the mentioned above frameworks and extract the most interesting features that can be useful to every automaton engineer who works with these frameworks. Speech plan:puzzlers.forEach (puzzler - { 1. puzzler question 2. variants of answer with explanation 3. audience voting for the correct answer 4. disclosure and discussion of the really correct answer 5. the explanation in which case it can be used in the work process.
+
+  - title: 'Allure 2 Lifecycle: free integration with tools'
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Nick Butcher
+        twitter: 
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/d5gjK6hZHE4
+    description: |-
+     When you use Allure, you work with the standard annotations @Title, @Feature, @Story, @Step, @Attachment. And in order to build a full-fledged report, you need to place these annotations in your project.But what if your project is not adapted to use these annotations, for example, do not you use @Step? In my report I will talk about Allure Lifecycle, who solve this problem by the example of integrations with the well-known libraries Selenide, Retfofit, AspectJ.
+
+  - title: Game development infrastructure
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Anton Tsitlionok
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/l3KbsqICHsQ
+    description: |-
+      Unveil DevOps in GameDev: how to store code, assets, binaries, logs and other artifacts generated by game development studio. Our challenges, Hypervizor usage, VCS and large files, DFS, build and configuration automation.How we did it, and what shall be next.
+
+  - title: Continuous delivery with Concourse CI
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Andrei Krasnitski
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/RyrxImD9aDM
+    description: |-
+      There are at least a dozen continuous integration solutions out there, but the majority of them are challenging to learn, scale, and debug. Most importantly, few of them were designed with pipelines in mind. Not able to find a tool that could handle something as massive and complex as Cloud Platform (Cloud Foundry), Pivotal, a spin-off of VMWare, decided to write their own. This resulted in Concourse CI, a user-friendly continuous delivery technology that focuses on pipelines, is easy to scale, runs anywhere, and works with anything. During the talk I will tell about real world implementation of CD/CI and DevOps with help of Concourse and tell how to boost release engineering practice with the help of this instrument.
+
+  - title: SOA approach in automation development
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Nikalai Stakanov
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1_ExSQV51OA
+    description: |-
+      The talk is about benefits of splitting automation into service domatins creating service brokers and message queues. Comparing it with managed services available in public clouds such as AWS
+
+  - title: Dockerization of real mobile device farm and scalable QA automation ecosystem
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Alex Khursevich
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/dLKpYq3X3Fo
+    description: |-
+      Share our expertise in building up of highly scalable and effective infrastructure for Test Automation based on open-source solutions like Selenium and Appium by means of Docker. We are going to show real case studies of our production challenges. Also we are going to talk about self-hosted mobile cloud solutions as part of QA ecosystem and how Docker simplifies our life in this area.
+
+  - title: DevOps and Kubernetes in VSTS in Azure and more
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Stas Pavlov
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3DmLa1uy6tQ
+    description: |-
+      During a presentation the speaker will explain how to use Visual Studio Team Services in terms of creation of CI / CD pipeline for Kubernetes in Azure (Azure Container Service (AKS)). The CI / CD pipeline, which will be demonstrated during the presentation, does not depend on the particular cloud hosting, it is suitable for any k8s cluster. Therefore, it is possible to run Kubernetes locally, in AWS or Google Cloud or Azure. A private register of containers will also be created in Azure, but you can use any register of containers which depends on your own choice.
+
+  - title: Continuous Integration in IoT world - "Mission Impossible" or "A last hope"?
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Dawid Pacia
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/g82H1A52AMQ
+    description: |-
+      It is predicted that till 2025 there will be over 75 billion devices spewing 180 zettabytes of data and generating up to 6 trillion dollars. That enormous increase force companies to introduce continuous approach to deliver product as fast as possible and be able to compete on the market.The main question is how to test application for end user among so much hardware equipment and ecosystems combining HW, FW, mobile devices and complex backend architecture? Considering all factors and possible obstacles is it for companies a real “A New Hope” for companies or just simply “Mission Impossible”?I will take the participants on a journey to the IoT world. It will be a talk about the challenges that any tester will face at some point. I will present the dangers, risks and snares but also good practices and practical approach to E2E test automation for the IoT solutions in CI approach.Technical examples will be presented using Python languages and supported by physical devices.
+
+  - title: Quest for an adequate autotest coverage
+    lang: en
+    type: regular
+    time: 2018-02-17
+    room:
+    authors:
+      - name: Alexander Pushkarev
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/Kqgvj1Y27bw
+    description: |-
+      So, you end up looking at thousands UI-level automated tests and yet 50% code coverage for a 7-years old product. Current test automation infrastructure already cannot support the load, AQA specialists are barely coping with maintenance and automation for stories in progress.What would you do? Would you scale?Would you go for clichéd “Test automation pyramid”?What would you make your priority, is it coverage or efficiency?Let’s see what we tried in such situation and where we could go with it.
+
+  - title: Running tests in Continuous Integration
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Sergey Pak
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/AzAGxaVPXIQ
+    description: |-
+      Continuous Integration tool can run tests. That's what it was created for. However, different types of testing have their own peculiarity. We'll talk about problems we can face during setting up CI for running tests and to solve them.
+
+  - title: 'Automated tests in World of Tanks: bots-net to test quality'
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Alexander Shukov
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/3eJUpwr_HCY
+    description: |-
+      This talk unveil problems and generals approaches in GameDev testing, based on project of World of Tanks. Describes our way to to find relevant solution, starting with clickers and code injections, till implementation of 'bot-net' - testing framework for 'World of Tanks' with scenarios on Python.Focus of this talk will be on building infrastructure and environment for testing, rather than on tests.
+
+  - title: Honest, simple and fast isolation tests
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Alexander Chumakin
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/0fQEe6CpTYY
+    description: |-
+      The presentation will reveal JUNO approaches to testing the micro-service architecture in Juno, how to create honest and effective isolation tests, and how we manage to fully test such a highly loaded system in minutes and ensure fault tolerance and stability with continuous releases for production.
+
+  - title: How to test Artificial Intelligence and Machine Learning solutions?
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Igor Khrol
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/SNBrP8JQthk
+    description: |-
+      Testing community is discussing how machine learning can find bugs and replace testers. Meanwhile the reality is more boring and not so much futuristic. Engineers are releasing machine learning and artificial intelligence services that should be tested. Based on real experience of delivering such products I want to share how different such testing is from regular solutions and what are possible problems. After my talk you’ll have a starting point to test this AI and ML magic once you are faced with it.
+
+  - title: Funny stories and anti-patterns from DevOps landscape
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Mikalai Alimenkou
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/ZjAvj52BDiI
+    description: |-
+      During last several years DevOps became strong buzzword used almost in every project, team and company. But almost everywhere it is used in very funny and strange context. For example, existing ops guys are renamed to DevOps just to sell them to the client for more money. Or DevOps is used as new job title for some magically powerful person who is able to operate cloud environment and modern infrastructure related tools, leading team of old school ops and participating in management meetings. In this talk I’m going to review all different anti-patterns and bad practices in DevOps landscape using stories from my personal experience as Delivery Manager and independent consultant.
+
+  - title: The applicability of machine learning and neural networks in test automation
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Dzmitry Humianiuk
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/bA1MwpOPA1U
+    description: |-
+      Машинное обучение стало очередным "словечком" в наши дни. Но вокруг него накрутилось слишком много маркетинга, особенно в части автоматизации тестирования и реальной пользы от его применения.Последние декады мы занимались применением ML в своих решениях и посмотрели о том, что доступно на рынке, что позволило сделать некоторые выводы о текущей картине мира.В данном докладе я расскажу:о возможностях применения, заявленных на рынке конкурентными компаниями использование ML для категоризации падений автоматических тестов нейронные сети как путь для улучшения результатов ML.
+
+  - title: 'Devops and Test Automation: Myths and Tips'
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Baris Sarialioglu
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/1wUQ-bM39MI
+    description: |-
+      Nowadays, many organizations are challenging agile and focus more on DevOps as their brand new ALM methodology. Devops can be regarded as a next generation methodology beyond agile, especially with it’s special focus on test automation.If you want your organization to survive in today's agile world, you need to learn and adapt to the changing landscape of Devops and utilize test automation to help speed delivery and high quality. When it comes to a successful DevOps transformation, test automation is one of the keys.Beyond any doubt, whether you establish a solid test automation framework yourself or someone does it for you, it will bring many benefits into your Devops environment. Some of the most critical ones include: a powerful foundation to cope with the software testing challenges and a systematic approach to shorten the time-to-market delivery by supporting the quality of your products in preliminary stages.My session mainly focuses on the challenges of Devops and Test Automation and it will guide attendees to practically utilize different aspects of test automation based on the experiences of Devops and Agile.
+
+  - title: DevOps @ scale — greek tragedy in three acts
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Baruch Sadogursky
+        twitter:
+        github:
+        website:
+      - name: Leonid Igolnik
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/vtlYPezp-oE
+    description: |-
+      In this talk we’ll take you to a scaling journey, from 3 developers to a 100. We’ll talk about the challenges each milestone in this growth brings, both technological and methodological, and how to solve those challenges using the right mix of people, the right selection of tools and the correctly crafted process. The speakers excel in the different aspects of this triangle and went through this journey (more than once) themselves. And the fun and entertaining presentation as a Greek tragedy can’t hurt, can it?
+
+  - title: Test Infrastructure on steroids
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Sergey Pirogov
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/l3vC73Hgl-w
+    description: |-
+      In this talk, I am going to show approach to which helps to integrate test automation into delivery pipeline. DevOps practices become more popular and test automation engineers should follow them. I will show the way how we implemented flexible browser cluster, dockerized services on-demand and infrastructure as a code.
+
+  - title: 'Themes, styles & more: from zero to hero'
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Cyril Mottier
+        twitter: cyrilmottier
+        github: cyrilmottier
+        website:
+    slides:
+    videos:
+      - https://youtu.be/q_LJG4VuU3Q
+    description: |-
+      Haven’t you ever wanted to globally change the appearance of your `EditText`s or the font face of all `TextView`s in your Android application? Themes and styles have always been at the heart of Android development when it comes to UI design. They have been around since API 1 after all and a lot of the Android features are built around them. But do you even know how themes and styles works? What is an attribute? And can you explain the difference between a style, a theme, a text appearance or a theme overlay?Haven’t you ever wanted to globally change the appearance of your `EditText`s or the font face of all `TextView`s in your Android application? Themes and styles have always been at the heart of Android development when it comes to UI design. They have been around since API 1 after all and a lot of the Android features are built around them. But do you even know how themes and styles works? What is an attribute? And can you explain the difference between a style, a theme, a text appearance or a theme overlay?If you have never heard of styles and themes or are not entirely sure you can answer the questions above, this presentation is made for you. This talk will dive deep into the Android styling and theming system. You will learn how to leverage it to customize your Android application, reduce duplication in your code and make your styles cleaner, more manageable and more reusable.
+
+  - title: Testing on prod (without pain and humiliation)
+    lang: en
+    type: regular
+    time: 2018-02-18
+    room:
+    authors:
+      - name: Aliaksei Boole
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/en_h8KkP2_o
+    description: |-
+      Алексей Буль - Тестирование в проде (без боли и унижения)Методы и подходы к тестированию в продакшене. Метрики, алертинг, логи, духовность и devops.
+
+  - title: Creating multistage development environments with K8s cluster of 8000 pods and growing
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Oleg Sabov
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/jDpLCiji9i4
+    description: |-
+      I would like to share our experience of creating development environments for 100 micro services with Kubernetes, that can be used by multiple developers, QA and Automations team. Problem that we have face to , and the solution solutions for them.Implementation of deployment and configuration for 100+ micro services for different environments. Simplify all process that can be used by all layers of RnD department.We tried to decreased the cost of our development and staging environments by causing them use shared server resources of severs.
+
+  - title: Data Driven DevOps
+    lang: en
+    type: regular
+    time: 2018-04-23
+    room:
+    authors:
+      - name: Baruch Sadogursky
+        twitter:
+        github:
+        website:
+      - name: Leonid Igolnik
+        twitter:
+        github:
+        website:
+    slides:
+    videos:
+      - https://youtu.be/xez43gfPahM
+    description: |-
+      In this talk, we’ll talk about the key measurements for the DevOps transformation process and provide you with 3 metrics you can start measuring tomorrow.Devops is usually viewed from a traditional perspective of a collaboration of Dev, Ops, and QA, driven by the change in Culture, People, and Process. But how do you know where you stand and where to move? As in almost any field, data and metrics give you the gauges and instruments. In this talk, we’ll talk about the key measurements for the DevOps transformation process and provide you with 3 metrics you can start measuring tomorrow.
+
+  
