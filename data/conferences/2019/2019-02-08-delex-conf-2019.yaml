@@ -220,9 +220,9 @@ talks:
         github:
         website:
     slides:
-       - https://delex-conf.com/2019/automation-of-security-scanning-easy-or-cheese/
+      - https://delex-conf.com/2019/automation-of-security-scanning-easy-or-cheese/
     videos:
-       - https://youtu.be/cLZrPFh1-OE
+      - https://youtu.be/cLZrPFh1-OE
     description: |-
       I will share my experience of SDLC enablement on enterprise level. Uncover pitfalls and gotchas about building of developer friendly CI enabled service using industry standard static and dynamic scanning tools, CI platforms, ReportPortal, Carrier platform and Jira integration service.
 

@@ -46,7 +46,7 @@ talks:
         github:
         website:
     slides:
-    - https://s3.amazonaws.com/byteconf-production/react-2018/alex-kallaway.pdf
+      - https://s3.amazonaws.com/byteconf-production/react-2018/alex-kallaway.pdf
     videos:
       - https://youtu.be/kFjQAasFWUw
     description: |-
@@ -62,7 +62,7 @@ talks:
         github:
         website:
     slides:
-    - http://kyleshevlin.github.io/learning-backwards
+      - http://kyleshevlin.github.io/learning-backwards
     videos:
       - https://youtu.be/0QdUsOSt60s
     description: |-
@@ -78,7 +78,7 @@ talks:
         github:
         website:
     slides:
-    - https://slides.com/jeremenichelli/rich-animated-experiences-react/
+      - https://slides.com/jeremenichelli/rich-animated-experiences-react/
     videos:
       - https://youtu.be/S3u-ccn4PEM
     description: |-
@@ -94,7 +94,7 @@ talks:
         github:
         website:
     slides:
-    - https://speakerdeck.com/robdel12/testing-big-in-javascript
+      - https://speakerdeck.com/robdel12/testing-big-in-javascript
     videos:
       - https://youtu.be/w8a7Km9b6UI
     description: |-
@@ -110,7 +110,7 @@ talks:
         github:
         website:
     slides:
-    - https://docs.google.com/presentation/d/1Vh03g-Xmb_emXJ0dNtsb7IFsO71GUPz6G8wCNYHUph0/edit#slide=id.g35f391192_04
+      - https://docs.google.com/presentation/d/1Vh03g-Xmb_emXJ0dNtsb7IFsO71GUPz6G8wCNYHUph0/edit#slide=id.g35f391192_04
     videos:
       - https://youtu.be/Z5A3vc6AucY
     description: |-
@@ -126,7 +126,7 @@ talks:
         github:
         website:
     slides:
-    - https://www.beautiful.ai/deck/-LKwMZNHA9Ok5S-xRt_J/Building-AR-Apps-Byteconf
+      - https://www.beautiful.ai/deck/-LKwMZNHA9Ok5S-xRt_J/Building-AR-Apps-Byteconf
     videos:
       - https://youtu.be/1GToikXnNaw
     description: |-
@@ -142,7 +142,7 @@ talks:
         github:
         website:
     slides:
-    - https://slides.com/kentcdodds/confident-react
+      - https://slides.com/kentcdodds/confident-react
     videos:
       - https://youtu.be/zGlnlP99aFk
     description: |-

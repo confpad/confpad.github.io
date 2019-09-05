@@ -55,10 +55,10 @@ talks:
     type: regular
     time: 2019-02-08
     authors:
-     - name:  Kat Zień
-       twitter: kasiazien
-       github:
-       website:
+      - name:  Kat Zień
+        twitter: kasiazien
+        github:
+        website:
     slides:
     videos:
     description: |-

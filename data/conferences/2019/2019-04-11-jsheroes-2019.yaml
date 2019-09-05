@@ -342,8 +342,3 @@ talks:
       - https://youtu.be/6wPeM8mY-98
     description: |-
       Developers are quick to complain about "JavaScript Fatigue", the perceived high volatility of libraries, tooling and the JavaScript language itself — yet very few look at these changes and additions as a whole. In this talk I will take some of JavaScript's new features with the biggest transformative potential (ES Modules, WebAssembly, the DOM-Node.js API convergence), and I try to showcase what they mean for web development and how, when used together, they are able to address various hurdles and complaints that have been plaguing Node.js & web development for a long time.
-
-
-
-
-

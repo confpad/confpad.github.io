@@ -940,7 +940,6 @@ talks:
     description: |-
       Sound on Android is a topic that is rarely covered, which is why I wanted to shed some lights in my experience with the sound management APIs on Android.So in this talk, we'll touch on how sounds actually work programmatically, and we'll talk about how to play a sound on Android in the most simple way. We will also cover the principle of sound focus, what it is, how and when to use it. We'll see what we can do with MIDI as well. And finally, we'll go deeper in the rabbit hole and get introduced to the lower levels of sounds processing with the help of OpenSL ES and the SuperPowered library.
 
-
   - title: Android Auto, vos médias dans votre voiture.
     lang: en
     type: regular
@@ -1133,8 +1132,3 @@ talks:
     slides:
     videos:
     description: |-
-
-
-
-
-

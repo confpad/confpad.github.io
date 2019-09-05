@@ -25,7 +25,6 @@ module.exports.slugifyTitle = title => slugify(title, { lower: true })
   .trim()
   .replace(/ /g, '-');
 
-
 /**
  * Parse YAML to JS object
  *
