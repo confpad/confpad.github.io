@@ -1,5 +1,5 @@
 conference:
-    
+
   name: DevOpsCon 2019
   status: incomplete
   series: devopsconference.de
@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Julia Wester
         twitter:
@@ -35,13 +34,12 @@ talks:
     slides:
     videos:
     description: |-
-      It is so easy to think in binaries. I’m right and, because you don’t agree with me, you must be wrong. This is good and that’s something different so it must be bad. We see this type of thinking everywhere, from the political stage to corporate offices. From immigration stances to opinions of work methodologies, we see strong polarizing voices creating camps of extremism. The rising level of binary thinking that has emerged over the years has filled us with a bad taste in our mouths and made us almost lose sight of why we are communicating and working together in the first place. Binary thinking isn’t inherently bad. Like any other tool, it works out great when it’s needed but can cause massive damage when used in complex situations. Fortunately, we can begin to navigate the chasm that exists between the existing extremes by recognizing the spectrum of options between them and learning how to navigate them to reach your end goals. Come and learn how we can become spectrum thinkers and directional thinkers that care more about progress than being right or wrong. 
+      It is so easy to think in binaries. I’m right and, because you don’t agree with me, you must be wrong. This is good and that’s something different so it must be bad. We see this type of thinking everywhere, from the political stage to corporate offices. From immigration stances to opinions of work methodologies, we see strong polarizing voices creating camps of extremism. The rising level of binary thinking that has emerged over the years has filled us with a bad taste in our mouths and made us almost lose sight of why we are communicating and working together in the first place. Binary thinking isn’t inherently bad. Like any other tool, it works out great when it’s needed but can cause massive damage when used in complex situations. Fortunately, we can begin to navigate the chasm that exists between the existing extremes by recognizing the spectrum of options between them and learning how to navigate them to reach your end goals. Come and learn how we can become spectrum thinkers and directional thinkers that care more about progress than being right or wrong.
 
   - title: Using Conflict and Dissent to create robust, resilient solutions
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Julia Wester
         twitter:
@@ -50,13 +48,12 @@ talks:
     slides:
     videos:
     description: |-
-      When we think through work we primarily focus on the happy path. this only gives us half the picture. When we take time to explore the dark side of work, we can anticipate many of the dangers lurking in wait. There are many ways to explore this dark side. This talk will cover why this is important and a handful of strategies for diving in and coming out the other side stronger. 
+      When we think through work we primarily focus on the happy path. this only gives us half the picture. When we take time to explore the dark side of work, we can anticipate many of the dangers lurking in wait. There are many ways to explore this dark side. This talk will cover why this is important and a handful of strategies for diving in and coming out the other side stronger.
 
   - title: Kick-start your DevOps Transformation as a Project
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: René Lippert
         twitter:
@@ -71,7 +68,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Clemens Utschig-Utschig
         twitter:
@@ -86,7 +82,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Debbie Levitt
         twitter: DevOpsICU
@@ -101,7 +96,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Nir Koren
         twitter: korennir
@@ -116,7 +110,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Nir Koren
         twitter: korennir
@@ -131,7 +124,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Nir Koren
         twitter: korennir
@@ -146,7 +138,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Syed Hamid Rasool
         twitter: shamidrasool
@@ -161,7 +152,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Christian Uhl
         twitter: chrisuhl
@@ -176,7 +166,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Jörg Schad
         twitter: joerg_schad
@@ -191,7 +180,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Artur Margonari
         twitter: arturmargonari
@@ -206,7 +194,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Kamesh Sampath
         twitter: kamesh_sampath
@@ -221,7 +208,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Todor Todorov
         twitter: totollygeek
@@ -236,7 +222,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Kalle Sirkesalo
         twitter: Eficode
@@ -251,7 +236,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Ben Linders
         twitter: BenLinders
@@ -266,7 +250,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Roland Huss
         twitter: ro14nd
@@ -281,7 +264,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Dmitrii Dolgov
         twitter: erthalion
@@ -296,7 +278,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Erkan Yanar
         twitter: erkuleswastaken
@@ -311,7 +292,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Erkan Yanar
         twitter: erkuleswastaken
@@ -326,7 +306,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Roland Huss
         twitter: ro14nd
@@ -341,7 +320,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Kamil Puk
         twitter:
@@ -360,7 +338,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Konstantin Diener
         twitter: Konstantin Diener
@@ -375,7 +352,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Michiel Rook
         twitter: michieltcs
@@ -390,7 +366,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Christian Schneider
         twitter: cschneider4711
@@ -405,7 +380,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Ellen Körbes
         twitter: ellenkorbes
@@ -420,7 +394,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Baruch Sadogursky
         twitter: jbaruch
@@ -435,7 +408,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Baruch Sadogursky
         twitter: jbaruch
@@ -450,7 +422,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Gerd Aschemann
         twitter:
@@ -465,7 +436,6 @@ talks:
     lang: en
     type: regular
     time: 2019-12-03
-    room: Hilton Munich Park
     authors:
       - name: Patrick Arnold
         twitter:

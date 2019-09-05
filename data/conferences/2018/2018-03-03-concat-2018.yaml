@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Daniel Clifford
         twitter: expatdanno
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Ivana McConnell
         twitter: IvanaMcConnell
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Brandon Williams
         twitter: mbrandonw
@@ -71,7 +68,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Ursula Sarracini
         twitter: ursulasarracini
@@ -86,7 +82,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Ola Gasidlo
         twitter: misprintedtype
@@ -101,7 +96,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Ryan Mackey
         twitter: ReadOnlyMackey
@@ -116,7 +110,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Jenny Shen
         twitter: jennyshen
@@ -131,7 +124,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Rasmus Lerdorf
         twitter: rasmus
@@ -147,7 +139,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Nicole Saidy
         twitter: nicolesaidy
@@ -162,7 +153,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Houssein Djirdeh
         twitter: hdjirdeh
@@ -177,7 +167,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Estelle Weyl
         twitter: estellevw
@@ -192,7 +181,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Michael Lippautz
         twitter: mlippautz
@@ -207,7 +195,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Mike Riethmuller
         twitter: MikeRiethmuller
@@ -222,7 +209,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Georg Sorst
         twitter: piefke_schorsch
@@ -237,7 +223,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Tiffany Conroy
         twitter: theophani
@@ -252,7 +237,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Varun Vachhar
         twitter: winkerVSbecks
@@ -267,7 +251,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Max Stoiber
         twitter: mxstbr
@@ -282,7 +265,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-03-03
-    room:
     authors:
     slides:
     videos:

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Matias Niemelä
         twitter: yearofmoo/
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Simona Cotin
         twitter: simona_cotin
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Sani Yusuf
         twitter: saniyusuf
@@ -71,7 +68,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Filip Bech-Larsen
         twitter: Filipbech
@@ -86,7 +82,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Bartosz Pietrucha
         twitter: pietrucha
@@ -101,7 +96,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Michael Haberman
         twitter: hab_mic
@@ -116,7 +110,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Stepan Suvorov
         twitter: stevermeister
@@ -131,7 +124,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Ado Kukic
         twitter: KukicAdo
@@ -146,7 +138,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Martin Hochel
         twitter: martin_hotell
@@ -161,7 +152,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Manfred Steyer
         twitter: ManfredSteyer
@@ -176,7 +166,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Julien Renaux
         twitter: julienrenaux
@@ -191,7 +180,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Srushtika Neelakantam
         twitter: Srushtika
@@ -206,7 +194,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Wassim Chegham
         twitter:
@@ -221,7 +208,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Pascal Precht
         twitter: PascalPrecht
@@ -236,7 +222,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: John Papa
         twitter: John_Papa
@@ -251,7 +236,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Asim Hussain
         twitter: jawache
@@ -266,7 +250,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Tara Z. Manicsic
         twitter: tzmanics
@@ -281,7 +264,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Martin Sonnenholzer
         twitter: chaos_monster
@@ -296,7 +278,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Kristiyan Kostadinov
         twitter: _crisbeto
@@ -311,7 +292,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Ward Bell
         twitter: wardbell
@@ -326,7 +306,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Felix Rieseberg
         twitter: felixrieseberg
@@ -341,7 +320,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Wassim Chegham
         twitter: manekinekko
@@ -356,7 +334,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
     slides:
     videos:
@@ -367,7 +344,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Martin Splitt
         twitter: g33konaut
@@ -382,7 +358,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Sander Elias
         twitter: esosanderelias
@@ -397,7 +372,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: David Muellerchen
         twitter: webdave_de
@@ -412,7 +386,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Katerina Skroumpelou
         twitter: psybercity
@@ -427,7 +400,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Oskari Okko Ojala
         twitter: okko
@@ -446,7 +418,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Juan Herrera
         twitter: jdjuan
@@ -461,7 +432,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Vitalii Bobrov
         twitter: bobrov1989
@@ -476,7 +446,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Juri Strumpflohner
         twitter: juristr
@@ -491,7 +460,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Sean Landsman
         twitter:
@@ -506,7 +474,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Carl Vuorinen
         twitter: cvuorinen
@@ -521,7 +488,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Alyssa Nicoll
         twitter: AlyssaNicoll
@@ -536,7 +502,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Erik Haddad
         twitter: erikhaddad
@@ -551,7 +516,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Majid Hajian
         twitter: mhadaily
@@ -566,7 +530,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Max NgWizard
         twitter: maxim_koretskyi
@@ -581,7 +544,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Martin Splitt
         twitter: g33konaut
@@ -596,7 +558,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Michael Hladky
         twitter: Michael_Hladky
@@ -611,7 +572,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Akseli Virtanen
         twitter:
@@ -626,7 +586,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Uri Shaked
         twitter: UriShaked
@@ -641,7 +600,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: Boyan Mihaylov
         twitter: boyanio
@@ -656,7 +614,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
       - name: James Henry
         twitter: MrJamesHenry
@@ -671,7 +628,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-01
-    room:
     authors:
     slides:
     videos:

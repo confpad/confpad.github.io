@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-05-25 10:00:00
-    room:
     authors:
       - name: JS CONF ARMENIA
         twitter: ReactConfAM
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2019-05-25 10:00:00
-    room:
     authors:
       - name: JS CONF ARMENIA
         twitter: ReactConfAM

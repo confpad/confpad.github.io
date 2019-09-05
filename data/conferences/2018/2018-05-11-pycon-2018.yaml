@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom A
     authors:
       - name: Irina Truong
         twitter:
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom B
     authors:
       - name: Philip James
         twitter:
@@ -62,7 +60,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Global Center Ballroom AB
     authors:
       - name: Alex Petralia
         twitter:
@@ -79,7 +76,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom A
     authors:
       - name: Kelsey Pedersen
         twitter:
@@ -95,7 +91,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom A
     authors:
       - name: Andrew Knight
         twitter:
@@ -112,7 +107,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom B
     authors:
       - name: Julie Lavoie
         twitter:
@@ -128,7 +122,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Room 26A/B/C
     authors:
       - name: Hillel Wayne
         twitter:
@@ -145,7 +138,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom C
     authors:
       - name: Kirk Kaiser
         twitter:
@@ -161,7 +153,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Global Center Ballroom AB
     authors:
       - name: Sam Kitajima-Kimbrel
         twitter:
@@ -178,7 +169,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Room 26A/B/C
     authors:
       - name: Jiaqi Liu
         twitter:
@@ -195,7 +185,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom C
     authors:
       - name: Joyce Jang
         twitter:
@@ -212,7 +201,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Global Center Ballroom AB
     authors:
       - name: Sophie Rapoport
         twitter:
@@ -228,7 +216,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom A
     authors:
       - name: Stacy Morse
         twitter:
@@ -245,7 +232,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom B
     authors:
       - name: Chris Schuhmacher
         twitter:
@@ -261,7 +247,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Global Center Ballroom AB
     authors:
       - name: Shohei Hido
         twitter:
@@ -278,7 +263,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom A
     authors:
       - name: Holden Karau
         twitter:
@@ -294,7 +278,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom B
     authors:
       - name: Van Lindberg
         twitter:
@@ -310,7 +293,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom B
     authors:
       - name: Lisa Roach
         twitter:
@@ -326,7 +308,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Room 26A/B/C
     authors:
       - name: Nina Zakharenko
         twitter:
@@ -342,7 +323,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom A
     authors:
       - name: Stephanie Kim
         twitter:
@@ -358,7 +338,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom B
     authors:
       - name: Anna Ossowski
         twitter:
@@ -375,7 +354,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Room 26A/B/C
     authors:
       - name: Christopher Neugebauer
         twitter:
@@ -399,7 +377,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom C
     authors:
       - name: David Gouldin
         twitter:
@@ -416,7 +393,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom B
     authors:
       - name: Padmaja Bhagwat
         twitter:
@@ -433,7 +409,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom C
     authors:
       - name: Allison Kaptur
         twitter:
@@ -449,7 +424,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom C
     authors:
       - name: Jake VanderPlas
         twitter:
@@ -466,7 +440,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Room 26A/B/C
     authors:
       - name: Ravi Chityala
         twitter:
@@ -481,7 +454,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Room 26A/B/C
     authors:
       - name: Amanda Sopkin
         twitter:
@@ -497,7 +469,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Global Center Ballroom AB
     authors:
       - name: Valery Calderon
         twitter:
@@ -514,7 +485,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom A
     authors:
       - name: Liz Sander
         twitter:
@@ -531,7 +501,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Room 26A/B/C
     authors:
       - name: Julie Qiu
         twitter:
@@ -547,7 +516,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom C
     authors:
       - name: Andrew Godwin
         twitter:
@@ -563,7 +531,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom B
     authors:
       - name: Emily Morehouse-Valcarcel
         twitter:
@@ -579,7 +546,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Room 26A/B/C
     authors:
       - name: Opetunde Adepoju
         twitter:
@@ -594,7 +560,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Global Center Ballroom AB
     authors:
       - name: John Reese
         twitter:
@@ -610,7 +575,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom C
     authors:
       - name: Nathaniel J. Smith
         twitter:
@@ -626,7 +590,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom C
     authors:
       - name: Adam Fletcher
         twitter:
@@ -646,7 +609,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Grand Ballroom A
     authors:
       - name: Brian Okken
         twitter:
@@ -667,7 +629,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Global Center Ballroom AB
     authors:
       - name: Justin Crown
         twitter:
@@ -684,7 +645,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room: Global Center Ballroom AB
     authors:
       - name: Keith Yang
         twitter:
@@ -699,7 +659,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom B
     authors:
       - name: James Bennett
         twitter:
@@ -715,7 +674,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Global Center Ballroom AB
     authors:
       - name: Christopher Fonnesbeck
         twitter:
@@ -731,7 +689,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom C
     authors:
       - name: Russell Keith-Magee
         twitter:
@@ -747,7 +704,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Room 26A/B/C
     authors:
       - name: Dmitry Filippov
         twitter:
@@ -767,7 +723,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom B
     authors:
       - name: Christopher Swenson
         twitter:
@@ -784,7 +739,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom A
     authors:
       - name: Nir Arad
         twitter:
@@ -801,7 +755,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom B
     authors:
       - name: Amit Saha
         twitter:
@@ -818,7 +771,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom C
     authors:
       - name: Raymond Hettinger
         twitter:
@@ -834,7 +786,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom B
     authors:
       - name: Anna Nicanorova
         twitter:
@@ -850,7 +801,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Room 26A/B/C
     authors:
       - name: Matthew Rocklin
         twitter:
@@ -866,7 +816,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom C
     authors:
       - name: Lilly Ryan
         twitter:
@@ -882,7 +831,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Room 26A/B/C
     authors:
       - name: Paul Vincent Craven
         twitter:
@@ -899,7 +847,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom B
     authors:
       - name: Colin Carroll
         twitter:
@@ -920,7 +867,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom B
     authors:
       - name: Jason Fried
         twitter:
@@ -936,7 +882,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom C
     authors:
       - name: Barry Warsaw
         twitter:
@@ -953,7 +898,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom A
     authors:
       - name: Nicolle Cysneiros
         twitter:
@@ -969,7 +913,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Global Center Ballroom AB
     authors:
       - name: Amjith Ramanujam
         twitter:
@@ -985,7 +928,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Room 26A/B/C
     authors:
       - name: Jack Diederich
         twitter:
@@ -1001,7 +943,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom A
     authors:
       - name: Hynek Schlawack
         twitter:
@@ -1017,7 +958,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Room 26A/B/C
     authors:
       - name: Dustin Ingram
         twitter:
@@ -1033,7 +973,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Global Center Ballroom AB
     authors:
       - name: Esther Nam
         twitter:
@@ -1049,7 +988,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom C
     authors:
       - name: Miguel Grinberg
         twitter:
@@ -1066,7 +1004,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Global Center Ballroom AB
     authors:
       - name: Kenneth Reitz
         twitter:
@@ -1083,7 +1020,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom A
     authors:
       - name: Carol Willing
         twitter:
@@ -1099,7 +1035,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom A
     authors:
       - name: Janet Matsen
         twitter:
@@ -1116,7 +1051,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom C
     authors:
       - name: Trey Hunner
         twitter:
@@ -1132,7 +1066,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom B
     authors:
       - name: Victor Stinner
         twitter:
@@ -1148,7 +1081,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom A
     authors:
       - name: Justin Myles Holmes
         twitter:
@@ -1164,7 +1096,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Global Center Ballroom AB
     authors:
       - name: Erin Braswell
         twitter:
@@ -1180,7 +1111,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Global Center Ballroom AB
     authors:
       - name: Rae Knowler
         twitter:
@@ -1197,7 +1127,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Room 26A/B/C
     authors:
       - name: Matt Davis
         twitter:
@@ -1213,7 +1142,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom C
     authors:
       - name: David Beazley
         twitter:
@@ -1229,7 +1157,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Room 26A/B/C
     authors:
       - name: Graham Dumpleton
         twitter:
@@ -1246,7 +1173,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom C
     authors:
       - name: Larry Hastings
         twitter:
@@ -1262,7 +1188,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Global Center Ballroom AB
     authors:
       - name: Scott Triglia
         twitter:
@@ -1279,7 +1204,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Room 26A/B/C
     authors:
       - name: VM (Vicky) Brasseur
         twitter:
@@ -1295,7 +1219,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom A
     authors:
       - name: Sara Packman
         twitter:
@@ -1312,7 +1235,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom A
     authors:
       - name: Christopher Beacham / Lady Red
         twitter:
@@ -1328,7 +1250,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Global Center Ballroom AB
     authors:
       - name: Mariatta Wijaya
         twitter:
@@ -1345,7 +1266,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room: Grand Ballroom B
     authors:
       - name: Shannon Turner
         twitter:
@@ -1362,7 +1282,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Room 26A/B/C
     authors:
       - name: Daniel Pyrathon
         twitter:
@@ -1379,7 +1298,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Grand Ballroom A
     authors:
       - name: Kyle Knapp
         twitter:
@@ -1396,7 +1314,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Grand Ballroom C
     authors:
       - name: Ned Batchelder
         twitter:
@@ -1412,7 +1329,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Grand Ballroom B
     authors:
       - name: Greg Price
         twitter:
@@ -1428,7 +1344,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Grand Ballroom B
     authors:
       - name: Claudio Freire
         twitter:
@@ -1445,7 +1360,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Room 26A/B/C
     authors:
       - name: Mario Corchero
         twitter:
@@ -1461,7 +1375,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Global Center Ballroom AB
     authors:
       - name: Amber Brown ("HawkOwl")
         twitter:
@@ -1477,7 +1390,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Grand Ballroom C
     authors:
       - name: Alex Gaynor
         twitter:
@@ -1493,7 +1405,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Global Center Ballroom AB
     authors:
       - name: vigneshwer dhinakaran
         twitter:
@@ -1510,7 +1421,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Grand Ballroom C
     authors:
       - name: Alvaro Leiva Geisse
         twitter:
@@ -1526,7 +1436,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Grand Ballroom A
     authors:
       - name: Steven Sklar
         twitter:
@@ -1542,7 +1451,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Grand Ballroom A
     authors:
       - name: Zekun Li
         twitter:
@@ -1559,7 +1467,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Global Center Ballroom AB
     authors:
       - name: Carl Meyer
         twitter:
@@ -1576,7 +1483,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Room 26A/B/C
     authors:
       - name: Pieter Hooimeijer
         twitter:
@@ -1592,7 +1498,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-13
-    room: Grand Ballroom B
     authors:
       - name: Renato Oliveira
         twitter:

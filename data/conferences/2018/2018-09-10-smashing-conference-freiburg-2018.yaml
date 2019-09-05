@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-10
-    room:
     authors:
       - name: Craig Mod
         twitter: craigmod
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-10
-    room:
     authors:
       - name: Tammy Everts
         twitter: tameverts
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-10
-    room:
     authors:
       - name: Ian Feather
         twitter: ianfeather
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-10
-    room:
     authors:
       - name: Chui Chui Tan
         twitter: chuisquared
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-10
-    room:
     authors:
       - name: Morten R.-Hendriksen
         twitter: morlo
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-10
-    room:
     authors:
       - name: Seb Lee-Delisle
         twitter: seb_ly
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-11
-    room:
     authors:
       - name: Hannah Pileggi
         twitter: achpea
@@ -137,7 +130,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-11
-    room:
     authors:
       - name: Trine Falbe
         twitter: trinefalbe
@@ -153,7 +145,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-11
-    room:
     authors:
       - name: Yoav Weiss
         twitter: yoavweiss
@@ -169,7 +160,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-11
-    room:
     authors:
       - name: Andrea Drugay
         twitter: andreadrugay
@@ -185,7 +175,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-11
-    room:
     authors:
       - name: Josh Clark
         twitter: bigmediumjosh

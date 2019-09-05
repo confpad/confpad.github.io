@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Amy Nguyen
         twitter:
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Mathias Bynens
         twitter: mathias
@@ -59,7 +57,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Vigneshwer Dhinakaran
         twitter:
@@ -75,7 +72,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Irina Shestak
         twitter:
@@ -91,7 +87,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Suz Hinton
         twitter:
@@ -107,7 +102,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Craig Spence
         twitter:
@@ -123,7 +117,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Caleb Sotelo
         twitter:
@@ -139,7 +132,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Alexander Pope
         twitter:
@@ -155,7 +147,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Madlaina Kalunder
         twitter:
@@ -171,7 +162,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Malte Ubl
         twitter:
@@ -187,7 +177,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Tim Holman
         twitter:
@@ -203,7 +192,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Nikolay Matvienko
         twitter:
@@ -219,7 +207,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Brittany Storoz
         twitter:
@@ -235,7 +222,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Madalyn Parker
         twitter:
@@ -251,7 +237,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-10
-    room:
     authors:
       - name: Patricia Realini
         twitter:

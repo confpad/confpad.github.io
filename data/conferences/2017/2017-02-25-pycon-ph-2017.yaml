@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-25
-    room:
     authors:
       - name: Jeff Knupp
         twitter:
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-25
-    room:
     authors:
       - name: Kix Panganiban
         twitter:
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-25
-    room:
     authors:
       - name: Rick Bahague
         twitter:
@@ -71,7 +68,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-25
-    room:
     authors:
       - name: Lex Bryan
         twitter:
@@ -86,7 +82,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-25
-    room:
     authors:
       - name: Justine Santos
         twitter:
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-25
-    room:
     authors:
       - name: Romar Mayer Micabalo
         twitter:
@@ -120,7 +114,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-25
-    room:
     authors:
       - name: Nikolay Akatyev
         twitter:
@@ -139,7 +132,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-25
-    room:
     authors:
       - name: Joshua Arvin Lat
         twitter:
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-25
-    room:
     authors:
       - name: Diogenes Pascua
         twitter:
@@ -169,7 +160,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-26
-    room:
     authors:
       - name: Manoj Pandey
         twitter:
@@ -184,7 +174,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-26
-    room:
     authors:
       - name: Roselle
         twitter:
@@ -199,7 +188,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-26
-    room:
     authors:
       - name: Benjie Jiao
         twitter:
@@ -214,7 +202,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-26
-    room:
     authors:
       - name: Kim Ramos
         twitter:
@@ -233,7 +220,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-26
-    room:
     authors:
       - name: Jethro Guce
         twitter:
@@ -248,7 +234,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-26
-    room:
     authors:
       - name: Allan Barredo
         twitter:
@@ -263,7 +248,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-26
-    room:
     authors:
       - name: Marisa Quiaot
         twitter:
@@ -278,11 +262,10 @@ talks:
       - https://youtu.be/rNBN2YVGAcA
     description: |-
 
-  - title: Test Driven Development in Python by 
+  - title: Test Driven Development in Python by
     lang: en
     type: regular
     time: 2017-02-26
-    room:
     authors:
       - name: Elpedio Adoptante Jr.
         twitter:
@@ -301,7 +284,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-26
-    room:
     authors:
       - name: Prem Vilas Fortran Rara
         twitter:
@@ -316,7 +298,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-26
-    room:
     authors:
       - name: Ronald Ryan A. Icasiano
         twitter:
@@ -331,7 +312,6 @@ talks:
     lang: en
     type: regular
     time: 2017-02-26
-    room:
     authors:
       - name: Sean Mark Mira
         twitter:

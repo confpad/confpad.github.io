@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room:
     authors:
       - name: Tim Sneath
         twitter: timsneath
@@ -46,7 +45,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room:
     authors:
       - name: Will Larche
         twitter:
@@ -66,7 +64,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room:
     authors:
       - name: Emily Fortuna
         twitter: bouncingsheep
@@ -90,7 +87,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room:
     authors:
       - name: Eric Seidel
         twitter: _eseidel

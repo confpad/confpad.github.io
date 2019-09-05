@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Adam Miskiewicz
         twitter: skevy
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Ellie Day
         twitter: heyellieday
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Kadi Kraman
         twitter: kadikraman
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Carolyn Stransky
         twitter: carolstran
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Jimmy Jia
         twitter: jimmy_jia
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Glenn Reyes
         twitter: glnnrys
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Helen Zhukova
         twitter: zhukova_h
@@ -137,7 +130,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Johannes Schickling
         twitter: schickling
@@ -153,7 +145,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Andrew Rhyne
         twitter: thebigredgeek
@@ -169,7 +160,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Ivan Goncharov
         twitter: E1Goncharov
@@ -185,7 +175,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Nik Graf
 
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Christoffer Niska
         twitter: Crisu83
@@ -217,7 +205,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Tanmai Gopal
         twitter: tanmaigo
@@ -233,7 +220,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Eloy Durán
         twitter: alloy
@@ -248,7 +234,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Benjie Gillam
         twitter: benjie
@@ -264,7 +249,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-19
-    room:
     authors:
       - name: Dan Schafer
         twitter: dlschafer

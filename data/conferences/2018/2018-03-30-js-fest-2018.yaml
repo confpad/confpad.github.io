@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30 10:00:00
-    room:
     authors:
       - name: Douglas Crockford
         twitter:
@@ -43,7 +42,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-30 11:05:00
-    room:
     authors:
       - name: Alexandr Skachkov
         twitter: alSkachkov
@@ -60,7 +58,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-30 11:05:00
-    room:
     authors:
       - name: Lilia Karpenko
         twitter:
@@ -77,7 +74,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-30 12:10:00
-    room:
     authors:
       - name: Nikita Galkin
         twitter: galk_in
@@ -94,7 +90,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-30 12:10:00
-    room:
     authors:
       - name: Max Klymyshyn
         twitter:
@@ -111,7 +106,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30 14:05:00
-    room:
     authors:
       - name: Volodymyr Shymanskyy
         twitter:
@@ -128,7 +122,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-30 14:05:00
-    room:
     authors:
       - name: Andrey Kucherenko
         twitter:
@@ -145,7 +138,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30 14:05:00
-    room:
     authors:
       - name: Ivan Goncharov
         twitter:
@@ -162,7 +154,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-30 15:10:00
-    room:
     authors:
       - name: Ilya Ivanov
         twitter:
@@ -179,7 +170,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-30 15:10:00
-    room:
     authors:
       - name: Timofey Lavrenyuk
         twitter:
@@ -196,7 +186,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30 16:35:00
-    room:
     authors:
       - name: Douglas Crockford
         twitter:
@@ -213,7 +202,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30 16:35:00
-    room:
     authors:
       - name: Denis Radin
         twitter:
@@ -229,7 +217,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-30 17:40:00
-    room:
     authors:
       - name: Alexey Migutsky
         twitter: mr_mig_by
@@ -246,7 +233,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Harry Roberts
         twitter: csswizardry
@@ -262,7 +248,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Alexey Migutsky
         twitter: mr_mig_by
@@ -278,7 +263,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-31 10:00:00
-    room:
     authors:
       - name: Harry Roberts
         twitter: csswizardry
@@ -295,7 +279,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-31 11:05:00
-    room:
     authors:
       - name: Sergiy Babich
         twitter:
@@ -312,7 +295,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-31 11:05:00
-    room:
     authors:
       - name: Anna Herlihy
         twitter:
@@ -329,7 +311,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-31 13:00:00
-    room:
     authors:
       - name: Martin Chaov
         twitter:
@@ -346,7 +327,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-31 13:00:00
-    room:
     authors:
       - name: Vladimir Zaets
         twitter:
@@ -363,7 +343,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-31 13:00:00
-    room:
     authors:
       - name: Alexey Volkov
         twitter:
@@ -380,7 +359,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-31 14:05:00
-    room:
     authors:
       - name: Sergei Puzankovs
         twitter:
@@ -397,7 +375,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-31 14:05:00
-    room:
     authors:
       - name: Oleksii Babakhanov
         twitter:
@@ -413,7 +390,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-31 14:05:00
-    room:
     authors:
       - name: Mathias Buus Madsen
         twitter:
@@ -430,7 +406,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-31 15:30:00
-    room:
     authors:
       - name: Vitalii Ratyshnyi
         twitter:
@@ -447,7 +422,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-31 15:30:00
-    room:
     authors:
       - name: Roman Sachenko
         twitter:
@@ -464,7 +438,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-31 16:35:00
-    room:
     authors:
       - name: Roman Iakobchuk
         twitter:
@@ -481,7 +454,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-03-31 16:35:00
-    room:
     authors:
       - name: Alexander Korotaev
         twitter:

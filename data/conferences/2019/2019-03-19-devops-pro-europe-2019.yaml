@@ -1,5 +1,5 @@
 conference:
-    
+
   name: DevOps Pro Europe 2019
   status: incomplete
   series: devopspro.lt
@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 5, Multikino
     authors:
       - name: Lothar Schulz
         twitter: lothar_schulz
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 6, Multikino
     authors:
       - name: Steponas Dauginis
         twitter:
@@ -62,7 +60,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 1, Multikino
     authors:
       - name: Kaimar Karu
         twitter: kaimarkaru
@@ -78,7 +75,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 2, Multikino
     authors:
       - name: Peter Czanik
         twitter: Pczanik
@@ -94,7 +90,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 5, Multikino
     authors:
       - name: Henry Been
         twitter: henry_been
@@ -110,7 +105,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 6, Multikino
     authors:
       - name: Dave Lewis
         twitter: gattaca
@@ -126,7 +120,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 1, Multikino
     authors:
       - name: Andrea Giardini
         twitter: GiardiniAndrea
@@ -142,7 +135,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 2, Multikino
     authors:
       - name: Johannes Nicolai
         twitter: Pulipan1
@@ -158,7 +150,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 5, Multikino
     authors:
       - name: Zane Lackey
         twitter: zanelackey
@@ -170,11 +161,10 @@ talks:
     description: |-
       This talk will share the lessons learned as CISO at Etsy building a security program at the leading edge of the DevOps movement. Specifically it will cover how, when done right, a modern approach to security actually empowers an organization to move faster, rather than act as a blocker.
 
-  - title: Accelerate AppDev with KIK (Kubernetes-Istio-Knative) 
+  - title: Accelerate AppDev with KIK (Kubernetes-Istio-Knative)
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 6, Multikino
     authors:
       - name: Dharmesh Sheta
         twitter:
@@ -190,7 +180,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 1, Multikino
     authors:
       - name: Liviu-Stefanita Baiu
         twitter:
@@ -206,7 +195,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 2, Multikino
     authors:
       - name: Augusto Rosa
         twitter: kiniama
@@ -222,7 +210,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 5, Multikino
     authors:
       - name: Jose Quaresma
         twitter:
@@ -238,7 +225,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 6, Multikino
     authors:
       - name: Nikhil Barthwal
         twitter: nikhilbarthwal
@@ -254,7 +240,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 1, Multikino
     authors:
       - name: Erwin Staal
         twitter: erwin_staal
@@ -270,7 +255,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 2, Multikino
     authors:
       - name: Roman Pickl
         twitter:
@@ -286,7 +270,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 5, Multikino
     authors:
       - name: Hagai Barel
         twitter: HagaiBarel
@@ -302,7 +285,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 6, Multikino
     authors:
       - name: Alain Lompo
         twitter: alainlompo
@@ -318,7 +300,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 1, Multikino
     authors:
       - name: Lorenzo Barbieri
         twitter:
@@ -334,7 +315,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 5, Multikino
     authors:
       - name: Rick Allan
         twitter:
@@ -349,7 +329,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 6, Multikino
     authors:
       - name: Renato Losio
         twitter:
@@ -365,7 +344,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 1, Multikino
     authors:
       - name: Janos Pasztor
         twitter: janoszen
@@ -381,7 +359,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Hall 2, Multikino
     authors:
       - name: Damien Duportal
         twitter: DamienDuportal
@@ -397,7 +374,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 5, Multikino
     authors:
       - name: Alon Lebenthal
         twitter:
@@ -413,7 +389,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 6, Multikino
     authors:
       - name: Simonas Kareiva
         twitter:
@@ -429,7 +404,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 1, Multikino
     authors:
       - name: Artem Demchenkov
         twitter:
@@ -445,7 +419,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 2, Multikino
     authors:
       - name: Bas Peters
         twitter:
@@ -461,7 +434,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 5, Multikino
     authors:
       - name: Will Button
         twitter: wfbutton
@@ -477,7 +449,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 6, Multikino
     authors:
       - name: Martin Reinhardt
         twitter: mreinhardt
@@ -493,7 +464,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 1, Multikino
     authors:
       - name: Marton Kodok
         twitter:
@@ -509,7 +479,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 2, Multikino
     authors:
       - name: Kayra Otaner
         twitter: kayraotaner
@@ -525,7 +494,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 5, Multikino
     authors:
       - name: Janos Pasztor
         twitter: janoszen
@@ -541,7 +509,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 6, Multikino
     authors:
       - name: Eugene Istrati
         twitter: eistrati
@@ -557,7 +524,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 1, Multikino
     authors:
       - name: Benny Michielsen
         twitter: bennymichielsen
@@ -573,7 +539,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 2, Multikino
     authors:
       - name: Geoffrey van der Tas
         twitter:
@@ -589,7 +554,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 5, Multikino
     authors:
       - name: Jeroen Willemsen
         twitter: commjoenie
@@ -605,7 +569,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 6, Multikino
     authors:
       - name: Gil Tayar
         twitter: giltayar
@@ -621,7 +584,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 1, Multikino
     authors:
       - name: Guy Salton
         twitter:
@@ -637,7 +599,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 2, Multikino
     authors:
       - name: Noam Shochat
         twitter: noamshochat
@@ -653,7 +614,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 5, Multikino
     authors:
       - name: Jachim Coudenys
         twitter: coudenysj
@@ -669,7 +629,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 6, Multikino
     authors:
       - name: Gil Tayar
         twitter: giltayar
@@ -679,13 +638,12 @@ talks:
     videos:
       - https://youtu.be/G-EyEnDelOU
     description: |-
-      OK, OK, you get Microservices! Gil is not going to preach about the benefits and problems with Microservice-based architecture. You can find hundreds of those talks online. What Gil is going to show is how his company implemented a Microservice project. The nuts and bolts of creating a repo with all the microservices, the structure of the code of each microservice, and creating packages with the common code. Also how to build a docker image from these microservices, how we test the whole thing, how we build the project, how we deploy it in production, and how we monitor it. It’s going to be a really boring talk, full of lots of tips they learned in blood in the last year of implementing this. So be prepared to be bored! And, hopefully, educated… 
+      OK, OK, you get Microservices! Gil is not going to preach about the benefits and problems with Microservice-based architecture. You can find hundreds of those talks online. What Gil is going to show is how his company implemented a Microservice project. The nuts and bolts of creating a repo with all the microservices, the structure of the code of each microservice, and creating packages with the common code. Also how to build a docker image from these microservices, how we test the whole thing, how we build the project, how we deploy it in production, and how we monitor it. It’s going to be a really boring talk, full of lots of tips they learned in blood in the last year of implementing this. So be prepared to be bored! And, hopefully, educated…
 
   - title: Zero-Downtime Java Enterprise Applications With Kubernetes
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 1, Multikino
     authors:
       - name: Sebastian Daschner
         twitter: DaschnerS
@@ -701,7 +659,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-21
-    room: Hall 2, Multikino
     authors:
       - name: Peter Souter
         twitter: petersouter

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-08-19
-    room:
     authors:
       - name: Andrew Brinker
         twitter: andrewbrinker
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2017-08-19
-    room:
     authors:
       - name: Sergio Benitez
         twitter:
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2017-08-19
-    room:
     authors:
       - name: Michael Gattozzi
         twitter:
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2017-08-19
-    room:
     authors:
       - name: Naomi Testard
         twitter:
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2017-08-19
-    room:
     authors:
       - name: Sean Griffin
         twitter: sgrif
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2017-08-19
-    room:
     authors:
       - name: Steve Jenson
         twitter: stevej
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2017-08-19
-    room:
     authors:
       - name: Isis Lovecruft
         twitter: isislovecruft
@@ -142,7 +135,6 @@ talks:
     lang: en
     type: regular
     time: 2017-08-19
-    room:
     authors:
       - name: Joe Duffy
         twitter: xjoeduffyx

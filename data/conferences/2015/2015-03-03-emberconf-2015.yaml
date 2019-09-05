@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Yehuda Katz
         twitter: wycats
@@ -45,7 +44,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Stef Penner
         twitter: stefanpenner
@@ -61,7 +59,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Steve Trevathan
         twitter: strevat
@@ -77,7 +74,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Godfrey Chan
         twitter: chancancode
@@ -93,7 +89,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Luke Melia
         twitter: lukemelia
@@ -109,7 +104,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Lauren Tan
         twitter: sugarpirate_
@@ -125,7 +119,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Sam Selikoff
         twitter: samselikoff
@@ -141,7 +134,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Chris Henn
         twitter: cjwhn
@@ -157,7 +149,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Chris Eppstein
         twitter: chriseppstein
@@ -172,7 +163,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Dan Gebhardt
         twitter: dgeb
@@ -188,7 +178,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Matthew Beale
         twitter: mixonic
@@ -204,7 +193,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Jamie White
         twitter: jgwhite
@@ -220,7 +208,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Bryan Langslet
         twitter: blangslet
@@ -236,7 +223,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Brittany Storoz
         twitter: brittanystoroz
@@ -252,7 +238,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Steve Kinney
         twitter: stevekinney
@@ -268,7 +253,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Leah Silber
         twitter: wifelette
@@ -283,7 +267,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Edward Faulkner
         twitter: eaf4
@@ -299,7 +282,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Chris Eppstein
         twitter: chriseppstein

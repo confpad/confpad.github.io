@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Michael Bennett
         twitter:
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Chris Fritz
         twitter: chrisvfritz
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Simon MacDonald
         twitter: macdonst
@@ -75,7 +72,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Alexander Blom
         twitter: alexblom
@@ -91,7 +87,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Hassan Djirdeh
         twitter: djirdehh
@@ -107,7 +102,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-03
-    room:
     authors:
       - name: Jen Looper
         twitter: jenlooper

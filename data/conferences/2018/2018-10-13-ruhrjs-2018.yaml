@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-13
-    room:
     authors:
     slides:
     videos:
@@ -37,7 +36,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-13
-    room:
     authors:
       - name: Madlaina Kalunder
         twitter: anialdam
@@ -53,7 +51,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-13
-    room:
     authors:
       - name: Dominik Kundel
         twitter: dkundel
@@ -69,7 +66,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-13
-    room:
     authors:
       - name: Martin Splitt
         twitter: g33konaut
@@ -85,7 +81,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-13
-    room:
     authors:
       - name: Carolyn Stransky
         twitter: carolstran
@@ -101,7 +96,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-13
-    room:
     authors:
       - name: Stephanie Nemeth
         twitter: stephaniecodes
@@ -117,7 +111,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-13
-    room:
     authors:
       - name: Norbert Frank
         twitter: norbertdfrank
@@ -133,7 +126,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-13
-    room:
     authors:
       - name: Tobias Koppers
         twitter: wSokra
@@ -149,7 +141,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-14
-    room:
     authors:
       - name: Dan Callahan
         twitter: callahad
@@ -165,7 +156,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-14
-    room:
     authors:
       - name: Jenn Creighton
         twitter: gurlcode
@@ -181,7 +171,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-14
-    room:
     authors:
       - name: Bartosz Pietrucha
         twitter: pietrucha
@@ -197,7 +186,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-14
-    room:
     authors:
       - name: Michelle Garret
         twitter: msmichellegar
@@ -213,7 +201,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-14
-    room:
     authors:
       - name: David Kopal
         twitter: coding_lawyer
@@ -229,7 +216,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-14
-    room:
     authors:
       - name: Vanessa Yuen
         twitter: vanessayuenn
@@ -244,7 +230,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-14
-    room:
     authors:
       - name: Vitalii Bobrov
         twitter: bobrov1989

@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: RustConf 2019
   status: complete
   series: rustconf.com
@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-08-23
-    room: Room A, Oregon Convention Center
     authors:
       - name: Isobel Redelmeier
         twitter: 1z0b31
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2019-08-23
-    room: Room B, Oregon Convention Center
     authors:
       - name: Yoshua Wuyts
         twitter: yoshuawuyts
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2019-08-23
-    room: Room A, Oregon Convention Center
     authors:
       - name: Adam Perry
         twitter: adam_n_p
@@ -71,7 +68,6 @@ talks:
     lang: en
     type: regular
     time: 2019-08-23
-    room: Room B, Oregon Convention Center
     authors:
       - name: Gargi Sharma
         twitter: gawwrgi
@@ -86,7 +82,6 @@ talks:
     lang: en
     type: regular
     time: 2019-08-23
-    room: Room A, Oregon Convention Center
     authors:
       - name: J Haigh
         twitter: DebugSteven
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2019-08-23
-    room: Room B, Oregon Convention Center
     authors:
       - name: Eliza Weisman
         twitter: mycoliza
@@ -120,7 +114,6 @@ talks:
     lang: en
     type: regular
     time: 2019-08-23
-    room: Room A, Oregon Convention Center
     authors:
       - name: Jonathan Pallant
         twitter: therealjpster
@@ -135,7 +128,6 @@ talks:
     lang: en
     type: regular
     time: 2019-08-23
-    room: Room B, Oregon Convention Center
     authors:
       - name: Oliver Schneider
         twitter: oli_obk
@@ -150,7 +142,6 @@ talks:
     lang: en
     type: regular
     time: 2019-08-23
-    room: Room A, Oregon Convention Center
     authors:
       - name: Shoumik Palkar
         twitter:
@@ -165,7 +156,6 @@ talks:
     lang: en
     type: regular
     time: 2019-08-23
-    room: Room B, Oregon Convention Center
     authors:
       - name: Irina Shestak
         twitter: _lrlna
@@ -180,7 +170,6 @@ talks:
     lang: en
     type: regular
     time: 2019-08-23
-    room: Room A, Oregon Convention Center
     authors:
       - name: Jeremy Fitzhardinge
         twitter: jsgf
@@ -195,7 +184,6 @@ talks:
     lang: en
     type: regular
     time: 2019-08-23
-    room: Room B, Oregon Convention Center
     authors:
       - name: Isabella Muerte
         twitter: slurpsmadrips
@@ -210,7 +198,6 @@ talks:
     lang: en
     type: regular
     time: 2019-08-23
-    room: Room A, Oregon Convention Center
     authors:
       - name: Nick Fitzgerald
         twitter: fitzgen

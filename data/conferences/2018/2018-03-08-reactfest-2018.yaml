@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-09
-    room:
     authors:
       - name: Peggy Rayzis
         twitter: peggyrayzis
@@ -43,7 +42,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-09
-    room:
     authors:
       - name: Dan Abramov
         twitter: dan_abramov
@@ -59,7 +57,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-09
-    room:
     authors:
       - name: Sara Vieira
         twitter: NikkitaFTW
@@ -76,7 +73,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-09
-    room:
     authors:
       - name: Kitze
         twitter: thekitze
@@ -93,7 +89,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-09
-    room:
     authors:
       - name: Stephanie Siaw
         twitter: Siaw_Stephanie
@@ -109,7 +104,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-09
-    room:
     authors:
       - name: Marcel Cutts
         twitter: marcelCutts
@@ -126,7 +120,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-09
-    room:
     authors:
       - name: Eli Schutze
         twitter: elibelly
@@ -142,7 +135,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-09
-    room:
     authors:
       - name: Nicolas Couvrat
         twitter: nicol4s_c
@@ -158,7 +150,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-09
-    room:
     authors:
       - name: Sophie Koonin
         twitter: type_error
@@ -175,7 +166,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-09
-    room:
     authors:
       - name: Siddharth Kshetrapal
         twitter: siddharthkp
@@ -191,7 +181,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-09
-    room:
     authors:
       - name: Tomasz Łakomy
         twitter: tlakomy
@@ -208,7 +197,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-09
-    room:
     authors:
       - name: David Gomes
         twitter: davidrfgomes
@@ -225,7 +213,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-09
-    room:
     authors:
       - name: Susanna Wong
         twitter: studioswong
@@ -242,7 +229,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-09
-    room:
     authors:
       - name: Jan Monschke
         twitter: thedeftone

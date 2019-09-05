@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-06 09:40:00
-    room:
     authors:
       - name: Tierney Cyren
         twitter: bitandbang
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-06 10:10:00
-    room:
     authors:
       - name: Anna Migas
         twitter: szynszyliszys
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-06 11:10:00
-    room:
     authors:
       - name: Benedek Gagyi
         twitter: BenedekGagyi
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-06 11:40:00
-    room:
     authors:
       - name: Sam Richard
         twitter: snugug
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-06 12:10:00
-    room:
     authors:
       - name: Krzysztof Żuraw
         twitter:
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-06 12:15:00
-    room:
     authors:
       - name: Alexander Karlsson
         twitter:
@@ -120,7 +114,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-06 13:45:00
-    room:
     authors:
       - name: Alejandro Oviedo García
         twitter: a0viedo
@@ -136,7 +129,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-06 14:15:00
-    room:
     authors:
       - name: Katarzyna Jastrzębska-Łachacz
         twitter: kejt_bw
@@ -152,7 +144,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-06 15:00:00
-    room:
     authors:
       - name: Tessa Kelly
         twitter: t_kelly9
@@ -168,7 +159,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-06 15:15:00
-    room:
     authors:
       - name: Dominic McPhee
         twitter: dfmcphee
@@ -184,7 +174,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-06 15:45:00
-    room:
     authors:
       - name: Lucas Reis
         twitter:
@@ -199,7 +188,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-06 15:50:00
-    room:
     authors:
       - name: John Leidegren
         twitter:
@@ -214,7 +202,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-06 16:30:00
-    room:
     authors:
       - name: Charlie Gerard
         twitter: devdevcharlies
@@ -230,7 +217,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-06 17:00:00
-    room:
     authors:
       - name: Trent Willis
         twitter: trentmwillis
@@ -246,7 +232,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-07 09:40:00
-    room:
     authors:
       - name: Anna Henningsen
         twitter: addaleax
@@ -262,7 +247,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-07 10:10:00
-    room:
     authors:
       - name: Lauren Budorick
         twitter: lbudorick
@@ -278,7 +262,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-07 11:10:00
-    room:
     authors:
       - name: Ingvild Indrebø
         twitter: ingvildindrebo
@@ -294,7 +277,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-07 11:25:00
-    room:
     authors:
       - name: Tomas Della Vedova
         twitter: delvedor
@@ -310,7 +292,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-07 11:55:00
-    room:
     authors:
       - name: Ian Savchenko
         twitter:
@@ -325,7 +306,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-07 12:00:00
-    room:
     authors:
       - name: Vilberg Eliasson
         twitter:
@@ -340,7 +320,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-07 13:20:00
-    room:
     authors:
       - name: Mike Samuel
         twitter: mvsamuel
@@ -356,7 +335,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-07 13:50:00
-    room:
     authors:
       - name: Sandi Barr
         twitter: sandikbarr
@@ -372,7 +350,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-07 14:20:00
-    room:
     authors:
       - name: Erik Hellman
         twitter:
@@ -387,7 +364,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-07 14:25:00
-    room:
     authors:
       - name: Pierre Reimertz
         twitter:
@@ -402,7 +378,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-07 15:00:00
-    room:
     authors:
       - name: Isabella Silveira de Souza
         twitter: silveira_bells
@@ -418,7 +393,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-07 15:30:00
-    room:
     authors:
       - name: Andrew Betts
         twitter: triblondon
@@ -434,7 +408,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-07 16:00:00
-    room:
     authors:
       - name: Meng Shang
         twitter:
@@ -450,7 +423,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-07 17:10:00
-    room:
     authors:
       - name: Peter Marshall
         twitter: hooraybuffer

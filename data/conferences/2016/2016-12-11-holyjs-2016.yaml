@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Axel Rauschmayer
         twitter: rauschma
@@ -43,7 +42,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Victor Grishchenko
         twitter: gritzko
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Slobodan stojanovic
         twitter: slobodan_
@@ -75,7 +72,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Pavel Kondratenko
         twitter: mrgustarus
@@ -91,7 +87,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Vyacheslav Slinko
         twitter: vslinko
@@ -107,7 +102,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Thomas watson
         twitter: wa7son
@@ -123,7 +117,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Evgeny Pshenichny
         twitter: pshenichnyy
@@ -140,7 +133,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Nikita Prokopov
         twitter: nikitonsky
@@ -157,7 +149,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Roman Dvornov
         twitter: rdvornov
@@ -174,7 +165,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Nikolaus Graf
         twitter: nikgraf
@@ -191,7 +181,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Andrey Sitnik
         twitter: andrey_sitnik
@@ -208,7 +197,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Martin Kleppe
         twitter: aemkei
@@ -225,7 +213,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Irina Shestak
         twitter: _lrlna
@@ -242,7 +229,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Max stoiber
         twitter: mxstbr
@@ -259,7 +245,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Andrey Okonechnikov
         twitter: okonetchnikov
@@ -276,7 +261,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Tereza sokol
         twitter: mishunov
@@ -293,7 +277,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Evgeny Gusev
         twitter: bunopus
@@ -310,7 +293,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Martin splitt
         twitter: g33konaut
@@ -327,7 +309,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Mathias buus madsen
         twitter: mafintosh
@@ -344,7 +325,6 @@ talks:
     lang: en
     type: regular
     time: 2016-12-11
-    room:
     authors:
       - name: Denis Mishunov
         twitter: mishunov

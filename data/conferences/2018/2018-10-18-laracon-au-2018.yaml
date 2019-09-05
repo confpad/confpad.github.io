@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-18
-    room: Monkey Baa
     authors:
       - name: Adam Wathan
         twitter: adamwathan
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-18
-    room: Monkey Baa
     authors:
       - name: Simon Vrachliotis
         twitter: simonswiss
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-18
-    room: Monkey Baa
     authors:
       - name: Donna Benjamin
         twitter: kattekrab
@@ -71,7 +68,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-18
-    room: Monkey Baa
     authors:
       - name: Kate Kendall
         twitter: katekendall
@@ -86,7 +82,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-18
-    room: Monkey Baa
     authors:
       - name: Alex Lüneburg
         twitter: loonytoons
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-18
-    room: Monkey Baa
     authors:
       - name: Anwesha Chatterjee
         twitter: AnweshaChatte12
@@ -120,7 +114,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-18
-    room: Monkey Baa
     authors:
       - name: Taylor Otwell
         twitter: taylorotwell
@@ -135,7 +128,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-18
-    room: Monkey Baa
     authors:
       - name: David Hemphill
         twitter: davidhemphill
@@ -150,7 +142,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-18
-    room: Monkey Baa
     authors:
       - name: Douglas Reith
         twitter: douglas_reith
@@ -165,7 +156,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-18
-    room: Monkey Baa
     authors:
       - name: Kirk Bushell
         twitter: kirkbushell
@@ -180,7 +170,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-18
-    room: Monkey Baa
     authors:
       - name: Mark Babič
         twitter: bearcodi
@@ -195,7 +184,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-18
-    room: Monkey Baa
     authors:
       - name: Matt Stauffer
         twitter: stauffermatt

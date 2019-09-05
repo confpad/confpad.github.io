@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-24 11:30:00
-    room:
     authors:
       - name: Lea Verou
         twitter: LeaVerou
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-24 12:30:00
-    room:
     authors:
       - name: Tomasz Łakomy
         twitter: tlakomy
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-24 13:40:00
-    room:
     authors:
       - name: Mikhail Novikov
         twitter: freiksenet
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-24 14:20:00
-    room:
     authors:
       - name: Chen Hui Jing
         twitter: hj_chen
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-24 16:30:00
-    room:
     authors:
       - name: Benedikt Meurer
         twitter: bmeurer
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-24 16:40:00
-    room:
     authors:
       - name: Oleksandr Pavlyshch
         twitter: lokdawn80
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-24 16:50:00
-    room:
     authors:
       - name: Leonid Khachaturov
         twitter: leonya
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-24 17:00:00
-    room:
     authors:
       - name: Gregory Shehet
         twitter: agambit95
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-24 17:10:00
-    room:
     authors:
       - name: Michaela Lehr
         twitter: FischaelaMeer
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-24 17:20:00
-    room:
     authors:
       - name: Benedek Gagyi
         twitter: benedekgagyi
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-24 18:30:00
-    room:
     authors:
       - name: Denis Radin
         twitter: pixelscommander
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-24 19:10:00
-    room:
     authors:
       - name: Juho Vepsäläinen
         twitter: bebraw
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-25 11:20:00
-    room:
     authors:
       - name: Johannes Ewald
         twitter: jhnnns
@@ -234,7 +221,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-25 12:00:00
-    room:
     authors:
       - name: Michaela Lehr
         twitter: FischaelaMeer
@@ -250,7 +236,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-25 12:40:00
-    room:
     authors:
       - name: Bruce Lawson
         twitter: brucel
@@ -265,7 +250,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-25 13:20:00
-    room:
     authors:
       - name: Ronen Amiel
         twitter: ronenamiel
@@ -281,7 +265,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-25 14:00:00
-    room:
     authors:
       - name: Benedikt Meurer
         twitter: bmeurer
@@ -297,7 +280,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-25 14:40:00
-    room:
     authors:
       - name: Bruce Lawson
         twitter: brucel
@@ -312,7 +294,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-25 16:20:00
-    room:
     authors:
       - name: Denys Dovhan
         twitter: denysdovhan
@@ -328,7 +309,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-25 16:30:00
-    room:
     authors:
       - name: Abhishek Gupta
         twitter: ag251994
@@ -344,7 +324,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-25 16:40:00
-    room:
     authors:
       - name: Sergei Puzankov
         twitter: puzankovcom
@@ -359,7 +338,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-25 16:50:00
-    room:
     authors:
       - name: Helen Zhukova
         twitter:
@@ -375,7 +353,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-25 17:00:00
-    room:
     authors:
       - name: Andrey Okonetchnikov
         twitter: okonetchnikov
@@ -391,7 +368,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-25 17:40:00
-    room:
     authors:
       - name: Bruce Lawson
         twitter: brucel
@@ -406,7 +382,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-25 18:20:00
-    room:
     authors:
       - name: Vitaly Friedman
         twitter: smashingmag

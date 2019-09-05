@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Lavakumar Kuppan
         twitter: lavakumark
@@ -40,7 +39,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Rakesh Pai
         twitter: rakeshpai
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Abhishek Koserwal
         twitter: koserwal
@@ -70,7 +67,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Arunkumar Krishnamoorthy
         twitter: arunatpsg
@@ -86,7 +82,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Lavakumar Kuppan,Abhishek Koserwal
         twitter:
@@ -100,7 +95,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Vinci Rufus
         twitter: vinci
@@ -116,7 +110,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Abhik Mitra
         twitter: abhikmitra89
@@ -130,7 +123,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Rakesh Pai,Vinci Rufus,Arun Kumar,Krishnamoorthy
         twitter:
@@ -144,7 +136,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Jyotsna Gupta
         twitter: jyotsna17gupta
@@ -160,7 +151,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Navya Agarwal
         twitter: navyaagarwal
@@ -176,7 +166,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: CS Madhav
         twitter: csmadhav
@@ -192,7 +181,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Hemant Rai
         twitter: hemantisme
@@ -206,7 +194,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Navya Agarwal
         twitter:
@@ -240,7 +227,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Pavithra Kodmad
         twitter: pkodmad
@@ -254,7 +240,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-01-10
-    room:
     authors:
       - name: Ratan Kulshreshtha
         twitter: ratanshreshtha
@@ -268,7 +253,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Atishay Baid
         twitter: atishaybaid
@@ -284,7 +268,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Prateeksha Singh
         twitter:
@@ -298,7 +281,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Rahul Nanwani
         twitter:
@@ -324,7 +306,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-01-10
-    room:
     authors:
       - name: Suroor Wijdan
         twitter: wijdansuroor
@@ -338,7 +319,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Sohan Maheshwar
         twitter: sohanm
@@ -352,7 +332,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Sohan Maheshwar
         twitter: sohanm
@@ -366,7 +345,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Deepak Pathania
         twitter: deepakpathania789
@@ -380,7 +358,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-10
-    room:
     authors:
       - name: Prateeksha Singh
         twitter:

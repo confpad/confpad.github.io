@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: dina Amin
         twitter: dinaaamin
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Lyza Danger Gardner
         twitter: lyzadanger
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Kate Dawkins
         twitter: StudioDawkins
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Jan De Coster
         twitter: JanDeCoster
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Claire L. Evans
         twitter: theuniverse
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Karl Groves
         twitter: karlgroves
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Wesley Grubbs
         twitter: wesleygrubbs
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Vic Lee
         twitter: vicleeprints
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Jens Oliver Meiert
         twitter: j9t
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Mike Monteiro
         twitter: monteiro
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Tracy Osborn
         twitter: limedaring
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Miriam Suzanne
         twitter: mirisuzanne
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Jared Tarbell
         twitter:
@@ -233,7 +220,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Eric Eggert
         twitter:
@@ -249,7 +235,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Rob Bateman
         twitter:
@@ -265,7 +250,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Amber Wilson
         twitter:
@@ -281,7 +265,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-08
-    room:
     authors:
       - name: Rowdy Rabouw
         twitter:

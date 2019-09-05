@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-29
-    room:
     authors:
       - name: Hugues Bernet-Rollande
         twitter: rompelstilchen
@@ -43,7 +42,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-29
-    room:
     authors:
       - name: Sally Shepard
         twitter: mostgood
@@ -59,7 +57,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-29
-    room:
     authors:
       - name: Bruno Muniz
         twitter:
@@ -76,7 +73,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-29
-    room:
     authors:
       - name: Ellen Shapiro
         twitter: designatednerd
@@ -93,7 +89,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-29
-    room:
     authors:
       - name: Ben Cohen
         twitter: AirspeedSwift
@@ -109,7 +104,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-29
-    room:
     authors:
       - name: Graham Lee
         twitter: iwasleeg
@@ -126,7 +120,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-29
-    room:
     authors:
       - name: Brandon Kase
         twitter: bkase_
@@ -143,7 +136,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-29
-    room:
     authors:
       - name: Oscar Falmer
         twitter: osfalmer
@@ -160,7 +152,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-29
-    room:
     authors:
       - name: Guy Daher
         twitter: guydaher
@@ -177,7 +168,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-29
-    room:
     authors:
       - name: Peter Steinberger
         twitter: steipete
@@ -194,7 +184,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-29
-    room:
     authors:
       - name: Grégoire Lhotellier
         twitter: greg3z
@@ -211,7 +200,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-29
-    room:
     authors:
       - name: Paul Hudson
         twitter: twostraws
@@ -228,7 +216,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-29
-    room:
     authors:
       - name: Ben Scheirman
         twitter: subdigital

@@ -18,7 +18,7 @@
     country: Austria
     city: Linz
   description: |-
-     The only constant in the world is change. Our mission at DevOne is to embrace change. To grow, to scale, to let in new technology as it transforms us as people. In our third year, we want to take small steps to the big leaps of humanity. By inviting engineers from all over the world who found solutions to problems beyond our imagination. 
+     The only constant in the world is change. Our mission at DevOne is to embrace change. To grow, to scale, to let in new technology as it transforms us as people. In our third year, we want to take small steps to the big leaps of humanity. By inviting engineers from all over the world who found solutions to problems beyond our imagination.
 
 talks:
 
@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room: Tabakfabrik Linz
     authors:
       - name: Emily Freeman
         twitter: editingemily
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room: Tabakfabrik Linz
     authors:
       - name: Rainer Stropek
         twitter: rstropek
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room: Tabakfabrik Linz
     authors:
       - name: Heidi Waterhouse
         twitter: wiredferret
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room: Tabakfabrik Linz
     authors:
       - name: Manfred Steyer
         twitter: ManfredSteyer
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room: Tabakfabrik Linz
     authors:
       - name: Carmen Andoh
         twitter: carmatrocity
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room: Tabakfabrik Linz
     authors:
       - name: Ulf Adams
         twitter: ulfjack
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room: Tabakfabrik Linz
     authors:
       - name: Matheus Fernandes
         twitter: matheusfrndes
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room: Tabakfabrik Linz
     authors:
       - name: Wolfgang Hennerbichler
         twitter:
@@ -154,9 +146,8 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room: Tabakfabrik Linz
     authors:
-      - name: Adrian Hornsby 
+      - name: Adrian Hornsby
         twitter: adhorn
         github:
         website:
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room: Tabakfabrik Linz
     authors:
       - name: Chris Thalinger
         twitter: christhalinger
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room: Tabakfabrik Linz
     authors:
       - name: Mathieu Henri
         twitter: p01

@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: iOS Conf Singapore 2019
   status: complete
   series: iosconf.sg
@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-18
-    room:
     authors:
       - name: Subh
         twitter:
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-18
-    room:
     authors:
       - name: Mischa Hildebrand
         twitter: DerHildebrand
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-18
-    room:
     authors:
       - name: Paul Hudson
         twitter: twostraws
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-18
-    room:
     authors:
       - name: Steven Hepting
         twitter: stevenhepting
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-18
-    room:
     authors:
       - name: Agnes Vasarhelyi
         twitter: vasarhelyia
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-18
-    room:
     authors:
       - name: Kenneth Poon
         twitter:
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: lightning
     time: 2019-01-18
-    room:
     authors:
       - name: Vincent Pradeilles
         twitter: v_pradeilles
@@ -146,7 +139,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-18
-    room:
     authors:
       - name: Christian Grail
         twitter: cgrail
@@ -162,7 +154,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-18
-    room:
     authors:
       - name: Soroush Khanlou
         twitter: khanlou
@@ -178,7 +169,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Esteban Torres
         twitter: esttorhe
@@ -194,7 +184,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Daniel Steinberg
         twitter: dimsumthinking
@@ -210,7 +199,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Yasuhiro Inami
         twitter: inamiy
@@ -226,7 +214,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Jeffrey Bergier
         twitter: jeffburg
@@ -242,7 +229,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Oscar Swanros
         twitter: Swanros
@@ -258,7 +244,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Vincent Pradeilles
         twitter: v_pradeilles
@@ -274,7 +259,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Heng Hong Lee
         twitter:

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-22
-    room:
     authors:
       - name: JEREMY KEITH
         twitter: adactio
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-22
-    room:
     authors:
       - name: MARK ROBBINS
         twitter: M_J_Robbins
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-22
-    room:
     authors:
       - name: TOBIAS AHLIN
         twitter: tobiasahlin
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-22
-    room:
     authors:
       - name: LILY DART
         twitter: lily_dart
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-22
-    room:
     authors:
       - name: JOE LEECH
         twitter: mrjoe
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-22
-    room:
     authors:
       - name: JESSICA ROSE
         twitter: jesslynnrose
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-22
-    room:
     authors:
       - name: NADIEH BREMER
         twitter: NadiehBremer
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-22
-    room:
     authors:
       - name: ADRIAN ZUMBRUNNEN
         twitter: azumbrunnen_

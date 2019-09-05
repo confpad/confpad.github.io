@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Jo Franchetti
         twitter: ThisIsJoFrank
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Eleanor Haproff
         twitter: EleanorHaproff
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Lisi Linhart
         twitter: lisi_linhart
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Jenny Wong
         twitter: miss_jwo
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Willian Martins
         twitter: wmsbill
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Charlie Owen
         twitter: sonniesedge
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Remy Sharp
         twitter: rem
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Tim Holman
         twitter: twholman

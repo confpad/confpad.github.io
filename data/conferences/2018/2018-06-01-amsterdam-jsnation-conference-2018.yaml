@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 09:30:00
-    room: Priests Hall
     authors:
       - name: Douglas Crockford
         twitter:
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 10:00:00
-    room: Priests Hall
     authors:
       - name: Imad Elyafi
         twitter:
@@ -57,7 +55,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 10:30:00
-    room: Priests Hall
     authors:
       - name: Fatih Acet
         twitter: fatihacet
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 11:30:00
-    room: Priests Hall
     authors:
       - name: Armagan Amcalar
         twitter: dashersw
@@ -89,7 +85,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 12:00:00
-    room: Priests Hall
     authors:
       - name: Andy Mockler
         twitter: asmockler
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 12:30:00
-    room: Priests Hall
     authors:
       - name: Claudia Hernández
         twitter: koste4
@@ -121,7 +115,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 14:40:00
-    room: Priests Hall
     authors:
       - name: Diego González
         twitter: diekus
@@ -137,7 +130,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 15:10:00
-    room: Priests Hall
     authors:
       - name: Andre Staltz
         twitter: andrestaltz
@@ -153,7 +145,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 15:40:00
-    room: Priests Hall
     authors:
       - name: Asim Hussain
         twitter: jawache
@@ -169,7 +160,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 16:10:00
-    room: Priests Hall
     authors:
       - name: Oliver Spindler
         twitter:
@@ -185,7 +175,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 16:40:00
-    room: Priests Hall
     authors:
       - name: Sebastian Golasch
         twitter: asciidisco
@@ -201,7 +190,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 17:10:00
-    room: Priests Hall
     authors:
       - name: Jennifer Voss
         twitter: VossJenn
@@ -217,7 +205,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 17:40:00
-    room: Priests Hall
     authors:
       - name: Niels Leenheer
         twitter: html5test
@@ -233,7 +220,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 10:00:00
-    room: Monks Hall
     authors:
       - name: Fahad Ibnay Heylaal
         twitter: fahad19
@@ -249,7 +235,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 10:30:00
-    room: Monks Hall
     authors:
       - name: Sendil Kumar
         twitter: sendilkumarn
@@ -265,7 +250,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 11:30:00
-    room: Monks Hall
     authors:
       - name: Johannes Bertens
         twitter: OneUpCompany
@@ -281,7 +265,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 12:00:00
-    room: Monks Hall
     authors:
       - name: Evgeny Kot
         twitter: bunopus
@@ -297,7 +280,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 12:30:00
-    room: Monks Hall
     authors:
       - name: Paulo Lopes
         twitter: pml0pes
@@ -312,7 +294,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 14:40:00
-    room: Monks Hall
     authors:
       - name: Georg Neis
         twitter:
@@ -328,7 +309,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 15:10:00
-    room: Monks Hall
     authors:
       - name: Maxim Salnikov
         twitter: webmaxru
@@ -344,7 +324,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 15:40:00
-    room: Monks Hall
     authors:
       - name: Isa Silveira
         twitter: silveira_bells
@@ -360,7 +339,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 16:40:00
-    room: Monks Hall
     authors:
       - name: Yaprak Ayazoglu
         twitter: yaprakaya
@@ -376,7 +354,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 17:10:00
-    room: Monks Hall
     authors:
       - name: Murat Çorlu
         twitter: muratcorlu
@@ -392,7 +369,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 17:40:00
-    room: Monks Hall
     authors:
       - name: Varya Dubinina
         twitter:

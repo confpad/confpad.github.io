@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-13
-    room:
     authors:
       - name: Tom Occhino
         twitter: tomocchino
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-13
-    room:
     authors:
       - name: Jing Chen
         twitter: jingc
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-13
-    room:
     authors:
       - name: Sebastian Markbage
         twitter: sebmarkbage
@@ -71,7 +68,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-13
-    room:
     authors:
       - name: Lin Clark
         twitter: linclark
@@ -87,7 +83,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-13
-    room:
     authors:
       - name: Guillermo Rauch
         twitter: rauchg
@@ -103,7 +98,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-13
-    room:
     authors:
       - name: Ben Ilegbodu
         twitter: benmvp
@@ -119,7 +113,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-13
-    room:
     authors:
       - name: Preethi Kasireddy
         twitter: iam_preethi
@@ -135,7 +128,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-13
-    room:
     authors:
       - name: Jared Forsyth
         twitter: jaredforsyth
@@ -151,7 +143,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-13
-    room:
     authors:
       - name: Leland Richardson
         twitter: intelligibabble
@@ -167,7 +158,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-13
-    room:
     authors:
       - name: Tal Kol
         twitter: koltal
@@ -183,7 +173,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-13
-    room:
     authors:
       - name: Andres Suarez
         twitter: zertosh
@@ -199,7 +188,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-13
-    room:
     authors:
       - name: Sophia Shoemaker
         twitter: wisecobbler
@@ -215,7 +203,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-13
-    room:
     authors:
       - name: Merrick Christensen
         twitter: iammerrick
@@ -231,7 +218,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-13
-    room:
     authors:
       - name: Max Stoiber
         twitter: mxstbr
@@ -247,7 +233,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-13
-    room:
     authors:
       - name: Feather Knee
         twitter: featherart
@@ -263,7 +248,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-13
-    room:
     authors:
       - name: Samer Buna
         twitter: samerbuna
@@ -279,7 +263,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-13
-    room:
     authors:
       - name: Peggy Rayzis
         twitter: peggyrayzis
@@ -295,7 +278,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-13
-    room:
     authors:
       - name: Ken Wheeler
         twitter: ken_wheeler
@@ -311,7 +293,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-13
-    room:
     authors:
       - name: Dustan Kasten
         twitter: iamdustan
@@ -327,7 +308,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-13
-    room:
     authors:
       - name: Adam Perry
         twitter:
@@ -343,7 +323,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-14
-    room:
     authors:
       - name: Michaela Lehr
         twitter: FischaelaMeer
@@ -359,7 +338,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-14
-    room:
     authors:
       - name: Robert Zhu
         twitter: robzhu
@@ -375,7 +353,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-14
-    room:
     authors:
       - name: Rogelio Guzman
         twitter: rogeliog
@@ -391,7 +368,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-14
-    room:
     authors:
       - name: Neehar Venugopal
         twitter: neeharv
@@ -407,7 +383,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-14
-    room:
     authors:
       - name: Parashuram N
         twitter: nparashuram
@@ -423,7 +398,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-14
-    room:
     authors:
       - name: Marie-Laure Thuret
         twitter: mlthuret
@@ -439,7 +413,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-14
-    room:
     authors:
       - name: Cameron Westland
         twitter: camwest
@@ -455,7 +428,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-14
-    room:
     authors:
       - name: Troy Connor
         twitter: Troy0820
@@ -471,7 +443,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-14
-    room:
     authors:
       - name: James Long
         twitter: jlongster
@@ -487,7 +458,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-14
-    room:
     authors:
       - name: Nicole Chung
         twitter: redconservatory
@@ -503,7 +473,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-14
-    room:
     authors:
       - name: Aditya Punjani
         twitter: adityapunjani
@@ -519,7 +488,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-14
-    room:
     authors:
       - name: Michael Jackson
         twitter: mjackson
@@ -535,7 +503,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-14
-    room:
     authors:
       - name: Cheng Lou
         twitter: _chenglou

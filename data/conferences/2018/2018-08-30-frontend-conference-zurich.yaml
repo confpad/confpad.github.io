@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30 10:00:00
-    room: FL 1 Folium
     authors:
       - name: Josh Clark
         twitter: bigmediumjosh
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30 11:00:00
-    room: FL 1 Folium
     authors:
       - name: Vitaly Friedman
         twitter: smashingmag
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30 11:00:00
-    room: FL 2 Papiersaal
     authors:
       - name: Karen Kaushansky
         twitter: kjkausha
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30 13:00:00
-    room: FL 1 Folium
     authors:
       - name: Konrad Dzwinel
         twitter: kdzwinel
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30 13:00:00
-    room: FL 2 Papiersaal
     authors:
       - name: Rachel Andrew
         twitter: rachelandrew
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30 14:00:00
-    room: FL 1 Folium
     authors:
       - name: Slobodan Stojanovic
         twitter: slobodan_
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30 14:00:00
-    room: FL 2 Papiersaal
     authors:
       - name: Raffaela Rein
         twitter: raffaelarein
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30 15:30:00
-    room: FL 1 Folium
     authors:
       - name: Anna Jozanis
         twitter:
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30 15:30:00
-    room: FL 2 Papiersaal
     authors:
       - name: Fahad Heylaal
         twitter: fahad19
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30 16:30:00
-    room: FL 1 Folium
     authors:
       - name: Jake Archibald
         twitter: jaffathecake
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30 16:30:00
-    room: FL 2 Papiersaal
     authors:
       - name: Oliver Schöndorfer
         twitter: glyphe
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-08-30 17:30:00
-    room: FL 1 Folium
     authors:
       - name: Lukas Müller
         twitter:
@@ -230,7 +218,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-08-30 17:30:00
-    room: FL 2 Papiersaal
     authors:
       - name: Fredi Bach
         twitter:
@@ -258,7 +245,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31 09:00:00
-    room: FL 1 Folium
     authors:
       - name: Jane Austin
         twitter: msjaneaustin
@@ -273,7 +259,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31 09:00:00
-    room: FL 2 Papiersaal
     authors:
       - name: Patrick Kua
         twitter: patkua
@@ -289,7 +274,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31 10:00:00
-    room: FL 1 Folium
     authors:
       - name: Anne Callahan
         twitter: northofnormal
@@ -305,7 +289,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31 10:00:00
-    room: FL 2 Papiersaal
     authors:
       - name: Jessica Rose
         twitter: jesslynnrose
@@ -321,7 +304,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31 11:00:00
-    room: FL 1 Folium
     authors:
       - name: Desiree Garcia
         twitter: thedezzie
@@ -337,7 +319,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31 11:00:00
-    room: FL 2 Papiersaal
     authors:
       - name: Alex Russel
         twitter: slightlylate
@@ -353,7 +334,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31 13:00:00
-    room: FL 1 Folium
     authors:
       - name: Monica Dinculescu
         twitter: notwaldorf
@@ -369,7 +349,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31 13:00:00
-    room: FL 2 Papiersaal
     authors:
       - name: Emanuela Damiani
         twitter: brassy
@@ -385,7 +364,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31 14:00:00
-    room: FL 1 Folium
     authors:
       - name: Aras Bilgen
         twitter: arasb
@@ -401,7 +379,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31 14:00:00
-    room: FL 2 Papiersaal
     authors:
       - name: Carolyn Stransky
         twitter: carolstran
@@ -417,7 +394,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31 15:30:00
-    room: FL 1 Folium
     authors:
       - name: Erika Languirand
         twitter: erikalanguirand
@@ -433,7 +409,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31 15:30:00
-    room: FL 2 Papiersaal
     authors:
       - name: Alison Coward
         twitter: alisoncoward
@@ -448,7 +423,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31 16:30:00
-    room: FL 1 Folium
     authors:
       - name: Dan Mall
         twitter: danmall

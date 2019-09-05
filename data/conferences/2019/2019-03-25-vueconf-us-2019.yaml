@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-26
-    room:
     authors:
       - name: Evan You
         twitter: youyuxi
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-26
-    room:
     authors:
       - name: Gregg Pollack
         twitter: greggpollack
@@ -57,7 +55,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-26
-    room:
     authors:
       - name: Andrew Krawchyk
         twitter: krawchyk
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-26
-    room:
     authors:
       - name: Adam Jahr
         twitter: adamjahr
@@ -88,7 +84,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-26
-    room:
     authors:
       - name: Jen Loope
         twitter: jenlooper
@@ -104,7 +99,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-26
-    room:
     authors:
       - name: Rahul Kadyan
         twitter: znck0
@@ -120,7 +114,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-26
-    room:
     authors:
       - name: krystalcampioni
         twitter: jenlooper
@@ -135,7 +128,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-26
-    room:
     authors:
       - name: Natalia Tepluhina
         twitter: n_tepluhina
@@ -150,7 +142,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-26
-    room:
     authors:
       - name: Miriam E Suzanne
         twitter: mirisuzanne
@@ -166,7 +157,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-26
-    room:
     authors:
       - name: Sarah Drasner
         twitter: sarah_edo
@@ -182,7 +172,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-27
-    room:
     authors:
       - name: Chris Fritz
         twitter: chrisvfritz
@@ -198,7 +187,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-27
-    room:
     authors:
       - name: Guillaume Chau
         twitter: akryum
@@ -214,7 +202,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-27
-    room:
     authors:
       - name: Divya Sasidharan
         twitter: shortdiv
@@ -230,7 +217,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-27
-    room:
     authors:
       - name: tessa
         twitter: halftes6
@@ -246,7 +232,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-27
-    room:
     authors:
       - name: Maria Lamardo
         twitter: vueconfus
@@ -262,7 +247,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-27
-    room:
     authors:
       - name: John Papa
         twitter: john_papa
@@ -278,7 +262,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-27
-    room:
     authors:
       - name: Mike Hartington
         twitter: mhartington
@@ -294,7 +277,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-27
-    room:
     authors:
       - name: Jacob Schatz
         twitter: jakecodes
@@ -310,7 +292,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-27
-    room:
     authors:
       - name: Chris DeMars
         twitter: saltnburnem
@@ -326,7 +307,6 @@ talks:
     lang: en
     type: lightning
     time: 2019-03-27
-    room:
     authors:
       - name: Vladimir Novick
         twitter: VladimirNovick
@@ -342,7 +322,6 @@ talks:
     lang: en
     type: lightning
     time: 2019-03-27
-    room:
     authors:
       - name: Brad Balfour
         twitter: bbdj
@@ -358,7 +337,6 @@ talks:
     lang: en
     type: lightning
     time: 2019-03-27
-    room:
     authors:
       - name: Matt Brophy
         twitter:
@@ -374,7 +352,6 @@ talks:
     lang: en
     type: lightning
     time: 2019-03-27
-    room:
     authors:
       - name: Jennifer Bland
         twitter: ratracegrad
@@ -389,7 +366,6 @@ talks:
     lang: en
     type: lightning
     time: 2019-03-27
-    room:
     authors:
       - name: Jaimes Jones
         twitter:
@@ -405,7 +381,6 @@ talks:
     lang: en
     type: lightning
     time: 2019-03-27
-    room:
     authors:
       - name: Jennifer Bland
         twitter: ratracegrad
@@ -421,7 +396,6 @@ talks:
     lang: en
     type: lightning
     time: 2019-03-27
-    room:
     authors:
       - name: Charles Villard
         twitter: cdvillard
@@ -437,7 +411,6 @@ talks:
     lang: en
     type: lightning
     time: 2019-03-27
-    room:
     authors:
       - name: Casie Siekman
         twitter: CassandraDanger
@@ -453,7 +426,6 @@ talks:
     lang: en
     type: lightning
     time: 2019-03-27
-    room:
     authors:
       - name: Doug Steinberg
         twitter:
@@ -469,7 +441,6 @@ talks:
     lang: en
     type: lightning
     time: 2019-03-27
-    room:
     authors:
       - name: Lucas Still
         twitter:
@@ -485,7 +456,6 @@ talks:
     lang: en
     type: lightning
     time: 2019-03-27
-    room:
     authors:
       - name: Benji Dalton
         twitter:

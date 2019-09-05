@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-16
-    room:
     authors:
       - name: Shawn Swyx Wang
         twitter: swyx
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-16
-    room:
     authors:
       - name: Carrie Maxwell
         twitter: Carofine247
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-16
-    room:
     authors:
       - name: Brandon Dail
         twitter: aweary
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-16
-    room:
     authors:
       - name: Ryan Moore
         twitter: panicwhenever
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-16
-    room:
     authors:
       - name: Brian Holt
         twitter: holtbt
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-16
-    room:
     authors:
       - name: Joshua Comeau
         twitter: joshWComaeu
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-16
-    room:
     authors:
       - name: Feather
         twitter: featherart
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-16
-    room:
     authors:
       - name: Justin Falcone
         twitter: modernserf
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-17
-    room:
     authors:
       - name: Ken Wheeler
         twitter: ken_wheeler
@@ -169,7 +160,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-17
-    room:
     authors:
       - name: Lauren Tan
         twitter: sugarpirate_
@@ -185,7 +175,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-17
-    room:
     authors:
       - name: Jay Phelps
         twitter: _jayphelps
@@ -201,7 +190,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-17
-    room:
     authors:
       - name: Michael Chan
         twitter: chantastic
@@ -217,7 +205,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-17
-    room:
     authors:
       - name: Sophia Shoemaker
         twitter: wisecobbler
@@ -233,7 +220,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-17
-    room:
     authors:
       - name: Henry Zhu
         twitter: left_pad
@@ -249,7 +235,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-17
-    room:
     authors:
       - name: Jennifer Wong
         twitter: mybluewristband
@@ -265,7 +250,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-17
-    room:
     authors:
       - name: Kent C. Dodds
         twitter: kentcdodds
@@ -281,7 +265,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-17
-    room:
     authors:
       - name: Eve Porcello
         twitter: eveporcello
@@ -297,7 +280,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-17
-    room:
     authors:
       - name: Ryan Florence
         twitter: ryanflorence

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-25
-    room:
     authors:
       - name: Sophie Alpert
         twitter: sophiebits
@@ -45,7 +44,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-25
-    room:
     authors:
       - name: Ryan Florence
         twitter: ryanflorence
@@ -61,7 +59,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-25
-    room:
     authors:
       - name: Christina Holland
         twitter: americanwombat
@@ -77,7 +74,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-25
-    room:
     authors:
       - name: Matt Perry
         twitter: popmotionjs
@@ -93,7 +89,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-10-25
-    room:
     authors:
       - name: Joe Haddad
         twitter:
@@ -108,7 +103,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-10-25
-    room:
     authors:
       - name: Bryce Kalow
         twitter:
@@ -123,7 +117,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-10-25
-    room:
     authors:
       - name: Marcos Martins
         twitter:
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-10-25
-    room:
     authors:
       - name: Karl Dray
         twitter:
@@ -153,7 +145,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-10-25
-    room:
     authors:
       - name: Leta Keane
         twitter:
@@ -168,7 +159,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-25
-    room:
     authors:
       - name: Conor Hastings
         twitter: stillconor
@@ -184,7 +174,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-25
-    room:
     authors:
       - name: Nat Alison
         twitter: tesseralis
@@ -200,7 +189,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-25
-    room:
     authors:
       - name: Pulkit Kakkar
         twitter: pulkitkkr0
@@ -216,7 +204,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-25
-    room:
     authors:
       - name: Florian Rival
         twitter: FlorianRival
@@ -232,7 +219,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-25
-    room:
     authors:
       - name: Rodrigo Quezada
         twitter: rodikana
@@ -248,7 +234,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Andrew Clark
         twitter: acdlite
@@ -267,7 +252,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Jared Palmer
         twitter: jaredpalmer
@@ -283,7 +267,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Elizabet Oliveira
         twitter: miuki_miu
@@ -299,7 +282,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Chris Trevino
         twitter: darthtrevino
@@ -315,7 +297,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Damini Satya Kammakomati
         twitter: Daminisatya
@@ -331,7 +312,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-10-26
-    room:
     authors:
       - name: Sophia Shoemaker
         twitter:
@@ -346,7 +326,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-10-26
-    room:
     authors:
       - name: Manuela Castrillon
         twitter:
@@ -361,7 +340,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-10-26
-    room:
     authors:
       - name: Donavon West
         twitter:
@@ -376,7 +354,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-10-26
-    room:
     authors:
       - name: Tyler Clark
         twitter:
@@ -391,7 +368,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: James Long
         twitter: jlongster
@@ -407,7 +383,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Parashuram N
         twitter: nparashuram
@@ -423,7 +398,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Tomáš Ehrlich
         twitter: tomas_ehrlich
@@ -439,7 +413,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Thomas Aylott
         twitter: subtlegradient
@@ -455,7 +428,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Eyitayo Alimi
         twitter: alimieyitayo

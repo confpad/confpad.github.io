@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26
-    room:
     authors:
       - name: Jem Young
         twitter: jemyoung
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26
-    room:
     authors:
       - name: Simona Cotin
         twitter: simona_cotin
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26
-    room:
     authors:
       - name: Marcy Sutton
         twitter: marcysutton
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26
-    room:
     authors:
       - name: Austin McDaniel
         twitter: amcdnl
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26
-    room:
     authors:
       - name: Pascal Precht
         twitter: pascalprecht
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26
-    room:
     authors:
       - name: Sarah Drasner
         twitter: sarah_edo
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26
-    room:
     authors:
       - name: Andre Staltz
         twitter: andrestaltz
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26
-    room:
     authors:
       - name: John Lindquist
         twitter: johnlindquist
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26
-    room:
     authors:
       - name: Monika Blaser
         twitter: mon_blaser

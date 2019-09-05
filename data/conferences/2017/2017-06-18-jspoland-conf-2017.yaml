@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-19
-    room:
     authors:
       - name: Christian Heilmann
         twitter: codepo8
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-19
-    room:
     authors:
       - name: Tomasz Ducin
         twitter: tomasz_ducin
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-19
-    room:
     authors:
       - name: luca mezzalira
         twitter: lucamezzalira
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-19
-    room:
     authors:
       - name: Nir Kaufman
         twitter: nirkaufman
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-19
-    room:
     authors:
       - name: Kacper Sokołowski
         twitter: kaapa_s
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-19
-    room:
     authors:
       - name: Erik Haddad
         twitter: erikhaddad
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-19
-    room:
     authors:
       - name: Gabor Wnuk
         twitter: gaborwnuk
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-19
-    room:
     authors:
       - name: Michał Nowak
         twitter: wicherrr
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-19
-    room:
     authors:
       - name: Maxim Salnikov
         twitter: webmaxru
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-19
-    room:
     authors:
       - name: Simona Cotin
         twitter: simona_cotin
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-19
-    room:
     authors:
       - name: Alex Lakatos
         twitter: lakatos88
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-19
-    room:
     authors:
       - name: Shmuela Jacobs
         twitter: Shmuela Jacobs
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-19
-    room:
     authors:
       - name: Phil Nash
         twitter: philnash

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-12
-    room:
     authors:
       - name: Kent C. Dodds
         twitter: kentcdodds
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-12
-    room:
     authors:
       - name: TC Davis
         twitter:
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-12
-    room:
     authors:
       - name: Darin Wilson
         twitter: darinwilson
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-12
-    room:
     authors:
       - name: Samantha Bretous
         twitter: samanthabretous
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-12
-    room:
     authors:
       - name: Rotem Mizrachi-Meidan
         twitter: rotemmiz
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-12
-    room:
     authors:
       - name: Erin Fox
         twitter: erinfoox
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-12
-    room:
     authors:
       - name: Ray Deck
         twitter: ray_deck
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-12
-    room:
     authors:
       - name: Adrien Thiery
         twitter: adrien0
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-12
-    room:
     authors:
       - name: Erica Cooksey
         twitter: ericacooksey
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-12
-    room:
     authors:
       - name: Andy Mockler
         twitter: asmockler
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-12
-    room:
     authors:
       - name: Mike Grabowski
         twitter: grabbou
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-12
-    room:
     authors:
       - name: Jen Luker
         twitter: knitcodemonkey
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-12
-    room:
     authors:
       - name: Robert Scarano
         twitter: scarano
@@ -234,7 +221,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-13
-    room:
     authors:
       - name: Tracy Lee
         twitter: ladyleet
@@ -250,7 +236,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-13
-    room:
     authors:
       - name: Ram N
         twitter: nparashuram
@@ -266,7 +251,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-13
-    room:
     authors:
       - name: Peggy Rayzis
         twitter: peggyrayzis
@@ -281,7 +265,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-13
-    room:
     authors:
       - name: Harry Tormey
         twitter: htormey
@@ -297,7 +280,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-13
-    room:
     authors:
       - name: Michaela Lehr
         twitter: FischaelaMeer
@@ -313,7 +295,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-13
-    room:
     authors:
       - name: Nadir Babit
         twitter:
@@ -328,7 +309,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-13
-    room:
     authors:
       - name: Vladimir Novick
         twitter: VladimirNovick
@@ -344,7 +324,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-13
-    room:
     authors:
       - name: Ori Harel
         twitter: oriharel
@@ -360,7 +339,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-13
-    room:
     authors:
       - name: Jani Eväkallio
         twitter: jevakallio

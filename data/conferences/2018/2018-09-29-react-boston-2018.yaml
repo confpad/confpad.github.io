@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-29
-    room:
     authors:
       - name: Ken Wheeler
         twitter: ken_wheeler
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-29
-    room:
     authors:
       - name: Chris Toomey
         twitter: christoomey
@@ -57,7 +55,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-29
-    room:
     authors:
       - name: Vincent Riemer
         twitter: vincentriemer
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-29
-    room:
     authors:
       - name: Samantha Bretous
         twitter: samanthabretous
@@ -89,7 +85,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-29
-    room:
     authors:
       - name: Mark Erikson
         twitter: acemarke
@@ -104,7 +99,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-29
-    room:
     authors:
       - name: Erin Fox
         twitter: erinfoox
@@ -132,7 +126,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-29
-    room:
     authors:
       - name: Ankita Kulkarni
         twitter: kulkarniankita9
@@ -148,7 +141,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-29
-    room:
     authors:
       - name: Artem Sapegin
         twitter: iamsapegin
@@ -164,7 +156,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-29
-    room:
     authors:
       - name: Tejas Kumar
         twitter: TejasKumar_
@@ -180,7 +171,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-29
-    room:
     authors:
       - name: Vladimir Novick
         twitter: VladimirNovick
@@ -196,7 +186,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-30
-    room:
     authors:
       - name: Joshua Comeau
         twitter: joshWComeau
@@ -212,7 +201,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-30
-    room:
     authors:
       - name: Florian Rival
         twitter: Florianrival
@@ -228,7 +216,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-30
-    room:
     authors:
       - name: Jen Luker
         twitter: knitcodemonkey
@@ -244,7 +231,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-30
-    room:
     authors:
       - name: Houssein Djirdeh
         twitter: hdjirdeh
@@ -259,7 +245,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-30
-    room:
     authors:
       - name: Boris Cherny
         twitter: bcherny
@@ -274,7 +259,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-30
-    room:
     authors:
       - name: Josh Pollock
         twitter: josh412
@@ -302,7 +286,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-30
-    room:
     authors:
       - name: Mark Faga
         twitter: markjfaga
@@ -322,7 +305,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-30
-    room:
     authors:
       - name: Francois Ward
         twitter:
@@ -338,7 +320,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-30
-    room:
     authors:
       - name: Matt Hamil
         twitter: _matthamil

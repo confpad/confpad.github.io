@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room:
     authors:
       - name: Sarah Drasner
         twitter: sarah_edo
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room:
     authors:
       - name: Charlie Gerard
         twitter: devdevcharlie
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room:
     authors:
       - name: Simona Cotin
         twitter: simona_cotin
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room:
     authors:
       - name: Anna Backs
         twitter: merelyAnna/
@@ -94,7 +90,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room:
     authors:
       - name: Lin Clark
         twitter: linclark
@@ -114,7 +109,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room:
     authors:
       - name: Jason Lengstorf
         twitter: jlengstorf
@@ -130,7 +124,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room:
     authors:
       - name: Henry Zhu
         twitter: left_pad
@@ -146,7 +139,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room:
     authors:
       - name: Peggy RayzisDaisy Smith
         twitter: daisysmells
@@ -162,7 +154,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room:
     authors:
       - name: Alejandro Oviedo
         twitter: a0viedo/
@@ -178,7 +169,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room:
     authors:
       - name: Harry Roberts
         twitter: csswizardry
@@ -194,7 +184,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-11
-    room:
     authors:
       - name: Jeffrey Lembeck
         twitter: jefflembeck
@@ -210,7 +199,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-12
-    room:
     authors:
       - name: Tomasz Łakomy
         twitter: tlakomy/With cypress things are different. In this talk, we are going to cover how to start covering your app with e2e tests and showcase coolest features that cypress.io has to offer.Automated tests don't have to be boring, difficult to write and even harder to debug. We deserve to have tests we can count on, even when shipping stuff as soon as ASAP.
@@ -226,7 +214,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-12
-    room:
     authors:
       - name: Bogdan Zaharia
         twitter: zaboco
@@ -242,7 +229,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-12
-    room:
     authors:
       - name: Guillaume Chau
         twitter: Akryum
@@ -258,7 +244,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-12
-    room:
     authors:
       - name: Anjana Vakil
         twitter: AnjanaVakil
@@ -274,7 +259,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-12
-    room:
     authors:
       - name: Shelley Vohr
         twitter: codebytere
@@ -290,7 +274,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-12
-    room:
     authors:
       - name: Natalia Tepluhina
         twitter: N_Tepluhina
@@ -306,7 +289,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-12
-    room:
     authors:
       - name: Heydon Pickering
         twitter: heydonworks
@@ -321,7 +303,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-12
-    room:
     authors:
       - name: Hui Jing Chen
         twitter: hj_chen
@@ -337,7 +318,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-12
-    room:
     authors:
       - name: Chris DeMars
         twitter: saltnburnem/
@@ -352,7 +332,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-12
-    room:
     authors:
       - name: Istvan Szmozsanszky 'Flaki'
         twitter: slsoftworks/
@@ -362,9 +341,9 @@ talks:
     videos:
       - https://youtu.be/6wPeM8mY-98
     description: |-
-      Developers are quick to complain about "JavaScript Fatigue", the perceived high volatility of libraries, tooling and the JavaScript language itself — yet very few look at these changes and additions as a whole. In this talk I will take some of JavaScript's new features with the biggest transformative potential (ES Modules, WebAssembly, the DOM-Node.js API convergence), and I try to showcase what they mean for web development and how, when used together, they are able to address various hurdles and complaints that have been plaguing Node.js & web development for a long time. 
-      
-      
-      
-      
-      
+      Developers are quick to complain about "JavaScript Fatigue", the perceived high volatility of libraries, tooling and the JavaScript language itself — yet very few look at these changes and additions as a whole. In this talk I will take some of JavaScript's new features with the biggest transformative potential (ES Modules, WebAssembly, the DOM-Node.js API convergence), and I try to showcase what they mean for web development and how, when used together, they are able to address various hurdles and complaints that have been plaguing Node.js & web development for a long time.
+
+
+
+
+

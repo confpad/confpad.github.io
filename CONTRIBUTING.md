@@ -67,7 +67,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-25
-    room:
     authors:
     slides:
     videos:
@@ -106,7 +105,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-25 09:30:00
-    room: Hall E7
     authors:
       - name: Sophie Alpert
         twitter: sophiebits

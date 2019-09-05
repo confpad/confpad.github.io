@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Alexandra Cárdenas
         twitter: tiemposdelruido
@@ -44,7 +43,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Brian Holt
         twitter: holtbt
@@ -60,7 +58,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Juan Guillermo Murillo Castillo
         twitter: juangmurillo2
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Trent Willis
         twitter: trentmwillis
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Gabrielle von Koss
         twitter: gvonkoss
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Elizabeth Ramírez
         twitter: eramirem
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Giovanny Gongora
         twitter: Gioyik
@@ -136,7 +129,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Imad Elyafi
         twitter: eelyafi
@@ -152,7 +144,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Fredy Andrade
         twitter: xfry
@@ -168,7 +159,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Jason Straughan
         twitter: jdstraughan
@@ -184,7 +174,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Camilo Quimbayo
         twitter: vxcamiloxv
@@ -200,7 +189,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Feross Aboukhadijeh
         twitter: feross
@@ -216,7 +204,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-17
-    room:
     authors:
       - name: Tanya Butenko
         twitter: ButenkoMe
@@ -230,7 +217,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-17
-    room:
     authors:
       - name: Jorge Palacios
         twitter: Jorge Palacios
@@ -246,7 +232,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-17
-    room:
     authors:
       - name: Alejandro Estrada
         twitter: estrada9166
@@ -262,7 +247,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-17
-    room:
     authors:
       - name: Lucas da Costa
         twitter:
@@ -276,7 +260,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-17
-    room:
     authors:
       - name: Jackie Balzer
         twitter: jackiebackwards
@@ -290,7 +273,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-17
-    room:
     authors:
       - name: Fabio Cortés
         twitter: fabiojcortes
@@ -306,7 +288,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-17
-    room:
     authors:
       - name: Estefany Aguilar
         twitter: teffcode
@@ -320,7 +301,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-17
-    room:
     authors:
       - name: Daniel Khan
         twitter: dkhan
@@ -334,7 +314,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-17
-    room:
     authors:
       - name: Jennifer Shehane
         twitter: jennifershehane
@@ -348,7 +327,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-17
-    room:
     authors:
       - name: Luke Bonaccorsi
         twitter: LukeB_UK
@@ -362,7 +340,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-17
-    room:
     authors:
       - name: Luke Bonaccorsi
         twitter: LukeB_UK
@@ -376,7 +353,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-17
-    room:
     authors:
       - name: Franziska Hinkelmann
         twitter: fhinkel

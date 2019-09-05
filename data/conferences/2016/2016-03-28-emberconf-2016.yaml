@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Yehuda Katz
         twitter: wycats
@@ -45,7 +44,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: John Kleinschmidt
         twitter: jkleinsc
@@ -61,7 +59,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Chris Ball
         twitter: cball_
@@ -77,7 +74,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Brenna O'Brien
         twitter: brnnbrn
@@ -93,7 +89,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Brigitte Warner
         twitter: BrigitteWarner
@@ -109,7 +104,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Felix Rieseberg
         twitter: felixrieseberg
@@ -125,7 +119,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Ju Liu
         twitter: arkh4m
@@ -141,7 +134,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Alex Blom
         twitter: alexblom
@@ -157,7 +149,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Chris LoPresto
         twitter: chrislopresto
@@ -173,7 +164,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Kelly Senna
         twitter: simplysenna
@@ -189,7 +179,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Vaidehi Joshi
         twitter: vaidehijoshi
@@ -205,7 +194,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Estelle DeBlois
         twitter: edeblois
@@ -221,7 +209,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Chad Hietala
         twitter: chadhietala
@@ -237,7 +224,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Mike Pack
         twitter: mikepack_
@@ -253,7 +239,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Ray Tiley
         twitter: raytiley
@@ -269,7 +254,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Stefan Penner
         twitter: stefanpenner
@@ -285,7 +269,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Matt McKenna
         twitter: mattmckenna
@@ -301,7 +284,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Ivan Vanderbyl
         twitter: ivanderbyl
@@ -317,7 +299,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Liz Baillie
         twitter: infinite_math
@@ -333,7 +314,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Lauren Elizabeth Tan
         twitter: sugarpirate_
@@ -349,7 +329,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Katie Gengler
         twitter: katiegengler
@@ -365,7 +344,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Charles Lowell
         twitter: cowboyd
@@ -381,7 +359,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Xavier Cambar
         twitter: xcambar
@@ -397,7 +374,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: James Kyle
         twitter: thejameskyle
@@ -413,7 +389,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Jade Applegate
         twitter: jadeapplegate
@@ -429,7 +404,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Godfrey Chan
         twitter: chancancode
@@ -449,7 +423,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Matthew Beale
         twitter: mixonic
@@ -465,7 +438,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Leah Silber
         twitter: wifelette
@@ -479,7 +451,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Lisa Gringl
         twitter: kringal
@@ -499,7 +470,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-30
-    room:
     authors:
       - name: Oren Teich
         twitter: kringalteich

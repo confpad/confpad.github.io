@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-18
-    room:
     authors:
       - name: Hugh Kennedy
         twitter: hughskennedy
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-18
-    room:
     authors:
       - name: Mathias Bynens
         twitter: mathias
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-18
-    room:
     authors:
       - name: Hernan Rajchert
         twitter: sherman3ero
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-18
-    room:
     authors:
       - name: Raul Pino
         twitter: p1nox
@@ -89,7 +85,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-18
-    room:
     authors:
       - name: Erich Oliveira
         twitter: oliveira_erich
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-18
-    room:
     authors:
       - name: Damian Schenkelman
         twitter: dschenkelman
@@ -121,7 +115,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-18
-    room:
     authors:
       - name: Sharon Steed
         twitter: sharonsteed
@@ -137,7 +130,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-19
-    room:
     authors:
       - name: Thorsten Lorenz
         twitter: thlorenz
@@ -153,7 +145,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-19
-    room:
     authors:
       - name: Anton McConville
         twitter: antonmc
@@ -169,7 +160,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-19
-    room:
     authors:
       - name: Guillermo Rauch
         twitter: rauchg
@@ -183,7 +173,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-19
-    room:
     authors:
       - name: Tracy Osborn
         twitter: limedaring
@@ -199,7 +188,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-19
-    room:
     authors:
       - name: Felix Rieseberg
         twitter: felixrieseberg
@@ -215,7 +203,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-19
-    room:
     authors:
       - name: Stephan Bönnemann
         twitter: boennemann
@@ -231,7 +218,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-19
-    room:
     authors:
       - name: Mathias Buss
         twitter: mafintosh
@@ -247,7 +233,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-19
-    room:
     authors:
       - name: Adam Baldwin
         twitter: adam_baldwin
@@ -263,7 +248,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-19
-    room:
     authors:
       - name: Feross Aboukhadijeh
         twitter: feross
@@ -279,7 +263,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-19
-    room:
     authors:
       - name: Diego Paez
         twitter: carax
@@ -295,7 +278,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-19
-    room:
     authors:
       - name: Michael Matuzak
         twitter: mmatuzak
@@ -311,7 +293,6 @@ talks:
     lang: en
     type: regular
     time: 2016-11-19
-    room:
     authors:
       - name: James Halliday
         twitter: substack

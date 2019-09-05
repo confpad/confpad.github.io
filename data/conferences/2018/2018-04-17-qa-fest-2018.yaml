@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 10:00:00
-    room:
     authors:
       - name: Michael Bolton
         twitter:
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 10:00:00
-    room:
     authors:
       - name: Yevhen Rudiev
         twitter:
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 11:00:00
-    room:
     authors:
       - name: Andrey Myasnikov
         twitter:
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 11:00:00
-    room:
     authors:
       - name: Alina Homenko
         twitter:
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 11:00:00
-    room:
     authors:
       - name: Ivan Krutov
         twitter:
@@ -107,7 +102,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 12:00:00
-    room:
     authors:
       - name: Nikita Syskov
         twitter:
@@ -124,7 +118,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 12:00:00
-    room:
     authors:
       - name: Michael Bodnarchuk
         twitter:
@@ -140,7 +133,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 13:00:00
-    room:
     authors:
       - name: Alexey Lupan
         twitter:
@@ -157,7 +149,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 13:00:00
-    room:
     authors:
       - name: Nikita Krychko
         twitter:
@@ -174,7 +165,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 14:00:00
-    room:
     authors:
       - name: Vladimir Obrizan
         twitter:
@@ -190,7 +180,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 14:00:00
-    room:
     authors:
       - name: Michał Buczko
         twitter:
@@ -207,7 +196,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 14:00:00
-    room:
     authors:
       - name: Artem Eroshenko
         twitter:
@@ -223,7 +211,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 15:15:00
-    room:
     authors:
       - name: Kateryna Shepelieva
         twitter:
@@ -240,7 +227,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 15:15:00
-    room:
     authors:
       - name: Galyna Doksvel
         twitter:
@@ -256,7 +242,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 15:15:00
-    room:
     authors:
       - name: Oleksandr Khotemskyi
         twitter:
@@ -273,7 +258,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 16:15:00
-    room:
     authors:
       - name: Artem Bykovets
         twitter:
@@ -289,7 +273,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 16:15:00
-    room:
     authors:
       - name: Slavik Pashanin
         twitter:
@@ -306,7 +289,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 16:15:00
-    room:
     authors:
       - name: Pavlo Vedilin
         twitter:
@@ -323,7 +305,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 10:00:00
-    room:
     authors:
       - name: Johan Jonasson
         twitter:
@@ -340,7 +321,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 10:00:00
-    room:
     authors:
       - name: Dariia Bondarieva
         twitter:
@@ -356,7 +336,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 10:00:00
-    room:
     authors:
       - name: Yaroslav Pernerovskiy
         twitter:
@@ -373,7 +352,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 11:00:00
-    room:
     authors:
       - name: Aliaksei Boole
         twitter:
@@ -390,7 +368,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 11:00:00
-    room:
     authors:
       - name: Svyatoslav Login
         twitter:
@@ -407,7 +384,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 11:00:00
-    room:
     authors:
       - name: Adam Stasiak
         twitter:
@@ -424,7 +400,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 12:00:00
-    room:
     authors:
       - name: Diana Pinchuk
         twitter:
@@ -440,7 +415,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 12:00:00
-    room:
     authors:
       - name: Anton Serputko
         twitter:
@@ -456,7 +430,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 13:00:00
-    room:
     authors:
       - name: Anastasiya Aseeva
         twitter:
@@ -473,7 +446,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 13:00:00
-    room:
     authors:
       - name: Alexander Venger
         twitter:
@@ -490,7 +462,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 14:00:00
-    room:
     authors:
       - name: Denis Zhevner
         twitter:
@@ -507,7 +478,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 14:00:00
-    room:
     authors:
       - name: Sergey Pirogov
         twitter:
@@ -524,7 +494,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 15:15:00
-    room:
     authors:
       - name: Michael Bolton
         twitter:
@@ -540,7 +509,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 15:15:00
-    room:
     authors:
       - name: John Klymenko
         twitter:
@@ -556,7 +524,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 15:15:00
-    room:
     authors:
       - name: Sergey Korol
         twitter:
@@ -573,7 +540,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 16:15:00
-    room:
     authors:
       - name: Andrey Ladutko
         twitter:
@@ -590,7 +556,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 16:15:00
-    room:
     authors:
       - name: Yuriy Sychenko
         twitter:
@@ -607,7 +572,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-22 16:15:00
-    room:
     authors:
       - name: Mikalai Alimenkou
         twitter:

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-14
-    room: Room Europa
     authors:
       - name: Dominik Kundel
         twitter: dkundel
@@ -43,7 +42,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-14
-    room: Room Europa
     authors:
       - name: Sara Vieira
         twitter: NikkitaFTW
@@ -60,7 +58,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-14
-    room: Room Europa
     authors:
       - name: Erik Rasmussen
         twitter: erikras
@@ -77,7 +74,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-14
-    room: Room Europa
     authors:
       - name: Henning Muszynski
         twitter: henningmus
@@ -93,7 +89,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-14
-    room: Room Europa
     authors:
       - name: Gant Laborde
         twitter: GantLaborde
@@ -110,7 +105,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-09-14
-    room: Room Europa
     authors:
       - name: Flavio Corpa
         twitter: FlavioCorpa
@@ -126,7 +120,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-09-14
-    room: Room Europa
     authors:
       - name: Olena Sovyn
         twitter: frontendgirl
@@ -142,7 +135,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-09-14
-    room: Room Europa
     authors:
       - name: Javi Velasco
         twitter: javivelasco
@@ -157,7 +149,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-14
-    room: Room Europa
     authors:
       - name: Tomasz Lakomy
         twitter: tlakomy
@@ -174,7 +165,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-14
-    room: Room Europa
     authors:
       - name: Alex Jover
         twitter: alexjoverm
@@ -191,7 +181,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-14
-    room: Room Europa
     authors:
       - name: Ben Ilegbodu
         twitter: benmvp
@@ -208,7 +197,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-14
-    room: Room Europa
     authors:
       - name: Raúl Gómez
         twitter: rgommezz
@@ -225,7 +213,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-15
-    room: Room Europa
     authors:
       - name: Marco Cedaro
         twitter: cedmax
@@ -242,7 +229,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-15
-    room: Room Europa
     authors:
       - name: Manjula Dube
         twitter: manjula_dube
@@ -259,7 +245,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-15
-    room: Room Europa
     authors:
       - name: Jared Palmer
         twitter: jaredpalmer
@@ -276,7 +261,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-15
-    room: Room Europa
     authors:
       - name: Brent Vatne
         twitter: notbrent
@@ -293,7 +277,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-15
-    room: Room Europa
     authors:
       - name: Kaylie Kwon
         twitter: kaylie_alexa
@@ -309,7 +292,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-09-15
-    room: Room Europa
     authors:
       - name: Patrick Stapfer
         twitter: ryyppy
@@ -324,7 +306,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-09-15
-    room: Room Europa
     authors:
       - name: Anna Gruber
         twitter: futuranna
@@ -339,7 +320,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-15
-    room: Room Europa
     authors:
       - name: Forbes Lindesay
         twitter: ForbesLindesay
@@ -356,7 +336,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-15
-    room: Room Europa
     authors:
       - name: Ferran Negre
         twitter: ferrannp
@@ -373,7 +352,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-15
-    room: Room Europa
     authors:
       - name: Kamlesh Chandnani
         twitter: _kamlesh_
@@ -390,7 +368,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-15
-    room: Room Europa
     authors:
       - name: Kristijan Ristovski
         twitter: thekitze

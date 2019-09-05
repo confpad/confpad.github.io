@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-10
-    room: Pink Room
     authors:
       - name: Andrei Lesnitsky
         twitter: r1zzu
@@ -42,7 +41,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-10
-    room: Blue Room
     authors:
       - name: Kristi Progri
         twitter:
@@ -58,7 +56,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-10
-    room: Pink Room
     authors:
       - name: Konstantin Krivlenia
         twitter:
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-10
-    room: Blue Room
     authors:
       - name: Trishul Goel
         twitter: trishulgoel
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-10
-    room: Pink Room
     authors:
       - name: Ivan Jovanovic
         twitter: ivanjov96
@@ -106,7 +101,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-10
-    room: Blue Room
     authors:
       - name: Alexander Shushunov
         twitter:
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-10
-    room: Pink Room
     authors:
       - name: Asim Hussain
         twitter: jawache
@@ -138,7 +131,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-10
-    room: Blue Room
     authors:
       - name: Denis Ilin
         twitter:
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-10
-    room: Pink Room
     authors:
       - name: Tomasz Łakomy
         twitter: tlakomy
@@ -170,7 +161,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-10
-    room: Blue Room
     authors:
       - name: Timofey Lavrenyuk
         twitter: geek_timofey
@@ -186,7 +176,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-10
-    room: Pink Room
     authors:
       - name: Anna Selezniova
         twitter: asktwi
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-10
-    room: Blue Room
     authors:
       - name: Marek Piasecki
         twitter: mad_maniak
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-10
-    room: Pink Room
     authors:
       - name: Ilya Pukhalski
         twitter: pukhalski
@@ -234,7 +221,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-10
-    room: Blue Room
     authors:
       - name: Ales Tsvil
         twitter:
@@ -250,7 +236,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-10
-    room: Pink Room
     authors:
       - name: Alexey Migutsky
         twitter: mr_mig_by
@@ -266,7 +251,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-10
-    room: Blue Room
     authors:
       - name: Pavel Birukou
         twitter:
@@ -282,7 +266,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-10
-    room: Blue Room
     authors:
       - name: Denis Artyuhovich
         twitter:
@@ -298,7 +281,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-11
-    room: Pink Room
     authors:
       - name: Alexander Gerasimov
         twitter: da_quirm
@@ -314,7 +296,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-11
-    room: Blue Room
     authors:
       - name: Irina Levina
         twitter:
@@ -330,7 +311,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-11
-    room: Pink Room
     authors:
       - name: Vsevolod Shmyrov
         twitter: v_shmyrov
@@ -346,7 +326,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-11
-    room: Blue Room
     authors:
       - name: Tomasz Jonasz Kujawski
         twitter: zachwytupiewca
@@ -362,7 +341,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-11
-    room: Pink Room
     authors:
       - name: Vitali Novikau
         twitter:
@@ -378,7 +356,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-11
-    room: Blue Room
     authors:
       - name: James Akwuh
         twitter: jamesakwuh
@@ -394,7 +371,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-11
-    room: Pink Room
     authors:
       - name: Ilja Satchok
         twitter: _ifours_
@@ -410,7 +386,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-11
-    room: Blue Room
     authors:
       - name: Dzmitry Vanitski
         twitter:
@@ -426,7 +401,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-11
-    room: Pink Room
     authors:
       - name: Aliaksandr Pasynkau
         twitter:
@@ -442,7 +416,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-11
-    room: Blue Room
     authors:
       - name: Egor Malkevich
         twitter: wegorelax
@@ -458,7 +431,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-11
-    room: Pink Room
     authors:
       - name: Mikhail Hatsilau
         twitter: gatik9306
@@ -474,7 +446,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-11
-    room: Pink Room
     authors:
       - name: Vasiliy Vanchuk
         twitter: vvscode
@@ -490,7 +461,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-11
-    room: Blue Room
     authors:
       - name: Yauheniya Zhur
         twitter:
@@ -506,7 +476,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-11
-    room: Pink Room
     authors:
       - name: Alex Shkorh
         twitter: alexshkor
@@ -522,7 +491,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-11
-    room: Blue Room
     authors:
       - name: Kate Bosakova
         twitter:
@@ -549,7 +517,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-02-11
-    room: Pink Blue Room
     authors:
       - name: Dmitry Volokh
         twitter: davolokh

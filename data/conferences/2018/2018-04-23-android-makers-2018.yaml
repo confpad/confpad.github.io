@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: Android Makers 2018
   status: complete
   series: androidmakers.fr
@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Romain Guy
         twitter: romainguy
@@ -37,7 +36,7 @@ talks:
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/8GFLCL0u1lw
     description: |-
       The last couple of years have seen a plethora of new features and patterns for Android developers. But how do developers know when to use existing APIs and features vs. new ones? This session will help developers understand how they all work together and learn what they should use to build solid, modern Android applications.
@@ -46,7 +45,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Nicolas Roard
         twitter: h2net_software
@@ -66,7 +64,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Florina Muntenescu
         twitter: FMuntenescu
@@ -82,7 +79,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Wojtek Kaliciński
         twitter: wkalic
@@ -98,7 +94,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Vadim Caen
         twitter: vadimcaen
@@ -118,7 +113,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Nick Butcher
         twitter: crafty
@@ -134,7 +128,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Ben Weiss
         twitter: keyboardsurfer
@@ -150,7 +143,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Hoi Lam
         twitter: hoitab
@@ -160,13 +152,12 @@ talks:
     videos:
       - https://youtu.be/u70oRndjpWo
     description: |-
-      We will kick off with an update from the Android Wear team post Baselworld (the watch world's leading trade show) and talk about some of the practical challenges (and solutions!) to bootstrap multiplatform development.  
+      We will kick off with an update from the Android Wear team post Baselworld (the watch world's leading trade show) and talk about some of the practical challenges (and solutions!) to bootstrap multiplatform development.
 
   - title: Android Gradle Plugin internals
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Ivan Gavrilovic
         twitter: gavra0
@@ -182,7 +173,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Bradley Smith
         twitter:
@@ -202,7 +192,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Britt Barak
         twitter: brittbarak
@@ -218,7 +207,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Eyal Lezmy
         twitter: Eyal_Lezmy
@@ -234,7 +222,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Adrián Catalan
         twitter: ykro
@@ -253,7 +240,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Wolfram Rittmeyer
         twitter: RittmeyerW
@@ -269,7 +255,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Ty Smith
         twitter: tsmith
@@ -285,7 +270,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Elaine Dias Batista
         twitter: elainedbatista
@@ -300,7 +284,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Hugo Visser
         twitter: botteaap
@@ -316,7 +299,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Gautier Mechling
         twitter: Nilhcem
@@ -332,7 +314,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Jeroen Mols
         twitter: molsjeroen
@@ -348,7 +329,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Taylor Ling
         twitter: taylorling
@@ -364,7 +344,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Erik Hellman
         twitter: ErikHellman
@@ -380,7 +359,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Lisa Wray
         twitter: lrwray
@@ -396,7 +374,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Cyril Mottier
         twitter: cyrilmottier
@@ -412,7 +389,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Etienne Caron
         twitter: kanawish
@@ -428,7 +404,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Sebastiano Poggi
         twitter: seebrock3r
@@ -448,7 +423,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Qian Jin
         twitter: bonbonking
@@ -464,7 +438,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Christina Lee
         twitter: RunChristinaRun
@@ -480,7 +453,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Marc Poppleton
         twitter: marcpoppleton
@@ -496,7 +468,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Cketti
         twitter: cketti
@@ -506,13 +477,12 @@ talks:
     videos:
       - https://youtu.be/8bXdWQLJBmE
     description: |-
-      Many apps do unexpected things when a user rotates the device. A message that has been painfully composed using the on-screen keyboard is just gone. Dialogs are disappearing. Data that took a while to load and display is gone and now the app is making the user wait again.All of this is very frustrating to users. But if you know that an Activity is destroyed and then recreated on orientation change, this is not too surprising to you. Still, many beginners don’t know what is going on behind the scenes and consequently come up with flawed or incomplete ways to deal with the lifetime of an Activity.If you have ever “fixed” a bug by changing your app’s manifest to manually handle orientation changes or by locking the device orientation, this talk is for you. It aims to give attendees a better understanding of the Activity lifetime/lifecycle. And we will look at the fundamental ways to deal with this situation. So you can write better apps.     
+      Many apps do unexpected things when a user rotates the device. A message that has been painfully composed using the on-screen keyboard is just gone. Dialogs are disappearing. Data that took a while to load and display is gone and now the app is making the user wait again.All of this is very frustrating to users. But if you know that an Activity is destroyed and then recreated on orientation change, this is not too surprising to you. Still, many beginners don’t know what is going on behind the scenes and consequently come up with flawed or incomplete ways to deal with the lifetime of an Activity.If you have ever “fixed” a bug by changing your app’s manifest to manually handle orientation changes or by locking the device orientation, this talk is for you. It aims to give attendees a better understanding of the Activity lifetime/lifecycle. And we will look at the fundamental ways to deal with this situation. So you can write better apps.
 
   - title: Remote control your application
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Stan Kocken
         twitter: stan_kocken
@@ -522,13 +492,12 @@ talks:
     videos:
       - https://youtu.be/AzdabAwoZHc
     description: |-
-      How can you change something on your application without publishing an app update?Copy, feature activation, A/B test, screen style… Be ready to live-update your applications on demandThis talk is about:show all the area that can be remote-controlled, and the one you cannot explore few 3rd party services hints on how to build your own solution  
+      How can you change something on your application without publishing an app update?Copy, feature activation, A/B test, screen style… Be ready to live-update your applications on demandThis talk is about:show all the area that can be remote-controlled, and the one you cannot explore few 3rd party services hints on how to build your own solution
 
   - title: Android Leaks at Android Makers take 2
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Benjamin Monjoie
         twitter: Xzan
@@ -544,7 +513,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Djavan Bertrand
         twitter: Djava7
@@ -560,7 +528,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Raimon Ràfols
         twitter: rrafols
@@ -576,7 +543,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Mårten Kongstad
         twitter: martenkongstad
@@ -596,7 +562,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Pierre-Antoine LaFayette
         twitter: 03lafaye
@@ -612,11 +577,10 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: François Blavoet
         twitter: francoisblavoet
-        github: 
+        github:
         website:
     slides:
     videos:
@@ -628,7 +592,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Mathieu Hausherr
         twitter: mhausherr
@@ -644,7 +607,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Thierry Lee
         twitter:
@@ -660,7 +622,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Quentin Menini
         twitter: QMenini
@@ -676,7 +637,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Thomas Salandre
         twitter: thomsala42
@@ -696,7 +656,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Adrien Grassein
         twitter:
@@ -712,7 +671,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Antoine Descamps
         twitter: _antdesc
@@ -728,7 +686,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Yannick Badoual
         twitter: badoualy
@@ -744,7 +701,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Marc Daniel
         twitter: _daniel_twi
@@ -760,7 +716,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Pierre Crépieux
         twitter:
@@ -776,7 +731,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Xavier F. Gouchet
         twitter: xgouchet
@@ -792,7 +746,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Jonathan Maltz
         twitter: maltzj
@@ -808,7 +761,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Nicola Corti
         twitter: cortinico
@@ -824,7 +776,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Ana Baotić
         twitter: abaotic
@@ -840,7 +791,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Zan Markan
         twitter: zmarkan
@@ -856,7 +806,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Simone Civetta
         twitter: viteinfinite
@@ -872,7 +821,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Alexander Gherschon
         twitter: galex
@@ -888,7 +836,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Clive HG Lee
         twitter: CliveHyunGuLee
@@ -904,7 +851,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Jade Chabaro
         twitter: jadechabaro
@@ -919,7 +865,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Yuliya Kaleda
         twitter: YuliyaKaleda
@@ -935,7 +880,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Marius Constantin
         twitter: mariusc83
@@ -951,7 +895,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Renaud Mathieu
         twitter: renaud_mathieu
@@ -967,7 +910,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Arnaud Giuliani
         twitter: arnogiu
@@ -987,7 +929,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Yannick Lemin
         twitter: theyann
@@ -999,12 +940,11 @@ talks:
     description: |-
       Sound on Android is a topic that is rarely covered, which is why I wanted to shed some lights in my experience with the sound management APIs on Android.So in this talk, we'll touch on how sounds actually work programmatically, and we'll talk about how to play a sound on Android in the most simple way. We will also cover the principle of sound focus, what it is, how and when to use it. We'll see what we can do with MIDI as well. And finally, we'll go deeper in the rabbit hole and get introduced to the lower levels of sounds processing with the help of OpenSL ES and the SuperPowered library.
 
-  
+
   - title: Android Auto, vos médias dans votre voiture.
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Antoine Danois
         twitter: Antoinedroid
@@ -1020,7 +960,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Kirill Suslov
         twitter: k_suslov
@@ -1036,7 +975,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Anita Singh
         twitter: anitas3791
@@ -1052,7 +990,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Amal Kakaiya
         twitter: k4kya
@@ -1068,7 +1005,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Michael Aubert
         twitter: michaelaubertfr
@@ -1084,7 +1020,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Mitchell Tilbrook
         twitter: sir_tilbrook
@@ -1100,7 +1035,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Zac Sweers
         twitter: pandanomic
@@ -1116,7 +1050,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Ryan Cooke
         twitter: the__Ryanator
@@ -1132,7 +1065,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Jean-Philippe Barbaud
         twitter: jpbarbaud
@@ -1148,7 +1080,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Oleg Petshjonkin
         twitter:
@@ -1164,7 +1095,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Emmanuel Cabestan
         twitter:
@@ -1180,7 +1110,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Christophe Beyls
         twitter: BladeCoder
@@ -1196,7 +1125,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-24
-    room:
     authors:
       - name: Lorica Claesson
         twitter: lorica
@@ -1205,8 +1133,8 @@ talks:
     slides:
     videos:
     description: |-
-     
-  
-  
-      
-      
+
+
+
+
+

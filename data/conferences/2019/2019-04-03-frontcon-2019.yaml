@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: FrontCon 2019
   status: complete
   series: frontcon.lv
@@ -21,12 +21,11 @@
     Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
 
 talks:
-    
+
   - title: Building resilient frontend architecture
     lang: en
     type: regular
     time: 2019-04-04
-    room:
     authors:
       - name: Monica Lent
         twitter: monicalent
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-04
-    room:
     authors:
       - name: Marko Letic
         twitter: NisamProgramer
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-04
-    room:
     authors:
       - name: Jecelyn Yeen
         twitter: JecelynYeen
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-04
-    room:
     authors:
       - name: Denis Radin
         twitter: PixelsCommander
@@ -84,13 +80,12 @@ talks:
     videos:
       - https://youtu.be/e-avQTvjORI
     description: |-
-      Building photorealistic 3D experiences on the Web is a challenge. Making it with React is even harder but once you got there it pays off in many ways. This talk is about Evolution Gaming approach of working with 3D graphics on the Web using ReactJS with the goal to build the most sophisticated and expensive 
+      Building photorealistic 3D experiences on the Web is a challenge. Making it with React is even harder but once you got there it pays off in many ways. This talk is about Evolution Gaming approach of working with 3D graphics on the Web using ReactJS with the goal to build the most sophisticated and expensive
 
   - title: React Advanced Patterns
     lang: en
     type: regular
     time: 2019-04-04
-    room:
     authors:
       - name: Manjula Dube
         twitter: manjula_dube
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-04
-    room:
     authors:
       - name: Jānis Miezītis
         twitter: janjiss
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-04
-    room:
     authors:
       - name: Ujjwal Sharma
         twitter: zokuken
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-04
-    room:
     authors:
       - name: Sam Bellen
         twitter: sambego
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-04
-    room:
     authors:
       - name: Mitch Denny
         twitter: mitchdenny
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-05
-    room:
     authors:
       - name: Rachel Appel
         twitter: RachelAppel
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-05
-    room:
     authors:
       - name: Slobodan Stojanovic
         twitter: rawkode
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-05
-    room:
     authors:
       - name: Richard Westenra
         twitter: RichardWestenra
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-05
-    room:
     authors:
       - name: Viktor Razumov
         twitter: vicrazumov
@@ -234,7 +221,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-05
-    room:
     authors:
       - name: James Wright
         twitter: jamesseanwright
@@ -250,7 +236,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-05
-    room:
     authors:
       - name: Martin Kleppe
         twitter:
@@ -266,7 +251,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-05
-    room:
     authors:
       - name: Marius Jurgelenas
         twitter:
@@ -282,7 +266,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-05
-    room:
     authors:
       - name: Ziv Levu
         twitter: zivlevy1
@@ -298,7 +281,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-05
-    room:
     authors:
       - name: Janis Koselevs
         twitter: dzhonijs
@@ -314,7 +296,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-05
-    room:
     authors:
       - name: Raivis Dejus
         twitter: RaivisDejus
@@ -330,7 +311,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-05
-    room:
     authors:
       - name: Roy Derks
         twitter: gethackteam
@@ -346,7 +326,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-05
-    room:
     authors:
       - name: Ruslan Zavacky
         twitter: RuslanZavacky
@@ -362,7 +341,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-05
-    room:
     authors:
       - name: Doug Sillars
         twitter: dougsillars
@@ -373,4 +351,4 @@ talks:
       - https://youtu.be/KTElBkSmq3A
     description: |-
       Video is one of the fastest growing mediums on the web and in mobile applications. Video files have been shown to increase engagement, and can be a great way to deliver your message quickly. (And who doesn’t love animated GIFs?)However, video that takes a long time to start up leads to frustration and abandonment. The same goes for video that stalls during playback. In this talk, you’ll learn best practices to optimize the delivery of your video to you customers, ensuring fast delivery and minimizing stalls for a great customer experience.
-  
+

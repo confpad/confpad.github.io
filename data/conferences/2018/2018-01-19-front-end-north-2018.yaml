@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-19
-    room:
     authors:
       - name: Sarah Semark
         twitter:
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-19
-    room:
     authors:
       - name: Lorna Mitchell
         twitter:
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-19
-    room:
     authors:
       - name: Damian Nicholson
         twitter:
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-19
-    room:
     authors:
       - name: Ben Cooper
         twitter:
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-19
-    room:
     authors:
       - name: Jani Evakallio
         twitter:
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-19
-    room:
     authors:
       - name: Chris Marsh
         twitter:
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-19
-    room:
     authors:
       - name: Tejay White
         twitter:
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-19
-    room:
     authors:
       - name: Kimb Jones
         twitter:
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-19
-    room:
     authors:
       - name: Rich Higgins
         twitter:
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-19
-    room:
     authors:
       - name: Craig Burgess
         twitter:

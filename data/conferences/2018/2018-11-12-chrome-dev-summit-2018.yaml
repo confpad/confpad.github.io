@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-12
-    room:
     authors:
       - name: Ben Galbraith
         twitter: bgalbs
@@ -46,7 +45,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-12
-    room:
     authors:
       - name: Aanchal Bahadur
         twitter: aanchalbahadur
@@ -74,7 +72,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-12
-    room:
     authors:
       - name: Paul Irish
         twitter: paul_irish
@@ -94,7 +91,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-12
-    room:
     authors:
       - name: Houssein Djirdeh
         twitter: hdjirdeh
@@ -115,7 +111,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-12
-    room:
     authors:
       - name: Ewa Gasperowicz
         twitter: devnook
@@ -135,7 +130,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-12
-    room:
     authors:
       - name: Jason Miller
         twitter: _developit
@@ -155,7 +149,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-12
-    room:
     authors:
       - name: Jake Archibald
         twitter: jaffathecake
@@ -175,7 +168,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-12
-    room:
     authors:
       - name: François Beaufort
         twitter:
@@ -195,7 +187,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-12
-    room:
     authors:
       - name: Cheney Tsai
         twitter: cheneytsai
@@ -215,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-12
-    room:
     authors:
       - name: Alberto Medina
         twitter: ialbmedina
@@ -235,7 +225,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-12
-    room:
     authors:
       - name: Martin Splitt
         twitter: g33konaut
@@ -255,7 +244,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Malte Ubl
         twitter: cramforce
@@ -275,7 +263,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Jason Chase
         twitter:
@@ -291,7 +278,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Gray Norton
         twitter: graynorton
@@ -307,7 +293,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Shubhie Panicker
         twitter: shubhie
@@ -327,7 +312,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Paul Lewis
         twitter: aerotwist
@@ -347,7 +331,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Kinuko Yasuda
         twitter:
@@ -375,7 +358,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Surma
         twitter: DasSurma
@@ -391,7 +373,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Chris Wilson
         twitter: cwilso
@@ -411,7 +392,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Alex Danilo
         twitter: alexanderdanilo
@@ -431,7 +411,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Justin Fagnani
         twitter: justinfagnani
@@ -447,7 +426,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Dan Dascalescu
         twitter: dandv

@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: Laracon EU 2018
   status: complete
   series: laracon.eu
@@ -21,12 +21,11 @@
     Laracon EU is a unique international Laravel event with over 750 attendees. The conference has multiple tracks and is focusing on in-depth technical talks. Come learn about the state of the industry while networking with like-minded and diversely experienced developers.
 
 talks:
-    
+
   - title: Build bridges, not walls—Design for users across cultures
     lang: en
     type: regular
     time: 2018-08-30
-    room:
     authors:
       - name: Jenny Shen
         twitter: jennyshen
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30
-    room:
     authors:
       - name: Amanda Folson
         twitter: AmbassadorAwsum
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30
-    room:
     authors:
       - name: Marcel Pociot
         twitter: marcelpociot
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30
-    room:
     authors:
       - name: Alex Bilbie
         twitter: alexbilbie
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30
-    room:
     authors:
       - name: Robert Basic
         twitter: robertbasic
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30
-    room:
     authors:
       - name: Franz Liedke
         twitter: franzliedke
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30
-    room:
     authors:
       - name: Taylor Dondich
         twitter: tdondich
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30
-    room:
     authors:
       - name: Margaret Staples
         twitter: dead_lugosi
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30
-    room:
     authors:
       - name: Robert Douglass
         twitter:
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30
-    room:
     authors:
       - name: Freek van der Herten
         twitter: freekmurze
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30
-    room:
     authors:
       - name: David McKay
         twitter: rawkode
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-30
-    room:
     authors:
       - name: Christopher Pitt
         twitter: assertchris
@@ -222,7 +210,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Rizqi Djamaluddin
         twitter: __rizqi
@@ -238,7 +225,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Kai Sassnowski
         twitter: warsh33p
@@ -254,7 +240,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Marten Westphal
         twitter:
@@ -270,7 +255,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Mattias Geniar
         twitter: mattiasgeniar
@@ -286,7 +270,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Marcus Bointon
         twitter: SynchroM
@@ -302,7 +285,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Gabriela Ferrara
         twitter: gabidavila
@@ -318,7 +300,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Bobby Bouwmann
         twitter: bobbybouwmann
@@ -334,7 +315,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Mark Starkey
         twitter:
@@ -350,7 +330,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Krystal Campioni
         twitter: krystalcampioni
@@ -366,7 +345,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Katerina Trajchevska
         twitter: ktrajchevska
@@ -382,7 +360,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Marcel Pociot
         twitter: marcelpociot
@@ -397,7 +374,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Chris Brown
         twitter:
@@ -412,7 +388,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Taylor Otwell
         twitter: taylorotwell

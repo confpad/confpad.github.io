@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 09:00:00
-    room: Epigenetic Gardens
     authors:
       - name: Elsa Sotiriadis
         twitter:
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 10:30:00
-    room: Bionic Square
     authors:
       - name: Andras Velvart
         twitter:
@@ -57,7 +55,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 10:30:00
-    room: CRISPR Corner
     authors:
       - name: Sebastian Daschner
         twitter:
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 10:30:00
-    room: Cryogenic Chamber
     authors:
       - name: Patrick Kua
         twitter:
@@ -89,7 +85,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 10:30:00
-    room: Epigenetic Gardens
     authors:
       - name: Rachel Andrew
         twitter:
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 10:30:00
-    room: Neosense Beach
     authors:
       - name: Ari Lerner
         twitter:
@@ -121,7 +115,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 10:30:00
-    room: Nootropic Market
     authors:
       - name: Iris Classon
         twitter:
@@ -137,7 +130,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 10:30:00
-    room: Senescence Forest
     authors:
       - name: Diane Zajac
         twitter:
@@ -153,7 +145,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 11:30:00
-    room: Bionic Square
     authors:
       - name: Philipp Krenn
         twitter:
@@ -168,7 +159,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 11:30:00
-    room: CRISPR Corner
     authors:
       - name: Sean Grove
         twitter:
@@ -184,7 +174,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 11:30:00
-    room: Cryogenic Chamber
     authors:
       - name: Max Larcombe
         twitter:
@@ -204,7 +193,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 11:30:00
-    room: Epigenetic Gardens
     authors:
       - name: Huyen Dao
         twitter:
@@ -220,7 +208,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 11:30:00
-    room: Neosense Beach
     authors:
       - name: Roshan Khan
         twitter:
@@ -235,7 +222,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 11:30:00
-    room: Nootropic Market
     authors:
       - name: Øystein Kolsrud
         twitter:
@@ -251,7 +237,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 11:30:00
-    room: Senescence Forest
     authors:
       - name: Hillel Wayne
         twitter:
@@ -267,7 +252,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 12:50:00
-    room: Bionic Square
     authors:
       - name: Danny Preussler
         twitter:
@@ -282,7 +266,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 12:50:00
-    room: CRISPR Corner
     authors:
       - name: Zoë Rose
         twitter:
@@ -298,7 +281,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 12:50:00
-    room: Cryogenic Chamber
     authors:
       - name: Richard Feldman
         twitter:
@@ -314,7 +296,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 12:50:00
-    room: Epigenetic Gardens
     authors:
       - name: Jasper Heeffer
         twitter:
@@ -330,7 +311,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 12:50:00
-    room: Neosense Beach
     authors:
       - name: Nivia Henry
         twitter:
@@ -345,7 +325,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 12:50:00
-    room: Nootropic Market
     authors:
       - name: Steve Sanderson
         twitter:
@@ -361,7 +340,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 12:50:00
-    room: Senescence Forest
     authors:
       - name: Lisette Sutherland
         twitter:
@@ -377,7 +355,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 13:50:00
-    room: Bionic Square
     authors:
       - name: Dan Lebrero
         twitter:
@@ -392,7 +369,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 13:50:00
-    room: CRISPR Corner
     authors:
       - name: David Nolen
         twitter:
@@ -408,7 +384,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 13:50:00
-    room: Cryogenic Chamber
     authors:
       - name: Az Balabanian
         twitter:
@@ -424,7 +399,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 13:50:00
-    room: Epigenetic Gardens
     authors:
       - name: Peter Yaworski
         twitter:
@@ -440,7 +414,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 13:50:00
-    room: Neosense Beach
     authors:
       - name: Ari Lerner
         twitter:
@@ -455,7 +428,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 13:50:00
-    room: Nootropic Market
     authors:
       - name: Jon Skeet
         twitter:
@@ -471,7 +443,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 13:50:00
-    room: Senescence Forest
     authors:
       - name: Jeff Gothelf
         twitter:
@@ -487,7 +458,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 15:10:00
-    room: Bionic Square
     authors:
       - name: Tyler Wolf
         twitter:
@@ -502,7 +472,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 15:10:00
-    room: CRISPR Corner
     authors:
       - name: Doc Norton
         twitter:
@@ -518,7 +487,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 15:10:00
-    room: Cryogenic Chamber
     authors:
       - name: Bengt Rutisson
         twitter:
@@ -534,7 +502,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 15:10:00
-    room: Epigenetic Gardens
     authors:
       - name: Anjana Vakil
         twitter:
@@ -550,7 +517,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 15:10:00
-    room: Neosense Beach
     authors:
       - name: Kamil Szymański
         twitter:
@@ -565,7 +531,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 15:10:00
-    room: Nootropic Market
     authors:
       - name: Filip Ekberg
         twitter:
@@ -581,7 +546,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 15:10:00
-    room: Senescence Forest
     authors:
       - name: Jason Gorman
         twitter:
@@ -596,7 +560,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 16:10:00
-    room: Bionic Square
     authors:
       - name: Az Balabanian
         twitter:
@@ -611,7 +574,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 16:10:00
-    room: CRISPR Corner
     authors:
       - name: Burr Sutter
         twitter:
@@ -627,7 +589,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 16:10:00
-    room: Cryogenic Chamber
     authors:
       - name: Steve Klabnik
         twitter:
@@ -643,7 +604,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 16:10:00
-    room: Epigenetic Gardens
     authors:
       - name: Gleb Bahmutov
         twitter:
@@ -659,7 +619,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 16:10:00
-    room: Neosense Beach
     authors:
       - name: Rahul Muttineni
         twitter:
@@ -674,7 +633,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 16:10:00
-    room: Nootropic Market
     authors:
       - name: Julie Lerman
         twitter:
@@ -690,7 +648,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 16:10:00
-    room: Senescence Forest
     authors:
       - name: Woody Zuill
         twitter:
@@ -706,7 +663,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 17:10:00
-    room: Bionic Square
     authors:
       - name: Ashic Mahtab
         twitter:
@@ -721,7 +677,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 17:10:00
-    room: CRISPR Corner
     authors:
       - name: Kai Chang
         twitter:
@@ -737,7 +692,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 17:10:00
-    room: Cryogenic Chamber
     authors:
       - name: Dennis Doomen
         twitter:
@@ -753,7 +707,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 17:10:00
-    room: Epigenetic Gardens
     authors:
       - name: Chris Dancy
         twitter:
@@ -769,7 +722,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 17:10:00
-    room: Neosense Beach
     authors:
       - name: Piotr Wittchen
         twitter:
@@ -784,7 +736,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 17:10:00
-    room: Nootropic Market
     authors:
       - name: Matthew Ellis
         twitter:
@@ -800,7 +751,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 17:10:00
-    room: Senescence Forest
     authors:
       - name: Judy Rees
         twitter:
@@ -816,7 +766,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-19 18:20:00
-    room: Epigenetic Gardens
     authors:
       - name: Niall Merrigan
         twitter:
@@ -832,7 +781,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 09:00:00
-    room: Epigenetic Gardens
     authors:
       - name: Chris Dancy
         twitter:
@@ -848,7 +796,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 10:30:00
-    room: Bionic Square
     authors:
       - name: Kai Chang
         twitter:
@@ -863,7 +810,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 10:30:00
-    room: CRISPR Corner
     authors:
       - name: Burr Sutter
         twitter:
@@ -878,7 +824,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 10:30:00
-    room: Cryogenic Chamber
     authors:
       - name: Johan Andrén
         twitter:
@@ -894,7 +839,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 10:30:00
-    room: Epigenetic Gardens
     authors:
       - name: Niall Merrigan
         twitter:
@@ -909,7 +853,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 10:30:00
-    room: Neosense Beach
     authors:
       - name: Emanuil Slavov
         twitter:
@@ -924,7 +867,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 10:30:00
-    room: Nootropic Market
     authors:
       - name: Rabeb Othmani
         twitter:
@@ -940,7 +882,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 10:30:00
-    room: Senescence Forest
     authors:
       - name: Lisette Sutherland
         twitter:
@@ -956,7 +897,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 11:30:00
-    room: Bionic Square
     authors:
       - name: Katrina Clokie
         twitter:
@@ -971,7 +911,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 11:30:00
-    room: CRISPR Corner
     authors:
       - name: Andrew Betts
         twitter:
@@ -986,7 +925,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 11:30:00
-    room: Cryogenic Chamber
     authors:
       - name: Adam Tornhill
         twitter:
@@ -1001,7 +939,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 11:30:00
-    room: Epigenetic Gardens
     authors:
       - name: Rachel Andrew
         twitter:
@@ -1016,7 +953,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 11:30:00
-    room: Neosense Beach
     authors:
       - name: Alex Lockwood
         twitter:
@@ -1031,7 +967,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 11:30:00
-    room: Nootropic Market
     authors:
       - name: Barry Dorrans
         twitter:
@@ -1047,7 +982,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 11:30:00
-    room: Senescence Forest
     authors:
       - name: Judy Rees
         twitter:
@@ -1063,7 +997,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 12:50:00
-    room: Bionic Square
     authors:
       - name: Huyen Dao
         twitter:
@@ -1078,7 +1011,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 12:50:00
-    room: CRISPR Corner
     authors:
       - name: Erik Nordström
         twitter:
@@ -1094,7 +1026,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 12:50:00
-    room: Cryogenic Chamber
     authors:
       - name: Peter Neubauer
         twitter:
@@ -1110,7 +1041,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 12:50:00
-    room: Epigenetic Gardens
     authors:
       - name: Gleb Bahmutov
         twitter:
@@ -1125,7 +1055,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 12:50:00
-    room: Neosense Beach
     authors:
       - name: Enno Runne
         twitter:
@@ -1140,7 +1069,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 12:50:00
-    room: Nootropic Market
     authors:
       - name: Nick Tune
         twitter:
@@ -1156,7 +1084,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 12:50:00
-    room: Senescence Forest
     authors:
       - name: Doc Norton
         twitter:
@@ -1172,7 +1099,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 13:50:00
-    room: Bionic Square
     authors:
       - name: Christian Runnevik
         twitter:
@@ -1187,7 +1113,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 13:50:00
-    room: CRISPR Corner
     authors:
       - name: Christoffer Noring
         twitter:
@@ -1203,7 +1128,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 13:50:00
-    room: Cryogenic Chamber
     authors:
       - name: Kevin Most
         twitter:
@@ -1219,7 +1143,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 13:50:00
-    room: Epigenetic Gardens
     authors:
       - name: Frans Rosén
         twitter:
@@ -1234,7 +1157,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 13:50:00
-    room: Neosense Beach
     authors:
       - name: Andras Velvart
         twitter:
@@ -1249,7 +1171,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 13:50:00
-    room: Nootropic Market
     authors:
       - name: Jon Skeet
         twitter:
@@ -1265,7 +1186,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 13:50:00
-    room: Senescence Forest
     authors:
       - name: Juha Rouvinen
         twitter:
@@ -1281,7 +1201,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 15:10:00
-    room: Bionic Square
     authors:
       - name: Stephen Haunts
         twitter:
@@ -1296,7 +1215,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 15:10:00
-    room: CRISPR Corner
     authors:
       - name: Ashic Mahtab
         twitter:
@@ -1312,7 +1230,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 15:10:00
-    room: Cryogenic Chamber
     authors:
       - name: Taylor Ling
         twitter:
@@ -1328,7 +1245,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 15:10:00
-    room: Epigenetic Gardens
     authors:
       - name: Gary Fleming
         twitter:
@@ -1343,7 +1259,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 15:10:00
-    room: Neosense Beach
     authors:
       - name: Erik Hellman
         twitter:
@@ -1358,7 +1273,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 15:10:00
-    room: Nootropic Market
     authors:
       - name: Barry Dorrans
         twitter:
@@ -1374,7 +1288,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 15:10:00
-    room: Senescence Forest
     authors:
       - name: Karl Scotland
         twitter:
@@ -1390,7 +1303,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 16:10:00
-    room: Bionic Square
     authors:
       - name: Øredev Øredevsson
         twitter:
@@ -1405,7 +1317,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 16:10:00
-    room: CRISPR Corner
     authors:
       - name: Yonatan Mevorach
         twitter:
@@ -1421,7 +1332,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 16:10:00
-    room: Cryogenic Chamber
     authors:
       - name: Kris Jenkins
         twitter:
@@ -1437,7 +1347,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 16:10:00
-    room: Epigenetic Gardens
     authors:
       - name: Adam Ralph
         twitter:
@@ -1452,7 +1361,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 16:10:00
-    room: Neosense Beach
     authors:
       - name: Jyothsna Patnam
         twitter:
@@ -1467,7 +1375,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 16:10:00
-    room: Nootropic Market
     authors:
       - name: Julie Lerman
         twitter:
@@ -1483,7 +1390,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 16:10:00
-    room: Senescence Forest
     authors:
       - name: Nivia Henry
         twitter:
@@ -1499,7 +1405,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 17:10:00
-    room: Bionic Square
     authors:
       - name: Liviu Babitz
         twitter:
@@ -1514,7 +1419,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 17:10:00
-    room: CRISPR Corner
     authors:
       - name: Bartosz Milewski
         twitter:
@@ -1530,7 +1434,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 17:10:00
-    room: Cryogenic Chamber
     authors:
       - name: Ray Kawalec
         twitter:
@@ -1545,7 +1448,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 17:10:00
-    room: Epigenetic Gardens
     authors:
       - name: Ire Aderinokun
         twitter:
@@ -1560,7 +1462,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 17:10:00
-    room: Neosense Beach
     authors:
       - name: Hans Boef
         twitter:
@@ -1575,7 +1476,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 17:10:00
-    room: Nootropic Market
     authors:
       - name: Anna Kamieniak
         twitter:
@@ -1591,7 +1491,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 17:10:00
-    room: Senescence Forest
     authors:
       - name: Jason Gorman
         twitter:
@@ -1606,7 +1505,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 18:20:00
-    room: Epigenetic Gardens
     authors:
       - name: Alex Pearlman
         twitter:
@@ -1622,7 +1520,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-20 20:00:00
-    room: Epigenetic Gardens
     authors:
       - name: Moon Ribas
         twitter:
@@ -1638,7 +1535,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 09:00:00
-    room: Epigenetic Gardens
     authors:
       - name: Jeff Gothelf
         twitter:
@@ -1654,7 +1550,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 10:30:00
-    room: Bionic Square
     authors:
       - name: Mark Hrynczak
         twitter:
@@ -1669,7 +1564,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 10:30:00
-    room: CRISPR Corner
     authors:
       - name: Steve Klabnik
         twitter:
@@ -1684,7 +1578,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 10:30:00
-    room: Cryogenic Chamber
     authors:
       - name: Chris Dancy
         twitter:
@@ -1699,7 +1592,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 10:30:00
-    room: Epigenetic Gardens
     authors:
       - name: Benjamin Stopford
         twitter:
@@ -1714,7 +1606,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 10:30:00
-    room: Neosense Beach
     authors:
       - name: Oskar Wickström
         twitter:
@@ -1729,7 +1620,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 10:30:00
-    room: Nootropic Market
     authors:
       - name: Ana Baotić
         twitter:
@@ -1744,7 +1634,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 10:30:00
-    room: Senescence Forest
     authors:
       - name: Sebastian Daschner
         twitter:
@@ -1759,7 +1648,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 11:30:00
-    room: Bionic Square
     authors:
       - name: Erik Hellman
         twitter:
@@ -1774,7 +1662,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 11:30:00
-    room: CRISPR Corner
     authors:
       - name: Sean Grove
         twitter:
@@ -1789,7 +1676,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 11:30:00
-    room: Cryogenic Chamber
     authors:
       - name: Chris Dancy
         twitter:
@@ -1804,7 +1690,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 11:30:00
-    room: Epigenetic Gardens
     authors:
       - name: Stéphane Nicoll
         twitter:
@@ -1819,7 +1704,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 11:30:00
-    room: Neosense Beach
     authors:
       - name: Robert Ashton
         twitter:
@@ -1834,7 +1718,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 11:30:00
-    room: Nootropic Market
     authors:
       - name: Gustav Kaleta
         twitter:
@@ -1849,7 +1732,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 11:30:00
-    room: Senescence Forest
     authors:
       - name: Imogen Heap
         twitter:
@@ -1864,7 +1746,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 12:50:00
-    room: Bionic Square
     authors:
       - name: Øredev Øredevsson
         twitter:
@@ -1879,7 +1760,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 12:50:00
-    room: CRISPR Corner
     authors:
       - name: Sindre Osen Aarsaether
         twitter:
@@ -1894,7 +1774,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 12:50:00
-    room: Cryogenic Chamber
     authors:
       - name: Simon Harrer
         twitter:
@@ -1909,7 +1788,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 12:50:00
-    room: Epigenetic Gardens
     authors:
       - name: Jonas Bonér
         twitter:
@@ -1924,7 +1802,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 12:50:00
-    room: Neosense Beach
     authors:
       - name: Katrina Clokie
         twitter:
@@ -1939,7 +1816,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 12:50:00
-    room: Nootropic Market
     authors:
       - name: Rabeb Othmani
         twitter:
@@ -1954,7 +1830,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 13:50:00
-    room: Bionic Square
     authors:
       - name: Kim Hof
         twitter:
@@ -1969,7 +1844,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 13:50:00
-    room: CRISPR Corner
     authors:
       - name: Filip Bech-Larsen
         twitter:
@@ -1984,7 +1858,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 13:50:00
-    room: Cryogenic Chamber
     authors:
       - name: Milen Dyankov
         twitter:
@@ -1999,7 +1872,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 13:50:00
-    room: Epigenetic Gardens
     authors:
       - name: Peter Yaworski
         twitter:
@@ -2014,7 +1886,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 13:50:00
-    room: Neosense Beach
     authors:
       - name: Rafał Legiędź
         twitter:
@@ -2029,7 +1900,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 13:50:00
-    room: Senescence Forest
     authors:
       - name: Karl Scotland
         twitter:
@@ -2044,7 +1914,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 15:10:00
-    room: Bionic Square
     authors:
       - name: Pontus Lundin
         twitter:
@@ -2059,7 +1928,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 15:10:00
-    room: CRISPR Corner
     authors:
       - name: Robert Luciani
         twitter:
@@ -2074,7 +1942,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 15:10:00
-    room: Cryogenic Chamber
     authors:
       - name: Rúnar Bjarnason
         twitter:
@@ -2089,7 +1956,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 15:10:00
-    room: Epigenetic Gardens
     authors:
       - name: Zoë Rose
         twitter:
@@ -2104,7 +1970,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 15:10:00
-    room: Neosense Beach
     authors:
       - name: Peter Kedemo
         twitter:
@@ -2119,7 +1984,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 15:10:00
-    room: Nootropic Market
     authors:
       - name: AMahdy Abdelaziz
         twitter:
@@ -2134,7 +1998,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 16:10:00
-    room: Bionic Square
     authors:
       - name: Ali Kheyrollahi
         twitter:
@@ -2149,7 +2012,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 16:10:00
-    room: CRISPR Corner
     authors:
       - name: Fredrik Larsson
         twitter:
@@ -2164,7 +2026,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 16:10:00
-    room: Cryogenic Chamber
     authors:
       - name: Luciano Mammino
         twitter:
@@ -2179,7 +2040,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 16:10:00
-    room: Epigenetic Gardens
     authors:
       - name: Heinz Kabutz
         twitter:
@@ -2194,7 +2054,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 16:10:00
-    room: Neosense Beach
     authors:
       - name: Øredev Øredevsson
         twitter:
@@ -2209,7 +2068,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 16:10:00
-    room: Nootropic Market
     authors:
       - name: Alex Lockwood
         twitter:
@@ -2224,7 +2082,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 16:10:00
-    room: Senescence Forest
     authors:
       - name: Maxim Salnikov
         twitter:
@@ -2239,7 +2096,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-21 17:20:00
-    room: Epigenetic Gardens
     authors:
       - name: Teemu Arina
         twitter:
@@ -2255,7 +2111,6 @@ talks:
     lang: en
     type: workshop
     time: 2018-11-22 09:00:00
-    room: Bionic Square
     authors:
       - name: Maxim Salnikov
         twitter:
@@ -2270,7 +2125,6 @@ talks:
     lang: en
     type: workshop
     time: 2018-11-22 09:00:00
-    room: CRISPR Corner
     authors:
       - name: Richard Feldman
         twitter:
@@ -2285,7 +2139,6 @@ talks:
     lang: en
     type: workshop
     time: 2018-11-22 09:00:00
-    room: Cryogenic Chamber
     authors:
       - name: Linus Kvarnhammar
         twitter:
@@ -2300,7 +2153,6 @@ talks:
     lang: en
     type: workshop
     time: 2018-11-22 09:00:00
-    room: Epigenetic Gardens
     authors:
       - name: Jason Gorman
         twitter:
@@ -2315,7 +2167,6 @@ talks:
     lang: en
     type: workshop
     time: 2018-11-22 09:00:00
-    room: Neosense Beach
     authors:
       - name: Taylor Ling
         twitter:
@@ -2330,7 +2181,6 @@ talks:
     lang: en
     type: workshop
     time: 2018-11-22 09:00:00
-    room: Nootropic Market
     authors:
       - name: Heinz Kabutz
         twitter:
@@ -2345,7 +2195,6 @@ talks:
     lang: en
     type: workshop
     time: 2018-11-22 09:00:00
-    room: Senescence Forest
     authors:
       - name: Lisette Sutherland
         twitter:

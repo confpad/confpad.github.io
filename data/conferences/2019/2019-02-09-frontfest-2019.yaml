@@ -26,7 +26,6 @@ talks:
     lang: es
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: PAQUI CALABRIA
         twitter: zurribulle
@@ -46,7 +45,6 @@ talks:
     lang: es
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: CRISTINA PONCE
         twitter: CristinaGrim
@@ -62,7 +60,6 @@ talks:
     lang: es
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: EDUARDO SAN MARTÍN
         twitter: posva
@@ -78,7 +75,6 @@ talks:
     lang: es
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: JOSÉ ANTONIO VELA
         twitter: ecosdegenero
@@ -94,7 +90,6 @@ talks:
     lang: es
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: JAMES HEDA WENG
         twitter: JamesHedaWeng
@@ -110,7 +105,6 @@ talks:
     lang: es
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: VICENTE LUCENDO
         twitter: vlucendo
@@ -126,7 +120,6 @@ talks:
     lang: es
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: JESÚS OLAZAGOITIA
         twitter: goiblas
@@ -142,7 +135,6 @@ talks:
     lang: es
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: SERGIO ARBEO
         twitter: serabe

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-13
-    room:
     authors:
       - name: Tracy Lee
         twitter: ladyleet
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-13
-    room:
     authors:
       - name: Michele Bertoli
         twitter: MicheleBertoli
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-13
-    room:
     authors:
       - name: Michel Weststrate
         twitter: mweststrate
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-13
-    room:
     authors:
       - name: Shirley Wu
         twitter: sxywu
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-13
-    room:
     authors:
       - name: Kristijan Ristovski
         twitter: thekitze
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-13
-    room:
     authors:
       - name: Richard Threlkeld
         twitter: undef_obj
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-13
-    room:
     authors:
       - name: Manjula Dube
         twitter: manjula_dube
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-13
-    room:
     authors:
       - name: Ken Wheeler
         twitter: ken_wheeler
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-13
-    room:
     authors:
       - name: Wowa Barsukov
         twitter:
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-04-13
-    room:
     authors:
       - name: Rebecca Hill
         twitter: rebekaka
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-04-13
-    room:
     authors:
       - name: Olga Petrova
         twitter: tyoushe
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-13
-    room:
     authors:
       - name: Radoslav Stankov
         twitter: rstankov
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-13
-    room:
     authors:
       - name: Almero Steyn
         twitter: kryptos_rsa
@@ -234,7 +221,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-13
-    room:
     authors:
       - name: Sara Vieira
         twitter: NikkitaFTW
@@ -250,7 +236,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-13
-    room:
     authors:
       - name: David Carter & Simon Dudley
         twitter: SiLaDu
@@ -266,7 +251,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-13
-    room:
     authors:
       - name: Phil Plückthun
         twitter: _philpl

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
     slides:
     videos:
@@ -38,7 +37,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Evan You
         twitter:
@@ -54,7 +52,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Jacob Schatz
         twitter:
@@ -70,7 +67,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Rachel Nabors
         twitter:
@@ -86,7 +82,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Edd Yerburgh
         twitter:
@@ -102,7 +97,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Sarah Drasner
         twitter:
@@ -118,7 +112,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: John Lindquist
         twitter:
@@ -134,7 +127,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Jen Looper
         twitter:
@@ -150,7 +142,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Chris Fritz
         twitter:
@@ -166,7 +157,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Miriam Suzanne
         twitter:
@@ -182,7 +172,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Daniel Rosenwasser
         twitter:
@@ -198,7 +187,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Divya Sasidharan
         twitter:
@@ -214,7 +202,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Sebastien Chopin
         twitter:
@@ -230,7 +217,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Peter Finn
         twitter:
@@ -246,7 +232,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Pine Wu
         twitter:
@@ -262,7 +247,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Dan Zeitman
         twitter:
@@ -278,7 +262,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Adam Bradford
         twitter:
@@ -294,7 +277,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Sean Thomas Larkin
         twitter:
@@ -310,7 +292,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Eduardo San Martin Morote
         twitter:
@@ -326,7 +307,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Jacob Covey
         twitter:
@@ -342,7 +322,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Matt Biilmann
         twitter:
@@ -358,7 +337,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: Mike Hartington
         twitter:
@@ -374,7 +352,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-27
-    room:
     authors:
       - name: CJ
         twitter:

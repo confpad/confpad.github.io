@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Romain Guy
         twitter: romainguy
@@ -45,12 +44,11 @@ talks:
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Ty Smith
         twitter: tsmith
         github: tyvsmith
-        website: https://tysmith.me/ 
+        website: https://tysmith.me/
     slides:
       - https://speakerdeck.com/tysmith/deep-android-integrations
     videos:
@@ -62,7 +60,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Pawoubadi Abalo
         twitter: leboncoin
@@ -78,7 +75,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Jean-Sébastien Dupuy
         twitter: dupuyjs
@@ -98,7 +94,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Cyril Mottier
         twitter: cyrilmottier
@@ -115,7 +110,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Cédric Creusot
         twitter:
@@ -136,7 +130,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Thibault Fighiera
         twitter: YellowTeamAndro
@@ -156,7 +149,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: David Wursteisen
         twitter: dwursteisen
@@ -173,7 +165,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Xavier F. Gouchet
         twitter: xgouchet
@@ -190,7 +181,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Mark Boyt
         twitter: Boytie
@@ -206,7 +196,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: David González
         twitter: dggonzalez
@@ -223,7 +212,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Hoi Lam
         twitter: hoitab
@@ -233,13 +221,12 @@ talks:
     videos:
       - https://youtu.be/o3nqRsBzJt0
     description: |-
-      In this session, Hoi will explore the past, the present and the future of Android Wear. Come and find out the new developer features in Android Wear 2.0 and what developers / designers should do to get ready!    
+      In this session, Hoi will explore the past, the present and the future of Android Wear. Come and find out the new developer features in Android Wear 2.0 and what developers / designers should do to get ready!
 
   - title: Android Things for IoT
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Wayne Piekarski
         twitter: waynepiekarski
@@ -255,7 +242,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Gabriel Adgeg
         twitter: g_adgeg
@@ -276,7 +262,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Julien Salvi
         twitter: JulienSalvi
@@ -293,7 +278,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Mike Nakhimovich
         twitter: friendlyMikhail
@@ -310,7 +294,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Thalía Cruz Castañares
         twitter:
@@ -331,7 +314,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Rémi Pradal
         twitter: RemiPradal
@@ -348,7 +330,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Florian Mierzejewski
         twitter: florianmski
@@ -365,7 +346,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Romain Potier
         twitter: PotierRomain
@@ -386,7 +366,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Qian Jin
         twitter: bonbonking
@@ -407,7 +386,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Gabriel Adgeg
         twitter: g_adgeg
@@ -428,7 +406,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Jeroen Mols
         twitter: molsjeroen
@@ -445,7 +422,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: David Fournier
         twitter: smartnsoft
@@ -461,7 +437,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Taylor Ling
         twitter: taylorling
@@ -478,7 +453,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-10
-    room: The Salons of Aveyron
     authors:
       - name: Benjamin Monjoie
         twitter: Xzan
@@ -495,7 +469,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Lisa Wray
         twitter: lisawrayz
@@ -511,7 +484,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Jeremie Martinez
         twitter: JeremMartinez
@@ -528,7 +500,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Stéphane Nicolas
         twitter:
@@ -549,7 +520,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Nicolas Roard
         twitter: camaelon
@@ -566,7 +536,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Arnaud Giuliani
         twitter: arnogiu
@@ -583,7 +552,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Pierre Benayoun
         twitter: Pierre_Benayoun
@@ -600,7 +568,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Elaine Dias Batista
         twitter: elainedbatista
@@ -621,7 +588,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Gautier Mechling
         twitter: Nilhcem
@@ -638,7 +604,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Chuck Greb
         twitter: ecgreb
@@ -655,7 +620,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Cyril Mottier
         twitter: cyrilmottier
@@ -691,7 +655,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Bruce Bujon
         twitter: hardcoding
@@ -708,7 +671,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Renaud Boulard
         twitter: _renaudb
@@ -729,7 +691,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Stanojko Markovik
         twitter: smarkovik
@@ -746,7 +707,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Mathieu Calba
         twitter: Mathieu_Calba
@@ -763,7 +723,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Quentin Sallat
         twitter: Aerilys
@@ -780,7 +739,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Fabien Devos
         twitter: Fabien_Devos
@@ -797,7 +755,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Damien Cavaillès
         twitter: thedamfr
@@ -813,7 +770,6 @@ talks:
     lang: fr
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Benjamin Monjoie
         twitter: Xzan
@@ -834,7 +790,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Chad Schultz
         twitter: thechadschultz
@@ -851,7 +806,6 @@ talks:
     lang: en
     type: regular
     time: 2017-04-11
-    room: The Salons of Aveyron
     authors:
       - name: Chet Haase
         twitter: chethaase

@@ -26,7 +26,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Catalina Oyaneder
         twitter: cataflu
@@ -42,7 +41,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Eduardo Sada
         twitter: aeroalquimia
@@ -62,7 +60,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Laura Morillo
         twitter: Laura_Morillo
@@ -82,7 +79,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Diego Lafuente Garcia
         twitter: tufosa
@@ -98,7 +94,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Gonzalo Ruiz de Villa
         twitter: gruizdevilla
@@ -115,7 +110,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Ana Encinar
         twitter: jnisabe
@@ -131,7 +125,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Pedro Palao
         twitter:
@@ -151,7 +144,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Héctor Moreno
         twitter: Hecmocerpro
@@ -167,7 +159,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Marta Fonda
         twitter: MartaFonda
@@ -183,7 +174,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Jesús Pérez
         twitter: jesusprubio
@@ -200,7 +190,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Rubén Valseca
         twitter: rubnvp
@@ -217,7 +206,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Esther Lozano
         twitter: esloho
@@ -234,7 +222,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Manuel Martinez-Almeida
         twitter: manucorporat
@@ -251,7 +238,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Paqui Calabria
         twitter: Zurribulle
@@ -268,7 +254,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Gorka Ludlow
         twitter: AquiGorka
@@ -284,7 +269,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Pablo Magaz
         twitter: pablo_magaz
@@ -301,7 +285,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Ibon Tolosana
         twitter: hyperandroid
@@ -317,7 +300,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: Rubén Sospedra
         twitter: sospedra_r
@@ -334,7 +316,6 @@ talks:
     lang: es
     type: regular
     time: 2018-10-20
-    room:
     authors:
       - name: César Alberca
         twitter: cesalberca

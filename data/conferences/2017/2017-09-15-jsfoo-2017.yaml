@@ -1,5 +1,5 @@
 conference:
-    
+
   name: JSFoo 2017
   status: complete
   series: jsfoo.in
@@ -21,12 +21,11 @@ conference:
     We launched JSFoo in 2011 as India’s first JavaScript conference. The JS community in India has grown phenomenally since then. JavaScript now pervades every aspect of web development – browsers, apps, front-end, backend, mobile and IoT, and there’s always scope to understand new ideas and solutions. The conference explores new ideas, implementing innovative solutions, and learning from experiences, especially negative ones!
 
 talks:
-  
+
   - title: Demystifying Web Components as the Weapon for Web
     lang: en
     type: regular
     time: 2017-09-15
-    room:
     authors:
       - name: Rahat Khanna
         twitter: mappmechanic
@@ -35,21 +34,20 @@ talks:
     slides:
     videos:
       - https://youtu.be/71JdaRofCgA
-    description: |- 
+    description: |-
       The web is evolving at light speed and all the web applications are trying to catch up. It has become very difficult for a new developer or even an existing developer to decide which Framework or Tool to choose for his next project. Angular, React, Ember, Vue are few of the myriad of options available, and some time evaluating few of these for the best fit is unending.All the browsers have come to a stage where they are almost implementing most of the new Web Standards and now developers do not need to invest much time in Browser Compatibility. Although all the front end frameworks like React, Angular, Vue & Ember have different core architectures but they are converging on a common principle design pattern i.e. Component Driven architecture. Web Components with the customElements v1 API released on most popular browsers are the solution to take standardisation of the web to the next level.
 
   - title: Building a PWA using Polymer
     lang: en
     type: regular
     time: 2017-09-15
-    room:
     authors:
       - name: Ashrith Kulai
         twitter: ashrithkulai
         github: ashrithkulai
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/AS9CMVU4XhI
     description: |-
       An introduction into Web Components and PolymerJS. A walk through on using Polymer features using book.olacabs.com.You will learn how easy it is to build a PWA using Polymer.
@@ -58,14 +56,13 @@ talks:
     lang: en
     type: regular
     time: 2017-09-15
-    room:
     authors:
       - name: Prateek Bhatnagar
         twitter: prateekbh
         github: prateekbh
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/bjAFS88UJEo
     description: |-
       This talk aims in driving motivation to bring game developers to mobile web. We have tons of games in playstore and apple store which are perfect candidates of PWAs. This talk will cover what it takes to make games super fast and interactive on mobile web. How to skip gigantic download wait time and keep the user engaged.
@@ -74,14 +71,13 @@ talks:
     lang: en
     type: regular
     time: 2017-09-15
-    room:
     authors:
       - name: George Mandis
         twitter: georgemandis
         github: georgemandis
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/R0-XLrr8icY
     description: |-
       We’re living the halcyon days of tiny computers and JavaScript, but MIDI is a technology that’s been around for much longer. In this talk we’ll explore why it’s implementation and prevalence in hardware makes for a uniquely intriguing and accessible platform for creative coding.
@@ -90,14 +86,13 @@ talks:
     lang: en
     type: regular
     time: 2017-09-15
-    room:
     authors:
       - name: Riyaz Walikar
         twitter: riyazw
         github: riyazwalikar
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/XBraYHhqT-M
     description: |-
       Hackers are everywhere! Are they also in your client-side code? What do attackers target when they are breaking JavaScript frameworks and libraries? How are they stealing those elusive crypto keys and your authentication protected data?Detecting and exploiting JavaScript security issues can easily become complex since the scope for attack would be constrained by features built into the framework and libraries. Allowing external resources to be loaded via Content Delivery Networks, improper dynamic parsing of user input, using 3rd party widgets and extensions can all lead to security troubles.This talk will take the audience through multiple case studies of JavaScript framework/library bugs and the impact that these bugs would have if exploited. Real world examples of application security testing that show how we were able to bypass controls and gain access to data will also be covered. The talk will also cover some common security server configurations that can break client-side applications when implemented as is.
@@ -106,24 +101,22 @@ talks:
     lang: en
     type: regular
     time: 2017-09-15
-    room:
     authors:
       - name: Google
         twitter:
         github:
         website:
     slides:
-    videos: 
+    videos:
     description: |-
 
   - title: Flash Talks on PWAs
     lang: en
     type: regular
     time: 2017-09-15
-    room:
     authors:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/JVBrZmm7mgk
     description: |-
 
@@ -131,7 +124,6 @@ talks:
     lang: en
     type: regular
     time: 2017-09-15
-    room:
     authors:
       - name: Vinci Rufus
         twitter: vinc
@@ -147,7 +139,6 @@ talks:
     lang: en
     type: regular
     time: 2017-09-16
-    room:
     authors:
       - name: Vijay Dharap
         twitter: dharapvj
@@ -163,7 +154,6 @@ talks:
     lang: en
     type: regular
     time: 2017-09-16
-    room:
     authors:
       - name: Prashant Tiwari
         twitter: prashaantt
@@ -179,7 +169,6 @@ talks:
     lang: en
     type: regular
     time: 2017-09-16
-    room:
     authors:
       - name: Neehar Venugopal
         twitter: neeharv
@@ -195,7 +184,6 @@ talks:
     lang: en
     type: regular
     time: 2017-09-16
-    room:
     authors:
       - name: Vimal Kumar
         twitter: juspay-careers
@@ -205,13 +193,12 @@ talks:
     videos:
       - https://youtu.be/6XAc5nCm7oc
     description: |-
-      At Juspay, after spending a few years writing various payments applications, we found ourselves looking for a better way. We wanted to allow newcomer developers, designers and project managers to be able to jump in and start creating solutions to their problems, without jumping through the hoops created by the language and tools.   
+      At Juspay, after spending a few years writing various payments applications, we found ourselves looking for a better way. We wanted to allow newcomer developers, designers and project managers to be able to jump in and start creating solutions to their problems, without jumping through the hoops created by the language and tools.
 
   - title: Scheduling background tasks in JavaScript to boost performance and DOM interactivity at large scale.
     lang: en
     type: regular
     time: 2017-09-16
-    room:
     authors:
       - name: Vivek Jagtap
         twitter: vivekjagtap011
@@ -226,7 +213,6 @@ talks:
     lang: en
     type: regular
     time: 2017-09-16
-    room:
     authors:
       - name: Rahul Kadyan
         twitter: rahulkadyan
@@ -243,7 +229,6 @@ talks:
     lang: en
     type: regular
     time: 2017-09-16
-    room:
     authors:
       - name: Sapna Upreti
         twitter: sapna14
@@ -260,7 +245,6 @@ talks:
     lang: en
     type: regular
     time: 2017-09-16
-    room:
     authors:
       - name: Vinci Rufus
         twitter: vinci
@@ -276,7 +260,6 @@ talks:
     lang: en
     type: regular
     time: 2017-09-16
-    room:
     authors:
       - name: Abhinav Rastogi
         twitter: arastogi
@@ -292,7 +275,6 @@ talks:
     lang: en
     type: regular
     time: 2017-09-16
-    room:
     authors:
       - name: Naval Saini
         twitter: navalsaini

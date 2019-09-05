@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Dominik Kundel
         twitter: DKundel
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Christian Wlatschiha
         twitter:
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Lian Li
         twitter:
@@ -71,7 +68,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Felix Gnass
         twitter: fgnass
@@ -85,7 +81,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Tobias Hartmann
         twitter:
@@ -100,7 +95,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Johann Hofmann
         twitter: johannh
@@ -115,7 +109,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Dave Brotherstone
         twitter: bruderstein
@@ -129,7 +122,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Svetlana
         twitter:
@@ -143,7 +135,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Kruno
         twitter:
@@ -158,7 +149,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Michael Geers
         twitter: naltatis
@@ -173,7 +163,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Michael Geers
         twitter: naltatis
@@ -189,7 +178,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Anna Melzer
         twitter: wellendonner
@@ -203,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Alexander Thiel
         twitter:
@@ -217,7 +204,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Robin Drexler
         twitter: RobinDrexler
@@ -232,7 +218,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Meno Abels
         twitter: fastandfearless
@@ -246,7 +231,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-25
-    room:
     authors:
       - name: Gojko Adzic
         twitter: gojkoadzic
@@ -260,7 +244,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-26
-    room:
     authors:
       - name: Oliver Zeigermann
         twitter: DJCordhose
@@ -275,7 +258,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-26
-    room:
     authors:
       - name: Anna Melzer
         twitter: wellendonner
@@ -289,7 +271,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-26
-    room:
     authors:
       - name: Jan Krutisch
         twitter: halfbyte
@@ -304,7 +285,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-26
-    room:
     authors:
       - name: Peter Seliger
         twitter: petsel
@@ -319,7 +299,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-26
-    room:
     authors:
       - name: Henrik Wenz
         twitter:
@@ -334,7 +313,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-26
-    room:
     authors:
       - name: Oliver Zeigermann
         twitter: DJCordhose
@@ -348,7 +326,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-26
-    room:
     authors:
       - name: Nils Schnell
         twitter: Schnellus
@@ -362,7 +339,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-26
-    room:
     authors:
       - name: Marco Pantaleo
         twitter: peeofive
@@ -378,7 +354,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-26
-    room:
     authors:
       - name: Dave Brotherstone
         twitter: bruderstein
@@ -392,7 +367,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-26
-    room:
     authors:
       - name: Kai Kroker
         twitter: nohypeActivist

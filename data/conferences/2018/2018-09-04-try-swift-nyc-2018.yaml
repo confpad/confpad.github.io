@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: try! Swift NYC 2018
   status: complete
   series: tryswift.co
@@ -19,14 +19,13 @@
     city: New York City
   description: |-
     try! Swift Conference is an international community gathering about the latest advancements in Swift Development. The event is about bringing together talent from all around the world to collaborate and share advanced knowledge and techniques to improve Swift craftsmanship. Coming again to New York City on September 4th & 5th 2018, with workshops happening on September 3rd!
-  
+
 talks:
 
   - title: Circumventing Fear of the Unknown
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Ash Furrow
         twitter: ashfurrow
@@ -40,7 +39,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Bas Broek
         twitter: BasThomas
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Aileen Nielsen
         twitter: tryswiftnyc
@@ -70,7 +67,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Berta Devant
         twitter: bertadevant
@@ -86,7 +82,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Leah Culver
         twitter: leahculver
@@ -102,7 +97,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Gopal Sharma
         twitter: gopalkri
@@ -118,7 +112,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Johannes Weiss
         twitter: johannesweiss
@@ -134,7 +127,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Jon-Tait Beason
         twitter: bugKrusha
@@ -149,7 +141,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Christina Moulton
         twitter: ChristinaMltn
@@ -165,7 +156,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Audrey Tam
         twitter: mataharimau
@@ -181,7 +171,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Jen Person
         twitter: ThatJenPerson
@@ -197,7 +186,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Sebastiaan de With
         twitter: sdw
@@ -213,7 +201,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-05
-    room:
     authors:
       - name: Felix Krause
         twitter: KrauseFx
@@ -229,7 +216,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-05
-    room:
     authors:
       - name: Logan Wright
         twitter: LogMaestro
@@ -245,7 +231,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-05
-    room:
     authors:
       - name: Tom Harrington
         twitter: atomicbird
@@ -261,7 +246,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-05
-    room:
     authors:
       - name: Chris Bailey
         twitter: Chris__Bailey
@@ -281,7 +265,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-05
-    room:
     authors:
       - name: April Wensel
         twitter: aprilwensel
@@ -295,7 +278,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-05
-    room:
     authors:
       - name: Peter Steinberger
         twitter: steipete
@@ -311,7 +293,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-05
-    room:
     authors:
       - name: Kentaro Matsumae
         twitter: kenmaz
@@ -327,7 +308,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-05
-    room:
     authors:
       - name: Kaya Thomas
         twitter: kthomas901
@@ -343,7 +323,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-05
-    room:
     authors:
       - name: Erica Correa
         twitter: CodeWithCooties
@@ -359,7 +338,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-05
-    room:
     authors:
       - name: Mattt
         twitter: mattt
@@ -376,7 +354,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-05
-    room:
     authors:
       - name: Daiki Matsudate
         twitter: d_date
@@ -392,7 +369,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-05
-    room:
     authors:
       - name: Alicia V Carr
         twitter: Fineblkwoman
@@ -403,4 +379,4 @@ talks:
       - https://youtu.be/_4Wof3sIKqc
     description: |-
       A 16-year-old inspired me to learn to code. This lit the fuse that would take me on an amazing journey through challenges and victories while creating an app to help victims escape domestic violence and abuse.
-  
+

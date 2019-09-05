@@ -7,7 +7,7 @@ fi
 
 FILE=$1
 
-FIELDS=("title:" "lang:" "type:" "level:" "time:" "room:" "name:" "twitter:" "github:" "website:")
+FIELDS=("title:" "lang:" "type:" "level:" "time:" "name:" "twitter:" "github:" "website:")
 
 for field in "${FIELDS[@]}"
 do

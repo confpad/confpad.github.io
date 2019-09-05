@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 09:30:00
-    room:
     authors:
       - name: Billy Roh
         twitter: billyroh
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 09:30:00
-    room:
     authors:
       - name: Michael Chan
         twitter: chantastic
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 10:15:00
-    room:
     authors:
       - name: Caroline Dikibo
         twitter: Carofine247
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 10:15:00
-    room:
     authors:
       - name: Matt Claypotch
         twitter: potch
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 11:00:00
-    room:
     authors:
       - name: Kevin O'Neil
         twitter: __kev__oneil
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 11:00:00
-    room:
     authors:
       - name: Bryan Hughes
         twitter: nebrius
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 12:45:00
-    room:
     authors:
       - name: Feross Aboukhadijeh
         twitter: feross
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 12:45:00
-    room:
     authors:
       - name: Nick Nisi
         twitter: nicknisi
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 13:30:00
-    room:
     authors:
       - name: Tyler Bender
         twitter:
@@ -169,7 +160,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 13:30:00
-    room:
     authors:
       - name: Amir Rustamzadeh
         twitter: amirrustam
@@ -185,7 +175,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 14:15:00
-    room:
     authors:
       - name: Laurie Voss
         twitter: seldo
@@ -201,7 +190,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 14:15:00
-    room:
     authors:
       - name: Robert Deluca
         twitter: robdel12
@@ -217,7 +205,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 15:00:00
-    room:
     authors:
       - name: Rachel White
         twitter: ohhoe
@@ -233,7 +220,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 15:00:00
-    room:
     authors:
       - name: Ravi Lachhman
         twitter: ravilach
@@ -249,7 +235,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 16:15:00
-    room:
     authors:
       - name: Kristofer Baxter
         twitter: kristoferbaxter
@@ -269,7 +254,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 16:15:00
-    room:
     authors:
       - name: Tim Doherty
         twitter: TimCDOherty
@@ -285,7 +269,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 17:00:00
-    room:
     authors:
       - name: Mariko Kosaka
         twitter: kosamari
@@ -301,7 +284,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 17:00:00
-    room:
     authors:
       - name: Jeff Hoffer
         twitter:
@@ -317,7 +299,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 17:45:00
-    room:
     authors:
       - name: Justin Searls
         twitter: searls
@@ -333,7 +314,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-21 17:45:00
-    room:
     authors:
       - name: Jeff Barczewski
         twitter: jeffbski
@@ -349,7 +329,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 09:30:00
-    room:
     authors:
       - name: Jenn Schiffer
         twitter: jennschiffer
@@ -365,7 +344,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 09:30:00
-    room:
     authors:
       - name: Bernie Cheng
         twitter:
@@ -385,7 +363,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 10:15:00
-    room:
     authors:
       - name: Chad Hietala
         twitter: chadhietala
@@ -401,7 +378,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 10:15:00
-    room:
     authors:
       - name: Francis Gulotta
         twitter: reconbot
@@ -417,7 +393,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 11:00:00
-    room:
     authors:
       - name: Miriam Suzanne
         twitter: mirisuzanne
@@ -433,7 +408,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 11:00:00
-    room:
     authors:
       - name: Guedis Cardenas
         twitter:
@@ -449,7 +423,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 12:45:00
-    room:
     authors:
       - name: Gavin Joyce
         twitter: gavinjoyce
@@ -465,7 +438,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 12:45:00
-    room:
     authors:
       - name: Bradley Spaulding
         twitter: bradspaulding
@@ -481,7 +453,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 13:30:00
-    room:
     authors:
       - name: Hannah Howard
         twitter: techgirlwonder
@@ -497,7 +468,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 13:30:00
-    room:
     authors:
       - name: Juan Caicedo
         twitter: _juancaicedo
@@ -513,7 +483,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 14:15:00
-    room:
     authors:
       - name: Neha Nivedita
         twitter:
@@ -529,7 +498,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 14:15:00
-    room:
     authors:
       - name: Dylan Schiemann
         twitter: dylans
@@ -545,7 +513,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 15:00:00
-    room:
     authors:
       - name: Myles Borins
         twitter: mylesborins
@@ -561,7 +528,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 15:00:00
-    room:
     authors:
       - name: Christina Kayastha
         twitter: christikaes
@@ -577,7 +543,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 16:15:00
-    room:
     authors:
       - name: Juan Pablo Buriticá
         twitter: buritica
@@ -597,7 +562,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 16:15:00
-    room:
     authors:
       - name: Suz Hinton
         twitter: noopkat
@@ -613,7 +577,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 17:00:00
-    room:
     authors:
       - name: Zachary Berry
         twitter: zachberry
@@ -629,7 +592,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 17:00:00
-    room:
     authors:
       - name: Patricia Arbona
         twitter: queerpat
@@ -645,7 +607,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-23 17:45:00
-    room:
     authors:
       - name: Burke Holland
         twitter: burkeholland

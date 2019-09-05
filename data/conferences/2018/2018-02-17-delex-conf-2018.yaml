@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: DelEx Conf 2018
   status: complete
   series: delex-conf.com
@@ -12,7 +12,7 @@
     videos: https://www.youtube.com/playlist?list=PLYinOsby80Nm02JCSqhvROysge7FztDAR
     website: https://delex-conf.com/recap-2018/
   date:
-    from: 2018-02-17 
+    from: 2018-02-17
     to: 2018-02-19
   location:
     country: Belarus
@@ -26,14 +26,13 @@ talks:
     lang: en
     type: regular
     time: 2018-02-17
-    room:
     authors:
       - name: Kirill Tolkachev
         twitter: tolkv
         github: lavcraft
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/sfIX-pdIaxI
     description: |-
       Today, very often you can hear a lot of buzz words, but even among them, DevOps and Microservices excite the minds of people as something special. For a typical engineer, DevOps and Microservices are just a marketing profanity. It's more important to "keep DevOps in your hands" and be able to use it. I want to understand where our and other people's fantasies come to an end, where really useful practices begin, what tools will help us and what fundamental principles will help increase the profit from the used practices and tools. The talk is primarily about the implementation of various technologies, tools and methodologies in a large organization. I will share the problems that we encountered in the implementation of various principles and technologies, I will talk about solutions and developed principles of scaling processes / tools. Today our slogan will be "DevOps in the hands and not in the heads." But what is in the minds is still important, although this is a completely different story.
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-17
-    room:
     authors:
       - name: Alexander Shapoval
         twitter:
@@ -58,10 +56,9 @@ talks:
     lang: en
     type: regular
     time: 2018-02-17
-    room:
     authors:
       - name: Victor Vedmich
-        twitter: 
+        twitter:
         github:
         website:
     slides:
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-17
-    room:
     authors:
       - name: Alexander Tarasov
         twitter:
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-17
-    room:
     authors:
       - name: Anna Chernyshova
         twitter:
@@ -106,10 +101,9 @@ talks:
     lang: en
     type: regular
     time: 2018-02-17
-    room:
     authors:
       - name: Nick Butcher
-        twitter: 
+        twitter:
         github:
         website:
     slides:
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-17
-    room:
     authors:
       - name: Anton Tsitlionok
         twitter:
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-17
-    room:
     authors:
       - name: Andrei Krasnitski
         twitter:
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-17
-    room:
     authors:
       - name: Nikalai Stakanov
         twitter:
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-17
-    room:
     authors:
       - name: Alex Khursevich
         twitter:
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-17
-    room:
     authors:
       - name: Stas Pavlov
         twitter:
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-17
-    room:
     authors:
       - name: Dawid Pacia
         twitter:
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-17
-    room:
     authors:
       - name: Alexander Pushkarev
         twitter:
@@ -234,7 +221,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-18
-    room:
     authors:
       - name: Sergey Pak
         twitter:
@@ -250,7 +236,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-18
-    room:
     authors:
       - name: Alexander Shukov
         twitter:
@@ -266,7 +251,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-18
-    room:
     authors:
       - name: Alexander Chumakin
         twitter:
@@ -282,7 +266,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-18
-    room:
     authors:
       - name: Igor Khrol
         twitter:
@@ -298,7 +281,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-18
-    room:
     authors:
       - name: Mikalai Alimenkou
         twitter:
@@ -314,7 +296,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-18
-    room:
     authors:
       - name: Dzmitry Humianiuk
         twitter:
@@ -330,7 +311,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-18
-    room:
     authors:
       - name: Baris Sarialioglu
         twitter:
@@ -346,7 +326,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-18
-    room:
     authors:
       - name: Baruch Sadogursky
         twitter:
@@ -366,7 +345,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-18
-    room:
     authors:
       - name: Sergey Pirogov
         twitter:
@@ -382,7 +360,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-18
-    room:
     authors:
       - name: Cyril Mottier
         twitter: cyrilmottier
@@ -398,7 +375,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-18
-    room:
     authors:
       - name: Aliaksei Boole
         twitter:
@@ -414,7 +390,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Oleg Sabov
         twitter:
@@ -430,7 +405,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-23
-    room:
     authors:
       - name: Baruch Sadogursky
         twitter:
@@ -446,4 +420,4 @@ talks:
     description: |-
       In this talk, we’ll talk about the key measurements for the DevOps transformation process and provide you with 3 metrics you can start measuring tomorrow.Devops is usually viewed from a traditional perspective of a collaboration of Dev, Ops, and QA, driven by the change in Culture, People, and Process. But how do you know where you stand and where to move? As in almost any field, data and metrics give you the gauges and instruments. In this talk, we’ll talk about the key measurements for the DevOps transformation process and provide you with 3 metrics you can start measuring tomorrow.
 
-  
+

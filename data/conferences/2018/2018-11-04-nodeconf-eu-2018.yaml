@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-05 09:00:00
-    room:
     authors:
       - name: Maya Lekova
         twitter: MayaLekova
@@ -46,7 +45,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-05 09:30:00
-    room:
     authors:
       - name: Yunong Xiao
         twitter: yunongx
@@ -62,7 +60,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-05 10:00:00
-    room:
     authors:
       - name: Simona Cotin
         twitter: simona_cotin
@@ -78,7 +75,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-05 11:00:00
-    room:
     authors:
       - name: Taron Foxworth
         twitter: anaptfox
@@ -94,7 +90,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-05 11:30:00
-    room:
     authors:
       - name: Matteo Collina
         twitter: matteocollina
@@ -114,7 +109,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-05 12:00:00
-    room:
     authors:
       - name: Michelle Garrett
         twitter: msmichellegar
@@ -130,7 +124,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-05 12:30:00
-    room:
     authors:
       - name: Gil Tayar
         twitter: giltayar
@@ -146,7 +139,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-06 09:00:00
-    room:
     authors:
       - name: James Snell
         twitter: jasnell
@@ -162,7 +154,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-06 09:30:00
-    room:
     authors:
       - name: Kassandra Perch
         twitter: nodebotanist
@@ -178,7 +169,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-06 10:00:00
-    room:
     authors:
       - name:  Szabolcs Szabolcsi-Toth
         twitter: _Nec
@@ -194,7 +184,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-06 11:00:00
-    room:
     authors:
       - name: Trivikram Kamat
         twitter: trivikram
@@ -210,7 +199,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-06 11:30:00
-    room:
     authors:
       - name: Bethany Griggs
         twitter: BethGriggs_
@@ -226,7 +214,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-06 12:00:00
-    room:
     authors:
       - name: Melissa Auclare
         twitter: kiyomizumia
@@ -242,7 +229,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-06 12:30:00
-    room:
     authors:
       - name: Peter Marshall
         twitter: hooraybuffer
@@ -258,7 +244,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-07 09:00:00
-    room:
     authors:
       - name: Bryan Hughes
         twitter: nebrius
@@ -274,7 +259,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-07 09:30:00
-    room:
     authors:
       - name: Michael Dawson
         twitter: mhdawson1
@@ -294,7 +278,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-07 10:00:00
-    room:
     authors:
       - name: Sebastiaan Deckers
         twitter: sebdeckers
@@ -310,7 +293,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-07 11:00:00
-    room:
     authors:
       - name: Anna Henningsen
         twitter: addaleax
@@ -326,7 +308,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-07 11:30:00
-    room:
     authors:
       - name: Luke Holmquist
         twitter: sienaluke
@@ -342,7 +323,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-07 12:00:00
-    room:
     authors:
       - name: Emma Humphries
         twitter: triagegirl
@@ -358,7 +338,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-07 12:30:00
-    room:
     authors:
       - name: Paul Savage
         twitter:

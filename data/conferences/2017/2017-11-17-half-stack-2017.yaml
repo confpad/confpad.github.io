@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Dominik Kundel
         twitter: DKundel
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Jani Eväkallio
         twitter: jevakallio
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Ada Rose Cannon
         twitter: Lady_Ada_King
@@ -70,7 +67,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Mihai Cîrlănaru
         twitter: MCirlanaru
@@ -85,7 +81,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Chris Heilmann
         twitter: codepo8
@@ -100,7 +95,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Forbes Lindesay
         twitter: ForbesLindesay
@@ -115,7 +109,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Anna Migas
         twitter: szynszyliszys
@@ -130,7 +123,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Niels Leenheer
         twitter: html5test
@@ -145,7 +137,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Jani Eväkallio
         twitter: jevakallio
@@ -160,7 +151,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Jonathan Fielding
         twitter: JonthanFielding
@@ -175,7 +165,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Sean McGee
         twitter: HertsWestUK
@@ -190,7 +179,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Jani Eväkallio
         twitter: jevakallio
@@ -205,7 +193,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Dylan Schiemann
         twitter: dylans
@@ -220,7 +207,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Sandeep Singh
         twitter:
@@ -235,7 +221,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Alvin Ourrad
         twitter: alvinsight
@@ -249,7 +234,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-17
-    room:
     authors:
       - name: Ruth John
         twitter: Rumyra

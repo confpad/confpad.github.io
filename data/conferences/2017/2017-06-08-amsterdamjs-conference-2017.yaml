@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Christian Heilmann
         twitter: codepo8
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Hernán Magrini
         twitter: Hermagrini
@@ -57,7 +55,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Dustin Whittle
         twitter: dustinwhittle
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Michael Stanton
         twitter: ripsawridge
@@ -89,7 +85,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Ingrid Epure
         twitter: ingridepure
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Yoshua Wuyts
         twitter: yoshuawuyts
@@ -120,7 +114,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Johan Gorter
         twitter: JohanGorter
@@ -136,7 +129,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Ivano Malavolta
         twitter: IMalavolta
@@ -152,7 +144,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Sam Bellen
         twitter: sambego
@@ -168,7 +159,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Ahmed El Gabri
         twitter: AhmedElGabri
@@ -184,7 +174,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Albert Brand
         twitter: al_bert_brand
@@ -200,7 +189,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Vasilika Klimova
         twitter: Lik04ka
@@ -216,7 +204,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Simona Cotin
         twitter: simona_cotin
@@ -232,7 +219,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Rik Arends
         twitter: rikarends
@@ -248,7 +234,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Grigory Petrov
         twitter: grigoryvp
@@ -264,7 +249,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Denis Radin
         twitter: PixelsCommander
@@ -279,7 +263,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Ádám Sándor
         twitter: adamsand0r
@@ -295,7 +278,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Slobodan Stojanovic
         twitter: slobodan_
@@ -311,7 +293,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-06-08
-    room:
     authors:
       - name: Daijirō Wachi
         twitter: watilde
@@ -326,7 +307,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-06-08
-    room:
     authors:
       - name: Bart Jansen
         twitter: bartjansn
@@ -341,7 +321,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-06-08
-    room:
     authors:
       - name: Roman Melnyk
         twitter:
@@ -356,7 +335,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-06-08
-    room:
     authors:
       - name: Ville Himberg
         twitter: vhimberg

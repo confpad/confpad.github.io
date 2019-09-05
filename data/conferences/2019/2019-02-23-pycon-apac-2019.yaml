@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: PyCon APAC 2019
   status: complete
   series: pycon-apac
@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-23
-    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Matt Lebrun
         twitter:
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-23
-    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Beng Keat Liew
         twitter:
@@ -57,7 +55,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-23
-    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Jacob Kaplan-Moss
         twitter:
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-23
-    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Suzy Lee
         twitter:
@@ -89,7 +85,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-23
-    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Li Ting Chen
         twitter:
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-23
-    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Argeo Tuble Alecha
         twitter:
@@ -121,7 +115,6 @@ talks:
     lang: en
     type: workshop
     time: 2019-02-23
-    room: 9F, Classroom 1, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Freilla Mae Espinola
         twitter:
@@ -136,7 +129,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-23
-    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Marte Soliza
         twitter:
@@ -152,7 +144,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-23
-    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Phillip Andrew Espina
         twitter:
@@ -168,7 +159,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-23
-    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Anthony Khong
         twitter:
@@ -184,7 +174,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-23
-    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Gyenn Neil Ibo
         twitter:
@@ -200,7 +189,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-23
-    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Narendran
         twitter:
@@ -216,7 +204,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-23
-    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Taihsiang Ho
         twitter:
@@ -232,7 +219,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-24
-    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Tom Dyson
         twitter:
@@ -248,7 +234,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-24
-    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Yohei Onishi
         twitter:
@@ -264,7 +249,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-24
-    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Ardie Orden
         twitter:
@@ -288,7 +272,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-24
-    room: 9F, Classroom 2, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Ted Mathew dela Cruz
         twitter:
@@ -304,7 +287,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-24
-    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Takanori Suzuki
         twitter:
@@ -320,7 +302,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-24
-    room: 9F, Gallery, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Aravind Putrevu
         twitter:
@@ -336,7 +317,6 @@ talks:
     lang: en
     type: workshop
     time: 2019-02-24
-    room: 9F, Classroom 2, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Vaibhav Srivastav
         twitter:
@@ -352,7 +332,6 @@ talks:
     lang: en
     type: workshop
     time: 2019-02-24
-    room: 9F, Classroom 3, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Aniruddha Adhikary
         twitter:
@@ -368,7 +347,6 @@ talks:
     lang: en
     type: workshop
     time: 2019-02-24
-    room: 9F, Classroom 4, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Nicole Tibay
         twitter:
@@ -384,7 +362,6 @@ talks:
     lang: en
     type: workshop
     time: 2019-02-24
-    room: 9F, Classroom 5, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Jairus Jimenez
         twitter:
@@ -400,7 +377,6 @@ talks:
     lang: en
     type: workshop
     time: 2019-02-24
-    room: 9F, Classroom 6, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Paul de Paula
         twitter:
@@ -416,7 +392,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-24
-    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Dmitry Trofimov
         twitter:
@@ -432,7 +407,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-24
-    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Sun Zhu
         twitter:
@@ -448,7 +422,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-24
-    room: 12F, Auditorium, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Doni Rubiagatra
         twitter:
@@ -464,7 +437,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-24
-    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Lai-Man Sung
         twitter:
@@ -480,7 +452,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-24
-    room: 12F, Gallery, iAcademy Nexus (Yakal Campus)
     authors:
       - name: Ronen Baran
         twitter:

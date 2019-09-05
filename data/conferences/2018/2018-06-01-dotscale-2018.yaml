@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Paul Dix
         twitter: pauldix
@@ -43,7 +42,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Bridget Kromhout
         twitter: bridgetkromhout
@@ -60,7 +58,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Marc Shapiro
         twitter:
@@ -77,7 +74,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Julio Faerman
         twitter: julioaws
@@ -94,7 +90,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Lucas Nussbaum
         twitter: lucasnussbaum
@@ -111,7 +106,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Matthias Dugué
         twitter: m4d_z
@@ -128,7 +122,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Enrico Signoretti
         twitter: esignoretti
@@ -145,7 +138,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Daniel Maher
         twitter: phrawzty
@@ -161,7 +153,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Willy Tarreau
         twitter: willytarreau
@@ -178,7 +169,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Mike Freedman
         twitter: michaelfreedman
@@ -195,7 +185,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Jeremy Edberg
         twitter: jedberg
@@ -211,7 +200,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Preeti Vaidya
         twitter:
@@ -228,7 +216,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Yaroslav Tkachenko
         twitter: sap1ens
@@ -245,7 +232,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: David Gageot
         twitter: dgageot

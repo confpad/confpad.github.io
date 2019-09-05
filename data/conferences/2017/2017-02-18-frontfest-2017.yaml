@@ -1,5 +1,5 @@
 conference:
-    
+
   name: FrontFest 2017
   status: complete
   series: frontfest.es
@@ -15,7 +15,7 @@ conference:
     from: 2017-02-18
     to: 2017-02-18
   location:
-    country: Spain 
+    country: Spain
     city: Madrid
   description: |-
     FrontFest is the event about web technologies (HTML, CSS, Javascript ... and whatever comes up!) In which you can meet other front-end developers like you and learn from them. We want to bring together the best professionals, evangelists and gurus of the front-end development of all Spain.FrontFest emerges as an initiative of a group of participants in four of the most active communities within the front-end world in our country: Angular Madrid , Front-end Developers Madrid , HTML5 Spain and MadridJS .
@@ -26,7 +26,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-18
-    room:
     authors:
       - name: Eduardo Sada
         twitter: aeroalquimia
@@ -42,7 +41,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-18
-    room:
     authors:
       - name: Ángel Corral
         twitter: ancoar
@@ -58,7 +56,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-18
-    room:
     authors:
       - name: Belen Albeza
         twitter: ladybenko
@@ -74,7 +71,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-18
-    room:
     authors:
       - name: Juanjo Montiel
         twitter: kastwey
@@ -90,7 +86,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-18
-    room:
     authors:
       - name: Juan de la Cruz
         twitter: elhombretecla
@@ -106,7 +101,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-18
-    room:
     authors:
       - name: javivelasco
         twitter: javivelasco
@@ -122,7 +116,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-18
-    room:
     authors:
       - name: Sergio Zamarro
         twitter: zamarrowski
@@ -138,7 +131,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-18
-    room:
     authors:
       - name: Ramón Guijarro
         twitter: soyguijarro
@@ -154,7 +146,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-18
-    room:
     authors:
       - name: David Inga
         twitter: davidsingal
@@ -165,4 +156,4 @@ talks:
       - https://youtu.be/S1T5GZjJsCo
     description: |-
       Un repaso a algunas tecnologías, librerías y APIs que podemos usar en nuestros proyectos front-end para hacer visualizaciones. Hablaremos de D3.js, Three JS, Leaflet, MapBox, CartoDB y React.Mostraremos ejemplos de proyectos reales que funcionan totalmente en el lado del cliente y que ayudan a concienciar sobre el cambio climatico. Detallaremos como abordamos este tipo de proyectos y cómo los creamos usando las tecnologías disponibles.
- 
+

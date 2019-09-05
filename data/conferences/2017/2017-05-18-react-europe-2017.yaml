@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-18
-    room:
     authors:
       - name: Andrew Clark
         twitter: acdlite
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-18
-    room:
     authors:
       - name: Dominic Gannaway
         twitter: trueadm
@@ -57,7 +55,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-18
-    room:
     authors:
       - name: Christoph Pojer
         twitter: cpojer
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-18
-    room:
     authors:
       - name: Sunil Pai
         twitter: threepointone
@@ -89,7 +85,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-18
-    room:
     authors:
       - name: Kevin Lacker
         twitter: lacker
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-18
-    room:
     authors:
       - name: Lin Clark
         twitter: linclark
@@ -121,7 +115,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-18
-    room:
     authors:
       - name: Adam Perry
         twitter:
@@ -137,7 +130,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-18
-    room:
     authors:
       - name: Cheng Lou
         twitter: _chenglou
@@ -153,7 +145,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-18
-    room:
     authors:
       - name: Eric Vicenti
         twitter: EricVicenti
@@ -169,7 +160,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-18
-    room:
     authors:
       - name: Sasha Aickin
         twitter: xander76
@@ -185,7 +175,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-05-18
-    room:
     authors:
       - name: Shouted Team
         twitter:
@@ -199,7 +188,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-05-18
-    room:
     authors:
       - name: Joshua Comeau
         twitter:
@@ -213,7 +201,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-05-18
-    room:
     authors:
       - name: Charles Mangwa
         twitter:
@@ -227,7 +214,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-05-18
-    room:
     authors:
       - name: Brendan Moore
         twitter:
@@ -249,7 +235,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-05-18
-    room:
     authors:
       - name: Tal Kol
         twitter: koltal
@@ -263,7 +248,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-05-18
-    room:
     authors:
       - name: Danielle Man
         twitter:
@@ -277,7 +261,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-05-18
-    room:
     authors:
       - name: James Ide
         twitter:
@@ -291,7 +274,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-19
-    room:
     authors:
       - name: Michel Weststrate
         twitter: mweststrate
@@ -307,7 +289,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-19
-    room:
     authors:
       - name: Nik Graf
         twitter: nikgraf
@@ -327,7 +308,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-19
-    room:
     authors:
       - name: Nicolas Gallagher
         twitter: necolas
@@ -343,7 +323,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-19
-    room:
     authors:
       - name: Mike Armstrong
         twitter: m1k3
@@ -359,7 +338,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-19
-    room:
     authors:
       - name: Preethi Kasireddy
         twitter: iam-preethi
@@ -375,7 +353,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-19
-    room:
     authors:
       - name: Lee Byron
         twitter: leeb
@@ -391,7 +368,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-19
-    room:
     authors:
       - name: Sarah Drasner
         twitter: sarah_edo
@@ -407,7 +383,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-19
-    room:
     authors:
       - name: Leland Richardson
         twitter: intelligibabble
@@ -423,7 +398,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-19
-    room:
     authors:
       - name: Joel Arvidsson
         twitter: trastknast
@@ -439,7 +413,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-19
-    room:
     authors:
       - name: Tereza Sokol
         twitter: terezk_a
@@ -455,7 +428,6 @@ talks:
     lang: en
     type: regular
     time: 2017-05-19
-    room:
     authors:
       - name: Mehdi Mulani
         twitter:
@@ -471,7 +443,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-05-19
-    room:
     authors:
       - name: Brent Vatne
         twitter:
@@ -485,7 +456,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-05-19
-    room:
     authors:
       - name: Petter Hesselberg
         twitter:
@@ -499,7 +469,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-05-19
-    room:
     authors:
       - name: Jackson Hamburger
         twitter:
@@ -517,7 +486,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-05-19
-    room:
     authors:
       - name: Glenn Reyes
         twitter:
@@ -531,7 +499,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-05-19
-    room:
     authors:
       - name: Brandon Dail
         twitter:

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-06
-    room: Austin Public Library
     authors:
       - name: Lara Hogan
         twitter: lara_hogan
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-06
-    room: Austin Public Library
     authors:
       - name: Todd Ginsberg
         twitter: toddginsberg
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-06
-    room: Austin Public Library
     authors:
       - name: Erica Stanley
         twitter: ericastanley
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-06
-    room: Austin Public Library
     authors:
       - name: Maude Lemaire
         twitter: qcmaude
@@ -91,7 +87,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-06
-    room: Austin Public Library
     authors:
       - name: Katie Womersley
         twitter: katie_womers
@@ -108,7 +103,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-06
-    room: Austin Public Library
     authors:
       - name: Jason Wong
         twitter: attackgecko
@@ -125,7 +119,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-06
-    room: Austin Public Library
     authors:
       - name: Kevin Stewart
         twitter: kstewart
@@ -141,7 +134,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-06
-    room: Austin Public Library
     authors:
       - name: Chris Arcand
         twitter: chrisarcand
@@ -157,7 +149,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-06
-    room: Austin Public Library
     authors:
       - name: Brad Urani
         twitter: bradurani
@@ -173,7 +164,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-06
-    room: Austin Public Library
     authors:
       - name: Cecy Correa
         twitter: cecycorrea
@@ -189,7 +179,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-06
-    room: Austin Public Library
     authors:
       - name: Allison McMillan
         twitter: allie_p
@@ -205,7 +194,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-06
-    room: Austin Public Library
     authors:
       - name: Jowanza Joseph
         twitter: jowanza
@@ -221,7 +209,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-06
-    room: Austin Public Library
     authors:
       - name: Nickolas Means
         twitter: nmeans

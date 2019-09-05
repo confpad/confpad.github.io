@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Shyam Seshadri
         twitter:
@@ -43,7 +42,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Siddharth Kshetrapal
         twitter: siddharthkp
@@ -60,7 +58,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Arnav Gupta
         twitter: championswimmer
@@ -76,7 +73,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Ankit Muchhala
         twitter: ankit_muchhala
@@ -93,7 +89,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Shyam Seshadri
         twitter:
@@ -119,7 +114,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Rahul Nanwani
         twitter: rnanwani
@@ -136,7 +130,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Ashrith Kulai
         twitter: ashrith_kulai
@@ -153,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Vinci Rufus
         twitter: Areai51
@@ -171,7 +163,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Shahidh K Muhammed
         twitter: shahidh_k
@@ -187,7 +178,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Vidya Ramakrishna
         twitter:
@@ -213,7 +203,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Deepak Pathania
         twitter: pathaniadeepak7
@@ -229,7 +218,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Hemanth HM
         twitter: GNUmanth
@@ -245,7 +233,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-26
-    room:
     authors:
       - name: Kiran Abburi
         twitter: kiran_abburi
@@ -263,7 +250,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-27
-    room:
     authors:
       - name: Lavakumar Kuppan
         twitter: lavakumark
@@ -279,7 +265,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-27
-    room:
     authors:
       - name: Dominic Tarr
         twitter: dominictarr
@@ -295,7 +280,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-27
-    room:
     authors:
       - name: Dominic Tarr
         twitter: dominictarr
@@ -313,7 +297,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-27
-    room:
     authors:
       - name: Hari Gopal
         twitter: harigopal
@@ -329,7 +312,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-27
-    room:
     authors:
       - name: Lavakumar Kuppan
         twitter: lavakumark
@@ -343,7 +325,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-27
-    room:
     authors:
       - name: Ritesh Pillai
         twitter:
@@ -360,7 +341,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-27
-    room:
     authors:
       - name: Sanjay Manwani
         twitter:
@@ -376,7 +356,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-27
-    room:
     authors:
       - name: Ritesh Kumar
         twitter: Ritesh Kumar
@@ -393,7 +372,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-27
-    room:
     authors:
       - name: Swapnil Agarwal
         twitter:
@@ -410,7 +388,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-27
-    room:
     authors:
       - name: Tejas Dinkar
         twitter: tdinkar
@@ -426,7 +403,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-27
-    room:
     authors:
       - name: Ben Lesh
         twitter: benlesh
@@ -442,7 +418,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-27
-    room:
     authors:
       - name: Shyam Seshadri
         twitter: shyamseshadri
@@ -456,7 +431,6 @@ talks:
     lang: en
     type: regular
     time: 2018-10-27
-    room:
     authors:
       - name: Arnav Gupta
         twitter: championswimmer

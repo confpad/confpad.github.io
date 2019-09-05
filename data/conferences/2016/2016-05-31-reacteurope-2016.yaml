@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-31
-    room:
     authors:
       - name: Dan Abramov
         twitter: dan_abramov
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-31
-    room:
     authors:
       - name: Eric Vicenti
         twitter: EricVicenti
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-31
-    room:
     authors:
       - name: Lin Clark
         twitter: linclark
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-31
-    room:
     authors:
       - name: Krzysztof Magiera
         twitter: kzzzf
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-31
-    room:
     authors:
       - name: Christopher Chedeau
         twitter: Vjeux
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-31
-    room:
     authors:
       - name: Dan Schafer
         twitter: dlschafer
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-31
-    room:
     authors:
       - name: Jeff Morrison
         twitter: lbljeffmo
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-31
-    room:
     authors:
       - name: Mihail Diordiev
         twitter: mdiordiev
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-31
-    room:
     authors:
       - name: Cheng Lou
         twitter: _chenglou
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-31
-    room:
     authors:
       - name: Evan Schultz
         twitter: e_p82
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-05-31
-    room:
     authors:
       - name: Conor Hastings
         twitter: stillconor
@@ -201,7 +190,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-05-31
-    room:
     authors:
       - name: Chi Kei Chan
         twitter: chikeichan
@@ -220,7 +208,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-05-31
-    room:
     authors:
       - name: Preethi Kasireddy
         twitter: iam_Preethi
@@ -236,7 +223,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-05-31
-    room:
     authors:
       - name: François de Campredon
         twitter: Fdecampredon
@@ -251,7 +237,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-05-31
-    room:
     authors:
       - name: Mike Grabowski
         twitter: grabbou
@@ -266,7 +251,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Jonas Gebhardt
         twitter: jonasgebhardt
@@ -282,7 +266,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Bonnie Eisenman
         twitter: brindelle
@@ -298,7 +281,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Nik Graf
         twitter: nikgraf
@@ -318,7 +300,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Andrew Clark
         twitter: acdlite
@@ -334,7 +315,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Tadeu Zagallo
         twitter: tadeuzagallo
@@ -350,7 +330,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Jafar Husain
         twitter: jhusain
@@ -366,7 +345,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Brent Vatne
         twitter: notbrent
@@ -382,7 +360,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Lee Byron
         twitter: leeb
@@ -402,7 +379,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room:
     authors:
       - name: Martijn Walraven
         twitter: martijnwalraven
@@ -418,7 +394,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-06-01
-    room:
     authors:
       - name: Jonas Gebhardt
         twitter: jonasgebhardt
@@ -434,7 +409,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-06-01
-    room:
     authors:
       - name: Nicole Rauch
         twitter: NicoleRauch
@@ -449,7 +423,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-06-01
-    room:
     authors:
       - name: Phil Holden
         twitter: phil_m_holden
@@ -464,7 +437,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-06-01
-    room:
     authors:
       - name: Chris Pearce
         twitter: Chrisui
@@ -479,7 +451,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-06-01
-    room:
     authors:
       - name: Ken Wheeler
         twitter: ken_wheeler

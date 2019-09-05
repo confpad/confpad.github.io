@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-10-15
-    room: Maritim proArte Hotel
     authors:
       - name: Jared Short
         twitter:
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2019-10-15
-    room: Maritim proArte Hotel
     authors:
       - name: Andreas Grimm
         twitter: _andreasgrimm
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2019-10-15
-    room: Maritim proArte Hotel
     authors:
       - name: Erez Berkner
         twitter: erezberkner
@@ -71,7 +68,6 @@ talks:
     lang: en
     type: regular
     time: 2019-10-15
-    room: Maritim proArte Hotel
     authors:
       - name: Sheen Brisals
         twitter:
@@ -86,7 +82,6 @@ talks:
     lang: en
     type: regular
     time: 2019-10-15
-    room: Maritim proArte Hotel
     authors:
       - name: Nitzan Shapira
         twitter: nitzanshapira
@@ -101,7 +96,6 @@ talks:
     lang: en
     type: regular
     time: 2019-10-15
-    room: Maritim proArte Hotel
     authors:
       - name: Matthias Wessendorf
         twitter:
@@ -116,7 +110,6 @@ talks:
     lang: en
     type: regular
     time: 2019-10-15
-    room: Maritim proArte Hotel
     authors:
       - name: Emrah Samdan
         twitter: emrahsamdan
@@ -131,7 +124,6 @@ talks:
     lang: en
     type: regular
     time: 2019-10-16
-    room: Maritim proArte Hotel
     authors:
       - name: Veselin Pizurica
         twitter: pizuricv
@@ -146,7 +138,6 @@ talks:
     lang: en
     type: regular
     time: 2019-10-16
-    room: Maritim proArte Hotel
     authors:
       - name: Nitzan Shapira
         twitter: nitzanshapira
@@ -161,7 +152,6 @@ talks:
     lang: en
     type: regular
     time: 2019-10-16
-    room: Maritim proArte Hotel
     authors:
       - name: Jonas Schweizer
         twitter:
@@ -176,7 +166,6 @@ talks:
     lang: en
     type: regular
     time: 2019-10-16
-    room: Maritim proArte Hotel
     authors:
       - name: Michael Dowden
         twitter: mrdowden
@@ -195,7 +184,6 @@ talks:
     lang: en
     type: regular
     time: 2019-10-16
-    room: Maritim proArte Hotel
     authors:
       - name: Christian Weyer
         twitter:
@@ -210,7 +198,6 @@ talks:
     lang: en
     type: regular
     time: 2019-10-16
-    room: Maritim proArte Hotel
     authors:
       - name: Nick Van Hoof
         twitter: TheNickVanHoof
@@ -225,7 +212,6 @@ talks:
     lang: en
     type: regular
     time: 2019-10-16
-    room: Maritim proArte Hotel
     authors:
       - name: Samuel James
         twitter:

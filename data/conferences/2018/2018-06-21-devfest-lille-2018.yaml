@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: Devfest Lille 2018
   status: complete
   series: gdglille.org
@@ -21,12 +21,11 @@
     Rejoignez nous pour une journée de conférences, de code labs, d' échanges sur les sujets du Web, du Mobile, du Cloud, des technologies Google et de leur utilisation par les acteurs locaux.
 
 talks:
-  
+
   - title: Keynote 'Keynote d,ouverture'
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Alexandra Nemery
         twitter: Nimuneale
@@ -46,7 +45,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Sébastien FRIESS
         twitter: sebastienfriess
@@ -62,7 +60,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Antoine Gerard
         twitter:
@@ -81,7 +78,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Sébastien Pertus
         twitter: sebastienpertus
@@ -97,7 +93,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Christophe Furmaniak
         twitter: cfurmaniak
@@ -117,7 +112,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Estelle Landry
         twitter:
@@ -137,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Olivier Wulveryck
         twitter: owulveryck
@@ -153,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Aurélien Loyer
         twitter: AurelienLoyer
@@ -172,7 +164,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Benjamin Monjoie
         twitter: Xzan
@@ -188,7 +179,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Julien Durillon
         twitter: juuduu
@@ -204,7 +194,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Guillaume Laforge
         twitter: glaforge
@@ -224,7 +213,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Alexis Hassler
         twitter: AlexisHassler
@@ -240,7 +228,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Angela Ricci
         twitter: gericci
@@ -256,7 +243,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Léo Unbekandt
         twitter: Soulou
@@ -272,7 +258,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Hubert Sablonnière
         twitter: hsablonniere
@@ -288,7 +273,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Guillaume Dubus
         twitter: suipotryot
@@ -304,7 +288,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: David Gageot
         twitter:
@@ -320,7 +303,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Gautier Mechling
         twitter: Nilhcem
@@ -336,7 +318,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: David Brassely
         twitter:
@@ -356,7 +337,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Geoffrey Garnotel
         twitter: ggarnotel
@@ -372,7 +352,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Julien Debon
         twitter:
@@ -388,7 +367,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-21
-    room:
     authors:
       - name: Maxime Ghignet
         twitter: mghignet
@@ -404,7 +382,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-22
-    room:
     authors:
       - name: Grégory Bévan
         twitter: gr3gory_b3van
@@ -423,7 +400,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-22
-    room:
     authors:
       - name: Aurelien Hebert
         twitter:
@@ -446,7 +422,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-22
-    room:
     authors:
       - name: Christophe Furmaniak
         twitter: cfurmaniak
@@ -465,7 +440,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-22
-    room:
     authors:
       - name: Nicolas Leroux
         twitter: nicolasleroux
@@ -484,7 +458,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-22
-    room:
     authors:
       - name: Antoine Neveux
         twitter: antoineneveux
@@ -503,7 +476,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-22
-    room:
     authors:
       - name: Antoine Cellier
         twitter: AntoineCellier3
@@ -522,7 +494,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-22
-    room:
     authors:
       - name: Ayako Fukushima
         twitter: AntoineCellier3
@@ -541,7 +512,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-22
-    room:
     authors:
       - name: Christophe Furmaniak
         twitter: cfurmaniak

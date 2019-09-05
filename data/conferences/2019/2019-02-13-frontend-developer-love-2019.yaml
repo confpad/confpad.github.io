@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: Frontend Developer Love 2019
   status: complete
   series: frontenddeveloperlove.com
@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-14
-    room:
     authors:
       - name: Chris Visser
         twitter:
@@ -40,7 +39,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-14
-    room:
     authors:
       - name: Johannes Ewald
         twitter: jhnnns
@@ -55,7 +53,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-14
-    room:
     authors:
       - name: Sean Larkin
         twitter: TheLarkInn
@@ -65,13 +62,12 @@ talks:
     videos:
       - https://youtu.be/J_sDa58UUQo
     description: |-
-      Sean Larkin - The Road to Webpack 5 Tweet? twitter.com/frontend_love www.frontendlove.com 
+      Sean Larkin - The Road to Webpack 5 Tweet? twitter.com/frontend_love www.frontendlove.com
 
   - title: Elegance of Movement with reactive Angular Animations
     lang: en
     type: regular
     time: 2019-02-14
-    room:
     authors:
       - name: Elena Gancheva
         twitter: eagan4eva
@@ -88,7 +84,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-14
-    room:
     authors:
       - name: Luca Mezzalira
         twitter: lucamezzalira
@@ -103,13 +98,12 @@ talks:
     videos:
       - https://youtu.be/fl6F-f454to
     description: |-
-      Luca Mezzalira & Max Gallo   You Don't Know Microfrontends Tweet? twitter.com/frontend_love www.frontendlove.com 
+      Luca Mezzalira & Max Gallo   You Don't Know Microfrontends Tweet? twitter.com/frontend_love www.frontendlove.com
 
   - title: Angular and Webcomponents
     lang: en
     type: regular
     time: 2019-02-14
-    room:
     authors:
       - name: Ana Cidre
         twitter: anacidre_
@@ -124,13 +118,12 @@ talks:
     videos:
       - https://youtu.be/BlQCBNGxygk
     description: |-
-      Sherry List & Ana Cidre - Web Components with Angular 7th June | NodeConference.nl | Amsterdam Tweet? twitter.com/frontend_love Stay posted on our latest news, javascript and frontend events and talks for free via: 
+      Sherry List & Ana Cidre - Web Components with Angular 7th June | NodeConference.nl | Amsterdam Tweet? twitter.com/frontend_love Stay posted on our latest news, javascript and frontend events and talks for free via:
 
   - title: Transforming your Web Application into a PWA - Why and How?
     lang: en
     type: regular
     time: 2019-02-14
-    room:
     authors:
       - name: Gijs Weterings
         twitter: gweterings
@@ -140,13 +133,12 @@ talks:
     videos:
       - https://youtu.be/BLN8asEcqKs
     description: |-
-      Gijs Weterings - Transforming your web application into a PWA Tweet? twitter.com/frontend_love Stay posted on our latest news, javascript and frontend events and talks for free via: 
+      Gijs Weterings - Transforming your web application into a PWA Tweet? twitter.com/frontend_love Stay posted on our latest news, javascript and frontend events and talks for free via:
 
   - title: The Fresh Jest of Bel-Air
     lang: en
     type: regular
     time: 2019-02-15
-    room:
     authors:
       - name: Rick Hanlon
         twitter: rickhanlonii
@@ -156,13 +148,12 @@ talks:
     videos:
       - https://youtu.be/OTshapR_vlA
     description: |-
-      Rick Hanlon - The Fresh Jest of Bel Air Tweet? twitter.com/frontend_love www.frontendlove.com Stay posted on our latest news, javascript and frontend events and talks for free via: 
+      Rick Hanlon - The Fresh Jest of Bel Air Tweet? twitter.com/frontend_love www.frontendlove.com Stay posted on our latest news, javascript and frontend events and talks for free via:
 
   - title: Rest, GraphQL & gRPC
     lang: en
     type: regular
     time: 2019-02-15
-    room:
     authors:
       - name: David den Toom
         twitter: Koning_David
@@ -172,13 +163,12 @@ talks:
     videos:
       - https://youtu.be/ZmGyeseXz8M
     description: |-
-      David Den Toom from Passionate People - Rest, GraphQL & gRPC Tweet? twitter.com/frontend_love Stay posted on our latest news, javascript and frontend events and talks for free via: 
+      David Den Toom from Passionate People - Rest, GraphQL & gRPC Tweet? twitter.com/frontend_love Stay posted on our latest news, javascript and frontend events and talks for free via:
 
   - title: What is new with Gatsby.js
     lang: en
     type: regular
     time: 2019-02-15
-    room:
     authors:
       - name: Kyle Mathews
         twitter: kylemathews
@@ -188,13 +178,12 @@ talks:
     videos:
       - https://youtu.be/-bHkPPL1Tz4
     description: |-
-      Kyle Mathews - What's Next for Gatsby? Tweet? twitter.com/frontend_love www.frontendlove.com  Stay posted on our latest news, javascript and frontend events and talks for free via: 
+      Kyle Mathews - What's Next for Gatsby? Tweet? twitter.com/frontend_love www.frontendlove.com  Stay posted on our latest news, javascript and frontend events and talks for free via:
 
   - title: A New Generation of Natively Compiled Tools
     lang: en
     type: regular
     time: 2019-02-15
-    room:
     authors:
       - name: Patrick Stapfer
         twitter: ryyppy
@@ -209,7 +198,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-15
-    room:
     authors:
       - name: Evan You
         twitter: youyuxi
@@ -225,7 +213,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-15
-    room:
     authors:
       - name: John Lindquist
         twitter: johnlindquist
@@ -242,9 +229,8 @@ talks:
     lang: en
     type: regular
     time: 2019-02-15
-    room:
     authors:
-      - name: Natalia Venditto	
+      - name: Natalia Venditto
         twitter: AnfibiaCreativa
         github: anfibiacreativa
         website:
@@ -253,5 +239,5 @@ talks:
       - https://youtu.be/yvr9l-tRA0s
     description: |-
       Natalia Venditto - Effective Structure Scaffolding With Angular Schematics Tweet? twitter.com/frontend_love www.frontendlove.com Stay posted on our latest news, javascript and frontend events and talks for free via: http://eepurl.com/gh6AHP
-  
-  
+
+

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 09:30:00
-    room:
     authors:
       - name: Una Kravets
         twitter: una
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 10:40:00
-    room:
     authors:
       - name: Inian Parameshwaran
         twitter: everConfusedGuy
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 11:10:00
-    room:
     authors:
       - name: Feross Aboukhadijeh
         twitter: feross
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 11:30:00
-    room:
     authors:
       - name: Giang Nguyen
         twitter:
@@ -94,7 +90,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 13:00:00
-    room:
     authors:
       - name: Shirley Wu
         twitter: sxywuNadieh Bremer
@@ -114,7 +109,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 13:30:00
-    room:
     authors:
       - name: Wilson Mendes
         twitter: willmendesneto
@@ -130,7 +124,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 14:00:00
-    room:
     authors:
       - name: Shazron Abdullah
         twitter: shazron
@@ -146,7 +139,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 14:15:00
-    room:
     authors:
       - name: István Szmozsánszky "Flaki"
         twitter: slsoftworks
@@ -162,7 +154,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 15:30:00
-    room:
     authors:
       - name: Tony Sebastian
         twitter: tsktony
@@ -178,7 +169,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 15:45:00
-    room:
     authors:
       - name: Chen Hui Jing
         twitter: hj_chen
@@ -194,7 +184,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 16:15:00
-    room:
     authors:
       - name: Matteo Collina
         twitter: matteocollina
@@ -210,7 +199,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 16:30:00
-    room:
     authors:
       - name: David Bryant
         twitter: david_bryant
@@ -226,7 +214,6 @@ talks:
     lang: en
     type: workshop
     time: 2018-01-25 09:00:00
-    room:
     authors:
       - name: Martin Splitt
         twitter: g33konaut
@@ -242,7 +229,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 09:00:00
-    room:
     authors:
       - name: Gurudath Reddy
         twitter:
@@ -258,7 +244,6 @@ talks:
     lang: en
     type: workshop
     time: 2018-01-25 09:00:00
-    room:
     authors:
       - name: Chen Hui Jing
         twitter: hj_chen
@@ -274,7 +259,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 13:30:00
-    room:
     authors:
       - name: Dave Appleton
         twitter: appletondave
@@ -294,7 +278,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 13:30:00
-    room:
     authors:
       - name: Giang Nguyen
         twitter:
@@ -310,7 +293,6 @@ talks:
     lang: en
     type: workshop
     time: 2018-01-25 13:30:00
-    room:
     authors:
       - name: Shirley Wu
         twitter: sxywu
@@ -330,7 +312,6 @@ talks:
     lang: en
     type: workshop
     time: 2018-01-25 13:30:00
-    room:
     authors:
       - name: Inian Parameshwaran
         twitter: everConfusedGuy
@@ -350,7 +331,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 09:00:00
-    room:
     authors:
       - name: Martin Splitt
         twitter: g33konaut
@@ -366,7 +346,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 09:30:00
-    room:
     authors:
       - name: Jake Archibald
         twitter: jaffathecake
@@ -382,7 +361,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 11:10:00
-    room:
     authors:
       - name: Jerome Etienne
         twitter: jerome_etienne
@@ -398,7 +376,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 13:20:00
-    room:
     authors:
       - name: Tim Holman
         twitter: twholman
@@ -414,7 +391,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 13:45:00
-    room:
     authors:
       - name: Thai Pangsakulyanont
         twitter: dtinth
@@ -430,7 +406,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 14:15:00
-    room:
     authors:
       - name: Sareh Heidari
         twitter: sareh88
@@ -446,7 +421,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-01-25 14:45:00
-    room:
     authors:
       - name: Shi Ling Tai
         twitter:
@@ -461,7 +435,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-01-25 14:45:00
-    room:
     authors:
       - name: Yoshua Wuyts
         twitter:
@@ -476,7 +449,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-01-25 14:45:00
-    room:
     authors:
       - name: Phoomparin Mano
         twitter:
@@ -491,7 +463,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-01-25 14:45:00
-    room:
     authors:
       - name: Tim Holman
         twitter:
@@ -506,7 +477,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-01-25 14:45:00
-    room:
     authors:
       - name: Feross Aboukhadijeh
         twitter:
@@ -521,7 +491,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-01-25 14:45:00
-    room:
     authors:
       - name: Chris Lienert
         twitter:
@@ -536,7 +505,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 15:45:00
-    room:
     authors:
       - name: Zell Liew
         twitter: zellwk
@@ -552,7 +520,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 16:00:00
-    room:
     authors:
       - name: Irina Shestak
         twitter: _lrlna
@@ -568,7 +535,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-25 16:30:00
-    room:
     authors:
       - name: Bruce Lawson
         twitter: brucel

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Steve Souders
         twitter: souders
@@ -43,7 +42,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Harry Roberts
         twitter: csswizardry
@@ -60,7 +58,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Anna Migas
         twitter: szynszyliszys
@@ -77,7 +74,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Adrian Holovaty
         twitter: adrianholovaty
@@ -93,7 +89,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Zach Leatherman
         twitter: zachleat
@@ -109,7 +104,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Natasha Rooney
         twitter: thisNatasha
@@ -125,7 +119,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Andrew Betts
         twitter: triblondon
@@ -141,7 +134,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Tammy Everts
         twitter: tameverts
@@ -157,7 +149,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Tim Kadlec
         twitter: tkadlec
@@ -174,7 +165,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Yoav Weiss
         twitter: yoavweiss
@@ -191,7 +181,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Kornel Lesiński
         twitter: kornelski
@@ -206,7 +195,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Katie Sylor-Miller
         twitter: ksylor
@@ -223,7 +211,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Jason Grigsby
         twitter: grigs
@@ -239,7 +226,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Scott Jehl
         twitter: scottjehl
@@ -254,7 +240,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Michelle Vu
         twitter: micvu
@@ -270,7 +255,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-09
-    room:
     authors:
       - name: Paul Irish
         twitter: paul_irish

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-17
-    room:
     authors:
       - name: Ken Wheeler
         twitter: ken_wheeler
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-17
-    room:
     authors:
       - name: Joshua Comeau
         twitter: joshWcomeau
@@ -59,7 +57,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-17
-    room:
     authors:
       - name: Caleb Meredith
         twitter: calebmer
@@ -75,7 +72,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-17
-    room:
     authors:
       - name: Krzysztof Magiera
         twitter: kzzzf
@@ -91,7 +87,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-17
-    room:
     authors:
       - name: Peggy Rayzis
         twitter: peggyrayzis
@@ -107,7 +102,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-17
-    room:
     authors:
       - name: Jim Purbrick
         twitter: JimPurbrick
@@ -123,7 +117,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-17
-    room:
     authors:
       - name: Vincent Riemer
         twitter: vincentriemer
@@ -139,7 +132,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-17
-    room:
     authors:
       - name: Maja Wichrowska
         twitter: majapw
@@ -155,7 +147,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-17
-    room:
     authors:
       - name: Michel Weststrate
         twitter: mweststrate
@@ -171,7 +162,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-17
-    room:
     authors:
       - name: Kurtis Kemple
         twitter: kurtiskemple
@@ -191,7 +181,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-18
-    room:
     authors:
       - name: Cristiano Calcagno
         twitter: ccrisccris
@@ -207,7 +196,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-18
-    room:
     authors:
       - name: Eric Vicenti
         twitter: EricVicenti
@@ -223,7 +211,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-18
-    room:
     authors:
       - name: Ives van Hoorne
         twitter: CompuIves
@@ -239,7 +226,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-18
-    room:
     authors:
       - name: Lee Byron
         twitter: leeb
@@ -255,7 +241,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-18
-    room:
     authors:
       - name: Sven Sauleau
         twitter: svensauleau
@@ -271,7 +256,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-18
-    room:
     authors:
       - name: Devin Abbott
         twitter: dvnabbott
@@ -287,7 +271,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-18
-    room:
     authors:
       - name: Sunil Pai
         twitter: threepointone
@@ -303,7 +286,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-18
-    room:
     authors:
       - name: Evan Bacon
         twitter: Baconbrix
@@ -319,7 +301,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-18
-    room:
     authors:
       - name: Greg Berge
         twitter: neoziro
@@ -335,7 +316,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-18
-    room:
     authors:
       - name: Jared Forsyth
         twitter: jaredforsyth

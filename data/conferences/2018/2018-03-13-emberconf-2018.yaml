@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-12 13:30:00
-    room:
     authors:
       - name: Samanta De Barros
         twitter: sami_dbc
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-12 14:10:00
-    room:
     authors:
       - name: Mike Fotinakis
         twitter: mikefotinakis
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-14 14:50:00
-    room:
     authors:
       - name: Lee Baillie
         twitter: _lbaillie
@@ -71,7 +68,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-14 15:30:00
-    room:
     authors:
       - name: Dianne Eramo
         twitter: DianneEramo
@@ -86,7 +82,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-14 16:10:00
-    room:
     authors:
       - name: Alex Rothenberg
         twitter: alexrothenberg
@@ -101,7 +96,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-13 09:30:00
-    room:
     authors:
       - name: Yehuda Katz
         twitter: wycats
@@ -121,7 +115,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-13 10:45:00
-    room:
     authors:
       - name: Melanie Sumner
         twitter: melaniersumner
@@ -137,7 +130,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-13 11:30:00
-    room:
     authors:
       - name: Jessica Jordan
         twitter: jjordan_dev
@@ -153,7 +145,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-13 13:30:00
-    room:
     authors:
       - name: Tobias Bieniek
         twitter: TobiasBieniek
@@ -169,7 +160,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-13 14:15:00
-    room:
     authors:
       - name: Jamie White
         twitter: jgwhite
@@ -185,7 +175,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-13 15:00:00
-    room:
     authors:
       - name: Matthew Beale
         twitter: mixonic
@@ -201,7 +190,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-13 16:00:00
-    room:
     authors:
       - name: Danielle Adams
         twitter: adamzdanielle
@@ -217,7 +205,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-13 16:45:00
-    room:
     authors:
       - name: Taylor Jones
         twitter: hiimtaylorjones
@@ -233,7 +220,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-13 17:30:00
-    room:
     authors:
       - name: Edward Faulkner
         twitter: eaf4
@@ -249,7 +235,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-14 09:45:00
-    room:
     authors:
       - name: Dan Gebhardt
         twitter: dgeb
@@ -265,7 +250,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-14 10:45:00
-    room:
     authors:
       - name: Gavin Joyce
         twitter: gavinjoyce
@@ -281,7 +265,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-14 11:30:00
-    room:
     authors:
       - name: Sarah Bostwick
         twitter: FajitaFresca
@@ -297,7 +280,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-14 13:30:00
-    room:
     authors:
       - name: Marie Chatfield
         twitter: mariechatfield
@@ -313,7 +295,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-14 14:15:00
-    room:
     authors:
       - name: Andrew Louis
         twitter: hyfen
@@ -329,7 +310,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-14 15:00:00
-    room:
     authors:
       - name: Godfrey Chan
         twitter: chancancode
@@ -345,7 +325,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-03-14 16:00:00
-    room:
     authors:
       - name: Leah Silber
         twitter: wifelette
@@ -360,7 +339,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-03-14 16:05:00
-    room:
     authors:
       - name: Sean Massa
         twitter:
@@ -376,7 +354,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-03-14 16:10:00
-    room:
     authors:
       - name: Tony Ward
         twitter:
@@ -392,7 +369,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-03-14 16:15:00
-    room:
     authors:
       - name: Christina Kung
         twitter:
@@ -408,7 +384,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-03-14 16:20:00
-    room:
     authors:
       - name: Sam Selikoff
         twitter: samselikoff
@@ -424,7 +399,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-03-14 16:25:00
-    room:
     authors:
       - name: Serena Fritsch
         twitter:
@@ -440,7 +414,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-14 16:45:00
-    room:
     authors:
       - name: Nick Schot
         twitter: nickschot
@@ -456,7 +429,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-14 17:30:00
-    room:
     authors:
       - name: Saron Yitbarek
         twitter: saronyitbarek

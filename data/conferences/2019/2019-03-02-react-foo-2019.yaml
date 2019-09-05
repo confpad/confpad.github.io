@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: ReactFoo 2019
   status: complete
   series: reactfoo.in
@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-02
-    room: Auditorium 2, NIMHANS Convention Centre
     authors:
       - name: Siddharth Kshetrapal
         twitter:
@@ -42,12 +41,11 @@ talks:
     lang: en
     type: regular
     time: 2019-03-02
-    room: Auditorium 2, NIMHANS Convention Centre
     authors:
       - name: Kashish Grover
         twitter: _kingofnull
         github: kashishgrover
-        website: 
+        website:
     slides:
       - https://speakerdeck.com/kashishgrover/the-mistakes-we-fixed
     videos:
@@ -59,7 +57,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-02
-    room: Auditorium 2, NIMHANS Convention Centre
     authors:
       - name: Parashuram Narasimhan
         twitter:
@@ -75,7 +72,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-02
-    room: Auditorium 2, NIMHANS Convention Centre
     authors:
       - name: Toshi Gupta
         twitter:
@@ -91,7 +87,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-02
-    room: Auditorium 2, NIMHANS Convention Centre
     authors:
       - name: Xavier Lefevre
         twitter:
@@ -108,7 +103,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-02
-    room: Auditorium 2, NIMHANS Convention Centre
     authors:
       - name: Vivek Nayyar
         twitter:
@@ -124,7 +118,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-02
-    room: Auditorium 2, NIMHANS Convention Centre
     authors:
       - name: Santosh Grampurohit
         twitter:
@@ -140,7 +133,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-02
-    room: Auditorium 2, NIMHANS Convention Centre
     authors:
       - name: Kiran Abburi
         twitter: kiran_abburi
@@ -156,7 +148,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-02
-    room: Auditorium 2, NIMHANS Convention Centre
     authors:
       - name: Sreekanth G.S
         twitter:

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-05-11
-    room: Sofia Hall
     authors:
       - name: "Janet Todorova"
         twitter: janettodorova
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2019-05-11
-    room: Sofia Hall
     authors:
       - name: "Mihail Mikov"
         twitter: debelbot
@@ -57,7 +55,6 @@ talks:
     lang: en
     type: regular
     time: 2019-05-11
-    room: Sofia Hall
     authors:
       - name: "Elizabet Oliveira"
         twitter: miuki_miu
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2019-05-11
-    room: Sofia Hall
     authors:
       - name: "Ilona Demidenko"
         twitter: ilonacodes
@@ -89,7 +85,6 @@ talks:
     lang: en
     type: regular
     time: 2019-05-11
-    room: Sofia Hall
     authors:
       - name: "David Kopal"
         twitter: coding_lawyer
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2019-05-11
-    room: Sofia Hall
     authors:
       - name: "Radoslav Stankov"
         twitter: rstankov
@@ -121,7 +115,6 @@ talks:
     lang: en
     type: regular
     time: 2019-05-11
-    room: Sofia Hall
     authors:
       - name: "Slobodan Stojanović"
         twitter: slobodan_
@@ -137,7 +130,6 @@ talks:
     lang: en
     type: regular
     time: 2019-05-11
-    room: Sofia Hall
     authors:
       - name: "Monica Lent"
         twitter: monicalent
@@ -153,7 +145,6 @@ talks:
     lang: en
     type: regular
     time: 2019-05-11
-    room: Sofia Hall
     authors:
       - name: "Martin Chaov"
         twitter:
@@ -169,7 +160,6 @@ talks:
     lang: en
     type: regular
     time: 2019-05-11
-    room: Sofia Hall
     authors:
       - name: "Krasimir Tsonev"
         twitter: KrasimirTsonev

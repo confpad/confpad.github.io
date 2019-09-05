@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Tim Kadlec
         twitter: tkadlec
@@ -43,7 +42,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Sarah Dapul-Weberman
         twitter: sarahddubs
@@ -59,7 +57,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Rhys Evans
         twitter: wheresrhys
@@ -75,7 +72,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Seren Davies
         twitter: ninjanails
@@ -95,7 +91,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Parameshwaran
         twitter: everConfusedGuy
@@ -111,7 +106,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Nick Webb
         twitter: jdwebops
@@ -131,7 +125,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: uve
         twitter: uveavanto
@@ -147,7 +140,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Ian Feather
         twitter: ianfeather
@@ -164,7 +156,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Ada Rose Cannon
         twitter: Lady_Ada_King
@@ -181,7 +172,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Denys Mishunov
         twitter: Denys Mishunov
@@ -198,7 +188,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room:
     authors:
       - name: Tammy Everts
         twitter: tameverts
@@ -215,7 +204,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room:
     authors:
       - name: Jeremy Keith
         twitter: adactio
@@ -232,7 +220,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room:
     authors:
       - name: Mark Leach
         twitter:
@@ -253,7 +240,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room:
     authors:
       - name: Lauren Younger
         twitter: llyounger
@@ -270,7 +256,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room:
     authors:
       - name: Dan Shappir
         twitter: DanShappir
@@ -286,7 +271,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room:
     authors:
       - name: Robin Marx
         twitter: programmingart
@@ -302,7 +286,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room:
     authors:
       - name: Léonie Watson
         twitter: LeonieWatson
@@ -318,7 +301,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room:
     authors:
       - name: Harry Roberts
         twitter: csswizardry
@@ -335,7 +317,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room:
     authors:
       - name: Dora Militaru
         twitter: doramilitaru
@@ -352,7 +333,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room:
     authors:
       - name: Tobias Baldauf
         twitter: tbaldauf
@@ -369,7 +349,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-11
-    room:
     authors:
       - name: Henri Helvetica
         twitter: HenriHelvetica

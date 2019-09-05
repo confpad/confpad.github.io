@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Sahebjot singh
         twitter: raunaqrox
@@ -43,7 +42,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Neehar Venugopal
         twitter: neeharv
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Rishichandra Wawhal
         twitter: wawhal
@@ -75,7 +72,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Adisha Porwal
         twitter: adisha
@@ -91,7 +87,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Neeraj Singh
         twitter: neerajsingh47
@@ -108,7 +103,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Nabendu Karmakar
         twitter: nabendu
@@ -125,7 +119,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Souvik Basu
         twitter: souvikbasu
@@ -140,7 +133,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Kiran Abburi
         twitter: kiranabburi
@@ -155,7 +147,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Aziz Khambati
         twitter: azizhk110
@@ -172,7 +163,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Saneef Ansari
         twitter: saneef
@@ -187,7 +177,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Anup Kumar
         twitter: anup07
@@ -203,7 +192,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Siddharth Kshetrapal
         twitter: siddharthkp
@@ -219,7 +207,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Siddharth Kshetrapal
         twitter: siddharthkp
@@ -234,7 +221,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Siddharth Kshetrapal
         twitter: siddharthkp
@@ -251,7 +237,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Siddharth Kshetrapal
         twitter: siddharthkp
@@ -266,7 +251,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Siddharth Kshetrapal
         twitter: siddharthkp
@@ -281,7 +265,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Darpan Kakadia
         twitter: kakadiadarpan
@@ -297,7 +280,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Kamlesh Chandnani
         twitter: kamleshchandnani
@@ -314,7 +296,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: BilalBudhani
         twitter: bilalbudhani
@@ -329,7 +310,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Preeti Wadhwani
         twitter: preetiwadhwani
@@ -346,7 +326,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Satyajit Sahoo
         twitter: satya164
@@ -364,7 +343,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Arjun Hariharan
         twitter: harjun1601
@@ -379,7 +357,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Vivek Nayyar
         twitter: viveknayyar
@@ -395,7 +372,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Souvik Basu
         twitter: souvikbasu
@@ -412,7 +388,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Souvik Basu
         twitter: souvikbasu
@@ -429,7 +404,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Amit Erandole
         twitter:
@@ -444,7 +418,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Vijay Dharap
         twitter: dharapvj
@@ -460,7 +433,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: ALi Mir
         twitter: ali008
@@ -476,7 +448,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Manjula
         twitter: manjula_dube
@@ -493,7 +464,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Yeswanth S
         twitter: yash
@@ -508,7 +478,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-20
-    room:
     authors:
       - name: Vijay Dharap
         twitter: dharapvj

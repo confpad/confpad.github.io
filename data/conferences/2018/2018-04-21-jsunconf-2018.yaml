@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-21
-    room:
     authors:
       - name: Dominik Kundel
         twitter:
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-21
-    room:
     authors:
       - name: Lisi Linhart
         twitter:
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-21
-    room:
     authors:
       - name: Elmar Burke
         twitter:
@@ -75,7 +72,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-21
-    room:
     authors:
       - name: Robin Drexler
         twitter:
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-21
-    room:
     authors:
       - name: Anna Melzer
         twitter:
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-21
-    room:
     authors:
       - name: Lian Li
         twitter:
@@ -120,7 +114,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-22
-    room:
     authors:
       - name: Robyn Larsen
         twitter:
@@ -135,7 +128,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-22
-    room:
     authors:
       - name: Karsten Buckstegge
         twitter:
@@ -150,7 +142,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-22
-    room:
     authors:
       - name: Peter Müller
         twitter:
@@ -165,7 +156,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-22
-    room:
     authors:
       - name: Johann Hofmann
         twitter:
@@ -180,7 +170,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-04-22
-    room:
     authors:
       - name: Ramon Huidobro
         twitter:
@@ -195,7 +184,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-04-22
-    room:
     authors:
       - name: Istvan Szmozsanszky
         twitter:
@@ -210,7 +198,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-04-22
-    room:
     authors:
       - name: Daniel Spitzer
         twitter:
@@ -225,7 +212,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-04-22
-    room:
     authors:
       - name: Diana Ilithya
         twitter:
@@ -240,7 +226,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-04-22
-    room:
     authors:
       - name: Fabricius Seifert
         twitter:
@@ -255,7 +240,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-04-22
-    room:
     authors:
       - name: Anna Melzer
         twitter:
@@ -270,7 +254,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-04-22
-    room:
     authors:
       - name: Gregor Elke
         twitter:
@@ -285,7 +268,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-04-22
-    room:
     authors:
       - name: Franco Speziali
         twitter:
@@ -300,7 +282,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-04-22
-    room:
     authors:
       - name: Peter Müller
         twitter:
@@ -315,7 +296,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-04-22
-    room:
     authors:
       - name: Julia Hurrelmann
         twitter:
@@ -330,7 +310,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-04-22
-    room:
     authors:
       - name: Philipp Hinrichsen
         twitter:
@@ -345,7 +324,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-21
-    room:
     authors:
       - name: Markus Siering
         twitter:
@@ -360,7 +338,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-21
-    room:
     authors:
       - name: Kathrin Holzmann
         twitter:
@@ -375,7 +352,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-21
-    room:
     authors:
       - name: Emanuel Kluge
         twitter:
@@ -390,7 +366,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-21
-    room:
     authors:
       - name: Julia Hurrelmann
         twitter:
@@ -405,7 +380,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-21
-    room:
     authors:
       - name: Arnd Issler
         twitter:
@@ -420,7 +394,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-21
-    room:
     authors:
       - name: Darek Kay
         twitter:
@@ -435,7 +408,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-22
-    room:
     authors:
       - name: Ansgar Mertens
         twitter:
@@ -450,7 +422,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-22
-    room:
     authors:
       - name: Edward Byne
         twitter:

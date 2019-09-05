@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-15
-    room:
     authors:
       - name: Evan You
         twitter: youyuxi
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-15
-    room:
     authors:
       - name: John Leider
         twitter: zeroskillz
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Chris Fritz
         twitter: chrisvfritz
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Filipa Lacerda
         twitter: FilipaLacerda
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Eduardo San Martin Morote
         twitter: posva
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Sebastien Chopin
         twitter: Atinux
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Trudy MacNabb
         twitter: dear_trudence
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Ignacio Anaya
         twitter: ianaya89
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Brian Jesse
         twitter:
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Benjamin Michoux
         twitter:
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Charles Ouellet
         twitter:
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Houmann Saffarzedeh
         twitter:
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Tessa Park
         twitter:
@@ -234,7 +221,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Henri Helvetica
         twitter:
@@ -250,7 +236,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: John Leider
         twitter:

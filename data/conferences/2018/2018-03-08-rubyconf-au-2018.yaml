@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: RubyConf AU 2018
   status: complete
   series: rubyconf.org.au
@@ -21,12 +21,11 @@
     RubyConf AU is known for its fabulous social events, and this year is no exception!
 
 talks:
-  
+
   - title: Keynote 'You Are Insufficiently Persuasive'
     lang: en
     type: regular
     time: 2018-03-08
-    room:
     authors:
       - name: Sandi Metz
         twitter: sendimetz
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-08
-    room:
     authors:
       - name: Paolo Perrotta
         twitter: nusco
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Katie McLaughlin
         twitter: glasnt
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: Andy Nicholson
         twitter: andrewdotnich
@@ -89,7 +85,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: Michael Morris
         twitter: mtcmorris
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: Eleanor Kiefel Haggerty
         twitter: eleanorkh
@@ -121,7 +115,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: Ken Scambler
         twitter: KenScambler
@@ -136,7 +129,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: Ryan Bigg
         twitter: ryanbigg
@@ -152,7 +144,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: Lauren Tan
         twitter: sugarpirate_
@@ -168,7 +159,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: Amy Unger
         twitter: cdwort
@@ -184,7 +174,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: Danielle Adams
         twitter: adamzdanielle
@@ -200,7 +189,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: Tom Gamon
         twitter: thrgamon
@@ -216,7 +204,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: John Feminella
         twitter: jxxf
@@ -231,7 +218,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: Zach Holman
         twitter: holman
@@ -247,7 +233,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: Alaina Kafkes
         twitter: alainakafkes
@@ -263,7 +248,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: Jessica Rudder
         twitter: jessrudder
@@ -279,7 +263,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: Stella Cotton
         twitter: practice_cactus
@@ -295,7 +278,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-08
-    room:
     authors:
       - name: Merrin Macleod
         twitter: merxplat

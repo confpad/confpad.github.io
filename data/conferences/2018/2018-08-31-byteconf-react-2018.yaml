@@ -24,7 +24,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Tracy Lee
         twitter: ladyleet
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Alex Kallaway
         twitter: ka11away
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Kyle Shevlin
         twitter: kyleshevlin
@@ -75,7 +72,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Jeremias Menichelli
         twitter: jeremenichelli
@@ -92,7 +88,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Robert DeLuca
         twitter: robdel12
@@ -109,7 +104,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Tim Roberts
         twitter: cirsca
@@ -126,7 +120,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Vladimir Novick
         twitter: VladimirNovick
@@ -143,7 +136,6 @@ talks:
     lang: en
     type: regular
     time: 2018-08-31
-    room:
     authors:
       - name: Kent C. Dodds
         twitter: kentcdodds

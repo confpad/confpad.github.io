@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: DelEx Conf 2019
   status: complete
   series: delex-conf.com
@@ -21,12 +21,11 @@
     Delex stands for Delivery Excellence. Proper use of Test Automation and DevOps can shift delivery to a new heights.We introduce two-day event filled up with progressive ideas from changemakers and the most inspiring thinkers.Talks on conference will cover different level of Automated Testing, DevOps activities and tools.It is a good platform for professional networking that leaves plenty of space for collaboration!
 
 talks:
-  
+
   - title: New in Selenium 4.0
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Alexey Barantsev
         twitter: barancev
@@ -34,7 +33,7 @@ talks:
         website:
     slides:
       - https://delex-conf.com/2019/new-in-selenium-4-0/
-    videos: 
+    videos:
       - https://youtu.be/7_Q8x37fPLw
     description: |-
       The development of Selenium 3 is officially discontinued. The next major version of Selenium 4 is being prepared for release. New commands that have been recently added to the W3C WebDriver standard will appear. A lot of legacy code will be removed, including the driver for “old” versions of Firefox. But the main changes will take place in Selenium Server and Selenium Grid. In short, the server will be completely redesigned, the new implementation is written from scratch. Yes, communication protocols will remain old, but the internal device will change beyond recognition. In particular, if earlier Selenium Grid consisted of two types of nodes (hub and end nodes), the new version will have four types of nodes. In my report, I will try to explain why we changed everything, who will get better from this, what will be the possibilities for customizing the grid in the new version and how to migrate from the old version to the new one.
@@ -43,14 +42,13 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Nikolay Lagutko
         twitter: gerzog613
         github: nikolaylagutko
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/wKkmpI_re2o
     description: |-
       How Rozum Robotics delivers source code to Robots.Delivering software to Robot is slightly different to modern delivery & DevOps techniques what is the components of delivery that we want to sent to Robot our pipelines: from source code to a release artifact customer pipelines: how to install update on Robot
@@ -59,7 +57,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Adedayo Akinpelu
         twitter: Haroldsphinx
@@ -67,7 +64,7 @@ talks:
         website:
     slides:
       - https://delex-conf.com/2019/test-driven-infrastructure-with-serverspec-kitchen-ci/
-    videos: 
+    videos:
       - https://youtu.be/MJW2jq0ht8E
     description: |-
       Automated Testing cannot be overemphasized in good DevOps practice but it seems that less attention is paid to it when it comes to Automating infrastructure provisioning, By working with automated RSpec testing of our real infrastructure systems, I have bee able to reduce the uncertainty around the operating environments, and also reduce the amount of manual correctness while provisioning new infrastructures and I will like to share this knowledge amongst other DevOps engineer out there, because I realize it is not a common practice
@@ -76,7 +73,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Ivan Krutov
         twitter: vania-pooh
@@ -84,7 +80,7 @@ talks:
         website:
     slides:
       - https://delex-conf.com/2019/oreo-nougat-marshmallow-and-lollipop-effective-android-testing-in-2019/
-    videos: 
+    videos:
       - https://youtu.be/nk--NaE_a0M
     description: |-
       Today, when more than half of Internet traffic in the world comes from mobile devices, the question of effective testing for mobile platforms is more acute than ever. Last summer I showed new Docker images for testing mobile web and Android applications using Selenoid. In recent months, I have been approached by many people with questions about how and for what purposes these images can be used and what are the limitations. In this report, I would like to elaborate on that.
@@ -93,7 +89,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Igor Khrol
         twitter:
@@ -101,7 +96,7 @@ talks:
         website:
     slides:
       - https://delex-conf.com/2019/monads-for-testers/
-    videos: 
+    videos:
       - https://youtu.be/F1SokW2DvXI
     description: |-
       Step by step functional programming (or some part of it) became a daily routine of almost every software developer. At the same time, there might be an opinion that “monads” and “pure functions” are just toys for bored matured engineers. And testers should not look there for sure - they should test software, it doesn’t matter how it’s written. In my talk, I want to show that functional programming has a clear impact on software quality. Lots of defects will not even appear in the code which is written functional way. If you are interested not only in testing and finding bugs but also in conditions how to prevent them from the beginning - come to listen to my speech. We’ll check examples written in Scala working on JVM but Java or C# knowledge is more than enough to understand the material.
@@ -110,7 +105,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Alexander Reelsen
         twitter: spinscale
@@ -118,7 +112,7 @@ talks:
         website:
     slides:
       - https://delex-conf.com/2019/securing-a-search-engine-while-maintaining-usability/
-    videos: 
+    videos:
       - https://youtu.be/OXJpE_FrLVA
     description: |-
       Elasticsearch - being an integral part of the Elastic Stack - is known for its full-text search and analytics ability. Elasticsearch is running on tens of thousands of nodes world-wide, so despite all the functionality squeezed into new releases, we also have to think about security, all the time. This talk will cover different aspects of Elasticsearch, explain some features and (sometimes unpopular) decisions and the reasoning behind.
@@ -127,14 +121,13 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Yaroslav Pernerovsky
         twitter:
         github: ysparrow
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/87ikrlIIT8Y
     description: |-
       Selenium is a great tool for browser automation for many years. But Selenium is not able to cover all needs of modern web testing. Nowadays we have new powerful kid on the block. The tool called Cypress. I prepared a practical walk through which will help you to start automation instantly.
@@ -143,14 +136,13 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Roman Ivanitsky
         twitter:
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/UvUKuZtzK8c
     description: |-
       At ok.ru we run more than 30k end-to-end android tests every day - more than 300 for each PR. In this talk I'll show how we do this.
@@ -159,7 +151,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Anna Chernyshova
         twitter:
@@ -167,7 +158,7 @@ talks:
         website:
     slides:
       - https://delex-conf.com/2019/testcases-as-a-code/
-    videos: 
+    videos:
       - https://youtu.be/qKdD1WjVrcc
     description: |-
       Every test automation engineer probably faced with the problem of stability of the locators and with the needs of their frequent correction when updating the product. This routine work could be automated. There are some well-known solutions for self-healing test automation, like Mabl, testim.io, Applitools but they are not suitable for most kind of projects and has obvious disadvantages. There is a new idea how to make more universal solution that is compatible with any project. Im going to tell you about the proof-of-concept of this idea and how it differs from the existing solutions. At what stage of development we are now, what problems we faced and what is the ultimate goal.
@@ -176,7 +167,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Artem Nikitin
         twitter: artemnikitin
@@ -184,7 +174,7 @@ talks:
         website:
     slides:
       - https://delex-conf.com/2019/real-use-cases-of-using-aws-lambda-for-infrastructure-tasks/
-    videos: 
+    videos:
       - https://youtu.be/IljpCgmBx7Q
     description: |-
       In this talk, we will look at the application of the serverless approach on the example of AWS Lambda to solve various practical problems related to the infrastructure. It will cover both the practical application of AWS Lambda and the issues of testing, deployment and monitoring of serverless applications.
@@ -193,7 +183,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Dzmitry Humianiuk
         twitter: DzmitryHumianiuk
@@ -201,7 +190,7 @@ talks:
         website:
     slides:
       - https://delex-conf.com/2019/building-self-managing-test-data-marketplace/
-    videos: 
+    videos:
       - https://youtu.be/IgyHqtVIQl4
     description: |-
       In a world of testing pipelines, when we need to run tests against every code change, the problem of sustainable, comprehensive and variative data starts to arise. Testing data, which in the maximum approximation can repeat all the conditions available in the production, in order to cover as much as possible those conditions that are critical for business and have a clear presence in the production. The subject of test data management is quite extensive, so we will try to understand it in order. Starting from the stage of obtaining secure production data, to virtualization and synthetic generation. And let's look at examples of how to prepare data production for test environments, and analyze the example of an open-source application, as it can be implemented for your project.
@@ -210,7 +199,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Denis Zheleztsov
         twitter:
@@ -226,7 +214,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Karen Florykian
         twitter:
@@ -234,7 +221,7 @@ talks:
         website:
     slides:
        - https://delex-conf.com/2019/automation-of-security-scanning-easy-or-cheese/
-    videos: 
+    videos:
        - https://youtu.be/cLZrPFh1-OE
     description: |-
       I will share my experience of SDLC enablement on enterprise level. Uncover pitfalls and gotchas about building of developer friendly CI enabled service using industry standard static and dynamic scanning tools, CI platforms, ReportPortal, Carrier platform and Jira integration service.
@@ -243,7 +230,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Artem Rozumenko
         twitter:
@@ -260,10 +246,9 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Elena Kulgavaya
-        twitter: 
+        twitter:
         github:
         website:
     slides:
@@ -276,7 +261,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Ivan Evtuhovich
         twitter: evtuhovich
@@ -293,7 +277,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: Mikalai Alimenkou
         twitter: xpinjection
@@ -310,7 +293,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: Alexander Reelsen
         twitter: spinscale
@@ -327,7 +309,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: Alexei Khursevich
         twitter:
@@ -344,7 +325,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: Andrey Vernigora
         twitter:
@@ -361,7 +341,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: Bart Szulc
         twitter: BartSzulc
@@ -378,7 +357,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: Nikalai Stakanov
         twitter:
@@ -394,7 +372,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: Michael Bodnarchuk
         twitter:
@@ -411,7 +388,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: Andrey Solntsev
         twitter: asolntsev
@@ -428,7 +404,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: Baruch Sadogursky
         twitter: jbaruch
@@ -438,13 +413,12 @@ talks:
     videos:
       - https://youtu.be/rfa0uGGhkqU
     description: |-
-      We asked a Fortune 500 software delivery leaders what holds them back. This talk is the analysis of their insights on what bottlenecks they encountered in their DevOps journey. We share discoveries on what helped them to overcome the bottlenecks and how they plan to deliver even faster. Using this we define some unifying themes on what areas provide the greatest return on investments of time and resources.   
+      We asked a Fortune 500 software delivery leaders what holds them back. This talk is the analysis of their insights on what bottlenecks they encountered in their DevOps journey. We share discoveries on what helped them to overcome the bottlenecks and how they plan to deliver even faster. Using this we define some unifying themes on what areas provide the greatest return on investments of time and resources.
 
   - title: Test Automation for Bluetooth Connected IoT Devices
     lang: en
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: Lasse Häll
         twitter:
@@ -460,7 +434,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: Artem Eroshenko
         twitter: eroshenkoam
@@ -477,7 +450,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: Alexander Chumakin
         twitter: alexandrchumakin
@@ -494,7 +466,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: Artem Romanchik
         twitter:
@@ -511,7 +482,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-09
-    room:
     authors:
       - name: Baruch Sadogursky
         twitter: jbaruch
@@ -522,5 +492,5 @@ talks:
     videos:
       - https://youtu.be/WHR_2uZTtXk
     description: |-
-      “The DevOps approach is to include automation… at all steps of the software build” (c) Wikipedia “What do you mean you want to automate EVERYTHING?” — testers were trying to understand “What do you mean you want to automate EVERYTHING?” — testers were trying to understand Keep your non-stick coated chairs prepared, it gonna burn! Baruch will share the vision on automation of everything in a world of real DevOps, and we will find out shall we look for a new job or not?   
-      
+      “The DevOps approach is to include automation… at all steps of the software build” (c) Wikipedia “What do you mean you want to automate EVERYTHING?” — testers were trying to understand “What do you mean you want to automate EVERYTHING?” — testers were trying to understand Keep your non-stick coated chairs prepared, it gonna burn! Baruch will share the vision on automation of everything in a world of real DevOps, and we will find out shall we look for a new job or not?
+

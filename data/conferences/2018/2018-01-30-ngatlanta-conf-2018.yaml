@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Zack Chapple
         twitter:
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Brad Green
         twitter: bradlygreen
@@ -57,7 +55,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Brandon Roberts
         twitter: brandontroberts
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Kapunahele Wong
         twitter: kapunahele
@@ -88,7 +84,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: April Wensel
         twitter: aprilwensel
@@ -104,7 +99,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Uri Shaked
         twitter:
@@ -119,7 +113,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Nathan Walker
         twitter: wwwalkerrun
@@ -135,7 +128,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Bonnie Brennan
         twitter: bonnster75
@@ -155,7 +147,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Scott Hanselman
         twitter: shanselman
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Wylesha Rachell
         twitter: WyleshaRachell
@@ -185,7 +175,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Chloe Condon
         twitter:
@@ -200,7 +189,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Rachita Joshi
         twitter: way2rach
@@ -215,7 +203,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Jennifer Bland
         twitter: ratracegrad
@@ -231,7 +218,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Minko Gechev
         twitter:
@@ -246,7 +232,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Mike Brocchi
         twitter: Brocco
@@ -262,7 +247,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Kim Maida
         twitter:
@@ -281,7 +265,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Tara Manicsic
         twitter: Tzmanics
@@ -297,7 +280,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-01
-    room:
     authors:
       - name: Randall Koutnik
         twitter: rkoutnik
@@ -313,7 +295,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: John Papa
         twitter: John_Papa
@@ -328,7 +309,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Susan Goldblatt
         twitter: thatgoldblatt
@@ -343,7 +323,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Danielle Sheehan
         twitter:
@@ -362,7 +341,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Chaela Womack
         twitter: chawomack
@@ -377,7 +355,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Carmen Popoviciu
         twitter: CarmenPopoviciu
@@ -392,7 +369,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Erica Stanley
         twitter: ericastanley
@@ -407,7 +383,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Kamini Dandapani
         twitter:
@@ -422,7 +397,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Alyssa Nicoll
         twitter: AlyssaNicoll
@@ -437,7 +411,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Dmitriy Shekhovtsov
         twitter: valorkin
@@ -452,7 +425,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Paulina Gallo
         twitter:
@@ -471,7 +443,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Sani Yusuf
         twitter:
@@ -486,7 +457,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Aimee Knight
         twitter: Aimee_Knight
@@ -502,7 +472,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Tracy Lee
         twitter: ladyleet
@@ -517,7 +486,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Kim Crayton
         twitter: KimCrayton1
@@ -532,7 +500,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Simona Cotin
         twitter: simona_cotin
@@ -547,7 +514,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
       - name: Meredith Bayne
         twitter: meredithjordyn
@@ -562,7 +528,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-02
-    room:
     authors:
     slides:
     videos:

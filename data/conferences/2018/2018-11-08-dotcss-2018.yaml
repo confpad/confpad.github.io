@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Aga Naplocha
         twitter: aganaplocha
@@ -43,7 +42,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Hugues Tennier
         twitter: huguestennier
@@ -60,7 +58,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Dan Cederholm
         twitter: simplebits
@@ -76,7 +73,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Mandy Michael
         twitter: mandy_kerr
@@ -93,7 +89,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Fabien Zibi
         twitter: _faz
@@ -110,7 +105,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Elika J. Etemad
         twitter: fantasai
@@ -127,7 +121,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Natalya Shelburne
         twitter: natalyathree
@@ -144,7 +137,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Roman Komarov
         twitter: kizmarh
@@ -161,7 +153,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Florian Rivoal
         twitter: frivoal
@@ -178,7 +169,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: David DeSandro
         twitter: desandro
@@ -195,7 +185,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-08
-    room:
     authors:
       - name: Sara Soueidan
         twitter: SaraSoueidan

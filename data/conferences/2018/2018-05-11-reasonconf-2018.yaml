@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room:
     authors:
       - name: Cheng Lou
         twitter: _chenglou
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room:
     authors:
       - name: Cristiano Calcagno
         twitter: ccrisccris
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room:
     authors:
       - name: Laura Gaetano
         twitter: alicetragedy
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room:
     authors:
       - name: Sander Spies
         twitter: Sander_Spies
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room:
     authors:
       - name: Javier Chávarri
         twitter: javierwchavarri
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room:
     authors:
       - name: Roman Schiefer
         twitter: RSchiefer
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room:
     authors:
       - name: Lance Harper
         twitter:
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room:
     authors:
       - name: Maxim Valcke
         twitter: _iwan_refmt
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room:
     authors:
       - name: Sean Grove
         twitter: sgrove
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room:
     authors:
       - name: Vladimir Kurchatkin
         twitter: vkurchatkin
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room:
     authors:
       - name: Keira Hodgkison
         twitter: keirasaid
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-12
-    room:
     authors:
       - name: Jared Forsyth
         twitter: jaredforsyth

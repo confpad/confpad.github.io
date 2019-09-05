@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: StarCon 2019
   status: complete
   series: starcon.io
@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Vaidehi Joshi
         twitter: vaidehijoshi
@@ -40,7 +39,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Toria Gibbs
         twitter: scarletdrive
@@ -54,7 +52,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Patrick Melanson
         twitter:
@@ -68,7 +65,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Kayleen Hamelin
         twitter: kayleenHamelin
@@ -82,7 +78,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Kayleen Hamelin
         twitter: kayleenHamelin
@@ -96,7 +91,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Aashni Shah
         twitter: aashnisshah
@@ -110,7 +104,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Bradley Dettmer
         twitter: brradical
@@ -124,7 +117,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Doug Moen
         twitter:
@@ -138,7 +130,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Holly Oegema
         twitter:
@@ -152,7 +143,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Brandon Reid
         twitter:
@@ -166,11 +156,10 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Vibhanshu Bhardwaj
         twitter:
-        github: 
+        github:
         website:
     slides:
     videos:
@@ -180,11 +169,10 @@ talks:
     lang: en
     type: regular
     time: 2019-01-20
-    room:
     authors:
       - name: Nasma Ahmed
         twitter: nasma_ahmed
-        github: 
+        github:
         website:
     slides:
     videos:
@@ -194,7 +182,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-20
-    room:
     authors:
       - name: Aaron Levin
         twitter: aaronmblevin
@@ -208,7 +195,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-20
-    room:
     authors:
       - name: Chris H-C
         twitter:
@@ -222,7 +208,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-20
-    room:
     authors:
       - name: Melissa Tedesco
         twitter:
@@ -236,7 +221,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-20
-    room:
     authors:
       - name: Manish Goregaokar
         twitter: ManishEarth
@@ -250,7 +234,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-20
-    room:
     authors:
       - name: Vaibhav Sagar
         twitter: vbhvsgr
@@ -264,7 +247,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-20
-    room:
     authors:
       - name: Wesley Aptekar-Cassels
         twitter: WAptekar
@@ -278,7 +260,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-20
-    room:
     authors:
       - name: Falah Shazib
         twitter: FalahShazib
@@ -292,7 +273,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-20
-    room:
     authors:
       - name: Vincent Castaneda
         twitter:

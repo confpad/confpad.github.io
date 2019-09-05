@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: Manoogyan Hall
     authors:
       - name: Rouben Meschian
         twitter:
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: Manoogyan Hall
     authors:
       - name: Illya Klymov
         twitter: xanf_ua
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: Manoogyan Hall
     authors:
       - name: Natalia Tepluhina
         twitter: N_Tepluhina
@@ -71,7 +68,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: Manoogyan Hall
     authors:
       - name: Varuzhan Harutyunyan
         twitter:
@@ -86,7 +82,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: Manoogyan Hall
     authors:
       - name: Tejas Kumar
         twitter: TejasKumar_
@@ -101,7 +96,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: Manoogyan Hall
     authors:
       - name: Vardges Vardanyan
         twitter:
@@ -116,7 +110,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: Manoogyan Hall
     authors:
       - name: Juho Vepsäläinen
         twitter: bebraw
@@ -131,7 +124,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: Manoogyan Hall
     authors:
       - name: Shahen Hovhannisyan
         twitter: shahen_94
@@ -146,7 +138,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: Manoogyan Hall
     authors:
       - name: Robert Hanesoghlyan
         twitter:
@@ -161,7 +152,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 408E
     authors:
       - name: Hayk Barseghyan
         twitter: HaykEnemy
@@ -176,7 +166,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 408E
     authors:
       - name: Khachatur Virabyan
         twitter:
@@ -191,7 +180,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 408E
     authors:
       - name: Arnold Dadayan
         twitter:
@@ -206,7 +194,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 408E
     authors:
       - name: Ruben Harutyunyan
         twitter: Vagr9K
@@ -221,7 +208,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 408E
     authors:
       - name: Hrach Mkrtchyan
         twitter: hrachmk
@@ -236,7 +222,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 408E
     authors:
       - name: David Demirkhanyan
         twitter:
@@ -255,7 +240,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 408E
     authors:
       - name: Lilit Tadevosyan
         twitter:
@@ -271,7 +255,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 408E
     authors:
       - name: Gor Rustamyan
         twitter:
@@ -286,7 +269,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 114W
     authors:
       - name: Slavik Manukyan
         twitter: SlavikManukyan
@@ -301,7 +283,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 114W
     authors:
       - name: Albert Hovhannisyan
         twitter:
@@ -316,7 +297,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 114W
     authors:
       - name: Ruben Sargsyan
         twitter:
@@ -331,7 +311,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 114W
     authors:
       - name: Hayk Galstyan
         twitter:
@@ -346,7 +325,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 114W
     authors:
       - name: Razmik Bourtoutian
         twitter:
@@ -361,7 +339,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 114W
     authors:
       - name: Vova Hayrapetyan
         twitter:
@@ -376,7 +353,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 114W
     authors:
       - name: Aghasi Lorsabyan
         twitter: lorsabyan
@@ -391,7 +367,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-03
-    room: 114W
     authors:
       - name: Nairi Haroutiounian
         twitter: nairihar

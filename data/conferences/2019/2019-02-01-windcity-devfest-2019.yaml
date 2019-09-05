@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8005, Depaul University
     authors:
       - name: Stephen Wylie
         twitter: SWebCEO
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8002, Depaul University
     authors:
       - name: Doug Stevenson
         twitter: CodingDoug
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8009, Depaul University
     authors:
       - name: Andrew Weins
         twitter: adwiens
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8010, Depaul University
     authors:
       - name: Mercedes Bernard
         twitter: mercedescodes
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8014, Depaul University
     authors:
       - name: Elliott Chenger
         twitter: Echenger
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8014, Depaul University
     authors:
       - name: Laura B. Janusek
         twitter: LBJanusek
@@ -121,7 +115,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8002, Depaul University
     authors:
       - name: Ryan Perkins
         twitter:
@@ -136,7 +129,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8010, Depaul University
     authors:
       - name: Samuel Taylor
         twitter: SamuelDataT
@@ -152,7 +144,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8009, Depaul University
     authors:
       - name: Jen Tong
         twitter: MimmingCodes
@@ -167,7 +158,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8005, Depaul University
     authors:
       - name: Kyle Paul
         twitter: _KylePaul
@@ -182,7 +172,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8002, Depaul University
     authors:
       - name: Jerrell Mardis
         twitter: jerrellmardis
@@ -198,7 +187,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8009, Depaul University
     authors:
       - name: Ado Kukic
         twitter: kukicado
@@ -213,7 +201,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8010, Depaul University
     authors:
       - name: Chris Lorenzo
         twitter: chiefcll
@@ -229,7 +216,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8002, Depaul University
     authors:
       - name: Abe Haskins
         twitter: abeisgreat
@@ -245,7 +231,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8005, Depaul University
     authors:
       - name: Mike Wolfson
         twitter: mikewolfson
@@ -261,7 +246,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8009, Depaul University
     authors:
       - name: Martin Omander
         twitter: martinomander
@@ -277,7 +261,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8010, Depaul University
     authors:
       - name: Amanda Hinchman-Dominguez
         twitter: hinchman_amanda
@@ -293,7 +276,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8014, Depaul University
     authors:
       - name: Santina Croniser
         twitter: santinacroniser
@@ -308,7 +290,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8010, Depaul University
     authors:
       - name: Maureen McElaney
         twitter: Mo_Mack
@@ -324,7 +305,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8014, Depaul University
     authors:
       - name: Chris Van Tuin
         twitter: chrisvantuin
@@ -340,7 +320,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8005, Depaul University
     authors:
       - name: Bret McGowen
         twitter: BretMcG
@@ -355,7 +334,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8002, Depaul University
     authors:
       - name: Scott Stoll
         twitter: scottstoll2017
@@ -371,7 +349,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8011, Depaul University
     authors:
       - name: Paul Cowgill
         twitter: paulcowgill
@@ -386,7 +363,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8009, Depaul University
     authors:
       - name: Jigyasa Grover
         twitter: jigyasa_grover
@@ -403,7 +379,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8014, Depaul University
     authors:
       - name: Hazem Saleh
         twitter: hazems
@@ -419,7 +394,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8005, Depaul University
     authors:
       - name: Lauren Hasson
         twitter: laurenrhasson
@@ -435,7 +409,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8010, Depaul University
     authors:
       - name: Keval Baxi
         twitter: kevalbaxi
@@ -451,7 +424,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8009, Depaul University
     authors:
       - name: Mary Grygleski
         twitter: mgrygles
@@ -467,7 +439,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-01
-    room: Room 8002, Depaul University
     authors:
       - name: Kelly J. Andrews
         twitter: kellyjandrews

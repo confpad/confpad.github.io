@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: DevFestMN 2019
   status: complete
   series: devfest.mn
@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Jessi Gurr
         twitter: jessigurr
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Casie Siekman
         twitter: CassandraDanger
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Abraham Williams
         twitter: abraham
@@ -76,7 +73,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Sunitha Burri
         twitter: sunithaburri
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Huyen Tue Dao
         twitter: queencodemonkey
@@ -104,7 +99,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Etienne Caron
         twitter: kanawish
@@ -118,7 +112,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Tiem Song
         twitter: tiembo
@@ -132,7 +125,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Jon Rexeisen
         twitter: rexeisen
@@ -162,7 +154,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Brianna McCullough
         twitter: brilimitless
@@ -178,7 +169,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Amy Gebhardt
         twitter: amlyhamm
@@ -192,7 +182,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Theo Kanning
         twitter: theokanning
@@ -206,11 +195,10 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Lyla Fujiwara
         twitter: CeruleanOtter
-        github: 
+        github:
         website:
     slides:
     videos:
@@ -220,11 +208,10 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Sweety Bertilla Francis Xavier
         twitter: fxsweety
-        github: 
+        github:
         website:
     slides:
     videos:
@@ -236,7 +223,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Ben Morss
         twitter: benmorss
@@ -250,7 +236,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: McLean Donnelly
         twitter: mcleandonnelly
@@ -264,7 +249,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Doug Stevenson
         twitter: CodingDoug
@@ -278,7 +262,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Maciej Treder
         twitter: maciejtreder
@@ -292,7 +275,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Sean McQuillan
         twitter: objcode
@@ -306,7 +288,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Margaret Janssen
         twitter: maggiecjanssen
@@ -322,7 +303,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Mike Eastes
         twitter: FalahShazib
@@ -336,7 +316,6 @@ talks:
     lang: en
     type: lightning
     time: 2019-02-02
-    room:
     authors:
       - name: Collin Flynn
         twitter:
@@ -358,7 +337,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Kyle Smaagard
         twitter:
@@ -372,7 +350,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Martin Omander
         twitter: martinomander
@@ -386,7 +363,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Bryan Herbst
         twitter: bryancherbst
@@ -400,7 +376,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Steve Peterson
         twitter:
@@ -414,7 +389,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Bryce Howitson
         twitter: howitson
@@ -430,7 +404,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Tyler Johnson
         twitter:
@@ -444,7 +417,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Dmitry Vinnik
         twitter: DmitryVinnik
@@ -458,7 +430,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Timothy J. Salo
         twitter:
@@ -472,7 +443,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Chris Davis
         twitter: rpgobjects
@@ -486,7 +456,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Lyla Fujiwara
         twitter: CeruleanOtter
@@ -500,7 +469,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Jeff Huston
         twitter: rpgobjects
@@ -514,7 +482,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Christopher Stephan
         twitter: christephan
@@ -531,7 +498,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Jennifer L Bonine
         twitter: rpgobjects
@@ -545,7 +511,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Noble Ackerson
         twitter: nobleackerson
@@ -559,7 +524,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Mark Kalal
         twitter: MarkKalal
@@ -573,7 +537,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Thibaud Courtoison
         twitter: Errorname_
@@ -587,7 +550,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: James Williams
         twitter: ecspike
@@ -601,7 +563,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Jonathan Petit-Frere
         twitter: ecspike
@@ -615,7 +576,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Mike Bollinger
         twitter: mikebollinger
@@ -629,7 +589,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Pearl Latteier
         twitter: pblatteier
@@ -647,7 +606,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Caitlin Collins
         twitter:
@@ -661,7 +619,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Levi Tomes
         twitter:
@@ -675,7 +632,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: David Anderson
         twitter: draspawn
@@ -689,7 +645,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Dan Lew
         twitter: danlew42
@@ -703,7 +658,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-02
-    room:
     authors:
       - name: Colin Lee
         twitter: colinmlee
@@ -712,4 +666,4 @@ talks:
     slides:
     videos:
     description: |-
-    
+

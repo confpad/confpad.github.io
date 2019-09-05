@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-19 09:40:00
-    room:
     authors:
       - name: Ashley Williams
         twitter: ag_dubs
@@ -43,7 +42,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-19 10:20:00
-    room: ESTOCOLMO - 1st floor
     authors:
       - name: Sean Larkin
         twitter: TheLarkInn
@@ -60,7 +58,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-19 11:20:00
-    room:
     authors:
       - name: Mike Hartington
         twitter: mhartington
@@ -77,7 +74,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-19 12:00:00
-    room:
     authors:
       - name: Benedikt Meurer
         twitter: bmeurer
@@ -94,7 +90,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-19 14:40:00
-    room:
     authors:
       - name: Kyle Simpson
         twitter: getify
@@ -111,7 +106,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-19 15:20:00
-    room:
     authors:
       - name: Hassan Djirdeh
         twitter: djirdehh
@@ -128,7 +122,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-19 16:20:00
-    room:
     authors:
       - name: Michaela Lehr
         twitter: fischaelameer
@@ -145,7 +138,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-19 17:00:00
-    room:
     authors:
       - name: Anuj Nair
         twitter: anujrnair
@@ -162,7 +154,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-20 09:40:00
-    room:
     authors:
       - name: Johannes Ewald
         twitter: Jhnnns
@@ -179,7 +170,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-20 10:20:00
-    room:
     authors:
       - name: MARTIN SPLITT
         twitter: g33konaut
@@ -195,7 +185,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-20 11:00:00
-    room:
     authors:
       - name: Elisabeth Engel
         twitter: _lizzelo_
@@ -212,7 +201,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-20 12:00:00
-    room:
     authors:
       - name: Kamil Mysliwiec
         twitter: kammysliwiec
@@ -229,7 +217,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-20 12:40:00
-    room:
     authors:
       - name: LIAN LI
         twitter: Chimney42
@@ -246,7 +233,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-20 14:40:00
-    room:
     authors:
       - name: Steve Klabnik
         twitter: steveklabnik
@@ -263,7 +249,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-20 15:20:00
-    room:
     authors:
       - name: Kenneth Christiansen
         twitter: kennethrohde
@@ -280,7 +265,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-20 16:20:00
-    room:
     authors:
       - name: Jerry Gabra
         twitter: gabrrra
@@ -297,7 +281,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-20 16:40:00
-    room:
     authors:
       - name: Evan Schultz
         twitter: e_p82

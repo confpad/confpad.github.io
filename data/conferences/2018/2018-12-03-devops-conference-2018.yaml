@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Ronnie Chen
         twitter:
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Erkan Yanar
         twitter: erkuleswastaken
@@ -57,7 +55,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Michiel Rook
         twitter: michieltcs
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Andreas Mohrhard
         twitter: amohrhard
@@ -88,7 +84,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Oleg Chunikhin
         twitter:
@@ -103,7 +98,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Kristen Womack
         twitter: kristen_womack
@@ -119,7 +113,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Nils Magnus
         twitter:
@@ -134,7 +127,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Roland Huss
         twitter: ro14nd
@@ -150,7 +142,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Tomasz Koczorowski
         twitter:
@@ -165,7 +156,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Baruch Sadogursky
         twitter: jbaruch
@@ -181,7 +171,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Dirk Lehmann
         twitter: doergn
@@ -200,7 +189,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Roman Borovits
         twitter:
@@ -215,7 +203,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Peter Caron
         twitter:
@@ -230,7 +217,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Ambreen Sheikh
         twitter: anbreensh
@@ -246,7 +232,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Hannes Steiner
         twitter:
@@ -261,7 +246,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Darío Blanco
         twitter:
@@ -276,7 +260,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Stanislav Sivak
         twitter:
@@ -291,7 +274,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Christian Treutler
         twitter:
@@ -310,7 +292,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Christian Schneider
         twitter: cschneider4711
@@ -326,7 +307,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Sabine Fontanive Michael
         twitter:
@@ -341,7 +321,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Marc Burgauer
         twitter:
@@ -356,7 +335,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Christian Schneider
         twitter: cschneider4711
@@ -372,7 +350,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Stefan Walker
         twitter:
@@ -387,7 +364,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Walter Gildersleeve
         twitter:
@@ -402,7 +378,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Michael Hofmann
         twitter:
@@ -417,7 +392,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Nir Koren
         twitter: korennir
@@ -433,7 +407,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: J. Paul Reed
         twitter:
@@ -448,7 +421,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Erkan Yanar
         twitter: erkuleswastaken
@@ -463,7 +435,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Christoph Petrausch
         twitter:
@@ -482,7 +453,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Natalie Pistunovich
         twitter:
@@ -498,7 +468,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Sebastian Daschner
         twitter:
@@ -514,7 +483,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Julia Wester
         twitter:
@@ -530,7 +498,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Till Huslik
         twitter:
@@ -545,7 +512,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Iago López Galeiras
         twitter:
@@ -564,7 +530,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Stephan Fudeus
         twitter:
@@ -579,7 +544,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Ovidiu Hutuleac
         twitter:
@@ -594,7 +558,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Torsten Köster
         twitter: tboeghk
@@ -609,7 +572,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: J. Paul Reed
         twitter:
@@ -624,7 +586,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Gianluca Arbezzano
         twitter: gianarb
@@ -640,7 +601,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Michiel Rook
         twitter: michieltcs
@@ -656,7 +616,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: David Delabassee
         twitter: delabassee
@@ -671,7 +630,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Bernd Rederlechner
         twitter:
@@ -690,7 +648,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Rainer Stropek
         twitter:
@@ -706,7 +663,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Henning Jacobs
         twitter: try_except_
@@ -721,7 +677,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Steffen Schluff
         twitter:
@@ -736,7 +691,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Markus Andrezak
         twitter:
@@ -751,7 +705,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Bernd Rederlechner
         twitter:
@@ -770,7 +723,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Roland Huss
         twitter: ro14nd
@@ -785,7 +737,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Hassy Veldstra
         twitter:
@@ -800,7 +751,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Clemens Utschig-Utschig
         twitter:
@@ -815,7 +765,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-04
-    room: Hilton Munich Park
     authors:
       - name: Axel Fontaine
         twitter:

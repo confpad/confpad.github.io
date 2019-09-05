@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 09:00:00
-    room: Auditorium
     authors:
       - name: Simon Wardley
         twitter:
@@ -43,7 +42,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 10:00:00
-    room: Room B
     authors:
       - name: Max Gallo
         twitter:
@@ -60,7 +58,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 10:00:00
-    room: Room A
     authors:
       - name: Chris Noring
         twitter:
@@ -76,7 +73,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 10:00:00
-    room: Auditorium
     authors:
       - name: Christian Wenz
         twitter:
@@ -92,7 +88,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 11:15:00
-    room: Auditorium
     authors:
       - name: Joel Lord
         twitter:
@@ -108,7 +103,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 11:15:00
-    room: Room A
     authors:
       - name: Karina Islam
         twitter:
@@ -129,7 +123,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 11:15:00
-    room: Room B
     authors:
       - name: Sani Yusuf
         twitter:
@@ -144,7 +137,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 12:15:00
-    room: Room D
     authors:
       - name: Manfred Steyer
         twitter:
@@ -160,7 +152,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 12:15:00
-    room: Auditorium
     authors:
       - name: Elmar Burke
         twitter:
@@ -179,7 +170,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 12:15:00
-    room: Room E+F
     authors:
       - name: Luca Mezzalira
         twitter:
@@ -195,7 +185,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 12:15:00
-    room: Room A
     authors:
       - name: Srushtika Neelakantam
         twitter:
@@ -211,7 +200,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 14:30:00
-    room: Auditorium
     authors:
       - name: Dan Tortorici
         twitter:
@@ -227,7 +215,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 15:00:00
-    room: Auditorium
     authors:
       - name: Julie Lerman
         twitter:
@@ -244,7 +231,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 15:45:00
-    room: Auditorium
     authors:
       - name: Dmytro Zharkov
         twitter:
@@ -260,7 +246,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 15:45:00
-    room: Room B
     authors:
       - name: Mark van Straten
         twitter:
@@ -276,7 +261,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 15:45:00
-    room: Room C
     authors:
       - name: Philipp Burckhardt
         twitter:
@@ -291,7 +275,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 15:45:00
-    room: Room A
     authors:
       - name: Simona Cotin
         twitter:
@@ -308,7 +291,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 15:45:00
-    room: Room D
     authors:
       - name: Joel Lord
         twitter:
@@ -324,7 +306,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 17:15:00
-    room: Room A
     authors:
       - name: Sebastian Witalec
         twitter:
@@ -340,7 +321,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 17:15:00
-    room: Auditorium
     authors:
       - name: Luca Mezzalira
         twitter:
@@ -355,7 +335,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 17:15:00
-    room: Room E+F
     authors:
       - name: Alyssa Nicoll
         twitter:
@@ -372,7 +351,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 18:15:00
-    room: Auditorium
     authors:
       - name: Hans-Christian Otto
         twitter:
@@ -388,7 +366,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 18:15:00
-    room: Room E+F
     authors:
       - name: Armagan Amcalar
         twitter:
@@ -405,7 +382,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 18:15:00
-    room: Room A
     authors:
       - name: Jen Looper
         twitter:
@@ -422,7 +398,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 09:00:00
-    room: Auditorium
     authors:
       - name: Chris Noring
         twitter:
@@ -439,7 +414,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 10:00:00
-    room: Auditorium
     authors:
       - name: Joel Lord
         twitter:
@@ -456,7 +430,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 10:00:00
-    room: Room A
     authors:
       - name: Wekoslav Stefanovski
         twitter:
@@ -471,7 +444,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 10:00:00
-    room: Room D
     authors:
       - name: Nathaniel Schutta
         twitter:
@@ -487,7 +459,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 10:00:00
-    room: Room E+F
     authors:
       - name: Seyhan Baki
         twitter:
@@ -503,7 +474,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 11:30:00
-    room: Room E+F
     authors:
       - name: Nir Kaufman
         twitter:
@@ -518,7 +488,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 11:30:00
-    room: Room A
     authors:
       - name: Chris Noring
         twitter:
@@ -533,7 +502,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 11:30:00
-    room: Auditorium
     authors:
       - name: Nathaniel Schutta
         twitter:
@@ -549,7 +517,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 12:30:00
-    room: Room E+F
     authors:
       - name: Athan Reines
         twitter:
@@ -565,7 +532,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 12:30:00
-    room: Auditorium
     authors:
       - name: Gil Fink
         twitter:
@@ -581,7 +547,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 12:30:00
-    room: Room A
     authors:
       - name: Katerina Skroumpelou
         twitter:
@@ -598,7 +563,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 14:45:00
-    room: Auditorium
     authors:
       - name: Kin Lane
         twitter:
@@ -613,7 +577,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 16:00:00
-    room: Auditorium
     authors:
       - name: Mahbubur Rahman Khan
         twitter:
@@ -629,7 +592,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 16:00:00
-    room: Room C
     authors:
       - name: Manfred Steyer
         twitter:
@@ -644,7 +606,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 16:00:00
-    room: Room E+F
     authors:
       - name: Nir Kaufman
         twitter:
@@ -659,7 +620,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 17:00:00
-    room: Room A
     authors:
       - name: Maxim Salnikov
         twitter:
@@ -675,7 +635,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 17:00:00
-    room: Auditorium
     authors:
       - name: Alex Lakatos
         twitter:
@@ -691,7 +650,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 09:00:00
-    room: Room C
     authors:
       - name: Gil Fink
         twitter:
@@ -706,7 +664,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 09:00:00
-    room: Room D
     authors:
       - name: Philipp Burckhardt
         twitter:
@@ -725,7 +682,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 09:00:00
-    room: Room A
     authors:
       - name: Maxim Salnikov
         twitter:
@@ -740,7 +696,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 09:00:00
-    room: Room F
     authors:
       - name: Manfred Steyer
         twitter:
@@ -755,7 +710,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-11 09:00:00
-    room: Room B
     authors:
       - name: Nir Kaufman
         twitter:

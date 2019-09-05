@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-26 09:50:00
-    room:
     authors:
       - name: Dan Mall
         twitter: danielmall
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-26 10:40:00
-    room:
     authors:
       - name: Lea Verou
         twitter: LeaVerou
@@ -57,7 +55,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-26 12:00:00
-    room:
     authors:
       - name: Sarah Drasner
         twitter: sarah_edo
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-26 12:50:00
-    room:
     authors:
       - name: Tim Kadlec
         twitter: tkadlec
@@ -89,7 +85,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-26 15:10:00
-    room:
     authors:
       - name: Joe Leech
         twitter: mrJoe
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-26 16:00:00
-    room:
     authors:
       - name: Eva-Lotta Lamm
         twitter: evalottchen
@@ -121,7 +115,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-26 17:20:00
-    room:
     authors:
       - name: Yiying Lu
         twitter: YiyingLu
@@ -137,7 +130,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-26 18:10:00
-    room:
     authors:
       - name: Aaron Draplin
         twitter: draplin
@@ -152,7 +144,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-27 09:40:00
-    room:
     authors:
       - name: Harry Roberts
         twitter: csswizardry
@@ -168,7 +159,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-27 10:30:00
-    room:
     authors:
       - name: Sara Soueidan
         twitter: SaraSoueidan
@@ -183,7 +173,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-27 11:50:00
-    room:
     authors:
       - name: Marcy Sutton
         twitter: marcysutton
@@ -199,7 +188,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-27 12:40:00
-    room:
     authors:
       - name: Gemma O’Brien
         twitter: mrseaves
@@ -214,7 +202,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-27 15:00:00
-    room:
     authors:
       - name: Nadieh Bremer
         twitter: NadiehBremer
@@ -230,7 +217,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-27 15:50:00
-    room:
     authors:
       - name: Rachel Andrew
         twitter: rachelandrew
@@ -246,7 +232,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-27 17:10:00
-    room:
     authors:
       - name: Seb Lee-Delisle
         twitter: seb_ly

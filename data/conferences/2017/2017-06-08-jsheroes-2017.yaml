@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Nir Kaufman
         twitter:
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Tudor Gergely
         twitter:
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Xavier Cazalot
         twitter:
@@ -71,7 +68,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Cassi Lup
         twitter:
@@ -86,7 +82,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Benedek Gagyi
         twitter:
@@ -101,7 +96,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Ovidiu Cherecheș
         twitter:
@@ -116,7 +110,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Alex Moldovan
         twitter:
@@ -131,7 +124,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Pavithra Kodmad
         twitter:
@@ -146,7 +138,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-08
-    room:
     authors:
       - name: Guillermo Rauch
         twitter:
@@ -161,7 +152,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-09
-    room:
     authors:
       - name: Robert Onodi
         twitter:
@@ -176,7 +166,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-09
-    room:
     authors:
       - name: Roxana Rugină
         twitter:
@@ -191,7 +180,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-09
-    room:
     authors:
       - name: Liran Tal
         twitter:
@@ -206,7 +194,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-09
-    room:
     authors:
       - name: Gautam Arora
         twitter:
@@ -221,7 +208,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-09
-    room:
     authors:
       - name: Vladimir Porton
         twitter:
@@ -236,7 +222,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-09
-    room:
     authors:
       - name: Dan Călinescu
         twitter:
@@ -251,7 +236,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-09
-    room:
     authors:
       - name: Filip Bech-Larsen
         twitter:
@@ -266,7 +250,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-09
-    room:
     authors:
       - name: Maxim Salnikov
         twitter:
@@ -281,7 +264,6 @@ talks:
     lang: en
     type: regular
     time: 2017-06-09
-    room:
     authors:
       - name: Mark Dalgleish
         twitter:

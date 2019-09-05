@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: DevFest Florida 2019
   status: complete
   series: devfestflorida.org
@@ -21,12 +21,11 @@
     DevFest Florida brings together the world class experts in Android, Web and Cloud technologies to Orlando for 1 day of sessions, workshops and showcases.
 
 talks:
- 
+
   - title: Self-Care for Developers
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Nitya Narasimhan
         twitter: nitya
@@ -40,7 +39,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Chris Lorenzo
         twitter: chiefcll
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Ian Thomas
         twitter:
@@ -72,7 +69,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Siva Kumar
         twitter: ksivamuthu
@@ -88,7 +84,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Christi Kapp
         twitter:
@@ -102,7 +97,6 @@ talks:
     lang: en
     type: lightning
     time: 2019-01-19
-    room:
     authors:
       - name: Mary Grygleski
         twitter: mgrygles
@@ -118,7 +112,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Jared Porcenaluk
         twitter: jporcenaluk
@@ -134,7 +127,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Betty Pierce
         twitter: UIBusyBetty
@@ -150,7 +142,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Etienne Caron
         twitter: kanawish
@@ -166,7 +157,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Aygul Zagidullina
         twitter: aygul
@@ -182,7 +172,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Eva Sofianos
         twitter: evasofianos
@@ -196,7 +185,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Grant Timmerman
         twitter: granttimmerman
@@ -212,7 +200,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Stacy Devino
         twitter: Doesitpew
@@ -228,7 +215,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Matt Fedorovich
         twitter: MattFedorovich
@@ -244,7 +230,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Mike Herchel
         twitter: mikeherchel
@@ -260,7 +245,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Jerrell Mardis
         twitter: jerrellmardis
@@ -276,7 +260,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Joey deVilla
         twitter: accordionguy
@@ -292,7 +275,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: John Papa
         twitter: John_Papa
@@ -308,7 +290,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Faisal Abid
         twitter: FaisalAbid
@@ -324,7 +305,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Allen Firstenberg
         twitter: afirstenberg
@@ -340,7 +320,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Michael Prentice
         twitter: splaktar
@@ -356,7 +335,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Connor Tumbleson
         twitter: iBotPeaches
@@ -372,7 +350,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Vikram Tiwari
         twitter: Vikram_Tiwari
@@ -388,7 +365,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Loiane Groner
         twitter: loiane
@@ -404,7 +380,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Kaan Mamikoglu
         twitter: kaanmamikoglu
@@ -420,7 +395,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Santosh Hari
         twitter: _s_hari
@@ -429,14 +403,13 @@ talks:
     slides:
     videos:
       - https://youtu.be/XEa3a9js9kA
-    description: 
+    description:
       This talk is an Intro to NoSQL and an impassioned argument on why you should never host your own NoSQL instance. Do you work on MySQL, SQL Server, Postgres (or other RDBMS) full time? Have you ever wanted to dip your toes into the NoSQL world? Ever wonder about the hype surrounding NoSQL? What is the difference between MongoDB, Redis, Neo4j, and Cassandra? Get a gentle intro to the NoSQL world and more importantly, when to use it and when not to use it. More important, we will discuss decision metrics for picking a cloud-based NoSQL solution that is right for you; between major cloud providers like Google (Datastore), Amazon (DynamoDB), and Microsoft (Azure CosmosDB). We'll have a spirited discussion on why cloud based/managed NoSQL hosting will help you avoid becoming a news story for the wrong reasons. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
   - title: Shifting to Vue
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Michele Cynowicz
         twitter: michelecynowicz
@@ -452,7 +425,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Seattle, WA
         twitter: bouncingsheep
@@ -472,7 +444,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Martin Omander
         twitter: martinomander
@@ -488,7 +459,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Kyle Paul
         twitter: _kylepaul
@@ -504,7 +474,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Luxi Chen
         twitter:
@@ -520,7 +489,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Dan Baran
         twitter: defragger
@@ -536,7 +504,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Elizabeth Tiller
         twitter: LizTiller
@@ -546,13 +513,12 @@ talks:
     videos:
       - https://youtu.be/uby9R_cdGE0
     description: |-
-      React Native is advertised as a framework for developing native apps with javascript. Roughly 90% of the time, my team is able to work strictly in javascript, with only occassional trips into native code. In particular, my team has found our Android build to require more care than its iOS counterpart. This talk will look at the ways in which we have learned, sometimes the hard way, how to develop a react native app for Android, as well as my experience as a javascript developer being thrust into the native world. In particular, I will discuss our use of the react native device detection package to work through our Android style audits and ways we have worked around react native's shortcomings. Find the latest information about speakers, agenda, and other exciting news at 
+      React Native is advertised as a framework for developing native apps with javascript. Roughly 90% of the time, my team is able to work strictly in javascript, with only occassional trips into native code. In particular, my team has found our Android build to require more care than its iOS counterpart. This talk will look at the ways in which we have learned, sometimes the hard way, how to develop a react native app for Android, as well as my experience as a javascript developer being thrust into the native world. In particular, I will discuss our use of the react native device detection package to work through our Android style audits and ways we have worked around react native's shortcomings. Find the latest information about speakers, agenda, and other exciting news at
 
   - title: DIY Dependency Injection with Kotlin
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Sam Edwards
         twitter: HandstandSam
@@ -568,7 +534,6 @@ talks:
     lang: en
     type: regular
     time: 2019-01-19
-    room:
     authors:
       - name: Paul Trebilcox-Ruiz
         twitter: hPaulTR88
@@ -581,5 +546,5 @@ talks:
       With the advancements in machine learning and cloud services, developers can easily make devices that go the extra mile in providing a great experience for users. Come learn how you can make your Android Things devices conversational, respond to user’s voice requests, recognize images and gain the full support of cloud services to perform complex operations in the connected world. This presentation will leverage real ‘smart’ device projects to introduce you to what’s available with Android and Google, and provide you with a launching point for building your own smart devices. Find the latest information about speakers, agenda, and other exciting news at devfestflorida.org
 
 
-      
-    
+
+

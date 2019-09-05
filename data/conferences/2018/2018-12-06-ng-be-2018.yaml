@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-07
-    room:
     authors:
       - name: Samantha Brennan
         twitter:
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-07
-    room:
     authors:
       - name: Ward Peeters
         twitter:
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-07
-    room:
     authors:
       - name: Wassim Chegham
         twitter:
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-07
-    room:
     authors:
       - name: Philippe De Ryck
         twitter:
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-07
-    room:
     authors:
       - name: Shmuela Jacobs
         twitter:
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-07
-    room:
     authors:
       - name: Torgeir Helgevold
         twitter:
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-07
-    room:
     authors:
       - name: Bonnie Brennan
         twitter:
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-07
-    room:
     authors:
       - name: Pascal Precht
         twitter:
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-07
-    room:
     authors:
       - name: Dominic Elm
         twitter:
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-07
-    room:
     authors:
       - name: Max Koretskyi
         twitter:
@@ -185,7 +175,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-07
-    room:
     authors:
       - name: Ashnita Bali
         twitter:
@@ -201,7 +190,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-07
-    room:
     authors:
       - name: Kwinten Pisman
         twitter:
@@ -217,7 +205,6 @@ talks:
     lang: en
     type: regular
     time: 2018-12-07
-    room:
     authors:
       - name: Jan De Wilde
         twitter:

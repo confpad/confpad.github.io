@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-27
-    room:
     authors:
       - name: Igor Minar
         twitter: IgorMinor
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-27
-    room:
     authors:
       - name: Brian Mann
         twitter: be_mann
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-27
-    room:
     authors:
       - name: Sean Grove
         twitter: sgrove
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-27
-    room:
     authors:
       - name: Krzysztof Magiera
         twitter: kzzzf
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-27
-    room:
     authors:
       - name: Guillermo Rauch
         twitter: rauchg
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-27
-    room:
     authors:
       - name: Michael Glukhovsky
         twitter: mglukhovsky
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-27
-    room:
     authors:
       - name: Jared Forsyth
         twitter: jaredforsyth;
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-27
-    room:
     authors:
       - name: Daniel Woelfel
         twitter: DanielWoelfel
@@ -148,13 +140,12 @@ talks:
     videos:
       - https://youtu.be/cgJyI1BKmHQ
     description: |-
-      Those driving the change! World-renowned mobile and web innovators got together for three days in one town.ReactiveConf, October 26 - 28 2016, Bratislava, Slovakia,Daniel Woelfel: Optimistic updates in a pessimistic world 
+      Those driving the change! World-renowned mobile and web innovators got together for three days in one town.ReactiveConf, October 26 - 28 2016, Bratislava, Slovakia,Daniel Woelfel: Optimistic updates in a pessimistic world
 
   - title: Past and future of client-side routing
     lang: en
     type: regular
     time: 2016-10-27
-    room:
     authors:
       - name: Thomas Roch
         twitter: tcroch
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-27
-    room:
     authors:
       - name: Richard Feldman
         twitter: rtfeldman
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: lightning
     time: 2016-10-27
-    room:
     authors:
       - name: Peter Perešíni
         twitter:
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: lightning
     time: 2016-10-27
-    room:
     authors:
       - name: Jonas Coch
         twitter:
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: lightning
     time: 2016-10-27
-    room:
     authors:
       - name: Ondřej Bartas
         twitter:
@@ -234,7 +221,6 @@ talks:
     lang: en
     type: lightning
     time: 2016-10-27
-    room:
     authors:
       - name: Nik Graf
         twitter:
@@ -250,7 +236,6 @@ talks:
     lang: en
     type: lightning
     time: 2016-10-27
-    room:
     authors:
       - name: Patrick Stapfer
         twitter:
@@ -266,7 +251,6 @@ talks:
     lang: en
     type: lightning
     time: 2016-10-27
-    room:
     authors:
       - name: Adam Terlson
         twitter:
@@ -282,7 +266,6 @@ talks:
     lang: en
     type: lightning
     time: 2016-10-27
-    room:
     authors:
       - name: Jean Carlo Emer
         twitter:
@@ -298,7 +281,6 @@ talks:
     lang: en
     type: lightning
     time: 2016-10-27
-    room:
     authors:
       - name: Javi Velasco
         twitter:
@@ -314,7 +296,6 @@ talks:
     lang: en
     type: lightning
     time: 2016-10-27
-    room:
     authors:
       - name: Kristjian Ristovski
         twitter:
@@ -330,7 +311,6 @@ talks:
     lang: en
     type: lightning
     time: 2016-10-27
-    room:
     authors:
       - name: Gregory Shehet
         twitter:
@@ -346,7 +326,6 @@ talks:
     lang: en
     type: lightning
     time: 2016-10-27
-    room:
     authors:
       - name: Aleksey Kulikov
         twitter:
@@ -362,7 +341,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-28
-    room:
     authors:
       - name: Max Stoiber
         twitter: mxstbr
@@ -378,7 +356,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-28
-    room:
     authors:
       - name: Marcela Hrda
         twitter:
@@ -394,7 +371,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-28
-    room:
     authors:
       - name: Mark Dalgleish
         twitter: markdalgleish
@@ -410,7 +386,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-28
-    room:
     authors:
       - name: André Staltz
         twitter: andrestaltz
@@ -426,7 +401,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-28
-    room:
     authors:
       - name: Tomaš Kulich
         twitter: tomas_kulich
@@ -442,7 +416,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-28
-    room:
     authors:
       - name: Michel Weststrate
         twitter: mweststrate
@@ -458,7 +431,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-28
-    room:
     authors:
       - name: Ryan J. Salva
         twitter: ryanjsalva
@@ -474,7 +446,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-28
-    room:
     authors:
       - name: Martijn Walraven
         twitter: martijnwalraven
@@ -490,7 +461,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-28
-    room:
     authors:
       - name: Leland Richardson
         twitter: intelligibabble
@@ -506,7 +476,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-28
-    room:
     authors:
       - name: Brent Vatne
         twitter: notbrent
@@ -522,7 +491,6 @@ talks:
     lang: en
     type: regular
     time: 2016-10-28
-    room:
     authors:
       - name: David Nolen
         twitter: swannodette

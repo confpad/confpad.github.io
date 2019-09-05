@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: Gavin Doughtie
         twitter: gavindoughtie
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: Robin Frischmann
         twitter: rofrischmann
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: David Nolen
         twitter: swannodette
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: Tiago Forte
         twitter: fortelabs
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: Nikita Prokopov
         twitter: nikitonsky
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: Gavin Doughtie
         twitter: gavindoughtie
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: Javi Velasco
         twitter:
@@ -157,7 +150,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: Uri Goldshtein
         twitter: urigoldshtein
@@ -173,7 +165,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: John Wargo
         twitter: johnwargo
@@ -189,7 +180,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: Gerard Sans
         twitter: gerardsans
@@ -205,7 +195,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: Rogelio Guzman
         twitter: rogeliog
@@ -221,7 +210,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: Tiago Forte
         twitter: fortelabs
@@ -237,7 +225,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: Oleg Sloboskoi
         twitter: oleg008
@@ -253,7 +240,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: Igor Minar
         twitter: igorminar
@@ -269,7 +255,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-25
-    room:
     authors:
       - name: Evan You
         twitter: youyuxi
@@ -285,7 +270,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Victor Grishchenko
         twitter: gritzko
@@ -301,7 +285,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Sean Larkin , Tobias Koppers
         twitter:
@@ -316,7 +299,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Shirley Xueyang Wu
         twitter: sxywu
@@ -332,7 +314,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Jack Franklin
         twitter: jack_franklin
@@ -348,7 +329,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Richard Feldman
         twitter: rtfeldman
@@ -364,7 +344,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Peter Lisy
         twitter:
@@ -379,7 +358,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Evan You
         twitter: youyuxi
@@ -395,7 +373,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Javi Velasco
         twitter: javivelasco
@@ -411,7 +388,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Gabe Scholz
         twitter:
@@ -427,7 +403,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Igor Minar
         twitter: igorminar
@@ -442,7 +417,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Jared Forsyth
         twitter: jaredforsyth
@@ -458,7 +432,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Andrey Sitnik
         twitter: andreysitnik
@@ -474,7 +447,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Richard Feldman
         twitter: rtfeldman
@@ -490,7 +462,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Tom Dale
         twitter: tomdale
@@ -506,7 +477,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Jared Forsyth
         twitter: jaredforsyth
@@ -522,7 +492,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Sarah Drasner
         twitter: sarah_edo
@@ -538,7 +507,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-26
-    room:
     authors:
       - name: Shmuela Jacobs
         twitter: shmuelaj
@@ -554,7 +522,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-26
-    room:
     authors:
       - name: Matthias Rella
         twitter: my_rho
@@ -570,7 +537,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-26
-    room:
     authors:
       - name: Albert Nemec
         twitter:
@@ -586,7 +552,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-26
-    room:
     authors:
       - name: Darpan Kakadia
         twitter: kakadiadarpan
@@ -602,7 +567,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-26
-    room:
     authors:
       - name: Gregory Shehet
         twitter: AGambit95
@@ -618,7 +582,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-26
-    room:
     authors:
       - name: Honza Brecka
         twitter: honzabrecka
@@ -634,7 +597,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-26
-    room:
     authors:
       - name: John Wargo
         twitter:
@@ -650,7 +612,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-26
-    room:
     authors:
       - name: Kamlesh Chandnani
         twitter: kamlesh_
@@ -666,7 +627,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-26
-    room:
     authors:
       - name: Lenka Vondrackova
         twitter:
@@ -682,7 +642,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-26
-    room:
     authors:
       - name: Pavel Aksonov
         twitter:
@@ -698,7 +657,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-25
-    room:
     authors:
       - name: Richard Feldman
         twitter: rtfeldman
@@ -714,7 +672,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-25
-    room:
     authors:
       - name: Uri Goldshtein
         twitter: urigoldshtein
@@ -730,7 +687,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-26
-    room:
     authors:
       - name: Sean Grove
         twitter:
@@ -746,7 +702,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-26
-    room:
     authors:
       - name: Thomas Sojka
         twitter:
@@ -762,7 +717,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-26
-    room:
     authors:
       - name: Andrey Sitnik
         twitter: andreysitnik
@@ -778,7 +732,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-10-25
-    room:
     authors:
       - name: Jerome Schneider, Sven Sauleau
         twitter:

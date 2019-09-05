@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: EmberConf 2019
   status: complete
   series: emberconf.com
@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-19
-    room: Oregon Convention Center
     authors:
       - name: Yehuda Katz
         twitter: wycats
@@ -46,7 +45,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-19
-    room: Oregon Convention Center
     authors:
       - name: Frédéric Soumaré
         twitter:
@@ -62,7 +60,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-19
-    room: Oregon Convention Center
     authors:
       - name: Kate Ruggeri
         twitter:
@@ -78,7 +75,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-19
-    room: Oregon Convention Center
     authors:
       - name: Preston Sego
         twitter:
@@ -94,7 +90,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-19
-    room: Oregon Convention Center
     authors:
       - name: James C. Davis
         twitter: jamscdavis
@@ -110,7 +105,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-19
-    room: Oregon Convention Center
     authors:
       - name: Jessica Jordan
         twitter: jjordan_dev
@@ -126,7 +120,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-19
-    room: Oregon Convention Center
     authors:
       - name: Lisa Backer
         twitter:
@@ -142,7 +135,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-19
-    room: Oregon Convention Center
     authors:
       - name: Todd Jordan
         twitter: tddjordan
@@ -158,7 +150,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-19
-    room: Oregon Convention Center
     authors:
       - name: Melanie Sumner
         twitter: melaniersumner
@@ -174,7 +165,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Oregon Convention Center
     authors:
       - name: Igor Terzic
         twitter: terzicigor
@@ -190,7 +180,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Oregon Convention Center
     authors:
       - name: Kenneth Larsen
         twitter:
@@ -206,7 +195,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Oregon Convention Center
     authors:
       - name: Julia Donaldson
         twitter: username_juliaD
@@ -222,7 +210,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Oregon Convention Center
     authors:
       - name: Kenigbolo Meya Stephen
         twitter:
@@ -237,7 +224,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Oregon Convention Center
     authors:
       - name: Dianne Eramo
         twitter: DianneEramo
@@ -253,7 +239,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Oregon Convention Center
     authors:
       - name: Isaac Ezer
         twitter:
@@ -269,7 +254,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Oregon Convention Center
     authors:
       - name: Jennifer Wong
         twitter: mybluewristband
@@ -280,12 +264,11 @@ talks:
       - https://youtu.be/KzxF6dIyfTw
     description: |-
       New to Ember? So am I! What are all these things? A new code base often means unfamiliar words and paradigms. I definitely had my share in this Ember new world. When I saw mut, I thought of adorable dogs. When I saw can I thought of soup. Eventually, I realized the mystery words are part of Ember addons! But with so many to learn, I was quickly overwhelmed. Let me walk you through my exploration of addons. How do you balance code time with addon learning time? From ember-a11y-testing to zoey, we’ll dig into Ember & its addons, and strategies for persistent, sustained learning anyone can rely on
-  
+
   - title: How to Grow or Save your Favorite Open Source Project
     lang: en
     type: lightning
     time: 2019-03-20
-    room: Oregon Convention Center
     authors:
       - name: Jen Weber
         twitter: jwwweber
@@ -295,75 +278,70 @@ talks:
     videos:
       - https://youtu.be/S8VI0ULzFvU
     description: |-
-  
+
   - title: How I Learned to Stop Worrying and Love the Mono Repo
     lang: en
     type: lightning
     time: 2019-03-20
-    room: Oregon Convention Center
     authors:
       - name: Hassan Abdel-Rahman
-        twitter: 
+        twitter:
         github:
         website:
     slides:
     videos:
       - https://youtu.be/Q7QPqEAGu_U
     description: |-
-  
+
   - title: "From Mainframe to Mainstream: A Case Study in Emberification"
     lang: en
     type: lightning
     time: 2019-03-20
-    room: Oregon Convention Center
     authors:
       - name: Ryan Mark
-        twitter: 
+        twitter:
         github:
         website:
     slides:
     videos:
       - https://youtu.be/GzsYOvhYKvE
     description: |-
-  
+
   - title: How to build a Blog Engine in 15m with Ember and NodeJS
     lang: en
     type: lightning
     time: 2019-03-20
-    room: Oregon Convention Center
     authors:
       - name: Chris Manson
-        twitter: 
+        twitter:
         github:
         website:
     slides:
     videos:
       - https://youtu.be/GHbjdesHhPA
     description: |-
-  
+
   - title: What's Behind Ember Observer's Scores?
     lang: en
     type: lightning
     time: 2019-03-20
-    room: Oregon Convention Center
     authors:
       - name: Katie Gengler
-        twitter: 
+        twitter:
         github:
         website:
     slides:
     videos:
       - https://youtu.be/f_44WXjQ9CI
     description: |-
-  
+
   - title: Broccoli Update
     lang: en
     type: lightning
     time: 2019-03-20
-    room: Oregon Convention Center
     authors:
       - name: Oli Griffiths
-        twitter: 
+        twitter:
         github:
         website:
     slides:
@@ -375,7 +353,6 @@ talks:
     lang: en
     type: regular
     time: 2019-03-20
-    room: Oregon Convention Center
     authors:
       - name: Howie Bollinger
         twitter:

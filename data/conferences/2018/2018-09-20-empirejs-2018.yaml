@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-20 09:30:00
-    room:
     authors:
       - name: Holger Bartel
         twitter:
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-20 10:00:00
-    room:
     authors:
       - name: Jessica Jordan
         twitter:
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-20 10:30:00
-    room:
     authors:
       - name: Ryan Waskiewicz
         twitter:
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-20 11:15:00
-    room:
     authors:
       - name: Joe Kent
         twitter:
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-20 11:45:00
-    room:
     authors:
       - name: Jenn Creighton
         twitter:
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-20 12:15:00
-    room:
     authors:
       - name: Nick Kreeger
         twitter:
@@ -126,7 +120,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-20 14:15:00
-    room:
     authors:
       - name: Eli Schütze Ramírez
         twitter:
@@ -142,7 +135,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-20 14:45:00
-    room:
     authors:
       - name: Sarah Groff Hennigh-Palermo
         twitter:
@@ -158,7 +150,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-20 15:15:00
-    room:
     authors:
       - name: Meara Charnetzki
         twitter:
@@ -174,7 +165,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-20 16:00:00
-    room:
     authors:
       - name: Ethan Garofolo
         twitter:
@@ -190,7 +180,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-20 16:30:00
-    room:
     authors:
       - name: Sarbbottam Bandyopadhyay
         twitter:
@@ -206,7 +195,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-20 17:00:00
-    room:
     authors:
       - name: Lena Reinhard
         twitter:
@@ -222,7 +210,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 09:30:00
-    room:
     authors:
       - name: Kelly Sutton
         twitter:
@@ -238,7 +225,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 10:00:00
-    room:
     authors:
       - name: K. Adam White
         twitter:
@@ -254,7 +240,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 10:30:00
-    room:
     authors:
       - name: Aaron Petcoff
         twitter:
@@ -270,7 +255,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 11:15:00
-    room:
     authors:
       - name: Mani Nilchiani
         twitter:
@@ -286,7 +270,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 11:45:00
-    room:
     authors:
       - name: Sam Richard
         twitter:
@@ -302,7 +285,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 12:15:00
-    room:
     authors:
       - name: Andrey Sitnik
         twitter:
@@ -318,7 +300,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 14:15:00
-    room:
     authors:
       - name: Kassandra Perch
         twitter:
@@ -334,7 +315,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 14:45:00
-    room:
     authors:
       - name: Nitya Narasimhan
         twitter:
@@ -350,7 +330,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 15:15:00
-    room:
     authors:
       - name: Nishat Anjum
         twitter:
@@ -366,7 +345,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 16:00:00
-    room:
     authors:
       - name: Tracy Lum
         twitter:
@@ -382,7 +360,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 16:30:00
-    room:
     authors:
       - name: Mari Miyachi
         twitter:
@@ -402,7 +379,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-21 17:00:00
-    room:
     authors:
       - name: Sher Minn Chong
         twitter:

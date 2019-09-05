@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-06
-    room:
     authors:
       - name: Julia Evans
         twitter: b0rk
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-06
-    room:
     authors:
       - name: Safia Abdalla
         twitter: captainsafia
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-06
-    room:
     authors:
       - name: Dinah Davis
         twitter: Dinah_Davis
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-06
-    room:
     authors:
       - name: Josh Bowman-Matthews
         twitter:
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-06
-    room:
     authors:
       - name: Christina Truong
         twitter: christinatruong
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-06
-    room:
     authors:
       - name: Murphy Berzish
         twitter:
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-06
-    room:
     authors:
       - name: Breanne Boland
         twitter: breanneboland
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-06
-    room:
     authors:
       - name: Fatema Boxwala
         twitter:
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-06
-    room:
     authors:
       - name: Rudi Chen
         twitter: digitalfreepen
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-06
-    room:
     authors:
       - name: Tina Fletcher
         twitter:
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-06
-    room:
     authors:
       - name: Claire Janke
         twitter: clairejanke
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-06
-    room:
     authors:
       - name: Andrew Louis
         twitter: Andrew__Louis
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-07
-    room:
     authors:
       - name: Kelly McBride
         twitter: kellymcb
@@ -234,7 +221,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-07
-    room:
     authors:
       - name: Tim McLean
         twitter:
@@ -250,7 +236,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-07
-    room:
     authors:
       - name: Erika Pierre
         twitter: erikapierr
@@ -266,7 +251,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-07
-    room:
     authors:
       - name: Jordan Pryde
         twitter: prydom
@@ -282,7 +266,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-07
-    room:
     authors:
       - name: Alex Rhatushnyak
         twitter: gralic1
@@ -298,7 +281,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-07
-    room:
     authors:
       - name: Keefer Rourke
         twitter: keeferrourke
@@ -314,7 +296,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-07
-    room:
     authors:
       - name: Siddhartha Sahu
         twitter:
@@ -330,7 +311,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-07
-    room:
     authors:
       - name: Anastasia Santasheva
         twitter: antiroyalty_
@@ -346,7 +326,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-07
-    room:
     authors:
       - name: Sunjay Varma
         twitter: sunjay03
@@ -362,7 +341,6 @@ talks:
     lang: en
     type: regular
     time: 2018-01-07
-    room:
     authors:
       - name: Max Veystman
         twitter: mveytsman

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-10
-    room:
     authors:
       - name: Douglas Crockford
         twitter:
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-10
-    room:
     authors:
       - name: Minko Gechev
         twitter: mgechev
@@ -59,7 +57,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-10
-    room:
     authors:
       - name: Alexey Zolotykh
         twitter: zolotyh
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-10
-    room:
     authors:
       - name: Mikhail Bashurov
         twitter: SaitoNakamura
@@ -91,7 +87,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-10
-    room:
     authors:
       - name: Alexey Bogachuk
         twitter:
@@ -108,7 +103,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-10
-    room:
     authors:
       - name: Denis Radin
         twitter: PixelsCommander
@@ -125,7 +119,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-10
-    room:
     authors:
       - name: Emil Bay
         twitter: emilbayes
@@ -141,7 +134,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-10
-    room:
     authors:
       - name: Vitaly Slobodin
         twitter: Vitalliumm
@@ -157,7 +149,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-10
-    room:
     authors:
       - name: Mathias Buus Madsen
         twitter: mafintosh
@@ -171,7 +162,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-10
-    room:
     authors:
       - name: Vladimir Dashukevich
         twitter: life__777
@@ -187,7 +177,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-10
-    room:
     authors:
       - name: Nikolay Matvienko
         twitter: matvi3nko
@@ -203,7 +192,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-10
-    room:
     authors:
       - name: Michael Udalov
         twitter:
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-10
-    room:
     authors:
       - name: Slobodan Stojanovic
         twitter: slobodan_
@@ -232,7 +219,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-10
-    room:
     authors:
       - name: Vitaly Friedman
         twitter: vitalyf
@@ -249,7 +235,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-11
-    room:
     authors:
       - name: Azat Mardan
         twitter:
@@ -264,7 +249,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-11
-    room:
     authors:
       - name: Anton Lobov
         twitter: zhuravlik26
@@ -279,7 +263,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-11
-    room:
     authors:
       - name: Alexey Okhrimenko
         twitter: Ai_boy
@@ -295,7 +278,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-11
-    room:
     authors:
       - name: Vitaly Friedman
         twitter: vitalyf
@@ -311,7 +293,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-11
-    room:
     authors:
       - name: Douglas crockford
         twitter:
@@ -327,7 +308,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-11
-    room:
     authors:
       - name: Alexander Korotaev
         twitter:
@@ -344,7 +324,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-11
-    room:
     authors:
       - name: Andrey Melikhov
         twitter: amel_true
@@ -361,7 +340,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-11
-    room:
     authors:
       - name: Pavel Chertorogov
         twitter: nodkz
@@ -378,7 +356,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-11
-    room:
     authors:
       - name: Gerard Sans
         twitter: gerardsans
@@ -394,7 +371,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-11
-    room:
     authors:
       - name: Egor Malkevich
         twitter: wegorelax
@@ -411,7 +387,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-11
-    room:
     authors:
       - name: Roman Dvornov
         twitter: rdvornov
@@ -428,7 +403,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-11
-    room:
     authors:
       - name: Andrey Melikhov
         twitter: amel_true
@@ -458,7 +432,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-11
-    room:
     authors:
       - name: Alexey Taktarov
         twitter: mlfrg
@@ -475,7 +448,6 @@ talks:
     lang: en
     type: regular
     time: 2017-12-11
-    room:
     authors:
       - name: Lea verou
         twitter: LeaVerou

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-28
-    room:
     authors:
       - name: Guillermo Rauch
         twitter: rauchg
@@ -54,7 +53,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-28
-    room:
     authors:
       - name: Jessica Rose
         twitter: jesslynnrose
@@ -70,7 +68,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-28
-    room:
     authors:
       - name: Andrew Clark
         twitter: acdlite
@@ -86,7 +83,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-28
-    room:
     authors:
       - name: Prosper Otemuyiwa
         twitter: unicodeveloper
@@ -101,7 +97,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-28
-    room:
     authors:
       - name: Kylie Stewart
         twitter: kyliestew
@@ -116,7 +111,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-28
-    room:
     authors:
       - name: Pranay Prakash
         twitter: pranaygp
@@ -136,7 +130,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-28
-    room:
     authors:
       - name: Julia Qiu
         twitter: juliaqiuxy
@@ -152,7 +145,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-28
-    room:
     authors:
       - name: Simon Willison
         twitter: simonw
@@ -168,7 +160,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-28
-    room:
     authors:
       - name: Fouad Matin
         twitter: fouadmatin
@@ -184,7 +175,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-28
-    room:
     authors:
       - name: Jackie Luo
         twitter: jackiehluo
@@ -200,7 +190,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-28
-    room:
     authors:
       - name: Scott Tolinski
         twitter: stolinski
@@ -216,7 +205,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-28
-    room:
     authors:
       - name: Henry Zhu
         twitter: left_pad
@@ -231,7 +219,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-28
-    room:
     authors:
       - name: Jack Hanford
         twitter: jackhanford
@@ -246,7 +233,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-28
-    room:
     authors:
       - name: Jamie Kyle
         twitter: jamiebuilds

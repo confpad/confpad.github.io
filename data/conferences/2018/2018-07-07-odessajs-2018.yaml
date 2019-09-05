@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-07 09:30:00
-    room: Hall A
     authors:
       - name: GERARD SANS
         twitter: gerardsans
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-07 09:30:00
-    room: Hall B
     authors:
       - name: ARTEM ZAKHARCHENKO
         twitter: blackrabbit99
@@ -57,7 +55,6 @@ talks:
     lang: uk
     type: regular
     time: 2018-07-07 10:10:00
-    room: Hall A
     authors:
       - name: Roman Rodomansky
         twitter: itspoma
@@ -77,7 +74,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-07 10:10:00
-    room: Hall B
     authors:
       - name: Andrey Kucherenko
         twitter: a_kucherenko
@@ -93,7 +89,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-07 10:50:00
-    room: Hall A
     authors:
       - name: Ivan Jovanovic
         twitter: ivanjov96
@@ -109,7 +104,6 @@ talks:
     lang: uk
     type: regular
     time: 2018-07-07 10:50:00
-    room: Hall B
     authors:
       - name: Sergiy Babich
         twitter:
@@ -125,7 +119,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-07 11:35:00
-    room: Hall A
     authors:
       - name: Yuriy Sherstyuk
         twitter:
@@ -141,7 +134,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-07 11:35:00
-    room: Hall B
     authors:
       - name: Ksenia Redunova
         twitter:
@@ -157,7 +149,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-07 12:25:00
-    room: Hall A
     authors:
       - name: Nik Graf
         twitter: nikgraf
@@ -172,7 +163,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-07 12:25:00
-    room: Hall B
     authors:
       - name: Alex Migutsky
         twitter: mr_mig_by
@@ -188,7 +178,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-07 13:05:00
-    room: Hall A
     authors:
       - name: Rowdy Rabouw
         twitter: rowdyrabouw
@@ -204,7 +193,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-07 13:05:00
-    room: Hall B
     authors:
       - name: Valentine Mezentsev
         twitter: Mnilko
@@ -228,7 +216,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-07 14:45:00
-    room: Hall A
     authors:
       - name: Eyal Eizenberg
         twitter: EyalEizenberg
@@ -243,7 +230,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-07 14:45:00
-    room: Hall B
     authors:
       - name: Andrew Mykhaliuk
         twitter: AndreyCtkn
@@ -259,7 +245,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-07 15:25:00
-    room: Hall A
     authors:
       - name: Nikita Dubko
         twitter: dark_mefody
@@ -276,7 +261,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-07 15:25:00
-    room: Hall B
     authors:
       - name: Philip Shurpik
         twitter: philipshurpik
@@ -292,7 +276,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-07 16:15:00
-    room: Hall A
     authors:
       - name: Patrick Kettner
         twitter: patrickkettner
@@ -307,7 +290,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-07 16:55:00
-    room: Hall A
     authors:
       - name: David Kopal
         twitter: coding_lawyer
@@ -323,7 +305,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-07 16:55:00
-    room: Hall B
     authors:
       - name: Arkadiy Pilguk
         twitter:
@@ -339,7 +320,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-07 17:45:00
-    room: Hall A
     authors:
       - name: Ilya Ivanov
         twitter:
@@ -355,7 +335,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-07 17:45:00
-    room: Hall B
     authors:
       - name: Oleg Chorny
         twitter:
@@ -371,7 +350,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-07 18:25:00
-    room: Hall A
     authors:
       - name: Henning Muszynski
         twitter: henningmus
@@ -387,7 +365,6 @@ talks:
     lang: uk
     type: regular
     time: 2018-07-07 18:25:00
-    room: Hall B
     authors:
       - name: Denys Dovhan
         twitter: denysdovhan
@@ -404,7 +381,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-08
-    room: Hall A 09:30:00
     authors:
       - name: Gabriel Mičko
         twitter: gabriel_micko
@@ -420,7 +396,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-08
-    room: Hall B 09:30:00
     authors:
       - name: Mihail Zachepilo
         twitter:
@@ -436,7 +411,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-08 10:20:00
-    room: Hall A
     authors:
       - name: Viktor Turskyi
         twitter: koorchik
@@ -451,7 +425,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-08
-    room: Hall B
     authors:
       - name: Denis Artyuhovich
         twitter:
@@ -467,7 +440,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-08 11:00:00
-    room: Hall A
     authors:
       - name: Ivan Jovanovic
         twitter: ivanjov96
@@ -483,7 +455,6 @@ talks:
     lang: uk
     type: regular
     time: 2018-07-08 11:00:00
-    room: Hall B
     authors:
       - name: Ivan Goncharov
         twitter: E1Goncharov
@@ -499,7 +470,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-08 11:55:00
-    room: Hall A
     authors:
       - name: Rustam Aliyev
         twitter: rstml
@@ -519,7 +489,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-08 11:55:00
-    room: Hall B
     authors:
       - name: Savitskyi Roman
         twitter: sssrsav1
@@ -535,7 +504,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-08 12:35:00
-    room: Hall A
     authors:
       - name: Patrick Kettner
         twitter: patrickkettner
@@ -551,7 +519,6 @@ talks:
     lang: uk
     type: regular
     time: 2018-07-08 12:35:00
-    room: Hall B
     authors:
       - name: Leonid Baida
         twitter:
@@ -567,7 +534,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-08 13:15:00
-    room: Hall A
     authors:
       - name: Asim Hussain
         twitter: jawache
@@ -583,7 +549,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-08 14:45:00
-    room: Hall A
     authors:
       - name: Aleksandra Shinkevich
         twitter:
@@ -600,7 +565,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-08 14:45:00
-    room: Hall B
     authors:
       - name: Alex Troush
         twitter: troush69
@@ -616,7 +580,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-08 15:25:00
-    room: Hall A
     authors:
       - name: Valerii Sorokobatko
         twitter: tuchk4
@@ -632,7 +595,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-08 15:25:00
-    room: Hall B
     authors:
       - name: Oleksandr Skachkov
         twitter: alSkachkov
@@ -648,7 +610,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-08 16:10:00
-    room: Hall A
     authors:
       - name: Radoslav Stankov
         twitter: rstankov
@@ -664,7 +625,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-08 16:10:00
-    room: Hall B
     authors:
       - name: Valentyn Barmashyn
         twitter:
@@ -681,7 +641,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-08
-    room: Hall A 16:50:00
     authors:
       - name: Haroen Viaene
         twitter: haroenv
@@ -699,7 +658,6 @@ talks:
     lang: ru
     type: regular
     time: 2018-07-08 17:30:00
-    room: Hall A
     authors:
       - name: Denis Radin
         twitter: PixelsCommander
@@ -714,7 +672,6 @@ talks:
     lang: en
     type: regular
     time: 2018-07-08 18:10:00
-    room: Hall A
     authors:
       - name: Artem Zakharchenko
         twitter: blackrabbit99

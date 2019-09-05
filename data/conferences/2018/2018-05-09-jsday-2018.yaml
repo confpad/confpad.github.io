@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-09
-    room:
     authors:
       - name: Luigi De Rosa
         twitter: luruke
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-09
-    room:
     authors:
       - name: Irina Shestak
         twitter: _lrlna
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-09
-    room:
     authors:
       - name: Nir Noy
         twitter: noynir
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-09
-    room:
     authors:
       - name: Luciano Mammino
         twitter: loige
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-09
-    room:
     authors:
       - name: Maurizio Mangione
         twitter: granze
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-09
-    room:
     authors:
       - name: Liran Tal
         twitter: liran_tal
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-09
-    room:
     authors:
       - name: Chema Balsas
         twitter: jbalsas
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-09
-    room:
     authors:
       - name: Matteo Collina
         twitter: matteocollina
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-09
-    room:
     authors:
       - name: Guido D'Orsi
         twitter: sockhatso
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-09
-    room:
     authors:
       - name: Yann Leflour
         twitter: yleflour
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-09
-    room:
     authors:
       - name: Aurore Malherbes
         twitter: AuroreMa27
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-09
-    room:
     authors:
       - name: Vitalii Bobrov
         twitter: bobrov1989
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Paul Verbeek-Mast
         twitter: paul_v_m
@@ -234,7 +221,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Francesco Strazzullo
         twitter: TheStrazz86
@@ -250,7 +236,6 @@ talks:
     lang: en
     type: workshop
     time: 2018-05-10
-    room:
     authors:
       - name: Ivan Jovanovic
         twitter: ivanjov96
@@ -266,7 +251,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Jonni Nakari
         twitter: JonniNakari
@@ -282,7 +266,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Nara Kasbergen
         twitter: xiehan
@@ -298,7 +281,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Maja Wichrowska
         twitter: majapw
@@ -314,7 +296,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Liran Tal
         twitter: liran_tal
@@ -330,7 +311,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Vitalii Bobrov
         twitter: bobrov1989
@@ -346,7 +326,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Fredrik Rubensson
         twitter: froderik
@@ -362,7 +341,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Máté Nádasdi
         twitter: matenadasdi
@@ -378,7 +356,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: William Durand
         twitter: couac
@@ -394,7 +371,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Brian Holt
         twitter: holtbt
@@ -410,7 +386,6 @@ talks:
     lang: en
     type: regular
     time: 2018-05-10
-    room:
     authors:
       - name: Keyfer Mathewson
         twitter: Keyfermath

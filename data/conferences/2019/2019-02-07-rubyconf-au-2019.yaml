@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: RubyConf AU 2019
   status: complete
   series: rubyconf.org.au
@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-07
-    room:
     authors:
       - name: Nadia Odunayo
         twitter: nodunayo
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-07
-    room:
     authors:
       - name: Heidi Waterhouse
         twitter: wiredferret
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-07
-    room:
     authors:
       - name: Dávid Halász
         twitter: halaszdavid
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-07
-    room:
     authors:
       - name: Tom Stuart
         twitter: tomstuart
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-07
-    room:
     authors:
       - name: Daniel Fone
         twitter: danielfone
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-07
-    room:
     authors:
       - name: Laura Mosher
         twitter: LauraTrev
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-07
-    room:
     authors:
       - name: Kelly Sutton
         twitter: kellysutton
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-07
-    room:
     authors:
       - name: Betsy Haibel
         twitter: betsythemuffin
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-07
-    room:
     authors:
       - name: Tekin Süleyman
         twitter: brilimitless
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-07
-    room:
     authors:
       - name: Merrin Macleod
         twitter: commerxplat
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Eliza Sorensen
         twitter: Zemmiph0bia
@@ -206,11 +195,10 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Keith Pitty
         twitter: keithpitty
-        github: 
+        github:
         website:
     slides:
     videos:
@@ -222,7 +210,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Tim Riley
         twitter: timriley
@@ -238,7 +225,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Mila Dymnikova
         twitter: milameow1
@@ -254,7 +240,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: John Sawers
         twitter: emotionalapi
@@ -270,7 +255,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Elle Meredith
         twitter: aemeredith
@@ -286,7 +270,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Tom Ridge
         twitter: tjridge
@@ -302,7 +285,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Tom Gamon
         twitter: thrgamon
@@ -318,7 +300,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Kelsey Pedersen
         twitter: kelsey_pedersen
@@ -334,7 +315,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Adam Cuppy
         twitter: adamcuppy
@@ -344,13 +324,12 @@ talks:
     videos:
       - https://youtu.be/Btsx9YzhJVM
     description: |-
-      Adam is _not_ a Fortune 500 CEO, award-winning book author, or Nobel Prize recipient. But, he’s an actor turned software engineer who co-founded [ZEAL](https://codingzeal.com), a people-centric process-focused consulting company located around the United States. 
+      Adam is _not_ a Fortune 500 CEO, award-winning book author, or Nobel Prize recipient. But, he’s an actor turned software engineer who co-founded [ZEAL](https://codingzeal.com), a people-centric process-focused consulting company located around the United States.
 
   - title: Cats, The Musical! Algorithmic Song Meow-ification
     lang: en
     type: regular
     time: 2019-02-08
-    room:
     authors:
       - name: Beth Haubert
         twitter: haubertdashery
@@ -364,4 +343,4 @@ talks:
 
 
 
-  
+

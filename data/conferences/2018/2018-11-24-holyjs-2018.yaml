@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-24
-    room:
     authors:
       - name: Michel Weststrate
         twitter: mweststrate
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-24
-    room:
     authors:
       - name: Kirill Cherkashin
         twitter: kirjs
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-24
-    room:
     authors:
       - name: Egor Malkevich
         twitter: wegorelax
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-24
-    room:
     authors:
       - name: Kamil Myśliwiec
         twitter: kammysliwiec
@@ -88,7 +84,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-24
-    room:
     authors:
       - name: Maxim Salnikov
         twitter: webmaxru
@@ -103,7 +98,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-24
-    room:
     authors:
       - name: Stas Kurilov
         twitter:
@@ -118,7 +112,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-24
-    room:
     authors:
       - name: Thomas Watson
         twitter: wa7son
@@ -133,7 +126,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-24
-    room:
     authors:
       - name: Pavel Chertorogov
         twitter: nodkz
@@ -148,7 +140,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-24
-    room:
     authors:
       - name: Vsevolod Rodionov
         twitter: jabher
@@ -163,7 +154,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-24
-    room:
     authors:
       - name: Marko Letic
         twitter: NisamProgramer
@@ -178,7 +168,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-24
-    room:
     authors:
       - name: Alexander Korotaev
         twitter: mamu_eval
@@ -193,7 +182,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-24
-    room:
     authors:
       - name: Victor Vershanskij
         twitter: went_out
@@ -208,7 +196,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-24
-    room:
     authors:
       - name: Theodore Vorillas
         twitter:
@@ -223,7 +210,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-24
-    room:
     authors:
       - name: Mattias Petter Johansson
         twitter: mpjme
@@ -237,7 +223,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-25
-    room:
     authors:
       - name: Victor Grishchenko
         twitter: gritzko

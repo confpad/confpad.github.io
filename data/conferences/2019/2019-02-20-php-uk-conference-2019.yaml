@@ -19,14 +19,13 @@
     city: London
   description: |-
     We are pleased to present the 14th Annual PHP UK Conference. An optional workshop day followed by two days of amazing talks, plentiful networking opportunities and great socials. PHP UK offers the most up-to-date PHP information and training.
-  
+
 talks:
 
   - title: "Your App Lives on a Network: Networking for Web Developers"
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Wim Godden
         twitter:
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Rob Waller
         twitter:
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Demin Yin
         twitter:
@@ -74,9 +71,8 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
-      - name: Stephan Hochdorfer 
+      - name: Stephan Hochdorfer
         twitter:
         github:
         website:
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Tomasz Kowalczyk
         twitter:
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Thijs Feryn
         twitter:
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Scott Dutton
         twitter:
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Paul Verbeek Mast
         twitter:
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Neal Brooks
         twitter:
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Michiel Rook
         twitter:
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Liam Wiltshire
         twitter:
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Katerina Trajchevska
         twitter:
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Kat Zien
         twitter:
@@ -234,7 +221,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Gabriela D'Avila Ferrara
         twitter:
@@ -250,7 +236,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Adam Culp
         twitter:
@@ -266,7 +251,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Derick Rethans
         twitter:
@@ -282,7 +266,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: David Stokes
         twitter:
@@ -298,7 +281,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Chris Riley
         twitter:
@@ -314,7 +296,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Anthony Ferrara
         twitter:
@@ -330,7 +311,6 @@ talks:
     lang: en
     type: regular
     time: 2019-02-20
-    room: The Brewery
     authors:
       - name: Michael Cullum
         twitter:

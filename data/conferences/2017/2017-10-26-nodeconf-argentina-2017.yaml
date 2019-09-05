@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-27
-    room:
     authors:
       - name: Mathias Bynens
         twitter: mathias
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-27
-    room:
     authors:
       - name: Kassandra Perch
         twitter: nodebotanist
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-27
-    room:
     authors:
       - name: Bert Spaan
         twitter: bertspaan
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-27
-    room:
     authors:
       - name: Felipe Torres
         twitter: fforres
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-27
-    room:
     authors:
       - name: Karissa McKelvey
         twitter: okdistribute
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-27
-    room:
     authors:
       - name: Daniel Gimenez
         twitter: idanielgimenez
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-27
-    room:
     authors:
       - name: Leonardo Crespo
         twitter: leogcrespo
@@ -138,7 +131,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-27
-    room:
     authors:
       - name: Julian Duque
         twitter: julian_duque
@@ -154,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-27
-    room:
     authors:
       - name: Yamil Asusta
         twitter: Yamil Asusta
@@ -170,7 +161,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-28
-    room:
     authors:
       - name: Arunesh Chandra
         twitter: AruneshC
@@ -186,7 +176,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-28
-    room:
     authors:
       - name: Claudia Hernández
         twitter: koste4
@@ -202,7 +191,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-28
-    room:
     authors:
       - name: Thomas Hunter II
         twitter: tlhunter
@@ -218,7 +206,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-28
-    room:
     authors:
       - name: Michelle Garrett
         twitter: msmichellegar
@@ -234,7 +221,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-27
-    room:
     authors:
       - name: Jeff Lembeck
         twitter: jefflembeck
@@ -250,7 +236,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-28
-    room:
     authors:
       - name: Ravi Kolli
         twitter: raviskolli
@@ -266,7 +251,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-28
-    room:
     authors:
       - name: Kat Marchán
         twitter: maybekatz
@@ -282,7 +266,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-28
-    room:
     authors:
       - name: Daniel Khan
         twitter: dkhan
@@ -298,7 +281,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-28
-    room:
     authors:
       - name: Guillermo Paz
         twitter: pazguille
@@ -314,7 +296,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-28
-    room:
     authors:
       - name: Anshul Bhagi
         twitter: anshulbhagi
@@ -334,7 +315,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-28
-    room:
     authors:
       - name: Athan Reines
         twitter: kgryte
@@ -350,7 +330,6 @@ talks:
     lang: en
     type: regular
     time: 2017-10-27
-    room:
     authors:
       - name: Mariano Vazquez
         twitter: nanovazquez87

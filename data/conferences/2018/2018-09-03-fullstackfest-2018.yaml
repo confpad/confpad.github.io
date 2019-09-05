@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-03
-    room:
     authors:
       - name: André Staltz
         twitter: andrestaltz
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-03
-    room:
     authors:
       - name: Kalyan Dikshit
         twitter: decode_dev
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-03
-    room:
     authors:
       - name: Horea Porutiu
         twitter: horeaporutiu
@@ -72,7 +69,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-03
-    room:
     authors:
       - name: Rae Krantz
         twitter: rustbeltrae
@@ -87,7 +83,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-03
-    room:
     authors:
       - name: Prabh Simran Singh Baweja
         twitter: prabh_baweja
@@ -102,7 +97,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-03
-    room:
     authors:
       - name: Adam L Smith
         twitter: adamleonsmith
@@ -117,7 +111,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-03
-    room:
     authors:
       - name: Sasha Romijn
         twitter: mxsash
@@ -132,7 +125,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-03
-    room:
     authors:
       - name: Silvia Puglisi
         twitter: nopressure
@@ -147,7 +139,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Charity Majors
         twitter: mipsytipsy
@@ -162,7 +153,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Matt Turner
         twitter: mt165pro
@@ -177,7 +167,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Michael Hamrah
         twitter: mhamrah
@@ -192,7 +181,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Tom Enden
         twitter: tom_enden
@@ -207,7 +195,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Jeremy Wagner
         twitter: malchata
@@ -222,7 +209,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Bernd Rücker
         twitter: berndruecker
@@ -237,7 +223,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-09-04
-    room:
     authors:
     slides:
     videos:
@@ -248,7 +233,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-04
-    room:
     authors:
       - name: Beth Haubert
         twitter: haubertdashery
@@ -263,7 +247,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-06
-    room:
     authors:
       - name: Tara Vancil
         twitter: taravancil
@@ -278,7 +261,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-06
-    room:
     authors:
       - name: Patrick Hamann
         twitter: patrickhamann
@@ -293,7 +275,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-06
-    room:
     authors:
       - name: Sia Karamalegos
         twitter: thegreengreek
@@ -308,7 +289,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-06
-    room:
     authors:
       - name: Serg Hospodarets
         twitter: malyw
@@ -323,7 +303,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-06
-    room:
     authors:
       - name: LeRenzo Malcom
         twitter: lerenzom
@@ -338,7 +317,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-06
-    room:
     authors:
       - name: David Khourshid
         twitter: davidkpiano
@@ -353,7 +331,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-06
-    room:
     authors:
       - name: Susanna Wong
         twitter: studioswong
@@ -368,7 +345,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-06
-    room:
     authors:
       - name: Andrew Louis
         twitter: hyfen
@@ -383,7 +359,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-07
-    room:
     authors:
       - name: Mauricio Palma
         twitter: palmaswell
@@ -398,7 +373,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-07
-    room:
     authors:
       - name: Suby Raman
         twitter: subyraman
@@ -413,7 +387,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-07
-    room:
     authors:
       - name: Krystian Czesak
         twitter: krystosterone
@@ -428,7 +401,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-07
-    room:
     authors:
       - name: Zack Argyle
         twitter: zackargyle
@@ -443,7 +415,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-07
-    room:
     authors:
       - name: Timothy Clifford
         twitter: timothyclifford
@@ -458,7 +429,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-07
-    room:
     authors:
       - name: Miriam Suzanne
         twitter: mirisuzanne
@@ -473,7 +443,6 @@ talks:
     lang: en
     type: regular
     time: 2018-09-07
-    room:
     authors:
       - name: Diego González
         twitter:
@@ -492,7 +461,6 @@ talks:
     lang: en
     type: lightning
     time: 2018-09-07
-    room:
     authors:
     slides:
     videos:

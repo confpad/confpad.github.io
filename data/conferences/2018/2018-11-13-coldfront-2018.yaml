@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Sarah Drasner
         twitter: sarah_edo
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Michael Flarup
         twitter: flarup
@@ -59,7 +57,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Brent Vatne
         twitter: notbrent
@@ -75,7 +72,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Michael Thomsen
         twitter: MiSvTh
@@ -91,7 +87,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Tony Beltramelli
         twitter: Tbeltramelli
@@ -110,7 +105,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Hans Ravnkjær Larsen
         twitter: hrlarsen_dk
@@ -125,7 +119,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Lars Cimber
         twitter:
@@ -145,7 +138,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: srdanrasic
         twitter: Srđan Rašić
@@ -161,7 +153,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Harry Roberts
         twitter: csswizardry
@@ -178,7 +169,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Shirley Wu
         twitter: sxywu
@@ -195,7 +185,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-13
-    room:
     authors:
       - name: Vitaly Friedman
         twitter: smashingmag
@@ -212,7 +201,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-14
-    room:
     authors:
       - name: Sara Soueidan
         twitter: SaraSoueidan
@@ -229,7 +217,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-14
-    room:
     authors:
       - name: Jessica Liu
         twitter:
@@ -244,7 +231,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-14
-    room:
     authors:
       - name: Myles Borins
         twitter: Myles Borins
@@ -260,7 +246,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-14
-    room:
     authors:
       - name: Charlie Gerard
         twitter: devdevcharlie
@@ -276,7 +261,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-14
-    room:
     authors:
       - name: Daniel Pouzemski
         twitter:
@@ -295,7 +279,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-14
-    room:
     authors:
       - name: Hans Ravnkjær Larsen
         twitter:
@@ -310,7 +293,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-14
-    room:
     authors:
       - name: Sune Simonsen
         twitter: Sune Simonsen
@@ -327,7 +309,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-14
-    room:
     authors:
       - name: Kenneth Christiansen
         twitter: kennethrohde
@@ -343,7 +324,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-14
-    room:
     authors:
       - name: Holger Bartel
         twitter: foobartel
@@ -360,7 +340,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-14
-    room:
     authors:
       - name: Jacob Rossi
         twitter: jacobrossi
@@ -377,7 +356,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-14
-    room:
     authors:
       - name: Mina Markham
         twitter: Mina Markham

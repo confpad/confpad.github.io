@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Chris Heilmann
         twitter: codepo8
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Ada Rose Cannon
         twitter: Lady_Ada_King
@@ -56,7 +54,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Alex Lakatos
         twitter: lakatos88
@@ -71,7 +68,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Anna Migas
         twitter: szynszyliszys
@@ -86,7 +82,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Liliana Kastilio
         twitter: lilianakastilio
@@ -101,7 +96,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Andrico Karoulla
         twitter: AndricoKaroulla
@@ -116,7 +110,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Stephen Cook
         twitter:
@@ -131,7 +124,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Sean McGee
         twitter: HertsWestUK
@@ -146,7 +138,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Jonathan Fielding
         twitter: JonthanFielding
@@ -161,7 +152,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Rob Bateman
         twitter: robnet
@@ -176,7 +166,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Carolyn Stransky
         twitter: carolstran
@@ -191,7 +180,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Tom Dye
         twitter: tmdye
@@ -210,7 +198,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Cameron Diver
         twitter: Cameron_Diver
@@ -229,7 +216,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Jani Eväkallio
         twitter: jevakallio
@@ -244,7 +230,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Tony Edwards
         twitter: tonyedwardspz
@@ -259,7 +244,6 @@ talks:
     lang: en
     type: regular
     time: 2017-11-16
-    room:
     authors:
       - name: Joe Hart
         twitter:

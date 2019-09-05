@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-07
-    room:
     authors:
       - name: Jake Archibald
         twitter: jaffathecake
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-07
-    room:
     authors:
       - name: Una Kravets
         twitter: una
@@ -62,7 +60,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-07
-    room:
     authors:
       - name: Umar Hansa
         twitter: umaar
@@ -78,7 +75,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-07
-    room:
     authors:
       - name: Rachel Andrew
         twitter: rachelandrew
@@ -94,7 +90,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-07
-    room:
     authors:
       - name: Andy Davies
         twitter: andydavies
@@ -110,7 +105,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-07
-    room:
     authors:
       - name: Allison McKnight
         twitter: aemcknig
@@ -126,7 +120,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-07
-    room:
     authors:
       - name: Yoav Weiss
         twitter: yoavweiss
@@ -142,7 +135,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-07
-    room:
     authors:
       - name: Emily Hayman
         twitter: eehayman
@@ -158,7 +150,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-08
-    room:
     authors:
       - name: Ilya Grigorik
         twitter: igrigorik
@@ -175,7 +166,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-08
-    room:
     authors:
       - name: Patrick Meenan
         twitter: patmeenan
@@ -191,7 +181,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-08
-    room:
     authors:
       - name: Katie Hempenius
         twitter: katiehempenius
@@ -207,7 +196,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-08
-    room:
     authors:
       - name: Zach Leatherman
         twitter: zachleat
@@ -223,7 +211,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-08
-    room:
     authors:
       - name: Phil Hawksworth
         twitter: philhawksworth
@@ -239,7 +226,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-08
-    room:
     authors:
       - name: Mathias Bynens
         twitter: mathias
@@ -255,7 +241,6 @@ talks:
     lang: en
     type: regular
     time: 2018-02-08
-    room:
     authors:
       - name: Christian Heilmann
         twitter: codepo8

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: workshop
     time: 2018-04-24
-    room: Paasitorni Congress Hall, Paasivuorenkatu 5 A, Helsinki
     authors:
       - name: Artem Sapegin
         twitter: iamsapegin
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-25 16:45:00
-    room:
     authors:
       - name: Andrey Ockonetchnikov
         twitter: ockonetchnikov
@@ -57,7 +55,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-25 10:00:00
-    room:
     authors:
       - name: Christian Alfoni
         twitter: christianalfoni
@@ -73,7 +70,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26 12:30:00
-    room:
     authors:
       - name: David Khourshid
         twitter: DavidKPiano
@@ -89,7 +85,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-25 11:20:00
-    room:
     authors:
       - name: Eemeli Aro
         twitter: Eemeli_Aro
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-25 17:15:00
-    room:
     authors:
       - name: Eemeli Aro
         twitter: Eemeli_Aro
@@ -120,7 +114,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26 15:45:00
-    room:
     authors:
       - name: Gant Laborde
         twitter: GantLaborde
@@ -136,7 +129,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-25 09:15:00
-    room:
     authors:
       - name: Jani Eväkallio
         twitter: jevakallio
@@ -152,7 +144,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26 09:45:00
-    room:
     authors:
       - name: Juho Vepsäläinen
         twitter: bebraw
@@ -168,7 +159,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-25 12:30:00
-    room:
     authors:
       - name: Kasia Jastrzębska
         twitter: kejt_bw
@@ -184,7 +174,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26 09:15:00
-    room:
     authors:
       - name: Ken Wheeler
         twitter: ken_wheeler
@@ -200,7 +189,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26 14:45:00
-    room:
     authors:
       - name: Michał Chudziak
         twitter:
@@ -216,7 +204,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-25
-    room:
     authors:
       - name: Michel Weststrate
         twitter: mweststrate
@@ -231,7 +218,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26 10:15:00
-    room:
     authors:
       - name: Nik Graf
         twitter: nikgraf
@@ -247,7 +233,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26 11:00:00
-    room:
     authors:
       - name: Patrick Stapfer
         twitter: ryypyy
@@ -263,7 +248,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-25 11:10:00
-    room:
     authors:
       - name: Patrick Hund
         twitter: wiekatz
@@ -279,7 +263,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-25 15:45:00
-    room:
     authors:
       - name: Rotem Mizrachi-Meidan
         twitter: rotemmiz
@@ -295,7 +278,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-25 14:45:00
-    room:
     authors:
       - name: Sara Vieira
         twitter: NikkitaFTW
@@ -311,7 +293,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26 13:30:00
-    room:
     authors:
       - name: Shay Keinan
         twitter: Shay_Keinan
@@ -327,7 +308,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-25 13:30:00
-    room:
     authors:
       - name: Sia Karamalegos
         twitter: thegreengreek
@@ -343,7 +323,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-25 17:00:00
-    room:
     authors:
       - name: Sven Sauleau
         twitter: svensauleau
@@ -359,7 +338,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26 15:15:00
-    room:
     authors:
       - name: Toni Ristola
         twitter: toniristola
@@ -375,7 +353,6 @@ talks:
     lang: en
     type: regular
     time: 2018-04-26 16:45:00
-    room:
     authors:
       - name: Varya Stepanova
         twitter: varya_en

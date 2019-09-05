@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-18
-    room:
     authors:
       - name: Illya Klymov
         twitter: xanf_ua
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-18
-    room:
     authors:
       - name: Sergiy Babich
         twitter: babichss
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-18
-    room:
     authors:
       - name: Mykhailo Churilov
         twitter:
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-18
-    room:
     authors:
       - name: Andrey Listochkin
         twitter: listochkin
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-18
-    room:
     authors:
       - name: Ekaterina Lizogubova
         twitter: KatyaLizogubova
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-18
-    room:
     authors:
       - name: Anton Nemtsev
         twitter: SilentImp
@@ -122,7 +116,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-18
-    room:
     authors:
       - name: Jan Jongboom
         twitter: janjongboom
@@ -148,7 +141,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-18
-    room:
     authors:
       - name: Anton Nemtsev
         twitter: SilentImp
@@ -164,7 +156,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-18
-    room:
     authors:
       - name: Vladimir Zaets
         twitter: ZaetsVladimir
@@ -180,7 +171,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-18
-    room:
     authors:
       - name: Gregory Shehet
         twitter: AGambit95
@@ -196,7 +186,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-18
-    room:
     authors:
       - name: Noam Rosenthal
         twitter: realnoam
@@ -212,7 +201,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-18
-    room:
     authors:
       - name: Feross Aboukhadijeh
         twitter: feross
@@ -228,7 +216,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-18
-    room:
     authors:
       - name: Helen zhukova
         twitter: return_hz
@@ -244,7 +231,6 @@ talks:
     lang: en
     type: regular
     time: 2017-03-18
-    room:
     authors:
       - name: Jan Jongboom
         twitter: janjongboom
@@ -260,7 +246,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-18
-    room:
     authors:
       - name: Artem Yavorsky
         twitter: yavorsky_
@@ -276,7 +261,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-18
-    room:
     authors:
       - name: Oleksandr Skachkov
         twitter: El_Extremal
@@ -292,7 +276,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-18
-    room:
     authors:
       - name: Vitalii Ratushnyi
         twitter:
@@ -308,7 +291,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-18
-    room:
     authors:
       - name: Andrii Kanunnikov
         twitter:
@@ -324,7 +306,6 @@ talks:
     lang: en
     type: lightning
     time: 2017-03-18
-    room:
     authors:
       - name: Sergey Melashych
         twitter:

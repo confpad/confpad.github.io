@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Uri Goldshtein
         twitter: UriGoldshtein
@@ -41,7 +40,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Niels Schweisshelm
         twitter:
@@ -55,7 +53,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Sebastian Golasch
         twitter:
@@ -69,7 +66,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Domenico Gemoli
         twitter: aberonni
@@ -83,7 +79,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Wim Selles
         twitter: wswebcreation
@@ -97,7 +92,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Lea Verou
         twitter: LeaVerou
@@ -112,7 +106,6 @@ talks:
     lang: en
     type: regular
     time: 2018-03-29
-    room:
     authors:
       - name: Andre Staltz
         twitter: andrestaltz
@@ -127,7 +120,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: George Mandis
         twitter: georgeMandis
@@ -141,7 +133,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Rowdy Rabouw
         twitter: RowdyRabouw
@@ -155,7 +146,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Tianyu Pu
         twitter:
@@ -169,7 +159,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Ruben van der Leun
         twitter: rvdleun
@@ -184,7 +173,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Jessica Jordan
         twitter: jjordan_dev
@@ -198,7 +186,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Rafael Fernandes
         twitter:
@@ -212,7 +199,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Chris Lilley
         twitter:
@@ -227,7 +213,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Piotr Ilczuk
         twitter: pilczuk
@@ -241,7 +226,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Beth Haubert
         twitter: haubertdashery
@@ -255,7 +239,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Pavlik Kiselev
         twitter:
@@ -269,7 +252,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Bill Jensen
         twitter: simpletonbill
@@ -284,7 +266,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Jouke Visser
         twitter: Jouke Visser
@@ -298,7 +279,6 @@ talks:
     lang: en
     type: regular
     time: 2018-11-16
-    room:
     authors:
       - name: Mikhail Bashkirov Web
         twitter: bashmish

@@ -26,7 +26,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-17
-    room: LA NAVE
     authors:
       - name: Javier Abadía
         twitter: javierabadia
@@ -42,7 +41,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-17
-    room: LA NAVE
     authors:
       - name: Iván Abascal
         twitter: abalozz
@@ -58,7 +56,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-17
-    room: LA NAVE
     authors:
       - name: Ramón Guijarro
         twitter: soyguijarro
@@ -74,7 +71,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-17
-    room: LA NAVE
     authors:
       - name: Ramón Guijarro
         twitter: ladybenko
@@ -90,7 +86,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-17
-    room: LA NAVE
     authors:
       - name: Carlos Mañas
         twitter: oneeyedman
@@ -106,7 +101,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-17
-    room: LA NAVE
     authors:
       - name: Joan León
         twitter: nucliweb
@@ -126,7 +120,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-17
-    room: LA NAVE
     authors:
       - name: Vicente Lucendo
         twitter: vlucendo
@@ -142,7 +135,6 @@ talks:
     lang: es
     type: regular
     time: 2017-02-17
-    room: LA NAVE
     authors:
       - name: Eduardo Sada
         twitter: aeroalquimia

@@ -57,7 +57,7 @@ const INFO_DATE_KEYS = ['from', 'to'];
 const INFO_LOCATION_KEYS = ['country', 'city'];
 
 // Conference talk
-const TALK_ROOT_KEYS = ['title', 'lang', 'type', 'time', 'room', 'authors', 'slides', 'videos', 'description'];
+const TALK_ROOT_KEYS = ['title', 'lang', 'type', 'time', 'authors', 'slides', 'videos', 'description'];
 const TALK_AUTHOR_KEYS = ['name', 'twitter', 'github', 'website'];
 const TALK_TYPES = ['regular', 'lightning', 'workshop'];
 

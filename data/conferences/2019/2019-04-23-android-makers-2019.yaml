@@ -1,5 +1,5 @@
 ﻿conference:
-    
+
   name: Android Makers 2019
   status: complete
   series: androidmakers.fr
@@ -21,19 +21,18 @@
     Where the Android dream comes true. Android Makers brings in Paris the world class experts in Android for 2 days of sessions, workshops and showcases.
 
 talks:
-    
+
   - title: Pragmatic crafting
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Florina Muntenescu
         twitter: FMuntenescu
         github: barancev
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/Z9h_nLwJuSQ
     description: |-
       Our responsibility as developers is to ship high quality features in a timely manner. But there are many factors which can hinder development: from tightly coupled, untested codebases, to differences between team members in architecture visions and API knowledge, to time pressure. We tend to look at app development from one point of view: the code. But the team that writes that code is as important as the code, so we need to work on architecting a good, solid team as well, making sure that we create a common language in the team, a shared vision and an environment where team members learn and communicate freely.In this talk, I’m going to cover some of the lessons I learned along the way and show how we, a team of four, applied them in rewriting Plaid - an open source app, initially created to showcase Material Design. We’ll see how intertwined the code and the team were for the project.
@@ -42,14 +41,13 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Ty Smith
         twitter: tsmith
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/O-brn0YZzfU
     description: |-
       Many teams are designed so that engineers can take an abstract view of the customer and focus on implementation. But when the customers are other engineers, that entire dynamic is thrown on its head.In this talk, Ty will walk you through the best practices of building great products for developers, from team processes to the technical delivery.Topics covered will include: Building customer personas and product strategies, Developer Experience research and analytics, customer empathy and support structures, API Design and usability, testing, code distribution, and creating great documentation.
@@ -58,14 +56,13 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Zsolt Kocsi
         twitter: ZsoltKocsi
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/pXw6r2kAvq8
     description: |-
       At Badoo, we have a long history when it comes to Android development. Since the beginning, the product has experienced huge growth, and our codebase and our team have grown with it. We now have over 400 million registrations, as well as several new apps to support. Over the years we’ve tried MVP, Clean architecture, MVI, and many more approaches, some of them brewed in-house. In this talk we’ll go on an architectural journey and discuss some of the major problems we needed to find solutions for in the last few years, before ending on what is ahead of us.
@@ -74,14 +71,13 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Marcos Holgado
         twitter: orbycius
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/--YhngXykD4
     description: |-
       Let’s face it, we waste a lot of time on things that don't add any value. Maybe you use the same pattern in different places and copy&paste the same files over and over. Probably the same happens whenever you create a new app or module. What about all the time that you spend in Jira or other tools on tasks like moving tickets or logging time?. What if you could automate all that? Well, you can, and I’m going to show you how by writing your own Android Studio Plugin.In this talk you will learn how to create a new Android Studio Plugin using Kotlin, create templates to generate code automatically, write live templates to insert frequently-used constructors in your code, easily integrate Android Studio with Jira or other tools, create a brand new full App in minutes using feature modules and much more.
@@ -90,14 +86,13 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Bruno Verachten
         twitter: poddingue
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/UJE7cQSC-4M
     description: |-
       What if you could answer all these questions with the help of a low cost device farm that fits into a pocket? A pocket full of clouds…Poddingue, our proposal, aims to tackle this problem thanks to Docker, HypriotOS, Armbian, Gitlab CI and OpenSTF. It’s an internal solution made of OSS readily available, but it has not yet been publicly announced as a whole.At the end of the talk, you should know how to build your own cloudy pocket farm of Android devices and how to use it to test your applications within your ci pipeline.
@@ -106,7 +101,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Chet Haase
         twitter: chethaase
@@ -117,7 +111,7 @@ talks:
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/cHnmiHZYnvE
     description: |-
       Kotlin offers many powerful language features that make it a welcome addition to the Android developer's toolkit. But some of these features may do significant work behind the scenes, including allocating object and reflection. This dynamic is not obvious from the Kotlin code, so how do we know when this is happening? This talk will go over some of these areas that you should be aware of, as well as the tools that help us discover this kind of information about our code.
@@ -126,14 +120,13 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Jeroen Mols
         twitter: molsjeroen
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/VkFcJZWtufA
     description: |-
       In this talk you will learn that if releasing is painful, you should actually release even more often. Step by step I'll explain how we moved the Philips Hue Android app to continuous deployment, what our current release process/CI looks like, what changes we made to our overall testing approach, how we empowered developers and testers, and how we made our release process completely painless.
@@ -142,7 +135,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Quentin HUET
         twitter:
@@ -153,7 +145,7 @@ talks:
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/1XEWL8j5kyI
     description: |-
       L’internationalisation est un sujet complexe comprenant de nombreuses problématiques que beaucoup de startups rencontrent mais priorisent peu dans leurs premières années d'existence.Rejoignez nous pour découvrir comment nous sommes passés d’une app pensée pour la France à une app prête à être utilisée dans le monde entier.Nous verrons entre autre comment gérer intelligemment les devises, traductions, timezones/dates et distances, ou encore comment activer ou non des fonctionnalités en fonction de la location des utilisateurs
@@ -162,14 +154,13 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Marc Poppleton
         twitter: marcpoppleton
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/r1NqxigqjLA
     description: |-
       Android has a new API called Slices which is part of the AndroidX libraries. I'll show you how you can use it to serve slices of your app to any other apps like Google Search or Assistant but also any other app and in any Android desert you love.
@@ -178,14 +169,13 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Louis CAD
         twitter: Louis_CAD
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/P1eeS6DQ5Uo
     description: |-
       There's been attempts to circumvent these issues with AsyncTask (no comment), Futures (from JDK, Guava, and more), Tasks API (from Google Play Services), reactive programming (e.g. RxJava used for threading and callbacks), and none solves all the issues mentioned above.Kotlin coroutines are changing the game with an implementation of the nearly 60 years old concept that brings back the simplicity of blocking code, without the blocking issue.In this talk, you'll see how any waiting or blocking code can be made easier to write and read.You'll learn how to use kotlinx.coroutines correctly in Android, and peek at how it all works.
@@ -194,14 +184,13 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Pierre-Yves Ricau
         twitter: Piwai
         github: pyricau
         website:
     slides:
-    videos: 
+    videos:
       - https://youtu.be/LEX8dn4BLUw
     description: |-
       LeakCanary 2 Alpha 1 will be released right before this talk, come learn about hot new features, crazy improvements and gnarly implementation details!LeakCanary 1 helped detect memory leaks but had several issues: constant freeze of the UI, OOM crashes while analyzing, results hard to analyze, a confusing API, and an ugly logo.No more! Come learn about multiple leak detection, leak grouping, smarter analysis results, counting leaks in production, detecting leaks in UI tests... and much more!
@@ -210,7 +199,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Mounir Boudraa
         twitter: _mboudraa
@@ -226,14 +214,13 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Adrien Grassein
         twitter:
         github:
         website:
     slides:
-    videos: 
+    videos:
       - https://github.com/grassead
     description: |-
       https://youtu.be/iPPBG1dij1w?list=PLn7H9CUCuXAu5r4kT8RcK8B2GuBqMODX3&t=1
@@ -242,7 +229,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Nicolas Roard
         twitter: camaelon
@@ -262,7 +248,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Sebastiano Poggi
         twitter: seebrock3r
@@ -272,13 +257,12 @@ talks:
     videos:
       - https://youtu.be/ZKJiXmIu06c
     description: |-
-      In this session, we'll cover how elevation works on Android. From an overview of the available APIs, seeing what is new in Android P, and getting to the nitty gritty of how shadows are rendered on HWUI and Skia. Lastly, we'll learn how to take advantage of the existing APIs and work within their limitations to obtain original and unique results.This talk follows the track of existing blog article(s) on the topic: 
+      In this session, we'll cover how elevation works on Android. From an overview of the available APIs, seeing what is new in Android P, and getting to the nitty gritty of how shadows are rendered on HWUI and Skia. Lastly, we'll learn how to take advantage of the existing APIs and work within their limitations to obtain original and unique results.This talk follows the track of existing blog article(s) on the topic:
 
   - title: Coroutines, a new scope
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Florina Muntenescu
         twitter: FMuntenescu
@@ -296,7 +280,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Léna Ndiaye
         twitter: AnnetLenaNDIAYE
@@ -312,7 +295,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Anita Singh
         twitter: anitas3791
@@ -328,7 +310,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Doug Stevenson
         twitter: CodingDoug
@@ -344,7 +325,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Jonathan Salamon
         twitter: J_TheFrench
@@ -360,7 +340,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Rebecca Franks
         twitter: riggaroo
@@ -376,7 +355,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Danny Preussler
         twitter: PreusslerBerlin
@@ -392,7 +370,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Hoi Lam
         twitter: hoitab
@@ -408,7 +385,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Michaël Ohayon
         twitter: mikkl
@@ -424,7 +400,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Nick Butcher
         twitter: crafty
@@ -440,7 +415,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Ben Weiss
         twitter: keyboardsurfer
@@ -456,7 +430,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Fred Porciúncula
         twitter: tfcporciuncula
@@ -472,7 +445,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Pierre Crépieux
         twitter: PCrepieux
@@ -488,7 +460,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Magda Miu
         twitter: magdamiu
@@ -504,7 +475,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Wojciech Dziemianczyk
         twitter: wdziemia
@@ -518,7 +488,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: David Fournier
         twitter:
@@ -534,7 +503,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Lorica Claesson
         twitter: lorica
@@ -550,7 +518,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-23
-    room:
     authors:
       - name: Hugo Hache
         twitter: hugo_hache
@@ -566,7 +533,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Lorica Claesson
         twitter: lorica
@@ -576,13 +542,12 @@ talks:
     videos:
       - https://youtu.be/VCdHYSqKuEU
     description: |-
-      In this talk, you will learn about best practices to gather insights,  mixed with real life experiences and anecdotes. Understand why people are doing certain tasks, not only what they are doing. No budget for user research? Learn what you can do under the radar to understand the user behaviour better. You will get examples on how it can be done, regardless if you are a bigger company, or an indie developer!  
+      In this talk, you will learn about best practices to gather insights,  mixed with real life experiences and anecdotes. Understand why people are doing certain tasks, not only what they are doing. No budget for user research? Learn what you can do under the radar to understand the user behaviour better. You will get examples on how it can be done, regardless if you are a bigger company, or an indie developer!
 
   - title: 'Rendering Video: A Detailed Look at Video Playback on Android'
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Pierre-Antoine LaFayette
         twitter: 03lafaye
@@ -598,7 +563,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Simone Civetta
         twitter: viteinfinite
@@ -618,7 +582,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Cyril Mottier
         twitter: cyrilmottier
@@ -634,7 +597,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: David González
         twitter: dggonzalez
@@ -650,7 +612,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Florent Champigny
         twitter: florent_champ
@@ -666,7 +627,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Sandra Dupré
         twitter: SandraDdev
@@ -676,13 +636,12 @@ talks:
     videos:
       - https://youtu.be/7JY_R3ywXBA
     description: |-
-      After TensorFlow Lite, MLKit promises to be the new tool to make apps smarter. The possibility to integrate a model directly on Firebase is crazy, but the second part (often put aside) deserves attention.Based in majority on deprecated Mobile Vision, the few models offered by Google already give us something to enjoy. Most of them is available offline: so we can imagine the extent of the possibilities! 
+      After TensorFlow Lite, MLKit promises to be the new tool to make apps smarter. The possibility to integrate a model directly on Firebase is crazy, but the second part (often put aside) deserves attention.Based in majority on deprecated Mobile Vision, the few models offered by Google already give us something to enjoy. Most of them is available offline: so we can imagine the extent of the possibilities!
 
   - title: Locking, blocking and rocking Android for Self-service Kiosks
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Karapet Gyumjibashyan, PMP
         twitter:
@@ -698,7 +657,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Maria Neumayer
         twitter: marianeum
@@ -714,7 +672,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Cristian Garrido
         twitter:
@@ -734,7 +691,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Kai Koenig
         twitter:
@@ -750,7 +706,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Roberto Orgiu
         twitter: _tiwiz
@@ -766,7 +721,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: John Hoford
         twitter: johnhoford
@@ -788,7 +742,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Jag Saund
         twitter: jagsaund
@@ -804,7 +757,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Róbert Papp
         twitter: TWiStErRob
@@ -820,7 +772,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Etienne Caron
         twitter: kanawish
@@ -836,7 +787,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Eyal LEZMY
         twitter: Eyal_Lezmy
@@ -880,7 +830,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Eyal LEZMY
         twitter: Eyal_Lezmy
@@ -896,7 +845,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Brian Plummer
         twitter: plummermakes
@@ -912,7 +860,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Pierre Tibulle
         twitter: ptibulle
@@ -936,7 +883,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Arnaud Giuliani
         twitter: arnogiu
@@ -952,7 +898,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Juhani Lehtimäki
         twitter: lehtimaeki
@@ -972,7 +917,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Fabien Devos
         twitter: Fabien_Devos
@@ -988,7 +932,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Elaine Dias Batista
         twitter: elainedbatista
@@ -1004,7 +947,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Alex Lockwood
         twitter: alexjlockwood
@@ -1024,7 +966,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Benoît Quenaudon
         twitter: oldergod
@@ -1040,7 +981,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Jordan Tuffery
         twitter: Tuffaisquoi
@@ -1060,7 +1000,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Chris Simmonds
         twitter: h2net_software
@@ -1076,7 +1015,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Vadim Caen
         twitter: vadimcaen
@@ -1088,11 +1026,10 @@ talks:
     description: |-
       Vector-drawables, 9 Patches, layer-list, multi-densities, screen sizes: Android provides many ways to use graphical resources in an application and deal with the fragmentation. The goal of this talk is to take a tour of the available resources that developers can use in their application, see what tools Android Studio provides to manage those resources, how these resources are embedded into the APK and what how the framework uses them at runtime.
 
-  - title: I have no idea what my app is doing 
+  - title: I have no idea what my app is doing
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Nicola Corti
         twitter: cortinico
@@ -1108,7 +1045,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Xavier F. Gouchet
         twitter: xgouchet
@@ -1124,7 +1060,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Benjamin Monjoie
         twitter: Xzan
@@ -1144,7 +1079,6 @@ talks:
     lang: en
     type: regular
     time: 2019-04-24
-    room:
     authors:
       - name: Chet Haase
         twitter: chethaase
@@ -1158,4 +1092,4 @@ talks:
     videos:
       - https://youtu.be/eag908DSNX0
     description: |-
-    
+

@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 09:00:00
-    room: Justlease room
     authors:
       - name: Harry Roberts
         twitter: csswizardry
@@ -42,7 +41,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 10:00:00
-    room: Justlease room
     authors:
       - name: Blake Newman
         twitter: blakenewman
@@ -58,7 +56,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 10:00:00
-    room: 1xINTERNET room
     authors:
       - name: Bram Duvigneau
         twitter: bramduvigneau
@@ -74,7 +71,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 11:20:00
-    room: Justlease room
     authors:
       - name: Simona Cotin
         twitter: simona_cotin
@@ -90,7 +86,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 11:20:00
-    room: 1xINTERNET room
     authors:
       - name: Thomas Visser
         twitter: visserthomas
@@ -105,7 +100,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 12:20:00
-    room: Justlease room
     authors:
       - name: Aga Naplocha
         twitter: aganaplocha
@@ -121,7 +115,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 12:20:00
-    room: 1xINTERNET room
     authors:
       - name: Necoline Hubner
         twitter: necolinesan
@@ -137,7 +130,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 13:45:00
-    room: Justlease room
     authors:
       - name: Preston So
         twitter: prestonso
@@ -153,7 +145,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 13:45:00
-    room: 1xINTERNET room
     authors:
       - name: Sara Vieira
         twitter: NikkitaFTW
@@ -169,7 +160,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 14:45:00
-    room: Justlease room
     authors:
       - name: Mike Herchel
         twitter: mikeherchel
@@ -185,7 +175,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 14:45:00
-    room: 1xINTERNET room
     authors:
       - name: Stefan Judis
         twitter: stefanjudis
@@ -201,7 +190,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01 16:05:00
-    room: Justlease room
     authors:
       - name: Tatiana Kolesnikova
         twitter: unicorn_job
@@ -221,7 +209,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-01
-    room: Justlease room
     authors:
       - name: Dries Buytaert
         twitter: Dries
@@ -237,7 +224,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-02 09:00:00
-    room: Justlease room
     authors:
       - name: Heather Burns
         twitter: WebDevLaw
@@ -253,7 +239,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-02 10:00:00
-    room: Justlease room
     authors:
       - name: Burke Holland
         twitter: burkeholland
@@ -269,7 +254,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-02 10:00:00
-    room: 1xINTERNET room
     authors:
       - name: Hidde de Vries
         twitter: hdv
@@ -285,7 +269,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-02 11:20:00
-    room: Justlease room
     authors:
       - name: Asim Hussain
         twitter: jawache
@@ -301,7 +284,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-02 11:20:00
-    room: 1xINTERNET room
     authors:
       - name: Marija Zaric
         twitter:
@@ -317,7 +299,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-02 12:20:00
-    room: Justlease room
     authors:
       - name: Charlie Owen
         twitter: sonniesedge
@@ -333,7 +314,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-02 12:20:00
-    room: 1xINTERNET room
     authors:
       - name: Lucas da Costa
         twitter: lfernandescosta
@@ -349,7 +329,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-02 13:45:00
-    room: Justlease room
     authors:
       - name: Saskia Freeke
         twitter: sasj_nl
@@ -365,7 +344,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-02 13:45:00
-    room: 1xINTERNET room
     authors:
       - name: Ruben Teijeiro
         twitter: rteijeiro
@@ -381,7 +359,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-02 14:45:00
-    room: Justlease room
     authors:
       - name: Niels Leenheer
         twitter: html5test
@@ -397,7 +374,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-02 14:45:00
-    room: 1xINTERNET room
     authors:
       - name: Cristina Chumillas
         twitter: chumillas
@@ -413,7 +389,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-02 16:05:00
-    room: Justlease room
     authors:
       - name: Ferry Kobus
         twitter: lepiraat
@@ -429,7 +404,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-02 16:05:00
-    room: 1xINTERNET room
     authors:
       - name: Joël van Bodegraven
         twitter: jvb_nl
@@ -445,7 +419,6 @@ talks:
     lang: en
     type: regular
     time: 2018-06-02 17:05:00
-    room: Justlease room
     authors:
       - name: Heydon Pickering
         twitter: heydonworks

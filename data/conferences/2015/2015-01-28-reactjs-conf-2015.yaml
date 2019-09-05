@@ -26,7 +26,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-28
-    room:
     authors:
       - name: Tom Occhino
         twitter:
@@ -46,7 +45,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-28
-    room:
     authors:
       - name: Brenton Simpson
         twitter:
@@ -62,7 +60,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-28
-    room:
     authors:
       - name: Gurdas Nijor
         twitter:
@@ -78,7 +75,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-28
-    room:
     authors:
       - name: Daniel Schafer
         twitter:
@@ -98,7 +94,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-28
-    room:
     authors:
       - name: James Long
         twitter:
@@ -114,7 +109,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-28
-    room:
     authors:
       - name: Michael Jackson
         twitter:
@@ -130,7 +124,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-28
-    room:
     authors:
       - name: Pete Hunt
         twitter:
@@ -146,7 +139,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-28
-    room:
     authors:
       - name: Jason Bonta
         twitter:
@@ -162,7 +154,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-28
-    room:
     authors:
       - name: Eric Ferraiuolo
         twitter:
@@ -178,7 +169,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-28
-    room:
     authors:
       - name: Ryan Florence
         twitter:
@@ -194,7 +184,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-29
-    room:
     authors:
       - name: Christopher Chedeau
         twitter:
@@ -209,7 +198,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-29
-    room:
     authors:
       - name: Andrew Rota
         twitter:
@@ -225,7 +213,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-29
-    room:
     authors:
       - name: Lee Byron
         twitter:
@@ -241,7 +228,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-29
-    room:
     authors:
       - name: Jafar Husain
         twitter:
@@ -257,7 +243,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-29
-    room:
     authors:
       - name: Zach Nation
         twitter:
@@ -273,7 +258,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-29
-    room:
     authors:
       - name: David Nolen
         twitter:
@@ -289,7 +273,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-29
-    room:
     authors:
       - name: Bill Fisher
         twitter:
@@ -305,7 +288,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-29
-    room:
     authors:
       - name: Bonnie Eisenman
         twitter:
@@ -321,7 +303,6 @@ talks:
     lang: en
     type: regular
     time: 2015-01-29
-    room:
     authors:
       - name: James Brantly
         twitter:
