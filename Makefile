@@ -50,6 +50,16 @@ generate-conferences-json: build-image
 	  $(IMAGE_NAME) \
 	  node ./tools/generate-conferences-json.js
 
+# Generate /data/youtube-channels.json
+.PHONY: generate-youtube-channels-json
+generate-youtube-channels-json: build-image
+	> data/youtube-channels.json
+	docker run -t --rm \
+	  --workdir $(TARGET_DIR) \
+	  --mount type=bind,source=$(CURDIR),target=$(TARGET_DIR) \
+	  $(IMAGE_NAME) \
+	  node ./tools/generate-youtube-channels-json.js
+
 # Build Docker image for tests and tooling
 .PHONY: build-image
 build-image:
