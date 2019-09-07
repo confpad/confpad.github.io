@@ -8,9 +8,9 @@ conference:
     - ember
     -
   link:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
     twitter: EmberConf
-    youtube:
+    youtube: UCWnPjmqvljcafA0z2U1fwKQ
     website: https://2015.emberconf.com/
   date:
     from: 2015-03-03
