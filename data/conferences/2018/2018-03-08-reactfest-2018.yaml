@@ -8,8 +8,9 @@ conference:
     - react
     -
   link:
-    twitter: ReactFest
     playlist:
+    twitter: ReactFest
+    youtube:
     website: https://reactfest.com/
   date:
     from: 2018-03-08

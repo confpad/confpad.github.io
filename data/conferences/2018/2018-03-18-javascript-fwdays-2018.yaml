@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: fwdays
     playlist:
+    twitter: fwdays
+    youtube:
     website: https://fwdays.com/en/event/js-fwdays-2018
   date:
     from: 2018-03-18

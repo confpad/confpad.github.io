@@ -8,8 +8,9 @@ conference:
     - react
     -
   link:
-    twitter: reactloop
     playlist:
+    twitter: reactloop
+    youtube:
     website: https://reactloop.com/
   date:
     from: 2019-06-21

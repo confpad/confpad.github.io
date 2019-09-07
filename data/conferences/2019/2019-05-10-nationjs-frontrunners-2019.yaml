@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: nationjs
     playlist: https://www.youtube.com/playlist?list=PLeGxIOPLk9EIcn3_m4Qb8NHctlOp8obUe
+    twitter: nationjs
+    youtube:
     website: http://nationjs.com/
   date:
     from: 2019-05-10

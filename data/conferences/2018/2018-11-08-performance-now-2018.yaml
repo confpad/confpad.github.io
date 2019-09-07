@@ -8,8 +8,9 @@ conference:
     - performance
     -
   link:
-    twitter: perfnowconf
     playlist:
+    twitter: perfnowconf
+    youtube:
     website: https://perfnow.nl/
   date:
     from: 2018-11-08

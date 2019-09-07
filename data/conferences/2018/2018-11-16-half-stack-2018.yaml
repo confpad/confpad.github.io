@@ -8,8 +8,9 @@ conference:
     - javascript
     -
   link:
-    twitter: halfstackconf
     playlist:
+    twitter: halfstackconf
+    youtube:
     website: https://halfstackconf.com/halfstackconf2018.html
   date:
     from: 2018-11-16

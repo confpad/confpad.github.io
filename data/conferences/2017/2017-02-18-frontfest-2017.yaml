@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: frontfest
     playlist: https://www.youtube.com/playlist?list=PLV_VSxFnAJKIQiOVUAccpkqXe_9rmVJTZ
+    twitter: frontfest
+    youtube:
     website: https://2017.frontfest.es/
   date:
     from: 2017-02-18

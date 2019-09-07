@@ -8,8 +8,9 @@ conference:
     - angular
     -
   link:
-    twitter: JavaScriptCon
     playlist:
+    twitter: JavaScriptCon
+    youtube:
     website: https://javascript-conference.com/archiv/ijs-2018-london/
   date:
     from: 2018-04-11

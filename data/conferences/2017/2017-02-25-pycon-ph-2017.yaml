@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: pyconph
     playlist: https://www.youtube.com/playlist?list=PLCBCxsuKTqkB2u-P7KMNNkHYXzKBXEyZc
+    twitter: pyconph
+    youtube:
     website: https://pycon-2017.python.ph/
   date:
     from: 2017-02-25

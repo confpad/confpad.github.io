@@ -8,8 +8,9 @@ conference:
     - reactnative
     -
   link:
-    twitter: infinite_red
     playlist:
+    twitter: infinite_red
+    youtube:
     website: https://infinite.red/ChainReactConf/2018
   date:
     from: 2018-07-11

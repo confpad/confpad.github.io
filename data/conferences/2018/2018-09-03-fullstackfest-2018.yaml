@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: fullstackfest
     playlist:
+    twitter: fullstackfest
+    youtube:
     website: https://2018.fullstackfest.com/
   date:
     from: 2018-09-03

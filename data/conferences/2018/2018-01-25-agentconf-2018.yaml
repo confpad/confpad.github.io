@@ -8,8 +8,9 @@ conference:
     - react
     - reactnative
   link:
-    twitter: agentconf
     playlist:
+    twitter: agentconf
+    youtube:
     website: https://2018.agent.sh/
   date:
     from: 2018-01-25

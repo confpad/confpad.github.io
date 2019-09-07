@@ -8,8 +8,9 @@ conference:
     - react
     - reactnative
   link:
-    twitter: reactdayberlin
     playlist:
+    twitter: reactdayberlin
+    youtube:
     website: https://reactday.berlin/2017/
   date:
     from: 2017-12-02

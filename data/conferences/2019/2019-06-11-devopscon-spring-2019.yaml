@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: devops_con
     playlist: https://www.youtube.com/playlist?list=PLcCcZh4f8l1M2ZC5OoX8kbtB7Fb2-gXsE
+    twitter: devops_con
+    youtube:
     website: https://devopsconference.de/
   date:
     from: 2019-06-11

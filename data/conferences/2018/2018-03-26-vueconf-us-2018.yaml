@@ -8,8 +8,9 @@ conference:
     - vue
     -
   link:
-    twitter: vueconfus
     playlist:
+    twitter: vueconfus
+    youtube:
     website: https://us.vuejs.org/
   date:
     from: 2018-03-26

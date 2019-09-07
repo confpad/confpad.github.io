@@ -8,8 +8,9 @@ conference:
     - angular
     -
   link:
-    twitter: ngVikingsConf
     playlist:
+    twitter: ngVikingsConf
+    youtube:
     website: https://2018.ngvikings.org/
   date:
     from: 2018-03-01

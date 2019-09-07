@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: jsconfeu
     playlist:
+    twitter: jsconfeu
+    youtube:
     website: https://2017.jsconf.eu/
   date:
     from: 2017-05-06

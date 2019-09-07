@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: nodeconfar
     playlist:
+    twitter: nodeconfar
+    youtube:
     website: https://2016.nodeconf.com.ar/
   date:
     from: 2016-11-17

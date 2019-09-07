@@ -8,8 +8,9 @@ conference:
     - security
     - javascript
   link:
-    twitter: jsfoo
     playlist:
+    twitter: jsfoo
+    youtube:
     website: https://jsfoo.in/2018/
   date:
     from: 2018-10-26

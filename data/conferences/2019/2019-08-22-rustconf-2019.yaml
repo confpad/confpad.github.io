@@ -8,8 +8,9 @@
     -
     -
   link:
-    twitter: rustconf
     playlist: https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA
+    twitter: rustconf
+    youtube:
     website: https://rustconf.com/
   date:
     from: 2019-08-22

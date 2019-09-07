@@ -8,8 +8,9 @@ conference:
     - react
     -
   link:
-    twitter: nationjs
     playlist:
+    twitter: nationjs
+    youtube:
     website: http://nationjs.com/
   date:
     from: 2018-01-05

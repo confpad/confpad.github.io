@@ -8,8 +8,9 @@ conference:
     - react
     - reactnative
   link:
-    twitter: reactjs
     playlist:
+    twitter: reactjs
+    youtube:
     website: http://conf2017.reactjs.org/
   date:
     from: 2017-03-13

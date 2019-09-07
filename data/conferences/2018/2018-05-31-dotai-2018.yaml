@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: dotaiconf
     playlist:
+    twitter: dotaiconf
+    youtube:
     website: https://www.dotai.io/
   date:
     from: 2018-05-31

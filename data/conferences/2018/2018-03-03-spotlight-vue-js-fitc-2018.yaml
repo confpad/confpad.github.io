@@ -8,8 +8,9 @@ conference:
     - vue
     -
   link:
-    twitter: fitc
     playlist:
+    twitter: fitc
+    youtube:
     website: https://fitc.ca/event/vue/
   date:
     from: 2018-03-03

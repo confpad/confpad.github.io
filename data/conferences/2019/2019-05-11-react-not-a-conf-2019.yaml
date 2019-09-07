@@ -8,8 +8,9 @@ conference:
     - react
     -
   link:
-    twitter: ReactNotAConf
     playlist: https://www.youtube.com/playlist?list=PLOEJ0eNOcZeosJfuT0dRcRWvNz4pru7SD
+    twitter: ReactNotAConf
+    youtube:
     website: http://react-not-a-conf.com
   date:
     from: 2019-05-11

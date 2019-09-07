@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: googledevs
     playlist:
+    twitter: googledevs
+    youtube:
     website: https://developers.google.com/events/flutter-live/
   date:
     from: 2018-12-04

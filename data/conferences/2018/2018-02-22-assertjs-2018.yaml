@@ -8,8 +8,9 @@ conference:
     - testing
     -
   link:
-    twitter: assertjs
     playlist:
+    twitter: assertjs
+    youtube:
     website: https://www.assertjs.com/
   date:
     from: 2018-02-22

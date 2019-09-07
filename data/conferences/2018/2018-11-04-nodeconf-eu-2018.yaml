@@ -8,8 +8,9 @@ conference:
     - node
     -
   link:
-    twitter: nodeconfeu
     playlist:
+    twitter: nodeconfeu
+    youtube:
     website: https://www.nodeconf.eu/
   date:
     from: 2018-11-04

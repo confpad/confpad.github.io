@@ -8,8 +8,9 @@ conference:
     - angular
     -
   link:
-    twitter: ngAtlanta
     playlist:
+    twitter: ngAtlanta
+    youtube:
     website: https://2018.ng-atl.org/
   date:
     from: 2018-01-30

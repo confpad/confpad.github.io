@@ -8,8 +8,9 @@ conference:
     - vue
     -
   link:
-    twitter: vuetoronto
     playlist:
+    twitter: vuetoronto
+    youtube:
     website: https://vuetoronto.com/
   date:
     from: 2018-11-14

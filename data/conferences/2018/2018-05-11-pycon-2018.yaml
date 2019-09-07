@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: pycon
     playlist:
+    twitter: pycon
+    youtube:
     website: https://us.pycon.org/2018/
   date:
     from: 2018-05-11

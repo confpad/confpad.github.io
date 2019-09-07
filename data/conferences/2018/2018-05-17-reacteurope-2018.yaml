@@ -8,8 +8,9 @@ conference:
     - react
     -
   link:
-    twitter: ReactEurope
     playlist:
+    twitter: ReactEurope
+    youtube:
     website: https://2018.react-europe.org/
   date:
     from: 2018-05-17

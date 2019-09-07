@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: JSConfAM
     playlist:
+    twitter: JSConfAM
+    youtube:
     website: https://jsconf.am/
   date:
     from: 2018-11-03

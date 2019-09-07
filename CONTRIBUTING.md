@@ -52,8 +52,9 @@ conference:
     -
     -
   link:
+    playlist:
     twitter:
-    videos:
+    youtube:
     website:
   date:
     from: 2018-10-25
@@ -87,8 +88,9 @@ conference:
     - react
     -
   link:
+    playlist: https://www.youtube.com/playlist?list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ
     twitter: reactjs
-    videos: https://www.youtube.com/playlist?list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ
+    youtube: UCz5vTaEhvh7dOHEyd1efcaQ
     website: https://conf.reactjs.org/
   date:
     from: 2018-10-25
@@ -145,14 +147,18 @@ talks:
   * Type: _optional_
   * Value: _array of slugs_
   * Description: see [INFO_TAGS_VALUES](test/conferences.test.js) in `test/conferences.test.js`
+* `conference.link.playlist`
+  * Type: _optional_
+  * Value: _URL_
+  * Description: playlist URL (on YouTube, Vimeo, …)
 * `conference.link.twitter`
   * Type: _optional_
   * Value: _slugified string_
   * Description: official conference Twitter ID
-* `conference.link.videos`
+* `conference.link.youtube`
   * Type: _optional_
-  * Value: _URL_
-  * Description: playlist URL or YouTube/Vimeo channel
+  * Value: _free-form string_
+  * Description: YouTube channel ID
 * `conference.link.website`
   * Type: _optional_
   * Value: _URL_

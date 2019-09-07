@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: halfstackconf
     playlist:
+    twitter: halfstackconf
+    youtube:
     website: https://halfstackconf.com/halfstackconf2017.html
   date:
     from: 2017-11-17

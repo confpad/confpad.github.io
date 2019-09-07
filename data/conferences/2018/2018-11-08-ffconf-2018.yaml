@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: ffconf
     playlist:
+    twitter: ffconf
+    youtube:
     website: https://2018.ffconf.org/
   date:
     from: 2018-11-08

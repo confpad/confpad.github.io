@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: render_conf
     playlist:
+    twitter: render_conf
+    youtube:
     website: https://2018.render-conf.com/
   date:
     from: 2018-03-23

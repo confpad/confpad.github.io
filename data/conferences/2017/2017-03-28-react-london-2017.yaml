@@ -8,8 +8,9 @@ conference:
     - react
     -
   link:
-    twitter: ReactLondon_
     playlist:
+    twitter: ReactLondon_
+    youtube:
     website: https://react.london/
   date:
     from: 2017-03-28

@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: androidmakersfr
     playlist: https://www.youtube.com/playlist?list=PLn7H9CUCuXAs2N7Wh57yR9RmzMke-hPY-
+    twitter: androidmakersfr
+    youtube:
     website: https://paug.github.io/android-makers-2017/
   date:
     from: 2017-04-10

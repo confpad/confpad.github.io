@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: GraphQLFinland
     playlist:
+    twitter: GraphQLFinland
+    youtube:
     website: https://graphql-finland.fi/2018/
   date:
     from: 2018-10-18

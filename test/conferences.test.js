@@ -8,8 +8,8 @@ const {
   getJSON,
   INFO_STATUS_COMPLETE,
   INFO_STATUS_INCOMPLETE,
+  REGEX_ID_YOUTUBE_CHANNEL,
   REGEX_URL_YOUTUBE,
-  REGEX_URL_YOUTUBE_CHANNEL,
   REGEX_URL_VIMEO,
 } = require('../js/utils/utils-node');
 
@@ -52,7 +52,7 @@ const INFO_TAGS_VALUES = [
   'vue',
   'web',
 ];
-const INFO_LINK_KEYS = ['twitter', 'playlist', 'website'];
+const INFO_LINK_KEYS = ['playlist', 'twitter', 'youtube', 'website'];
 const INFO_DATE_KEYS = ['from', 'to'];
 const INFO_LOCATION_KEYS = ['country', 'city'];
 
@@ -117,13 +117,17 @@ glob.sync(testGlob).forEach(file => {
       expect(Object.keys(conference.link)).toEqual(INFO_LINK_KEYS);
     });
 
+    it('contains valid playlist URL', () => {
+      conference.link.playlist && expect(conference.link.playlist.match(REGEX_URL)).not.toBeNull();
+    });
+
     it('contains valid Twitter account ID', () => {
       conference.link.twitter && expect(conference.link.twitter.includes('@')).toEqual(false);
       conference.link.twitter && expect(conference.link.twitter.includes('http')).toEqual(false);
     });
 
-    it('contains valid playlist URL', () => {
-      conference.link.playlist && expect(conference.link.playlist.match(REGEX_URL)).not.toBeNull();
+    it('contains valid YouTube channel ID', () => {
+      conference.link.youtube && expect(conference.link.youtube.includes('http')).toEqual(false);
     });
 
     it('contains valid website URL', () => {

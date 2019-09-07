@@ -8,8 +8,9 @@ conference:
     - design
     -
   link:
-    twitter: frontzurich
     playlist:
+    twitter: frontzurich
+    youtube:
     website: https://frontendconf.ch/
   date:
     from: 2018-08-30

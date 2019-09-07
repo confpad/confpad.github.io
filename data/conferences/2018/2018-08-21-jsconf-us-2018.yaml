@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: jsconf
     playlist:
+    twitter: jsconf
+    youtube:
     website: https://2018.jsconf.us/
   date:
     from: 2018-08-21

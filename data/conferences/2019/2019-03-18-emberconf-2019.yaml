@@ -8,8 +8,9 @@
     - ember
     -
   link:
-    twitter: EmberConf
     playlist: https://www.youtube.com/playlist?list=PLE7tQUdRKcyYWLWrHgmWsvzsQBSWCLHYL
+    twitter: EmberConf
+    youtube:
     website: https://emberconf.com/
   date:
     from: 2019-03-18

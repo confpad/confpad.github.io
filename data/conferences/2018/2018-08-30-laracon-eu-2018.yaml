@@ -8,8 +8,9 @@
     - laravel
     -
   link:
-    twitter: LaraconEU
     playlist: https://www.youtube.com/playlist?list=PLMdXHJK-lGoC64wnqvm6v1R5dsuAV-MpS
+    twitter: LaraconEU
+    youtube:
     website: https://laracon.eu/2018/
   date:
     from: 2018-08-30

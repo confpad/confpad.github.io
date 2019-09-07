@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: zeithq
     playlist:
+    twitter: zeithq
+    youtube:
     website: https://zeit.co/day
   date:
     from: 2018-04-28

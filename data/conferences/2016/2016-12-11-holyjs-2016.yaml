@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: HolyJSconf
     playlist:
+    twitter: HolyJSconf
+    youtube:
     website: https://2016.holyjs-moscow.ru/en/
   date:
     from: 2016-12-11

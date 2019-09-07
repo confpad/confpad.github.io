@@ -8,8 +8,9 @@ conference:
     - angular
     -
   link:
-    twitter: ngbeconf
     playlist:
+    twitter: ngbeconf
+    youtube:
     website: https://ng-be.org/
   date:
     from: 2018-12-06

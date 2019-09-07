@@ -8,8 +8,9 @@ conference:
     - react
     -
   link:
-    twitter: ReactBoston
     playlist:
+    twitter: ReactBoston
+    youtube:
     website: http://www.reactboston.com/
   date:
     from: 2018-09-29

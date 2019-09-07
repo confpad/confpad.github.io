@@ -8,8 +8,9 @@ conference:
     - react
     -
   link:
-    twitter: reactamsterdam
     playlist:
+    twitter: reactamsterdam
+    youtube:
     website: https://react.amsterdam/2016/
   date:
     from: 2016-04-16

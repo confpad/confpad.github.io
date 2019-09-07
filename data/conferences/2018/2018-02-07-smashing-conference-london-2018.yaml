@@ -8,8 +8,9 @@ conference:
     - performance
     -
   link:
-    twitter: smashingconf
     playlist:
+    twitter: smashingconf
+    youtube:
     website: https://smashingconf.com/
   date:
     from: 2018-02-07

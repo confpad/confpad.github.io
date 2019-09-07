@@ -8,8 +8,9 @@ conference:
     - angular
     -
   link:
-    twitter: ngPolandConf
     playlist:
+    twitter: ngPolandConf
+    youtube:
     website: https://ng-poland.pl/index2017.html
   date:
     from: 2017-11-21

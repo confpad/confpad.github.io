@@ -8,8 +8,9 @@ conference:
     - react
     -
   link:
-    twitter: reactalicante
     playlist:
+    twitter: reactalicante
+    youtube:
     website: http://reactalicante.es/
   date:
     from: 2018-09-13

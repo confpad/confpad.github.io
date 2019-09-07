@@ -8,8 +8,9 @@ conference:
     - react
     -
   link:
-    twitter: ReactNext
     playlist:
+    twitter: ReactNext
+    youtube:
     website: https://2018.react-next.com/
   date:
     from: 2018-11-04

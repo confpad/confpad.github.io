@@ -8,8 +8,9 @@ conference:
     - react
     -
   link:
-    twitter: ReactConfAM
     playlist:
+    twitter: ReactConfAM
+    youtube:
     website: https://reactconf.am
   date:
     from: 2019-05-25

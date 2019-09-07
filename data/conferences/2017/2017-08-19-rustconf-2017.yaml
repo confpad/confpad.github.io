@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: rustconf
     playlist: https://www.youtube.com/playlist?list=PL85XCvVPmGQhUSX_QBkxb4g1-o56cCqI9
+    twitter: rustconf
+    youtube:
     website: http://2017.rustconf.com/
   date:
     from: 2017-08-19

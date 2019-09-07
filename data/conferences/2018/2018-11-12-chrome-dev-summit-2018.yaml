@@ -8,8 +8,9 @@ conference:
     - performance
     -
   link:
-    twitter: ChromiumDev
     playlist:
+    twitter: ChromiumDev
+    youtube:
     website: https://developer.chrome.com/devsummit/
   date:
     from: 2018-11-12

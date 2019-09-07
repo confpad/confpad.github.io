@@ -8,8 +8,9 @@ conference:
     - design
     -
   link:
-    twitter: smashingconf
     playlist:
+    twitter: smashingconf
+    youtube:
     website: https://smashingconf.com/freiburg-2018/
   date:
     from: 2018-09-10

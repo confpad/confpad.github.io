@@ -8,8 +8,9 @@ conference:
     - react
     -
   link:
-    twitter: reactjs
     playlist:
+    twitter: reactjs
+    youtube:
     website: https://conf2016.reactjs.org/
   date:
     from: 2016-02-22

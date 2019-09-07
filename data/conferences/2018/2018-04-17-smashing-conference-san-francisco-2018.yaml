@@ -8,8 +8,9 @@ conference:
     -
     -
   link:
-    twitter: smashingconf
     playlist:
+    twitter: smashingconf
+    youtube:
     website: https://archive.smashingconf.com/sf-2018/
   date:
     from: 2018-04-17

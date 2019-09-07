@@ -8,8 +8,9 @@ conference:
     - react
     - reactnative
   link:
-    twitter: reactamsterdam
     playlist:
+    twitter: reactamsterdam
+    youtube:
     website: https://react.amsterdam/2017/
   date:
     from: 2017-04-21

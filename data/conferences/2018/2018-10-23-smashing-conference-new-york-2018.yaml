@@ -8,8 +8,9 @@ conference:
     - design
     -
   link:
-    twitter: smashingconf
     playlist:
+    twitter: smashingconf
+    youtube:
     website: https://archive.smashingconf.com/ny-2018/
   date:
     from: 2018-10-23
