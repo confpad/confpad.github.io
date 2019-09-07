@@ -18,7 +18,7 @@ const REGEX_FILENAME = /^[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+\.yaml$/;
 const REGEX_URL = /^http[s]?:\/\/[a-z0-9-\.]+\.[a-z]{2,}/;
 
 // Conference info
-const INFO_ROOT_KEYS = ['name', 'status', 'series', 'tags', 'link', 'date', 'location', 'description'];
+const INFO_ROOT_KEYS = ['name', 'status', 'series', 'tags', 'links', 'date', 'location', 'description'];
 const INFO_STATUS_VALUES = [INFO_STATUS_COMPLETE, INFO_STATUS_INCOMPLETE];
 const INFO_TAGS_VALUES = [
   'android',
@@ -52,7 +52,7 @@ const INFO_TAGS_VALUES = [
   'vue',
   'web',
 ];
-const INFO_LINK_KEYS = ['playlist', 'twitter', 'youtube', 'website'];
+const INFO_LINKS_KEYS = ['playlist', 'twitter', 'youtube', 'website'];
 const INFO_DATE_KEYS = ['from', 'to'];
 const INFO_LOCATION_KEYS = ['country', 'city'];
 
@@ -114,24 +114,24 @@ glob.sync(testGlob).forEach(file => {
 
     // Link
     it('contains link entry with all fields in correct order', () => {
-      expect(Object.keys(conference.link)).toEqual(INFO_LINK_KEYS);
+      expect(Object.keys(conference.links)).toEqual(INFO_LINKS_KEYS);
     });
 
     it('contains valid playlist URL', () => {
-      conference.link.playlist && expect(conference.link.playlist.match(REGEX_URL)).not.toBeNull();
+      conference.links.playlist && expect(conference.links.playlist.match(REGEX_URL)).not.toBeNull();
     });
 
     it('contains valid Twitter account ID', () => {
-      conference.link.twitter && expect(conference.link.twitter.includes('@')).toEqual(false);
-      conference.link.twitter && expect(conference.link.twitter.includes('http')).toEqual(false);
+      conference.links.twitter && expect(conference.links.twitter.includes('@')).toEqual(false);
+      conference.links.twitter && expect(conference.links.twitter.includes('http')).toEqual(false);
     });
 
     it('contains valid YouTube channel ID', () => {
-      conference.link.youtube && expect(conference.link.youtube.match(REGEX_ID_YOUTUBE_CHANNEL)).not.toBeNull();
+      conference.links.youtube && expect(conference.links.youtube.match(REGEX_ID_YOUTUBE_CHANNEL)).not.toBeNull();
     });
 
     it('contains valid website URL', () => {
-      conference.link.website && expect(conference.link.website.match(REGEX_URL)).not.toBeNull();
+      conference.links.website && expect(conference.links.website.match(REGEX_URL)).not.toBeNull();
     });
 
     // Date

@@ -75,7 +75,7 @@ const ConferenceInfo = ({ conference, showTitle = true, showFullDescription = tr
       <div class="truncate">
         ${conference.date && getDate(conference.date.from, conference.date.to)}
         ${conference.location && getLocation(conference.location)}
-        ${conference.link.website && getLink(conference.link.website)}
+        ${conference.links.website && getLink(conference.links.website)}
       </div>
       ${getDescription(conference.description, showFullDescription)}
     </div>`

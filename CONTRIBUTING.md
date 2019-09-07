@@ -51,7 +51,7 @@ conference:
     -
     -
     -
-  link:
+  links:
     playlist:
     twitter:
     youtube:
@@ -87,7 +87,7 @@ conference:
     - javascript
     - react
     -
-  link:
+  links:
     playlist: https://www.youtube.com/playlist?list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ
     twitter: reactjs
     youtube: UCz5vTaEhvh7dOHEyd1efcaQ
@@ -147,19 +147,19 @@ talks:
   * Type: _optional_
   * Value: _array of slugs_
   * Description: see [INFO_TAGS_VALUES](test/conferences.test.js) in `test/conferences.test.js`
-* `conference.link.playlist`
+* `conference.links.playlist`
   * Type: _optional_
   * Value: _URL_
   * Description: playlist URL (on YouTube, Vimeo, …)
-* `conference.link.twitter`
+* `conference.links.twitter`
   * Type: _optional_
   * Value: _slugified string_
   * Description: official conference Twitter ID
-* `conference.link.youtube`
+* `conference.links.youtube`
   * Type: _optional_
   * Value: _free-form string_
   * Description: YouTube channel ID
-* `conference.link.website`
+* `conference.links.website`
   * Type: _optional_
   * Value: _URL_
   * Description: official conference website
