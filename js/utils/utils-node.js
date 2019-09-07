@@ -7,7 +7,7 @@ module.exports.INFO_STATUS_COMPLETE = 'complete';
 module.exports.INFO_STATUS_INCOMPLETE = 'incomplete';
 
 module.exports.REGEX_ID_YOUTUBE_CHANNEL =
-  /^https:\/\/www\.youtube\.com\/channel\/[a-zA-Z0-9_-]+$/;
+  /^[a-zA-Z0-9]{24}$/;
 
 // SYNC_REGEX_URL_YOUTUBE
 module.exports.REGEX_URL_YOUTUBE =

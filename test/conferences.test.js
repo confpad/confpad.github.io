@@ -127,7 +127,7 @@ glob.sync(testGlob).forEach(file => {
     });
 
     it('contains valid YouTube channel ID', () => {
-      conference.link.youtube && expect(conference.link.youtube.includes('http')).toEqual(false);
+      conference.link.youtube && expect(conference.link.youtube.match(REGEX_ID_YOUTUBE_CHANNEL)).not.toBeNull();
     });
 
     it('contains valid website URL', () => {

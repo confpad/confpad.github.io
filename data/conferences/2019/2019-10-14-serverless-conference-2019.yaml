@@ -8,9 +8,9 @@ conference:
     -
     -
   link:
-    playlist: https://www.youtube.com/channel/UCDktNpuKVzVdQinivTMdDcQ
+    playlist:
     twitter: serverlesscon
-    youtube:
+    youtube: UCDktNpuKVzVdQinivTMdDcQ
     website: https://serverless-architecture.io/
   date:
     from: 2019-10-14
