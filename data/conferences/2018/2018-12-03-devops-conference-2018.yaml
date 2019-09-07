@@ -1,4 +1,4 @@
-﻿conference:
+conference:
 
   name: DevOps Conference 2018
   status: complete
@@ -700,7 +700,7 @@ talks:
     slides:
     videos:
     description: |-
-      "Time and time and time again, we see people doing incredibly stupid things. Once we start talking it turns out things aren’t as stupid as they seem to be﻿. From a different perspective things make perfect sense – all of a sudden. Perspectives that are usual in companies but can blur the view and make things look stupid can be the following: a view from higher up the ladder, further down (vertical) or form a different silo (horizontal). A horizontal change in perspective can makes things appear wrong. A vertical shift may make things look too detailed (from higher up) or irrelevant (from lower down). In his talk, Markus will explain these phenomena and how they can lead to dysfunctional organizations, and gives examples of ways that helped him and companies he worked with to deal with them."
+      "Time and time and time again, we see people doing incredibly stupid things. Once we start talking it turns out things aren’t as stupid as they seem to be. From a different perspective things make perfect sense – all of a sudden. Perspectives that are usual in companies but can blur the view and make things look stupid can be the following: a view from higher up the ladder, further down (vertical) or form a different silo (horizontal). A horizontal change in perspective can makes things appear wrong. A vertical shift may make things look too detailed (from higher up) or irrelevant (from lower down). In his talk, Markus will explain these phenomena and how they can lead to dysfunctional organizations, and gives examples of ways that helped him and companies he worked with to deal with them."
 
   - title: DevOps simulation – feel and release your flow brakes
     lang: en
