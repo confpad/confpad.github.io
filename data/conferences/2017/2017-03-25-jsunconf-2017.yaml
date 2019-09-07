@@ -8,9 +8,9 @@ conference:
     -
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PL37ZVnwpeshGfcG3idK0sFCH62U7mLYXg
     twitter: jsunconf
-    youtube:
+    youtube: UCzoVCacndDCfGDf41P-z0iA
     website: https://2017.jsunconf.eu/
   date:
     from: 2017-03-25

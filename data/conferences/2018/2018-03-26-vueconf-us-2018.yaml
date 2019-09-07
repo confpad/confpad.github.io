@@ -2,16 +2,16 @@ conference:
 
   name: VueConf US 2018
   status: complete
-  series: us.vuejs.org
+  series: vueconf.us
   tags:
     - javascript
     - vue
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLJNLwTPak6dj-HOz4eFrKDJsJSZsgvWPs
     twitter: vueconfus
-    youtube:
-    website: https://us.vuejs.org/
+    youtube: UCa1zuotKU4Weuw_fLRnPv0A
+    website: http://2018.vueconf.us/
   date:
     from: 2018-03-26
     to: 2018-03-28

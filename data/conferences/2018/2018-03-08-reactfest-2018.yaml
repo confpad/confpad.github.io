@@ -8,9 +8,9 @@ conference:
     - react
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLRgweB8YtNRt-Sf-A0y446wTJNUaAAmle
     twitter: ReactFest
-    youtube:
+    youtube: UCjO-zVjLvkrh8-DT9wZCHTQ
     website: https://reactfest.com/
   date:
     from: 2018-03-08

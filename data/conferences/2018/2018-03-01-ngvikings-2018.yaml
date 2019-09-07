@@ -8,9 +8,9 @@ conference:
     - angular
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLVI0Ut22uwY4UC1v5fUvi2RIU4R4jPkba
     twitter: ngVikingsConf
-    youtube:
+    youtube: UCImlZXX470Pl8N_CUy3E2Zw
     website: https://2018.ngvikings.org/
   date:
     from: 2018-03-01

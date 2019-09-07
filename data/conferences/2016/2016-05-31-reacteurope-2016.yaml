@@ -8,9 +8,9 @@ conference:
     - react
     - reactnative
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa
     twitter: ReactEurope
-    youtube:
+    youtube: UCorlLn2oZfgOJ-FUcF2eZ1A
     website: https://2016.react-europe.org/
   date:
     from: 2016-05-31

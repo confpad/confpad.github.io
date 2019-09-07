@@ -8,9 +8,9 @@ conference:
     -
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PL37ZVnwpeshEO7qXEbjG4riQD7SzydLEO
     twitter: jsconfis
-    youtube:
+    youtube: UCzoVCacndDCfGDf41P-z0iA
     website: https://2018.jsconf.is/
   date:
     from: 2018-03-01

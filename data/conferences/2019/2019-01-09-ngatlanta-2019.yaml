@@ -8,9 +8,9 @@ conference:
     - angular
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLFMi8sXIcHF-GAqDCSI9qYN7HhR0RUCuC
     twitter: ngAtlanta
-    youtube:
+    youtube: UCxaWFaZmr4VnHXRAfikUMdA
     website: http://ng-atl.org/
   date:
     from: 2019-01-09

@@ -8,9 +8,9 @@ conference:
     - react
     - reactnative
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PL02Kht_parVnw9clOwWfWfhK_OhFYFdQp
     twitter: agentconf
-    youtube:
+    youtube: UCYQweOJvW7EWa3_v7NdW-Gg
     website: https://2018.agent.sh/
   date:
     from: 2018-01-25

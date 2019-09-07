@@ -8,9 +8,9 @@ conference:
     -
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLCq0ZVVxGP0Y-xlum2pnhqwsrIf61J6Ka
     twitter: pycon
-    youtube:
+    youtube: UCsX05-2sVSH7Nx3zuk3NYuQ
     website: https://us.pycon.org/2018/
   date:
     from: 2018-05-11

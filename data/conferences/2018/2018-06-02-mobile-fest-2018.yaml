@@ -8,9 +8,9 @@ conference:
     - android
     - ios
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLuOBDBq7MW72WX2EM7WlY6yt3OHSnwrtc
     twitter: MobileFestUA
-    youtube:
+    youtube: UClTnsvgTiW2YcfP1tcI2oKA
     website: http://mobilefest.com.ua/indexe.html
   date:
     from: 2018-06-02

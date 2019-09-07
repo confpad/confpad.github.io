@@ -8,9 +8,9 @@ conference:
     - react
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLd7nkr8mN0sVTbT644oHYDfWF6G0GwhiX
     twitter: reactalicante
-    youtube:
+    youtube: UCaSdUaITU1Cz6PvC97A7e0w
     website: http://reactalicante.es/
   date:
     from: 2018-09-13

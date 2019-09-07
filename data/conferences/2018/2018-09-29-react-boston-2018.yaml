@@ -8,9 +8,9 @@ conference:
     - react
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLhBlV3WSUrT26VEZXlNdEIMQ3h3zKOtaj
     twitter: ReactBoston
-    youtube:
+    youtube: UCEvOJSbEEBkXw40FqHGPVRA
     website: http://www.reactboston.com/
   date:
     from: 2018-09-29

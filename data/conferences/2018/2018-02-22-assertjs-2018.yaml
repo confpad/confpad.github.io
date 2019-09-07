@@ -8,9 +8,9 @@ conference:
     - testing
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLZ66c9_z3umNSrKSb5cmpxdXZcIPNvKGw
     twitter: assertjs
-    youtube:
+    youtube: UCemC4xuL1cZhVlixuoEjtSg
     website: https://www.assertjs.com/
   date:
     from: 2018-02-22

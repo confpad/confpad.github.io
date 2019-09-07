@@ -8,9 +8,9 @@ conference:
     - react
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PL2mV_hLb0CNAJSQLmKAWRou9fDiAVbsUo
     twitter: ReactRally
-    youtube:
+    youtube: UCTNOs11RlytWphrmi5muR-w
     website: http://www.reactrally.com/
   date:
     from: 2018-08-16

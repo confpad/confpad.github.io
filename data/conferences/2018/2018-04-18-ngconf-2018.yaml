@@ -8,9 +8,9 @@ conference:
     - angular
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PL18cI3TmfldZh-LRbu5Uc-rDvoYlyGLqz
     twitter: ngconf
-    youtube:
+    youtube: UCMutH9o3u1up3ixIeku-RDw
     website: https://2018.ng-conf.org/
   date:
     from: 2018-04-18

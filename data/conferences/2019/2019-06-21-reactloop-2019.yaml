@@ -8,10 +8,10 @@ conference:
     - react
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLha5lSFLEhMPLJDDgUDysXDbHoioCjYuu
     twitter: reactloop
-    youtube:
-    website: https://reactloop.com/
+    youtube: UCBoSWHAAhkqrCBsTAeS5cCA
+    website: https://2019.reactloop.com
   date:
     from: 2019-06-21
     to: 2019-06-21

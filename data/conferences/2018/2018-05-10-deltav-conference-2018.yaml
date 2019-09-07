@@ -8,9 +8,9 @@ conference:
     - performance
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLGUWTxqQHq52UYQJVPrDBI7YOZNWlp1en
     twitter: deltavconf
-    youtube:
+    youtube: UCL1qMvsgfDBu2WjQxzypmxA
     website: https://2018.deltavconf.com/
   date:
     from: 2018-05-10

@@ -8,9 +8,9 @@ conference:
     -
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLVSuvWb4Q2Y7oxwvpzlwFxAO6IbIjMDgB
     twitter: GraphQLFinland
-    youtube:
+    youtube: UCReJkc0nO9jhVTNgm5psuFA
     website: https://graphql-finland.fi/2018/
   date:
     from: 2018-10-18

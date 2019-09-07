@@ -8,9 +8,9 @@ conference:
     - react
     - reactnative
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0
     twitter: reactjs
-    youtube: UCz5vTaEhvh7dOHEyd1efcaQ
+    youtube: UCP_lo1MFyx5IXDeD9s_6nUw
     website: http://conf2017.reactjs.org/
   date:
     from: 2017-03-13

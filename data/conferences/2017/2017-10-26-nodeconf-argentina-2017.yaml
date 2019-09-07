@@ -8,9 +8,9 @@ conference:
     - node
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLz6xH_GrBpqvZ1HQtGDZZeIqC9cuaWeY8
     twitter: nodeconfar
-    youtube:
+    youtube: UCSnHfAloFJ5m6MymGycUeaQ
     website: https://2017.nodeconf.com.ar/
   date:
     from: 2017-10-26

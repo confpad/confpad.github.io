@@ -1,7 +1,7 @@
 ﻿conference:
 
   name: RustConf 2019
-  status: complete
+  status: incomplete
   series: rustconf.com
   tags:
     - rust

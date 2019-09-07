@@ -8,9 +8,9 @@ conference:
     - security
     - javascript
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PL279M8GbNsetSZ6aDtRLcOnADdAjqEutn
     twitter: jsfoo
-    youtube:
+    youtube: UCDHao9FxNRHw1VyLuGXI_rA
     website: https://jsfoo.in/2018/
   date:
     from: 2018-10-26

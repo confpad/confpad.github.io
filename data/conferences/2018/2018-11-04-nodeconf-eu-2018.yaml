@@ -8,9 +8,9 @@ conference:
     - node
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PL0CdgOSSGlBY7DBgOp1xsRvV31AAUZrX2
     twitter: nodeconfeu
-    youtube:
+    youtube: UCp2Tsbjd3P8itnBHUNHi82A
     website: https://www.nodeconf.eu/
   date:
     from: 2018-11-04

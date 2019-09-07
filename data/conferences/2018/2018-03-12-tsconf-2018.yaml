@@ -8,9 +8,9 @@ conference:
     -
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PL2z7rCjEG2ksF0rJ8Qwp1y5eTjqiPIRfT
     twitter: typescriptconf
-    youtube:
+    youtube: UChBVCF4eNe5naWMkBYleUOQ
     website: https://tsconf.io/2018/
   date:
     from: 2018-03-12

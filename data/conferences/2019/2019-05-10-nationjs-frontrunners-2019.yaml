@@ -1,6 +1,6 @@
 conference:
 
-  name: NationSS Frontrunners 2019
+  name: NationJS Frontrunners 2019
   status: complete
   series: nationjs.com
   tags:
@@ -10,7 +10,7 @@ conference:
   links:
     playlist: https://www.youtube.com/playlist?list=PLeGxIOPLk9EIcn3_m4Qb8NHctlOp8obUe
     twitter: nationjs
-    youtube:
+    youtube: UCgRpkkcigKZk52JyAOYNs6w
     website: http://nationjs.com/
   date:
     from: 2019-05-10

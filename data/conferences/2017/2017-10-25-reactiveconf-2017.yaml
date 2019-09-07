@@ -8,9 +8,9 @@ conference:
     - react
     - reactnative
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLa2ZZ09WYepMB-I7AiDjDYR8TjO8uoNjs
     twitter: ReactiveConf
-    youtube:
+    youtube: UCBHdUnixTWymmXBIw12Y8Qg
     website: https://2017.reactiveconf.com/
   date:
     from: 2017-10-25

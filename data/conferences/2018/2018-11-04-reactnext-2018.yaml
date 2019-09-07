@@ -8,9 +8,9 @@ conference:
     - react
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLMYVq3z1QxSr3ABOx2gwuD7jBDbWIUdw1
     twitter: ReactNext
-    youtube:
+    youtube: UC3BT8hh3yTTYxbLQy_wbk2w
     website: https://2018.react-next.com/
   date:
     from: 2018-11-04

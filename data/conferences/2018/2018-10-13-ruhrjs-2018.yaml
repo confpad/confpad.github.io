@@ -8,9 +8,9 @@ conference:
     -
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLZQv2lZnFSKffL24eXLBX211ub-m6hgYY
     twitter: ruhrjs
-    youtube:
+    youtube: UC-0xLLbMjs5zANHldhGld-A
     website: https://2018.ruhrjs.de/
   date:
     from: 2018-10-13

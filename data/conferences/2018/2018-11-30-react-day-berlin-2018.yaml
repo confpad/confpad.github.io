@@ -8,9 +8,9 @@ conference:
     - react
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PL-3BrJ5CiIx7P1zDrQJM5FbdUjM1lTIFC
     twitter: reactdayberlin
-    youtube:
+    youtube: UC1EYHmQYBUJjkmL6OtK4rlw
     website: https://reactday.berlin/2018/
   date:
     from: 2018-11-30

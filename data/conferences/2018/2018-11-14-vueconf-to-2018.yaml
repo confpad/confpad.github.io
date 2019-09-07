@@ -8,9 +8,9 @@ conference:
     - vue
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLJNLwTPak6diYxk8TFz9fPWvjsryV2ygv
     twitter: vuetoronto
-    youtube:
+    youtube: UCa1zuotKU4Weuw_fLRnPv0A
     website: https://vuetoronto.com/
   date:
     from: 2018-11-14

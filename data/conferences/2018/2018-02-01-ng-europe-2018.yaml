@@ -8,9 +8,9 @@ conference:
     - angular
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLhc_bKwZngxVQZtyPzGY9dRJOnGP1xVVX
     twitter: NgEurope
-    youtube:
+    youtube: UCEGUP3TJJfMsEM_1y8iviSQ
     website: https://ngeurope.org/
   date:
     from: 2018-02-01

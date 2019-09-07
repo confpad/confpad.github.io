@@ -8,9 +8,9 @@ conference:
     -
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLBzScQzZ83I9c8OjCkL2rBi_-23grnDTF
     twitter: render_conf
-    youtube:
+    youtube: UCmM3eCpmWKLJj2PDW_jdGkg
     website: https://2018.render-conf.com/
   date:
     from: 2018-03-23

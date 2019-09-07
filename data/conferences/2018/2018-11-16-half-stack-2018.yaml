@@ -8,7 +8,7 @@ conference:
     - javascript
     -
   links:
-    playlist:
+    playlist: https://halfstackconf2017.streameventlive.com
     twitter: halfstackconf
     youtube:
     website: https://halfstackconf.com/halfstackconf2018.html

@@ -8,9 +8,9 @@ conference:
     - react
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLeGxIOPLk9ELnUvzPIwEpfb6jHL875FHT
     twitter: nationjs
-    youtube:
+    youtube: UCgRpkkcigKZk52JyAOYNs6w
     website: http://nationjs.com/
   date:
     from: 2018-01-05

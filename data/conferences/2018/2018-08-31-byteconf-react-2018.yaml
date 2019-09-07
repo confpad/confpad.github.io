@@ -8,9 +8,9 @@ conference:
     - react
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLH_Crma-Dc9PRM7KxKerImYGUY22wkR3Z
     twitter: byteconf
-    youtube:
+    youtube: UC046lFvJZhiwSRWsoH8SFjg
     website: https://www.byteconf.com/react-2018/
   date:
     from: 2018-08-31

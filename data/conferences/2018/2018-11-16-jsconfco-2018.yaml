@@ -8,9 +8,9 @@ conference:
     -
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=UUIK8anLUIq0PHurZzNWe6IQ
     twitter: jsconfco
-    youtube:
+    youtube: UCIK8anLUIq0PHurZzNWe6IQ
     website: https://jsconf.co/#home
   date:
     from: 2018-11-16

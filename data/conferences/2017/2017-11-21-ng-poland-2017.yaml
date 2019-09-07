@@ -8,9 +8,9 @@ conference:
     - angular
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLYJFRoKhU5SM4EwP7CdVfQeSrNFDM5ygl
     twitter: ngPolandConf
-    youtube:
+    youtube: UC55UiwMH_7PVcKrkriXSHuw
     website: https://ng-poland.pl/index2017.html
   date:
     from: 2017-11-21

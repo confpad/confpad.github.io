@@ -8,9 +8,9 @@ conference:
     - angular
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLAw7NFdKKYpGr_je48akFwcw8tYUk4nzl
     twitter: angularconnect
-    youtube:
+    youtube: UCzrskTiT_ObAk3xBkVxMz5g
     website: https://past.angularconnect.com/2018/
   date:
     from: 2018-11-07

@@ -8,9 +8,9 @@ conference:
     - react
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr
     twitter: reactjs
-    youtube: UCz5vTaEhvh7dOHEyd1efcaQ
+    youtube: UCP_lo1MFyx5IXDeD9s_6nUw
     website: http://conf2015.reactjs.org/
   date:
     from: 2015-01-28

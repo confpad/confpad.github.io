@@ -8,9 +8,9 @@ conference:
     - angular
     -
   links:
-    playlist:
+    playlist: https://www.youtube.com/playlist?list=PL9pV_RwZceNiz7We-yUGBF7mzpB8DxHhs
     twitter: ngbeconf
-    youtube:
+    youtube: UCnMfZM2S3QgbFvOyet5PMmQ
     website: https://ng-be.org/
   date:
     from: 2018-12-06
