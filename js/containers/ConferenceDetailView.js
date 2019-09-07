@@ -38,7 +38,7 @@ class ConferenceDetailView extends Component {
       ${conferenceDetail.isFetching && html`
         <${LoadingSpinner} />
       `}
-      
+
       ${conference && html`
           <div>
             <${Navigation} conference=${conference} />
@@ -46,7 +46,7 @@ class ConferenceDetailView extends Component {
             <${GitHubLink} conferenceId=${conference.id} />
           </div>
        `}
-      
+
       ${conferenceDetail.talks && html`
         <ul class="list ma0 pa0">
           ${conferenceDetail.talks.map(talk => html`
@@ -56,7 +56,7 @@ class ConferenceDetailView extends Component {
           `)}
         </ul>
       `}
-      
+
       ${conferenceDetail.error && html`
         <${ErrorMessage} message="${conferenceDetail.error}" />
       `}

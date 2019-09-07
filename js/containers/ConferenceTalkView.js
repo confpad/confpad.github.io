@@ -38,23 +38,23 @@ class ConferenceTalkView extends Component {
     return html`
       <main class="mt4">
         <${Navigation} conference=${conference} talk=${talk} />
-        
+
         ${conferenceDetail.isFetching && html`
           <${LoadingSpinner} />
         `}
-        
+
         ${talk && talk.videos && talk.videos.map(url => {
           return html`<${ConferenceTalkVideo} url=${url} />`;
         })}
-        
+
         ${talk && html`
           <${ConferenceTalk} conference=${conference} talk=${talk} showTitle=${false} />
         `}
-        
+
         ${conferenceDetail.error && html`
           <${ErrorMessage} message="${conferenceDetail.error}" />
         `}
-        
+
         ${talk && html`
           <${GitHubLink} conferenceId=${conference.id} />
         `}

@@ -37,7 +37,7 @@ class ConferenceListView extends Component {
         ${conferenceList.isFetching && html`
           <${LoadingSpinner} />
         `}
-        
+
         ${conferenceList.data && html`
           <ul class="list ma0 pa0">
             ${conferenceList.data.map(conference => html`
@@ -47,7 +47,7 @@ class ConferenceListView extends Component {
             `)}
           </ul>
         `}
-        
+
         ${conferenceList.error && html`
           <${ErrorMessage} message="${conferenceList.error}" />
         `}
