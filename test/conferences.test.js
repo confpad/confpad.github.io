@@ -9,6 +9,7 @@ const {
   INFO_STATUS_COMPLETE,
   INFO_STATUS_INCOMPLETE,
   REGEX_ID_YOUTUBE_CHANNEL,
+  REGEX_URL_YOUTUBE_PLAYLIST,
   REGEX_URL_YOUTUBE,
   REGEX_URL_VIMEO,
 } = require('../js/utils/utils-node');
@@ -119,6 +120,7 @@ glob.sync(testGlob).forEach(file => {
 
     it('contains valid playlist URL', () => {
       conference.links.playlist && expect(conference.links.playlist.match(REGEX_URL)).not.toBeNull();
+      conference.links.playlist && conference.links.playlist.includes('www.youtube.com') && expect(conference.links.playlist.match(REGEX_URL_YOUTUBE_PLAYLIST)).not.toBeNull();
     });
 
     it('contains valid Twitter account ID', () => {

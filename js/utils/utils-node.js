@@ -9,6 +9,9 @@ module.exports.INFO_STATUS_INCOMPLETE = 'incomplete';
 module.exports.REGEX_ID_YOUTUBE_CHANNEL =
   /^[a-zA-Z0-9_-]{24}$/;
 
+module.exports.REGEX_URL_YOUTUBE_PLAYLIST =
+  /^https:\/\/www\.youtube\.com\/playlist\?list=([a-zA-Z0-9_-]{34})$/;
+
 // SYNC_REGEX_URL_YOUTUBE
 module.exports.REGEX_URL_YOUTUBE =
   /^https:\/\/youtu\.be\/([a-zA-Z0-9_-]{11})$/;
