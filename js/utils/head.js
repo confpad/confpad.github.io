@@ -37,6 +37,7 @@ export const updateMetaTitles = (title, documentTitle) => {
 };
 
 export const updateMetaDescriptions = description => {
+  description = description || '';
   updateMeta(META_DESCRIPTIONS, description.substr(0, 300));
 };
 

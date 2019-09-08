@@ -42,7 +42,7 @@ class ConferenceListView extends Component {
           <ul class="list ma0 pa0">
             ${conferenceList.data.map(conference => html`
               <li class="mv4">
-                <${ConferenceInfo} conference=${conference} showFullDescription=${false} />
+                <${ConferenceInfo} conference=${conference} showWebsite=${false} showFullDescription=${false} />
               </li>
             `)}
           </ul>

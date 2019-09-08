@@ -66,7 +66,7 @@ const getDescription = (description, showFullDescription) => {
   `;
 };
 
-const ConferenceInfo = ({ conference, showTitle = true, showFullDescription = true }) => {
+const ConferenceInfo = ({ conference, showTitle = true, showWebsite = true, showFullDescription = true }) => {
   let link = getConferenceDetailLink(conference.id);
 
   return html`
@@ -75,7 +75,7 @@ const ConferenceInfo = ({ conference, showTitle = true, showFullDescription = tr
       <div class="truncate">
         ${conference.date && getDate(conference.date.from, conference.date.to)}
         ${conference.location && getLocation(conference.location)}
-        ${conference.links.website && getLink(conference.links.website)}
+        ${showWebsite && conference.links.website && getLink(conference.links.website)}
       </div>
       ${getDescription(conference.description, showFullDescription)}
     </div>`

@@ -28,6 +28,8 @@ class ConferenceTalkView extends Component {
     let conference = conferenceDetail.conference;
     let talk = conferenceDetail.talks.find(item => item.id === talkId);
 
+
+
     if (conference && talk) {
       updateMetaUrls(`https://confpad.io/${conference.id}/${talk.id}`);
       updateMetaTitles(`${talk.title} | ${conference.name} | ConfPad`);
