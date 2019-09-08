@@ -60,6 +60,16 @@ generate-youtube-channels-json: build-image
 	  $(IMAGE_NAME) \
 	  node ./tools/generate-youtube-channels-json.js
 
+# Generate /data/youtube-playlists.json
+.PHONY: generate-youtube-playlists-json
+generate-youtube-playlists-json: build-image
+	> data/youtube-playlists.json
+	docker run -t --rm \
+	  --workdir $(TARGET_DIR) \
+	  --mount type=bind,source=$(CURDIR),target=$(TARGET_DIR) \
+	  $(IMAGE_NAME) \
+	  node ./tools/generate-youtube-playlists-json.js
+
 # Build Docker image for tests and tooling
 .PHONY: build-image
 build-image:
