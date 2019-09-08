@@ -1,6 +1,6 @@
 # Main build target
 .PHONY: build
-build: pre-build test generate-conferences-json generate-sitemap generate-youtube-channels-json
+build: pre-build test generate-conferences-json generate-sitemap generate-youtube-channels-json generate-youtube-playlists-json
 
 # Instal node packages
 .PHONY: pre-build
