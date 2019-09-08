@@ -8,7 +8,7 @@ conference:
     -
     -
   links:
-    playlist: https://www.youtube.com/playlist?list=UUIK8anLUIq0PHurZzNWe6IQ
+    playlist: https://www.youtube.com/playlist?list=PL9pxtKnZMKErsjly4HFVAavaHApFNx0Y_
     twitter: jsconfco
     youtube: UCIK8anLUIq0PHurZzNWe6IQ
     website: https://jsconf.co/#home
@@ -268,6 +268,7 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/EyCbMIo-up0
     description: |-
 
   - title: De 2D a 3D" cómo diseñar interfaces de usuario en Realidad Virtual"
@@ -296,6 +297,7 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/LTBEIdc712o
     description: |-
 
   - title: Tracing Node. The Open Source Edition
@@ -309,6 +311,7 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/DuJBB-OVq18
     description: |-
 
   - title: Automated Testing for the Modern Web
@@ -322,6 +325,7 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/ggJ1-ChxHrQ
     description: |-
 
   - title: How I ended up automating my curtains and shouting at my laptop
@@ -335,6 +339,7 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/FiJTDwCPYVw
     description: |-
 
   - title: To see what others can not... You must climb the mountain, A Introduction to Load Testing
@@ -348,6 +353,7 @@ talks:
         website:
     slides:
     videos:
+      - https://youtu.be/raqdtZX8Jos
     description: |-
 
   - title: Speed, Speed, Speed" JavaScript vs C++ vs WebAssembly"
