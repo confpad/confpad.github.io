@@ -100,6 +100,39 @@ const getVideo = video => html`
   </div>
 `;
 
+const getSlidesSummary = slides => {
+  let count = 0;
+
+  if (slides) {
+    count = slides.length;
+  }
+
+  let noun = count ===1 ? 'slide deck' : 'slide decks';
+
+  return slides && html`
+    <li class="${CLASS_LINE_INFO_DISPLAY} ${CLASS_LINE_INFO_MV} ${CLASS_LINE_INFO_MR}">
+      📝 ${count} ${noun}
+    </li>
+  `;
+};
+
+const getVideoSummary = videos => {
+  let count = 0;
+
+  if (videos) {
+    count = videos.length;
+  }
+
+  let noun = count ===1 ? 'video' : 'videos';
+
+
+  return html`
+    <li class="${CLASS_LINE_INFO_DISPLAY} ${CLASS_LINE_INFO_MV} ${CLASS_LINE_INFO_MR}">
+      📹 ${count} ${noun}
+    </li>
+  `;
+};
+
 const getDescription = (description, isTalk) => {
   let descriptionShort = description.substr(0, DESCRIPTION_LIMIT);
   let useShort = !isTalk && descriptionShort.length < description.length;
@@ -111,7 +144,7 @@ const getDescription = (description, isTalk) => {
   `;
 };
 
-const ConferenceTalk = ({ conference, talk, showTitle = true, showFullDescription = true }) => {
+const ConferenceTalk = ({ conference, talk, showTitle = true, showDetails = true, showFullDescription = true }) => {
   let link = getConferenceTalkLink(conference.id, talk.id);
 
   return html`
@@ -119,7 +152,7 @@ const ConferenceTalk = ({ conference, talk, showTitle = true, showFullDescriptio
       ${getTitle(talk.title, talk.type, link, showTitle)}
       <div class="bl ml2 pl2 bw1 b--light-gray">
         ${getTime(talk.time)}
-        ${talk.authors && talk.authors.map(author => html`
+        ${showDetails && talk.authors && talk.authors.map(author => html`
           <ul class="list ma0 pa0 truncate" itemprop="author" itemscope itemtype="http://schema.org/Person">
             ${author.name && getAuthorName(author.name)}
             ${author.twitter && getAuthorTwitter(author.twitter)}
@@ -127,8 +160,18 @@ const ConferenceTalk = ({ conference, talk, showTitle = true, showFullDescriptio
             ${author.website && getAuthorWebsite(author.website)}
           </ul>
         `)}
-        ${talk.slides && talk.slides.map(slides => getSlides(slides))}
-        ${talk.videos && talk.videos.map(video => getVideo(video))}
+        
+        ${!showDetails && html`
+          <ul class="list ma0 pa0 truncate">
+            ${talk.videos && getVideoSummary(talk.videos)}
+            ${talk.videos && getSlidesSummary(talk.slides)}
+            ${talk.authors && talk.authors.map(author => html`
+                ${author.name && getAuthorName(author.name)}
+            `)}
+          </ul>
+        `}
+        ${showDetails && talk.slides && talk.slides.map(slides => getSlides(slides))}
+        ${showDetails && talk.videos && talk.videos.map(video => getVideo(video))}
         ${talk.description && getDescription(talk.description, showFullDescription)}
       </div>
     </div>`

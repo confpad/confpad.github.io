@@ -51,7 +51,7 @@ class ConferenceDetailView extends Component {
         <ul class="list ma0 pa0">
           ${conferenceDetail.talks.map(talk => html`
             <li class="mv4">
-              <${ConferenceTalk} conference=${conference} talk=${talk} showFullDescription=${false} />
+              <${ConferenceTalk} conference=${conference} talk=${talk} showDetails=${false} showFullDescription=${false} />
             </li>
           `)}
         </ul>
