@@ -1,0 +1,5 @@
+/data/youtube-channels.json
+  Access-Control-Allow-Origin: *
+
+/data/youtube-playlists.json
+  Access-Control-Allow-Origin: *
