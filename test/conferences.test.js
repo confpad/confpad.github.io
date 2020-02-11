@@ -32,6 +32,7 @@ const INFO_TAGS_VALUES = [
   'general',
   'graphql',
   'ios',
+  'java',
   'javascript',
   'laravel',
   'machinelearning',
