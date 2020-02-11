@@ -5,9 +5,13 @@ conference:
   series: javafest.com.ua
   tags:
     - java
+    -
+    -
   links:
+    playlist:
     twitter: javafestUA
-    website: javafest.com.ua/indexe.html
+    youtube:
+    website: https://javafest.com.ua/indexe.html
   date:
     from: 2020-03-21
     to: 2020-03-21
@@ -27,3 +31,7 @@ talks:
       - name: Mario Gray
         twitter: mariogray
         github: Mario5Gray
+        website:
+    slides:
+    videos:
+    description:
