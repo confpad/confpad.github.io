@@ -1,0 +1,37 @@
+conference:
+
+  name: Java Fest 2020
+  status: incomplete
+  series: javafest.com.ua
+  tags:
+    - java
+    -
+    -
+  links:
+    playlist:
+    twitter: javafestUA
+    youtube:
+    website: https://javafest.com.ua/indexe.html
+  date:
+    from: 2020-03-21
+    to: 2020-03-21
+  location:
+    country: Ukraine
+    city: Kyiv
+  description: |-
+    New professional Java event in Ukraine
+
+talks:
+
+  - title: Bootiful Reactive Testing
+    lang: en
+    type: regular
+    time: 
+    authors:
+      - name: Mario Gray
+        twitter: mariogray
+        github: Mario5Gray
+        website:
+    slides:
+    videos:
+    description:
