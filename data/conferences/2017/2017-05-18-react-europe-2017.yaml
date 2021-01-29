@@ -52,7 +52,7 @@ talks:
     description: |-
       Dominic will talk about what makes inferno’s so fast and how he and the team are bringing this experience to react.
 
-  - title: What I Learned Benchmarking React
+  - title: Building High-Quality JavaScript Tools
     lang: en
     type: regular
     time: 2017-05-18
@@ -157,7 +157,7 @@ talks:
     description: |-
       If only React Native apps could be highly extensible- such that a single experience within an app could be published and installed into other apps. If your screens are built with sufficient isolation, they can be portable between apps, platforms, and navigation implementations. In this talk, we will discuss how this ultimate modularity can be achieved simply by utilizing reducers and single-directional data flow. Then we will use React Navigation to quickly build a new experience with these techniques, and see how portable it really is.
 
-  - title: Maximally Modular Apps with React Navigation
+  - title: How Streaming Can Supercharge React
     lang: en
     type: regular
     time: 2017-05-18
