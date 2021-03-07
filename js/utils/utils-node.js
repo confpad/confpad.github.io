@@ -40,7 +40,7 @@ module.exports.getJSON = file => {
 
   // Convert YAML to JS object
   try {
-    return jsyaml.load(conferencesYamlString);
+    return jsyaml.safeLoad(conferencesYamlString);
   } catch (error) {
     console.error(error.message);
   }
