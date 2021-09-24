@@ -9,7 +9,7 @@ develop: generate-conferences-json
 	  --mount type=bind,source=$(CURDIR),target=$(TARGET_DIR) \
 	  --publish 127.0.0.1:8080:80 \
 	  php:7.3-cli-alpine \
-	  php -S 0.0.0.0:80
+	  php -S localhost:8084
 
 # Run tests
 .PHONY: test
