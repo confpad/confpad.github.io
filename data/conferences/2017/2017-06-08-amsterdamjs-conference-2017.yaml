@@ -2,16 +2,16 @@ conference:
 
   name: AmsterdamJS Conference 2017
   status: complete
-  series: amsterdamjs.com
+  series: jsnation.com
   tags:
     - javascript
     -
     -
   links:
     playlist: https://www.youtube.com/playlist?list=PLfIM4SvaiIyzaLhvwGEa4QzPb9oTD0Ioc
-    twitter: amsterdamjs
+    twitter: thejsnation
     youtube: UCQM428Hwrvxla8DCgjGONSQ
-    website: https://amsterdamjs.com/2017/
+    website: https://jsnation.com/2017/
   date:
     from: 2017-06-08
     to: 2017-06-08
