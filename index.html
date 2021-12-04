@@ -101,23 +101,15 @@
 <!-- Init app -->
 <script type="module" src="/js/components/App.js"></script>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Plausible -->
 <script>
   (() => {
     if (window.location.hostname === 'confpad.io') {
-      const ID = 'UA-129787503-1';
-
-      // Load GTM
-      let script = document.createElement('script');
-      script.async = true;
-      script.src = `https://www.googletagmanager.com/gtag/js?id=${ID}`;
+      let scriptEl = document.createElement('script');
+      scriptEl.defer = true;
+      scriptEl.dataset.domain = 'confpad.io';
+      scriptEl.src = 'https://plausible.io/js/plausible.js';
       document.head.appendChild(script);
-
-      // Configure GTM
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', ID);
     }
   })()
 </script>
