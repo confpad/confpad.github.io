@@ -218,19 +218,6 @@ talks:
       - https://halfstackconf2017.streameventlive.com/archive/13
     description: |-
 
-  - title: Unidirectional data flows and WebGL
-    lang: en
-    type: regular
-    time: 2017-11-17
-    authors:
-      - name: Alvin Ourrad
-        twitter: alvinsight
-        github:
-        website:
-    slides:
-    videos:
-    description: |-
-
   - title: How to be a Web AV Artist
     lang: en
     type: regular
